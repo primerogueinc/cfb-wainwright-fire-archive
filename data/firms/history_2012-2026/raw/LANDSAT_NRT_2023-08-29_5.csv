@@ -1,0 +1,3 @@
+latitude,longitude,path,row,scan,track,acq_date,acq_time,satellite,confidence,daynight
+52.823036,-110.854492,041,023,5824,5074,2023-08-29,1823,L8,H,D
+52.823306,-110.854491,041,023,5824,5073,2023-08-29,1823,L8,H,D

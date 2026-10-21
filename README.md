@@ -12,6 +12,7 @@ The goal is a record anyone can check: every raw file is kept unaltered, hashed,
 | `data/firms/detections.csv` | All detections merged and de-duplicated, with UTC and local (MDT) times. | Automatically |
 | `data/firms/detections.geojson` | The same detections as a map (GitHub renders it). | Automatically |
 | `data/firms/manual_downloads_v2/` | Prime Rogue's first evidence package: hand-downloaded FIRMS KMZ/KML files from Oct. 17–18, preserved byte-for-byte with their original README and checksums. | Fixed (archival) |
+| `data/firms/history_2012-2026/` | Every FIRMS detection around the site since 2012 (raw API responses, logs, merged table, yearly summary): fire on this part of the range is routine, including in October. | Fixed (archival) |
 | `data/goes/` | GOES-18/19 loops of Oct 17 (11 a.m.–7 p.m. MDT): red visible, true colour, Fire Temperature RGB, Dust RGB (MP4 + GIF), key stills, and `fire_timeline.csv/.png` (cloud cover, 3.9 µm heat and NOAA fire power over the base every 10 minutes). | On demand |
 | `data/goes/early_subsets_goes18/` | First GOES-18 analysis (Oct. 18–19): band subsets, extraction/render code, and the early published frames and loop. | Fixed (archival) |
 | `data/noaa_hms/` | NOAA Hazard Mapping System fire points and smoke outlines, Oct. 13–18 (originals), with a summary of points near the base and a smoke-coverage check. | Fixed (archival) |
