@@ -1,0 +1,33 @@
+name: Refetch reference data
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - run: pip install --quiet geopandas pyogrio shapely pandas opentimestamps-client
+      - run: python3 scripts/refetch_reference_data.py
+      - name: Manifest, timestamp, commit
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/reference
+          if git diff --cached --quiet; then exit 0; fi
+          m=data/manifests/reference_$(date -u +%Y%m%dT%H%M%SZ).sha256
+          find data/reference -type f -not -path '*/cache/*' | sort | xargs sha256sum > "$m"
+          ots stamp "$m" || true
+          git add data/reference data/manifests
+          git commit -m "Reference data re-fetched: $(date -u +%Y-%m-%dT%H:%MZ)"
+          for i in 1 2 3; do git pull --rebase && git push && exit 0; sleep 15; done
+          exit 1
