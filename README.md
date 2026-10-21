@@ -13,6 +13,7 @@ The goal is a record anyone can check: every raw file is kept unaltered, hashed,
 | `data/firms/detections.geojson` | The same detections as a map (GitHub renders it). | Automatically |
 | `data/firms/manual_downloads_v2/` | Prime Rogue's first evidence package: hand-downloaded FIRMS KMZ/KML files from Oct. 17–18, preserved byte-for-byte with their original README and checksums. | Fixed (archival) |
 | `data/goes/` | GOES-18/19 loops of Oct 17 (11 a.m.–7 p.m. MDT): red visible, true colour, Fire Temperature RGB, Dust RGB (MP4 + GIF), key stills, and `fire_timeline.csv/.png` (cloud cover, 3.9 µm heat and NOAA fire power over the base every 10 minutes). | On demand |
+| `data/goes/early_subsets_goes18/` | First GOES-18 analysis (Oct. 18–19): band subsets, extraction/render code, and the early published frames and loop. | Fixed (archival) |
 | `data/copernicus/` | Burn scar from Copernicus Sentinel-2 (dNBR, before/after), with NASA FIRMS and NOAA GOES detections overlaid: `burn_scar_map.png`, `before_after.png`, `burn_scar.geojson`, `fire_progression.geojson` (opens as a map on GitHub), `dnbr.tif`, `summary.json`. | Automatically, daily (when a clearer scene appears) |
 | `data/manifests/` | SHA-256 manifests of each batch of new raw files, plus `.ots` timestamp proofs. | Automatically |
 | `atip/` | Records released under the *Access to Information Act* and Alberta's *Access to Information Act*. | Within 72 hours of receipt |
