@@ -35,7 +35,9 @@ ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "data" / "copernicus"
 STAC = "https://earth-search.aws.element84.com/v1/search"
 
-AOI = dict(west=-111.15, east=-110.70, south=52.66, north=52.90)
+# Kept inside Sentinel-2 tile 12UWD (which starts at ~111.0°W here) so every scene shares one grid.
+AOI = dict(west=-110.99, east=-110.70, south=52.66, north=52.90)
+TILE = ("12", "U", "WD")
 SEARCH_FROM = "2026-09-01"
 FIRE_DATE = date(2026, 10, 17)
 DNBR_BURNED = 0.10      # USGS: 0.10-0.27 low severity
@@ -53,7 +55,8 @@ def stac_search():
     req = urllib.request.Request(STAC, data=json.dumps(body).encode(), headers={"Content-Type": "application/json"})
     with urllib.request.urlopen(req, timeout=120) as r:
         feats = json.load(r)["features"]
-    return feats
+    return [f for f in feats if (str(f["properties"].get("mgrs:utm_zone")), f["properties"].get("mgrs:latitude_band"),
+                                 f["properties"].get("mgrs:grid_square")) == TILE]
 
 
 def read_aoi(href, res=20):
@@ -167,6 +170,7 @@ def main() -> int:
         k = r["date"]
         if k not in by_date or (r["coverage"], r["clear_frac"]) > (by_date[k]["coverage"], by_date[k]["clear_frac"]):
             by_date[k] = r
+    diag += [f"{r['date']} cover {r['coverage']:.0%} clear {r['clear_frac']:.0%}" for r in sorted(by_date.values(), key=lambda r: r["date"])]
     recs = [r for r in by_date.values() if r["coverage"] > 0.9]
     diag.append(f"{len(recs)} dates with >90% AOI coverage")
     print("\n".join(diag), flush=True)
