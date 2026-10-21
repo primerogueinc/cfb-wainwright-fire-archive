@@ -1,0 +1,43 @@
+ECCC EDMONTON INTERNATIONAL CS 27793 75586 bytes
+ECCC EDMONTON INTL A 50149 68146 bytes
+ECCC CAMROSE 1839 62194 bytes
+ECCC VEGREVILLE 1977 64426 bytes
+ECCC CORONATION CLIMATE 27212 70378 bytes
+ECCC WAINWRIGHT CFB AIRFIELD 21 26888 76330 bytes
+ECCC LLOYDMINSTER A 50311 67402 bytes
+ECCC LLOYDMINSTER 48550 65914 bytes
+CGNDB names: 100
+canvec50k_transport_near_site blocked_passage_0 35
+canvec50k_transport_near_site railway_station_0 5
+canvec50k_transport_near_site road_junction_0 1635
+canvec50k_transport_near_site road_segment_1_2 2794
+canvec50k_transport_near_site runway_2 17
+canvec50k_transport_near_site track_crossing_0 78
+canvec50k_transport_near_site track_junction_0 68
+canvec50k_transport_near_site track_marker_post_0 43
+canvec50k_transport_near_site track_segment_1 92
+canvec50k_transport_near_site track_structure_1 5
+canvec50k_transport_near_site trail_1 79
+canvec50k_res_mgt_near_site aggregate_2 15
+canvec50k_res_mgt_near_site petroleum_well_0 312
+canvec50k_res_mgt_near_site pipeline_1 24
+canvec50k_res_mgt_near_site power_line_1 21
+canvec50k_res_mgt_near_site transformer_station_0 7
+canvec50k_res_mgt_near_site valve_0 4
+canvec50k_res_mgt_near_site wind_operated_device_0 4
+canvec50k_manmade_near_site building_0 1816
+canvec50k_manmade_near_site building_2 209
+canvec50k_manmade_near_site chimney_0 1
+canvec50k_manmade_near_site dam_1 6
+canvec50k_manmade_near_site landmark_feature_0 6
+canvec50k_manmade_near_site leisure_area_0 7
+canvec50k_manmade_near_site leisure_area_1 1
+canvec50k_manmade_near_site leisure_area_2 6
+canvec50k_manmade_near_site liquid_storage_facility_0 66
+canvec50k_manmade_near_site residential_area_2 8
+canvec50k_manmade_near_site ritual_cultural_area_2 6
+canvec50k_manmade_near_site tank_0 74
+canvec50k_manmade_near_site tower_0 9
+canvec50k_manmade_near_site waste_2 3
+aer_pipelines_near_site Pipelines_GCS_NAD83 3494
+aer_pipelines_near_site Pipelines_NAD83_10TM_AEPForest 3814
