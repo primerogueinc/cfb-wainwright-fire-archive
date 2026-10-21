@@ -50,8 +50,8 @@ CAPTIONS = [
                                "The cold front's cloud line is reaching the base."),
     (mdt(15, 40), mdt(15, 49), "3:40 p.m. — Fire still flagged (336 MW). Front's cloud arriving over the base."),
     (mdt(15, 50), mdt(15, 59), "3:50 p.m. — Thick cloud closes over the base. The satellites lose sight of the fire."),
-    (mdt(16, 0), mdt(16, 9), "4:00 p.m. — DND's stated ignition time. The fire had been visible from space "
-                             "for at least 50 minutes."),
+    (mdt(16, 0), mdt(16, 9), "4:00 p.m. — DND's stated ignition time. Satellites had recorded the fire since "
+                             "12:17 p.m., and NOAA's GOES flagged it 50 minutes earlier."),
     (mdt(16, 10), mdt(16, 29), "Winds shift with the front. Cloud hides the fire from GOES from here on."),
     (mdt(11, 0), mdt(12, 9), "Late morning: a sheet of thin high cloud over the base."),
     (mdt(12, 30), mdt(14, 39), "Early afternoon: the fire is burning on the range (per Landsat/VIIRS) under thin high cloud."),
@@ -153,8 +153,8 @@ def compose(t, vis, fire, pts, path):
         import textwrap
         fig.text(0.02, 0.145, textwrap.fill(cap, 112), fontsize=14.5, color="white", va="top",
                  bbox=dict(boxstyle="round,pad=0.5", fc="#262626", ec="#3a3a3a"))
-    fig.text(0.02, 0.012, "Data: NOAA GOES-18 ABI full-disk scans every 10 min (time = scan start); NOAA Fire Detection "
-                          "product; NASA FIRMS. Red rings = NOAA fire pixels (located to within a few km).",
+    fig.text(0.02, 0.012, "Data: NOAA GOES-18 (10-min scans, time = scan start), NOAA fire product, NASA FIRMS. "
+                          "Red rings = NOAA fire pixels, accurate to a few km.",
              fontsize=8.5, color="#9a9a9a")
     fig.text(0.98, 0.012, "Prime Rogue Inc. · CC BY 4.0", fontsize=9, color="#bdbdbd", ha="right")
     fig.savefig(path, facecolor=fig.get_facecolor())
@@ -198,7 +198,7 @@ def main() -> int:
         img = imageio.imread(path)[:, :, :3]
         reps = max(1, round(seconds_for(t) * FPS))
         frames += [img] * reps
-        gif_frames.append(img[::2, ::2])
+        gif_frames.append(img)
         gif_dur.append(seconds_for(t))
     gif_dur[-1] = 3.0
     frames += [frames[-1]] * (3 * FPS)
