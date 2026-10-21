@@ -12,7 +12,7 @@ Every FIRMS fire detection in a box around the Oct. 17 site (detections fall wit
 **Coverage by sensor:** VIIRS Suomi-NPP standard processing Jan. 2012–June 2026; Landsat 8/9 near-real-time June 2022–Oct. 2026; VIIRS S-NPP, NOAA-20 and NOAA-21 near-real-time July–Oct. 2026; GOES near-real-time Oct. 12–18, 2026. MODIS and VIIRS NOAA-20 standard data were not pulled.
 
 **What it shows**
-- **Fire on this part of the range is routine:** detections on 5 to 19 days every year since 2012, and within 2 km of the Oct. 17 site in 14 of 15 years.
+- **Fire on this part of the range is routine:** detections on 5 to 19 days every year since 2012, and within 2 km of the Oct. 17 site in 13 of 15 years.
 - **October fires are not unusual:** October detections in 12 of 15 years; October 2022 alone had 320 (seven days).
 - The FIRMS GOES series includes a detection at 3:10 p.m. MDT on Oct. 17, 2026 (52.7917°N, 110.9058°W), matching NOAA's fire product in `data/goes/fire_timeline.csv`.
 
