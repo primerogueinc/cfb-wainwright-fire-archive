@@ -1,0 +1,59 @@
+name: GOES loops
+
+# One-off / on-demand: renders GOES-18/19 loops and a fire-intensity
+# timeline for the Oct 17, 2026 fire from NOAA's public archive.
+on:
+  workflow_dispatch:
+    inputs:
+      sats:
+        description: "Satellites (comma-separated)"
+        default: "18,19"
+      start:
+        description: "Start (UTC, YYYY-MM-DDTHH:MM)"
+        default: "2026-10-17T17:00"
+      end:
+        description: "End (UTC, YYYY-MM-DDTHH:MM)"
+        default: "2026-10-18T01:00"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: archive-commit
+  cancel-in-progress: false
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - name: Install
+        run: pip install --quiet numpy h5py h5netcdf fsspec aiohttp pyproj matplotlib imageio imageio-ffmpeg opentimestamps-client
+      - name: Render
+        env:
+          SATS: ${{ github.event.inputs.sats }}
+          START: ${{ github.event.inputs.start }}
+          END: ${{ github.event.inputs.end }}
+        run: python3 scripts/goes_loops.py --sats "$SATS" --start "$START" --end "$END"
+      - name: Manifest and timestamp
+        run: |
+          stamp=$(date -u +%Y%m%dT%H%M%SZ)
+          m=data/manifests/goes_$stamp.sha256
+          find data/goes -type f -not -path '*/work/*' | sort | xargs sha256sum > "$m"
+          ots stamp "$m" || echo "::warning::could not stamp $m"
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/goes data/manifests
+          if git diff --cached --quiet; then echo "Nothing new."; exit 0; fi
+          git commit -m "GOES loops: $START to $END UTC"
+          for i in 1 2 3; do git pull --rebase && git push && exit 0; sleep 10; done
+          exit 1
+        env:
+          START: ${{ github.event.inputs.start }}
+          END: ${{ github.event.inputs.end }}
