@@ -1,0 +1,28 @@
+CFB WAINWRIGHT FIRE: GEOGRAPHY CHECKS (#13), Oct. 19, 2026
+Sources: NRCan Canadian Geographical Names Database (CGNDB, Alberta CSV); NRCan CanVec 1:50K
+(transport, resource management); Alberta Energy Regulator ST37 well list (Oct. 1, 2026) and
+pipeline shapefile (Oct. 11, 2026). Distances from the Oct. 17 detection centroid (52.7767 N, 110.9210 W).
+
+OFFICIAL PLACE NAMES
+- Jamieson Lake (52.755, -110.915): 2.4 km S. This is the saline lake south of the Oct. 17 detections.
+  The Oct. 14 detection (52.7549, -110.9389) is on its west shore.
+- Peterson Pond (52.787, -110.903): 1.7 km NE, at the northeast end of the Oct. 17 VIIRS cluster.
+- Williamson Lake (52.747, -110.888): 4 km SE. The Oct. 18 detections are about 1.5 km east of it.
+- Wainwright Regional Training Area (CGNDB reference point 52.743, -110.881).
+- Mott Lake 4 km N; Hardisty Trail (road) 3 km W; Denwood 5 km NNE; town of Wainwright 7.7 km NE.
+=> The Small Dead Animals blog post (Oct. 17, 10:35 p.m.) named Peterson Pond and Jamieson Lake.
+   Those are exactly the features bracketing the NASA detections. Unverified source, but consistent.
+
+ROADS NEAR THE OCT. 18 DETECTIONS (52.746, -110.866)
+- Between Range Road 65 and Range Road 70 (about 1 km from each); Township Road 440 about 1.1 km.
+- CanVec does not carry the CFB Wainwright boundary. Whether the Oct. 18 point is on or off the base
+  is NOT confirmed by this data. Our earlier wording ("apparently just east of the base boundary")
+  should stay hedged or be checked against a DND/AltaLIS boundary.
+
+OIL AND GAS
+- 55 licensed wells within 5 km of the Oct. 17 site; 415 within 12 km (AER ST37). Nearest: 1.5 km.
+- 14 natural-gas pipeline segments within 3 km (13 operating).
+- No active well within 0.5 km of any detection. Nearest to the Oct. 18 point is a reclamation-
+  certified well 0.56 km away, so gas flaring is an unlikely source of the Oct. 18 heat.
+- Context only: CAF said gas infrastructure is not believed involved; the AER reported no damage
+  (per National Observer). This data does not show any involvement.

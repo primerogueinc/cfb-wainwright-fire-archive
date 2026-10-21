@@ -20,6 +20,7 @@ The goal is a record anyone can check: every raw file is kept unaltered, hashed,
 | `data/nrcan_cwfis/` | NRCan fire-weather station files, Oct. 10–18 (originals), Alberta fire-danger classes, and an extract for stations near the base: Oct. 17 FWI 30.8 at CFB Wainwright, "Extreme". | Fixed (archival) |
 | `data/copernicus/` | Burn scar from Copernicus Sentinel-2 (dNBR, before/after), with NASA FIRMS and NOAA GOES detections overlaid: `burn_scar_map.png`, `before_after.png`, `burn_scar.geojson`, `fire_progression.geojson` (opens as a map on GitHub), `dnbr.tif`, `summary.json`. | Automatically, daily (when a clearer scene appears) |
 | `data/copernicus/manual_exports/` | Sentinel-2 scenes exported by hand from the Copernicus Browser during the first analysis (bands as GeoTIFF, browser views), by date. | Fixed (archival) |
+| `data/derived_tables_oct19-20/` | Working tables from the first analysis, including Prime Rogue's hour-by-hour fire-weather calculation for Oct. 17 (FWI 53.6 at 2 p.m., 59.4 at 3 p.m., 91.4 at 4 p.m.). | Fixed (archival) |
 | `data/manifests/` | SHA-256 manifests of each batch of new raw files, plus `.ots` timestamp proofs. | Automatically |
 | `atip/` | Records released under the *Access to Information Act* and Alberta's *Access to Information Act*. | Within 72 hours of receipt |
 | `docs/` | Methods and verification notes. | As needed |

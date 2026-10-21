@@ -1,0 +1,9 @@
+check noon: ISI 11.6 FWI 30.8 (CWFIS 11.6/30.8)
+1 p.m. MDT: T 20.2 RH 23 wind 15 km/h -> FFMC 91.8 ISI 11.8 FWI 31.1
+2 p.m. MDT: T 22.8 RH 16 wind 30 km/h -> FFMC 92.4 ISI 27.5 FWI 53.6
+3 p.m. MDT: T 23.3 RH 17 wind 32 km/h -> FFMC 92.9 ISI 32.5 FWI 59.4
+4 p.m. MDT (post-front): T 12.9 RH 43 wind 48 km/h -> FFMC 92.3 ISI 66.9 FWI 91.4
+  4 p.m. with gust 50 km/h: ISI 74.0 FWI 96.8
+  4 p.m. with gust 60 km/h: ISI 122.4 FWI 128.8
+  4 p.m. with gust 69 km/h: ISI 192.7 FWI 165.2
+Times: ECCC hourly CSV is in LST (MST, UTC-7); add 1 h for MDT. Method: Van Wagner (1977) hourly FFMC from CWFIS noon FFMC; ISI/FWI standard equations; BUI 77.6 from CWFIS Oct 17. Noon check reproduces CWFIS exactly.
