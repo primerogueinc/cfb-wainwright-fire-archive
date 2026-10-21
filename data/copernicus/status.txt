@@ -1,1 +1,4 @@
-2026-10-21T05:30Z: no clear pre-fire scene
+2026-10-21T05:32Z: no clear pre-fire scene
+25 STAC features; 25 readable
+sample props: eo:cloud_cover=49.042752, mgrs:grid_square=VD, mgrs:latitude_band=U, mgrs:utm_zone=12, proj:centroid={'lat': 52.75327, 'lon': -111.66885}, proj:epsg=32612
+0 dates with >90% AOI coverage
