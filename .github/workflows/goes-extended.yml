@@ -1,0 +1,127 @@
+name: GOES extended run
+
+# Long GOES-18/19 runs split into parallel chunks, then assembled into
+# loops + a fire timeline under data/goes/<label>/.
+on:
+  workflow_dispatch:
+    inputs:
+      label:
+        description: "Output folder name under data/goes/"
+        default: "oct17-18_extended"
+      start:
+        description: "Start (UTC, YYYY-MM-DDTHH:MM)"
+        default: "2026-10-17T06:00"
+      end:
+        description: "End (UTC, YYYY-MM-DDTHH:MM)"
+        default: "2026-10-18T19:00"
+      sats:
+        description: "Satellites (comma-separated)"
+        default: "18,19"
+      chunk_hours:
+        description: "Hours per parallel chunk"
+        default: "3"
+      timeline_only:
+        description: "Fire timeline only (no imagery)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.m.outputs.matrix }}
+    steps:
+      - id: m
+        env:
+          START: ${{ inputs.start }}
+          END: ${{ inputs.end }}
+          SATS: ${{ inputs.sats }}
+          CHUNK: ${{ inputs.chunk_hours }}
+        run: |
+          python3 - <<'PY' >> "$GITHUB_OUTPUT"
+          import json, os
+          from datetime import datetime, timedelta
+          t0 = datetime.fromisoformat(os.environ["START"]); t1 = datetime.fromisoformat(os.environ["END"])
+          step = timedelta(hours=float(os.environ["CHUNK"]))
+          inc = []
+          for sat in os.environ["SATS"].split(","):
+              t, i = t0, 0
+              while t < t1:
+                  e = min(t + step - timedelta(minutes=1), t1)
+                  inc.append({"sat": sat.strip(), "start": t.strftime("%Y-%m-%dT%H:%M"),
+                              "end": e.strftime("%Y-%m-%dT%H:%M"), "idx": i})
+                  t += step; i += 1
+          print("matrix=" + json.dumps({"include": inc}))
+          PY
+
+  render:
+    needs: plan
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    strategy:
+      fail-fast: false
+      max-parallel: 20
+      matrix: ${{ fromJson(needs.plan.outputs.matrix) }}
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - run: pip install --quiet numpy h5py h5netcdf fsspec aiohttp pyproj matplotlib imageio imageio-ffmpeg
+      - name: Render chunk
+        env:
+          TL: ${{ inputs.timeline_only && '--timeline-only' || '' }}
+        run: |
+          python3 scripts/goes_loops.py --sats "${{ matrix.sat }}" --start "${{ matrix.start }}" \
+            --end "${{ matrix.end }}" --frames-dir frames --no-assemble --workers 16 $TL
+      - uses: actions/upload-artifact@v4
+        with:
+          name: frames-g${{ matrix.sat }}-${{ matrix.idx }}
+          path: frames
+          retention-days: 14
+
+  assemble:
+    needs: render
+    if: always()
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    concurrency:
+      group: archive-commit
+      cancel-in-progress: false
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - run: pip install --quiet numpy h5py h5netcdf fsspec aiohttp pyproj matplotlib imageio imageio-ffmpeg opentimestamps-client
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: frames-*
+          path: chunks
+      - name: Assemble
+        env:
+          LABEL: ${{ inputs.label }}
+        run: python3 scripts/goes_loops.py --label "$LABEL" --assemble-from chunks/*
+      - name: Manifest and timestamp
+        env:
+          LABEL: ${{ inputs.label }}
+        run: |
+          m=data/manifests/goes_${LABEL}_$(date -u +%Y%m%dT%H%M%SZ).sha256
+          find "data/goes/$LABEL" -type f | sort | xargs sha256sum > "$m"
+          ots stamp "$m" || echo "::warning::could not stamp $m"
+      - name: Commit
+        env:
+          LABEL: ${{ inputs.label }}
+          START: ${{ inputs.start }}
+          END: ${{ inputs.end }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "data/goes/$LABEL" data/manifests
+          if git diff --cached --quiet; then echo "Nothing new."; exit 0; fi
+          git commit -m "GOES $LABEL: $START to $END UTC"
+          for i in 1 2 3; do git pull --rebase && git push && exit 0; sleep 15; done
+          exit 1
