@@ -168,7 +168,7 @@ def canvec():
 
 def aer_pipelines():
     z = cached("https://static.aer.ca/prd/data/pipeline/Pipelines_SHP.zip", "aer_pipelines.zip")
-    clip_shapefiles(z, "aer_pipelines_near_site", pattern=r"GCS|NAD83|\.shp$")
+    clip_shapefiles(z, "aer_pipelines_near_site", pattern=r"GCS")  # one projection only (the 10TM copy duplicates it)
 
 
 def main() -> int:
