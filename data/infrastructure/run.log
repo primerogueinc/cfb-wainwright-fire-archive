@@ -1,5 +1,7 @@
 ST37 links: ['https://www.aer.ca/prd/documents/sts/st37/ST37_Shapefiles.zip']
 surface-hole shapefile: /home/runner/work/cfb-wainwright-fire-archive/cfb-wainwright-fire-archive/data/infrastructure/cache/st37/SHP/ST37_SurfaceHole_NAD83_10TM_AEP.shp
+wells in box: 3038; columns: ['OBJECTID', 'Well_Lic', 'Licensee', 'Lic_Status', 'Status_Dat', 'Ground_Ele', 'Spud_Date', 'Fin_Drill', 'EDCT', 'SH_Lat', 'SH_Long', 'geometry']
+sample: {'OBJECTID': 382, 'Well_Lic': '0000397', 'Licensee': 'Pine Cliff Energy Ltd.', 'Lic_Status': 'Abandoned', 'Status_Dat': '07/24/2022', 'Ground_Ele': 701.3, 'Spud_Date': '19490731', 'Fin_Drill': '19491106', 'EDCT': 'BWL historic wells', 'SH_Lat': 52.96526, 'SH_Long': -111.20395}
 {
   "scar_source": {
     "pre_scene": "S2C_12UWD_20261004_0_L2A",
@@ -49,13 +51,74 @@ surface-hole shapefile: /home/runner/work/cfb-wainwright-fire-archive/cfb-wainwr
   "possible_oct14_burn_km2": 0.57,
   "wells": {
     "source": "https://www.aer.ca/prd/documents/sts/st37/ST37_Shapefiles.zip",
-    "inside_any_scar_patch": 0,
-    "inside_main_run": 0,
-    "nearest_to_main_run": [],
+    "inside_any_scar_patch": 2,
+    "inside_main_run": 2,
+    "nearest_to_main_run": [
+      {
+        "Licensee": "Obsidian Energy Ltd.",
+        "Lic_Status": "RecCertified",
+        "Status_Dat": "03/28/2010",
+        "category": "abandoned/reclaimed",
+        "dist_to_main_scar_m": 0.0
+      },
+      {
+        "Licensee": "Sequoia Resources Corp.",
+        "Lic_Status": "Abandoned",
+        "Status_Dat": "01/16/2026",
+        "category": "abandoned/reclaimed",
+        "dist_to_main_scar_m": 0.0
+      },
+      {
+        "Licensee": "Sequoia Resources Corp.",
+        "Lic_Status": "Abandoned",
+        "Status_Dat": "01/16/2026",
+        "category": "abandoned/reclaimed",
+        "dist_to_main_scar_m": 3.0
+      },
+      {
+        "Licensee": "Sumerian Oil & Gas Inc.",
+        "Lic_Status": "Issued",
+        "Status_Dat": "06/10/1999",
+        "category": "other/unknown",
+        "dist_to_main_scar_m": 92.0
+      },
+      {
+        "Licensee": "Sumerian Oil & Gas Inc.",
+        "Lic_Status": "Issued",
+        "Status_Dat": "06/15/1999",
+        "category": "other/unknown",
+        "dist_to_main_scar_m": 99.0
+      },
+      {
+        "Licensee": "Sumerian Oil & Gas Inc.",
+        "Lic_Status": "Abandoned",
+        "Status_Dat": "06/16/2017",
+        "category": "abandoned/reclaimed",
+        "dist_to_main_scar_m": 124.0
+      },
+      {
+        "Licensee": "Sumerian Oil & Gas Inc.",
+        "Lic_Status": "Issued",
+        "Status_Dat": "05/27/1999",
+        "category": "other/unknown",
+        "dist_to_main_scar_m": 216.0
+      },
+      {
+        "Licensee": "Sumerian Oil & Gas Inc.",
+        "Lic_Status": "Issued",
+        "Status_Dat": "07/04/2002",
+        "category": "other/unknown",
+        "dist_to_main_scar_m": 273.0
+      }
+    ],
     "producing_gas_within_1km": 0,
     "producing_gas_within_2km": 0,
-    "any_well_within_500m": 0,
-    "categories_within_5km": {}
+    "any_well_within_500m": 9,
+    "categories_within_5km": {
+      "abandoned/reclaimed": 55,
+      "other/unknown": 35,
+      "suspended": 19
+    }
   },
   "osm": {
     "source": "https://overpass-api.de/api/interpreter",
@@ -69,32 +132,157 @@ surface-hole shapefile: /home/runner/work/cfb-wainwright-fire-archive/cfb-wainwr
     "main_run_pct_inside_osm_military_landuse": 91.4,
     "town_centre_to_main_run_km": 6.1
   },
+  "osm_military_features_nearest": [
+    {
+      "name": "CFB Wainwright",
+      "military": "",
+      "osm_id": "way/160664896",
+      "dist_to_main_run_km": 0.0
+    },
+    {
+      "name": "Permanent Danger Area 2",
+      "military": "danger_area",
+      "osm_id": "way/1228355628",
+      "dist_to_main_run_km": 0.0
+    },
+    {
+      "name": "Range 2 (Grenade)",
+      "military": "range",
+      "osm_id": "way/1240048250",
+      "dist_to_main_run_km": 0.0
+    },
+    {
+      "name": "Range 3",
+      "military": "range",
+      "osm_id": "way/1240048248",
+      "dist_to_main_run_km": 0.0
+    },
+    {
+      "name": "Range 4",
+      "military": "range",
+      "osm_id": "way/1240048247",
+      "dist_to_main_run_km": 0.41
+    },
+    {
+      "name": "Range 5",
+      "military": "range",
+      "osm_id": "way/1240048246",
+      "dist_to_main_run_km": 0.44
+    },
+    {
+      "name": "Range 6",
+      "military": "range",
+      "osm_id": "way/230261025",
+      "dist_to_main_run_km": 0.51
+    },
+    {
+      "name": "Range 11",
+      "military": "range",
+      "osm_id": "way/1240048252",
+      "dist_to_main_run_km": 0.59
+    },
+    {
+      "name": "Range 13",
+      "military": "range",
+      "osm_id": "way/1240048253",
+      "dist_to_main_run_km": 0.7
+    },
+    {
+      "name": "Range 8",
+      "military": "range",
+      "osm_id": "way/210214514",
+      "dist_to_main_run_km": 0.74
+    },
+    {
+      "name": "Range 14",
+      "military": "range",
+      "osm_id": "way/1240048254",
+      "dist_to_main_run_km": 1.04
+    },
+    {
+      "name": "Range 10 (Mobile Targets)",
+      "military": "range",
+      "osm_id": "way/1240048251",
+      "dist_to_main_run_km": 1.13
+    },
+    {
+      "name": "Permanent Danger Area 3A F2",
+      "military": "danger_area",
+      "osm_id": "way/1228353613",
+      "dist_to_main_run_km": 1.14
+    },
+    {
+      "name": "Range 19",
+      "military": "range",
+      "osm_id": "way/1240048255",
+      "dist_to_main_run_km": 2.22
+    },
+    {
+      "name": "Range 22",
+      "military": "range",
+      "osm_id": "way/1240048256",
+      "dist_to_main_run_km": 2.29
+    },
+    {
+      "name": "Cattalo",
+      "military": "",
+      "osm_id": "way/1228355388",
+      "dist_to_main_run_km": 2.57
+    },
+    {
+      "name": "Range Control",
+      "military": "checkpoint",
+      "osm_id": "way/1228481257",
+      "dist_to_main_run_km": 2.76
+    },
+    {
+      "name": "Gas Hut",
+      "military": "training_area",
+      "osm_id": "way/1228481256",
+      "dist_to_main_run_km": 2.8
+    },
+    {
+      "name": "Range 21",
+      "military": "range",
+      "osm_id": "way/1240048257",
+      "dist_to_main_run_km": 3.42
+    },
+    {
+      "name": "",
+      "military": "range",
+      "osm_id": "way/1236333861",
+      "dist_to_main_run_km": 3.99
+    },
+    {
+      "name": "Permanent Danger Area 3B H2",
+      "military": "danger_area",
+      "osm_id": "way/1228133643",
+      "dist_to_main_run_km": 6.04
+    },
+    {
+      "name": "Permanent Danger Area 3A F1",
+      "military": "danger_area",
+      "osm_id": "way/1240045286",
+      "dist_to_main_run_km": 6.19
+    },
+    {
+      "name": "Lost Hill",
+      "military": "",
+      "osm_id": "way/1228353615",
+      "dist_to_main_run_km": 6.88
+    },
+    {
+      "name": "Camp P4",
+      "military": "",
+      "osm_id": "way/1228133654",
+      "dist_to_main_run_km": 7.19
+    },
+    {
+      "name": "Permanent Danger Area 3B H1",
+      "military": "danger_area",
+      "osm_id": "way/1236331932",
+      "dist_to_main_run_km": 7.21
+    }
+  ],
   "notes": "Well status categories are derived from ST37 text fields; check individual wells before publishing. OSM coverage of pipelines is incomplete; AER's full pipeline layer is a paid product. Base boundary from OSM military land use, not a DND survey."
 }
-Traceback (most recent call last):
-  File "/home/runner/work/cfb-wainwright-fire-archive/cfb-wainwright-fire-archive/scripts/infrastructure_map.py", line 387, in <module>
-    sys.exit(main())
-             ^^^^^^
-  File "/home/runner/work/cfb-wainwright-fire-archive/cfb-wainwright-fire-archive/scripts/infrastructure_map.py", line 313, in main
-    power.plot(ax=ax, color="#7b1fa2", lw=1, ls=(0, (4, 2)), zorder=4)
-  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/geopandas/plotting.py", line 1408, in __call__
-    return plot_dataframe(data, *args, **kwargs)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/geopandas/plotting.py", line 951, in plot_dataframe
-    return plot_series(
-           ^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/geopandas/plotting.py", line 611, in plot_series
-    _expand_kwargs(style_kwds, multiindex)
-  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/geopandas/plotting.py", line 157, in _expand_kwargs
-    kwargs[att] = np.take(value, multiindex, axis=0)
-                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/numpy/_core/fromnumeric.py", line 200, in take
-    return _wrapfunc(a, 'take', indices, axis=axis, out=out, mode=mode)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/numpy/_core/fromnumeric.py", line 51, in _wrapfunc
-    return _wrapit(obj, method, *args, **kwds)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/numpy/_core/fromnumeric.py", line 39, in _wrapit
-    conv = _array_converter(obj)
-           ^^^^^^^^^^^^^^^^^^^^^
-ValueError: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (2,) + inhomogeneous part.

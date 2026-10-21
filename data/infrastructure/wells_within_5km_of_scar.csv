@@ -1,1 +1,110 @@
 OBJECTID,Well_Lic,Licensee,Lic_Status,Status_Dat,Ground_Ele,Spud_Date,Fin_Drill,EDCT,SH_Lat,SH_Long,category,dist_to_main_scar_m,inside_any_patch,lon,lat
+230447,0224104,Obsidian Energy Ltd.,RecCertified,03/28/2010,654.1,19990802,19990805,BWL historic wells,52.744359,-110.873874,abandoned/reclaimed,0.0,True,-110.873874,52.744359
+452678,0446855,Sequoia Resources Corp.,Abandoned,01/16/2026,660.1,20120711,20120910,Multiwell Pad with 0.00 mol/kmol H2S,52.74259,-110.873725,abandoned/reclaimed,0.0,True,-110.873725,52.74259
+452679,0446856,Sequoia Resources Corp.,Abandoned,01/16/2026,660.6,20120710,20120913,Multiwell Pad with 0.00 mol/kmol H2S,52.742527,-110.873725,abandoned/reclaimed,3.0,False,-110.873725,52.742527
+229887,0223544,Sumerian Oil & Gas Inc.,Issued,06/10/1999,678.3,19990806,19990809,BWL historic wells,52.753738,-110.873886,other/unknown,92.0,False,-110.873886,52.753738
+229986,0223643,Sumerian Oil & Gas Inc.,Issued,06/15/1999,673.5,19990622,19990624,BWL historic wells,52.773642,-110.898943,other/unknown,99.0,False,-110.898943,52.773642
+222613,0216226,Sumerian Oil & Gas Inc.,Abandoned,06/16/2017,680.2,19980731,19980809,BWL historic wells,52.764642,-110.87388,abandoned/reclaimed,124.0,False,-110.87388,52.764642
+229582,0223239,Sumerian Oil & Gas Inc.,Issued,05/27/1999,686.0,19990601,19990605,BWL historic wells,52.788859,-110.898951,other/unknown,216.0,False,-110.898951,52.788859
+277656,0271510,Sumerian Oil & Gas Inc.,Issued,07/04/2002,673.7,20020729,20020731,Single Well with >0.00 mol/kmol H2S and < 0.01 m3/s H2S release rate,52.77105,-110.890163,other/unknown,273.0,False,-110.890163,52.77105
+263379,0257167,Sumerian Oil & Gas Inc.,Issued,07/10/2001,678.1,20010731,20010803,Single Well with 0.00 mol/kmol H2S,52.782477,-110.898437,other/unknown,415.0,False,-110.898437,52.782477
+221960,0215570,Sumerian Oil & Gas Inc.,Suspension,09/01/2015,678.8,19980619,19980621,BWL historic wells,52.769065,-110.871568,suspended,594.0,False,-110.871568,52.769065
+77141,0070022,Sumerian Oil & Gas Inc.,Issued,06/08/1978,679.4,19780622,19780625,BWL historic wells,52.766385,-110.866601,other/unknown,651.0,False,-110.866601,52.766385
+301394,0295292,Sumerian Oil & Gas Inc.,Issued,10/30/2003,665.18,20031130,20031202,Single Well with 0.00 mol/kmol H2S,52.758805,-110.860959,other/unknown,796.0,False,-110.860959,52.758805
+224358,0217985,Sumerian Oil & Gas Inc.,Issued,10/07/1998,666.9,19990818,19990820,BWL historic wells,52.752641,-110.844877,other/unknown,1031.0,False,-110.844877,52.752641
+406694,0400869,Sequoia Resources Corp.,Suspension,11/05/2010,691.7,20081001,20081003,Single Well with 0.00 mol/kmol H2S,52.788738,-110.88556,suspended,1082.0,False,-110.88556,52.788738
+320683,0314734,Sequoia Resources Corp.,Suspension,03/19/2018,675.3,20040921,20040922,Single Well with 0.00 mol/kmol H2S,52.778227,-110.884387,suspended,1099.0,False,-110.884387,52.778227
+44455,0038923,Sequoia Resources Corp.,Suspension,03/03/2016,674.8,19701005,19701008,BWL historic wells,52.794987,-110.890007,suspended,1123.0,False,-110.890007,52.794987
+312275,0306317,Sequoia Resources Corp.,Suspension,03/19/2018,678.8,20040413,20040415,Single Well with 0.00 mol/kmol H2S,52.773002,-110.863324,suspended,1280.0,False,-110.863324,52.773002
+225472,0219110,Sumerian Oil & Gas Inc.,Suspension,03/07/2023,669.0,19990707,19990710,BWL historic wells,52.763754,-110.963056,suspended,1295.0,False,-110.963056,52.763754
+407057,0401232,Sequoia Resources Corp.,Abandoned,01/17/2026,679.4,20080928,20080930,Single Well with 0.00 mol/kmol H2S,52.776884,-110.872332,abandoned/reclaimed,1402.0,False,-110.872332,52.776884
+418822,0412999,Sequoia Resources Corp.,Suspension,03/19/2018,683.99,20091013,20091015,Single Well with 0.00 mol/kmol H2S,52.7281,-110.864018,suspended,1455.0,False,-110.864018,52.7281
+144295,0137631,Sumerian Oil & Gas Inc.,Suspension,08/21/2014,681.4,19881214,19881219,BWL historic wells,52.774694,-110.964923,suspended,1474.0,False,-110.964923,52.774694
+178257,0171782,Sumerian Oil & Gas Inc.,Abandoned,05/23/2017,664.6,19941112,19941115,BWL historic wells,52.801888,-110.911227,abandoned/reclaimed,1490.0,False,-110.911227,52.801888
+281417,0275273,Sumerian Oil & Gas Inc.,Issued,10/30/2002,669.4,20021108,20021110,Single Well with 0.00 mol/kmol H2S,52.760516,-110.845465,other/unknown,1507.0,False,-110.845465,52.760516
+51811,0045587,Kissinger Petroleums Ltd,RecCertified,12/31/1998,670.6,19730510,19730513,BWL historic wells,52.737001,-110.843895,abandoned/reclaimed,1510.0,False,-110.843895,52.737001
+441858,0436035,Sequoia Resources Corp.,Abandoned,01/16/2026,684.2,20110917,20111016,Single Well with 0.00 mol/kmol H2S,52.727773,-110.873721,abandoned/reclaimed,1511.0,False,-110.873721,52.727773
+222321,0215932,Sumerian Oil & Gas Inc.,Issued,06/16/1998,669.6,19980805,19980807,BWL historic wells,52.798229,-110.925807,other/unknown,1549.0,False,-110.925807,52.798229
+222344,0215955,Sumerian Oil & Gas Inc.,Amended,10/15/1998,669.2,19980627,19980701,BWL historic wells,52.803212,-110.906729,other/unknown,1587.0,False,-110.906729,52.803212
+223964,0217590,Obsidian Energy Ltd.,RecCertified,02/28/2008,682.8,19980921,19980923,BWL historic wells,52.755402,-110.958549,abandoned/reclaimed,1634.0,False,-110.958549,52.755402
+273437,0267275,Lexin Resources Ltd.,RecCertified,09/28/2010,688.7,20020213,20020215,Single Well with 0.00 mol/kmol H2S,52.726169,-110.86347,abandoned/reclaimed,1672.0,False,-110.86347,52.726169
+452651,0446828,Sequoia Resources Corp.,Abandoned,01/16/2026,692.0,20120711,20120904,Multiwell Pad with 0.00 mol/kmol H2S,52.726089,-110.873719,abandoned/reclaimed,1693.0,False,-110.873719,52.726089
+452652,0446829,Sequoia Resources Corp.,Abandoned,01/16/2026,692.1,20120711,20120908,Multiwell Pad with 0.00 mol/kmol H2S,52.726026,-110.873719,abandoned/reclaimed,1700.0,False,-110.873719,52.726026
+429612,0423789,Sequoia Resources Corp.,Abandoned,01/17/2026,678.7,20101018,20101020,Single Well with 0.00 mol/kmol H2S,52.729868,-110.845586,abandoned/reclaimed,1891.0,False,-110.845586,52.729868
+171231,0164756,Sumerian Oil & Gas Inc.,Abandoned,06/22/2021,675.6,19940218,19940222,BWL historic wells,52.796363,-110.941257,abandoned/reclaimed,1923.0,False,-110.941257,52.796363
+263365,0257153,Sumerian Oil & Gas Inc.,Issued,07/09/2001,667.1,20010727,20010729,Single Well with 0.00 mol/kmol H2S,52.791305,-110.954491,other/unknown,2000.0,False,-110.954491,52.791305
+38396,0032895,Sequoia Resources Corp.,Suspension,03/19/2018,697.1,19671020,19671023,BWL historic wells,52.787029,-110.871508,suspended,2006.0,False,-110.871508,52.787029
+223983,0217609,Sumerian Oil & Gas Inc.,Abandoned,06/14/2017,672.3,19980927,19980928,BWL historic wells,52.781613,-110.968693,abandoned/reclaimed,2064.0,False,-110.968693,52.781613
+264366,0258154,Sumerian Oil & Gas Inc.,Abandoned,06/07/2017,678.0,20010812,20010921,Single Well with 0.00 mol/kmol H2S,52.807808,-110.904245,abandoned/reclaimed,2097.0,False,-110.904245,52.807808
+244856,0238554,Sumerian Oil & Gas Inc.,Issued,06/14/2000,668.4,20000726,20000727,BWL historic wells,52.803902,-110.926121,other/unknown,2120.0,False,-110.926121,52.803902
+300171,0294052,Sumerian Oil & Gas Inc.,Amended,01/15/2004,633.9,20031127,20031129,Single Well with 0.00 mol/kmol H2S,52.758985,-110.831138,other/unknown,2185.0,False,-110.831138,52.758985
+277639,0271493,Sumerian Oil & Gas Inc.,Abandoned,06/07/2017,671.7,20020727,20020728,Single Well with >0.00 mol/kmol H2S and < 0.01 m3/s H2S release rate,52.796463,-110.951075,abandoned/reclaimed,2301.0,False,-110.951075,52.796463
+225473,0219111,Obsidian Energy Ltd.,RecCertified,06/28/2010,662.7,19990703,19990705,BWL historic wells,52.740374,-110.938597,abandoned/reclaimed,2392.0,False,-110.938597,52.740374
+245233,0238936,Sumerian Oil & Gas Inc.,Issued,06/22/2000,675.6,20000803,20000804,BWL historic wells,52.78726,-110.969659,other/unknown,2422.0,False,-110.969659,52.78726
+44841,0039304,Canadian Natural Resources Limited,Abandoned,12/17/1970,668.1,19701209,19701215,BWL historic wells,52.809752,-110.890755,abandoned/reclaimed,2506.0,False,-110.890755,52.809752
+244923,0238621,Sumerian Oil & Gas Inc.,Abandoned,06/29/2017,677.2,20000730,20000731,BWL historic wells,52.802774,-110.941362,abandoned/reclaimed,2529.0,False,-110.941362,52.802774
+244904,0238602,Sumerian Oil & Gas Inc.,Issued,06/15/2000,661.6,20000728,20000729,BWL historic wells,52.80976,-110.921325,other/unknown,2550.0,False,-110.921325,52.80976
+244907,0238605,Sumerian Oil & Gas Inc.,Issued,06/15/2000,673.6,20000801,20000802,BWL historic wells,52.780778,-110.977734,other/unknown,2551.0,False,-110.977734,52.780778
+223975,0217601,Sumerian Oil & Gas Inc.,Amended,02/04/1999,675.7,19980925,19980926,BWL historic wells,52.770129,-110.983474,other/unknown,2588.0,False,-110.983474,52.770129
+230021,0223678,Sumerian Oil & Gas Inc.,Abandoned,04/07/2021,690.4,19990628,19990701,BWL historic wells,52.720216,-110.888043,abandoned/reclaimed,2606.0,False,-110.888043,52.720216
+178663,0172188,Sequoia Resources Corp.,Abandoned,01/17/2026,679.4,19941122,19941124,BWL historic wells,52.792963,-110.863378,abandoned/reclaimed,2639.0,False,-110.863378,52.792963
+403518,0397693,Sequoia Resources Corp.,Suspension,03/19/2018,668.2,20080925,20080927,Single Well with 0.00 mol/kmol H2S,52.805518,-110.873762,suspended,2726.0,False,-110.873762,52.805518
+381252,0375413,Cenovus Energy Inc.,RecCertified,12/17/2024,661.0,20071111,20071118,Single Well with 0.00 mol/kmol H2S,52.759395,-110.82217,abandoned/reclaimed,2738.0,False,-110.82217,52.759395
+53040,0046735,BP Canada Energy Group ULC,RecCertified,12/31/1998,669.3,19730816,19730818,BWL historic wells,52.780435,-110.843002,abandoned/reclaimed,2846.0,False,-110.843002,52.780435
+230044,0223701,Sumerian Oil & Gas Inc.,Issued,06/16/1999,686.9,19990626,19990628,BWL historic wells,52.721234,-110.899451,other/unknown,2870.0,False,-110.899451,52.721234
+221800,0215408,Sumerian Oil & Gas Inc.,Amended,06/23/1998,663.7,19980702,19980705,BWL historic wells,52.797144,-110.964261,other/unknown,2919.0,False,-110.964261,52.797144
+83032,0076222,Zeus Oils & Holdings Ltd.,RecCertified,10/04/2003,663.9,19790612,19790614,BWL historic wells,52.76132,-110.819795,abandoned/reclaimed,2978.0,False,-110.819795,52.76132
+225465,0219103,Obsidian Energy Ltd.,RecCertified,07/28/2004,677.9,19990629,19990702,BWL historic wells,52.73039,-110.924926,abandoned/reclaimed,2990.0,False,-110.924926,52.73039
+224357,0217984,Obsidian Energy Ltd.,Cancelled,10/19/1999,,,,BWL historic wells,52.788471,-110.979077,other/unknown,3035.0,False,-110.979077,52.788471
+171233,0164758,Sumerian Oil & Gas Inc.,Issued,02/04/1994,670.7,19940215,19940217,BWL historic wells,52.788362,-110.979312,other/unknown,3043.0,False,-110.979312,52.788362
+312291,0306333,Sequoia Resources Corp.,Suspension,03/19/2018,675.9,20040402,20040404,Single Well with 0.00 mol/kmol H2S,52.810004,-110.873689,suspended,3111.0,False,-110.873689,52.810004
+164592,0158117,Sumerian Oil & Gas Inc.,Issued,05/06/1993,675.4,19930511,19930513,BWL historic wells,52.809806,-110.940128,other/unknown,3149.0,False,-110.940128,52.809806
+151394,0144919,Sequoia Resources Corp.,Suspension,11/03/2017,679.7,19900802,19900804,BWL historic wells,52.719037,-110.837429,suspended,3152.0,False,-110.837429,52.719037
+263380,0257168,Sumerian Oil & Gas Inc.,Abandoned,06/29/2017,675.0,20010805,20010809,Single Well with 0.00 mol/kmol H2S,52.806976,-110.950045,abandoned/reclaimed,3230.0,False,-110.950045,52.806976
+269103,0262934,Cenovus Energy Inc.,RecCertified,01/19/2025,671.3,20011216,20011218,Single Well with >0.00 mol/kmol H2S and < 0.01 m3/s H2S release rate,52.766955,-110.820092,abandoned/reclaimed,3305.0,False,-110.820092,52.766955
+222369,0215980,Sumerian Oil & Gas Inc.,Issued,06/18/1998,667.6,19980619,19980622,BWL historic wells,52.818783,-110.90567,other/unknown,3316.0,False,-110.90567,52.818783
+223993,0217619,Sumerian Oil & Gas Inc.,Issued,09/17/1998,678.9,19980919,19980920,BWL historic wells,52.77466,-110.994105,other/unknown,3361.0,False,-110.994105,52.77466
+262927,0256711,Sumerian Oil & Gas Inc.,Abandoned,06/14/2017,671.5,20010729,20010730,Single Well with 0.00 mol/kmol H2S,52.793891,-110.980107,abandoned/reclaimed,3425.0,False,-110.980107,52.793891
+452604,0446781,Sequoia Resources Corp.,Abandoned,01/15/2026,669.7,20120710,20120901,Multiwell Pad with 0.00 mol/kmol H2S,52.711032,-110.851577,abandoned/reclaimed,3498.0,False,-110.851577,52.711032
+452605,0446782,Sequoia Resources Corp.,Abandoned,01/15/2026,669.8,20120709,20120830,Multiwell Pad with 0.00 mol/kmol H2S,52.711,-110.851668,abandoned/reclaimed,3499.0,False,-110.851668,52.711
+152884,0146409,Enerplus Corporation,RecCertified,12/31/1998,658.4,19901122,19901127,BWL historic wells,52.740579,-110.807624,abandoned/reclaimed,3533.0,False,-110.807624,52.740579
+222322,0215933,Sumerian Oil & Gas Inc.,Issued,06/16/1998,662.6,19980706,19980708,BWL historic wells,52.819801,-110.919362,other/unknown,3556.0,False,-110.919362,52.819801
+222269,0215879,Sumerian Oil & Gas Inc.,Abandoned,06/07/2017,679.3,19980623,19980626,BWL historic wells,52.805624,-110.962418,abandoned/reclaimed,3572.0,False,-110.962418,52.805624
+262915,0256699,Sumerian Oil & Gas Inc.,Abandoned,02/03/2022,670.7,20010810,20010811,Single Well with 0.00 mol/kmol H2S,52.783951,-110.992737,abandoned/reclaimed,3613.0,False,-110.992737,52.783951
+373144,0367276,Cenovus Energy Inc.,Abandoned,03/21/2021,666.0,20061209,20061210,Single Well with 0.00 mol/kmol H2S,52.762599,-110.810167,abandoned/reclaimed,3622.0,False,-110.810167,52.762599
+78513,0071458,Canlin Energy Corporation,RecCertified,12/31/1998,669.3,19780920,19780923,BWL historic wells,52.722589,-110.819102,abandoned/reclaimed,3775.0,False,-110.819102,52.722589
+264367,0258155,Sumerian Oil & Gas Inc.,Abandoned,06/14/2017,666.7,20010810,20010811,Single Well with 0.00 mol/kmol H2S,52.802199,-110.974498,abandoned/reclaimed,3792.0,False,-110.974498,52.802199
+222318,0215929,Sumerian Oil & Gas Inc.,Suspension,05/16/2017,665.0,19980710,19980712,BWL historic wells,52.819835,-110.931709,suspended,3864.0,False,-110.931709,52.819835
+178914,0172439,1333002 Alberta Ltd.,Re-Entered,12/17/2010,666.0,19941115,19941119,Single Well with 0.00 mol/kmol H2S,52.731642,-110.806013,other/unknown,3972.0,False,-110.806013,52.731642
+433924,0428101,Sequoia Resources Corp.,Suspension,11/30/2015,665.3,20110207,20110208,Single Well with 0.00 mol/kmol H2S,52.731582,-110.80593,suspended,3980.0,False,-110.80593,52.731582
+164591,0158116,Sumerian Oil & Gas Inc.,Suspension,08/21/2014,681.4,19930508,19930510,BWL historic wells,52.811244,-110.959894,suspended,4002.0,False,-110.959894,52.811244
+373142,0367274,Cenovus Energy Inc.,Abandoned,03/20/2021,671.5,20061208,20061209,Single Well with 0.00 mol/kmol H2S,52.768251,-110.807357,abandoned/reclaimed,4092.0,False,-110.807357,52.768251
+277657,0271511,Sumerian Oil & Gas Inc.,Issued,07/04/2002,671.6,20020722,20020723,Single Well with >0.00 mol/kmol H2S and < 0.01 m3/s H2S release rate,52.7822,-111.001923,other/unknown,4099.0,False,-111.001923,52.7822
+245007,0238705,Sumerian Oil & Gas Inc.,Issued,06/19/2000,670.7,20000724,20000725,BWL historic wells,52.817996,-110.945325,other/unknown,4112.0,False,-110.945325,52.817996
+147807,0141230,Sequoia Resources Corp.,Suspension,03/19/2018,668.7,19891013,19891016,BWL historic wells,52.715386,-110.820958,suspended,4207.0,False,-110.820958,52.715386
+199086,0192613,Sumerian Oil & Gas Inc.,Suspension,12/22/2005,671.7,19961110,19961112,BWL historic wells,52.822471,-110.873761,suspended,4270.0,False,-110.873761,52.822471
+370709,0364839,West Lake Energy Corp.,RecCertified,09/04/2023,684.63,20061111,20061113,Single Well with 0.00 mol/kmol H2S,52.79411,-110.835317,abandoned/reclaimed,4292.0,False,-110.835317,52.79411
+31012,0025685,United Canso Oil & Gas Ltd.,RecCertified,12/31/1998,685.8,19640214,19640220,BWL historic wells,52.794293,-110.835321,abandoned/reclaimed,4308.0,False,-110.835321,52.794293
+197315,0190842,Sumerian Oil & Gas Inc.,Abandoned,10/02/2020,664.7,19960828,19960830,BWL historic wells,52.708262,-110.832804,abandoned/reclaimed,4311.0,False,-110.832804,52.708262
+403779,0397954,Sequoia Resources Corp.,Abandoned,01/20/2026,674.7,20080922,20080924,Single Well with 0.00 mol/kmol H2S,52.822007,-110.870558,abandoned/reclaimed,4332.0,False,-110.870558,52.822007
+60985,0053753,Obsidian Energy Ltd.,RecCertified,04/28/2006,677.3,19750608,19750610,BWL historic wells,52.804414,-110.843185,abandoned/reclaimed,4351.0,False,-110.843185,52.804414
+229989,0223646,Obsidian Energy Ltd.,Cancelled,06/16/1999,,,,BWL historic wells,52.796834,-110.993855,other/unknown,4370.0,False,-110.993855,52.796834
+230219,0223876,Sumerian Oil & Gas Inc.,Suspension,07/15/2015,673.4,19990729,19990801,BWL historic wells,52.796834,-110.993855,suspended,4370.0,False,-110.993855,52.796834
+300809,0294699,Sumerian Oil & Gas Inc.,Issued,10/20/2003,664.28,20031121,20031123,Single Well with 0.00 mol/kmol H2S,52.761482,-110.796958,other/unknown,4402.0,False,-110.796958,52.761482
+178758,0172283,Sequoia Resources Corp.,Abandoned,01/20/2026,672.1,19941119,19941125,BWL historic wells,52.813484,-110.851279,abandoned/reclaimed,4439.0,False,-110.851279,52.813484
+229987,0223644,Obsidian Energy Ltd.,RecCertified,12/28/2005,673.9,19990711,19990714,BWL historic wells,52.702082,-110.88485,abandoned/reclaimed,4466.0,False,-110.88485,52.702082
+267577,0261391,Cenovus Energy Inc.,Abandoned,05/17/2021,669.9,20011124,20011125,Single Well with >0.00 mol/kmol H2S and < 0.01 m3/s H2S release rate,52.781424,-110.814811,abandoned/reclaimed,4524.0,False,-110.814811,52.781424
+222349,0215960,Sumerian Oil & Gas Inc.,Abandoned,06/14/2017,670.0,19980706,19980709,BWL historic wells,52.788464,-111.004193,abandoned/reclaimed,4530.0,False,-111.004193,52.788464
+143184,0136519,Sumerian Oil & Gas Inc.,Suspension,12/03/2019,671.7,19881010,19881014,BWL historic wells,52.804171,-110.987863,suspended,4574.0,False,-110.987863,52.804171
+229681,0223338,Sumerian Oil & Gas Inc.,Abandoned,06/16/2017,660.4,19990606,19990610,BWL historic wells,52.829411,-110.892712,abandoned/reclaimed,4579.0,False,-110.892712,52.829411
+277629,0271483,Sumerian Oil & Gas Inc.,Issued,07/04/2002,673.7,20020708,20020710,Single Well with >0.00 mol/kmol H2S and < 0.01 m3/s H2S release rate,52.776412,-111.012607,other/unknown,4623.0,False,-111.012607,52.776412
+465132,0459309,Sequoia Resources Corp.,Abandoned,01/15/2026,672.1,20131110,20131113,Single Well with 0.00 mol/kmol H2S,52.699362,-110.873529,abandoned/reclaimed,4638.0,False,-110.873529,52.699362
+465131,0459308,Sequoia Resources Corp.,Abandoned,01/15/2026,672.1,20131107,20131110,Single Well with 0.00 mol/kmol H2S,52.699362,-110.873492,abandoned/reclaimed,4638.0,False,-110.873492,52.699362
+178757,0172282,1333002 Alberta Ltd.,Cancelled,07/21/1997,,,,BWL historic wells,52.709532,-110.82089,other/unknown,4680.0,False,-110.82089,52.709532
+262928,0256712,Sumerian Oil & Gas Inc.,Issued,06/26/2001,674.4,20010803,20010804,Single Well with 0.00 mol/kmol H2S,52.794092,-111.001782,other/unknown,4680.0,False,-111.001782,52.794092
+244855,0238553,Sumerian Oil & Gas Inc.,Abandoned,06/14/2017,676.8,20000722,20000723,BWL historic wells,52.819735,-110.958526,abandoned/reclaimed,4739.0,False,-110.958526,52.819735
+268171,0261986,Cenovus Energy Inc.,Cancelled,01/16/2003,,,,Single Well with 0.00 mol/kmol H2S,52.807703,-110.83901,other/unknown,4767.0,False,-110.83901,52.807703
+343559,0337622,Cenovus Energy Inc.,RecCertified,10/27/2023,676.4,20051005,20051009,Single Well with 0.00 mol/kmol H2S,52.807703,-110.83901,abandoned/reclaimed,4767.0,False,-110.83901,52.807703
+300656,0294542,Sumerian Oil & Gas Inc.,Abandoned,03/23/2021,672.7,20031124,20031126,Single Well with 0.00 mol/kmol H2S,52.767724,-110.793765,abandoned/reclaimed,4867.0,False,-110.793765,52.767724
+429629,0423806,Sequoia Resources Corp.,Abandoned,01/15/2026,663.0,20101021,20101022,Single Well with 0.00 mol/kmol H2S,52.707185,-110.820304,abandoned/reclaimed,4904.0,False,-110.820304,52.707185
+277640,0271494,Sumerian Oil & Gas Inc.,Abandoned,06/14/2017,670.1,20020719,20020721,Single Well with >0.00 mol/kmol H2S and < 0.01 m3/s H2S release rate,52.782786,-111.015066,abandoned/reclaimed,4957.0,False,-111.015066,52.782786

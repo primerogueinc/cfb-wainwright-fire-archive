@@ -1,0 +1,4 @@
+toporama layers: ['WMS-Toporama', 'limits', 'vegetation', 'builtup_areas', 'designated_areas', 'hydrography', 'hypsography', 'water_saturated_soils', 'landforms', 'constructions', 'road_network', 'railway', 'aeronautical_network', 'structures', 'power_network', 'boundaries', 'feature_names']
+canmatrix listing https://ftp.maps.canada.ca/pub/nrcan_rncan/raster/canmatrix2/50k_tif/073/d/ ['canmatrix2_073d10_tif.zip', 'canmatrix2_073d15_tif.zip']
+canmatrix tifs: ['073d10_04.tif', '073d15_04.tif']
+canmatrix failed: Missing src_crs.
