@@ -4,3 +4,5 @@ __pycache__/
 *.key
 .DS_Store
 data/goes/work/
+data/goes/annotated/work/
+data/goes/annotated_test/

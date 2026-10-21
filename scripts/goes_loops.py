@@ -320,8 +320,9 @@ def write_video(frames: list[Path], mp4: Path, gif: Path):
     w = min(i.shape[1] for i in imgs) // 2 * 2
     imgs = [i[:h, :w, :3] for i in imgs]
     imageio.mimsave(mp4, imgs, fps=4, codec="libx264", quality=8, macro_block_size=2)
-    small = [i[::2, ::2] for i in imgs]
-    imageio.mimsave(gif, small, duration=0.25, loop=0)
+    from PIL import Image
+    small = [Image.fromarray(i[::2, ::2]) for i in imgs]
+    small[0].save(gif, save_all=True, append_images=small[1:], duration=250, loop=0, optimize=True)
 
 
 def timeline_chart(rows: list[dict], path: Path):
