@@ -8,8 +8,11 @@ Method (standard burn-severity mapping):
     after it (on or after Oct 18)
   * compute the Normalized Burn Ratio, NBR = (B8A - B12) / (B8A + B12), for
     each, and the change dNBR = NBR_before - NBR_after
-  * treat dNBR >= 0.10 as burned (USGS low-severity threshold), keep only
-    burned patches touching the satellite fire detections, and measure area
+  * map the scar as dNBR >= 0.27 (USGS moderate-low severity and above),
+    keep only patches touching the satellite fire detections, fill holes,
+    and measure area. Lower values (0.10-0.27) are widespread across the
+    region between scenes (autumn curing, harvest, haze), so they are only
+    counted as a "possible light-burn fringe" within 500 m of the scar.
   * mask clouds, shadows, water and snow with the scene classification layer
 
 Outputs go to data/copernicus/. Contains modified Copernicus Sentinel data [2026].
@@ -214,8 +217,8 @@ def main() -> int:
     to_utm = Transformer.from_crs("EPSG:4326", crs, always_xy=True)
     to_ll = Transformer.from_crs(crs, "EPSG:4326", always_xy=True)
     pts = detections()
-    burned = np.nan_to_num(dnbr) >= DNBR_BURNED
-    burned = ndimage.binary_opening(burned, iterations=1)
+    burned = np.nan_to_num(dnbr) >= DNBR_MODERATE
+    burned = ndimage.binary_opening(burned, iterations=2)
     burned = ndimage.binary_closing(burned, iterations=2)
     labels, n = ndimage.label(burned)
     seed = np.zeros_like(burned)
@@ -228,10 +231,11 @@ def main() -> int:
         seed[max(0, r - rad):r + rad + 1, max(0, c - rad):c + rad + 1] = True
     keep = np.unique(labels[seed & burned])
     keep = keep[keep > 0]
-    scar = np.isin(labels, keep)
+    scar = ndimage.binary_fill_holes(np.isin(labels, keep))
     px_km2 = 20 * 20 / 1e6
     area = float(scar.sum() * px_km2)
-    area_mod = float((scar & (np.nan_to_num(dnbr) >= DNBR_MODERATE)).sum() * px_km2)
+    near = ndimage.binary_dilation(scar, iterations=25) & ~scar  # 500 m ring
+    fringe = float((near & (np.nan_to_num(dnbr) >= DNBR_BURNED)).sum() * px_km2)
     valid_frac = float(ok.mean())
 
     polys = [shape(geom) for geom, v in features.shapes(scar.astype("uint8"), mask=scar, transform=transform)
@@ -249,7 +253,7 @@ def main() -> int:
                 "properties": props}
 
     scar_feat = {"type": "Feature", "geometry": mapping(scar_ll) if scar_ll else None,
-                 "properties": {"name": "Burn scar (Sentinel-2 dNBR >= 0.10)", "area_km2": round(area, 2),
+                 "properties": {"name": "Burn scar (Sentinel-2 dNBR >= 0.27)", "area_km2": round(area, 2),
                                 "pre_scene": pre_r["id"], "post_scene": post_r["id"],
                                 "stroke": "#d32f2f", "stroke-width": 2, "fill": "#ff7043", "fill-opacity": 0.35}}
     (OUT / "burn_scar.geojson").write_text(json.dumps({"type": "FeatureCollection", "features": [scar_feat]}) + "\n")
@@ -325,9 +329,9 @@ def main() -> int:
     handles = overlay(ax)
     ax.legend(handles=handles, loc="upper right", fontsize=9, framealpha=0.9)
     cb = fig.colorbar(im, ax=ax, fraction=0.035, pad=0.01)
-    cb.set_label("dNBR (burn severity; ≥ 0.10 burned)")
-    ax.set_title(f"CFB Wainwright burn scar — Sentinel-2 change {when(pre_r)} → {when(post_r)}, "
-                 f"with satellite fire detections", loc="left", fontsize=12)
+    cb.set_label("dNBR (burn severity change; scar = ≥ 0.27)")
+    ax.set_title(f"CFB Wainwright burn scar\nSentinel-2 change {when(pre_r)} → {when(post_r)} with fire detections",
+                 loc="left", fontsize=12)
     fig.text(0.01, 0.01, "Contains modified Copernicus Sentinel data [2026]; NASA FIRMS; NOAA GOES-18. "
                          "Grey = cloud/shadow/water masked. Prime Rogue Inc. · CC BY 4.0", fontsize=8, color="#555")
     fig.tight_layout(rect=(0, 0.02, 1, 1))
@@ -355,12 +359,13 @@ def main() -> int:
                "post_scene": post_r["id"], "post_datetime": post_r["datetime"],
                "post_aoi_clear_pct": round(post_r["clear_frac"] * 100),
                "valid_pixel_pct_both_scenes": round(valid_frac * 100),
-               "burned_area_km2_dnbr_0.10": round(area, 2),
-               "burned_area_km2_dnbr_0.27": round(area_mod, 2),
+               "burn_scar_km2_dnbr_0.27": round(area, 2),
+               "possible_light_burn_fringe_km2_within_500m": round(fringe, 2),
                "burn_patches": int(len(keep)), "detections_used": len(pts),
-               "method": "dNBR from Sentinel-2 L2A B8A/B12 at 20 m; SCL classes 4-5 only; patches touching "
-                         f"detections within {SEED_BUFFER_M} m kept"}
+               "method": "dNBR from Sentinel-2 L2A B8A/B12 at 20 m; SCL classes 2,4,5,7; scar = dNBR >= 0.27 patches "
+                         f"within {SEED_BUFFER_M} m of a detection, holes filled"}
     summary_path.write_text(json.dumps(summary, indent=2) + "\n")
+    (OUT / "status.txt").unlink(missing_ok=True)
     print(json.dumps(summary, indent=2))
     return 0
 
