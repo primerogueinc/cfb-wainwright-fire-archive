@@ -114,7 +114,19 @@ def canmatrix():
     out = np.zeros((3, h, w), dtype="uint8")
     filled = np.zeros((h, w), bool)
     for t in tifs:
+        sib = sorted(p.name for p in t.parent.iterdir())
+        log("files beside", t.name, sib)
         with rasterio.open(t) as src:
+            src_crs = src.crs
+            if src_crs is None:
+                prj = next((p for p in t.parent.glob(t.stem + "*.prj")), None) or next(t.parent.glob("*.prj"), None)
+                if prj:
+                    from rasterio.crs import CRS
+                    src_crs = CRS.from_wkt(prj.read_text())
+                    log("crs from", prj.name, src_crs)
+            if src_crs is None:
+                log("no CRS for", t.name, "- skipping")
+                continue
             bands = src.count
             if src.colorinterp and src.count == 1 and src.colormap(1):
                 cmap = src.colormap(1)
@@ -127,7 +139,7 @@ def canmatrix():
                 rgb = src.read([1, 2, 3]) if bands >= 3 else np.repeat(src.read(1)[None], 3, 0)
             tmp = np.zeros((3, h, w), "uint8")
             for b in range(3):
-                reproject(rgb[b], tmp[b], src_transform=src.transform, src_crs=src.crs, dst_transform=dst_t,
+                reproject(rgb[b], tmp[b], src_transform=src.transform, src_crs=src_crs, dst_transform=dst_t,
                           dst_crs="EPSG:4326", resampling=Resampling.bilinear)
             has = tmp.sum(axis=0) > 0
             put = has & ~filled
@@ -139,7 +151,17 @@ def canmatrix():
     return img, (VIEW["west"], VIEW["east"], VIEW["south"], VIEW["north"]), ", ".join(t.stem for t in tifs)
 
 
-def overlay(base, title, credit, path):
+def osm_history(way_id):
+    try:
+        x = http(f"https://api.openstreetmap.org/api/0.6/way/{way_id}/history").decode("utf-8", "replace")
+        vers = re.findall(r'<way [^>]*version="(\d+)"[^>]*timestamp="([^"]+)"[^>]*user="([^"]*)"', x)
+        tags = re.findall(r'<tag k="([^"]+)" v="([^"]*)"', x)
+        log(f"OSM way {way_id} history: {vers}; tags (all versions): {sorted(set(tags))}")
+    except Exception as exc:
+        log("osm history failed", way_id, exc)
+
+
+def overlay(base, title, credit, path, view=None, ranges=False):
     import matplotlib
     matplotlib.use("Agg")
     import matplotlib.pyplot as plt
@@ -151,7 +173,27 @@ def overlay(base, title, credit, path):
     fig, ax = plt.subplots(figsize=(14, 10.5), dpi=150)
     ax.imshow(img, extent=ext, interpolation="antialiased")
     ax.set_aspect(1 / np.cos(np.radians(52.77)))
-    ax.set_xlim(ext[0], ext[1]), ax.set_ylim(ext[2], ext[3])
+    v = view or dict(west=ext[0], east=ext[1], south=ext[2], north=ext[3])
+    ax.set_xlim(v["west"], v["east"]), ax.set_ylim(v["south"], v["north"])
+    if ranges:
+        import geopandas as gpd
+        o = gpd.read_file(ROOT / "data" / "infrastructure" / "osm_infrastructure_ODbL.geojson")
+        r = o[(o.kind == "military") & o.military.isin(["range", "checkpoint", "training_area"]) & (o.name.fillna("") != "")]
+        for _, row in r.iterrows():
+            g = row.geometry
+            for poly in getattr(g, "geoms", [g]):
+                if poly.geom_type != "Polygon":
+                    continue
+                xs, ys = poly.exterior.xy
+                grenade = "grenade" in row["name"].lower()
+                ax.plot(xs, ys, color="#1565c0" if not grenade else "#00c853", lw=2.4 if grenade else 1.4, zorder=5)
+            c = g.representative_point()
+            if v["west"] < c.x < v["east"] and v["south"] < c.y < v["north"]:
+                grenade = "grenade" in row["name"].lower()
+                ax.annotate(row["name"], (c.x, c.y), xytext=(6, 6) if grenade else (0, 0), textcoords="offset points",
+                            fontsize=10 if grenade else 8, weight="bold" if grenade else "normal",
+                            color="#1b5e20" if grenade else "#0d47a1", ha="left" if grenade else "center", zorder=8,
+                            bbox=dict(boxstyle="round,pad=0.15", fc="white", alpha=0.85, lw=0))
     patches_p = ROOT / "data" / "infrastructure" / "scar_patches_revised.geojson"
     src = patches_p if patches_p.exists() else ROOT / "data" / "copernicus" / "burn_scar.geojson"
     fc = json.loads(src.read_text())
@@ -178,8 +220,9 @@ def overlay(base, title, credit, path):
         elif d == "2026-10-14":
             ax.plot(lon, lat, "D", ms=6, mfc="#ce93d8", mec="black", mew=0.6, zorder=6)
     # 1 km grid ticks in lat/lon for reading coordinates off the map
-    ax.set_xticks(np.round(np.arange(ext[0], ext[1], 0.05), 2))
-    ax.set_yticks(np.round(np.arange(ext[2], ext[3], 0.025), 3))
+    step_x, step_y = (0.05, 0.025) if not view else (0.01, 0.005)
+    ax.set_xticks(np.round(np.arange(np.ceil(v["west"] / step_x) * step_x, v["east"], step_x), 3))
+    ax.set_yticks(np.round(np.arange(np.ceil(v["south"] / step_y) * step_y, v["north"], step_y), 3))
     ax.tick_params(labelsize=8)
     ax.grid(color="black", alpha=0.25, lw=0.5)
     handles = [Patch(fc="#ff3d00", alpha=0.3, ec="#d50000", lw=2, label="Oct 17 burn (Sentinel-2, dNBR ≥ 0.27)"),
@@ -188,6 +231,9 @@ def overlay(base, title, credit, path):
                Line2D([], [], marker="s", ls="", mfc="#ffd54f", mec="black", ms=6, label="VIIRS hotspots Oct 17"),
                Line2D([], [], marker="s", ls="", mfc="white", mec="black", ms=6, label="VIIRS hotspots Oct 18"),
                Line2D([], [], marker="D", ls="", mfc="#ce93d8", mec="black", ms=6, label="VIIRS hotspot Oct 14")]
+    if ranges:
+        handles += [Line2D([], [], color="#00c853", lw=2.4, label="'Range 2 (Grenade)' as mapped in OpenStreetMap"),
+                    Line2D([], [], color="#1565c0", lw=1.4, label="Other ranges as mapped in OpenStreetMap")]
     ax.legend(handles=handles, loc="lower left", fontsize=8.5, framealpha=0.92)
     ax.set_title(title, loc="left", fontsize=12)
     fig.text(0.01, 0.006, credit, fontsize=7.5, color="#444")
@@ -218,6 +264,12 @@ def main() -> int:
         overlay(c, "Burn scar and fire detections on NRCan 1:50,000 NTS map sheets (CanMatrix scans)",
                 f"Base map: Natural Resources Canada, CanMatrix NTS 1:50,000 ({c[2]}), Open Government Licence – "
                 "Canada. Sheet editions may be decades old. " + common, OUT / "topo_nts50k_overlay.png")
+    if t:
+        osm_history(1240048250)
+        overlay(t, "Ranges as mapped in OpenStreetMap, with the burn scar and fire detections (Toporama base)",
+                f"Base map: NRCan Toporama, OGL – Canada. Ranges: © OpenStreetMap contributors (ODbL), volunteer-mapped, "
+                "not verified by DND. " + common, OUT / "topo_ranges_zoom.png",
+                view=dict(west=-110.965, east=-110.86, south=52.738, north=52.797), ranges=True)
     (OUT / "run.log").write_text("\n".join(LOG) + "\n")
     return 0
 
