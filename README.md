@@ -24,7 +24,7 @@ The goal is a record anyone can check: every raw file is kept unaltered, hashed,
 | `data/manifests/` | SHA-256 manifests of each batch of new raw files, plus `.ots` timestamp proofs. | Automatically |
 | `atip/` | Records released under the *Access to Information Act* and Alberta's *Access to Information Act*. | Within 72 hours of receipt |
 | `docs/` | Methods and verification notes. | As needed |
-| `scripts/` | The code that does the collecting. | As needed |
+| `scripts/` | The code that does the collecting. `scripts/first_analysis/` holds the original code behind the first published graphics. | As needed |
 
 Coming next: the Oct 17 Landsat 8 scene.
 
