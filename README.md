@@ -12,12 +12,13 @@ The goal is a record anyone can check: every raw file is kept unaltered, hashed,
 | `data/firms/detections.csv` | All detections merged and de-duplicated, with UTC and local (MDT) times. | Automatically |
 | `data/firms/detections.geojson` | The same detections as a map (GitHub renders it). | Automatically |
 | `data/goes/` | GOES-18/19 loops of Oct 17 (11 a.m.–7 p.m. MDT): red visible, true colour, Fire Temperature RGB, Dust RGB (MP4 + GIF), key stills, and `fire_timeline.csv/.png` (cloud cover, 3.9 µm heat and NOAA fire power over the base every 10 minutes). | On demand |
+| `data/copernicus/` | Burn scar from Copernicus Sentinel-2 (dNBR, before/after), with NASA FIRMS and NOAA GOES detections overlaid: `burn_scar_map.png`, `before_after.png`, `burn_scar.geojson`, `fire_progression.geojson` (opens as a map on GitHub), `dnbr.tif`, `summary.json`. | Automatically, daily (when a clearer scene appears) |
 | `data/manifests/` | SHA-256 manifests of each batch of new raw files, plus `.ots` timestamp proofs. | Automatically |
 | `atip/` | Records released under the *Access to Information Act* and Alberta's *Access to Information Act*. | Within 72 hours of receipt |
 | `docs/` | Methods and verification notes. | As needed |
 | `scripts/` | The code that does the collecting. | As needed |
 
-Coming next: the Oct 17 Landsat 8 scene and Sentinel-2 burn-area analysis.
+Coming next: the Oct 17 Landsat 8 scene.
 
 ## Times
 

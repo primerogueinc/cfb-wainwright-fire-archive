@@ -38,3 +38,15 @@ The timestamp proves a file existed unchanged at that time. It does not prove th
 **Timeline.** For a box over the base (52.65–52.95°N, 110.65–111.15°W) and each scan: percent of pixels NOAA's cloud mask flags as cloudy; median 10.3 µm brightness temperature (cloud-top temperature when cloudy); the hottest 3.9 µm pixel; and pixels NOAA's fire algorithm classifies as fire, with their summed fire radiative power.
 
 **Limits.** GOES pixels over Alberta are roughly 2–4 km on the ground, and positions are not corrected for parallax, so a GOES fire pixel locates a fire to within a few kilometres. The fire algorithm can see through thin cloud but not thick cloud; a falling signal under cloud does not mean the fire weakened. Fire radiative power is an index of intensity, not of area burned.
+
+## Copernicus Sentinel-2 burn scar
+
+**Data.** Sentinel-2 Level-2A surface reflectance from the public archive (Element 84 Earth Search STAC, `sentinel-2-l2a`), tile 12UWD. The analysis area (52.66–52.90°N, 110.70–110.99°W) is kept inside that tile so every scene shares one 20 m grid.
+
+**Scenes.** The latest scene before Oct 17 with at least 90% of the area clear, and the clearest scene after Oct 17 (at least 60% clear, preferring the soonest). Clouds, shadows, water and snow are masked with the scene classification layer. Every candidate scene and its clear fraction is listed in `scenes.csv`.
+
+**Method.** Normalized Burn Ratio, NBR = (B8A − B12)/(B8A + B12); dNBR = NBR before − NBR after. The scar is mapped as dNBR ≥ 0.27 (USGS moderate-low severity and above), keeping only patches within 1.5 km of a satellite fire detection, with holes filled. Values of 0.10–0.27 appear across the whole region between the two dates (autumn curing, harvest, haze), so they are reported only as a "possible light-burn fringe" within 500 m of the scar, not added to the area.
+
+**Limits.** Grass fires can burn lightly enough to fall below the 0.27 threshold, so the area is a conservative estimate. Partly cloudy post-fire scenes can hide parts of the scar; the daily run replaces the result when a clearer scene appears. Overlaid GOES pixels are located to within a few kilometres.
+
+Contains modified Copernicus Sentinel data [2026].
