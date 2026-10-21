@@ -76,9 +76,28 @@ def eccc_hourly():
         for r in cands:
             sid = r["Station ID"]
             url = ("https://climate.weather.gc.ca/climate_data/bulk_data_e.html?format=csv&stationID="
-                   f"{sid}&Year=2026&Month=10&Day=1&time=&timeframe=1&submit=Download+Data")
+                   f"{sid}&Year=2026&Month=10&Day=1&time=LST&timeframe=1&submit=Download+Data")
             body = http(url)
             fn = f"{re.sub(r'[^A-Za-z0-9]+', '_', r['Name']).strip('_')}_{r['Climate ID']}_hourly_2026-10.csv"
+            # the bulk service sometimes returns rows with no values; fall back to MSC GeoMet's OGC API
+            sample = [l for l in body.decode("utf-8", "replace").splitlines() if "2026-10-17 14:00" in l]
+            if not sample or sample[0].count(",") < 12:
+                api = ("https://api.weather.gc.ca/collections/climate-hourly/items?f=json&limit=10000"
+                       f"&CLIMATE_IDENTIFIER={r['Climate ID']}&datetime=2026-10-01T00:00:00Z/2026-10-31T23:59:59Z")
+                try:
+                    j = json.loads(http(api))
+                    feats = j.get("features", [])
+                    log("bulk CSV empty for", r["Name"], "- GeoMet API rows:", len(feats))
+                    if feats:
+                        (d / fn.replace(".csv", "_geomet.json")).write_text(json.dumps(j) + "\n")
+                        keys = sorted({k for f_ in feats for k in f_["properties"]})
+                        with (d / fn.replace(".csv", "_geomet.csv")).open("w", newline="") as fh:
+                            wr = csv.DictWriter(fh, fieldnames=keys, lineterminator="\n")
+                            wr.writeheader()
+                            wr.writerows(sorted((f_["properties"] for f_ in feats),
+                                                key=lambda p: str(p.get("LOCAL_DATE", ""))))
+                except Exception as exc:
+                    log("GeoMet API failed for", r["Name"], exc)
             (d / fn).write_bytes(body)
             picked.append({"name": r["Name"], "climate_id": r["Climate ID"], "station_id": sid,
                            "lat": r.get("Latitude (Decimal Degrees)"), "lon": r.get("Longitude (Decimal Degrees)"),
@@ -154,7 +173,10 @@ def aer_pipelines():
 
 def main() -> int:
     OUT.mkdir(parents=True, exist_ok=True)
+    only = set(sys.argv[1:])
     for name, fn in (("eccc", eccc_hourly), ("cgndb", geonames), ("canvec", canvec), ("aer", aer_pipelines)):
+        if only and name not in only:
+            continue
         try:
             fn()
         except Exception as exc:

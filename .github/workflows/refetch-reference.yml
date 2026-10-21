@@ -2,6 +2,10 @@ name: Refetch reference data
 
 on:
   workflow_dispatch:
+    inputs:
+      parts:
+        description: "Which parts (eccc cgndb canvec aer; blank = all)"
+        default: ""
 
 permissions:
   contents: write
@@ -16,7 +20,7 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install --quiet geopandas pyogrio shapely pandas opentimestamps-client
-      - run: python3 scripts/refetch_reference_data.py
+      - run: python3 scripts/refetch_reference_data.py ${{ inputs.parts }}
       - name: Manifest, timestamp, commit
         if: always()
         run: |
