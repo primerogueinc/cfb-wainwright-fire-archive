@@ -145,6 +145,9 @@ def canmatrix():
             put = has & ~filled
             out[:, put] = tmp[:, put]
             filled |= has
+    if not filled.any():
+        log("canmatrix: no georeferenced sheets; no overlay made")
+        return None
     img = np.moveaxis(out, 0, -1)
     import matplotlib.pyplot as plt
     plt.imsave(OUT / "canmatrix_view.png", img)
