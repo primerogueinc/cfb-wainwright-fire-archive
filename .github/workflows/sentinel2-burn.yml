@@ -1,0 +1,45 @@
+name: Sentinel-2 burn scar
+
+# Daily: looks for the clearest Copernicus Sentinel-2 scenes before/after the
+# fire, maps the burn scar (dNBR) and overlays FIRMS + GOES detections.
+# Commits only when better scenes are chosen.
+on:
+  schedule:
+    - cron: "23 20 * * *"
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Rebuild even if scenes are unchanged"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  burn:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - run: pip install --quiet numpy scipy rasterio shapely pyproj matplotlib h5py h5netcdf fsspec aiohttp opentimestamps-client
+      - name: Map burn scar
+        env:
+          FORCE: ${{ inputs.force && '--force' || '' }}
+        run: python3 scripts/sentinel2_burn.py $FORCE
+      - name: Manifest, timestamp, commit
+        run: |
+          git add data/copernicus
+          if git diff --cached --quiet; then echo "Nothing new."; exit 0; fi
+          m=data/manifests/copernicus_$(date -u +%Y%m%dT%H%M%SZ).sha256
+          find data/copernicus -type f | sort | xargs sha256sum > "$m"
+          ots stamp "$m" || echo "::warning::could not stamp $m"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/copernicus data/manifests
+          git commit -m "Sentinel-2 burn scar: $(date -u +%Y-%m-%d)"
+          for i in 1 2 3; do git pull --rebase && git push && exit 0; sleep 15; done
+          exit 1
