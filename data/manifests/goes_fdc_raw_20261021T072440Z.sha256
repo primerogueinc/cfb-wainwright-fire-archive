@@ -1,0 +1,5 @@
+5997f68bdb5d399a5d13ad99ea2a4aacd2b58569da7d2162ae57e6143b506b8d  data/goes/fdc_raw/ABOUT.md
+7e4e7b09b7fd5ee408400d3fde66acc7ebeaa582e80a5cb1173086edbb5e65af  data/goes/fdc_raw/fetch.sh
+2b0ac75fa7b319e47c7a1505d882dc10c1d5246cd78d140d2379963c97d44cc5  data/goes/fdc_raw/md5sums_match_noaa_etags.txt
+39ceecc70e69c9447e81a6ff202af53ab9fbafc7fdf8a59fd2edd358107772cf  data/goes/fdc_raw/sha256sums.txt
+8a7bb582138ab307cef2ebd98aaca56cf723482febc021fe85de32e64f42296e  data/goes/fdc_raw/zip_sha256.txt
