@@ -1,0 +1,5 @@
+satellite,sensor,pass_time_utc,pass_time_mdt,base_within_swath,detections_within_40km_of_base,note
+Suomi-NPP,VIIRS 375 m,2026-10-18 08:41-08:43,02:41-02:43,yes (high scan angle),0,detections recorded north/northwest and south of base in same minute
+NOAA-20,VIIRS 375 m,2026-10-18 09:01-09:05,03:01-03:05,yes,0,
+NOAA-21,VIIRS 375 m,2026-10-18 09:44-09:49,03:44-03:49,yes (near-nadir),0,
+Suomi-NPP,VIIRS 375 m,2026-10-18 10:21-10:26,04:21-04:26,yes,0,
