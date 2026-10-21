@@ -68,12 +68,17 @@ def aer_wells():
     shps = [p for p in (CACHE / "st37").rglob("*.shp")]
     surf = [p for p in shps if re.search(r"surf", p.name, re.I)] or shps
     # prefer the geographic (GCS_NAD83) version
-    surf.sort(key=lambda p: (not re.search(r"gcs|nad83", str(p), re.I), len(str(p))))
+    surf.sort(key=lambda p: (not re.search(r"gcs", p.name, re.I), len(str(p))))
     print("surface-hole shapefile:", surf[0], flush=True)
-    g = gpd.read_file(surf[0], bbox=(BBOX["west"], BBOX["south"], BBOX["east"], BBOX["north"]))
+    from shapely.geometry import box
+    area = gpd.GeoSeries([box(BBOX["west"], BBOX["south"], BBOX["east"], BBOX["north"])], crs="EPSG:4326")
+    g = gpd.read_file(surf[0], bbox=area)  # geopandas reprojects the bbox to the file's CRS
     if g.crs is None:
         g = g.set_crs("EPSG:4269")
     g = g.to_crs("EPSG:4326")
+    print(f"wells in box: {len(g)}; columns: {list(g.columns)}", flush=True)
+    if len(g):
+        print("sample:", g.drop(columns="geometry").iloc[0].to_dict(), flush=True)
     g = g[g.geometry.x.between(BBOX["west"], BBOX["east"]) & g.geometry.y.between(BBOX["south"], BBOX["north"])]
     return g, url
 
@@ -242,6 +247,12 @@ def main() -> int:
     mil_union = unary_union(mil.geometry) if len(mil) else None
     pct_in_mil = float(main_g.intersection(mil_union).area / main_g.area * 100) if mil_union else float("nan")
 
+    mil_named = mil[mil.name.astype(bool) | mil.military.astype(bool)].copy()
+    mil_named["dist_to_main_run_km"] = (mil_named.distance(main_g) / 1000).round(2)
+    mil_list = [{"name": r["name"], "military": r["military"], "osm_id": r["osm_id"],
+                 "dist_to_main_run_km": r["dist_to_main_run_km"]}
+                for _, r in mil_named.sort_values("dist_to_main_run_km").head(25).iterrows()]
+
     def wcount(cat, d):
         return int(((wells_u.category == cat) & (wells_u.dist_to_main_scar_m <= d)).sum())
 
@@ -272,6 +283,7 @@ def main() -> int:
                 "nearest_building_to_main_run_m": round(nearest_bldg),
                 "main_run_pct_inside_osm_military_landuse": round(pct_in_mil, 1),
                 "town_centre_to_main_run_km": round(float(town.distance(main_g).min()) / 1000, 1) if len(town) else None},
+        "osm_military_features_nearest": mil_list,
         "notes": "Well status categories are derived from ST37 text fields; check individual wells before publishing. "
                  "OSM coverage of pipelines is incomplete; AER's full pipeline layer is a paid product. "
                  "Base boundary from OSM military land use, not a DND survey.",
@@ -298,7 +310,7 @@ def main() -> int:
     ax.set_xlim(view[0], view[2]), ax.set_ylim(view[1], view[3])
     ax.set_facecolor("#f4f2ec")
     if mil_union is not None:
-        gpd.GeoSeries([mil_union], crs=UTM).plot(ax=ax, color="#e6e0cf", edgecolor="#8d8063", lw=1, ls="--", zorder=1)
+        gpd.GeoSeries([mil_union], crs=UTM).plot(ax=ax, color="#e6e0cf", edgecolor="#8d8063", lw=1, zorder=1)
     water.plot(ax=ax, color="#a9cfe8", edgecolor="#7fb2d6", lw=0.5, zorder=2)
     for hw, lw, col in [("track", 0.5, "#b8ad94"), ("unclassified", 0.8, "#8c8c8c"), ("residential", 0.6, "#9a9a9a"),
                         ("tertiary", 1.1, "#777"), ("secondary", 1.5, "#666"), ("primary", 2, "#555"),
@@ -310,8 +322,10 @@ def main() -> int:
                                              "primary", "trunk"])]
     other_roads.plot(ax=ax, color="#9a9a9a", lw=0.5, zorder=3)
     bldg.plot(ax=ax, color="#6d6d6d", lw=0, zorder=3)
-    power.plot(ax=ax, color="#7b1fa2", lw=1, ls=(0, (4, 2)), zorder=4)
-    pipes.plot(ax=ax, color="#ef6c00", lw=1.4, ls=(0, (6, 2, 1, 2)), zorder=4)
+    if len(power):
+        power.plot(ax=ax, color="#7b1fa2", lw=1, linestyle="--", zorder=4)
+    if len(pipes):
+        pipes.plot(ax=ax, color="#ef6c00", lw=1.4, linestyle="-.", zorder=4)
     patches[patches.patch == "main Oct 17 run"].plot(ax=ax, color="#d84315", alpha=0.55, edgecolor="#b71c1c",
                                                     lw=1.6, zorder=5)
     patches[patches.patch == "possible Oct 14 burn"].plot(ax=ax, color="none", edgecolor="#6a1b9a", lw=1.6,
@@ -368,9 +382,9 @@ def main() -> int:
         Line2D([], [], marker="^", ls="", mfc="#1b1b1b", ms=7, label="Producing oil well (AER)"),
         Line2D([], [], marker="v", ls="", mfc="#f9a825", ms=7, label="Suspended well (AER)"),
         Line2D([], [], marker="x", ls="", color="#757575", ms=6, label="Abandoned/reclaimed well (AER)"),
-        Line2D([], [], color="#ef6c00", lw=1.6, ls=(0, (6, 2, 1, 2)), label="Pipeline (OpenStreetMap, incomplete)"),
-        Line2D([], [], color="#7b1fa2", lw=1.2, ls=(0, (4, 2)), label="Power line (OSM)"),
-        Patch(fc="#e6e0cf", ec="#8d8063", ls="--", label="Military land (OSM)"),
+        Line2D([], [], color="#ef6c00", lw=1.6, ls="-.", label="Pipeline (OpenStreetMap, incomplete)"),
+        Line2D([], [], color="#7b1fa2", lw=1.2, ls="--", label="Power line (OSM)"),
+        Patch(fc="#e6e0cf", ec="#8d8063", label="Military land (OSM)"),
     ]
     ax.legend(handles=handles, loc="upper left", fontsize=8, framealpha=0.92)
     ax.set_title("CFB Wainwright fire: burn scar and nearby infrastructure", loc="left", fontsize=13)
