@@ -1,0 +1,21 @@
+CFB Wainwright (CZWN) SWOB hourly obs, Oct 17 2026 (ECCC Datamart). Times converted UTC->MDT.
+00Z=18:00 MDT | T 16.6 RH 23 | 2-min avg 192deg 10.0 | max past hr 13.3 at 2356Z dir 182 | None
+01Z=19:00 MDT | T 13.9 RH 33 | 2-min avg 186deg 15.5 | max past hr 18.7 at 0040Z dir 187 | None
+03Z=21:00 MDT | T 10.7 RH 42 | 2-min avg 196deg 15.5 | max past hr 18.2 at 0249Z dir 194 | None
+04Z=22:00 MDT | T 10.0 RH 43 | 2-min avg 208deg 12.1 | max past hr 17.3 at 0302Z dir 194 | None
+05Z=23:00 MDT | T 8.7 RH 46 | 2-min avg 164deg 8.4 | max past hr 14.1 at 0404Z dir 206 | None
+06Z=00:00 MDT | T 8.1 RH 46 | 2-min avg 143deg 9.6 | max past hr 13.0 at 0558Z dir 143 | None
+07Z=01:00 MDT | T 6.6 RH 49 | 2-min avg 194deg 5.3 | max past hr 17.4 at 0613Z dir 160 | None
+08Z=02:00 MDT | T 5.7 RH 50 | 2-min avg 191deg 8.6 | max past hr 12.8 at 0713Z dir 191 | None
+09Z=03:00 MDT | T 7.1 RH 45 | 2-min avg 207deg 14.3 | max past hr 15.5 at 0825Z dir 219 | None
+11Z=05:00 MDT | T 6.6 RH 50 | 2-min avg 197deg 11.9 | max past hr 13.8 at 1059Z dir 199 | None
+13Z=07:00 MDT | T 6.7 RH 51 | 2-min avg 220deg 13.5 | max past hr 16.9 at 1205Z dir 220 | None
+14Z=08:00 MDT | T 6.1 RH 53 | 2-min avg 218deg 12.5 | max past hr 21.3 at 1306Z dir 218 | None
+15Z=09:00 MDT | T 7.6 RH 49 | 2-min avg 218deg 18.7 | max past hr 23.2 at 1458Z dir 220 | None
+17Z=11:00 MDT | T 13.9 RH 33 | 2-min avg 203deg 21.4 | max past hr 26.5 at 1652Z dir 202 | None
+18Z=12:00 MDT | T 15.2 RH 32 | 2-min avg 203deg 12.0 | max past hr 29.8 at 1701Z dir 200 | None
+19Z=13:00 MDT | T 20.2 RH 23 | 2-min avg 215deg 13.7 | max past hr 23.6 at 1854Z dir 234 | None
+20Z=14:00 MDT | T 22.8 RH 16 | 2-min avg 235deg 30.9 | max past hr 45.7 at 1934Z dir 232 | PK WND 2325 1934Z
+21Z=15:00 MDT | T 23.3 RH 17 | 2-min avg 236deg 31.7 | max past hr 50.8 at 2048Z dir 246 | PK WND 2527 2048Z
+22Z=16:00 MDT | T 12.9 RH 43 | 2-min avg 306deg 50.8 | max past hr 82.0 at 2116Z dir 269 | PK WND 2744 2116Z
+23Z=17:00 MDT | T 12.0 RH 42 | 2-min avg 310deg 34.7 | max past hr 72.2 at 2209Z dir 288 | PK WND 2939 2209Z
