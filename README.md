@@ -11,12 +11,13 @@ The goal is a record anyone can check: every raw file is kept unaltered, hashed,
 | `data/firms/raw/` | Unaltered NASA FIRMS API responses (VIIRS S-NPP / NOAA-20 / NOAA-21, MODIS, Landsat) for a box around the base. Never overwritten; a new file is added only when a response changes. | Automatically, every 3 hours |
 | `data/firms/detections.csv` | All detections merged and de-duplicated, with UTC and local (MDT) times. | Automatically |
 | `data/firms/detections.geojson` | The same detections as a map (GitHub renders it). | Automatically |
+| `data/goes/` | GOES-18/19 loops of Oct 17 (11 a.m.–7 p.m. MDT): red visible, true colour, Fire Temperature RGB, Dust RGB (MP4 + GIF), key stills, and `fire_timeline.csv/.png` (cloud cover, 3.9 µm heat and NOAA fire power over the base every 10 minutes). | On demand |
 | `data/manifests/` | SHA-256 manifests of each batch of new raw files, plus `.ots` timestamp proofs. | Automatically |
 | `atip/` | Records released under the *Access to Information Act* and Alberta's *Access to Information Act*. | Within 72 hours of receipt |
 | `docs/` | Methods and verification notes. | As needed |
 | `scripts/` | The code that does the collecting. | As needed |
 
-Coming next: GOES-18/19 satellite loops of the Oct 17 smoke plume, the Oct 17 Landsat 8 scene, and Sentinel-2 burn-area analysis.
+Coming next: the Oct 17 Landsat 8 scene and Sentinel-2 burn-area analysis.
 
 ## Times
 
@@ -39,6 +40,7 @@ Proofs are complete a few hours after stamping, once they are anchored in a Bitc
 | Code (`scripts/`, `.github/`) | [MIT](LICENSE) |
 | Prime Rogue's own data, analysis and write-ups | [CC BY 4.0](LICENSE-DATA) — credit "Prime Rogue Inc." |
 | NASA FIRMS data | NASA open data. Credit: "NASA FIRMS (LANCE)". |
+| NOAA GOES data | Public domain (U.S. government). Credit: "NOAA GOES-18/19". |
 | Copernicus Sentinel data and derivatives | Free, with credit: "Contains modified Copernicus Sentinel data [2026]". |
 | USGS Landsat | Public domain. Credit: "USGS". |
 | Government records in `atip/` | **No licence is granted by Prime Rogue.** Released under access-to-information law; reproduced for news reporting and public-interest purposes. Crown copyright may apply. |
