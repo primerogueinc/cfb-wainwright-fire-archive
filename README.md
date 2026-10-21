@@ -23,6 +23,7 @@ The goal is a record anyone can check: every raw file is kept unaltered, hashed,
 | `data/reference/` | Reference data re-fetched from public sources: Environment Canada hourly records for the stations used to time the cold front, official place names, CanVec roads/wells/pipelines/buildings and AER pipelines around the base. | Fixed (archival) |
 | `data/derived_tables_oct19-20/` | Working tables from the first analysis, including Prime Rogue's hour-by-hour fire-weather calculation for Oct. 17 (FWI 53.6 at 2 p.m., 59.4 at 3 p.m., 91.4 at 4 p.m.). | Fixed (archival) |
 | `data/graphics_published/` | Every graphic Prime Rogue published on the fire, Oct. 17–20, kept as published (dated snapshots). | Fixed (archival) |
+| `data/adsb/` | ADS-B positions of every aircraft heard near the base on Oct. 17–18 (adsb.lol open archive, ODbL), with the original trace files, to find where aircraft landed near the fire. | On demand |
 | `data/manifests/` | SHA-256 manifests of each batch of new raw files, plus `.ots` timestamp proofs. | Automatically |
 | `atip/` | Records released under the *Access to Information Act* and Alberta's *Access to Information Act*. | Within 72 hours of receipt |
 | `docs/` | Methods and verification notes. | As needed |
