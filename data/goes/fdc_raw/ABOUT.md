@@ -6,7 +6,7 @@
 
 **Verified identical to NOAA's archive.** On Oct. 21, 2026, every file's MD5 was compared with the checksum (ETag) NOAA's public S3 archive reports for the same object: **360 of 360 match** (`md5sums_match_noaa_etags.txt`). `sha256sums.txt` lists SHA-256 for each file.
 
-**Where the files are.** To keep the repository small, the 220 MB of files are not committed here; they are byte-identical to NOAA's permanent public archive (`s3://noaa-goes18`). `fetch.sh` re-downloads all 360 and checks them against `sha256sums.txt`. The original bundle as uploaded (`goes18_fdc_oct17-18.zip`, SHA-256 in `zip_sha256.txt`) is held by Prime Rogue and will be attached to a GitHub release.
+**Where the files are.** All 360 files are committed in `goes18/ABI-L2-FDCC/` and `goes18/ABI-L2-FDCF/`, exactly as used in the analysis. Check them with `sha256sum -c sha256sums.txt` from this folder. `fetch.sh` can also re-download them from NOAA's public archive (`s3://noaa-goes18`) and verify them independently. The original bundle's SHA-256 is in `zip_sha256.txt`.
 
 Note: Wainwright lies just north of the CONUS sector's edge (see `docs/METHODS.md`), so the Full Disk files are the ones that cover the site; the fire pixels at 3:10, 3:30 and 3:40 p.m. MDT come from them (`data/goes/fire_timeline.csv`).
 
