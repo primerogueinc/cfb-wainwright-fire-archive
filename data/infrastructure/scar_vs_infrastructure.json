@@ -1,0 +1,71 @@
+{
+  "scar_source": {
+    "pre_scene": "S2C_12UWD_20261004_0_L2A",
+    "post_scene": "S2B_12UWD_20261019_0_L2A",
+    "threshold": "dNBR >= 0.27"
+  },
+  "patches": [
+    {
+      "patch": "main Oct 17 run",
+      "area_km2": 10.79
+    },
+    {
+      "patch": "possible Oct 14 burn",
+      "area_km2": 0.57
+    },
+    {
+      "patch": "other patch",
+      "area_km2": 0.05
+    },
+    {
+      "patch": "other patch",
+      "area_km2": 0.04
+    },
+    {
+      "patch": "other patch",
+      "area_km2": 0.03
+    },
+    {
+      "patch": "other patch",
+      "area_km2": 0.03
+    },
+    {
+      "patch": "other patch",
+      "area_km2": 0.02
+    },
+    {
+      "patch": "other patch",
+      "area_km2": 0.02
+    }
+  ],
+  "main_run": {
+    "area_km2": 10.79,
+    "length_km": 6.2,
+    "width_km_95pct": 2.4,
+    "axis_bearing_deg": 130
+  },
+  "possible_oct14_burn_km2": 0.57,
+  "wells": {
+    "source": "https://www.aer.ca/prd/documents/sts/st37/ST37_Shapefiles.zip",
+    "inside_any_scar_patch": 0,
+    "inside_main_run": 0,
+    "nearest_to_main_run": [],
+    "producing_gas_within_1km": 0,
+    "producing_gas_within_2km": 0,
+    "any_well_within_500m": 0,
+    "categories_within_5km": {}
+  },
+  "osm": {
+    "source": "https://overpass-api.de/api/interpreter",
+    "roads_crossed_by_main_run": [
+      "track",
+      "unclassified"
+    ],
+    "osm_pipelines_within_500m": 0,
+    "power_lines_within_500m": 0,
+    "nearest_building_to_main_run_m": 731,
+    "main_run_pct_inside_osm_military_landuse": 91.4,
+    "town_centre_to_main_run_km": 6.1
+  },
+  "notes": "Well status categories are derived from ST37 text fields; check individual wells before publishing. OSM coverage of pipelines is incomplete; AER's full pipeline layer is a paid product. Base boundary from OSM military land use, not a DND survey."
+}
