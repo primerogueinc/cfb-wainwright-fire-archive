@@ -88,9 +88,6 @@ jobs:
     if: always()
     runs-on: ubuntu-latest
     timeout-minutes: 90
-    concurrency:
-      group: archive-commit
-      cancel-in-progress: false
     steps:
       - uses: actions/checkout@v5
       - uses: actions/setup-python@v6

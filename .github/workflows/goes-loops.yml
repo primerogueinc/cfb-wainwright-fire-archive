@@ -18,9 +18,6 @@ on:
 permissions:
   contents: write
 
-concurrency:
-  group: archive-commit
-  cancel-in-progress: false
 
 jobs:
   render:
