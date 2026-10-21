@@ -1,0 +1,41 @@
+name: Upgrade timestamps
+
+# OpenTimestamps proofs start as calendar promises and become full Bitcoin
+# attestations a few hours later. This upgrades pending proofs daily.
+on:
+  schedule:
+    - cron: "41 7 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: archive-commit
+  cancel-in-progress: false
+
+jobs:
+  upgrade:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Upgrade pending proofs
+        run: |
+          pip install --quiet opentimestamps-client
+          shopt -s nullglob globstar
+          for p in data/**/*.ots atip/**/*.ots; do
+            ots upgrade "$p" || true
+          done
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A data atip
+          if git diff --cached --quiet; then echo "Nothing upgraded."; exit 0; fi
+          git commit -m "Upgrade OpenTimestamps proofs: $(date -u +%Y-%m-%d)"
+          for i in 1 2 3; do git pull --rebase && git push && exit 0; sleep 10; done
+          exit 1

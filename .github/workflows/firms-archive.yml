@@ -1,0 +1,63 @@
+name: FIRMS archive
+
+# Pulls NASA FIRMS fire detections over CFB Wainwright every 3 hours,
+# commits any new raw responses, and timestamps them with OpenTimestamps.
+on:
+  schedule:
+    - cron: "17 */3 * * *"
+  workflow_dispatch:
+    inputs:
+      start:
+        description: "Start date (YYYY-MM-DD)"
+        required: false
+        default: "2026-10-01"
+      end:
+        description: "End date (YYYY-MM-DD, blank = today UTC)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: archive-commit
+  cancel-in-progress: false
+
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch FIRMS detections
+        env:
+          FIRMS_MAP_KEY: ${{ secrets.FIRMS_MAP_KEY }}
+          START: ${{ github.event.inputs.start || '2026-10-01' }}
+          END: ${{ github.event.inputs.end }}
+        run: |
+          args=(--start "$START")
+          if [ -n "$END" ]; then args+=(--end "$END"); fi
+          python3 scripts/firms_archive.py "${args[@]}"
+
+      - name: Timestamp new manifests (OpenTimestamps)
+        run: |
+          pip install --quiet opentimestamps-client
+          shopt -s nullglob
+          for m in data/manifests/*.sha256; do
+            [ -f "$m.ots" ] || ots stamp "$m" || echo "::warning::could not stamp $m"
+          done
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then echo "No new data."; exit 0; fi
+          git commit -m "FIRMS archive: $(date -u +%Y-%m-%dT%H:%MZ)"
+          for i in 1 2 3; do git pull --rebase && git push && exit 0; sleep 10; done
+          exit 1
