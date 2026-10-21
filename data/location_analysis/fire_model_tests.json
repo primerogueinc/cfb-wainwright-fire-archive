@@ -1,0 +1,51 @@
+{
+ "post_shift_head_km_h_range": [
+  4.4,
+  12.0
+ ],
+ "post_shift_min_per_km_range": [
+  5.0,
+  13.8
+ ],
+ "gust82_head_km_h_range": [
+  7.8,
+  16.4
+ ],
+ "rutland_1km_30_60s_requires_km_h": [
+  60,
+  120
+ ],
+ "pre_shift_free_head_km_h": [
+  4.8,
+  7.8
+ ],
+ "pre_shift_flank_m_in_27min_FBP": [
+  202,
+  321
+ ],
+ "observed_pre_shift_growth_km_h": 0.39,
+ "observed_run_km_h_if_4_8km_in_20_40min": [
+  7.2,
+  14.4
+ ],
+ "minutes_to_0.25km": [
+  1.2,
+  3.4
+ ],
+ "minutes_to_0.5km": [
+  2.5,
+  6.8
+ ],
+ "minutes_to_1.0km": [
+  5.0,
+  13.6
+ ],
+ "minutes_to_1.5km": [
+  7.5,
+  20.5
+ ],
+ "minutes_to_4.8km": [
+  24.0,
+  65.5
+ ]
+}

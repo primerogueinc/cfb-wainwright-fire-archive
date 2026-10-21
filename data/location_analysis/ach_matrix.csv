@@ -1,0 +1,19 @@
+id,evidence,credibility,relevance,weight,H1,H2,H3,H4a,H4b,H5,H6
+E1,"Landsat 8, 12:17 MDT: 59 hotspots in NW lobe (52.770-52.780N, -110.937 to -110.913)",H,H,1.0,N,I,N,II,N,N,N
+E2,"VIIRS NOAA-20, 14:49 MDT: 8 hotspots 52.769-52.788N; one inside OSM Range 3; hull 0.59 km from Range 2",H,H,1.0,C,II,N,II,C,N,N
+E3,Sentinel-2 dNBR scar: Range 2 inside (60 m from edge); Range 3 0% burned; zone burned fractions,H,H,1.0,C,I,N,C,C,I,C
+E4,"Scar morphology: axis 130 deg, SE run starts at S edge of pre-shift hull; NE flank passes Range 2; N-S road held east flank N of 52.7705",M,H,0.7,C,I,C,I,C,N,C
+E5,ECCC CZWN: SW (235) to 3:16 p.m.; 82 km/h gust from 269 at 3:16; 306 (NW) by 4 p.m.,H,H,1.0,C,I,C,I,C,N,C
+E6,Rutland: fire ~1 km away when wind shifted (computed upwind distances per zone),M,H,0.7,C,II,II,II,C,C,I
+E7,Rutland: covered the distance in 30-60 s (=60-120 km/h; implausible),L,M,0.28,N,N,N,N,N,N,N
+E8,Rutland: casualties at section-attack admin area; grenade range not affected,M,M,0.49,N,N,N,N,N,N,N
+E9,"Globe and Mail (unverified): ""Range 3""",L,M,0.28,N,C,I,I,I,N,I
+E10,"Carignan: fire ""far removed from the training area""",L,L,0.16,N,N,N,N,N,N,N
+E11,DND release: fire reported/ignited ~4 p.m.,L,L,0.16,N,N,N,N,N,N,N
+E12,GOES-18 FDC fire pixels 15:10 / 15:30 (1215 MW) / 15:40 (south pixel only); 2-4 km pixels,H,L,0.4,N,N,N,N,N,N,N
+E13,Spread-rate check: 4.8 km run in ~20-40 min (7-14 km/h) => far-SE sites had 15-30 min warning,M,M,0.49,C,N,I,N,C,N,I
+E14,"Base boundary (OSM, corroborated per repo notes): 82% of H3 zone outside CFB Wainwright",M,M,0.49,N,N,I,N,N,N,N
+E15,"dNBR severity: H1 mean 0.50, H6 0.52, H2 0.39 (head-fire intensity in SE run)",M,L,0.28,C,I,N,N,N,I,C
+E16,"Access: collector road dead-ends at 52.7705,-110.8996 + building 52.7701,-110.8963 (1.1-1.3 km downwind of hull, on burn edge); Range 3 has a building",M,L,0.28,C,C,N,N,N,C,N
+SCORE,weighted inconsistency,,,,0.0,-7.38,-2.66,-7.38,-0.28,-1.28,-1.47
+COUNT,number of I/II,,,,0,7,4,6,1,2,3

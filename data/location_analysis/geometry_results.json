@@ -1,0 +1,364 @@
+{
+ "scar_area_km2": 10.803387592510678,
+ "hullA_area_km2": 2.003200720027705,
+ "hullA_in_scar_frac": 0.9679584199012295,
+ "landsat_in_scar": [
+  59,
+  59
+ ],
+ "viirs_in_scar": [
+  6,
+  8
+ ],
+ "viirs_dist_to_scar_m": [
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  39,
+  47
+ ],
+ "features": {
+  "Range 2 (Grenade)": {
+   "in_scar_frac": 1.0,
+   "dist_to_scar_m": 0,
+   "dist_to_scar_edge_m": 60,
+   "centroid_inside": true,
+   "dist_to_nearest_landsat_m": 840,
+   "dist_to_nearest_viirs1449_m": 987,
+   "dist_to_hullA_m": 563,
+   "area_m2": 1938
+  },
+  "Range 3": {
+   "in_scar_frac": 0.0,
+   "dist_to_scar_m": 3,
+   "dist_to_scar_edge_m": 200,
+   "centroid_inside": false,
+   "dist_to_nearest_landsat_m": 496,
+   "dist_to_nearest_viirs1449_m": 0,
+   "dist_to_hullA_m": 0,
+   "area_m2": 219603
+  },
+  "Range 4": {
+   "in_scar_frac": 0.0,
+   "dist_to_scar_m": 414,
+   "dist_to_scar_edge_m": 452,
+   "centroid_inside": false,
+   "dist_to_nearest_landsat_m": 1345,
+   "dist_to_nearest_viirs1449_m": 657,
+   "dist_to_hullA_m": 579,
+   "area_m2": 4413
+  },
+  "Range 5": {
+   "in_scar_frac": 0.0,
+   "dist_to_scar_m": 439,
+   "dist_to_scar_edge_m": 520,
+   "centroid_inside": false,
+   "dist_to_nearest_landsat_m": 1299,
+   "dist_to_nearest_viirs1449_m": 734,
+   "dist_to_hullA_m": 594,
+   "area_m2": 12353
+  },
+  "Range 6": {
+   "in_scar_frac": 0.0,
+   "dist_to_scar_m": 515,
+   "dist_to_scar_edge_m": 804,
+   "centroid_inside": false,
+   "dist_to_nearest_landsat_m": 1164,
+   "dist_to_nearest_viirs1449_m": 838,
+   "dist_to_hullA_m": 666,
+   "area_m2": 76354
+  },
+  "Range 8": {
+   "in_scar_frac": 0.0,
+   "dist_to_scar_m": 739,
+   "dist_to_scar_edge_m": 1051,
+   "centroid_inside": false,
+   "dist_to_nearest_landsat_m": 1284,
+   "dist_to_nearest_viirs1449_m": 817,
+   "dist_to_hullA_m": 817,
+   "area_m2": 80581
+  },
+  "Range 13": {
+   "in_scar_frac": 0.0,
+   "dist_to_scar_m": 700,
+   "dist_to_scar_edge_m": 961,
+   "centroid_inside": false,
+   "dist_to_nearest_landsat_m": 1367,
+   "dist_to_nearest_viirs1449_m": 1468,
+   "dist_to_hullA_m": 1360,
+   "area_m2": 247311
+  },
+  "Range 14": {
+   "in_scar_frac": 0.0,
+   "dist_to_scar_m": 1038,
+   "dist_to_scar_edge_m": 1313,
+   "centroid_inside": false,
+   "dist_to_nearest_landsat_m": 2532,
+   "dist_to_nearest_viirs1449_m": 2220,
+   "dist_to_hullA_m": 2220,
+   "area_m2": 110092
+  },
+  "Range 11": {
+   "in_scar_frac": 0.0,
+   "dist_to_scar_m": 592,
+   "dist_to_scar_edge_m": 847,
+   "centroid_inside": false,
+   "dist_to_nearest_landsat_m": 1167,
+   "dist_to_nearest_viirs1449_m": 1819,
+   "dist_to_hullA_m": 1167,
+   "area_m2": 204301
+  },
+  "Range Control": {
+   "in_scar_frac": 0.0,
+   "dist_to_scar_m": 2757,
+   "dist_to_scar_edge_m": 2834,
+   "centroid_inside": false,
+   "dist_to_nearest_landsat_m": 3846,
+   "dist_to_nearest_viirs1449_m": 2819,
+   "dist_to_hullA_m": 2819,
+   "area_m2": 12733
+  }
+ },
+ "bldg_52.7701_-110.8963": {
+  "inside": false,
+  "dist": 82
+ },
+ "road_deadend_52.7705_-110.8996": {
+  "inside": false,
+  "dist": 20
+ },
+ "Peterson Pond_dist_to_scar_m": 0,
+ "Jamieson Lake_dist_to_scar_m": 230,
+ "CZWN station_dist_to_scar_m": 12119,
+ "CZWN_to_scar_centroid_km": 14.8,
+ "oct18_viirs_inside_base": [
+  false,
+  false
+ ],
+ "oct18_viirs_dist_base_boundary_m": [
+  619,
+  565
+ ],
+ "oct18_viirs_in_scar": [
+  true,
+  true
+ ],
+ "scar_area_outside_base_km2": 0.93048108295905,
+ "goes": [
+  {
+   "mdt": "15:10",
+   "mw": 76.5,
+   "raw": [
+    "52.7918",
+    "-110.9056"
+   ],
+   "corr": [
+    52.7815,
+    -110.9175
+   ],
+   "raw_fp_overlap_scar_km2": 3.04,
+   "corr_fp_overlap_scar_km2": 4.85,
+   "corr_fp_contains_R2": true,
+   "corr_fp_contains_R3": true,
+   "fp_area_km2": 11.3
+  },
+  {
+   "mdt": "15:30",
+   "mw": 278.0,
+   "raw": [
+    "52.7918",
+    "-110.9056"
+   ],
+   "corr": [
+    52.7815,
+    -110.9175
+   ],
+   "raw_fp_overlap_scar_km2": 3.04,
+   "corr_fp_overlap_scar_km2": 4.85,
+   "corr_fp_contains_R2": true,
+   "corr_fp_contains_R3": true,
+   "fp_area_km2": 11.3
+  },
+  {
+   "mdt": "15:30",
+   "mw": 517.1,
+   "raw": [
+    "52.7945",
+    "-110.8668"
+   ],
+   "corr": [
+    52.7842,
+    -110.8787
+   ],
+   "raw_fp_overlap_scar_km2": 0.0,
+   "corr_fp_overlap_scar_km2": 1.26,
+   "corr_fp_contains_R2": false,
+   "corr_fp_contains_R3": false,
+   "fp_area_km2": 11.3
+  },
+  {
+   "mdt": "15:30",
+   "mw": 420.3,
+   "raw": [
+    "52.7538",
+    "-110.8962"
+   ],
+   "corr": [
+    52.7435,
+    -110.908
+   ],
+   "raw_fp_overlap_scar_km2": 3.88,
+   "corr_fp_overlap_scar_km2": 2.78,
+   "corr_fp_contains_R2": false,
+   "corr_fp_contains_R3": false,
+   "fp_area_km2": 11.3
+  },
+  {
+   "mdt": "15:40",
+   "mw": 336.3,
+   "raw": [
+    "52.7538",
+    "-110.8962"
+   ],
+   "corr": [
+    52.7435,
+    -110.908
+   ],
+   "raw_fp_overlap_scar_km2": 3.88,
+   "corr_fp_overlap_scar_km2": 2.78,
+   "corr_fp_contains_R2": false,
+   "corr_fp_contains_R3": false,
+   "fp_area_km2": 11.3
+  }
+ ],
+ "ray_summary": {
+  "A_hull_269": {
+   "H1": 0.96,
+   "H2": 0.02,
+   "H3": 0.0,
+   "H4": 0.02,
+   "H6": 0.0,
+   "other": 0.0,
+   "n_cells_0.6-1.5km": 189,
+   "area_km2": 0.47
+  },
+  "A_hull_306": {
+   "H1": 0.77,
+   "H2": 0.0,
+   "H3": 0.0,
+   "H4": 0.23,
+   "H6": 0.0,
+   "other": 0.0,
+   "n_cells_0.6-1.5km": 586,
+   "area_km2": 1.47
+  },
+  "B_hull+400m_269": {
+   "H1": 0.85,
+   "H2": 0.0,
+   "H3": 0.0,
+   "H4": 0.01,
+   "H6": 0.14,
+   "other": 0.0,
+   "n_cells_0.6-1.5km": 208,
+   "area_km2": 0.52
+  },
+  "B_hull+400m_306": {
+   "H1": 0.56,
+   "H2": 0.0,
+   "H3": 0.0,
+   "H4": 0.13,
+   "H6": 0.31,
+   "other": 0.0,
+   "n_cells_0.6-1.5km": 640,
+   "area_km2": 1.6
+  },
+  "C_hull+800m\u2229scar_269": {
+   "H1": 0.53,
+   "H2": 0.0,
+   "H3": 0.0,
+   "H4": 0.0,
+   "H6": 0.47,
+   "other": 0.0,
+   "n_cells_0.6-1.5km": 289,
+   "area_km2": 0.72
+  },
+  "C_hull+800m\u2229scar_306": {
+   "H1": 0.23,
+   "H2": 0.0,
+   "H3": 0.0,
+   "H4": 0.05,
+   "H6": 0.72,
+   "other": 0.0,
+   "n_cells_0.6-1.5km": 659,
+   "area_km2": 1.65
+  }
+ },
+ "zones": {
+  "H1": {
+   "zone_area_km2": 2.3,
+   "burned_km2": 1.9,
+   "burned_frac": 0.83,
+   "mean_dnbr": 0.502,
+   "p90_dnbr": 0.587,
+   "inside_base_frac": 1.0,
+   "min_dist_to_hullA_m": 0,
+   "max_dist_to_hullA_m": 1960
+  },
+  "H2": {
+   "zone_area_km2": 2.55,
+   "burned_km2": 0.73,
+   "burned_frac": 0.28,
+   "mean_dnbr": 0.391,
+   "p90_dnbr": 0.476,
+   "inside_base_frac": 1.0,
+   "min_dist_to_hullA_m": 0,
+   "max_dist_to_hullA_m": 624
+  },
+  "H3": {
+   "zone_area_km2": 7.89,
+   "burned_km2": 1.64,
+   "burned_frac": 0.21,
+   "mean_dnbr": 0.436,
+   "p90_dnbr": 0.574,
+   "inside_base_frac": 0.18,
+   "min_dist_to_hullA_m": 2278,
+   "max_dist_to_hullA_m": 4776
+  },
+  "H4": {
+   "zone_area_km2": 21.64,
+   "burned_km2": 4.0,
+   "burned_frac": 0.18,
+   "mean_dnbr": 0.44,
+   "p90_dnbr": 0.528,
+   "inside_base_frac": 1.0,
+   "min_dist_to_hullA_m": 0,
+   "max_dist_to_hullA_m": 1465
+  },
+  "H6": {
+   "zone_area_km2": 7.14,
+   "burned_km2": 2.72,
+   "burned_frac": 0.38,
+   "mean_dnbr": 0.516,
+   "p90_dnbr": 0.612,
+   "inside_base_frac": 1.0,
+   "min_dist_to_hullA_m": 1141,
+   "max_dist_to_hullA_m": 3614
+  }
+ },
+ "farthest_burn_from_hullA_m": [
+  4756,
+  52.7426,
+  -110.8646
+ ],
+ "ROS_kmh_if_run_took_10min": 28.5,
+ "ROS_kmh_if_run_took_20min": 14.3,
+ "ROS_kmh_if_run_took_30min": 9.5,
+ "ROS_kmh_if_run_took_40min": 7.1,
+ "ROS_kmh_rutland_1km_in_30_60s": [
+  60,
+  120
+ ]
+}

@@ -1,0 +1,51 @@
+scenario,curing,wind,model,head_km_h,min_per_km,flank_m_min,lb,I,flame_m,isi,mc
+"Before the shift, 2:49-3:16 p.m.",90,32,FBP O1b,6.2,9.7,9.5,5.5,10864.0,5.6,32.4,
+"Before the shift, 2:49-3:16 p.m.",90,32,FBP O1a,4.8,12.4,7.5,5.5,7230.0,4.6,32.4,
+"Before the shift, 2:49-3:16 p.m.",90,32,CSIRO natural,6.5,9.2,,,14651.0,6.4,,7.1
+"Before the shift, 2:49-3:16 p.m.",90,32,CSIRO grazed,5.5,10.9,,,8272.0,4.9,,7.1
+"Before the shift, 2:49-3:16 p.m.",90,32,Cruz 20% rule,6.4,9.4,,,,,,
+"Before the shift, 2:49-3:16 p.m.",100,32,FBP O1b,7.8,7.7,11.9,5.5,13580.0,6.2,32.4,
+"Before the shift, 2:49-3:16 p.m.",100,32,FBP O1a,6.0,10.0,9.3,5.5,9037.0,5.1,32.4,
+"Before the shift, 2:49-3:16 p.m.",100,32,CSIRO natural,6.9,8.7,,,15521.0,6.6,,7.1
+"Before the shift, 2:49-3:16 p.m.",100,32,CSIRO grazed,5.8,10.3,,,8763.0,5.0,,7.1
+"Before the shift, 2:49-3:16 p.m.",100,32,Cruz 20% rule,6.4,9.4,,,,,,
+"Before the shift, gusts",90,50,FBP O1b,10.0,6.0,12.3,6.8,17436.0,6.9,64.8,
+"Before the shift, gusts",90,50,FBP O1a,7.5,8.1,9.2,6.8,11179.0,5.6,64.8,
+"Before the shift, gusts",90,50,CSIRO natural,9.7,6.2,,,21807.0,7.7,,7.1
+"Before the shift, gusts",90,50,CSIRO grazed,8.2,7.3,,,12343.0,5.9,,7.1
+"Before the shift, gusts",90,50,Cruz 20% rule,10.0,6.0,,,,,,
+"Before the shift, gusts",100,50,FBP O1b,12.5,4.8,15.4,6.8,21795.0,7.7,64.8,
+"Before the shift, gusts",100,50,FBP O1a,9.3,6.4,11.5,6.8,13974.0,6.3,64.8,
+"Before the shift, gusts",100,50,CSIRO natural,10.3,5.8,,,23102.0,7.9,,7.1
+"Before the shift, gusts",100,50,CSIRO grazed,8.7,6.9,,,13075.0,6.1,,7.1
+"Before the shift, gusts",100,50,Cruz 20% rule,10.0,6.0,,,,,,
+Just after the front (drier edge),90,48,FBP O1b,9.6,6.2,12.1,6.6,16805.0,6.8,59.9,
+Just after the front (drier edge),90,48,FBP O1a,7.2,8.3,9.1,6.6,10787.0,5.6,59.9,
+Just after the front (drier edge),90,48,CSIRO natural,7.4,8.1,,,16606.0,6.8,,9.3
+Just after the front (drier edge),90,48,CSIRO grazed,6.3,9.6,,,9397.0,5.2,,9.3
+Just after the front (drier edge),90,48,Cruz 20% rule,9.6,6.2,,,,,,
+Just after the front (drier edge),100,48,FBP O1b,12.0,5.0,15.1,6.6,21007.0,7.5,59.9,
+Just after the front (drier edge),100,48,FBP O1a,9.0,6.7,11.3,6.6,13483.0,6.2,59.9,
+Just after the front (drier edge),100,48,CSIRO natural,7.8,7.7,,,17592.0,7.0,,9.3
+Just after the front (drier edge),100,48,CSIRO grazed,6.6,9.0,,,9955.0,5.4,,9.3
+Just after the front (drier edge),100,48,Cruz 20% rule,9.6,6.2,,,,,,
+"After the shift, 4 p.m. obs",90,48,FBP O1b,9.4,6.4,11.8,6.6,16444.0,6.7,57.4,
+"After the shift, 4 p.m. obs",90,48,FBP O1a,7.0,8.5,8.9,6.6,10564.0,5.5,57.4,
+"After the shift, 4 p.m. obs",90,48,CSIRO natural,5.1,11.7,,,11547.0,5.7,,12.9
+"After the shift, 4 p.m. obs",90,48,CSIRO grazed,4.4,13.8,,,6534.0,4.4,,12.9
+"After the shift, 4 p.m. obs",90,48,Cruz 20% rule,9.6,6.2,,,,,,
+"After the shift, 4 p.m. obs",100,48,FBP O1b,11.7,5.1,14.8,6.6,20555.0,7.5,57.4,
+"After the shift, 4 p.m. obs",100,48,FBP O1a,8.8,6.8,11.1,6.6,13205.0,6.1,57.4,
+"After the shift, 4 p.m. obs",100,48,CSIRO natural,5.4,11.0,,,12232.0,5.9,,12.9
+"After the shift, 4 p.m. obs",100,48,CSIRO grazed,4.6,13.0,,,6922.0,4.5,,12.9
+"After the shift, 4 p.m. obs",100,48,Cruz 20% rule,9.6,6.2,,,,,,
+Peak gust 3:16 p.m.,90,82,FBP O1b,10.5,5.7,10.3,8.5,18348.0,7.1,73.5,
+Peak gust 3:16 p.m.,90,82,FBP O1a,7.8,7.7,7.7,8.5,11759.0,5.8,73.5,
+Peak gust 3:16 p.m.,90,82,CSIRO natural,11.8,5.1,,,26464.0,8.4,,9.3
+Peak gust 3:16 p.m.,90,82,CSIRO grazed,10.0,6.0,,,15004.0,6.5,,9.3
+Peak gust 3:16 p.m.,90,82,Cruz 20% rule,16.4,3.7,,,,,,
+Peak gust 3:16 p.m.,100,82,FBP O1b,13.1,4.6,12.9,8.5,22935.0,7.9,73.5,
+Peak gust 3:16 p.m.,100,82,FBP O1a,9.8,6.1,9.6,8.5,14699.0,6.4,73.5,
+Peak gust 3:16 p.m.,100,82,CSIRO natural,12.5,4.8,,,28035.0,8.6,,9.3
+Peak gust 3:16 p.m.,100,82,CSIRO grazed,10.6,5.7,,,15895.0,6.6,,9.3
+Peak gust 3:16 p.m.,100,82,Cruz 20% rule,16.4,3.7,,,,,,

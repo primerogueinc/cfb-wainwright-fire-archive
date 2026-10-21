@@ -1,0 +1,230 @@
+{
+ "zones": {
+  "H1 Range 2 / N-S road": {
+   "area_km2": 1.9,
+   "AER wells (any status)": 1,
+   "AER wells by status": {
+    "Issued": 1
+   },
+   "AER pipeline km": 1.24,
+   "AER pipeline km operating": 1.24,
+   "CanVec petroleum wells": 0,
+   "CanVec pipeline km": 0.0,
+   "power line km": 0.0,
+   "buildings": 1,
+   "tanks / storage": 0,
+   "gravel pits": 0,
+   "road + track km (CanVec)": 1.41,
+   "OSM track km": 3.12,
+   "road/track dead ends": 1
+  },
+  "H4b strip north of Jamieson Lake": {
+   "area_km2": 0.85,
+   "AER wells (any status)": 0,
+   "AER wells by status": {},
+   "AER pipeline km": 0.0,
+   "AER pipeline km operating": 0.0,
+   "CanVec petroleum wells": 0,
+   "CanVec pipeline km": 0.0,
+   "power line km": 0.0,
+   "buildings": 0,
+   "tanks / storage": 0,
+   "gravel pits": 0,
+   "road + track km (CanVec)": 1.4,
+   "OSM track km": 0.0,
+   "road/track dead ends": 2
+  },
+  "H6 south-central run": {
+   "area_km2": 1.92,
+   "AER wells (any status)": 0,
+   "AER wells by status": {},
+   "AER pipeline km": 0.0,
+   "AER pipeline km operating": 0.0,
+   "CanVec petroleum wells": 0,
+   "CanVec pipeline km": 0.0,
+   "power line km": 0.0,
+   "buildings": 0,
+   "tanks / storage": 0,
+   "gravel pits": 0,
+   "road + track km (CanVec)": 1.42,
+   "OSM track km": 1.53,
+   "road/track dead ends": 0
+  },
+  "H2 Range 3 / north end": {
+   "area_km2": 0.94,
+   "AER wells (any status)": 1,
+   "AER wells by status": {
+    "Issued": 1
+   },
+   "AER pipeline km": 0.96,
+   "AER pipeline km operating": 0.96,
+   "CanVec petroleum wells": 0,
+   "CanVec pipeline km": 0.0,
+   "power line km": 0.0,
+   "buildings": 1,
+   "tanks / storage": 0,
+   "gravel pits": 0,
+   "road + track km (CanVec)": 1.43,
+   "OSM track km": 1.43,
+   "road/track dead ends": 0
+  },
+  "H3 east lobe past road": {
+   "area_km2": 1.64,
+   "AER wells (any status)": 5,
+   "AER wells by status": {
+    "Abandoned": 3,
+    "RecCertified": 1,
+    "Issued": 1
+   },
+   "AER pipeline km": 1.54,
+   "AER pipeline km operating": 1.34,
+   "CanVec petroleum wells": 0,
+   "CanVec pipeline km": 0.0,
+   "power line km": 0.0,
+   "buildings": 0,
+   "tanks / storage": 0,
+   "gravel pits": 0,
+   "road + track km (CanVec)": 0.5,
+   "OSM track km": 0.49,
+   "road/track dead ends": 0
+  },
+  "H4a west interior": {
+   "area_km2": 2.95,
+   "AER wells (any status)": 0,
+   "AER wells by status": {},
+   "AER pipeline km": 0.0,
+   "AER pipeline km operating": 0.0,
+   "CanVec petroleum wells": 0,
+   "CanVec pipeline km": 0.0,
+   "power line km": 0.0,
+   "buildings": 0,
+   "tanks / storage": 0,
+   "gravel pits": 0,
+   "road + track km (CanVec)": 3.16,
+   "OSM track km": 0.0,
+   "road/track dead ends": 2
+  }
+ },
+ "near_12_17_fire_line": {
+  "AER wells": {
+   "within_250m": 0,
+   "within_500m": 0,
+   "nearest_m": 1006.0
+  },
+  "AER pipelines": {
+   "within_250m": 0,
+   "within_500m": 0,
+   "nearest_m": 867.0
+  },
+  "CanVec petroleum wells": {
+   "within_250m": 0,
+   "within_500m": 0,
+   "nearest_m": 2868.0
+  },
+  "CanVec pipelines": {
+   "within_250m": 0,
+   "within_500m": 0,
+   "nearest_m": 5461.0
+  },
+  "power lines": {
+   "within_250m": 0,
+   "within_500m": 0,
+   "nearest_m": 5452.0
+  },
+  "buildings": {
+   "within_250m": 0,
+   "within_500m": 0,
+   "nearest_m": 898.0
+  },
+  "tanks": {
+   "within_250m": 0,
+   "within_500m": 0,
+   "nearest_m": 4752.0
+  },
+  "nearest AER wells": [
+   {
+    "Licensee": "Sumerian Oil & Gas Inc.",
+    "Lic_Status": "Issued",
+    "Status_Dat": "07/10/2001",
+    "category": "other/unknown",
+    "d": 1006.0
+   },
+   {
+    "Licensee": "Sumerian Oil & Gas Inc.",
+    "Lic_Status": "Issued",
+    "Status_Dat": "06/15/1999",
+    "category": "other/unknown",
+    "d": 1136.0
+   },
+   {
+    "Licensee": "Sumerian Oil & Gas Inc.",
+    "Lic_Status": "Issued",
+    "Status_Dat": "05/27/1999",
+    "category": "other/unknown",
+    "d": 1369.0
+   },
+   {
+    "Licensee": "Sumerian Oil & Gas Inc.",
+    "Lic_Status": "Issued",
+    "Status_Dat": "07/04/2002",
+    "category": "other/unknown",
+    "d": 1789.0
+   },
+   {
+    "Licensee": "Sequoia Resources Corp.",
+    "Lic_Status": "Suspension",
+    "Status_Dat": "03/19/2018",
+    "category": "suspended",
+    "d": 1915.0
+   }
+  ],
+  "nearest AER pipelines": [
+   {
+    "COMP_NAME": "Sumerian Oil & Gas Inc.",
+    "SEG_STATUS": "Operating",
+    "SUBSTANCE1": "Natural Gas",
+    "OUT_DIAMET": "88.9",
+    "d": 867.0
+   },
+   {
+    "COMP_NAME": "Sumerian Oil & Gas Inc.",
+    "SEG_STATUS": "Operating",
+    "SUBSTANCE1": "Natural Gas",
+    "OUT_DIAMET": "114.3",
+    "d": 1021.0
+   },
+   {
+    "COMP_NAME": "Sumerian Oil & Gas Inc.",
+    "SEG_STATUS": "Operating",
+    "SUBSTANCE1": "Natural Gas",
+    "OUT_DIAMET": "88.9",
+    "d": 1058.0
+   },
+   {
+    "COMP_NAME": "Sumerian Oil & Gas Inc.",
+    "SEG_STATUS": "Operating",
+    "SUBSTANCE1": "Natural Gas",
+    "OUT_DIAMET": "88.9",
+    "d": 1713.0
+   },
+   {
+    "COMP_NAME": "Sumerian Oil & Gas Inc.",
+    "SEG_STATUS": "Operating",
+    "SUBSTANCE1": "Natural Gas",
+    "OUT_DIAMET": "168.3",
+    "d": 1774.0
+   }
+  ]
+ },
+ "scar_edge_on_roads_tracks_pct": 11.5,
+ "scar_edge_on_pipelines_pct": 2.2,
+ "scar_edge_on_lakes_note": "lakes not in vector layers; see map",
+ "sweep_1km_band_H1_plus_H4b_pct": {
+  "min": 27.0,
+  "max": 100.0,
+  "median": 75.5
+ },
+ "sweep_1km_band_H2_max_pct": 2.0,
+ "sweep_1km_band_H3_max_pct": 0.0,
+ "sweep_1km_band_H4a_max_pct": 5.0
+}

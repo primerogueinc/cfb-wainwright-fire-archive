@@ -1,0 +1,15 @@
+point,lat,lon,in_scar,dist_scar_edge_m,dist_to_preshift_hull_m,upwind_dist_W269_m,upwind_dist_NW306_m,upwind_dist_NW306_hull400_m,dnbr_60m
+Range2 centroid (OSM),52.7728,-110.9063,True,62,586,662,593,188,0.242
+Range3 centroid (OSM),52.7839,-110.9034,False,199,136,154,138,0,0.199
+Road dead end (CanVec),52.7705,-110.8996,False,20,1105,1249,1120,714,0.22
+Building (CanVec),52.7701,-110.8963,False,82,1320,1493,1338,932,0.183
+Track @52.765,52.7628,-110.8995,True,734,1536,,1556,1150,0.495
+Track @52.760,52.7605,-110.9039,True,440,1440,,1491,1043,0.52
+Track @52.755,52.7551,-110.8994,True,157,2085,,2384,1824,0.351
+"East lobe @ -110.875,52.755",52.755,-110.875,False,16,3407,,3451,3046,0.236
+East lobe Oct18 VIIRS,52.7464,-110.8662,True,208,4416,,4458,4053,0.43
+"SW lobe N of lake 52.763,-110.915",52.763,-110.915,True,405,752,,991,431,0.492
+"West: pond 52.767,-110.93",52.7675,-110.93,True,305,175,,462,0,0.475
+North: Peterson Pond,52.787,-110.903,True,61,0,0,0,0,0.51
+Range Control (OSM),52.8143,-110.9005,False,2838,2900,,,,0.012
+Landsat SW end,52.7704,-110.9367,True,284,1,,,0,0.377
