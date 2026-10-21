@@ -53,7 +53,7 @@ def stac_search():
     req = urllib.request.Request(STAC, data=json.dumps(body).encode(), headers={"Content-Type": "application/json"})
     with urllib.request.urlopen(req, timeout=120) as r:
         feats = json.load(r)["features"]
-    return [f for f in feats if f["properties"].get("mgrs:utm_zone") == 12]
+    return feats
 
 
 def read_aoi(href, res=20):
@@ -150,12 +150,26 @@ def main() -> int:
     feats = stac_search()
     print(f"{len(feats)} Sentinel-2 scenes found", flush=True)
     recs = []
+    errors = []
     for f in feats:
         try:
             recs.append(scene_record(f))
         except Exception as exc:
+            errors.append(f"{f['id']}: {exc}")
             print(f"  skip {f['id']}: {exc}", flush=True)
-    recs = [r for r in recs if r["coverage"] > 0.95]
+    diag = [f"{len(feats)} STAC features; {len(recs)} readable"] + [f"error: {e}" for e in errors[:3]]
+    if feats:
+        p0 = feats[0]["properties"]
+        diag.append("sample props: " + ", ".join(f"{k}={p0[k]}" for k in sorted(p0)
+                                                  if k.startswith(("mgrs", "proj", "s2:mgrs", "eo:"))))
+    by_date = {}
+    for r in recs:  # one scene per date: the one covering most of the AOI, then clearest
+        k = r["date"]
+        if k not in by_date or (r["coverage"], r["clear_frac"]) > (by_date[k]["coverage"], by_date[k]["clear_frac"]):
+            by_date[k] = r
+    recs = [r for r in by_date.values() if r["coverage"] > 0.9]
+    diag.append(f"{len(recs)} dates with >90% AOI coverage")
+    print("\n".join(diag), flush=True)
     for r in sorted(recs, key=lambda r: r["datetime"]):
         print(f"  {r['datetime'][:16]}  {r['id']:40}  clear {r['clear_frac']:.0%}", flush=True)
     pre = [r for r in recs if date.fromisoformat(r["date"]) < FIRE_DATE and r["clear_frac"] >= 0.9]
@@ -169,7 +183,7 @@ def main() -> int:
     if not pre or not post:
         msg = "no clear post-fire scene yet" if pre else "no clear pre-fire scene"
         print(msg)
-        (OUT / "status.txt").write_text(f"{datetime.now(timezone.utc):%Y-%m-%dT%H:%MZ}: {msg}\n")
+        (OUT / "status.txt").write_text(f"{datetime.now(timezone.utc):%Y-%m-%dT%H:%MZ}: {msg}\n" + "\n".join(diag) + "\n")
         return 0
     pre_r = max(pre, key=lambda r: r["datetime"])            # latest clear before the fire
     post_r = max(post, key=lambda r: (r["clear_frac"] >= 0.9, -abs((date.fromisoformat(r["date"]) - FIRE_DATE).days),
