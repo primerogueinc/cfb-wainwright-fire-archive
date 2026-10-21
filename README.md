@@ -14,6 +14,7 @@ The goal is a record anyone can check: every raw file is kept unaltered, hashed,
 | `data/firms/manual_downloads_v2/` | Prime Rogue's first evidence package: hand-downloaded FIRMS KMZ/KML files from Oct. 17–18, preserved byte-for-byte with their original README and checksums. | Fixed (archival) |
 | `data/goes/` | GOES-18/19 loops of Oct 17 (11 a.m.–7 p.m. MDT): red visible, true colour, Fire Temperature RGB, Dust RGB (MP4 + GIF), key stills, and `fire_timeline.csv/.png` (cloud cover, 3.9 µm heat and NOAA fire power over the base every 10 minutes). | On demand |
 | `data/goes/early_subsets_goes18/` | First GOES-18 analysis (Oct. 18–19): band subsets, extraction/render code, and the early published frames and loop. | Fixed (archival) |
+| `data/noaa_hms/` | NOAA Hazard Mapping System fire points and smoke outlines, Oct. 13–18 (originals), with a summary of points near the base and a smoke-coverage check. | Fixed (archival) |
 | `data/copernicus/` | Burn scar from Copernicus Sentinel-2 (dNBR, before/after), with NASA FIRMS and NOAA GOES detections overlaid: `burn_scar_map.png`, `before_after.png`, `burn_scar.geojson`, `fire_progression.geojson` (opens as a map on GitHub), `dnbr.tif`, `summary.json`. | Automatically, daily (when a clearer scene appears) |
 | `data/manifests/` | SHA-256 manifests of each batch of new raw files, plus `.ots` timestamp proofs. | Automatically |
 | `atip/` | Records released under the *Access to Information Act* and Alberta's *Access to Information Act*. | Within 72 hours of receipt |
@@ -43,7 +44,7 @@ Proofs are complete a few hours after stamping, once they are anchored in a Bitc
 | Code (`scripts/`, `.github/`) | [MIT](LICENSE) |
 | Prime Rogue's own data, analysis and write-ups | [CC BY 4.0](LICENSE-DATA) — credit "Prime Rogue Inc." |
 | NASA FIRMS data | NASA open data. Credit: "NASA FIRMS (LANCE)". |
-| NOAA GOES data | Public domain (U.S. government). Credit: "NOAA GOES-18/19". |
+| NOAA GOES and HMS data | Public domain (U.S. government). Credit: "NOAA". |
 | Copernicus Sentinel data and derivatives | Free, with credit: "Contains modified Copernicus Sentinel data [2026]". |
 | USGS Landsat | Public domain. Credit: "USGS". |
 | Government records in `atip/` | **No licence is granted by Prime Rogue.** Released under access-to-information law; reproduced for news reporting and public-interest purposes. Crown copyright may apply. |

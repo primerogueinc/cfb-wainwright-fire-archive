@@ -1,0 +1,32 @@
+{
+  "hms_smoke20261013.zip": {
+    "polygons": 148,
+    "containing_site": 0,
+    "nearest_polygon_km": 700.9
+  },
+  "hms_smoke20261014.zip": {
+    "polygons": 342,
+    "containing_site": 0,
+    "nearest_polygon_km": 524.3
+  },
+  "hms_smoke20261015.zip": {
+    "polygons": 361,
+    "containing_site": 0,
+    "nearest_polygon_km": 535.7
+  },
+  "hms_smoke20261016.zip": {
+    "polygons": 187,
+    "containing_site": 0,
+    "nearest_polygon_km": 542.5
+  },
+  "hms_smoke20261017.zip": {
+    "polygons": 149,
+    "containing_site": 0,
+    "nearest_polygon_km": 140.5
+  },
+  "hms_smoke20261018.zip": {
+    "polygons": 205,
+    "containing_site": 0,
+    "nearest_polygon_km": 424.9
+  }
+}
