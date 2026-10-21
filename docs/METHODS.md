@@ -50,3 +50,5 @@ The timestamp proves a file existed unchanged at that time. It does not prove th
 **Limits.** Grass fires can burn lightly enough to fall below the 0.27 threshold, so the area is a conservative estimate. Partly cloudy post-fire scenes can hide parts of the scar; the daily run replaces the result when a clearer scene appears. Overlaid GOES pixels are located to within a few kilometres.
 
 Contains modified Copernicus Sentinel data [2026].
+
+**Revised scar.** `data/copernicus/summary.json` reports the raw output: 31 patches totalling 11.71 km² at dNBR ≥ 0.27. `scripts/infrastructure_map.py` then groups those patches in `data/infrastructure/scar_patches_revised.geojson`: the main Oct. 17 run (10.79 km²), a separate patch southwest of the lakes that matches a NOAA-21 detection on Oct. 14 (0.57 km²), and small outlying patches. Analysis of the Oct. 17 fire uses the 10.79 km² main run.
