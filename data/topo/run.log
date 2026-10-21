@@ -1,4 +1,8 @@
 toporama layers: ['WMS-Toporama', 'limits', 'vegetation', 'builtup_areas', 'designated_areas', 'hydrography', 'hypsography', 'water_saturated_soils', 'landforms', 'constructions', 'road_network', 'railway', 'aeronautical_network', 'structures', 'power_network', 'boundaries', 'feature_names']
 canmatrix listing https://ftp.maps.canada.ca/pub/nrcan_rncan/raster/canmatrix2/50k_tif/073/d/ ['canmatrix2_073d10_tif.zip', 'canmatrix2_073d15_tif.zip']
 canmatrix tifs: ['073d10_04.tif', '073d15_04.tif']
-canmatrix failed: Missing src_crs.
+files beside 073d10_04.tif ['073d10_04.tif', 'canmatrix2_073d10_1_0_pna.xml']
+no CRS for 073d10_04.tif - skipping
+files beside 073d15_04.tif ['073d15_04.tif', 'canmatrix2_073d15_1_0_pna.xml']
+no CRS for 073d15_04.tif - skipping
+OSM way 1240048250 history: [('1', '2024-01-16T02:53:57Z', 'Юрий-Д')]; tags (all versions): [('landuse', 'military'), ('military', 'range'), ('name', 'Range 2 (Grenade)')]
