@@ -1,0 +1,10 @@
+{
+ "hull_dist": {
+  "dist_A_m": 586,
+  "dist_B_m": 1105,
+  "dist_C_m": 622,
+  "dist_D_m": 1540,
+  "dist_E_m": 2277
+ },
+ "part1_core_cells": 171
+}
