@@ -33,3 +33,20 @@ Parts 1-6 were re-run end to end (`spread.py`, `part2_distance.py`, part 3 sight
 - slivers totalling about 0.002 km² along PDA 2's eastern boundary, 20-700 m from the road head.
 
 If the section-attack range's administrative area lay outside PDA 2 (as admin areas normally do) and the fire overtook it about a kilometre from where the fire was when the wind shifted, the eastern boundary near the road head is the only burned ground that fits. The southeast patch is too far from the fire's position at 3:16. This rests on OpenStreetMap's PDA 2 boundary, which DND has not confirmed.
+
+## Firming up the soft spots (`firm_up.py`, `firm_up.json`)
+
+**When the front reached the fire.** A planar fit to front passage at Edmonton (1:27 p.m. MDT), Red Deer (2:24), Wainwright station (3:16) and Lloydminster (3:49) gives a front moving toward 130° at about 80 km/h. At that speed it would reach the fire, about 13 km downstream of the station, around 3:26. The fit is loose (residuals up to about 13 minutes), and the GOES-18 southern pixel burning by 3:30 favours an earlier arrival. Bracket: **3:16 to about 3:26**. Parts 1-6 already model both ends (front at 3:16 and 3:25). Clock times may run up to about 10 minutes later than the 3:16-based figures; the minutes between the front and the fire's arrival do not change.
+
+**How fast the fire ran.** The evidence pulls both ways. The GOES-18 southern pixel needs at least 8 km/h. The 3:30 fire power (1,215 MW, under a 100% cloud flag) fits a slower run, about 4 km/h by the Byram estimate, though cloud attenuates fire power. The 4.4-12 km/h range stands. If the fire ran at 8-12 km/h, escape odds are worse:
+
+| Leaving at | Range 2 area, jog (all 30 fires / 8-12 km/h) | Road head, jog (all / 8-12 km/h) |
+|---|---|---|
+| The gust | 80% / 70% | 100% / 100% |
+| +3 min | 43% / 15% | 83% / 75% |
+| +5 min | 40% / 10% | 73% / 60% |
+| +7 min | 10% / 0% | 53% / 30% |
+
+At 8-12 km/h, the median fire arrival is about 5 minutes after the front at the Range 2 point and about 9 minutes at the road head.
+
+**Rutland's "a kilometre in 30 to 60 seconds".** The gust front itself moved at about 80 km/h, which is a kilometre in about 45 seconds. That matches the wind's arrival, not the flame front, which the data puts at 4.4-12 km/h (5 to 14 minutes per kilometre).
