@@ -1,0 +1,361 @@
+run,schedule,front,ros_kmh,time,pixel,active_km2,goes_mw
+scar_limited,S0_fixed306,3:16,4.4,15:30,W (start),0.531,278
+scar_limited,S0_fixed306,3:16,4.4,15:30,E,0.0,517
+scar_limited,S0_fixed306,3:16,4.4,15:30,S,0.0,420
+scar_limited,S0_fixed306,3:16,4.4,15:40,W (start),0.302,0
+scar_limited,S0_fixed306,3:16,4.4,15:40,E,0.0,0
+scar_limited,S0_fixed306,3:16,4.4,15:40,S,0.0,336
+unconstrained,S0_fixed306,3:16,4.4,15:30,W (start),0.698,278
+unconstrained,S0_fixed306,3:16,4.4,15:30,E,0.0,517
+unconstrained,S0_fixed306,3:16,4.4,15:30,S,0.0,420
+unconstrained,S0_fixed306,3:16,4.4,15:40,W (start),0.563,0
+unconstrained,S0_fixed306,3:16,4.4,15:40,E,0.018,0
+unconstrained,S0_fixed306,3:16,4.4,15:40,S,0.0,336
+scar_limited,S0_fixed306,3:16,8.0,15:30,W (start),0.634,278
+scar_limited,S0_fixed306,3:16,8.0,15:30,E,0.0,517
+scar_limited,S0_fixed306,3:16,8.0,15:30,S,0.0,420
+scar_limited,S0_fixed306,3:16,8.0,15:40,W (start),0.013,0
+scar_limited,S0_fixed306,3:16,8.0,15:40,E,0.034,0
+scar_limited,S0_fixed306,3:16,8.0,15:40,S,0.762,336
+unconstrained,S0_fixed306,3:16,8.0,15:30,W (start),1.059,278
+unconstrained,S0_fixed306,3:16,8.0,15:30,E,0.051,517
+unconstrained,S0_fixed306,3:16,8.0,15:30,S,0.0,420
+unconstrained,S0_fixed306,3:16,8.0,15:40,W (start),0.042,0
+unconstrained,S0_fixed306,3:16,8.0,15:40,E,0.762,0
+unconstrained,S0_fixed306,3:16,8.0,15:40,S,0.883,336
+scar_limited,S0_fixed306,3:16,12.0,15:30,W (start),0.469,278
+scar_limited,S0_fixed306,3:16,12.0,15:30,E,0.034,517
+scar_limited,S0_fixed306,3:16,12.0,15:30,S,0.451,420
+scar_limited,S0_fixed306,3:16,12.0,15:40,W (start),0.029,0
+scar_limited,S0_fixed306,3:16,12.0,15:40,E,0.0,0
+scar_limited,S0_fixed306,3:16,12.0,15:40,S,1.816,336
+unconstrained,S0_fixed306,3:16,12.0,15:30,W (start),0.842,278
+unconstrained,S0_fixed306,3:16,12.0,15:30,E,0.61,517
+unconstrained,S0_fixed306,3:16,12.0,15:30,S,0.501,420
+unconstrained,S0_fixed306,3:16,12.0,15:40,W (start),0.062,0
+unconstrained,S0_fixed306,3:16,12.0,15:40,E,0.794,0
+unconstrained,S0_fixed306,3:16,12.0,15:40,S,2.421,336
+scar_limited,S0_fixed306,3:25,4.4,15:30,W (start),2.022,278
+scar_limited,S0_fixed306,3:25,4.4,15:30,E,0.0,517
+scar_limited,S0_fixed306,3:25,4.4,15:30,S,0.0,420
+scar_limited,S0_fixed306,3:25,4.4,15:40,W (start),0.467,0
+scar_limited,S0_fixed306,3:25,4.4,15:40,E,0.0,0
+scar_limited,S0_fixed306,3:25,4.4,15:40,S,0.0,336
+unconstrained,S0_fixed306,3:25,4.4,15:30,W (start),2.024,278
+unconstrained,S0_fixed306,3:25,4.4,15:30,E,0.0,517
+unconstrained,S0_fixed306,3:25,4.4,15:30,S,0.0,420
+unconstrained,S0_fixed306,3:25,4.4,15:40,W (start),0.656,0
+unconstrained,S0_fixed306,3:25,4.4,15:40,E,0.0,0
+unconstrained,S0_fixed306,3:25,4.4,15:40,S,0.0,336
+scar_limited,S0_fixed306,3:25,8.0,15:30,W (start),2.248,278
+scar_limited,S0_fixed306,3:25,8.0,15:30,E,0.0,517
+scar_limited,S0_fixed306,3:25,8.0,15:30,S,0.0,420
+scar_limited,S0_fixed306,3:25,8.0,15:40,W (start),0.541,0
+scar_limited,S0_fixed306,3:25,8.0,15:40,E,0.011,0
+scar_limited,S0_fixed306,3:25,8.0,15:40,S,0.0,336
+unconstrained,S0_fixed306,3:25,8.0,15:30,W (start),2.307,278
+unconstrained,S0_fixed306,3:25,8.0,15:30,E,0.0,517
+unconstrained,S0_fixed306,3:25,8.0,15:30,S,0.0,420
+unconstrained,S0_fixed306,3:25,8.0,15:40,W (start),0.934,0
+unconstrained,S0_fixed306,3:25,8.0,15:40,E,0.123,0
+unconstrained,S0_fixed306,3:25,8.0,15:40,S,0.0,336
+scar_limited,S0_fixed306,3:25,12.0,15:30,W (start),2.429,278
+scar_limited,S0_fixed306,3:25,12.0,15:30,E,0.0,517
+scar_limited,S0_fixed306,3:25,12.0,15:30,S,0.0,420
+scar_limited,S0_fixed306,3:25,12.0,15:40,W (start),0.363,0
+scar_limited,S0_fixed306,3:25,12.0,15:40,E,0.034,0
+scar_limited,S0_fixed306,3:25,12.0,15:40,S,0.603,336
+unconstrained,S0_fixed306,3:25,12.0,15:30,W (start),2.582,278
+unconstrained,S0_fixed306,3:25,12.0,15:30,E,0.0,517
+unconstrained,S0_fixed306,3:25,12.0,15:30,S,0.0,420
+unconstrained,S0_fixed306,3:25,12.0,15:40,W (start),0.68,0
+unconstrained,S0_fixed306,3:25,12.0,15:40,E,0.715,0
+unconstrained,S0_fixed306,3:25,12.0,15:40,S,0.686,336
+scar_limited,S1_stoic,3:16,4.4,15:30,W (start),0.595,278
+scar_limited,S1_stoic,3:16,4.4,15:30,E,0.0,517
+scar_limited,S1_stoic,3:16,4.4,15:30,S,0.0,420
+scar_limited,S1_stoic,3:16,4.4,15:40,W (start),0.035,0
+scar_limited,S1_stoic,3:16,4.4,15:40,E,0.034,0
+scar_limited,S1_stoic,3:16,4.4,15:40,S,0.189,336
+unconstrained,S1_stoic,3:16,4.4,15:30,W (start),1.133,278
+unconstrained,S1_stoic,3:16,4.4,15:30,E,0.078,517
+unconstrained,S1_stoic,3:16,4.4,15:30,S,0.0,420
+unconstrained,S1_stoic,3:16,4.4,15:40,W (start),0.08,0
+unconstrained,S1_stoic,3:16,4.4,15:40,E,0.83,0
+unconstrained,S1_stoic,3:16,4.4,15:40,S,0.251,336
+scar_limited,S1_stoic,3:16,8.0,15:30,W (start),0.363,278
+scar_limited,S1_stoic,3:16,8.0,15:30,E,0.034,517
+scar_limited,S1_stoic,3:16,8.0,15:30,S,0.28,420
+scar_limited,S1_stoic,3:16,8.0,15:40,W (start),0.027,0
+scar_limited,S1_stoic,3:16,8.0,15:40,E,0.0,0
+scar_limited,S1_stoic,3:16,8.0,15:40,S,0.224,336
+unconstrained,S1_stoic,3:16,8.0,15:30,W (start),0.781,278
+unconstrained,S1_stoic,3:16,8.0,15:30,E,1.36,517
+unconstrained,S1_stoic,3:16,8.0,15:30,S,0.446,420
+unconstrained,S1_stoic,3:16,8.0,15:40,W (start),0.059,0
+unconstrained,S1_stoic,3:16,8.0,15:40,E,1.408,0
+unconstrained,S1_stoic,3:16,8.0,15:40,S,0.805,336
+scar_limited,S1_stoic,3:16,12.0,15:30,W (start),0.155,278
+scar_limited,S1_stoic,3:16,12.0,15:30,E,0.034,517
+scar_limited,S1_stoic,3:16,12.0,15:30,S,0.467,420
+scar_limited,S1_stoic,3:16,12.0,15:40,W (start),0.093,0
+scar_limited,S1_stoic,3:16,12.0,15:40,E,0.0,0
+scar_limited,S1_stoic,3:16,12.0,15:40,S,0.238,336
+unconstrained,S1_stoic,3:16,12.0,15:30,W (start),0.384,278
+unconstrained,S1_stoic,3:16,12.0,15:30,E,2.702,517
+unconstrained,S1_stoic,3:16,12.0,15:30,S,1.181,420
+unconstrained,S1_stoic,3:16,12.0,15:40,W (start),0.147,0
+unconstrained,S1_stoic,3:16,12.0,15:40,E,1.086,0
+unconstrained,S1_stoic,3:16,12.0,15:40,S,1.075,336
+scar_limited,S1_stoic,3:25,4.4,15:30,W (start),2.294,278
+scar_limited,S1_stoic,3:25,4.4,15:30,E,0.0,517
+scar_limited,S1_stoic,3:25,4.4,15:30,S,0.0,420
+scar_limited,S1_stoic,3:25,4.4,15:40,W (start),0.502,0
+scar_limited,S1_stoic,3:25,4.4,15:40,E,0.005,0
+scar_limited,S1_stoic,3:25,4.4,15:40,S,0.0,336
+unconstrained,S1_stoic,3:25,4.4,15:30,W (start),2.358,278
+unconstrained,S1_stoic,3:25,4.4,15:30,E,0.0,517
+unconstrained,S1_stoic,3:25,4.4,15:30,S,0.0,420
+unconstrained,S1_stoic,3:25,4.4,15:40,W (start),1.008,0
+unconstrained,S1_stoic,3:25,4.4,15:40,E,0.126,0
+unconstrained,S1_stoic,3:25,4.4,15:40,S,0.0,336
+scar_limited,S1_stoic,3:25,8.0,15:30,W (start),2.57,278
+scar_limited,S1_stoic,3:25,8.0,15:30,E,0.0,517
+scar_limited,S1_stoic,3:25,8.0,15:30,S,0.0,420
+scar_limited,S1_stoic,3:25,8.0,15:40,W (start),0.253,0
+scar_limited,S1_stoic,3:25,8.0,15:40,E,0.034,0
+scar_limited,S1_stoic,3:25,8.0,15:40,S,0.293,336
+unconstrained,S1_stoic,3:25,8.0,15:30,W (start),2.859,278
+unconstrained,S1_stoic,3:25,8.0,15:30,E,0.0,517
+unconstrained,S1_stoic,3:25,8.0,15:30,S,0.0,420
+unconstrained,S1_stoic,3:25,8.0,15:40,W (start),0.571,0
+unconstrained,S1_stoic,3:25,8.0,15:40,E,1.424,0
+unconstrained,S1_stoic,3:25,8.0,15:40,S,0.475,336
+scar_limited,S1_stoic,3:25,12.0,15:30,W (start),2.787,278
+scar_limited,S1_stoic,3:25,12.0,15:30,E,0.0,517
+scar_limited,S1_stoic,3:25,12.0,15:30,S,0.0,420
+scar_limited,S1_stoic,3:25,12.0,15:40,W (start),0.037,0
+scar_limited,S1_stoic,3:25,12.0,15:40,E,0.034,0
+scar_limited,S1_stoic,3:25,12.0,15:40,S,0.488,336
+unconstrained,S1_stoic,3:25,12.0,15:30,W (start),3.344,278
+unconstrained,S1_stoic,3:25,12.0,15:30,E,0.078,517
+unconstrained,S1_stoic,3:25,12.0,15:30,S,0.0,420
+unconstrained,S1_stoic,3:25,12.0,15:40,W (start),0.115,0
+unconstrained,S1_stoic,3:25,12.0,15:40,E,2.741,0
+unconstrained,S1_stoic,3:25,12.0,15:40,S,1.27,336
+scar_limited,S2_station_veer,3:16,4.4,15:30,W (start),0.416,278
+scar_limited,S2_station_veer,3:16,4.4,15:30,E,0.0,517
+scar_limited,S2_station_veer,3:16,4.4,15:30,S,0.0,420
+scar_limited,S2_station_veer,3:16,4.4,15:40,W (start),0.214,0
+scar_limited,S2_station_veer,3:16,4.4,15:40,E,0.029,0
+scar_limited,S2_station_veer,3:16,4.4,15:40,S,0.048,336
+unconstrained,S2_station_veer,3:16,4.4,15:30,W (start),0.723,278
+unconstrained,S2_station_veer,3:16,4.4,15:30,E,0.0,517
+unconstrained,S2_station_veer,3:16,4.4,15:30,S,0.0,420
+unconstrained,S2_station_veer,3:16,4.4,15:40,W (start),0.478,0
+unconstrained,S2_station_veer,3:16,4.4,15:40,E,0.294,0
+unconstrained,S2_station_veer,3:16,4.4,15:40,S,0.048,336
+scar_limited,S2_station_veer,3:16,8.0,15:30,W (start),0.402,278
+scar_limited,S2_station_veer,3:16,8.0,15:30,E,0.034,517
+scar_limited,S2_station_veer,3:16,8.0,15:30,S,0.109,420
+scar_limited,S2_station_veer,3:16,8.0,15:40,W (start),0.002,0
+scar_limited,S2_station_veer,3:16,8.0,15:40,E,0.0,0
+scar_limited,S2_station_veer,3:16,8.0,15:40,S,0.6,336
+unconstrained,S2_station_veer,3:16,8.0,15:30,W (start),0.848,278
+unconstrained,S2_station_veer,3:16,8.0,15:30,E,0.528,517
+unconstrained,S2_station_veer,3:16,8.0,15:30,S,0.11,420
+unconstrained,S2_station_veer,3:16,8.0,15:40,W (start),0.022,0
+unconstrained,S2_station_veer,3:16,8.0,15:40,E,1.246,0
+unconstrained,S2_station_veer,3:16,8.0,15:40,S,0.95,336
+scar_limited,S2_station_veer,3:16,12.0,15:30,W (start),0.155,278
+scar_limited,S2_station_veer,3:16,12.0,15:30,E,0.034,517
+scar_limited,S2_station_veer,3:16,12.0,15:30,S,0.366,420
+scar_limited,S2_station_veer,3:16,12.0,15:40,W (start),0.093,0
+scar_limited,S2_station_veer,3:16,12.0,15:40,E,0.0,0
+scar_limited,S2_station_veer,3:16,12.0,15:40,S,1.286,336
+unconstrained,S2_station_veer,3:16,12.0,15:30,W (start),0.376,278
+unconstrained,S2_station_veer,3:16,12.0,15:30,E,1.538,517
+unconstrained,S2_station_veer,3:16,12.0,15:30,S,0.574,420
+unconstrained,S2_station_veer,3:16,12.0,15:40,W (start),0.122,0
+unconstrained,S2_station_veer,3:16,12.0,15:40,E,1.67,0
+unconstrained,S2_station_veer,3:16,12.0,15:40,S,2.33,336
+scar_limited,S2_station_veer,3:25,4.4,15:30,W (start),2.246,278
+scar_limited,S2_station_veer,3:25,4.4,15:30,E,0.0,517
+scar_limited,S2_station_veer,3:25,4.4,15:30,S,0.0,420
+scar_limited,S2_station_veer,3:25,4.4,15:40,W (start),0.346,0
+scar_limited,S2_station_veer,3:25,4.4,15:40,E,0.0,0
+scar_limited,S2_station_veer,3:25,4.4,15:40,S,0.0,336
+unconstrained,S2_station_veer,3:25,4.4,15:30,W (start),2.285,278
+unconstrained,S2_station_veer,3:25,4.4,15:30,E,0.0,517
+unconstrained,S2_station_veer,3:25,4.4,15:30,S,0.0,420
+unconstrained,S2_station_veer,3:25,4.4,15:40,W (start),0.614,0
+unconstrained,S2_station_veer,3:25,4.4,15:40,E,0.0,0
+unconstrained,S2_station_veer,3:25,4.4,15:40,S,0.0,336
+scar_limited,S2_station_veer,3:25,8.0,15:30,W (start),2.498,278
+scar_limited,S2_station_veer,3:25,8.0,15:30,E,0.0,517
+scar_limited,S2_station_veer,3:25,8.0,15:30,S,0.0,420
+scar_limited,S2_station_veer,3:25,8.0,15:40,W (start),0.325,0
+scar_limited,S2_station_veer,3:25,8.0,15:40,E,0.034,0
+scar_limited,S2_station_veer,3:25,8.0,15:40,S,0.112,336
+unconstrained,S2_station_veer,3:25,8.0,15:30,W (start),2.718,278
+unconstrained,S2_station_veer,3:25,8.0,15:30,E,0.0,517
+unconstrained,S2_station_veer,3:25,8.0,15:30,S,0.0,420
+unconstrained,S2_station_veer,3:25,8.0,15:40,W (start),0.702,0
+unconstrained,S2_station_veer,3:25,8.0,15:40,E,0.485,0
+unconstrained,S2_station_veer,3:25,8.0,15:40,S,0.112,336
+scar_limited,S2_station_veer,3:25,12.0,15:30,W (start),2.752,278
+scar_limited,S2_station_veer,3:25,12.0,15:30,E,0.0,517
+scar_limited,S2_station_veer,3:25,12.0,15:30,S,0.0,420
+scar_limited,S2_station_veer,3:25,12.0,15:40,W (start),0.072,0
+scar_limited,S2_station_veer,3:25,12.0,15:40,E,0.034,0
+scar_limited,S2_station_veer,3:25,12.0,15:40,S,0.456,336
+unconstrained,S2_station_veer,3:25,12.0,15:30,W (start),3.262,278
+unconstrained,S2_station_veer,3:25,12.0,15:30,E,0.021,517
+unconstrained,S2_station_veer,3:25,12.0,15:30,S,0.0,420
+unconstrained,S2_station_veer,3:25,12.0,15:40,W (start),0.182,0
+unconstrained,S2_station_veer,3:25,12.0,15:40,E,1.437,0
+unconstrained,S2_station_veer,3:25,12.0,15:40,S,0.658,336
+scar_limited,S3_fast_veer,3:16,4.4,15:30,W (start),0.509,278
+scar_limited,S3_fast_veer,3:16,4.4,15:30,E,0.0,517
+scar_limited,S3_fast_veer,3:16,4.4,15:30,S,0.0,420
+scar_limited,S3_fast_veer,3:16,4.4,15:40,W (start),0.184,0
+scar_limited,S3_fast_veer,3:16,4.4,15:40,E,0.03,0
+scar_limited,S3_fast_veer,3:16,4.4,15:40,S,0.067,336
+unconstrained,S3_fast_veer,3:16,4.4,15:30,W (start),0.827,278
+unconstrained,S3_fast_veer,3:16,4.4,15:30,E,0.0,517
+unconstrained,S3_fast_veer,3:16,4.4,15:30,S,0.0,420
+unconstrained,S3_fast_veer,3:16,4.4,15:40,W (start),0.405,0
+unconstrained,S3_fast_veer,3:16,4.4,15:40,E,0.272,0
+unconstrained,S3_fast_veer,3:16,4.4,15:40,S,0.067,336
+scar_limited,S3_fast_veer,3:16,8.0,15:30,W (start),0.483,278
+scar_limited,S3_fast_veer,3:16,8.0,15:30,E,0.034,517
+scar_limited,S3_fast_veer,3:16,8.0,15:30,S,0.232,420
+scar_limited,S3_fast_veer,3:16,8.0,15:40,W (start),0.0,0
+scar_limited,S3_fast_veer,3:16,8.0,15:40,E,0.0,0
+scar_limited,S3_fast_veer,3:16,8.0,15:40,S,0.808,336
+unconstrained,S3_fast_veer,3:16,8.0,15:30,W (start),0.976,278
+unconstrained,S3_fast_veer,3:16,8.0,15:30,E,0.608,517
+unconstrained,S3_fast_veer,3:16,8.0,15:30,S,0.259,420
+unconstrained,S3_fast_veer,3:16,8.0,15:40,W (start),0.014,0
+unconstrained,S3_fast_veer,3:16,8.0,15:40,E,0.854,0
+unconstrained,S3_fast_veer,3:16,8.0,15:40,S,1.139,336
+scar_limited,S3_fast_veer,3:16,12.0,15:30,W (start),0.253,278
+scar_limited,S3_fast_veer,3:16,12.0,15:30,E,0.034,517
+scar_limited,S3_fast_veer,3:16,12.0,15:30,S,0.826,420
+scar_limited,S3_fast_veer,3:16,12.0,15:40,W (start),0.094,0
+scar_limited,S3_fast_veer,3:16,12.0,15:40,E,0.0,0
+scar_limited,S3_fast_veer,3:16,12.0,15:40,S,1.72,336
+unconstrained,S3_fast_veer,3:16,12.0,15:30,W (start),0.571,278
+unconstrained,S3_fast_veer,3:16,12.0,15:30,E,1.558,517
+unconstrained,S3_fast_veer,3:16,12.0,15:30,S,1.173,420
+unconstrained,S3_fast_veer,3:16,12.0,15:40,W (start),0.11,0
+unconstrained,S3_fast_veer,3:16,12.0,15:40,E,0.904,0
+unconstrained,S3_fast_veer,3:16,12.0,15:40,S,2.742,336
+scar_limited,S3_fast_veer,3:25,4.4,15:30,W (start),1.99,278
+scar_limited,S3_fast_veer,3:25,4.4,15:30,E,0.0,517
+scar_limited,S3_fast_veer,3:25,4.4,15:30,S,0.0,420
+scar_limited,S3_fast_veer,3:25,4.4,15:40,W (start),0.562,0
+scar_limited,S3_fast_veer,3:25,4.4,15:40,E,0.0,0
+scar_limited,S3_fast_veer,3:25,4.4,15:40,S,0.0,336
+unconstrained,S3_fast_veer,3:25,4.4,15:30,W (start),1.99,278
+unconstrained,S3_fast_veer,3:25,4.4,15:30,E,0.0,517
+unconstrained,S3_fast_veer,3:25,4.4,15:30,S,0.0,420
+unconstrained,S3_fast_veer,3:25,4.4,15:40,W (start),0.8,0
+unconstrained,S3_fast_veer,3:25,4.4,15:40,E,0.0,0
+unconstrained,S3_fast_veer,3:25,4.4,15:40,S,0.0,336
+scar_limited,S3_fast_veer,3:25,8.0,15:30,W (start),2.35,278
+scar_limited,S3_fast_veer,3:25,8.0,15:30,E,0.0,517
+scar_limited,S3_fast_veer,3:25,8.0,15:30,S,0.0,420
+scar_limited,S3_fast_veer,3:25,8.0,15:40,W (start),0.472,0
+scar_limited,S3_fast_veer,3:25,8.0,15:40,E,0.034,0
+scar_limited,S3_fast_veer,3:25,8.0,15:40,S,0.128,336
+unconstrained,S3_fast_veer,3:25,8.0,15:30,W (start),2.437,278
+unconstrained,S3_fast_veer,3:25,8.0,15:30,E,0.0,517
+unconstrained,S3_fast_veer,3:25,8.0,15:30,S,0.0,420
+unconstrained,S3_fast_veer,3:25,8.0,15:40,W (start),0.909,0
+unconstrained,S3_fast_veer,3:25,8.0,15:40,E,0.349,0
+unconstrained,S3_fast_veer,3:25,8.0,15:40,S,0.128,336
+scar_limited,S3_fast_veer,3:25,12.0,15:30,W (start),2.638,278
+scar_limited,S3_fast_veer,3:25,12.0,15:30,E,0.0,517
+scar_limited,S3_fast_veer,3:25,12.0,15:30,S,0.0,420
+scar_limited,S3_fast_veer,3:25,12.0,15:40,W (start),0.184,0
+scar_limited,S3_fast_veer,3:25,12.0,15:40,E,0.034,0
+scar_limited,S3_fast_veer,3:25,12.0,15:40,S,0.802,336
+unconstrained,S3_fast_veer,3:25,12.0,15:30,W (start),2.963,278
+unconstrained,S3_fast_veer,3:25,12.0,15:30,E,0.0,517
+unconstrained,S3_fast_veer,3:25,12.0,15:30,S,0.0,420
+unconstrained,S3_fast_veer,3:25,12.0,15:40,W (start),0.421,0
+unconstrained,S3_fast_veer,3:25,12.0,15:40,E,1.085,0
+unconstrained,S3_fast_veer,3:25,12.0,15:40,S,1.01,336
+scar_limited,S4_fixed315,3:16,4.4,15:30,W (start),0.59,278
+scar_limited,S4_fixed315,3:16,4.4,15:30,E,0.024,517
+scar_limited,S4_fixed315,3:16,4.4,15:30,S,0.021,420
+scar_limited,S4_fixed315,3:16,4.4,15:40,W (start),0.026,0
+scar_limited,S4_fixed315,3:16,4.4,15:40,E,0.01,0
+scar_limited,S4_fixed315,3:16,4.4,15:40,S,1.085,336
+unconstrained,S4_fixed315,3:16,4.4,15:30,W (start),0.918,278
+unconstrained,S4_fixed315,3:16,4.4,15:30,E,0.096,517
+unconstrained,S4_fixed315,3:16,4.4,15:30,S,0.021,420
+unconstrained,S4_fixed315,3:16,4.4,15:40,W (start),0.059,0
+unconstrained,S4_fixed315,3:16,4.4,15:40,E,0.536,0
+unconstrained,S4_fixed315,3:16,4.4,15:40,S,1.299,336
+scar_limited,S4_fixed315,3:16,8.0,15:30,W (start),0.365,278
+scar_limited,S4_fixed315,3:16,8.0,15:30,E,0.034,517
+scar_limited,S4_fixed315,3:16,8.0,15:30,S,1.208,420
+scar_limited,S4_fixed315,3:16,8.0,15:40,W (start),0.008,0
+scar_limited,S4_fixed315,3:16,8.0,15:40,E,0.0,0
+scar_limited,S4_fixed315,3:16,8.0,15:40,S,2.205,336
+unconstrained,S4_fixed315,3:16,8.0,15:30,W (start),0.621,278
+unconstrained,S4_fixed315,3:16,8.0,15:30,E,0.656,517
+unconstrained,S4_fixed315,3:16,8.0,15:30,S,1.462,420
+unconstrained,S4_fixed315,3:16,8.0,15:40,W (start),0.045,0
+unconstrained,S4_fixed315,3:16,8.0,15:40,E,0.162,0
+unconstrained,S4_fixed315,3:16,8.0,15:40,S,3.614,336
+scar_limited,S4_fixed315,3:16,12.0,15:30,W (start),0.126,278
+scar_limited,S4_fixed315,3:16,12.0,15:30,E,0.034,517
+scar_limited,S4_fixed315,3:16,12.0,15:30,S,2.802,420
+scar_limited,S4_fixed315,3:16,12.0,15:40,W (start),0.003,0
+scar_limited,S4_fixed315,3:16,12.0,15:40,E,0.0,0
+scar_limited,S4_fixed315,3:16,12.0,15:40,S,1.29,336
+unconstrained,S4_fixed315,3:16,12.0,15:30,W (start),0.259,278
+unconstrained,S4_fixed315,3:16,12.0,15:30,E,0.779,517
+unconstrained,S4_fixed315,3:16,12.0,15:30,S,4.013,420
+unconstrained,S4_fixed315,3:16,12.0,15:40,W (start),0.037,0
+unconstrained,S4_fixed315,3:16,12.0,15:40,E,0.197,0
+unconstrained,S4_fixed315,3:16,12.0,15:40,S,2.266,336
+scar_limited,S4_fixed315,3:25,4.4,15:30,W (start),2.234,278
+scar_limited,S4_fixed315,3:25,4.4,15:30,E,0.0,517
+scar_limited,S4_fixed315,3:25,4.4,15:30,S,0.0,420
+scar_limited,S4_fixed315,3:25,4.4,15:40,W (start),0.533,0
+scar_limited,S4_fixed315,3:25,4.4,15:40,E,0.03,0
+scar_limited,S4_fixed315,3:25,4.4,15:40,S,0.069,336
+unconstrained,S4_fixed315,3:25,4.4,15:30,W (start),2.301,278
+unconstrained,S4_fixed315,3:25,4.4,15:30,E,0.0,517
+unconstrained,S4_fixed315,3:25,4.4,15:30,S,0.0,420
+unconstrained,S4_fixed315,3:25,4.4,15:40,W (start),0.842,0
+unconstrained,S4_fixed315,3:25,4.4,15:40,E,0.142,0
+unconstrained,S4_fixed315,3:25,4.4,15:40,S,0.069,336
+scar_limited,S4_fixed315,3:25,8.0,15:30,W (start),2.531,278
+scar_limited,S4_fixed315,3:25,8.0,15:30,E,0.0,517
+scar_limited,S4_fixed315,3:25,8.0,15:30,S,0.0,420
+scar_limited,S4_fixed315,3:25,8.0,15:40,W (start),0.251,0
+scar_limited,S4_fixed315,3:25,8.0,15:40,E,0.034,0
+scar_limited,S4_fixed315,3:25,8.0,15:40,S,1.518,336
+unconstrained,S4_fixed315,3:25,8.0,15:30,W (start),2.736,278
+unconstrained,S4_fixed315,3:25,8.0,15:30,E,0.0,517
+unconstrained,S4_fixed315,3:25,8.0,15:30,S,0.0,420
+unconstrained,S4_fixed315,3:25,8.0,15:40,W (start),0.456,0
+unconstrained,S4_fixed315,3:25,8.0,15:40,E,0.691,0
+unconstrained,S4_fixed315,3:25,8.0,15:40,S,1.918,336
+scar_limited,S4_fixed315,3:25,12.0,15:30,W (start),2.752,278
+scar_limited,S4_fixed315,3:25,12.0,15:30,E,0.011,517
+scar_limited,S4_fixed315,3:25,12.0,15:30,S,0.0,420
+scar_limited,S4_fixed315,3:25,12.0,15:40,W (start),0.037,0
+scar_limited,S4_fixed315,3:25,12.0,15:40,E,0.022,0
+scar_limited,S4_fixed315,3:25,12.0,15:40,S,3.15,336
+unconstrained,S4_fixed315,3:25,12.0,15:30,W (start),3.11,278
+unconstrained,S4_fixed315,3:25,12.0,15:30,E,0.054,517
+unconstrained,S4_fixed315,3:25,12.0,15:30,S,0.0,420
+unconstrained,S4_fixed315,3:25,12.0,15:40,W (start),0.114,0
+unconstrained,S4_fixed315,3:25,12.0,15:40,E,0.746,0
+unconstrained,S4_fixed315,3:25,12.0,15:40,S,4.618,336
