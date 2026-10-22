@@ -27,17 +27,25 @@ def log(*a):
 os.environ.setdefault("GDAL_DISABLE_READDIR_ON_OPEN", "EMPTY_DIR")
 os.environ.setdefault("CPL_VSIL_CURL_ALLOWED_EXTENSIONS", ".tif,.tiff")
 
-def clip(url, name, note):
+TIGHT = (-110.975, 52.725, -110.845, 52.815)   # scar + ~1.5 km, for lidar
+MAXMB = 90
+
+def clip(url, name, note, box=BOX, min_res=None):
     with rasterio.open(url) as src:
-        b = transform_bounds("EPSG:4326", src.crs, *BOX, densify_pts=21)
+        b = transform_bounds("EPSG:4326", src.crs, *box, densify_pts=21)
         win = from_bounds(*b, transform=src.transform).round_offsets().round_lengths()
-        arr = src.read(1, window=win, boundless=True, fill_value=src.nodata if src.nodata is not None else -9999)
-        tr = src.window_transform(win)
+        f = 1
+        if min_res and src.res[0] < min_res:
+            f = int(round(min_res / src.res[0]))
+        shape = (int(win.height // f), int(win.width // f))
+        arr = src.read(1, window=win, out_shape=shape, boundless=True, resampling=Resampling.average,
+                       fill_value=src.nodata if src.nodata is not None else -9999)
+        tr = src.window_transform(win) * rasterio.Affine.scale(win.width / shape[1], win.height / shape[0])
         prof = dict(driver="GTiff", height=arr.shape[0], width=arr.shape[1], count=1, dtype=arr.dtype,
                     crs=src.crs, transform=tr, nodata=src.nodata, compress="deflate", predictor=2 if arr.dtype.kind == "f" else 1)
-        p = OUT / f"{name}_native.tif"
+        p = Path("/tmp") / f"{name}_native.tif"
         with rasterio.open(p, "w", **prof) as dst: dst.write(arr, 1)
-        res = src.res
+        res = (src.res[0] * f, src.res[1] * f)
     valid = arr[(arr != (src.nodata if src.nodata is not None else -9999)) & np.isfinite(arr)]
     log(f"{name}: {arr.shape} px at {res}, elevation {valid.min():.1f}-{valid.max():.1f} m" if valid.size else f"{name}: no valid data")
     # 10 m EPSG:3400 copy
@@ -49,7 +57,12 @@ def clip(url, name, note):
                   dst_transform=t, dst_crs=dst_crs, dst_nodata=-9999, resampling=Resampling.bilinear)
     with rasterio.open(OUT / f"{name}_3400_10m.tif", "w", driver="GTiff", height=h, width=w, count=1, dtype="float32",
                        crs=dst_crs, transform=t, nodata=-9999, compress="deflate", predictor=3) as d: d.write(out, 1)
-    return dict(name=name, url=url, note=note, native_res=list(res), shape=list(arr.shape),
+    mb = p.stat().st_size / 1e6
+    if mb <= MAXMB:
+        import shutil; shutil.move(str(p), OUT / p.name)
+    else:
+        log(f"{name}: native clip {mb:.0f} MB > {MAXMB} MB, kept only the 10 m copy"); p.unlink()
+    return dict(name=name, url=url, note=note, native_kept=mb <= MAXMB, native_res=list(res), shape=list(arr.shape),
                 min=float(valid.min()) if valid.size else None, max=float(valid.max()) if valid.size else None)
 
 results = []
@@ -79,7 +92,8 @@ try:
                 if a.href.endswith(".tif") and ("dtm" in k.lower() or "dtm" in a.href.lower()):
                     try:
                         results.append(clip("/vsicurl/" + a.href, f"{col}_{it.id}_{k}".replace("/", "_")[:90],
-                                            f"NRCan {col} item {it.id}, asset {k}. Open Government Licence - Canada."))
+                                            f"NRCan {col} item {it.id}, asset {k}, averaged to 2 m over the scar + ~1.5 km. Open Government Licence - Canada.",
+                                            box=TIGHT, min_res=2.0))
                     except Exception as e:
                         log("HRDEM item failed:", it.id, k, repr(e))
                     break
