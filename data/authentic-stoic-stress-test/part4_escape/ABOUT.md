@@ -119,3 +119,17 @@ Heading north along the range road, or back northwest, almost never works (0% at
 - **Line-of-sight cues** use a 30 m terrain model.
 - **Locations are estimates** (parts 2–3).
 - **Power lines and fences** ("high lines") are not in the model. None are mapped near A or B in OpenStreetMap, which needs checking.
+
+### Comparative map (`cfb-wainwright-escape-comparison.jpg`, `surface.csv`)
+
+The escape odds were computed from every point on a 70 m grid across the Range 2 neighbourhood, inside the burn plus 100 m. The fire's pre-shift area is excluded.
+
+**Settings:** the best route of 72 straight routes, leaving 2 minutes after the cue, with a 3-minute margin, across all 30 fire scenarios. Scripts: `surf.py`, `compmap.py`.
+
+**Share of the likely zone (part 2, weighted by agreement) with better-than-even odds:**
+
+| Cue | Jogging in kit | In smoke |
+|---|---|---|
+| 3:16 gust | 67% | 38% |
+| Fire 500 m away | 36% | 3% |
+| Fire 200 m away | 0% | 0% |
