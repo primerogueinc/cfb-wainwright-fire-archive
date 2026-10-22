@@ -1,0 +1,82 @@
+[
+ {
+  "name": "mrdem30_dtm",
+  "url": "/vsicurl/https://canelevation-dem.s3.ca-central-1.amazonaws.com/mrdem-30/mrdem-30-dtm.tif",
+  "note": "NRCan MRDEM-30 bare-earth DTM, 30 m. Open Government Licence - Canada.",
+  "native_kept": true,
+  "native_res": [
+   30.0,
+   30.0
+  ],
+  "shape": [
+   757,
+   757
+  ],
+  "min": 585.1312255859375,
+  "max": 729.4230346679688
+ },
+ {
+  "name": "copernicus_glo30_dsm",
+  "url": "/vsicurl/https://copernicus-dem-30m.s3.amazonaws.com/Copernicus_DSM_COG_10_N52_00_W111_00_DEM/Copernicus_DSM_COG_10_N52_00_W111_00_DEM.tif",
+  "note": "Copernicus GLO-30 DSM (surface model), 30 m. (c) DLR e.V. 2010-2014 and (c) Airbus 2014-2018, provided under COPERNICUS by the EU and ESA.",
+  "native_kept": true,
+  "native_res": [
+   0.00041666666666666664,
+   0.0002777777777777778
+  ],
+  "shape": [
+   612,
+   672
+  ],
+  "min": 648.9776000976562,
+  "max": 718.3668212890625
+ },
+ {
+  "name": "hrdem-lidar_NRCAN-Lloydminster_South_2024-1m_dtm",
+  "url": "/vsicurl/https://canelevation-dem.s3.ca-central-1.amazonaws.com/hrdem-lidar/NRCAN-Lloydminster_South_2024-1m-dtm.tif",
+  "note": "NRCan hrdem-lidar item NRCAN-Lloydminster_South_2024-1m, asset dtm, averaged to 2 m over the scar + ~1.5 km. Open Government Licence - Canada.",
+  "native_kept": true,
+  "native_res": [
+   2.0,
+   2.0
+  ],
+  "shape": [
+   5861,
+   5419
+  ],
+  "min": 659.0516967773438,
+  "max": 689.8338012695312
+ },
+ {
+  "name": "hrdem-mosaic-1m_3_4-mosaic-1m_dtm",
+  "url": "/vsicurl/https://canelevation-dem.s3.ca-central-1.amazonaws.com/hrdem-mosaic-1m/3_4-mosaic-1m-dtm.tif",
+  "note": "NRCan hrdem-mosaic-1m item 3_4-mosaic-1m, asset dtm, averaged to 2 m over the scar + ~1.5 km. Open Government Licence - Canada.",
+  "native_kept": true,
+  "native_res": [
+   2.0,
+   2.0
+  ],
+  "shape": [
+   5861,
+   5419
+  ],
+  "min": 659.0834350585938,
+  "max": 689.8446044921875
+ },
+ {
+  "name": "hrdem-mosaic-2m_3_4-mosaic-2m_dtm",
+  "url": "/vsicurl/https://canelevation-dem.s3.ca-central-1.amazonaws.com/hrdem-mosaic-2m/3_4-mosaic-2m-dtm.tif",
+  "note": "NRCan hrdem-mosaic-2m item 3_4-mosaic-2m, asset dtm, averaged to 2 m over the scar + ~1.5 km. Open Government Licence - Canada.",
+  "native_kept": true,
+  "native_res": [
+   2.0,
+   2.0
+  ],
+  "shape": [
+   5861,
+   5419
+  ],
+  "min": 659.0516967773438,
+  "max": 689.8338012695312
+ }
+]
