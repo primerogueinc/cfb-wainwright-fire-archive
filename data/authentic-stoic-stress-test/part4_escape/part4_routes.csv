@@ -1,0 +1,51 @@
+schedule,scenario,route,min_needed_before_arrival
+S0_fixed306,A,crosswind east (90),0.5
+S0_fixed306,A,crosswind NE (45),2.2
+S0_fixed306,A,downwind / away from fire (126),0.5
+S0_fixed306,A,"into the black, NW (306)",21.4
+S0_fixed306,A,south along the range road (180),1.0
+S0_fixed306,B,crosswind east (90),0.5
+S0_fixed306,B,crosswind NE (45),0.9
+S0_fixed306,B,downwind / away from fire (126),0.5
+S0_fixed306,B,"into the black, NW (306)",34.1
+S0_fixed306,B,south along the range road (180),0.9
+S1_stoic,A,crosswind east (90),0.5
+S1_stoic,A,crosswind NE (45),3.9
+S1_stoic,A,downwind / away from fire (126),0.6
+S1_stoic,A,"into the black, NW (306)",16.9
+S1_stoic,A,south along the range road (180),2.5
+S1_stoic,B,crosswind east (90),0.5
+S1_stoic,B,crosswind NE (45),1.1
+S1_stoic,B,downwind / away from fire (126),0.5
+S1_stoic,B,"into the black, NW (306)",25.5
+S1_stoic,B,south along the range road (180),1.4
+S2_station_veer,A,crosswind east (90),0.5
+S2_station_veer,A,crosswind NE (45),3.3
+S2_station_veer,A,downwind / away from fire (126),0.5
+S2_station_veer,A,"into the black, NW (306)",17.3
+S2_station_veer,A,south along the range road (180),1.9
+S2_station_veer,B,crosswind east (90),0.5
+S2_station_veer,B,crosswind NE (45),0.7
+S2_station_veer,B,downwind / away from fire (126),0.5
+S2_station_veer,B,"into the black, NW (306)",29.6
+S2_station_veer,B,south along the range road (180),0.5
+S3_fast_veer,A,crosswind east (90),0.5
+S3_fast_veer,A,crosswind NE (45),3.2
+S3_fast_veer,A,downwind / away from fire (126),0.5
+S3_fast_veer,A,"into the black, NW (306)",20.0
+S3_fast_veer,A,south along the range road (180),2.7
+S3_fast_veer,B,crosswind east (90),0.5
+S3_fast_veer,B,crosswind NE (45),1.1
+S3_fast_veer,B,downwind / away from fire (126),0.7
+S3_fast_veer,B,"into the black, NW (306)",29.0
+S3_fast_veer,B,south along the range road (180),2.0
+S4_fixed315,A,crosswind east (90),0.6
+S4_fixed315,A,crosswind NE (45),3.6
+S4_fixed315,A,downwind / away from fire (126),0.5
+S4_fixed315,A,"into the black, NW (306)",16.5
+S4_fixed315,A,south along the range road (180),5.6
+S4_fixed315,B,crosswind east (90),0.7
+S4_fixed315,B,crosswind NE (45),1.1
+S4_fixed315,B,downwind / away from fire (126),0.7
+S4_fixed315,B,"into the black, NW (306)",25.0
+S4_fixed315,B,south along the range road (180),6.9
