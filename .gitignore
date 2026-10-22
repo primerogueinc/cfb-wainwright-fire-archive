@@ -5,6 +5,7 @@ __pycache__/
 .DS_Store
 data/goes/work/
 data/goes/annotated/work/
+data/goes/gust_loop/work/
 data/goes/annotated_test/
 data/infrastructure/cache/
 data/topo/cache/
