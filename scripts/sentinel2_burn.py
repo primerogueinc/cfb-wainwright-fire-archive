@@ -333,7 +333,7 @@ def main() -> int:
     ax.set_title(f"CFB Wainwright burn scar\nSentinel-2 change {when(pre_r)} → {when(post_r)} with fire detections",
                  loc="left", fontsize=12)
     fig.text(0.01, 0.01, "Contains modified Copernicus Sentinel data [2026]; NASA FIRMS; NOAA GOES-18. "
-                         "Grey = cloud/shadow/water masked. Prime Rogue Inc. · CC BY 4.0", fontsize=8, color="#555")
+                         "Grey = cloud/shadow/water masked. Prime Rogue Inc. · CC BY-NC 4.0", fontsize=8, color="#555")
     fig.tight_layout(rect=(0, 0.02, 1, 1))
     fig.savefig(OUT / "burn_scar_map.png")
     plt.close(fig)
@@ -349,7 +349,7 @@ def main() -> int:
         ax.set_title(f"{label}: Sentinel-2, {when(r)}", loc="left", fontsize=12)
     axes[1].legend(handles=h, loc="upper right", fontsize=8.5, framealpha=0.9)
     fig.text(0.01, 0.01, "Contains modified Copernicus Sentinel data [2026]; NASA FIRMS; NOAA GOES-18. "
-                         "Prime Rogue Inc. · CC BY 4.0", fontsize=8, color="#555")
+                         "Prime Rogue Inc. · CC BY-NC 4.0", fontsize=8, color="#555")
     fig.tight_layout(rect=(0, 0.03, 1, 1))
     fig.savefig(OUT / "before_after.png")
     plt.close(fig)

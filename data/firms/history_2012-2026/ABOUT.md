@@ -18,4 +18,4 @@ Every FIRMS fire detection in a box around the Oct. 17 site (detections fall wit
 
 **Do not compare raw detection counts across years.** Landsat (30 m pixels, added mid-2022) produces many more points per fire than VIIRS (375 m), so counts jump after 2022 regardless of fire activity; "days with fire" is the fairer measure. Detections show heat, not cause: many will be prescribed burns or range fires from training.
 
-Data: NASA FIRMS (LANCE), NASA open data. Merged tables and notes: Prime Rogue Inc., CC BY 4.0.
+Data: NASA FIRMS (LANCE), NASA open data. Merged tables and notes: Prime Rogue Inc., CC BY-NC 4.0.

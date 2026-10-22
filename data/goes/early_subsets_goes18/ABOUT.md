@@ -11,4 +11,4 @@ Prime Rogue's first GOES-18 analysis of the Oct. 17 fire, made before the full p
 
 **Agreement with the later analysis.** This method flags heat at the site at 3:30, 3:40 and 3:50 p.m. NOAA's own fire product (`data/goes/fire_timeline.csv`) flags fire pixels at 3:10, 3:30 and 3:40 p.m. The two use different tests (a local-anomaly threshold here, NOAA's contextual fire algorithm there), so single-scan differences are expected; both show the fire burning hot before 4 p.m.
 
-Data: NOAA GOES-18 (public domain). Code: MIT. Graphics and notes: Prime Rogue Inc., CC BY 4.0.
+Data: NOAA GOES-18 (public domain). Code: MIT. Graphics and notes: Prime Rogue Inc., CC BY-NC 4.0.

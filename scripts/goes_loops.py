@@ -307,7 +307,7 @@ def render(img, geo, sat, t, product, path):
     fig.text(0.01, 0.012, f"GOES-{sat}  {TITLES[product]}\n"
                           f"Full-disk scan start {t:%Y-%m-%d %H:%M} UTC = {loc:%-I:%M %p} MDT",
              fontsize=9, color="black", va="bottom")
-    fig.text(0.99, 0.012, "NOAA GOES-%d ABI\nPrime Rogue Inc. · CC BY 4.0" % sat,
+    fig.text(0.99, 0.012, "NOAA GOES-%d ABI\nPrime Rogue Inc. · CC BY-NC 4.0" % sat,
              fontsize=8, color="#555", ha="right", va="bottom")
     fig.savefig(path)
     plt.close(fig)
@@ -364,7 +364,7 @@ def timeline_chart(rows: list[dict], path: Path):
         axes[-1].xaxis.set_major_formatter(mdates.DateFormatter("%b %-d\n%-I %p", tz=MDT))
         axes[-1].set_xlabel("MDT", color="#555")
     fig.text(0.01, 0.005, "Source: NOAA GOES-18/19 ABI full disk (10-min). Box 52.65–52.95°N, 110.65–111.15°W. "
-                          "Prime Rogue Inc. · CC BY 4.0", fontsize=7.5, color="#666")
+                          "Prime Rogue Inc. · CC BY-NC 4.0", fontsize=7.5, color="#666")
     fig.tight_layout(rect=(0, 0.02, 1, 1))
     fig.savefig(path)
     plt.close(fig)

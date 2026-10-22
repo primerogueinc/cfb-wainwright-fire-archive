@@ -11,4 +11,4 @@ Prime Rogue's estimate of where C Company was when the Oct. 17 fire reached it, 
 | `stress_results.json` | Infrastructure (AER wells and pipelines, CanVec roads, buildings) per candidate area and near the 12:17 p.m. fire line |
 | `fire_models.csv`, `fire_model_tests.json` | Canadian FBP (O-1a, O-1b), CSIRO grassland (natural, grazed) and Cruz et al. (2022) runs on the base's Oct. 17 weather |
 
-Range names come from OpenStreetMap and are not verified by National Defence. Estimates, not findings. CC BY 4.0, Prime Rogue Inc.
+Range names come from OpenStreetMap and are not verified by National Defence. Estimates, not findings. CC BY-NC 4.0, Prime Rogue Inc.

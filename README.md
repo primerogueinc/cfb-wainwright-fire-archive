@@ -51,13 +51,15 @@ Proofs are complete a few hours after stamping, once they are anchored in a Bitc
 | Material | Licence |
 |---|---|
 | Code (`scripts/`, `.github/`) | [MIT](LICENSE) |
-| Prime Rogue's own data, analysis and write-ups | [CC BY 4.0](LICENSE-DATA) — credit "Prime Rogue Inc." |
+| Prime Rogue's own data, analysis and write-ups | [CC BY-NC 4.0](LICENSE-DATA) — credit "Prime Rogue Inc." Commercial use (including commercial media) needs written permission. |
 | NASA FIRMS data | NASA open data. Credit: "NASA FIRMS (LANCE)". |
 | NOAA GOES and HMS data | Public domain (U.S. government). Credit: "NOAA". |
 | Copernicus Sentinel data and derivatives | Free, with credit: "Contains modified Copernicus Sentinel data [2026]". |
 | USGS Landsat | Public domain. Credit: "USGS". |
 | Environment Canada and NRCan data | Open Government Licence – Canada. Credit: "Environment and Climate Change Canada" / "Natural Resources Canada". |
 | Government records in `atip/` | **No licence is granted by Prime Rogue.** Released under access-to-information law; reproduced for news reporting and public-interest purposes. Crown copyright may apply. |
+
+Prime Rogue's material was CC BY 4.0 until October 21, 2026; copies obtained before then keep that licence (see [`LICENSE-DATA`](LICENSE-DATA)).
 
 Commercial imagery (Planet, Vantor/Maxar, Airbus) is never stored here because its licences forbid redistribution. Only Prime Rogue's own measurements derived from it may appear.
 

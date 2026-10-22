@@ -1,6 +1,6 @@
 # Graphics published by Prime Rogue, Oct. 17–20, 2026
 
-The graphics used in Prime Rogue's live coverage and analysis pages, kept as published so readers can see exactly what was shown and when. Produced with the code in `scripts/first_analysis/`. © Prime Rogue Inc., CC BY 4.0 (underlying data credited on each graphic; Sentinel imagery: contains modified Copernicus Sentinel data [2026]).
+The graphics used in Prime Rogue's live coverage and analysis pages, kept as published so readers can see exactly what was shown and when. Produced with the code in `scripts/first_analysis/`. © Prime Rogue Inc., CC BY-NC 4.0 (underlying data credited on each graphic; Sentinel imagery: contains modified Copernicus Sentinel data [2026]).
 
 | Group | Files |
 |---|---|
@@ -18,3 +18,5 @@ The graphics used in Prime Rogue's live coverage and analysis pages, kept as pub
 The GOES contact sheet and loop are in `data/goes/early_subsets_goes18/`. Two flight-tracking graphics built from Flightradar24 screenshots are not included here pending a rights check.
 
 **Burn-scar threshold in the Oct. 20 graphics.** `s2-burn-scar-map` and `burn-pattern` used a dNBR threshold of 0.2 on Sentinel-2 L1C browser exports, connected to the Oct. 17 detections (about 11 km² main run, 1.5 km² inside the 2:49 p.m. pixels, about 9.6 km² outside). The automated pipeline in `data/copernicus/` uses L2A surface reflectance with a stricter 0.27 threshold and gives about 10.8 km². The two agree within the expected range; the archived figure is the more conservative one.
+
+Note: graphics published before October 21, 2026 show "CC BY 4.0" in their credit line because that was their licence when released. They are kept unaltered as published; see `LICENSE-DATA` for the current licence and the terms that still apply to those copies.

@@ -16,4 +16,4 @@
 
 Note: Wainwright lies just north of the CONUS sector's edge (see `docs/METHODS.md`), so the Full Disk files are the ones that cover the site; the GOES-18 fire pixels at 3:10, 3:30 and 3:40 p.m. MDT come from them. GOES-19 flagged no fire pixel at the site that afternoon, though its 3.9 µm channel showed heat at 3:20 and 3:40 p.m. (`data/goes/fire_timeline.csv`).
 
-Data: NOAA (public domain). Checksums, script and notes: Prime Rogue Inc. (script MIT, notes CC BY 4.0).
+Data: NOAA (public domain). Checksums, script and notes: Prime Rogue Inc. (script MIT, notes CC BY-NC 4.0).

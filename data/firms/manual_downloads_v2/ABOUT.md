@@ -8,4 +8,4 @@ Prime Rogue's first evidence package: KMZ/KML files downloaded by hand from NASA
 - `README.txt` refers to "the explosion," reflecting early reports on Oct. 17–18. Those reports are unconfirmed; the Canadian Armed Forces have since said there is no evidence of an explosion or gas-infrastructure involvement.
 - The detections in this package match the automated archive (`data/firms/detections.csv`), which also has later and fuller data.
 
-Licence: NASA FIRMS data is NASA open data (credit "NASA FIRMS (LANCE)"). Prime Rogue's extracted CSVs and notes: CC BY 4.0.
+Licence: NASA FIRMS data is NASA open data (credit "NASA FIRMS (LANCE)"). Prime Rogue's extracted CSVs and notes: CC BY-NC 4.0.

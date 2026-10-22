@@ -16,4 +16,4 @@ Retrieved from the MSC Datamart (dd.weather.gc.ca) on Oct. 19, 2026, before the 
 - Lloydminster (CYLL, about 80 km northeast of the fire site): peak gust 98 km/h from 269° in the hour to 4 p.m.
 - **Warnings naming Wainwright:** yellow-level wind warning issued 2:14 p.m. MDT, updated 3:05 p.m., ended 6:18 p.m. (WWCN16 CWWG). See `bulletins_index.csv` for every issue, including dust-storm wording in the region.
 
-Station observations are hourly snapshots plus the hour's peak; they do not give minute-by-minute wind at the fire. Data: Environment and Climate Change Canada (Open Government Licence – Canada). Parsed tables and notes: Prime Rogue Inc., CC BY 4.0.
+Station observations are hourly snapshots plus the hour's peak; they do not give minute-by-minute wind at the fire. Data: Environment and Climate Change Canada (Open Government Licence – Canada). Parsed tables and notes: Prime Rogue Inc., CC BY-NC 4.0.

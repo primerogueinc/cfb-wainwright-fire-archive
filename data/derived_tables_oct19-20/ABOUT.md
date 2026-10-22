@@ -17,4 +17,4 @@ Working tables built during Prime Rogue's first reconstruction, kept as produced
 
 Three tables in the original bundle were exact copies of files already archived and are not repeated here: the ECCC hourly CSV (`data/eccc/climate_hourly/wain_hourly_2026-10.csv`), the SWOB extract (`data/eccc/original/as_pulled_oct19/ecc_raw_oct_17/cfb-wainwright-swob-czwn-oct17.txt`) and the FIRMS detections table (`data/firms/manual_downloads_v2/cfb-wainwright-firms-detections.csv`; its "-v2" copy was identical).
 
-Sources: NASA FIRMS, NOAA, ECCC, NRCan, AER (open data, see each folder). Tables and calculations: Prime Rogue Inc., CC BY 4.0.
+Sources: NASA FIRMS, NOAA, ECCC, NRCan, AER (open data, see each folder). Tables and calculations: Prime Rogue Inc., CC BY-NC 4.0.

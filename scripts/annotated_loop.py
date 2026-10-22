@@ -156,7 +156,7 @@ def compose(t, vis, fire, pts, path):
     fig.text(0.02, 0.012, "Data: NOAA GOES-18 (10-min scans, time = scan start), NOAA fire product, NASA FIRMS. "
                           "Red rings = NOAA fire pixels, accurate to a few km.",
              fontsize=8.5, color="#9a9a9a")
-    fig.text(0.98, 0.012, "Prime Rogue Inc. · CC BY 4.0", fontsize=9, color="#bdbdbd", ha="right")
+    fig.text(0.98, 0.012, "Prime Rogue Inc. · CC BY-NC 4.0", fontsize=9, color="#bdbdbd", ha="right")
     fig.savefig(path, facecolor=fig.get_facecolor())
     plt.close(fig)
 

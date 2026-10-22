@@ -13,4 +13,4 @@ Inputs used in the first analysis (Oct. 19–20, 2026) whose original downloads 
 
 **Cold-front timing from these stations** (first hourly observation showing a drop of 4 °C or more, converted to MDT): Edmonton International 2 p.m.; Camrose and Vegreville 3 p.m.; CFB Wainwright, Coronation and Lloydminster 4 p.m. Each time is the first observation *after* the front passed; the CFB Wainwright SWOB record (`data/eccc/`) pins its passage at the 3:16 p.m. peak gust.
 
-Licences: ECCC and NRCan data, Open Government Licence – Canada; AER data, published by the Alberta Energy Regulator (credit "Alberta Energy Regulator"). Clipping and notes: Prime Rogue Inc., CC BY 4.0.
+Licences: ECCC and NRCan data, Open Government Licence – Canada; AER data, published by the Alberta Energy Regulator (credit "Alberta Energy Regulator"). Clipping and notes: Prime Rogue Inc., CC BY-NC 4.0.

@@ -16,4 +16,4 @@
 
 These are the national system's numbers for the base's own weather station. A CAF Strategic Joint Staff memo reported by Global News and the Globe and Mail described the fire index on Oct. 17 as "low"; which scale it used is not public.
 
-FWI codes are computed from noon Local Standard Time observations (1 p.m. MDT), so they describe the afternoon's dryness, not the 3:16 p.m. wind peak. Data: Natural Resources Canada, Open Government Licence – Canada. Extract and notes: Prime Rogue Inc., CC BY 4.0.
+FWI codes are computed from noon Local Standard Time observations (1 p.m. MDT), so they describe the afternoon's dryness, not the 3:16 p.m. wind peak. Data: Natural Resources Canada, Open Government Licence – Canada. Extract and notes: Prime Rogue Inc., CC BY-NC 4.0.
