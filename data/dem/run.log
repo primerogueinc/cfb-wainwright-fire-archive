@@ -1,0 +1,10 @@
+mrdem30_dtm: (757, 757) px at (30.0, 30.0), elevation 585.1-729.4 m
+copernicus_glo30_dsm: (612, 672) px at (0.00041666666666666664, 0.0002777777777777778), elevation 649.0-718.4 m
+STAC collections with 'hrdem': ['hrdem-arcticdem', 'hrdem-lidar', 'hrdem-mosaic-1m', 'hrdem-mosaic-2m']
+hrdem-arcticdem: 0 items
+hrdem-lidar: 1 items
+hrdem-lidar_NRCAN-Lloydminster_South_2024-1m_dtm: (5861, 5419) px at (2.0, 2.0), elevation 659.1-689.8 m
+hrdem-mosaic-1m: 1 items
+hrdem-mosaic-1m_3_4-mosaic-1m_dtm: (5861, 5419) px at (2.0, 2.0), elevation 659.1-689.8 m
+hrdem-mosaic-2m: 1 items
+hrdem-mosaic-2m_3_4-mosaic-2m_dtm: (5861, 5419) px at (2.0, 2.0), elevation 659.1-689.8 m
