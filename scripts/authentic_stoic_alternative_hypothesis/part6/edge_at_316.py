@@ -5,7 +5,7 @@ no growth between the last satellite pass (14:49) and the front (3:16 or 3:25 p.
   1. Empirical pre-front spread: advance of the fire's head between Landsat 12:17 and VIIRS 14:49.
   2. Fire power check: VIIRS 14:49 FRP vs GOES-18 FDC FRP at 15:10 (pre-front) and 15:30 (post-front).
   3. Growth model: Huygens expansion of the hull with an elliptical template (ignition at rear focus),
-     pre-front wind from CZWN (236-256 deg, 30-33 km/h, RH 16-22%), clipped to the mapped scar + 150 m.
+     pre-front wind from CZWN (234-236 deg mean, gusts from 232-250 deg; 30-32 km/h; RH 16-17%; model tests 236-256 deg), clipped to the mapped scar + 150 m.
   4. Effect: distance from scenarios A-E to the 3:16 edge, and the part 1/2 downwind band
      (0.6-1.5 km, winds 270-325 deg) recomputed from the grown edge.
 """

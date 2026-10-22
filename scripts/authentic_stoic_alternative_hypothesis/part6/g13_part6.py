@@ -20,7 +20,7 @@ label(md,(m.P(52.7728,-110.9063)[0]+18,m.P(52.7728,-110.9063)[1]-14),"Range 2",C
 hx,hy=m.P(52.7905,-110.947); label(md,(hx,hy),"Edge at the last satellite pass\n(Landsat 12:17, VIIRS 2:49)",YEL,16)
 to=math.radians(66); q0=m.P(52.7895,-110.893)
 arrow(md,q0,(q0[0]+0.9*m.pxkm*math.sin(to),q0[1]-0.9*m.pxkm*math.cos(to)),(220,220,220),6,22)
-label(md,(q0[0]-120,q0[1]+20),"Wind before 3:16: SW, 30-33 km/h",CREAM,16)
+label(md,(q0[0]-120,q0[1]+20),"Wind before 3:16: SW, 30-32 km/h",CREAM,16)
 lx,ly=30,base.size[1]-36*len(CASES)-50
 label(md,(lx,ly-34),"Where the edge could be at 3:16, if the fire's head ran at:",CREAM,16)
 for i,(ros,col,t) in enumerate(CASES):

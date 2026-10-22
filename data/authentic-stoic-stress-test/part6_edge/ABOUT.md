@@ -4,7 +4,7 @@ Parts 1-5 measured from the pre-shift hull (Landsat 12:17 + VIIRS 14:49) and ass
 
 ## Measured pace before the front
 - Head advance from Landsat 12:17 to VIIRS 14:49 along 45-71° (the pre-front spread direction): about 1.0-1.2 km in 152 min, **0.39-0.47 km/h** (±190 m VIIRS half-pixel gives 0.31-0.54). `empirical_head_advance.csv`
-- This average spans a calmer period. CZWN mean wind rose from about 14 km/h (noon to 1 p.m.) to 30-33 km/h after 2 p.m. (RH 16-22%), so the last half-hour may have run faster than the average.
+- This average spans a calmer period. CZWN mean wind rose from about 15 km/h (1 p.m.) to 30-32 km/h at 2-3 p.m., gusts 46-51 km/h (RH 16-17%). Correction, Oct. 22: an earlier version gave 30-33 km/h and RH 16-22%, mixing in Lloydminster (CYLL) values, so the last half-hour may have run faster than the average.
 
 ## Fire power check
 - VIIRS 14:49: 8 pixels, 74.6 MW total. GOES-18 FDC 15:10: 1 pixel, 76.5 MW. GOES-18 15:30 (after the front): 3 pixels, 1215 MW.
