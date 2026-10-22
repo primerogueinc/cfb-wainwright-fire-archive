@@ -1,0 +1,13 @@
+{
+ "scar_km2": 10.8,
+ "outside_pda2_km2": 0.986,
+ "outside_within_2km_of_origin_km2": 0.0017,
+ "largest_outside_patch": {
+  "area_km2": 0.9842,
+  "lat": 52.7472,
+  "lon": -110.8686,
+  "dist_from_origin_m": 4829,
+  "bearing_from_origin": 129,
+  "dist_to_road_head_m": 2173
+ }
+}

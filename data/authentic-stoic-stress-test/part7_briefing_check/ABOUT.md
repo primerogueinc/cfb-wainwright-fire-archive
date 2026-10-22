@@ -18,3 +18,18 @@ No model inputs change, so parts 1-6 were not re-run. `briefing_check.py` tests 
 Administrative areas sit outside danger areas. The road head (point B) is 10 m outside PDA 2 and about 20 m from the burn scar's edge; the Range 2 point (A) is 405 m inside PDA 2. The section-attack range's administrative area is therefore more plausibly at or near the road head than at A. A forward group on an attack lane could still have been inside PDA 2, toward the rise. This is an inference from map boundaries, not a confirmed location.
 
 At the road head (part 4, best route, 3-minute margin, jogging): 100% reach safe ground leaving at the 3:16 gust; 73% leaving when flames come into sight (median 3:19) after a 2-minute delay; 20% leaving when the fire is within 300 m (median 3:24) after a 2-minute delay. Median fire arrival about 3:26 (10-90%: 3:22-3:36).
+
+## Full re-run (Oct. 22, evening)
+
+Parts 1-6 were re-run end to end (`spread.py`, `part2_distance.py`, part 3 sightlines, part 4 grids/permutations/clock/surface, part 5 vegetation/posture/smoke, part 6 edge growth). Every output reproduced exactly: no numeric differences from the published versions.
+
+## Briefing-constrained analysis
+
+`constrained.py` splits the part 2 likely ground by PDA 2 (`constrained_summary.json`, `likely_ground_by_pda2.csv`). **All 600 likely-ground cells lie inside PDA 2 as mapped.** The likely ground's visibility, escape and arrival figures are therefore unchanged by the split.
+
+`outside_pda.py` asks where the fire burned outside PDA 2 (`burn_outside_pda2.json`, `burn_outside_pda2.csv`). Of 10.8 km² burned, 0.99 km² lies outside PDA 2:
+
+- one patch of 0.98 km² at the scar's southeast tail, 4.8 km from where the fire started, which the fire reached about 50-85 minutes after the front in our models;
+- slivers totalling about 0.002 km² along PDA 2's eastern boundary, 20-700 m from the road head.
+
+If the section-attack range's administrative area lay outside PDA 2 (as admin areas normally do) and the fire overtook it about a kilometre from where the fire was when the wind shifted, the eastern boundary near the road head is the only burned ground that fits. The southeast patch is too far from the fire's position at 3:16. This rests on OpenStreetMap's PDA 2 boundary, which DND has not confirmed.
