@@ -2,7 +2,7 @@
 
 *Run Oct. 22, 2026. Prime Rogue Inc. Prompted by @AuthenticStoic: "they would've ran half a mile east and been safe if that's the case, no?"*
 
-**Status: preliminary.** Not yet reviewed or published.
+**Status: preliminary.** Not yet reviewed or published. The full permutation run below supersedes the first-pass table.
 
 ## Method
 
@@ -50,3 +50,72 @@ The model is optimistic for escape:
 - **Straight routes,** perfect knowledge of direction, and no time to react or to gather people or vehicles.
 
 Treat the departure times as best-case upper bounds, not as a finding that escape was easy.
+
+---
+
+## Full permutation run (supersedes the first-pass table above)
+
+### Fire
+
+30 spread scenarios:
+- **5 wind schedules:** S0–S4, as in the alternative-hypothesis test.
+- **3 head-spread rates:** 4.4, 8 and 12 km/h.
+- **2 flank behaviours:** steady (length-to-breadth ratio 6.6) and gusty, surging flanks (ratio 3.0).
+
+The front reaches the fire at 3:16 p.m. Spread is limited to the mapped scar plus 150 m. Script: `gen_grids.py`.
+
+### People
+
+Script: `perm.py`.
+
+| Factor | Values |
+|---|---|
+| Location | A–E |
+| Cue to move | the 3:16 gust front; first new flames in sight (terrain line of sight, eye 1.7 m, flames 4 m); fire within 300 m |
+| Delay after the cue | 0, 2, 5 or 10 minutes (milling, gathering people, awaiting orders) |
+| Pace | jog in kit 8 km/h; walk 5 km/h; slowed by smoke 3 km/h; helping the injured 2 km/h |
+| Direction | best route; crosswind east (90°); directly away from the fire (downwind at the moment of leaving); south or north along the range road; random direction |
+| Safety margin | reach safe ground 3 minutes (main) or 0.5 minutes before the fire |
+
+**Outcome:** the share of the 30 fire scenarios in which the person reaches safe ground. Full results are in `perm.csv.gz`. Odds by departure minute for A and B are in `clock.csv`.
+
+### Findings at A (Range 2) and B (road's end)
+
+Jogging in kit, 3-minute margin.
+
+| Cue, delay | A, best route | A, away from fire | A, random | B, best route | B, away from fire | B, random |
+|---|---|---|---|---|---|---|
+| 3:16 gust, +0 | 80% | 60% | 27% | 100% | 80% | 54% |
+| Flames in sight, +2 | 43% | 37% | 16% | 73% | 60% | 33% |
+| Flames in sight, +5 | 30% | 30% | 10% | 47% | 40% | 21% |
+| Fire within 300 m, +2 | 10% | 10% | 3% | 20% | 17% | 6% |
+| Any cue, +10 | 0–10% | 0–10% | 0–2% | 0–40% | 0–33% | 0–20% |
+
+Smoke (3 km/h) roughly halves these. Helping an injured person (2 km/h) cuts them further: 10% at A for the best route, flames-in-sight cue with a 2–5 minute delay.
+
+Gusty, surging flanks also lower the odds. At A, the best route after flames in sight with a 2-minute delay falls from 53% (steady) to 33% (gusty).
+
+Heading north along the range road, or back northwest, almost never works (0% at A; 0–33% at B). Those routes lead back into the fire's path.
+
+### What it suggests
+
+1. **Timing dominated direction.** At A, the best route at the 3:16 gust succeeds 80% of the time. Waiting until the fire was within 300 m drops it to 43% with no delay and 10% with a 2-minute delay.
+2. **A gap of a few minutes is the difference.** Disaster research finds people rarely "panic". They seek information, gather with others, and use familiar routes (Sime 1984, the affiliation model). A unit waiting for orders behaves the same way. On this model, those ordinary delays were enough to close the window.
+3. **Smoke, injury and gusts are each enough on their own** to turn a likely escape into an unlikely one.
+4. **Direction mattered less than timing,** but the familiar route north along the road was among the worst.
+
+### Behavioural and safety references used to set the factors
+
+- **Sime, J.D. (1984).** *Escape behaviour in fires: 'panic' or affiliation?* PhD thesis, University of Surrey. People act on the information they have, prefer familiar routes, and seek out their group.
+- **Page, W.G. & Butler, B.W. (2017).** *An empirically based approach to defining wildland firefighter safety and survival zone separation distances.* International Journal of Wildland Fire 26: 655–667. Grass fires need far more separation than the old 4× flame-height rule implies.
+- **Smoke reduces walking speed sharply** (e.g., Frantzich & Nilsson 2004, smoke-filled tunnel experiments, Lund University). Our 3 km/h smoke pace sits within the reported range.
+
+### Limits
+
+- Best case for escape:
+  - **No embers, spot fires, smoke inhalation or heat injury** before the fire front arrives.
+  - **Uniform grass** with no fences, berms or vehicles.
+  - **Straight-line routes** only.
+- **Line-of-sight cues** use a 30 m terrain model.
+- **Locations are estimates** (parts 2–3).
+- **Power lines and fences** ("high lines") are not in the model. None are mapped near A or B in OpenStreetMap, which needs checking.
