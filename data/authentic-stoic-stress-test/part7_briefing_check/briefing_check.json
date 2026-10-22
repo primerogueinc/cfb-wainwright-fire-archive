@@ -1,0 +1,24 @@
+{
+ "landsat_1217_in_PDA2": "59/59",
+ "viirs_1449_in_PDA2": "7/8",
+ "preshift_fire_outline_share_in_PDA2": 1.0,
+ "final_scar_share_in_PDA2": 0.909,
+ "origin_centroid_lonlat": [
+  -110.9214,
+  52.7764
+ ],
+ "points": {
+  "A_range2": {
+   "inside_PDA2": true,
+   "dist_to_PDA2_boundary_m": 405,
+   "dist_from_origin_m": 1096,
+   "dist_to_scar_edge_m": 62
+  },
+  "B_road_head": {
+   "inside_PDA2": false,
+   "dist_to_PDA2_boundary_m": 10,
+   "dist_from_origin_m": 1612,
+   "dist_to_scar_edge_m": 20
+  }
+ }
+}
