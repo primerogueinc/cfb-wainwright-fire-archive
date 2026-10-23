@@ -1,0 +1,841 @@
+run,schedule,front,ros_kmh,point,arrival,min_after_front,dist_to_starting_fire_m
+scar_limited,S0_fixed306,3:16,4.4,Range2 centroid (OSM),15:33,17.5,586
+scar_limited,S0_fixed306,3:16,4.4,Range3 centroid (OSM),not reached,,199
+scar_limited,S0_fixed306,3:16,4.4,Road dead end (CanVec),15:49,32.8,1105
+scar_limited,S0_fixed306,3:16,4.4,Building (CanVec),15:56,39.7,1320
+scar_limited,S0_fixed306,3:16,4.4,Track @52.765,16:02,45.5,1540
+scar_limited,S0_fixed306,3:16,4.4,Track @52.760,15:57,41.3,1440
+scar_limited,S0_fixed306,3:16,4.4,Track @52.755,16:15,58.9,2062
+scar_limited,S0_fixed306,3:16,4.4,"East lobe @ -110.875,52.755",16:57,101.1,3407
+scar_limited,S0_fixed306,3:16,4.4,East lobe Oct18 VIIRS,17:26,130.3,4416
+scar_limited,S0_fixed306,3:16,4.4,"SW lobe N of lake 52.763,-110.915",15:40,23.8,735
+scar_limited,S0_fixed306,3:16,4.4,"West: pond 52.767,-110.93",15:16,0.0,0
+scar_limited,S0_fixed306,3:16,4.4,North: Peterson Pond,15:18,1.6,0
+scar_limited,S0_fixed306,3:16,4.4,Range Control (OSM),not reached,,2925
+scar_limited,S0_fixed306,3:16,4.4,Landsat SW end,15:16,0.0,0
+unconstrained,S0_fixed306,3:16,4.4,Range2 centroid (OSM),15:33,17.5,586
+unconstrained,S0_fixed306,3:16,4.4,Range3 centroid (OSM),15:22,6.4,199
+unconstrained,S0_fixed306,3:16,4.4,Road dead end (CanVec),15:49,32.8,1105
+unconstrained,S0_fixed306,3:16,4.4,Building (CanVec),15:56,39.7,1320
+unconstrained,S0_fixed306,3:16,4.4,Track @52.765,16:02,45.5,1540
+unconstrained,S0_fixed306,3:16,4.4,Track @52.760,15:57,41.3,1440
+unconstrained,S0_fixed306,3:16,4.4,Track @52.755,16:15,58.9,2062
+unconstrained,S0_fixed306,3:16,4.4,"East lobe @ -110.875,52.755",16:57,101.1,3407
+unconstrained,S0_fixed306,3:16,4.4,East lobe Oct18 VIIRS,17:26,130.3,4416
+unconstrained,S0_fixed306,3:16,4.4,"SW lobe N of lake 52.763,-110.915",15:40,23.8,735
+unconstrained,S0_fixed306,3:16,4.4,"West: pond 52.767,-110.93",15:16,0.0,0
+unconstrained,S0_fixed306,3:16,4.4,North: Peterson Pond,15:18,1.6,0
+unconstrained,S0_fixed306,3:16,4.4,Range Control (OSM),not reached,,2925
+unconstrained,S0_fixed306,3:16,4.4,Landsat SW end,15:16,0.0,0
+scar_limited,S0_fixed306,3:16,8.0,Range2 centroid (OSM),15:26,9.6,586
+scar_limited,S0_fixed306,3:16,8.0,Range3 centroid (OSM),not reached,,199
+scar_limited,S0_fixed306,3:16,8.0,Road dead end (CanVec),15:34,18.1,1105
+scar_limited,S0_fixed306,3:16,8.0,Building (CanVec),15:38,21.8,1320
+scar_limited,S0_fixed306,3:16,8.0,Track @52.765,15:41,25.0,1540
+scar_limited,S0_fixed306,3:16,8.0,Track @52.760,15:39,22.7,1440
+scar_limited,S0_fixed306,3:16,8.0,Track @52.755,15:48,32.4,2062
+scar_limited,S0_fixed306,3:16,8.0,"East lobe @ -110.875,52.755",16:12,55.6,3407
+scar_limited,S0_fixed306,3:16,8.0,East lobe Oct18 VIIRS,16:28,71.6,4416
+scar_limited,S0_fixed306,3:16,8.0,"SW lobe N of lake 52.763,-110.915",15:29,13.1,735
+scar_limited,S0_fixed306,3:16,8.0,"West: pond 52.767,-110.93",15:16,0.0,0
+scar_limited,S0_fixed306,3:16,8.0,North: Peterson Pond,15:17,0.9,0
+scar_limited,S0_fixed306,3:16,8.0,Range Control (OSM),not reached,,2925
+scar_limited,S0_fixed306,3:16,8.0,Landsat SW end,15:16,0.0,0
+unconstrained,S0_fixed306,3:16,8.0,Range2 centroid (OSM),15:26,9.6,586
+unconstrained,S0_fixed306,3:16,8.0,Range3 centroid (OSM),15:20,3.5,199
+unconstrained,S0_fixed306,3:16,8.0,Road dead end (CanVec),15:34,18.1,1105
+unconstrained,S0_fixed306,3:16,8.0,Building (CanVec),15:38,21.8,1320
+unconstrained,S0_fixed306,3:16,8.0,Track @52.765,15:41,25.0,1540
+unconstrained,S0_fixed306,3:16,8.0,Track @52.760,15:39,22.7,1440
+unconstrained,S0_fixed306,3:16,8.0,Track @52.755,15:48,32.4,2062
+unconstrained,S0_fixed306,3:16,8.0,"East lobe @ -110.875,52.755",16:12,55.6,3407
+unconstrained,S0_fixed306,3:16,8.0,East lobe Oct18 VIIRS,16:28,71.6,4416
+unconstrained,S0_fixed306,3:16,8.0,"SW lobe N of lake 52.763,-110.915",15:29,13.1,735
+unconstrained,S0_fixed306,3:16,8.0,"West: pond 52.767,-110.93",15:16,0.0,0
+unconstrained,S0_fixed306,3:16,8.0,North: Peterson Pond,15:17,0.9,0
+unconstrained,S0_fixed306,3:16,8.0,Range Control (OSM),not reached,,2925
+unconstrained,S0_fixed306,3:16,8.0,Landsat SW end,15:16,0.0,0
+scar_limited,S0_fixed306,3:16,12.0,Range2 centroid (OSM),15:22,6.4,586
+scar_limited,S0_fixed306,3:16,12.0,Range3 centroid (OSM),not reached,,199
+scar_limited,S0_fixed306,3:16,12.0,Road dead end (CanVec),15:28,12.0,1105
+scar_limited,S0_fixed306,3:16,12.0,Building (CanVec),15:31,14.5,1320
+scar_limited,S0_fixed306,3:16,12.0,Track @52.765,15:33,16.7,1540
+scar_limited,S0_fixed306,3:16,12.0,Track @52.760,15:31,15.2,1440
+scar_limited,S0_fixed306,3:16,12.0,Track @52.755,15:38,21.6,2062
+scar_limited,S0_fixed306,3:16,12.0,"East lobe @ -110.875,52.755",15:53,37.1,3407
+scar_limited,S0_fixed306,3:16,12.0,East lobe Oct18 VIIRS,16:04,47.8,4416
+scar_limited,S0_fixed306,3:16,12.0,"SW lobe N of lake 52.763,-110.915",15:25,8.7,735
+scar_limited,S0_fixed306,3:16,12.0,"West: pond 52.767,-110.93",15:16,0.0,0
+scar_limited,S0_fixed306,3:16,12.0,North: Peterson Pond,15:17,0.6,0
+scar_limited,S0_fixed306,3:16,12.0,Range Control (OSM),not reached,,2925
+scar_limited,S0_fixed306,3:16,12.0,Landsat SW end,15:16,0.0,0
+unconstrained,S0_fixed306,3:16,12.0,Range2 centroid (OSM),15:22,6.4,586
+unconstrained,S0_fixed306,3:16,12.0,Range3 centroid (OSM),15:18,2.3,199
+unconstrained,S0_fixed306,3:16,12.0,Road dead end (CanVec),15:28,12.0,1105
+unconstrained,S0_fixed306,3:16,12.0,Building (CanVec),15:31,14.5,1320
+unconstrained,S0_fixed306,3:16,12.0,Track @52.765,15:33,16.7,1540
+unconstrained,S0_fixed306,3:16,12.0,Track @52.760,15:31,15.2,1440
+unconstrained,S0_fixed306,3:16,12.0,Track @52.755,15:38,21.6,2062
+unconstrained,S0_fixed306,3:16,12.0,"East lobe @ -110.875,52.755",15:53,37.1,3407
+unconstrained,S0_fixed306,3:16,12.0,East lobe Oct18 VIIRS,16:04,47.8,4416
+unconstrained,S0_fixed306,3:16,12.0,"SW lobe N of lake 52.763,-110.915",15:25,8.7,735
+unconstrained,S0_fixed306,3:16,12.0,"West: pond 52.767,-110.93",15:16,0.0,0
+unconstrained,S0_fixed306,3:16,12.0,North: Peterson Pond,15:17,0.6,0
+unconstrained,S0_fixed306,3:16,12.0,Range Control (OSM),not reached,,2925
+unconstrained,S0_fixed306,3:16,12.0,Landsat SW end,15:16,0.0,0
+scar_limited,S0_fixed306,3:25,4.4,Range2 centroid (OSM),15:42,17.5,586
+scar_limited,S0_fixed306,3:25,4.4,Range3 centroid (OSM),not reached,,199
+scar_limited,S0_fixed306,3:25,4.4,Road dead end (CanVec),15:58,32.8,1105
+scar_limited,S0_fixed306,3:25,4.4,Building (CanVec),16:05,39.7,1320
+scar_limited,S0_fixed306,3:25,4.4,Track @52.765,16:11,45.5,1540
+scar_limited,S0_fixed306,3:25,4.4,Track @52.760,16:06,41.3,1440
+scar_limited,S0_fixed306,3:25,4.4,Track @52.755,16:24,58.9,2062
+scar_limited,S0_fixed306,3:25,4.4,"East lobe @ -110.875,52.755",17:06,101.1,3407
+scar_limited,S0_fixed306,3:25,4.4,East lobe Oct18 VIIRS,17:35,130.3,4416
+scar_limited,S0_fixed306,3:25,4.4,"SW lobe N of lake 52.763,-110.915",15:49,23.8,735
+scar_limited,S0_fixed306,3:25,4.4,"West: pond 52.767,-110.93",15:25,0.0,0
+scar_limited,S0_fixed306,3:25,4.4,North: Peterson Pond,15:27,1.6,0
+scar_limited,S0_fixed306,3:25,4.4,Range Control (OSM),not reached,,2925
+scar_limited,S0_fixed306,3:25,4.4,Landsat SW end,15:25,0.0,0
+unconstrained,S0_fixed306,3:25,4.4,Range2 centroid (OSM),15:42,17.5,586
+unconstrained,S0_fixed306,3:25,4.4,Range3 centroid (OSM),15:31,6.4,199
+unconstrained,S0_fixed306,3:25,4.4,Road dead end (CanVec),15:58,32.8,1105
+unconstrained,S0_fixed306,3:25,4.4,Building (CanVec),16:05,39.7,1320
+unconstrained,S0_fixed306,3:25,4.4,Track @52.765,16:11,45.5,1540
+unconstrained,S0_fixed306,3:25,4.4,Track @52.760,16:06,41.3,1440
+unconstrained,S0_fixed306,3:25,4.4,Track @52.755,16:24,58.9,2062
+unconstrained,S0_fixed306,3:25,4.4,"East lobe @ -110.875,52.755",17:06,101.1,3407
+unconstrained,S0_fixed306,3:25,4.4,East lobe Oct18 VIIRS,17:35,130.3,4416
+unconstrained,S0_fixed306,3:25,4.4,"SW lobe N of lake 52.763,-110.915",15:49,23.8,735
+unconstrained,S0_fixed306,3:25,4.4,"West: pond 52.767,-110.93",15:25,0.0,0
+unconstrained,S0_fixed306,3:25,4.4,North: Peterson Pond,15:27,1.6,0
+unconstrained,S0_fixed306,3:25,4.4,Range Control (OSM),not reached,,2925
+unconstrained,S0_fixed306,3:25,4.4,Landsat SW end,15:25,0.0,0
+scar_limited,S0_fixed306,3:25,8.0,Range2 centroid (OSM),15:35,9.6,586
+scar_limited,S0_fixed306,3:25,8.0,Range3 centroid (OSM),not reached,,199
+scar_limited,S0_fixed306,3:25,8.0,Road dead end (CanVec),15:43,18.1,1105
+scar_limited,S0_fixed306,3:25,8.0,Building (CanVec),15:47,21.8,1320
+scar_limited,S0_fixed306,3:25,8.0,Track @52.765,15:50,25.0,1540
+scar_limited,S0_fixed306,3:25,8.0,Track @52.760,15:48,22.7,1440
+scar_limited,S0_fixed306,3:25,8.0,Track @52.755,15:57,32.4,2062
+scar_limited,S0_fixed306,3:25,8.0,"East lobe @ -110.875,52.755",16:21,55.6,3407
+scar_limited,S0_fixed306,3:25,8.0,East lobe Oct18 VIIRS,16:37,71.6,4416
+scar_limited,S0_fixed306,3:25,8.0,"SW lobe N of lake 52.763,-110.915",15:38,13.1,735
+scar_limited,S0_fixed306,3:25,8.0,"West: pond 52.767,-110.93",15:25,0.0,0
+scar_limited,S0_fixed306,3:25,8.0,North: Peterson Pond,15:26,0.9,0
+scar_limited,S0_fixed306,3:25,8.0,Range Control (OSM),not reached,,2925
+scar_limited,S0_fixed306,3:25,8.0,Landsat SW end,15:25,0.0,0
+unconstrained,S0_fixed306,3:25,8.0,Range2 centroid (OSM),15:35,9.6,586
+unconstrained,S0_fixed306,3:25,8.0,Range3 centroid (OSM),15:29,3.5,199
+unconstrained,S0_fixed306,3:25,8.0,Road dead end (CanVec),15:43,18.1,1105
+unconstrained,S0_fixed306,3:25,8.0,Building (CanVec),15:47,21.8,1320
+unconstrained,S0_fixed306,3:25,8.0,Track @52.765,15:50,25.0,1540
+unconstrained,S0_fixed306,3:25,8.0,Track @52.760,15:48,22.7,1440
+unconstrained,S0_fixed306,3:25,8.0,Track @52.755,15:57,32.4,2062
+unconstrained,S0_fixed306,3:25,8.0,"East lobe @ -110.875,52.755",16:21,55.6,3407
+unconstrained,S0_fixed306,3:25,8.0,East lobe Oct18 VIIRS,16:37,71.6,4416
+unconstrained,S0_fixed306,3:25,8.0,"SW lobe N of lake 52.763,-110.915",15:38,13.1,735
+unconstrained,S0_fixed306,3:25,8.0,"West: pond 52.767,-110.93",15:25,0.0,0
+unconstrained,S0_fixed306,3:25,8.0,North: Peterson Pond,15:26,0.9,0
+unconstrained,S0_fixed306,3:25,8.0,Range Control (OSM),not reached,,2925
+unconstrained,S0_fixed306,3:25,8.0,Landsat SW end,15:25,0.0,0
+scar_limited,S0_fixed306,3:25,12.0,Range2 centroid (OSM),15:31,6.4,586
+scar_limited,S0_fixed306,3:25,12.0,Range3 centroid (OSM),not reached,,199
+scar_limited,S0_fixed306,3:25,12.0,Road dead end (CanVec),15:37,12.0,1105
+scar_limited,S0_fixed306,3:25,12.0,Building (CanVec),15:40,14.5,1320
+scar_limited,S0_fixed306,3:25,12.0,Track @52.765,15:42,16.7,1540
+scar_limited,S0_fixed306,3:25,12.0,Track @52.760,15:40,15.2,1440
+scar_limited,S0_fixed306,3:25,12.0,Track @52.755,15:47,21.6,2062
+scar_limited,S0_fixed306,3:25,12.0,"East lobe @ -110.875,52.755",16:02,37.1,3407
+scar_limited,S0_fixed306,3:25,12.0,East lobe Oct18 VIIRS,16:13,47.8,4416
+scar_limited,S0_fixed306,3:25,12.0,"SW lobe N of lake 52.763,-110.915",15:34,8.7,735
+scar_limited,S0_fixed306,3:25,12.0,"West: pond 52.767,-110.93",15:25,0.0,0
+scar_limited,S0_fixed306,3:25,12.0,North: Peterson Pond,15:26,0.6,0
+scar_limited,S0_fixed306,3:25,12.0,Range Control (OSM),not reached,,2925
+scar_limited,S0_fixed306,3:25,12.0,Landsat SW end,15:25,0.0,0
+unconstrained,S0_fixed306,3:25,12.0,Range2 centroid (OSM),15:31,6.4,586
+unconstrained,S0_fixed306,3:25,12.0,Range3 centroid (OSM),15:27,2.3,199
+unconstrained,S0_fixed306,3:25,12.0,Road dead end (CanVec),15:37,12.0,1105
+unconstrained,S0_fixed306,3:25,12.0,Building (CanVec),15:40,14.5,1320
+unconstrained,S0_fixed306,3:25,12.0,Track @52.765,15:42,16.7,1540
+unconstrained,S0_fixed306,3:25,12.0,Track @52.760,15:40,15.2,1440
+unconstrained,S0_fixed306,3:25,12.0,Track @52.755,15:47,21.6,2062
+unconstrained,S0_fixed306,3:25,12.0,"East lobe @ -110.875,52.755",16:02,37.1,3407
+unconstrained,S0_fixed306,3:25,12.0,East lobe Oct18 VIIRS,16:13,47.8,4416
+unconstrained,S0_fixed306,3:25,12.0,"SW lobe N of lake 52.763,-110.915",15:34,8.7,735
+unconstrained,S0_fixed306,3:25,12.0,"West: pond 52.767,-110.93",15:25,0.0,0
+unconstrained,S0_fixed306,3:25,12.0,North: Peterson Pond,15:26,0.6,0
+unconstrained,S0_fixed306,3:25,12.0,Range Control (OSM),not reached,,2925
+unconstrained,S0_fixed306,3:25,12.0,Landsat SW end,15:25,0.0,0
+scar_limited,S1_stoic,3:16,4.4,Range2 centroid (OSM),15:25,9.4,586
+scar_limited,S1_stoic,3:16,4.4,Range3 centroid (OSM),not reached,,199
+scar_limited,S1_stoic,3:16,4.4,Road dead end (CanVec),15:35,18.6,1105
+scar_limited,S1_stoic,3:16,4.4,Building (CanVec),15:41,24.6,1320
+scar_limited,S1_stoic,3:16,4.4,Track @52.765,15:57,41.2,1540
+scar_limited,S1_stoic,3:16,4.4,Track @52.760,16:10,53.6,1440
+scar_limited,S1_stoic,3:16,4.4,Track @52.755,16:32,76.2,2062
+scar_limited,S1_stoic,3:16,4.4,"East lobe @ -110.875,52.755",16:42,86.5,3407
+scar_limited,S1_stoic,3:16,4.4,East lobe Oct18 VIIRS,17:13,117.4,4416
+scar_limited,S1_stoic,3:16,4.4,"SW lobe N of lake 52.763,-110.915",15:50,33.6,735
+scar_limited,S1_stoic,3:16,4.4,"West: pond 52.767,-110.93",15:16,0.0,0
+scar_limited,S1_stoic,3:16,4.4,North: Peterson Pond,15:17,0.6,0
+scar_limited,S1_stoic,3:16,4.4,Range Control (OSM),not reached,,2925
+scar_limited,S1_stoic,3:16,4.4,Landsat SW end,15:16,0.0,0
+unconstrained,S1_stoic,3:16,4.4,Range2 centroid (OSM),15:25,9.4,586
+unconstrained,S1_stoic,3:16,4.4,Range3 centroid (OSM),15:22,6.0,199
+unconstrained,S1_stoic,3:16,4.4,Road dead end (CanVec),15:35,18.6,1105
+unconstrained,S1_stoic,3:16,4.4,Building (CanVec),15:41,24.6,1320
+unconstrained,S1_stoic,3:16,4.4,Track @52.765,15:57,41.2,1540
+unconstrained,S1_stoic,3:16,4.4,Track @52.760,16:10,53.6,1440
+unconstrained,S1_stoic,3:16,4.4,Track @52.755,16:32,76.2,2062
+unconstrained,S1_stoic,3:16,4.4,"East lobe @ -110.875,52.755",16:42,86.5,3407
+unconstrained,S1_stoic,3:16,4.4,East lobe Oct18 VIIRS,17:13,117.4,4416
+unconstrained,S1_stoic,3:16,4.4,"SW lobe N of lake 52.763,-110.915",15:50,33.6,735
+unconstrained,S1_stoic,3:16,4.4,"West: pond 52.767,-110.93",15:16,0.0,0
+unconstrained,S1_stoic,3:16,4.4,North: Peterson Pond,15:17,0.6,0
+unconstrained,S1_stoic,3:16,4.4,Range Control (OSM),not reached,,2925
+unconstrained,S1_stoic,3:16,4.4,Landsat SW end,15:16,0.0,0
+scar_limited,S1_stoic,3:16,8.0,Range2 centroid (OSM),15:21,5.1,586
+scar_limited,S1_stoic,3:16,8.0,Range3 centroid (OSM),not reached,,199
+scar_limited,S1_stoic,3:16,8.0,Road dead end (CanVec),15:25,9.5,1105
+scar_limited,S1_stoic,3:16,8.0,Building (CanVec),15:28,11.8,1320
+scar_limited,S1_stoic,3:16,8.0,Track @52.765,15:39,23.4,1540
+scar_limited,S1_stoic,3:16,8.0,Track @52.760,15:55,39.0,1440
+scar_limited,S1_stoic,3:16,8.0,Track @52.755,16:15,58.5,2062
+scar_limited,S1_stoic,3:16,8.0,"East lobe @ -110.875,52.755",16:15,58.7,3407
+scar_limited,S1_stoic,3:16,8.0,East lobe Oct18 VIIRS,16:34,77.9,4416
+scar_limited,S1_stoic,3:16,8.0,"SW lobe N of lake 52.763,-110.915",15:37,21.5,735
+scar_limited,S1_stoic,3:16,8.0,"West: pond 52.767,-110.93",15:16,0.0,0
+scar_limited,S1_stoic,3:16,8.0,North: Peterson Pond,15:16,0.3,0
+scar_limited,S1_stoic,3:16,8.0,Range Control (OSM),not reached,,2925
+scar_limited,S1_stoic,3:16,8.0,Landsat SW end,15:16,0.0,0
+unconstrained,S1_stoic,3:16,8.0,Range2 centroid (OSM),15:21,5.1,586
+unconstrained,S1_stoic,3:16,8.0,Range3 centroid (OSM),15:19,3.3,199
+unconstrained,S1_stoic,3:16,8.0,Road dead end (CanVec),15:25,9.5,1105
+unconstrained,S1_stoic,3:16,8.0,Building (CanVec),15:28,11.8,1320
+unconstrained,S1_stoic,3:16,8.0,Track @52.765,15:39,23.4,1540
+unconstrained,S1_stoic,3:16,8.0,Track @52.760,15:55,39.0,1440
+unconstrained,S1_stoic,3:16,8.0,Track @52.755,16:15,58.5,2062
+unconstrained,S1_stoic,3:16,8.0,"East lobe @ -110.875,52.755",16:15,58.7,3407
+unconstrained,S1_stoic,3:16,8.0,East lobe Oct18 VIIRS,16:34,77.9,4416
+unconstrained,S1_stoic,3:16,8.0,"SW lobe N of lake 52.763,-110.915",15:37,21.5,735
+unconstrained,S1_stoic,3:16,8.0,"West: pond 52.767,-110.93",15:16,0.0,0
+unconstrained,S1_stoic,3:16,8.0,North: Peterson Pond,15:16,0.3,0
+unconstrained,S1_stoic,3:16,8.0,Range Control (OSM),not reached,,2925
+unconstrained,S1_stoic,3:16,8.0,Landsat SW end,15:16,0.0,0
+scar_limited,S1_stoic,3:16,12.0,Range2 centroid (OSM),15:19,3.4,586
+scar_limited,S1_stoic,3:16,12.0,Range3 centroid (OSM),not reached,,199
+scar_limited,S1_stoic,3:16,12.0,Road dead end (CanVec),15:22,6.2,1105
+scar_limited,S1_stoic,3:16,12.0,Building (CanVec),15:24,7.7,1320
+scar_limited,S1_stoic,3:16,12.0,Track @52.765,15:32,16.3,1540
+scar_limited,S1_stoic,3:16,12.0,Track @52.760,15:46,30.0,1440
+scar_limited,S1_stoic,3:16,12.0,Track @52.755,16:07,50.5,2062
+scar_limited,S1_stoic,3:16,12.0,"East lobe @ -110.875,52.755",16:07,50.6,3407
+scar_limited,S1_stoic,3:16,12.0,East lobe Oct18 VIIRS,16:20,63.8,4416
+scar_limited,S1_stoic,3:16,12.0,"SW lobe N of lake 52.763,-110.915",15:31,15.3,735
+scar_limited,S1_stoic,3:16,12.0,"West: pond 52.767,-110.93",15:16,0.0,0
+scar_limited,S1_stoic,3:16,12.0,North: Peterson Pond,15:16,0.2,0
+scar_limited,S1_stoic,3:16,12.0,Range Control (OSM),not reached,,2925
+scar_limited,S1_stoic,3:16,12.0,Landsat SW end,15:16,0.0,0
+unconstrained,S1_stoic,3:16,12.0,Range2 centroid (OSM),15:19,3.4,586
+unconstrained,S1_stoic,3:16,12.0,Range3 centroid (OSM),15:18,2.2,199
+unconstrained,S1_stoic,3:16,12.0,Road dead end (CanVec),15:22,6.2,1105
+unconstrained,S1_stoic,3:16,12.0,Building (CanVec),15:24,7.7,1320
+unconstrained,S1_stoic,3:16,12.0,Track @52.765,15:32,16.3,1540
+unconstrained,S1_stoic,3:16,12.0,Track @52.760,15:46,30.0,1440
+unconstrained,S1_stoic,3:16,12.0,Track @52.755,16:07,50.5,2062
+unconstrained,S1_stoic,3:16,12.0,"East lobe @ -110.875,52.755",16:07,50.6,3407
+unconstrained,S1_stoic,3:16,12.0,East lobe Oct18 VIIRS,16:20,63.8,4416
+unconstrained,S1_stoic,3:16,12.0,"SW lobe N of lake 52.763,-110.915",15:31,15.3,735
+unconstrained,S1_stoic,3:16,12.0,"West: pond 52.767,-110.93",15:16,0.0,0
+unconstrained,S1_stoic,3:16,12.0,North: Peterson Pond,15:16,0.2,0
+unconstrained,S1_stoic,3:16,12.0,Range Control (OSM),not reached,,2925
+unconstrained,S1_stoic,3:16,12.0,Landsat SW end,15:16,0.0,0
+scar_limited,S1_stoic,3:25,4.4,Range2 centroid (OSM),15:35,9.5,586
+scar_limited,S1_stoic,3:25,4.4,Range3 centroid (OSM),not reached,,199
+scar_limited,S1_stoic,3:25,4.4,Road dead end (CanVec),15:45,19.9,1105
+scar_limited,S1_stoic,3:25,4.4,Building (CanVec),15:53,27.7,1320
+scar_limited,S1_stoic,3:25,4.4,Track @52.765,16:07,42.0,1540
+scar_limited,S1_stoic,3:25,4.4,Track @52.760,16:13,47.9,1440
+scar_limited,S1_stoic,3:25,4.4,Track @52.755,16:35,70.0,2062
+scar_limited,S1_stoic,3:25,4.4,"East lobe @ -110.875,52.755",16:53,88.1,3407
+scar_limited,S1_stoic,3:25,4.4,East lobe Oct18 VIIRS,17:22,117.4,4416
+scar_limited,S1_stoic,3:25,4.4,"SW lobe N of lake 52.763,-110.915",15:57,31.6,735
+scar_limited,S1_stoic,3:25,4.4,"West: pond 52.767,-110.93",15:25,0.0,0
+scar_limited,S1_stoic,3:25,4.4,North: Peterson Pond,15:26,0.6,0
+scar_limited,S1_stoic,3:25,4.4,Range Control (OSM),not reached,,2925
+scar_limited,S1_stoic,3:25,4.4,Landsat SW end,15:25,0.0,0
+unconstrained,S1_stoic,3:25,4.4,Range2 centroid (OSM),15:35,9.5,586
+unconstrained,S1_stoic,3:25,4.4,Range3 centroid (OSM),15:31,6.0,199
+unconstrained,S1_stoic,3:25,4.4,Road dead end (CanVec),15:45,19.9,1105
+unconstrained,S1_stoic,3:25,4.4,Building (CanVec),15:53,27.7,1320
+unconstrained,S1_stoic,3:25,4.4,Track @52.765,16:07,42.0,1540
+unconstrained,S1_stoic,3:25,4.4,Track @52.760,16:13,47.9,1440
+unconstrained,S1_stoic,3:25,4.4,Track @52.755,16:35,70.0,2062
+unconstrained,S1_stoic,3:25,4.4,"East lobe @ -110.875,52.755",16:53,88.1,3407
+unconstrained,S1_stoic,3:25,4.4,East lobe Oct18 VIIRS,17:22,117.4,4416
+unconstrained,S1_stoic,3:25,4.4,"SW lobe N of lake 52.763,-110.915",15:57,31.6,735
+unconstrained,S1_stoic,3:25,4.4,"West: pond 52.767,-110.93",15:25,0.0,0
+unconstrained,S1_stoic,3:25,4.4,North: Peterson Pond,15:26,0.6,0
+unconstrained,S1_stoic,3:25,4.4,Range Control (OSM),not reached,,2925
+unconstrained,S1_stoic,3:25,4.4,Landsat SW end,15:25,0.0,0
+scar_limited,S1_stoic,3:25,8.0,Range2 centroid (OSM),15:30,5.1,586
+scar_limited,S1_stoic,3:25,8.0,Range3 centroid (OSM),not reached,,199
+scar_limited,S1_stoic,3:25,8.0,Road dead end (CanVec),15:35,9.6,1105
+scar_limited,S1_stoic,3:25,8.0,Building (CanVec),15:37,12.0,1320
+scar_limited,S1_stoic,3:25,8.0,Track @52.765,15:48,23.0,1540
+scar_limited,S1_stoic,3:25,8.0,Track @52.760,16:01,36.0,1440
+scar_limited,S1_stoic,3:25,8.0,Track @52.755,16:17,51.6,2062
+scar_limited,S1_stoic,3:25,8.0,"East lobe @ -110.875,52.755",16:17,52.1,3407
+scar_limited,S1_stoic,3:25,8.0,East lobe Oct18 VIIRS,16:37,71.8,4416
+scar_limited,S1_stoic,3:25,8.0,"SW lobe N of lake 52.763,-110.915",15:46,20.7,735
+scar_limited,S1_stoic,3:25,8.0,"West: pond 52.767,-110.93",15:25,0.0,0
+scar_limited,S1_stoic,3:25,8.0,North: Peterson Pond,15:25,0.3,0
+scar_limited,S1_stoic,3:25,8.0,Range Control (OSM),not reached,,2925
+scar_limited,S1_stoic,3:25,8.0,Landsat SW end,15:25,0.0,0
+unconstrained,S1_stoic,3:25,8.0,Range2 centroid (OSM),15:30,5.1,586
+unconstrained,S1_stoic,3:25,8.0,Range3 centroid (OSM),15:28,3.3,199
+unconstrained,S1_stoic,3:25,8.0,Road dead end (CanVec),15:35,9.6,1105
+unconstrained,S1_stoic,3:25,8.0,Building (CanVec),15:37,12.0,1320
+unconstrained,S1_stoic,3:25,8.0,Track @52.765,15:48,23.0,1540
+unconstrained,S1_stoic,3:25,8.0,Track @52.760,16:01,36.0,1440
+unconstrained,S1_stoic,3:25,8.0,Track @52.755,16:17,51.6,2062
+unconstrained,S1_stoic,3:25,8.0,"East lobe @ -110.875,52.755",16:17,52.1,3407
+unconstrained,S1_stoic,3:25,8.0,East lobe Oct18 VIIRS,16:37,71.8,4416
+unconstrained,S1_stoic,3:25,8.0,"SW lobe N of lake 52.763,-110.915",15:46,20.7,735
+unconstrained,S1_stoic,3:25,8.0,"West: pond 52.767,-110.93",15:25,0.0,0
+unconstrained,S1_stoic,3:25,8.0,North: Peterson Pond,15:25,0.3,0
+unconstrained,S1_stoic,3:25,8.0,Range Control (OSM),not reached,,2925
+unconstrained,S1_stoic,3:25,8.0,Landsat SW end,15:25,0.0,0
+scar_limited,S1_stoic,3:25,12.0,Range2 centroid (OSM),15:28,3.4,586
+scar_limited,S1_stoic,3:25,12.0,Range3 centroid (OSM),not reached,,199
+scar_limited,S1_stoic,3:25,12.0,Road dead end (CanVec),15:31,6.3,1105
+scar_limited,S1_stoic,3:25,12.0,Building (CanVec),15:33,7.7,1320
+scar_limited,S1_stoic,3:25,12.0,Track @52.765,15:41,16.0,1540
+scar_limited,S1_stoic,3:25,12.0,Track @52.760,15:53,28.2,1440
+scar_limited,S1_stoic,3:25,12.0,Track @52.755,16:11,45.5,2062
+scar_limited,S1_stoic,3:25,12.0,"East lobe @ -110.875,52.755",16:11,45.6,3407
+scar_limited,S1_stoic,3:25,12.0,East lobe Oct18 VIIRS,16:23,57.6,4416
+scar_limited,S1_stoic,3:25,12.0,"SW lobe N of lake 52.763,-110.915",15:40,14.9,735
+scar_limited,S1_stoic,3:25,12.0,"West: pond 52.767,-110.93",15:25,0.0,0
+scar_limited,S1_stoic,3:25,12.0,North: Peterson Pond,15:25,0.2,0
+scar_limited,S1_stoic,3:25,12.0,Range Control (OSM),not reached,,2925
+scar_limited,S1_stoic,3:25,12.0,Landsat SW end,15:25,0.0,0
+unconstrained,S1_stoic,3:25,12.0,Range2 centroid (OSM),15:28,3.4,586
+unconstrained,S1_stoic,3:25,12.0,Range3 centroid (OSM),15:27,2.2,199
+unconstrained,S1_stoic,3:25,12.0,Road dead end (CanVec),15:31,6.3,1105
+unconstrained,S1_stoic,3:25,12.0,Building (CanVec),15:33,7.7,1320
+unconstrained,S1_stoic,3:25,12.0,Track @52.765,15:41,16.0,1540
+unconstrained,S1_stoic,3:25,12.0,Track @52.760,15:53,28.2,1440
+unconstrained,S1_stoic,3:25,12.0,Track @52.755,16:11,45.5,2062
+unconstrained,S1_stoic,3:25,12.0,"East lobe @ -110.875,52.755",16:11,45.6,3407
+unconstrained,S1_stoic,3:25,12.0,East lobe Oct18 VIIRS,16:23,57.6,4416
+unconstrained,S1_stoic,3:25,12.0,"SW lobe N of lake 52.763,-110.915",15:40,14.9,735
+unconstrained,S1_stoic,3:25,12.0,"West: pond 52.767,-110.93",15:25,0.0,0
+unconstrained,S1_stoic,3:25,12.0,North: Peterson Pond,15:25,0.2,0
+unconstrained,S1_stoic,3:25,12.0,Range Control (OSM),not reached,,2925
+unconstrained,S1_stoic,3:25,12.0,Landsat SW end,15:25,0.0,0
+scar_limited,S2_station_veer,3:16,4.4,Range2 centroid (OSM),15:29,13.1,586
+scar_limited,S2_station_veer,3:16,4.4,Range3 centroid (OSM),not reached,,199
+scar_limited,S2_station_veer,3:16,4.4,Road dead end (CanVec),15:42,25.7,1105
+scar_limited,S2_station_veer,3:16,4.4,Building (CanVec),15:45,28.8,1320
+scar_limited,S2_station_veer,3:16,4.4,Track @52.765,15:54,38.2,1540
+scar_limited,S2_station_veer,3:16,4.4,Track @52.760,15:47,31.2,1440
+scar_limited,S2_station_veer,3:16,4.4,Track @52.755,16:08,52.2,2062
+scar_limited,S2_station_veer,3:16,4.4,"East lobe @ -110.875,52.755",16:42,85.5,3407
+scar_limited,S2_station_veer,3:16,4.4,East lobe Oct18 VIIRS,17:11,114.8,4416
+scar_limited,S2_station_veer,3:16,4.4,"SW lobe N of lake 52.763,-110.915",15:37,21.4,735
+scar_limited,S2_station_veer,3:16,4.4,"West: pond 52.767,-110.93",15:16,0.0,0
+scar_limited,S2_station_veer,3:16,4.4,North: Peterson Pond,15:17,0.6,0
+scar_limited,S2_station_veer,3:16,4.4,Range Control (OSM),not reached,,2925
+scar_limited,S2_station_veer,3:16,4.4,Landsat SW end,15:16,0.0,0
+unconstrained,S2_station_veer,3:16,4.4,Range2 centroid (OSM),15:29,13.1,586
+unconstrained,S2_station_veer,3:16,4.4,Range3 centroid (OSM),15:23,6.6,199
+unconstrained,S2_station_veer,3:16,4.4,Road dead end (CanVec),15:42,25.7,1105
+unconstrained,S2_station_veer,3:16,4.4,Building (CanVec),15:45,28.8,1320
+unconstrained,S2_station_veer,3:16,4.4,Track @52.765,15:54,38.2,1540
+unconstrained,S2_station_veer,3:16,4.4,Track @52.760,15:47,31.2,1440
+unconstrained,S2_station_veer,3:16,4.4,Track @52.755,16:08,52.2,2062
+unconstrained,S2_station_veer,3:16,4.4,"East lobe @ -110.875,52.755",16:42,85.5,3407
+unconstrained,S2_station_veer,3:16,4.4,East lobe Oct18 VIIRS,17:11,114.8,4416
+unconstrained,S2_station_veer,3:16,4.4,"SW lobe N of lake 52.763,-110.915",15:37,21.4,735
+unconstrained,S2_station_veer,3:16,4.4,"West: pond 52.767,-110.93",15:16,0.0,0
+unconstrained,S2_station_veer,3:16,4.4,North: Peterson Pond,15:17,0.6,0
+unconstrained,S2_station_veer,3:16,4.4,Range Control (OSM),not reached,,2925
+unconstrained,S2_station_veer,3:16,4.4,Landsat SW end,15:16,0.0,0
+scar_limited,S2_station_veer,3:16,8.0,Range2 centroid (OSM),15:21,5.5,586
+scar_limited,S2_station_veer,3:16,8.0,Range3 centroid (OSM),not reached,,199
+scar_limited,S2_station_veer,3:16,8.0,Road dead end (CanVec),15:30,13.6,1105
+scar_limited,S2_station_veer,3:16,8.0,Building (CanVec),15:34,18.4,1320
+scar_limited,S2_station_veer,3:16,8.0,Track @52.765,15:38,22.4,1540
+scar_limited,S2_station_veer,3:16,8.0,Track @52.760,15:39,22.5,1440
+scar_limited,S2_station_veer,3:16,8.0,Track @52.755,15:49,33.0,2062
+scar_limited,S2_station_veer,3:16,8.0,"East lobe @ -110.875,52.755",15:59,43.1,3407
+scar_limited,S2_station_veer,3:16,8.0,East lobe Oct18 VIIRS,16:14,58.0,4416
+scar_limited,S2_station_veer,3:16,8.0,"SW lobe N of lake 52.763,-110.915",15:32,15.5,735
+scar_limited,S2_station_veer,3:16,8.0,"West: pond 52.767,-110.93",15:16,0.0,0
+scar_limited,S2_station_veer,3:16,8.0,North: Peterson Pond,15:16,0.3,0
+scar_limited,S2_station_veer,3:16,8.0,Range Control (OSM),not reached,,2925
+scar_limited,S2_station_veer,3:16,8.0,Landsat SW end,15:16,0.0,0
+unconstrained,S2_station_veer,3:16,8.0,Range2 centroid (OSM),15:21,5.5,586
+unconstrained,S2_station_veer,3:16,8.0,Range3 centroid (OSM),15:19,3.4,199
+unconstrained,S2_station_veer,3:16,8.0,Road dead end (CanVec),15:30,13.6,1105
+unconstrained,S2_station_veer,3:16,8.0,Building (CanVec),15:34,18.4,1320
+unconstrained,S2_station_veer,3:16,8.0,Track @52.765,15:38,22.4,1540
+unconstrained,S2_station_veer,3:16,8.0,Track @52.760,15:39,22.5,1440
+unconstrained,S2_station_veer,3:16,8.0,Track @52.755,15:49,33.0,2062
+unconstrained,S2_station_veer,3:16,8.0,"East lobe @ -110.875,52.755",15:59,43.1,3407
+unconstrained,S2_station_veer,3:16,8.0,East lobe Oct18 VIIRS,16:14,58.0,4416
+unconstrained,S2_station_veer,3:16,8.0,"SW lobe N of lake 52.763,-110.915",15:32,15.5,735
+unconstrained,S2_station_veer,3:16,8.0,"West: pond 52.767,-110.93",15:16,0.0,0
+unconstrained,S2_station_veer,3:16,8.0,North: Peterson Pond,15:16,0.3,0
+unconstrained,S2_station_veer,3:16,8.0,Range Control (OSM),not reached,,2925
+unconstrained,S2_station_veer,3:16,8.0,Landsat SW end,15:16,0.0,0
+scar_limited,S2_station_veer,3:16,12.0,Range2 centroid (OSM),15:19,3.5,586
+scar_limited,S2_station_veer,3:16,12.0,Range3 centroid (OSM),not reached,,199
+scar_limited,S2_station_veer,3:16,12.0,Road dead end (CanVec),15:23,7.0,1105
+scar_limited,S2_station_veer,3:16,12.0,Building (CanVec),15:25,9.4,1320
+scar_limited,S2_station_veer,3:16,12.0,Track @52.765,15:31,15.4,1540
+scar_limited,S2_station_veer,3:16,12.0,Track @52.760,15:35,18.8,1440
+scar_limited,S2_station_veer,3:16,12.0,Track @52.755,15:43,26.5,2062
+scar_limited,S2_station_veer,3:16,12.0,"East lobe @ -110.875,52.755",15:44,27.8,3407
+scar_limited,S2_station_veer,3:16,12.0,East lobe Oct18 VIIRS,15:56,39.6,4416
+scar_limited,S2_station_veer,3:16,12.0,"SW lobe N of lake 52.763,-110.915",15:28,12.0,735
+scar_limited,S2_station_veer,3:16,12.0,"West: pond 52.767,-110.93",15:16,0.0,0
+scar_limited,S2_station_veer,3:16,12.0,North: Peterson Pond,15:16,0.2,0
+scar_limited,S2_station_veer,3:16,12.0,Range Control (OSM),not reached,,2925
+scar_limited,S2_station_veer,3:16,12.0,Landsat SW end,15:16,0.0,0
+unconstrained,S2_station_veer,3:16,12.0,Range2 centroid (OSM),15:19,3.5,586
+unconstrained,S2_station_veer,3:16,12.0,Range3 centroid (OSM),15:18,2.2,199
+unconstrained,S2_station_veer,3:16,12.0,Road dead end (CanVec),15:23,7.0,1105
+unconstrained,S2_station_veer,3:16,12.0,Building (CanVec),15:25,9.4,1320
+unconstrained,S2_station_veer,3:16,12.0,Track @52.765,15:31,15.4,1540
+unconstrained,S2_station_veer,3:16,12.0,Track @52.760,15:35,18.8,1440
+unconstrained,S2_station_veer,3:16,12.0,Track @52.755,15:43,26.5,2062
+unconstrained,S2_station_veer,3:16,12.0,"East lobe @ -110.875,52.755",15:44,27.8,3407
+unconstrained,S2_station_veer,3:16,12.0,East lobe Oct18 VIIRS,15:56,39.6,4416
+unconstrained,S2_station_veer,3:16,12.0,"SW lobe N of lake 52.763,-110.915",15:28,12.0,735
+unconstrained,S2_station_veer,3:16,12.0,"West: pond 52.767,-110.93",15:16,0.0,0
+unconstrained,S2_station_veer,3:16,12.0,North: Peterson Pond,15:16,0.2,0
+unconstrained,S2_station_veer,3:16,12.0,Range Control (OSM),not reached,,2925
+unconstrained,S2_station_veer,3:16,12.0,Landsat SW end,15:16,0.0,0
+scar_limited,S2_station_veer,3:25,4.4,Range2 centroid (OSM),15:40,15.0,586
+scar_limited,S2_station_veer,3:25,4.4,Range3 centroid (OSM),not reached,,199
+scar_limited,S2_station_veer,3:25,4.4,Road dead end (CanVec),15:48,23.4,1105
+scar_limited,S2_station_veer,3:25,4.4,Building (CanVec),15:54,29.1,1320
+scar_limited,S2_station_veer,3:25,4.4,Track @52.765,16:02,37.5,1540
+scar_limited,S2_station_veer,3:25,4.4,Track @52.760,15:59,34.1,1440
+scar_limited,S2_station_veer,3:25,4.4,Track @52.755,16:17,52.2,2062
+scar_limited,S2_station_veer,3:25,4.4,"East lobe @ -110.875,52.755",16:55,89.6,3407
+scar_limited,S2_station_veer,3:25,4.4,East lobe Oct18 VIIRS,17:24,118.9,4416
+scar_limited,S2_station_veer,3:25,4.4,"SW lobe N of lake 52.763,-110.915",15:44,19.0,735
+scar_limited,S2_station_veer,3:25,4.4,"West: pond 52.767,-110.93",15:25,0.0,0
+scar_limited,S2_station_veer,3:25,4.4,North: Peterson Pond,15:26,0.6,0
+scar_limited,S2_station_veer,3:25,4.4,Range Control (OSM),not reached,,2925
+scar_limited,S2_station_veer,3:25,4.4,Landsat SW end,15:25,0.0,0
+unconstrained,S2_station_veer,3:25,4.4,Range2 centroid (OSM),15:40,15.0,586
+unconstrained,S2_station_veer,3:25,4.4,Range3 centroid (OSM),15:32,7.5,199
+unconstrained,S2_station_veer,3:25,4.4,Road dead end (CanVec),15:48,23.4,1105
+unconstrained,S2_station_veer,3:25,4.4,Building (CanVec),15:54,29.1,1320
+unconstrained,S2_station_veer,3:25,4.4,Track @52.765,16:02,37.5,1540
+unconstrained,S2_station_veer,3:25,4.4,Track @52.760,15:59,34.1,1440
+unconstrained,S2_station_veer,3:25,4.4,Track @52.755,16:17,52.2,2062
+unconstrained,S2_station_veer,3:25,4.4,"East lobe @ -110.875,52.755",16:55,89.6,3407
+unconstrained,S2_station_veer,3:25,4.4,East lobe Oct18 VIIRS,17:24,118.9,4416
+unconstrained,S2_station_veer,3:25,4.4,"SW lobe N of lake 52.763,-110.915",15:44,19.0,735
+unconstrained,S2_station_veer,3:25,4.4,"West: pond 52.767,-110.93",15:25,0.0,0
+unconstrained,S2_station_veer,3:25,4.4,North: Peterson Pond,15:26,0.6,0
+unconstrained,S2_station_veer,3:25,4.4,Range Control (OSM),not reached,,2925
+unconstrained,S2_station_veer,3:25,4.4,Landsat SW end,15:25,0.0,0
+scar_limited,S2_station_veer,3:25,8.0,Range2 centroid (OSM),15:31,6.0,586
+scar_limited,S2_station_veer,3:25,8.0,Range3 centroid (OSM),not reached,,199
+scar_limited,S2_station_veer,3:25,8.0,Road dead end (CanVec),15:40,15.4,1105
+scar_limited,S2_station_veer,3:25,8.0,Building (CanVec),15:43,17.6,1320
+scar_limited,S2_station_veer,3:25,8.0,Track @52.765,15:46,20.6,1540
+scar_limited,S2_station_veer,3:25,8.0,Track @52.760,15:44,19.4,1440
+scar_limited,S2_station_veer,3:25,8.0,Track @52.755,15:56,30.7,2062
+scar_limited,S2_station_veer,3:25,8.0,"East lobe @ -110.875,52.755",16:09,44.2,3407
+scar_limited,S2_station_veer,3:25,8.0,East lobe Oct18 VIIRS,16:27,61.7,4416
+scar_limited,S2_station_veer,3:25,8.0,"SW lobe N of lake 52.763,-110.915",15:39,13.5,735
+scar_limited,S2_station_veer,3:25,8.0,"West: pond 52.767,-110.93",15:25,0.0,0
+scar_limited,S2_station_veer,3:25,8.0,North: Peterson Pond,15:25,0.3,0
+scar_limited,S2_station_veer,3:25,8.0,Range Control (OSM),not reached,,2925
+scar_limited,S2_station_veer,3:25,8.0,Landsat SW end,15:25,0.0,0
+unconstrained,S2_station_veer,3:25,8.0,Range2 centroid (OSM),15:31,6.0,586
+unconstrained,S2_station_veer,3:25,8.0,Range3 centroid (OSM),15:28,3.4,199
+unconstrained,S2_station_veer,3:25,8.0,Road dead end (CanVec),15:40,15.4,1105
+unconstrained,S2_station_veer,3:25,8.0,Building (CanVec),15:43,17.6,1320
+unconstrained,S2_station_veer,3:25,8.0,Track @52.765,15:46,20.6,1540
+unconstrained,S2_station_veer,3:25,8.0,Track @52.760,15:44,19.4,1440
+unconstrained,S2_station_veer,3:25,8.0,Track @52.755,15:56,30.7,2062
+unconstrained,S2_station_veer,3:25,8.0,"East lobe @ -110.875,52.755",16:09,44.2,3407
+unconstrained,S2_station_veer,3:25,8.0,East lobe Oct18 VIIRS,16:27,61.7,4416
+unconstrained,S2_station_veer,3:25,8.0,"SW lobe N of lake 52.763,-110.915",15:39,13.5,735
+unconstrained,S2_station_veer,3:25,8.0,"West: pond 52.767,-110.93",15:25,0.0,0
+unconstrained,S2_station_veer,3:25,8.0,North: Peterson Pond,15:25,0.3,0
+unconstrained,S2_station_veer,3:25,8.0,Range Control (OSM),not reached,,2925
+unconstrained,S2_station_veer,3:25,8.0,Landsat SW end,15:25,0.0,0
+scar_limited,S2_station_veer,3:25,12.0,Range2 centroid (OSM),15:29,3.6,586
+scar_limited,S2_station_veer,3:25,12.0,Range3 centroid (OSM),not reached,,199
+scar_limited,S2_station_veer,3:25,12.0,Road dead end (CanVec),15:33,8.2,1105
+scar_limited,S2_station_veer,3:25,12.0,Building (CanVec),15:37,11.9,1320
+scar_limited,S2_station_veer,3:25,12.0,Track @52.765,15:40,15.0,1540
+scar_limited,S2_station_veer,3:25,12.0,Track @52.760,15:41,15.9,1440
+scar_limited,S2_station_veer,3:25,12.0,Track @52.755,15:48,22.7,2062
+scar_limited,S2_station_veer,3:25,12.0,"East lobe @ -110.875,52.755",15:53,27.5,3407
+scar_limited,S2_station_veer,3:25,12.0,East lobe Oct18 VIIRS,16:04,38.5,4416
+scar_limited,S2_station_veer,3:25,12.0,"SW lobe N of lake 52.763,-110.915",15:36,10.8,735
+scar_limited,S2_station_veer,3:25,12.0,"West: pond 52.767,-110.93",15:25,0.0,0
+scar_limited,S2_station_veer,3:25,12.0,North: Peterson Pond,15:25,0.2,0
+scar_limited,S2_station_veer,3:25,12.0,Range Control (OSM),not reached,,2925
+scar_limited,S2_station_veer,3:25,12.0,Landsat SW end,15:25,0.0,0
+unconstrained,S2_station_veer,3:25,12.0,Range2 centroid (OSM),15:29,3.6,586
+unconstrained,S2_station_veer,3:25,12.0,Range3 centroid (OSM),15:27,2.2,199
+unconstrained,S2_station_veer,3:25,12.0,Road dead end (CanVec),15:33,8.2,1105
+unconstrained,S2_station_veer,3:25,12.0,Building (CanVec),15:37,11.9,1320
+unconstrained,S2_station_veer,3:25,12.0,Track @52.765,15:40,15.0,1540
+unconstrained,S2_station_veer,3:25,12.0,Track @52.760,15:41,15.9,1440
+unconstrained,S2_station_veer,3:25,12.0,Track @52.755,15:48,22.7,2062
+unconstrained,S2_station_veer,3:25,12.0,"East lobe @ -110.875,52.755",15:53,27.5,3407
+unconstrained,S2_station_veer,3:25,12.0,East lobe Oct18 VIIRS,16:04,38.5,4416
+unconstrained,S2_station_veer,3:25,12.0,"SW lobe N of lake 52.763,-110.915",15:36,10.8,735
+unconstrained,S2_station_veer,3:25,12.0,"West: pond 52.767,-110.93",15:25,0.0,0
+unconstrained,S2_station_veer,3:25,12.0,North: Peterson Pond,15:25,0.2,0
+unconstrained,S2_station_veer,3:25,12.0,Range Control (OSM),not reached,,2925
+unconstrained,S2_station_veer,3:25,12.0,Landsat SW end,15:25,0.0,0
+scar_limited,S3_fast_veer,3:16,4.4,Range2 centroid (OSM),15:29,13.0,586
+scar_limited,S3_fast_veer,3:16,4.4,Range3 centroid (OSM),not reached,,199
+scar_limited,S3_fast_veer,3:16,4.4,Road dead end (CanVec),15:42,26.4,1105
+scar_limited,S3_fast_veer,3:16,4.4,Building (CanVec),15:49,33.2,1320
+scar_limited,S3_fast_veer,3:16,4.4,Track @52.765,15:55,39.1,1540
+scar_limited,S3_fast_veer,3:16,4.4,Track @52.760,15:57,40.6,1440
+scar_limited,S3_fast_veer,3:16,4.4,Track @52.755,16:11,55.5,2062
+scar_limited,S3_fast_veer,3:16,4.4,"East lobe @ -110.875,52.755",16:51,94.6,3407
+scar_limited,S3_fast_veer,3:16,4.4,East lobe Oct18 VIIRS,17:20,123.8,4416
+scar_limited,S3_fast_veer,3:16,4.4,"SW lobe N of lake 52.763,-110.915",15:32,15.8,735
+scar_limited,S3_fast_veer,3:16,4.4,"West: pond 52.767,-110.93",15:16,0.0,0
+scar_limited,S3_fast_veer,3:16,4.4,North: Peterson Pond,15:17,0.6,0
+scar_limited,S3_fast_veer,3:16,4.4,Range Control (OSM),not reached,,2925
+scar_limited,S3_fast_veer,3:16,4.4,Landsat SW end,15:16,0.0,0
+unconstrained,S3_fast_veer,3:16,4.4,Range2 centroid (OSM),15:29,13.0,586
+unconstrained,S3_fast_veer,3:16,4.4,Range3 centroid (OSM),15:28,12.2,199
+unconstrained,S3_fast_veer,3:16,4.4,Road dead end (CanVec),15:42,26.4,1105
+unconstrained,S3_fast_veer,3:16,4.4,Building (CanVec),15:49,33.2,1320
+unconstrained,S3_fast_veer,3:16,4.4,Track @52.765,15:55,39.1,1540
+unconstrained,S3_fast_veer,3:16,4.4,Track @52.760,15:57,40.6,1440
+unconstrained,S3_fast_veer,3:16,4.4,Track @52.755,16:11,55.5,2062
+unconstrained,S3_fast_veer,3:16,4.4,"East lobe @ -110.875,52.755",16:51,94.6,3407
+unconstrained,S3_fast_veer,3:16,4.4,East lobe Oct18 VIIRS,17:20,123.8,4416
+unconstrained,S3_fast_veer,3:16,4.4,"SW lobe N of lake 52.763,-110.915",15:32,15.8,735
+unconstrained,S3_fast_veer,3:16,4.4,"West: pond 52.767,-110.93",15:16,0.0,0
+unconstrained,S3_fast_veer,3:16,4.4,North: Peterson Pond,15:17,0.6,0
+unconstrained,S3_fast_veer,3:16,4.4,Range Control (OSM),not reached,,2925
+unconstrained,S3_fast_veer,3:16,4.4,Landsat SW end,15:16,0.0,0
+scar_limited,S3_fast_veer,3:16,8.0,Range2 centroid (OSM),15:24,8.2,586
+scar_limited,S3_fast_veer,3:16,8.0,Range3 centroid (OSM),not reached,,199
+scar_limited,S3_fast_veer,3:16,8.0,Road dead end (CanVec),15:29,12.9,1105
+scar_limited,S3_fast_veer,3:16,8.0,Building (CanVec),15:32,15.9,1320
+scar_limited,S3_fast_veer,3:16,8.0,Track @52.765,15:37,20.8,1540
+scar_limited,S3_fast_veer,3:16,8.0,Track @52.760,15:35,18.6,1440
+scar_limited,S3_fast_veer,3:16,8.0,Track @52.755,15:45,29.0,2062
+scar_limited,S3_fast_veer,3:16,8.0,"East lobe @ -110.875,52.755",16:05,48.9,3407
+scar_limited,S3_fast_veer,3:16,8.0,East lobe Oct18 VIIRS,16:21,65.0,4416
+scar_limited,S3_fast_veer,3:16,8.0,"SW lobe N of lake 52.763,-110.915",15:27,10.5,735
+scar_limited,S3_fast_veer,3:16,8.0,"West: pond 52.767,-110.93",15:16,0.0,0
+scar_limited,S3_fast_veer,3:16,8.0,North: Peterson Pond,15:16,0.3,0
+scar_limited,S3_fast_veer,3:16,8.0,Range Control (OSM),not reached,,2925
+scar_limited,S3_fast_veer,3:16,8.0,Landsat SW end,15:16,0.0,0
+unconstrained,S3_fast_veer,3:16,8.0,Range2 centroid (OSM),15:24,8.2,586
+unconstrained,S3_fast_veer,3:16,8.0,Range3 centroid (OSM),15:20,4.1,199
+unconstrained,S3_fast_veer,3:16,8.0,Road dead end (CanVec),15:29,12.9,1105
+unconstrained,S3_fast_veer,3:16,8.0,Building (CanVec),15:32,15.9,1320
+unconstrained,S3_fast_veer,3:16,8.0,Track @52.765,15:37,20.8,1540
+unconstrained,S3_fast_veer,3:16,8.0,Track @52.760,15:35,18.6,1440
+unconstrained,S3_fast_veer,3:16,8.0,Track @52.755,15:45,29.0,2062
+unconstrained,S3_fast_veer,3:16,8.0,"East lobe @ -110.875,52.755",16:05,48.9,3407
+unconstrained,S3_fast_veer,3:16,8.0,East lobe Oct18 VIIRS,16:21,65.0,4416
+unconstrained,S3_fast_veer,3:16,8.0,"SW lobe N of lake 52.763,-110.915",15:27,10.5,735
+unconstrained,S3_fast_veer,3:16,8.0,"West: pond 52.767,-110.93",15:16,0.0,0
+unconstrained,S3_fast_veer,3:16,8.0,North: Peterson Pond,15:16,0.3,0
+unconstrained,S3_fast_veer,3:16,8.0,Range Control (OSM),not reached,,2925
+unconstrained,S3_fast_veer,3:16,8.0,Landsat SW end,15:16,0.0,0
+scar_limited,S3_fast_veer,3:16,12.0,Range2 centroid (OSM),15:20,4.4,586
+scar_limited,S3_fast_veer,3:16,12.0,Range3 centroid (OSM),not reached,,199
+scar_limited,S3_fast_veer,3:16,12.0,Road dead end (CanVec),15:26,9.7,1105
+scar_limited,S3_fast_veer,3:16,12.0,Building (CanVec),15:27,10.9,1320
+scar_limited,S3_fast_veer,3:16,12.0,Track @52.765,15:29,13.5,1540
+scar_limited,S3_fast_veer,3:16,12.0,Track @52.760,15:28,11.9,1440
+scar_limited,S3_fast_veer,3:16,12.0,Track @52.755,15:36,19.8,2062
+scar_limited,S3_fast_veer,3:16,12.0,"East lobe @ -110.875,52.755",15:46,30.3,3407
+scar_limited,S3_fast_veer,3:16,12.0,East lobe Oct18 VIIRS,15:58,41.6,4416
+scar_limited,S3_fast_veer,3:16,12.0,"SW lobe N of lake 52.763,-110.915",15:24,8.3,735
+scar_limited,S3_fast_veer,3:16,12.0,"West: pond 52.767,-110.93",15:16,0.0,0
+scar_limited,S3_fast_veer,3:16,12.0,North: Peterson Pond,15:16,0.2,0
+scar_limited,S3_fast_veer,3:16,12.0,Range Control (OSM),not reached,,2925
+scar_limited,S3_fast_veer,3:16,12.0,Landsat SW end,15:16,0.0,0
+unconstrained,S3_fast_veer,3:16,12.0,Range2 centroid (OSM),15:20,4.4,586
+unconstrained,S3_fast_veer,3:16,12.0,Range3 centroid (OSM),15:18,2.4,199
+unconstrained,S3_fast_veer,3:16,12.0,Road dead end (CanVec),15:26,9.7,1105
+unconstrained,S3_fast_veer,3:16,12.0,Building (CanVec),15:27,10.9,1320
+unconstrained,S3_fast_veer,3:16,12.0,Track @52.765,15:29,13.5,1540
+unconstrained,S3_fast_veer,3:16,12.0,Track @52.760,15:28,11.9,1440
+unconstrained,S3_fast_veer,3:16,12.0,Track @52.755,15:36,19.8,2062
+unconstrained,S3_fast_veer,3:16,12.0,"East lobe @ -110.875,52.755",15:46,30.3,3407
+unconstrained,S3_fast_veer,3:16,12.0,East lobe Oct18 VIIRS,15:58,41.6,4416
+unconstrained,S3_fast_veer,3:16,12.0,"SW lobe N of lake 52.763,-110.915",15:24,8.3,735
+unconstrained,S3_fast_veer,3:16,12.0,"West: pond 52.767,-110.93",15:16,0.0,0
+unconstrained,S3_fast_veer,3:16,12.0,North: Peterson Pond,15:16,0.2,0
+unconstrained,S3_fast_veer,3:16,12.0,Range Control (OSM),not reached,,2925
+unconstrained,S3_fast_veer,3:16,12.0,Landsat SW end,15:16,0.0,0
+scar_limited,S3_fast_veer,3:25,4.4,Range2 centroid (OSM),15:40,15.2,586
+scar_limited,S3_fast_veer,3:25,4.4,Range3 centroid (OSM),not reached,,199
+scar_limited,S3_fast_veer,3:25,4.4,Road dead end (CanVec),15:56,30.6,1105
+scar_limited,S3_fast_veer,3:25,4.4,Building (CanVec),16:02,37.4,1320
+scar_limited,S3_fast_veer,3:25,4.4,Track @52.765,16:08,43.2,1540
+scar_limited,S3_fast_veer,3:25,4.4,Track @52.760,16:05,39.9,1440
+scar_limited,S3_fast_veer,3:25,4.4,Track @52.755,16:25,59.7,2062
+scar_limited,S3_fast_veer,3:25,4.4,"East lobe @ -110.875,52.755",17:04,98.8,3407
+scar_limited,S3_fast_veer,3:25,4.4,East lobe Oct18 VIIRS,17:33,128.0,4416
+scar_limited,S3_fast_veer,3:25,4.4,"SW lobe N of lake 52.763,-110.915",15:45,20.5,735
+scar_limited,S3_fast_veer,3:25,4.4,"West: pond 52.767,-110.93",15:25,0.0,0
+scar_limited,S3_fast_veer,3:25,4.4,North: Peterson Pond,15:26,0.6,0
+scar_limited,S3_fast_veer,3:25,4.4,Range Control (OSM),not reached,,2925
+scar_limited,S3_fast_veer,3:25,4.4,Landsat SW end,15:25,0.0,0
+unconstrained,S3_fast_veer,3:25,4.4,Range2 centroid (OSM),15:40,15.2,586
+unconstrained,S3_fast_veer,3:25,4.4,Range3 centroid (OSM),15:33,7.7,199
+unconstrained,S3_fast_veer,3:25,4.4,Road dead end (CanVec),15:56,30.6,1105
+unconstrained,S3_fast_veer,3:25,4.4,Building (CanVec),16:02,37.4,1320
+unconstrained,S3_fast_veer,3:25,4.4,Track @52.765,16:08,43.2,1540
+unconstrained,S3_fast_veer,3:25,4.4,Track @52.760,16:05,39.9,1440
+unconstrained,S3_fast_veer,3:25,4.4,Track @52.755,16:25,59.7,2062
+unconstrained,S3_fast_veer,3:25,4.4,"East lobe @ -110.875,52.755",17:04,98.8,3407
+unconstrained,S3_fast_veer,3:25,4.4,East lobe Oct18 VIIRS,17:33,128.0,4416
+unconstrained,S3_fast_veer,3:25,4.4,"SW lobe N of lake 52.763,-110.915",15:45,20.5,735
+unconstrained,S3_fast_veer,3:25,4.4,"West: pond 52.767,-110.93",15:25,0.0,0
+unconstrained,S3_fast_veer,3:25,4.4,North: Peterson Pond,15:26,0.6,0
+unconstrained,S3_fast_veer,3:25,4.4,Range Control (OSM),not reached,,2925
+unconstrained,S3_fast_veer,3:25,4.4,Landsat SW end,15:25,0.0,0
+scar_limited,S3_fast_veer,3:25,8.0,Range2 centroid (OSM),15:33,7.6,586
+scar_limited,S3_fast_veer,3:25,8.0,Range3 centroid (OSM),not reached,,199
+scar_limited,S3_fast_veer,3:25,8.0,Road dead end (CanVec),15:40,15.3,1105
+scar_limited,S3_fast_veer,3:25,8.0,Building (CanVec),15:44,19.0,1320
+scar_limited,S3_fast_veer,3:25,8.0,Track @52.765,15:47,22.3,1540
+scar_limited,S3_fast_veer,3:25,8.0,Track @52.760,15:48,23.0,1440
+scar_limited,S3_fast_veer,3:25,8.0,Track @52.755,15:56,31.3,2062
+scar_limited,S3_fast_veer,3:25,8.0,"East lobe @ -110.875,52.755",16:18,52.8,3407
+scar_limited,S3_fast_veer,3:25,8.0,East lobe Oct18 VIIRS,16:34,68.9,4416
+scar_limited,S3_fast_veer,3:25,8.0,"SW lobe N of lake 52.763,-110.915",15:35,9.7,735
+scar_limited,S3_fast_veer,3:25,8.0,"West: pond 52.767,-110.93",15:25,0.0,0
+scar_limited,S3_fast_veer,3:25,8.0,North: Peterson Pond,15:25,0.3,0
+scar_limited,S3_fast_veer,3:25,8.0,Range Control (OSM),not reached,,2925
+scar_limited,S3_fast_veer,3:25,8.0,Landsat SW end,15:25,0.0,0
+unconstrained,S3_fast_veer,3:25,8.0,Range2 centroid (OSM),15:33,7.6,586
+unconstrained,S3_fast_veer,3:25,8.0,Range3 centroid (OSM),15:31,5.8,199
+unconstrained,S3_fast_veer,3:25,8.0,Road dead end (CanVec),15:40,15.3,1105
+unconstrained,S3_fast_veer,3:25,8.0,Building (CanVec),15:44,19.0,1320
+unconstrained,S3_fast_veer,3:25,8.0,Track @52.765,15:47,22.3,1540
+unconstrained,S3_fast_veer,3:25,8.0,Track @52.760,15:48,23.0,1440
+unconstrained,S3_fast_veer,3:25,8.0,Track @52.755,15:56,31.3,2062
+unconstrained,S3_fast_veer,3:25,8.0,"East lobe @ -110.875,52.755",16:18,52.8,3407
+unconstrained,S3_fast_veer,3:25,8.0,East lobe Oct18 VIIRS,16:34,68.9,4416
+unconstrained,S3_fast_veer,3:25,8.0,"SW lobe N of lake 52.763,-110.915",15:35,9.7,735
+unconstrained,S3_fast_veer,3:25,8.0,"West: pond 52.767,-110.93",15:25,0.0,0
+unconstrained,S3_fast_veer,3:25,8.0,North: Peterson Pond,15:25,0.3,0
+unconstrained,S3_fast_veer,3:25,8.0,Range Control (OSM),not reached,,2925
+unconstrained,S3_fast_veer,3:25,8.0,Landsat SW end,15:25,0.0,0
+scar_limited,S3_fast_veer,3:25,12.0,Range2 centroid (OSM),15:30,4.9,586
+scar_limited,S3_fast_veer,3:25,12.0,Range3 centroid (OSM),not reached,,199
+scar_limited,S3_fast_veer,3:25,12.0,Road dead end (CanVec),15:35,9.7,1105
+scar_limited,S3_fast_veer,3:25,12.0,Building (CanVec),15:37,12.1,1320
+scar_limited,S3_fast_veer,3:25,12.0,Track @52.765,15:39,14.2,1540
+scar_limited,S3_fast_veer,3:25,12.0,Track @52.760,15:40,14.6,1440
+scar_limited,S3_fast_veer,3:25,12.0,Track @52.755,15:45,20.1,2062
+scar_limited,S3_fast_veer,3:25,12.0,"East lobe @ -110.875,52.755",15:59,34.4,3407
+scar_limited,S3_fast_veer,3:25,12.0,East lobe Oct18 VIIRS,16:10,45.1,4416
+scar_limited,S3_fast_veer,3:25,12.0,"SW lobe N of lake 52.763,-110.915",15:31,5.8,735
+scar_limited,S3_fast_veer,3:25,12.0,"West: pond 52.767,-110.93",15:25,0.0,0
+scar_limited,S3_fast_veer,3:25,12.0,North: Peterson Pond,15:25,0.2,0
+scar_limited,S3_fast_veer,3:25,12.0,Range Control (OSM),not reached,,2925
+scar_limited,S3_fast_veer,3:25,12.0,Landsat SW end,15:25,0.0,0
+unconstrained,S3_fast_veer,3:25,12.0,Range2 centroid (OSM),15:30,4.9,586
+unconstrained,S3_fast_veer,3:25,12.0,Range3 centroid (OSM),15:29,4.4,199
+unconstrained,S3_fast_veer,3:25,12.0,Road dead end (CanVec),15:35,9.7,1105
+unconstrained,S3_fast_veer,3:25,12.0,Building (CanVec),15:37,12.1,1320
+unconstrained,S3_fast_veer,3:25,12.0,Track @52.765,15:39,14.2,1540
+unconstrained,S3_fast_veer,3:25,12.0,Track @52.760,15:40,14.6,1440
+unconstrained,S3_fast_veer,3:25,12.0,Track @52.755,15:45,20.1,2062
+unconstrained,S3_fast_veer,3:25,12.0,"East lobe @ -110.875,52.755",15:59,34.4,3407
+unconstrained,S3_fast_veer,3:25,12.0,East lobe Oct18 VIIRS,16:10,45.1,4416
+unconstrained,S3_fast_veer,3:25,12.0,"SW lobe N of lake 52.763,-110.915",15:31,5.8,735
+unconstrained,S3_fast_veer,3:25,12.0,"West: pond 52.767,-110.93",15:25,0.0,0
+unconstrained,S3_fast_veer,3:25,12.0,North: Peterson Pond,15:25,0.2,0
+unconstrained,S3_fast_veer,3:25,12.0,Range Control (OSM),not reached,,2925
+unconstrained,S3_fast_veer,3:25,12.0,Landsat SW end,15:25,0.0,0
+scar_limited,S4_fixed315,3:16,4.4,Range2 centroid (OSM),15:24,8.5,586
+scar_limited,S4_fixed315,3:16,4.4,Range3 centroid (OSM),not reached,,199
+scar_limited,S4_fixed315,3:16,4.4,Road dead end (CanVec),15:32,16.2,1105
+scar_limited,S4_fixed315,3:16,4.4,Building (CanVec),15:41,25.1,1320
+scar_limited,S4_fixed315,3:16,4.4,Track @52.765,15:38,22.4,1540
+scar_limited,S4_fixed315,3:16,4.4,Track @52.760,15:36,20.1,1440
+scar_limited,S4_fixed315,3:16,4.4,Track @52.755,15:45,28.5,2062
+scar_limited,S4_fixed315,3:16,4.4,"East lobe @ -110.875,52.755",16:05,49.4,3407
+scar_limited,S4_fixed315,3:16,4.4,East lobe Oct18 VIIRS,16:19,63.3,4416
+scar_limited,S4_fixed315,3:16,4.4,"SW lobe N of lake 52.763,-110.915",15:28,12.3,735
+scar_limited,S4_fixed315,3:16,4.4,"West: pond 52.767,-110.93",15:16,0.0,0
+scar_limited,S4_fixed315,3:16,4.4,North: Peterson Pond,15:17,0.8,0
+scar_limited,S4_fixed315,3:16,4.4,Range Control (OSM),not reached,,2925
+scar_limited,S4_fixed315,3:16,4.4,Landsat SW end,15:16,0.0,0
+unconstrained,S4_fixed315,3:16,4.4,Range2 centroid (OSM),15:24,8.5,586
+unconstrained,S4_fixed315,3:16,4.4,Range3 centroid (OSM),15:19,3.1,199
+unconstrained,S4_fixed315,3:16,4.4,Road dead end (CanVec),15:32,16.2,1105
+unconstrained,S4_fixed315,3:16,4.4,Building (CanVec),15:35,19.3,1320
+unconstrained,S4_fixed315,3:16,4.4,Track @52.765,15:38,22.4,1540
+unconstrained,S4_fixed315,3:16,4.4,Track @52.760,15:36,20.1,1440
+unconstrained,S4_fixed315,3:16,4.4,Track @52.755,15:45,28.5,2062
+unconstrained,S4_fixed315,3:16,4.4,"East lobe @ -110.875,52.755",16:05,49.4,3407
+unconstrained,S4_fixed315,3:16,4.4,East lobe Oct18 VIIRS,16:19,63.3,4416
+unconstrained,S4_fixed315,3:16,4.4,"SW lobe N of lake 52.763,-110.915",15:28,12.3,735
+unconstrained,S4_fixed315,3:16,4.4,"West: pond 52.767,-110.93",15:16,0.0,0
+unconstrained,S4_fixed315,3:16,4.4,North: Peterson Pond,15:17,0.8,0
+unconstrained,S4_fixed315,3:16,4.4,Range Control (OSM),not reached,,2925
+unconstrained,S4_fixed315,3:16,4.4,Landsat SW end,15:16,0.0,0
+scar_limited,S4_fixed315,3:16,8.0,Range2 centroid (OSM),15:21,4.7,586
+scar_limited,S4_fixed315,3:16,8.0,Range3 centroid (OSM),not reached,,199
+scar_limited,S4_fixed315,3:16,8.0,Road dead end (CanVec),15:25,8.9,1105
+scar_limited,S4_fixed315,3:16,8.0,Building (CanVec),15:30,13.8,1320
+scar_limited,S4_fixed315,3:16,8.0,Track @52.765,15:28,12.3,1540
+scar_limited,S4_fixed315,3:16,8.0,Track @52.760,15:27,11.0,1440
+scar_limited,S4_fixed315,3:16,8.0,Track @52.755,15:32,15.7,2062
+scar_limited,S4_fixed315,3:16,8.0,"East lobe @ -110.875,52.755",15:43,27.2,3407
+scar_limited,S4_fixed315,3:16,8.0,East lobe Oct18 VIIRS,15:51,34.8,4416
+scar_limited,S4_fixed315,3:16,8.0,"SW lobe N of lake 52.763,-110.915",15:23,6.8,735
+scar_limited,S4_fixed315,3:16,8.0,"West: pond 52.767,-110.93",15:16,0.0,0
+scar_limited,S4_fixed315,3:16,8.0,North: Peterson Pond,15:16,0.4,0
+scar_limited,S4_fixed315,3:16,8.0,Range Control (OSM),not reached,,2925
+scar_limited,S4_fixed315,3:16,8.0,Landsat SW end,15:16,0.0,0
+unconstrained,S4_fixed315,3:16,8.0,Range2 centroid (OSM),15:21,4.7,586
+unconstrained,S4_fixed315,3:16,8.0,Range3 centroid (OSM),15:18,1.7,199
+unconstrained,S4_fixed315,3:16,8.0,Road dead end (CanVec),15:25,8.9,1105
+unconstrained,S4_fixed315,3:16,8.0,Building (CanVec),15:27,10.6,1320
+unconstrained,S4_fixed315,3:16,8.0,Track @52.765,15:28,12.3,1540
+unconstrained,S4_fixed315,3:16,8.0,Track @52.760,15:27,11.0,1440
+unconstrained,S4_fixed315,3:16,8.0,Track @52.755,15:32,15.7,2062
+unconstrained,S4_fixed315,3:16,8.0,"East lobe @ -110.875,52.755",15:43,27.2,3407
+unconstrained,S4_fixed315,3:16,8.0,East lobe Oct18 VIIRS,15:51,34.8,4416
+unconstrained,S4_fixed315,3:16,8.0,"SW lobe N of lake 52.763,-110.915",15:23,6.8,735
+unconstrained,S4_fixed315,3:16,8.0,"West: pond 52.767,-110.93",15:16,0.0,0
+unconstrained,S4_fixed315,3:16,8.0,North: Peterson Pond,15:16,0.4,0
+unconstrained,S4_fixed315,3:16,8.0,Range Control (OSM),not reached,,2925
+unconstrained,S4_fixed315,3:16,8.0,Landsat SW end,15:16,0.0,0
+scar_limited,S4_fixed315,3:16,12.0,Range2 centroid (OSM),15:19,3.1,586
+scar_limited,S4_fixed315,3:16,12.0,Range3 centroid (OSM),not reached,,199
+scar_limited,S4_fixed315,3:16,12.0,Road dead end (CanVec),15:22,5.9,1105
+scar_limited,S4_fixed315,3:16,12.0,Building (CanVec),15:25,9.2,1320
+scar_limited,S4_fixed315,3:16,12.0,Track @52.765,15:24,8.2,1540
+scar_limited,S4_fixed315,3:16,12.0,Track @52.760,15:23,7.4,1440
+scar_limited,S4_fixed315,3:16,12.0,Track @52.755,15:26,10.5,2062
+scar_limited,S4_fixed315,3:16,12.0,"East lobe @ -110.875,52.755",15:34,18.1,3407
+scar_limited,S4_fixed315,3:16,12.0,East lobe Oct18 VIIRS,15:39,23.2,4416
+scar_limited,S4_fixed315,3:16,12.0,"SW lobe N of lake 52.763,-110.915",15:21,4.5,735
+scar_limited,S4_fixed315,3:16,12.0,"West: pond 52.767,-110.93",15:16,0.0,0
+scar_limited,S4_fixed315,3:16,12.0,North: Peterson Pond,15:16,0.3,0
+scar_limited,S4_fixed315,3:16,12.0,Range Control (OSM),not reached,,2925
+scar_limited,S4_fixed315,3:16,12.0,Landsat SW end,15:16,0.0,0
+unconstrained,S4_fixed315,3:16,12.0,Range2 centroid (OSM),15:19,3.1,586
+unconstrained,S4_fixed315,3:16,12.0,Range3 centroid (OSM),15:17,1.1,199
+unconstrained,S4_fixed315,3:16,12.0,Road dead end (CanVec),15:22,5.9,1105
+unconstrained,S4_fixed315,3:16,12.0,Building (CanVec),15:23,7.1,1320
+unconstrained,S4_fixed315,3:16,12.0,Track @52.765,15:24,8.2,1540
+unconstrained,S4_fixed315,3:16,12.0,Track @52.760,15:23,7.4,1440
+unconstrained,S4_fixed315,3:16,12.0,Track @52.755,15:26,10.5,2062
+unconstrained,S4_fixed315,3:16,12.0,"East lobe @ -110.875,52.755",15:34,18.1,3407
+unconstrained,S4_fixed315,3:16,12.0,East lobe Oct18 VIIRS,15:39,23.2,4416
+unconstrained,S4_fixed315,3:16,12.0,"SW lobe N of lake 52.763,-110.915",15:21,4.5,735
+unconstrained,S4_fixed315,3:16,12.0,"West: pond 52.767,-110.93",15:16,0.0,0
+unconstrained,S4_fixed315,3:16,12.0,North: Peterson Pond,15:16,0.3,0
+unconstrained,S4_fixed315,3:16,12.0,Range Control (OSM),not reached,,2925
+unconstrained,S4_fixed315,3:16,12.0,Landsat SW end,15:16,0.0,0
+scar_limited,S4_fixed315,3:25,4.4,Range2 centroid (OSM),15:33,8.5,586
+scar_limited,S4_fixed315,3:25,4.4,Range3 centroid (OSM),not reached,,199
+scar_limited,S4_fixed315,3:25,4.4,Road dead end (CanVec),15:41,16.2,1105
+scar_limited,S4_fixed315,3:25,4.4,Building (CanVec),15:50,25.1,1320
+scar_limited,S4_fixed315,3:25,4.4,Track @52.765,15:47,22.4,1540
+scar_limited,S4_fixed315,3:25,4.4,Track @52.760,15:45,20.1,1440
+scar_limited,S4_fixed315,3:25,4.4,Track @52.755,15:54,28.5,2062
+scar_limited,S4_fixed315,3:25,4.4,"East lobe @ -110.875,52.755",16:14,49.4,3407
+scar_limited,S4_fixed315,3:25,4.4,East lobe Oct18 VIIRS,16:28,63.3,4416
+scar_limited,S4_fixed315,3:25,4.4,"SW lobe N of lake 52.763,-110.915",15:37,12.3,735
+scar_limited,S4_fixed315,3:25,4.4,"West: pond 52.767,-110.93",15:25,0.0,0
+scar_limited,S4_fixed315,3:25,4.4,North: Peterson Pond,15:26,0.8,0
+scar_limited,S4_fixed315,3:25,4.4,Range Control (OSM),not reached,,2925
+scar_limited,S4_fixed315,3:25,4.4,Landsat SW end,15:25,0.0,0
+unconstrained,S4_fixed315,3:25,4.4,Range2 centroid (OSM),15:33,8.5,586
+unconstrained,S4_fixed315,3:25,4.4,Range3 centroid (OSM),15:28,3.1,199
+unconstrained,S4_fixed315,3:25,4.4,Road dead end (CanVec),15:41,16.2,1105
+unconstrained,S4_fixed315,3:25,4.4,Building (CanVec),15:44,19.3,1320
+unconstrained,S4_fixed315,3:25,4.4,Track @52.765,15:47,22.4,1540
+unconstrained,S4_fixed315,3:25,4.4,Track @52.760,15:45,20.1,1440
+unconstrained,S4_fixed315,3:25,4.4,Track @52.755,15:54,28.5,2062
+unconstrained,S4_fixed315,3:25,4.4,"East lobe @ -110.875,52.755",16:14,49.4,3407
+unconstrained,S4_fixed315,3:25,4.4,East lobe Oct18 VIIRS,16:28,63.3,4416
+unconstrained,S4_fixed315,3:25,4.4,"SW lobe N of lake 52.763,-110.915",15:37,12.3,735
+unconstrained,S4_fixed315,3:25,4.4,"West: pond 52.767,-110.93",15:25,0.0,0
+unconstrained,S4_fixed315,3:25,4.4,North: Peterson Pond,15:26,0.8,0
+unconstrained,S4_fixed315,3:25,4.4,Range Control (OSM),not reached,,2925
+unconstrained,S4_fixed315,3:25,4.4,Landsat SW end,15:25,0.0,0
+scar_limited,S4_fixed315,3:25,8.0,Range2 centroid (OSM),15:30,4.7,586
+scar_limited,S4_fixed315,3:25,8.0,Range3 centroid (OSM),not reached,,199
+scar_limited,S4_fixed315,3:25,8.0,Road dead end (CanVec),15:34,8.9,1105
+scar_limited,S4_fixed315,3:25,8.0,Building (CanVec),15:39,13.8,1320
+scar_limited,S4_fixed315,3:25,8.0,Track @52.765,15:37,12.3,1540
+scar_limited,S4_fixed315,3:25,8.0,Track @52.760,15:36,11.0,1440
+scar_limited,S4_fixed315,3:25,8.0,Track @52.755,15:41,15.7,2062
+scar_limited,S4_fixed315,3:25,8.0,"East lobe @ -110.875,52.755",15:52,27.2,3407
+scar_limited,S4_fixed315,3:25,8.0,East lobe Oct18 VIIRS,15:60,34.8,4416
+scar_limited,S4_fixed315,3:25,8.0,"SW lobe N of lake 52.763,-110.915",15:32,6.8,735
+scar_limited,S4_fixed315,3:25,8.0,"West: pond 52.767,-110.93",15:25,0.0,0
+scar_limited,S4_fixed315,3:25,8.0,North: Peterson Pond,15:25,0.4,0
+scar_limited,S4_fixed315,3:25,8.0,Range Control (OSM),not reached,,2925
+scar_limited,S4_fixed315,3:25,8.0,Landsat SW end,15:25,0.0,0
+unconstrained,S4_fixed315,3:25,8.0,Range2 centroid (OSM),15:30,4.7,586
+unconstrained,S4_fixed315,3:25,8.0,Range3 centroid (OSM),15:27,1.7,199
+unconstrained,S4_fixed315,3:25,8.0,Road dead end (CanVec),15:34,8.9,1105
+unconstrained,S4_fixed315,3:25,8.0,Building (CanVec),15:36,10.6,1320
+unconstrained,S4_fixed315,3:25,8.0,Track @52.765,15:37,12.3,1540
+unconstrained,S4_fixed315,3:25,8.0,Track @52.760,15:36,11.0,1440
+unconstrained,S4_fixed315,3:25,8.0,Track @52.755,15:41,15.7,2062
+unconstrained,S4_fixed315,3:25,8.0,"East lobe @ -110.875,52.755",15:52,27.2,3407
+unconstrained,S4_fixed315,3:25,8.0,East lobe Oct18 VIIRS,15:60,34.8,4416
+unconstrained,S4_fixed315,3:25,8.0,"SW lobe N of lake 52.763,-110.915",15:32,6.8,735
+unconstrained,S4_fixed315,3:25,8.0,"West: pond 52.767,-110.93",15:25,0.0,0
+unconstrained,S4_fixed315,3:25,8.0,North: Peterson Pond,15:25,0.4,0
+unconstrained,S4_fixed315,3:25,8.0,Range Control (OSM),not reached,,2925
+unconstrained,S4_fixed315,3:25,8.0,Landsat SW end,15:25,0.0,0
+scar_limited,S4_fixed315,3:25,12.0,Range2 centroid (OSM),15:28,3.1,586
+scar_limited,S4_fixed315,3:25,12.0,Range3 centroid (OSM),not reached,,199
+scar_limited,S4_fixed315,3:25,12.0,Road dead end (CanVec),15:31,5.9,1105
+scar_limited,S4_fixed315,3:25,12.0,Building (CanVec),15:34,9.2,1320
+scar_limited,S4_fixed315,3:25,12.0,Track @52.765,15:33,8.2,1540
+scar_limited,S4_fixed315,3:25,12.0,Track @52.760,15:32,7.4,1440
+scar_limited,S4_fixed315,3:25,12.0,Track @52.755,15:35,10.5,2062
+scar_limited,S4_fixed315,3:25,12.0,"East lobe @ -110.875,52.755",15:43,18.1,3407
+scar_limited,S4_fixed315,3:25,12.0,East lobe Oct18 VIIRS,15:48,23.2,4416
+scar_limited,S4_fixed315,3:25,12.0,"SW lobe N of lake 52.763,-110.915",15:30,4.5,735
+scar_limited,S4_fixed315,3:25,12.0,"West: pond 52.767,-110.93",15:25,0.0,0
+scar_limited,S4_fixed315,3:25,12.0,North: Peterson Pond,15:25,0.3,0
+scar_limited,S4_fixed315,3:25,12.0,Range Control (OSM),not reached,,2925
+scar_limited,S4_fixed315,3:25,12.0,Landsat SW end,15:25,0.0,0
+unconstrained,S4_fixed315,3:25,12.0,Range2 centroid (OSM),15:28,3.1,586
+unconstrained,S4_fixed315,3:25,12.0,Range3 centroid (OSM),15:26,1.1,199
+unconstrained,S4_fixed315,3:25,12.0,Road dead end (CanVec),15:31,5.9,1105
+unconstrained,S4_fixed315,3:25,12.0,Building (CanVec),15:32,7.1,1320
+unconstrained,S4_fixed315,3:25,12.0,Track @52.765,15:33,8.2,1540
+unconstrained,S4_fixed315,3:25,12.0,Track @52.760,15:32,7.4,1440
+unconstrained,S4_fixed315,3:25,12.0,Track @52.755,15:35,10.5,2062
+unconstrained,S4_fixed315,3:25,12.0,"East lobe @ -110.875,52.755",15:43,18.1,3407
+unconstrained,S4_fixed315,3:25,12.0,East lobe Oct18 VIIRS,15:48,23.2,4416
+unconstrained,S4_fixed315,3:25,12.0,"SW lobe N of lake 52.763,-110.915",15:30,4.5,735
+unconstrained,S4_fixed315,3:25,12.0,"West: pond 52.767,-110.93",15:25,0.0,0
+unconstrained,S4_fixed315,3:25,12.0,North: Peterson Pond,15:25,0.3,0
+unconstrained,S4_fixed315,3:25,12.0,Range Control (OSM),not reached,,2925
+unconstrained,S4_fixed315,3:25,12.0,Landsat SW end,15:25,0.0,0
