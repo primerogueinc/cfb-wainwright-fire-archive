@@ -10,6 +10,7 @@ Added with `scripts/ingest_copernicus.py`. "Usable" means the export covers all 
 |---|---|---|---|---|---|---|
 | 2026-10-04 | L1C | TIFF | 23 | Yes | ~10 m pixels, clear | `Browser_images__20_.zip` |
 | 2026-10-16 | L1C | JPG | 23 | Preview only | JPG, not georeferenced | `3fc9ebf6-Browser_images_19.zip` |
+| 2026-10-16 | L1C | TIFF | 23 | No | Haze or thin cloud over fire area | `Browser_images__21_.zip` |
 | 2026-10-16 | L2A | TIFF | 23 | No | Haze or thin cloud over fire area | `Browser_images__18_.zip` |
 | 2026-10-19 | L2A | TIFF | 23 | Yes | ~10 m pixels, clear | `Browser_images__17_.zip` |
 | 2026-10-21 | L1C | TIFF | 17 | No | Fire area outside swath | `Browser_images__14__5114e1.zip` |
