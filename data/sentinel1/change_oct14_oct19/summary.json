@@ -1,0 +1,47 @@
+{
+ "note": "dB change = 10*log10(post/pre); 3x3 mean filter before ratio to reduce speckle. Burn mask from Sentinel-2 matched dNBR (>=0.27 burned, <0.05 unburned).",
+ "bands": {
+  "VV": {
+   "burned": {
+    "pre_dB": -14.07,
+    "post_dB": -18.73,
+    "change_dB": -4.44
+   },
+   "unburned": {
+    "pre_dB": -13.79,
+    "post_dB": -16.75,
+    "change_dB": -2.42
+   }
+  },
+  "VH": {
+   "burned": {
+    "pre_dB": -24.82,
+    "post_dB": -28.34,
+    "change_dB": -3.17
+   },
+   "unburned": {
+    "pre_dB": -23.01,
+    "post_dB": -24.64,
+    "change_dB": -1.28
+   }
+  }
+ },
+ "points": {
+  "origin": {
+   "VV": -3.14,
+   "VH": -4.73
+  },
+  "A_range2": {
+   "VV": -0.87,
+   "VH": -3.15
+  },
+  "B_road_head": {
+   "VV": -1.02,
+   "VH": -4.87
+  }
+ },
+ "agreement": {
+  "optical_burned_also_radar_darkened_pct": 72.1,
+  "optical_unburned_radar_darkened_pct": 46.5
+ }
+}
