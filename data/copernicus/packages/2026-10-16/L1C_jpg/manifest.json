@@ -1,0 +1,142 @@
+{
+ "source": "Copernicus Browser export (Sentinel Hub), received from Prime Rogue",
+ "date": "2026-10-16",
+ "level": "L1C",
+ "format": "jpg",
+ "layers": [
+  "B01_(Raw)",
+  "B02_(Raw)",
+  "B03_(Raw)",
+  "B04_(Raw)",
+  "B05_(Raw)",
+  "B06_(Raw)",
+  "B07_(Raw)",
+  "B08_(Raw)",
+  "B09_(Raw)",
+  "B10_(Raw)",
+  "B11_(Raw)",
+  "B12_(Raw)",
+  "B8A_(Raw)",
+  "False_color",
+  "False_color__urban_",
+  "Highlight_Optimized_Natural_Color",
+  "Moisture_index",
+  "NDSI",
+  "NDVI",
+  "NDWI",
+  "SWIR",
+  "True_color",
+  "Wildfires"
+ ],
+ "n_files": 23,
+ "qa": {
+  "georeferenced": false,
+  "note": "JPG export: 8-bit, no georeference. Previews only; not measurable."
+ },
+ "previews": [
+  "preview_true_colour.jpg",
+  "preview_swir.jpg"
+ ],
+ "files": {
+  "2026-10-16-00_00_2026-10-16-23_59_Sentinel-2_L1C_B01_(Raw).jpg": {
+   "bytes": 99836,
+   "sha256": "66bb5de9381afe6a8f6a1b0493e04585f09720a6f638e917b2d21a9ca7c10492"
+  },
+  "2026-10-16-00_00_2026-10-16-23_59_Sentinel-2_L1C_B02_(Raw).jpg": {
+   "bytes": 146669,
+   "sha256": "3671881cf1dc634f80c860f3f4ca3f7baea60325cc255d1452a3576618e4f13d"
+  },
+  "2026-10-16-00_00_2026-10-16-23_59_Sentinel-2_L1C_B03_(Raw).jpg": {
+   "bytes": 160874,
+   "sha256": "180150f078404f668dae0024dd7c79aeacf7e02a6a0ba568ad6e5694f6c0da99"
+  },
+  "2026-10-16-00_00_2026-10-16-23_59_Sentinel-2_L1C_B04_(Raw).jpg": {
+   "bytes": 202168,
+   "sha256": "52827572c394ec54d7547ef985c81c1708c48c6a5b2ce9efb29f3f96d95b8609"
+  },
+  "2026-10-16-00_00_2026-10-16-23_59_Sentinel-2_L1C_B05_(Raw).jpg": {
+   "bytes": 183989,
+   "sha256": "01828e16ecedaedba6f4d5f25197af8d10473bb0e273cb2c3e680ebec9d4bcd3"
+  },
+  "2026-10-16-00_00_2026-10-16-23_59_Sentinel-2_L1C_B06_(Raw).jpg": {
+   "bytes": 205516,
+   "sha256": "b5001939bc8f2b21ca81274ef3ae6d79afcede15dc1d4b1e4c2a0f40b82e6dee"
+  },
+  "2026-10-16-00_00_2026-10-16-23_59_Sentinel-2_L1C_B07_(Raw).jpg": {
+   "bytes": 217160,
+   "sha256": "d869e7c2be7ff39dd6a1d697b80892ff53304b143012adf9b2a6b820dcb41a78"
+  },
+  "2026-10-16-00_00_2026-10-16-23_59_Sentinel-2_L1C_B08_(Raw).jpg": {
+   "bytes": 275130,
+   "sha256": "5868e27c38bd4955d1f58eca22069e68b2ffd0834835a88fc84317e52df9f8a8"
+  },
+  "2026-10-16-00_00_2026-10-16-23_59_Sentinel-2_L1C_B09_(Raw).jpg": {
+   "bytes": 119493,
+   "sha256": "4fbc3e741cc4f7161114131e34d2b0dde89800a775a3ec9bc8f41e599f84133b"
+  },
+  "2026-10-16-00_00_2026-10-16-23_59_Sentinel-2_L1C_B10_(Raw).jpg": {
+   "bytes": 83715,
+   "sha256": "f1c74bd9b25b14441a3fe748421932813d772d72e0a707d86ef1842d1da2c73b"
+  },
+  "2026-10-16-00_00_2026-10-16-23_59_Sentinel-2_L1C_B11_(Raw).jpg": {
+   "bytes": 211250,
+   "sha256": "80ca6f8ca3e51c6df302c55516984a977fbde69729ae854c1f3a6f6de12ab488"
+  },
+  "2026-10-16-00_00_2026-10-16-23_59_Sentinel-2_L1C_B12_(Raw).jpg": {
+   "bytes": 184898,
+   "sha256": "13cbc9437016cbc13578a3ff08c5415d6c4587f9e072eb1520ad71241b502a45"
+  },
+  "2026-10-16-00_00_2026-10-16-23_59_Sentinel-2_L1C_B8A_(Raw).jpg": {
+   "bytes": 240359,
+   "sha256": "00662c98fbf5337578aae4f2b0ece8f1899457987150dd05d5ec73e00c995ddb"
+  },
+  "2026-10-16-00_00_2026-10-16-23_59_Sentinel-2_L1C_False_color.jpg": {
+   "bytes": 441423,
+   "sha256": "d51e3d37550149e70bbacf027b927a17bd9dfbb1f2dab8b1e4645183a8af6fc8"
+  },
+  "2026-10-16-00_00_2026-10-16-23_59_Sentinel-2_L1C_False_color__urban_.jpg": {
+   "bytes": 388654,
+   "sha256": "89cb32e439c2a9f231e7e7da03385ac62cb9c080720498e375e324e74e34c274"
+  },
+  "2026-10-16-00_00_2026-10-16-23_59_Sentinel-2_L1C_Highlight_Optimized_Natural_Color.jpg": {
+   "bytes": 271868,
+   "sha256": "2e2640b15aa57737ab73465b8da8a5f1f159dcbaa71d215514c7d360bd8a9bcf"
+  },
+  "2026-10-16-00_00_2026-10-16-23_59_Sentinel-2_L1C_Moisture_index.jpg": {
+   "bytes": 1207620,
+   "sha256": "9d40a36e4e77264c962e58509e0fcb225b3ea6a6af4c83ff6c2a6061ed9794a9"
+  },
+  "2026-10-16-00_00_2026-10-16-23_59_Sentinel-2_L1C_NDSI.jpg": {
+   "bytes": 374338,
+   "sha256": "eb6a45081c35d12c683e81fe3a2bb8d9bea48a28f7517356575af6d7231114a7"
+  },
+  "2026-10-16-00_00_2026-10-16-23_59_Sentinel-2_L1C_NDVI.jpg": {
+   "bytes": 690833,
+   "sha256": "48eb57fd1c4926eb715252198be4da568e211fbd0de24787b1b799b02e095ec8"
+  },
+  "2026-10-16-00_00_2026-10-16-23_59_Sentinel-2_L1C_NDWI.jpg": {
+   "bytes": 434525,
+   "sha256": "cb2e201088f5d03c9d5c159db86d832ddbaacabf36afdfac1d681371aebc29a4"
+  },
+  "2026-10-16-00_00_2026-10-16-23_59_Sentinel-2_L1C_SWIR.jpg": {
+   "bytes": 422955,
+   "sha256": "9c4c2c5a81fd16b9a867dbe4e8c14019f722065d407fc61c163788f24045f7e0"
+  },
+  "2026-10-16-00_00_2026-10-16-23_59_Sentinel-2_L1C_True_color.jpg": {
+   "bytes": 268353,
+   "sha256": "a93c0f7533d6ada599e9d7dc5e9df80f6512811c61003b2e5699a5e3e96b0761"
+  },
+  "2026-10-16-00_00_2026-10-16-23_59_Sentinel-2_L1C_Wildfires.jpg": {
+   "bytes": 274390,
+   "sha256": "00b1d3c4aaacfcf441a26d5f1b2acb9a51534f33d11449ca2deafb89af05d3ba"
+  }
+ },
+ "package": {
+  "name": "3fc9ebf6-Browser_images_19.zip",
+  "bytes": 6948101,
+  "sha256": "47c8e44fab5b2179b3332ecff6b4c01283d8253c8f6d6f560e806a25bdd1da92",
+  "release_tag": "copernicus-s2-packages",
+  "note": "Raw export zip as downloaded from Copernicus Browser; attach to the release unchanged. Per-file SHA-256 above verify contents whatever the zip is named."
+ },
+ "licence": "Contains modified Copernicus Sentinel data [2026]"
+}
