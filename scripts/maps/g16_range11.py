@@ -9,12 +9,16 @@ TOP, L = 196, 48
 Wc, Hc = m.w + 2 * L, TOP + m.h + 24 + 140
 im, d = canvas(Wc, Hc, "CFB WAINWRIGHT FIRE · OCT. 17, 2026",
                "The AGL range, where the fire started, and where it caught C Company",
-               "Range 11 is the automatic grenade launcher range, per the base's standing orders. Rings show the C16 launcher's reach (about 2 km).\nAt 12:17 p.m. the fire burned east of it, inside Permanent Danger Area 2. After the 3:16 p.m. wind shift it ran southeast onto Range 2 and the road head.")
+               "Range 11, the automatic grenade launcher range per the base's standing orders, sits inside the western edge of Permanent Danger Area 2. Its likely firing\nsector is east, into the danger area: another range lies 1.5 km west. At 12:17 p.m. the fire burned at the edge of the C16's ~2 km reach and beyond, east-northeast.")
 base = m.base(bright=0.95)
 ov = Image.new("RGBA", base.size, (0, 0, 0, 0)); o = ImageDraw.Draw(ov)
 osmf = json.load(open(REPO + "data/infrastructure/osm_infrastructure_ODbL.geojson"))["features"]
 pda2 = [shape(f["geometry"]) for f in osmf if f["properties"].get("name") == "Permanent Danger Area 2"][0]
 m.outline(o, pda2, YEL + (230,), width=3, dash=(16, 10))
+sec = [m.P(52.7678, -110.9577)]
+for az in range(40, 121, 2):
+    lo_, la_, _ = G.fwd(-110.9577, 52.7678, az, 2000); sec.append(m.P(la_, lo_))
+o.polygon(sec, fill=TEAL + (55,))
 for f in json.load(open(REPO + "data/copernicus/burn_scar.geojson"))["features"]:
     m.outline(o, shape(f["geometry"]), RED + (255,), width=3)
 R11 = (52.7678, -110.9577)
@@ -37,10 +41,14 @@ for (a, b) in [("R11", "R2")]:
 def dot(p, col, r=11):
     dd.ellipse([p[0] - r, p[1] - r, p[0] + r, p[1] + r], fill=col, outline=INK, width=3)
 dot(P["R11"], TEAL); dot(P["R2"], CREAM); dot(P["RH"], CREAM)
+q = m.P(52.7656, -110.9793); dot(q, MUTED, r=8); label(dd, (q[0], q[1] - 44), "RANGE 22", col=MUTED, size=14, anchor="ma")
+gx, gy = m.P(52.7655, -110.9795)
+label(dd, m.P(52.7778, -110.9500), "Likely firing sector\n(inferred, east into PDA 2)", col=TEAL, size=15)
+
 def km(a, b): return G.inv(pts[a][1], pts[a][0], pts[b][1], pts[b][0])[2] / 1000
 mx = ((P["R11"][0] + P["R2"][0]) / 2, (P["R11"][1] + P["R2"][1]) / 2)
 label(dd, (mx[0], mx[1] + 14), f"{km('R11','R2'):.1f} km", col=INK, bg=CREAM, size=18, anchor="ma")
-label(dd, (P["R11"][0] - 30, P["R11"][1] + 30), "RANGE 11\nAGL range (standing orders)", col=TEAL, size=18, anchor="ra")
+label(dd, (P["R11"][0], P["R11"][1] + 30), "RANGE 11\nAGL range (standing orders)", col=TEAL, size=18, anchor="ma")
 label(dd, (P["R2"][0] + 26, P["R2"][1] - 70), "RANGE 2\nhand grenade", size=17)
 label(dd, (P["RH"][0] + 26, P["RH"][1] + 16), "ROAD HEAD\nend of range road", size=17)
 x2, y2 = m.P(*G.fwd(R11[1], R11[0], 20, 2000)[1::-1])
