@@ -15,7 +15,6 @@ import numpy as np
 
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OWNER_REPO = "primerogueinc/cfb-wainwright-fire-archive"
-TAG = "copernicus-s2-packages"
 BOX = (-110.96, 52.74, -110.85, 52.80)          # fire area: W, S, E, N
 POINTS = {"origin": (-110.9214, 52.7764), "A_range2": (-110.90632, 52.77279), "B_road_head": (-110.89965, 52.77045)}
 
