@@ -7,8 +7,8 @@ For each zip it:
   2. checks frame, pixel size, whether the fire area is covered, and how hazy it is;
   3. writes data/copernicus/packages/<date>/<level>_<fmt>/manifest.json with SHA-256 for every file,
      plus two small previews (true colour and SWIR false colour) of the fire area;
-  4. records the raw export zip (name, size, SHA-256) for attachment, unchanged, to the GitHub release
-     `copernicus-s2-packages`. Raw packages live there to keep the repo small.
+  4. records the raw export zip (name, size, SHA-256). The raw files go to the data repo
+     primerogueinc/CFB-Wainwright---Full-Satellite-Data---Copernicus- (use its scripts/ingest.py).
 """
 import sys, os, re, json, hashlib, zipfile, tempfile, glob, subprocess, shutil
 import numpy as np

@@ -163,8 +163,7 @@
   "name": "Browser_images__17_.zip",
   "bytes": 355757458,
   "sha256": "95e8ce645daf3eed7565bfbd067ab88a2a7900f1818da143ca97906ea7169465",
-  "release_tag": "copernicus-s2-packages",
-  "note": "Raw export zip as downloaded from Copernicus Browser; attach to the release unchanged. Per-file SHA-256 above verify contents whatever the zip is named."
+  "note": "Raw files stored unchanged at https://github.com/primerogueinc/CFB-Wainwright---Full-Satellite-Data---Copernicus- under sentinel-2/2026-10-19/L2A_tiff/"
  },
  "licence": "Contains modified Copernicus Sentinel data [2026]"
 }
