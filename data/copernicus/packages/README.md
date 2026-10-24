@@ -16,6 +16,7 @@ Added with `scripts/ingest_copernicus.py`. "Usable" means the export covers all 
 | 2026-10-19 | L2A | TIFF | 23 | Yes | ~10 m pixels, clear | `Browser_images__17_.zip` |
 | 2026-10-21 | L1C | TIFF | 17 | No | Fire area outside swath | `Browser_images__14__5114e1.zip` |
 | 2026-10-21 | L2A | TIFF | 17 | No | Fire area outside swath | `Browser_images__16_.zip` |
+| 2026-10-23 | L1C | TIFF | 20 | No | Fire area outside swath | `0dd614a6-Browser_images_27.zip` |
 | 2026-10-23 | L2A | TIFF | 23 | No | Fire area outside swath | `Browser_images__25__9.zip` |
 
 The Oct. 19 L2A GeoTIFFs were briefly committed under `manual_exports/2026-10-19/L2A_10m/` (commit 47ec973) and then moved to the data repository; the analysis images and notes stay there. Older exports from the first analysis remain under `manual_exports/`.
