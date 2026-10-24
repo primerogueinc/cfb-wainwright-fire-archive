@@ -1,4 +1,4 @@
-# Oct. 24, 2026: gas infrastructure test (stress test part 9, working model v2.1)
+# Oct. 24, 2026: gas infrastructure test (working model v2.1)
 
 Graphics for "Another sign pointing away from gas". Analysis, data and limits: `data/authentic-stoic-stress-test/part9_gas_infrastructure/ABOUT.md`. Made with `scripts/maps/g18_gas_map.py` to `g22_gas_og.py` (house style `scripts/maps/pr.py`; run from a working folder with `vis/` holding the scripts; `g20` reads the Sentinel-5P repository).
 
