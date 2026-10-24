@@ -1,0 +1,96 @@
+{
+ "range11": [
+  -110.9577,
+  52.7678
+ ],
+ "reach_m": 2500,
+ "c16_max_range_m_approx": 2200,
+ "sectors": [
+  {
+   "bearings": [
+    40,
+    120
+   ],
+   "label": "likely sector",
+   "operating_gas_lines": [],
+   "any_lines": [],
+   "wells": []
+  },
+  {
+   "bearings": [
+    20,
+    160
+   ],
+   "label": "generous",
+   "operating_gas_lines": [],
+   "any_lines": [],
+   "wells": []
+  },
+  {
+   "bearings": [
+    0,
+    180
+   ],
+   "label": "all bearings east",
+   "operating_gas_lines": [
+    "58333-122",
+    "58333-103"
+   ],
+   "any_lines": [
+    "58333-122",
+    "58333-103"
+   ],
+   "wells": []
+  }
+ ],
+ "nearest_lines_to_range11": [
+  {
+   "line": "58333-123",
+   "status": "Operating",
+   "m": 352,
+   "bearing": 266
+  },
+  {
+   "line": "58333-122",
+   "status": "Operating",
+   "m": 559,
+   "bearing": 216
+  },
+  {
+   "line": "58333-41",
+   "status": "Abandoned",
+   "m": 839,
+   "bearing": 336
+  },
+  {
+   "line": "20039-91",
+   "status": "Operating",
+   "m": 1001,
+   "bearing": 344
+  },
+  {
+   "line": "58333-72",
+   "status": "Operating",
+   "m": 1918,
+   "bearing": 275
+  }
+ ],
+ "range11_to": {
+  "range2_point_A": {
+   "m": 3512,
+   "bearing": 81
+  },
+  "road_head_B": {
+   "m": 3929,
+   "bearing": 86
+  },
+  "line_58333-78_west_end": {
+   "m": 3633,
+   "bearing": 83
+  },
+  "well_1-11_registered": {
+   "m": 4019,
+   "bearing": 81
+  }
+ }
+}

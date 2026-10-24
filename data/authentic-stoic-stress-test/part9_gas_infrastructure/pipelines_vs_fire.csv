@@ -1,0 +1,13 @@
+licence_line,licensee,status,substance,diameter_mm,maop_kpa,material,from_,to,seg_km,m_inside_burn,m_to_burn,m_to_start_zone,m_to_best_start_point,m_to_noon_fire,m_to_range2,m_to_road_head,fire_reached,lat,lon
+58333-78,Sumerian Oil & Gas Inc.,Operating,Natural Gas,114.3,4140,Steel,Well 01-11-044-07W4,Pipeline 01-12-044-07W4,1.62,80,0,1440,1487,1024,171,158,15:24 (after the wind shift),52.77186,-110.9031
+52588-5,Sequoia Resources Corp.,Abandoned,Natural Gas,124,0,Composite,Blind End 04-31-043-06W4,Blind End 04-30-043-06W4,1.5,34,0,4718,4719,4866,4002,3546,16:19 (after the wind shift),52.74235,-110.87397
+58333-113,Sumerian Oil & Gas Inc.,Operating,Natural Gas,88.9,4140,Steel,Well 13-12-044-07W4,Pipeline 01-11-044-07W4,1,0,2,1726,1776,868,415,159,15:26 (after the wind shift),52.77274,-110.90015
+58333-121,Sumerian Oil & Gas Inc.,Operating,Natural Gas,114.3,4140,Steel,Pipeline 13-31-043-06W4,Pipeline 13-06-043-06W4,1.99,0,106,3568,3604,2933,2313,1834,,52.75387,-110.87367
+58333-81,Sumerian Oil & Gas Inc.,Operating,Natural Gas,88.9,4140,Steel,Well 13-32-043-06W4,Pipeline 13-31-043-06W4,2.03,0,106,4003,4019,3885,3048,2546,,52.75387,-110.87367
+58333-145,Sumerian Oil & Gas Inc.,Operating,Natural Gas,114.3,4140,Steel,Well 09-03-044-06W4,Pipeline 13-31-043-06W4,7.38,0,178,3928,3946,3757,2930,2422,,52.75387,-110.87344
+58333-112,Sumerian Oil & Gas Inc.,Operating,Natural Gas,88.9,4140,Steel,Well 08-14-044-07W4,Pipeline 13-12-044-07W4,0.74,0,187,2303,2368,1058,1328,1480,,52.78682,-110.8985
+58333-70,Sumerian Oil & Gas Inc.,Operating,Natural Gas,88.9,4140,Steel,Well 12-06-044-06W4,Pipeline 13-06-044-06W4,0.2,0,226,3583,3619,2952,2329,1849,,52.76566,-110.87331
+58333-125,Sumerian Oil & Gas Inc.,Operating,Natural Gas,88.9,4140,Steel,Well 03-12-044-07W4,Pipeline 03-12-044-07W4,0.3,0,240,2356,2400,1713,1060,605,,52.77074,-110.8907
+58333-143,Sumerian Oil & Gas Inc.,Operating,Natural Gas,88.9,4140,Steel,Well 02-06-044-06W4,Pipeline 15-31-043-06W4,0.3,0,500,4672,4700,4269,3524,3006,,52.75561,-110.8594
+58333-69,Sumerian Oil & Gas Inc.,Operating,Natural Gas,88.9,4140,Steel,Well 13-06-044-06W4,Pipeline 13-06-044-06W4,0.2,0,531,3575,3615,2952,2307,1823,,52.76863,-110.87281
+58333-16,Sumerian Oil & Gas Inc.,Operating,Natural Gas,114.3,4140,Steel,Well 11-06-044-06W4,Pipeline 01-24-044-07W4,4,0,577,3405,3449,2532,2102,1653,,52.76964,-110.87516
