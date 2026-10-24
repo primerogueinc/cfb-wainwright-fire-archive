@@ -1,0 +1,7 @@
+{
+ "model": "part 8b (ignition_backcalc.py), unchanged",
+ "K": 1.1739,
+ "res_m": 40.0,
+ "n_point_candidates": 219,
+ "n_jobs": 822
+}
