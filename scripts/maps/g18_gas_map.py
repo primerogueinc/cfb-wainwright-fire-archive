@@ -8,8 +8,8 @@ m = Map(-111.000, -110.862, 52.739, 52.800, 168)
 TOP, L = 196, 48
 Wc, Hc = m.w + 2 * L, TOP + m.h + 24 + 140
 im, d = canvas(Wc, Hc, "CFB WAINWRIGHT FIRE · GAS INFRASTRUCTURE TEST · WORKING MODEL V2.1",
-               "No gas line or well within the grenade launcher's reach",
-               "Every licensed pipeline and well around the fire, against Range 11's likely firing sector. None lies inside it within 2.5 km, on any bearing from 20° to 160°.\nThe gas lines at Range 2 and the road head are 3.5-4 km from Range 11. The fire reached them about 3:25 p.m., hours after it started.")
+               "No gas line or well in the grenade launcher's line of fire",
+               "Every licensed pipeline and well around the fire, against Range 11's likely firing sector: none inside it within 2.5 km, even widened to 20°-160°.\nNearest gas lines: 350-560 m behind the firing point. The Range 2 lines are 3.5-4 km away; the fire reached them about 3:25 p.m.")
 base = m.base(bright=0.8)
 ov = Image.new("RGBA", base.size, (0, 0, 0, 0)); o = ImageDraw.Draw(ov)
 R11 = (52.7678, -110.9577)

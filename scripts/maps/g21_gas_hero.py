@@ -6,7 +6,7 @@ ROWS = [
  ("Fire heat (GOES-18)", "Heat rose with the wind shift and spread along the front; none after 3:40 p.m.\nClear skies from ~7:30 p.m.: no hot spot all night.", "POINTS AWAY", TEAL),
  ("Burn scars (Sentinel-2)", "No scorch circle on the lines; the burn was lighter there. The well's site did not burn.", "POINTS AWAY", TEAL),
  ("The air, Oct. 17 (Sentinel-5P)", "Passed at 2:34 p.m., before the fire reached the lines; cloud over the base.", "CAN'T TELL", MUTED),
- ("The air, Oct. 18 (Sentinel-5P)", "No methane leak at or downwind of the base the next day.", "POINTS AWAY", TEAL),
+ ("The air, Oct. 18 (Sentinel-5P)", "No sign of a large methane leak at or downwind of the base the next day.", "POINTS AWAY", TEAL),
  ("The paperwork", "Regulator (Oct. 18): no incident reports. But the wells were under a suspension order\nand, per the operator, had not been shut in. Lines were probably live.", "OPEN", GOLD),
 ]
 W, H = 1700, 1185

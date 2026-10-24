@@ -25,7 +25,7 @@ ph = A[0].size[1]
 Wc = L * 2 + 3 * PW + 2 * GAP; Hc = TOP + 44 + ph + 70 + 44 + ph + 40 + 140
 im, d = canvas(Wc, Hc, "CFB WAINWRIGHT FIRE · GAS INFRASTRUCTURE TEST · WORKING MODEL V2.1",
                "The air showed no sign of a gas leak, but it can't settle the question",
-               "Sentinel-5P (TROPOMI) over the base. Its Oct. 17 pass came at 2:34 p.m., about 50 minutes before the fire reached the gas lines, and cloud blanked carbon\nmonoxide and methane over the base. Smoke haze was no higher than the day before. On Oct. 18, methane coverage was good: no leak at or downwind of the base.")
+               "Sentinel-5P (TROPOMI) over the base. Its Oct. 17 pass came at 2:34 p.m., about 50 minutes before the fire reached the gas lines, and cloud blanked carbon\nmonoxide and methane over the base. Smoke haze was no higher than the day before. On Oct. 18, methane coverage was good: no sign of a large leak at or downwind.")
 y0 = TOP + 44
 d.text((L, y0 - 34), "UV AEROSOL INDEX (SMOKE AND HAZE)", font=B(19), fill=GOLD)
 for k, (pn, t, v) in enumerate(zip(A, ["Oct. 16 · 2:53 p.m. (before)", "Oct. 17 · 2:34 p.m. (fire day)", "Oct. 18 · 2:15 p.m. (after)"], ["0.40", "0.38", "0.24"])):
