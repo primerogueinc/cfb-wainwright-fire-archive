@@ -2,8 +2,8 @@
 
 Runs the part 1 post-front model (spread.py: 5 wind schedules x head spread 4.4/8/12 km/h x steady/gusty shape = 30 fires,
 40 m grid) from a new starting fire: the area the v3 pre-front model has burned by 3:16 p.m. (PREFRONT_TIF, hours since
-midnight Oct. 17). Parts 1-8 started instead from the outline of the 12:17 and 2:49 p.m. detections (plus Range 11's sector
-in part 8). Then the part 4 escape analysis (perm.py, clock.py) on the 30 fires. Outputs go to data/.../model_v3/<CASE>/."""
+midnight Oct. 17). The starting fire is that area joined with the outline of the 12:17 and 2:49 p.m. detections used in parts 1-8
+(the fire cannot have been smaller than what the satellites saw). Then the part 4 escape analysis (perm.py, clock.py) on the 30 fires. Outputs go to data/.../model_v3/<CASE>/."""
 import sys, os, math, subprocess, shutil
 import numpy as np, rasterio
 from rasterio.warp import reproject, Resampling
@@ -20,7 +20,11 @@ sys.argv = ["x", REPO]; exec(src)
 with rasterio.open(PRE) as r:
     a = np.full((H, W), np.nan, "float32")
     reproject(r.read(1), a, src_transform=r.transform, src_crs=r.crs, src_nodata=np.nan, dst_transform=T, dst_crs=CRS, dst_nodata=np.nan, resampling=Resampling.nearest)
-hull_m = np.isfinite(a) & (a <= 15 + 16 / 60)
+v3_m = np.isfinite(a) & (a <= 15 + 16 / 60)
+# Keep ground the satellites saw burning before the front (outline of the 12:17 Landsat and 2:49 p.m. VIIRS detections, as in
+# parts 1-8): the narrower v3 fire does not always reach the 2:49 detections on its southeast side, and the fire cannot have
+# been smaller than what was observed.
+hull_m = v3_m | hull_m
 fuel_scar = (rast(scar.buffer(150)) | hull_m) & ~water
 np.save(os.path.join(WORK, "meta.npy"), np.array([minx, maxy, RES, H, W])); np.save(os.path.join(WORK, "start316.npy"), hull_m)
 # distance from the 3:16 edge to the scenario points
@@ -33,7 +37,7 @@ PTS = {"A_range2": (52.7728, -110.9063), "B_road_head": (52.7705, -110.8996), "C
 P = gpd.GeoSeries([Point(lo, la) for la, lo in PTS.values()], crs=4326, index=list(PTS)).to_crs(CRS)
 edge = {k: int(round(D[int((maxy - p.y) // RES), int((p.x - minx) // RES)])) for k, p in P.items()}
 pd.Series(edge, name="edge_to_point_m_at_316").to_csv(os.path.join(OUTD, "edge_distance_316.csv"))
-print("start fire km2", round(hull_m.sum() * RES * RES / 1e6, 3), edge, flush=True)
+print("start fire km2", round(hull_m.sum() * RES * RES / 1e6, 3), "added by v3", round((v3_m & ~rast(hull)).sum() * RES * RES / 1e6, 3), edge, flush=True)
 for lbname, lb in (("steady", LB), ("gusty", 3.0)):
     EE = math.sqrt(1 - 1 / lb ** 2)
     for s in ["S0_fixed306", "S1_stoic", "S2_station_veer", "S3_fast_veer", "S4_fixed315"]:
