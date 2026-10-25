@@ -27,7 +27,7 @@ def panel(data):
     buf = io.BytesIO(); fig.savefig(buf, dpi=100, facecolor=hx(BG)); plt.close(fig); buf.seek(0); return Image.open(buf).convert("RGBA")
 left = panel(P); right = panel(np.where((D >= 600) & (D <= 1400), P, np.nan))
 Wc, Hc = 1600, 1100
-im, d = canvas(Wc, Hc, "CFB WAINWRIGHT FIRE · WORKING MODEL V5 · DND TIMELINE TEST",
+im, d = canvas(Wc, Hc, "CFB WAINWRIGHT FIRE · WORKING MODEL V4 · DND TIMELINE TEST",
                "\"About a kilometre away\" and \"just before 4:00\"",
                "DND, Oct. 18: the fire was about a kilometre away when the wind shifted. DND, Oct. 22: it overtook the pairs range just before 4:00 p.m.\n"
                "Shading: share of 120 modelled fires (weighted by fit to the final burn scar) reaching each spot in that window.")
@@ -41,9 +41,9 @@ cm = plt.get_cmap("YlOrRd")
 for k in range(300):
     c = tuple(int(255 * v) for v in cm(1 - k / 300)[:3]); d.line([(lx, ly + k), (lx + 22, ly + k)], fill=c)
 d.text((lx - 8, ly), "60%", font=M(15), fill=CREAM, anchor="ra"); d.text((lx - 8, ly + 300), "0", font=M(15), fill=CREAM, anchor="rb")
-label(d, (60, y0 + 38 + 630), "Range 2: median arrival 3:21 p.m. Road head: 3:26.\nOnly 0% and 4% of fires reach them 3:45-4:00.", col=CREAM, size=18)
+label(d, (60, y0 + 38 + 630), "Range 2: median arrival 3:21 p.m. (3:30 if the front hit\nthe fire at 3:25). Road head: 3:26 (3:34).\nFew or no fires reach either 3:45-4:00 (0-9%).", col=CREAM, size=18)
 label(d, (54 + left.size[0] + 46, y0 + 38 + 630), "If both statements are true: a thin strip south-east\nof the road head, on the fire's flank (10-30% of fires).", col=GOLD, size=18)
-footer(im, ["Working model v5 (Prime Rogue), fitted to Landsat 8 (12:17 p.m.), VIIRS (2:49 p.m.) and the final Sentinel-2 scar. Front timed at 3:16 p.m. at ECCC CZWN, about 15 km west;",
-            "it may have reached the fire up to about 9 minutes later, which moves every time later but still well before 4:00. No ground observations. Grey: final scar.",
+footer(im, ["Working model v4 (Prime Rogue), fitted to Landsat 8 (12:17 p.m.), VIIRS (2:49 p.m.) and the final Sentinel-2 scar. Front timed at 3:16 p.m. at ECCC CZWN, about 15 km west;",
+            "it may have reached the fire up to about 9 minutes later (times in brackets), still well before 4:00. Maps show the 3:16 case. No ground observations. Grey: final scar.",
             "Statements: DND briefings, Oct. 18 and Oct. 22, 2026. Data and code: github.com/primerogueinc/cfb-wainwright-fire-archive. Graphic: Kevin Duska Jr. (Prime Rogue Inc.), CC BY-NC 4.0."], fh=140)
 im.convert("RGB").save(OUT, quality=92); print(OUT)
