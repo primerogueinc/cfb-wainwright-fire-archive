@@ -1,0 +1,57 @@
+{
+ "S2 20 m dNBR 2026-10-19": {
+  "Range 2 point": {
+   "burned": false,
+   "nearest_unburned_m": 2
+  },
+  "Road head": {
+   "burned": false,
+   "nearest_unburned_m": 2
+  },
+  "pocket_ha_within_600m": 33.0
+ },
+ "S2 10 m red darkening 2026-10-19": {
+  "Range 2 point": {
+   "burned": false,
+   "nearest_unburned_m": 2
+  },
+  "Road head": {
+   "burned": false,
+   "nearest_unburned_m": 2
+  },
+  "pocket_ha_within_600m": 101.1
+ },
+ "S2 20 m dNBR 2026-10-24": {
+  "Range 2 point": {
+   "burned": false,
+   "nearest_unburned_m": 2
+  },
+  "Road head": {
+   "burned": false,
+   "nearest_unburned_m": 2
+  },
+  "pocket_ha_within_600m": 34.5
+ },
+ "S2 10 m red darkening 2026-10-24": {
+  "Range 2 point": {
+   "burned": true,
+   "nearest_unburned_m": 13
+  },
+  "Road head": {
+   "burned": false,
+   "nearest_unburned_m": 2
+  },
+  "pocket_ha_within_600m": 41.1
+ },
+ "Landsat 30 m NBR 2026-10-24": {
+  "Range 2 point": {
+   "burned": true,
+   "nearest_unburned_m": 8
+  },
+  "Road head": {
+   "burned": false,
+   "nearest_unburned_m": 2
+  },
+  "pocket_ha_within_600m": 33.8
+ }
+}

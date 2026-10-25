@@ -35,7 +35,8 @@ df = pd.DataFrame(rows); z = pd.DataFrame(zrows)
 out = {"points_weighted_share_by_window": {}, "zone_weighted_share_by_window": {}}
 for k in PTS:
     out["points_weighted_share_by_window"][k] = {lab: round(float(df.w[(df[k] >= a) & (df[k] < b)].sum() / df.w.sum()), 3) for lab, (a, b) in WIN.items()}
-    out["points_weighted_share_by_window"][k]["median_arrival_clock"] = (lambda m: f"3:{int(m - 0):02d}" if m < 60 else f"4:{int(m - 60):02d}")(float(np.median(df[k])))
+    o = np.argsort(df[k].values); c = np.cumsum(df.w.values[o]) / df.w.sum(); m = float(df[k].values[o][np.searchsorted(c, .5)])
+    out["points_weighted_share_by_window"][k]["median_arrival_clock"] = f"3:{int(m):02d}" if m < 60 else f"4:{int(m - 60):02d}"   # weighted median
 for lab in WIN: out["zone_weighted_share_by_window"][lab] = round(float(np.average(z[z.window == lab].zone_share, weights=z[z.window == lab].w)), 3)
 json.dump(out, open(os.path.join(M, "overtaken_time.json"), "w"), indent=1); print(json.dumps(out, indent=1))
 np.savez_compressed(os.path.join(os.path.dirname(P4), "v4", "overtaken_maps.npz"), **{k.replace(":", "").replace("-", "_").replace(" ", "_"): v for k, v in maps.items()}, meta=np.array([minx, maxy, RES, H, W]))
