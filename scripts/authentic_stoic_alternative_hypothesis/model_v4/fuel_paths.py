@@ -23,8 +23,8 @@ def get(path, rs=Resampling.bilinear):
 b = lambda n: get(f"{CP}2026-10-04/L2A_tiff/2026-10-04-00_00_2026-10-04-23_59_Sentinel-2_L2A_{n}_(Raw).tiff")
 nir, red, sw2, grn = b("B8A"), b("B04"), b("B12"), b("B03")
 ndvi = (nir - red) / (nir + red); nbr = (nir - sw2) / (nir + sw2); water = (grn - nir) / (grn + nir) > 0.05
-morning = get(os.path.join(REPO, "../cfb-wainwright-landsat-8-9/analysis/2026-10-17/burned_1217_classes.tif") if False else "/home/claude/cfb-wainwright-landsat-8-9/analysis/2026-10-17/burned_1217_classes.tif", Resampling.nearest) >= 2
-SP = "/tmp/claude-0/-home-claude/11d4f8cb-573a-58d8-9723-d23e8fe40496/scratchpad/p4_v4_v4b_2x_lb3.0_0500/"
+morning = get("/home/claude/cfb-wainwright-landsat-8-9/analysis/2026-10-17/burned_1217_classes.tif", Resampling.nearest) >= 2
+SP = os.path.join(os.environ.get("P4ROOT", "/tmp/claude-0/-home-claude/11d4f8cb-573a-58d8-9723-d23e8fe40496/scratchpad/"), "p4_v4_v4b_2x_lb3.0_0500/")
 mx, my, mr, mh, mw = np.load(SP + "meta.npy"); st = np.zeros((H, W), "float32")
 reproject(np.load(SP + "start316.npy").astype("float32"), st, src_transform=from_origin(mx, my, mr, mr), src_crs="EPSG:3400", dst_transform=T, dst_crs="EPSG:3400", resampling=Resampling.nearest)
 insc = ~geometry_mask(list(scar.geometry), (H, W), T); near = ~geometry_mask(list(scar.buffer(1000).geometry), (H, W), T) & ~insc

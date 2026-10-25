@@ -21,21 +21,22 @@ from rasterio.transform import from_origin
 from pyproj import Transformer
 REPO, P4, OUT = sys.argv[1], sys.argv[2], sys.argv[3]; os.makedirs(OUT, exist_ok=True)
 MD = sys.argv[4] if len(sys.argv) > 4 else "model_v4"
+F0 = int(os.environ.get("FRONT_MIN", "16"))     # minutes after 3 p.m. when the front reaches the fire (16 or 25)
 CASES = sorted(os.path.basename(p)[len(os.path.basename(P4)):] for p in glob.glob(P4 + "*") if os.path.isdir(p))
 W_KG, EF, MEE, DUR = 0.35, 8.0, 4.5, 10.0
 wx = pd.read_csv(os.path.join(REPO, "data/authentic-stoic-stress-test/part8b_ignition/weather_hourly_model.csv"))
 wx = wx[wx.t >= 0].copy(); wx["min"] = wx.t * 60 - 900          # minutes after 15:00
 def pre_wind(tm):
     return float(np.interp(tm, wx["min"], wx.wd)), max(float(np.interp(tm, wx["min"], wx.ws)), 5.0)
-SCHED = {"S0_fixed306": [(16, 306), (999, 306)], "S1_stoic": [(16, 269), (69, 288), (80, 306), (999, 306)],
-         "S2_station_veer": [(16, 269), (50, 305), (60, 306), (999, 306)], "S3_fast_veer": [(16, 269), (30, 305), (40, 306), (999, 306)],
-         "S4_fixed315": [(16, 315), (999, 315)]}
+SCHED = {"S0_fixed306": [(F0, 306), (999, 306)], "S1_stoic": [(F0, 269), (69, 288), (80, 306), (999, 306)],
+         "S2_station_veer": [(F0, 269), (50, 305), (60, 306), (999, 306)], "S3_fast_veer": [(F0, 269), (max(30, F0 + 1), 305), (max(40, F0 + 2), 306), (999, 306)],
+         "S4_fixed315": [(F0, 315), (999, 315)]}
 def post_wind(s, tm):
     ts, ds = zip(*SCHED[s]); return float(np.interp(tm, ts, ds)), 48.0
 def sig(x, tm):
     if tm < -420:   # before 8 a.m.: stable (E)
         return 0.06 * x * (1 + 0.0001 * x) ** -0.5, 0.03 * x * (1 + 0.0003 * x) ** -1
-    if tm < 16:     # day, before front: class C
+    if tm < F0:     # day, before front: class C
         return 0.11 * x * (1 + 0.0001 * x) ** -0.5, 0.08 * x * (1 + 0.0002 * x) ** -0.5
     return 0.08 * x * (1 + 0.0001 * x) ** -0.5, 0.06 * x * (1 + 0.0015 * x) ** -0.5   # D
 tf = Transformer.from_crs(4326, 3400, always_xy=True).transform
@@ -75,13 +76,13 @@ for case in CASES:
     # cells inside the observed 12:17/2:49 outline that the model fire has not reached by 3:16: they burned some time between
     # 12:17 and 3:16 p.m., so each gets a random time in that window (seeded) rather than one shared time (which made a false pulse)
     rng = np.random.default_rng(17)
-    fill = start & ~(np.isfinite(pre_min) & (pre_min <= 16))
-    pre_min = np.where(fill, rng.uniform(-163, 16, pre_min.shape), pre_min)
+    fill = start & ~(np.isfinite(pre_min) & (pre_min <= F0))
+    pre_min = np.where(fill, rng.uniform(-163, F0, pre_min.shape), pre_min)
     yy, xx = np.mgrid[0:H, 0:Wd]; X = minx + (xx + .5) * RES; Y = maxy - (yy + .5) * RES
     m = start & np.isfinite(pre_min)
     px, py, pt = X[m], Y[m], pre_min[m]
     # before the front: every 10 min from 3:00 a.m. to 3:16 p.m.
-    for tm in np.arange(-720, 17, 10):
+    for tm in np.arange(-720, F0 + 1, 10):
         wd, ws = pre_wind(tm)
         for off in (-20, -10, 0, 10, 20):
             c = conc(px, py, pt, A, tm, wd + off, ws)
@@ -92,7 +93,7 @@ for case in CASES:
         run = os.path.basename(f)[4:-4]; s = next(k for k in SCHED if run.startswith(k + "_"))
         arr = np.load(f); post = (~start) & np.isfinite(arr)
         sx = np.concatenate([px, X[post]]); sy_ = np.concatenate([py, Y[post]]); st = np.concatenate([pt, arr[post]])
-        for tm in np.arange(16, 61, 1):
+        for tm in np.arange(F0, F0 + 46, 1):
             wd, ws = post_wind(s, tm)
             for off in (-20, 0, 20):
                 c = conc(sx, sy_, st, A, tm, wd + off, ws)

@@ -3,9 +3,10 @@ and dense smoke (<100 m) arrive at each point against when the fire arrives (fir
 Usage: python3 smoke_summary.py REPO P4_DIR_PREFIX SMOKE_DIR"""
 import sys, os, json, numpy as np, pandas as pd
 from pyproj import Transformer
-REPO, P4, SD = sys.argv[1:4]; M = os.path.join(REPO, "data/authentic-stoic-stress-test/model_v4"); OUT = os.path.join(M, "smoke"); os.makedirs(OUT, exist_ok=True)
+REPO, P4, SD = sys.argv[1:4]; M = os.path.join(REPO, "data/authentic-stoic-stress-test/model_v4")
+TAG = sys.argv[4] if len(sys.argv) > 4 else ""; SFX = f"_{TAG}" if TAG else ""; OUT = os.path.join(M, "smoke" + SFX); os.makedirs(OUT, exist_ok=True)
 d = pd.read_csv(os.path.join(SD, "smoke_receptors.csv.gz"))
-fit = pd.read_csv(os.path.join(M, "fit_post/fit_post_all.csv")); fit["w"] = np.exp((fit.jaccard - fit.jaccard.max()) / 0.05)
+fit = pd.read_csv(os.path.join(M, f"fit_post{SFX}/fit_post_all.csv")); fit["w"] = np.exp((fit.jaccard - fit.jaccard.max()) / 0.05)
 tf = Transformer.from_crs(4326, 3400, always_xy=True).transform
 PTS = {"Range 2 point": (-110.9063, 52.7728), "Road head": (-110.8996, 52.7705), "C": (-110.9160, 52.7640), "D": (-110.8995, 52.7628), "E": (-110.8990, 52.7530)}
 clock = lambda m: None if m is None or not np.isfinite(m) else f"{3 + int(m // 60)}:{int(m % 60):02d}"

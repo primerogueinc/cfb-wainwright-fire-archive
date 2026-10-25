@@ -5,9 +5,9 @@ For every post-front fire (4 cases x 30), weighted by its fit to the final scar 
 each point, and the likely ground of part 2, in three windows: 3:16-3:30, 3:30-3:45, 3:45-4:00 p.m."""
 import sys, os, glob, json, numpy as np, pandas as pd
 from pyproj import Transformer
-REPO, P4 = sys.argv[1], sys.argv[2]
+REPO, P4 = sys.argv[1], sys.argv[2]; TAG = sys.argv[3] if len(sys.argv) > 3 else ""; SFX = f"_{TAG}" if TAG else ""
 M = os.path.join(REPO, "data/authentic-stoic-stress-test/model_v4")
-fit = pd.read_csv(os.path.join(M, "fit_post/fit_post_all.csv")); fit["w"] = np.exp((fit.jaccard - fit.jaccard.max()) / 0.05)
+fit = pd.read_csv(os.path.join(M, f"fit_post{SFX}/fit_post_all.csv")); fit["w"] = np.exp((fit.jaccard - fit.jaccard.max()) / 0.05)
 tf = Transformer.from_crs(4326, 3400, always_xy=True).transform
 PTS = {"Range 2 point": (-110.9063, 52.7728), "Road head": (-110.8996, 52.7705), "C": (-110.9160, 52.7640), "D": (-110.8995, 52.7628), "E": (-110.8990, 52.7530)}
 zone = pd.read_csv(os.path.join(REPO, "data/authentic-stoic-stress-test/part2/part2_core_frequency.csv")); zone = zone[zone.n_scenarios_in_core > 0]
@@ -38,5 +38,5 @@ for k in PTS:
     o = np.argsort(df[k].values); c = np.cumsum(df.w.values[o]) / df.w.sum(); m = float(df[k].values[o][np.searchsorted(c, .5)])
     out["points_weighted_share_by_window"][k]["median_arrival_clock"] = f"3:{int(m):02d}" if m < 60 else f"4:{int(m - 60):02d}"   # weighted median
 for lab in WIN: out["zone_weighted_share_by_window"][lab] = round(float(np.average(z[z.window == lab].zone_share, weights=z[z.window == lab].w)), 3)
-json.dump(out, open(os.path.join(M, "overtaken_time.json"), "w"), indent=1); print(json.dumps(out, indent=1))
-np.savez_compressed(os.path.join(os.path.dirname(P4), "v4", "overtaken_maps.npz"), **{k.replace(":", "").replace("-", "_").replace(" ", "_"): v for k, v in maps.items()}, meta=np.array([minx, maxy, RES, H, W]))
+json.dump(out, open(os.path.join(M, f"overtaken_time{SFX}.json"), "w"), indent=1); print(json.dumps(out, indent=1))
+np.savez_compressed(os.path.join(os.path.dirname(P4), "v4", f"overtaken_maps{SFX}.npz"), **{k.replace(":", "").replace("-", "_").replace(" ", "_"): v for k, v in maps.items()}, meta=np.array([minx, maxy, RES, H, W]))

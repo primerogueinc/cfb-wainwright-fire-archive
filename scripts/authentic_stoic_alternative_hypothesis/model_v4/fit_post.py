@@ -15,6 +15,7 @@ from rasterio.warp import reproject, Resampling
 from rasterio.transform import from_origin
 from scipy import ndimage
 REPO, P4, EDGE, OUTD = sys.argv[1:5]; os.makedirs(OUTD, exist_ok=True)
+FRONT = os.environ.get("FRONT", "15:16")
 src = open(os.path.join(REPO, "scripts/authentic_stoic_alternative_hypothesis/spread.py")).read().split("# ---------------- runs")[0]
 src = src.replace('OUT = os.path.join(REPO, "data/authentic-stoic-alternative-hypothesis")', f'OUT = "{OUTD}"')
 src = src.replace("r = R * (1 - E) / (1 - E * math.cos(phi))", "r = R * (1 - EE) / (1 - EE * math.cos(phi))")
@@ -47,7 +48,7 @@ for case in sorted(os.path.basename(p)[len(os.path.basename(P4)):] for p in glob
         EE = math.sqrt(1 - 1 / lb ** 2)
         for s in ["S0_fixed306", "S1_stoic", "S2_station_veer", "S3_fast_veer", "S4_fixed315"]:
             for ros in (4.4, 8.0, 12.0):
-                A = run(schedule(s, mdt("15:16")), mdt("15:16"), ros, fuel_free, t_end=mdt("19:00"), EE=EE)
+                A = run(schedule(s, mdt(FRONT)), mdt(FRONT), ros, fuel_free, t_end=mdt("19:00"), EE=EE)
                 fin = np.sort(A[np.isfinite(A)].ravel())
                 if len(fin) < A_scar: t_stop = np.inf; burned = np.isfinite(A)
                 else: t_stop = fin[int(A_scar) - 1]; burned = A <= t_stop

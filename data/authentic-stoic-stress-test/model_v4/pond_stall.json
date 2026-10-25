@@ -1,0 +1,40 @@
+{
+ "measured_advance_along_axis_m": 1081,
+ "by_bearing_deg": {
+  "30": {
+   "first_barrier_m": 1260,
+   "minutes_at_standard_2p5kmh": 30,
+   "minutes_at_measured_0p43": 176
+  },
+  "35": {
+   "first_barrier_m": 1350,
+   "minutes_at_standard_2p5kmh": 32,
+   "minutes_at_measured_0p43": 188
+  },
+  "40": {
+   "first_barrier_m": null,
+   "minutes_at_standard_2p5kmh": null,
+   "minutes_at_measured_0p43": null
+  },
+  "45": {
+   "first_barrier_m": null,
+   "minutes_at_standard_2p5kmh": null,
+   "minutes_at_measured_0p43": null
+  },
+  "50": {
+   "first_barrier_m": null,
+   "minutes_at_standard_2p5kmh": null,
+   "minutes_at_measured_0p43": null
+  },
+  "55": {
+   "first_barrier_m": null,
+   "minutes_at_standard_2p5kmh": null,
+   "minutes_at_measured_0p43": null
+  },
+  "60": {
+   "first_barrier_m": null,
+   "minutes_at_standard_2p5kmh": null,
+   "minutes_at_measured_0p43": null
+  }
+ }
+}
