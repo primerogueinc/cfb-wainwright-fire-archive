@@ -60,8 +60,9 @@ def job(a):
     return [dict(kind=kind, key=key, ros_multiplier=mult, lb_multiplier=lbm, t0=float(t0), ignition_mdt=hm(t0), **fit(run(0, 0, t0, starts=st))) for t0 in times]
 print(len(starts), "starts;", len(jobs), "jobs", flush=True)
 with Pool(NP) as p: res = [r for rr in p.imap_unordered(job, jobs, chunksize=2) for r in rr]
-df = pd.DataFrame(res); df.to_csv(os.path.join(OUTD, "fit_shape_all.csv.gz"), index=False)
-best = df.sort_values("misfit_m").groupby(["kind", "key", "ros_multiplier", "lb_multiplier"]).head(1).sort_values("misfit_m")
+df = pd.DataFrame(res).sort_values(["kind", "key", "ros_multiplier", "lb_multiplier", "t0"]).reset_index(drop=True)  # fixed order (Pool returns in any order)
+df.to_csv(os.path.join(OUTD, "fit_shape_all.csv.gz"), index=False)
+best = df.sort_values(["misfit_m", "kind", "key", "ros_multiplier", "lb_multiplier", "t0"], kind="mergesort").groupby(["kind", "key", "ros_multiplier", "lb_multiplier"]).head(1).sort_values("misfit_m")
 best.to_csv(os.path.join(OUTD, "fit_shape_best.csv"), index=False)
 print(best.head(30).to_string())
 print(df.groupby("lb_multiplier").misfit_m.min())

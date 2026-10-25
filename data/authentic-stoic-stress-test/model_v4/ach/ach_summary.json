@@ -1,0 +1,95 @@
+{
+ "slow_fire": {
+  "question": "Why did the fire spread at about a sixth of the standard rate between 12:17 and 2:49 p.m.?",
+  "ranking_least_contradicted_first": [
+   "H2b",
+   "H1b",
+   "H4",
+   "H1",
+   "H2",
+   "H3",
+   "H0"
+  ],
+  "scores": {
+   "H0": {
+    "hypothesis": "Not really slow: a measurement artefact",
+    "weighted_inconsistency": -3.4,
+    "items_against": 3,
+    "net_score": -2.7
+   },
+   "H1": {
+    "hypothesis": "Direct suppression held it",
+    "weighted_inconsistency": -2.1,
+    "items_against": 2,
+    "net_score": 0.3
+   },
+   "H1b": {
+    "hypothesis": "Indirect containment: guards or roads at the boundary of permanent danger area 2",
+    "weighted_inconsistency": -0.7,
+    "items_against": 1,
+    "net_score": 2.4
+   },
+   "H2": {
+    "hypothesis": "Patchy ground at 10 m scale or larger (bare ground, old burns, gaps)",
+    "weighted_inconsistency": -3.0,
+    "items_against": 2,
+    "net_score": -0.6
+   },
+   "H2b": {
+    "hypothesis": "Fine-scale fuel reduction below 10 m (grazing, trampling, cratering, short grass)",
+    "weighted_inconsistency": 0.0,
+    "items_against": 0,
+    "net_score": 3.8
+   },
+   "H3": {
+    "hypothesis": "Grass not fully cured (still partly green)",
+    "weighted_inconsistency": -3.1,
+    "items_against": 3,
+    "net_score": -0.7
+   },
+   "H4": {
+    "hypothesis": "Damper fine fuel and lighter wind at grass height than the station implies",
+    "weighted_inconsistency": -1.7,
+    "items_against": 2,
+    "net_score": 1.4
+   }
+  },
+  "non_diagnostic_items": []
+ },
+ "timeline_location": {
+  "question": "Where was the pairs range, and when was it overtaken?",
+  "ranking_least_contradicted_first": [
+   "L1",
+   "L2",
+   "L3",
+   "L4"
+  ],
+  "scores": {
+   "L1": {
+    "hypothesis": "Range 2 / road head area, overtaken about 3:20-3:35 ('just before 4:00' approximate)",
+    "weighted_inconsistency": -1.1,
+    "items_against": 2,
+    "net_score": 3.5
+   },
+   "L2": {
+    "hypothesis": "Further south-east, 2-3 km from the fire at the shift, overtaken about 3:40-3:55 ('about a kilometre' approximate)",
+    "weighted_inconsistency": -1.1,
+    "items_against": 2,
+    "net_score": 2.1
+   },
+   "L3": {
+    "hypothesis": "On the fire's flank (strip south-east of the road head or by the western lake): both statements literal",
+    "weighted_inconsistency": -1.4,
+    "items_against": 2,
+    "net_score": 1.8
+   },
+   "L4": {
+    "hypothesis": "The front reached the fire much later than the station (about 3:45), so Range 2 burned just before 4:00",
+    "weighted_inconsistency": -4.1,
+    "items_against": 3,
+    "net_score": -0.8
+   }
+  },
+  "non_diagnostic_items": []
+ }
+}

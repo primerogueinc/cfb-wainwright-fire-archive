@@ -1,0 +1,14 @@
+evidence,source,credibility,H0,H1,H1b,H2,H2b,H3,H4,diagnostic
+Head advance re-measured 0.33-0.52 km/h allowing for VIIRS pixel size,h0_speed_check.json,high,I,C,C,C,C,C,C,True
+Fire energy (VIIRS FRP 75 MW) implies 0.2-0.4 km2/h burned vs 2.7 km2/h at the standard rate,h0_speed_check.json,medium,II,C,C,C,C,C,C,True
+No water or bare ground ahead of the head for 2.9 km (head not stalled at Peterson Pond),pond_stall.json,high,I,N,N,I,N,N,N,True
+"DND, Oct. 22: PDA 2 'restricted the firefighters ability to conduct direct suppressive operations'; monitored all day",dnd_briefing_2026-10-22_transcript.txt,medium,N,II,N,N,N,N,N,True
+"DND, Oct. 22: the fire 'initially remained within permanent danger area 2'",dnd_briefing_2026-10-22_transcript.txt,medium,N,N,C,N,C,N,N,True
+No unmapped straight edge with a guard signature (bare strip) before or after the fire at 10-20 m,fireguards_summary.json,medium,N,I,I,N,N,N,N,True
+"Morning path: 0% bare, 0% old burn, 0% patchy 100 m blocks (surroundings 5 / 8 / 20%)",fuel_paths.json,high,N,N,N,II,N,N,N,True
+Morning path not greener than afternoon path (NDVI 0.42 vs 0.44),fuel_paths.json,high,N,N,N,N,N,I,N,True
+Curing alone would have to be about 57% to close the gap; mid-October prairie grass is normally 90-100%,curing_check.json,medium,N,N,N,N,N,II,N,True
+"CWFIS station Oct. 17: FFMC 91.8, FWI 30.8 (Extreme); afternoon humidity 16-23%",curing_check.json; data/nrcan_cwfis,high,N,N,N,N,N,N,I,True
+"Closing the gap by moisture/wind alone needs e.g. FFMC -6 with wind at 60%, or FFMC -10 at full wind",moisture_wind.csv,medium,N,N,N,N,N,N,I,True
+After the front the same kind of grass burned at or near the standard rate (4.4-12 km/h; GOES power x16),ensemble_summary.json; h0_speed_check.json,medium,C,C,C,N,C,I,C,True
+Lower burn severity where it burned before the shift (median dNBR 0.40-0.42 vs 0.47),model_v3/severity_oct24,medium,N,N,N,C,C,C,C,True
