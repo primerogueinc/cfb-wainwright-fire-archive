@@ -22,3 +22,7 @@ All from working model v4 (`data/authentic-stoic-stress-test/model_v4/ABOUT.md`)
 | cfb-wainwright-v4-thumbnail.jpg | 1280×720 | Video thumbnail |
 
 Working title "Monitored for hours, beyond control in minutes". Background: Sentinel-2 true colour, Oct. 24, 2026. Rebuild with another title: `python3 scripts/maps/g33_v4_hero.py "LINE 1|LINE 2"`.
+
+## DND's clock (`cfb-wainwright-dnd-clock.jpg`, g34_dnd_clock.py)
+
+DND's Oct. 22 wording ("Just before 4:00 local time, uncommonly high winds took a pre-existing range fire towards the pairs range and it overtook their position") against ECCC CZWN (peak gust 82 km/h at 3:16 p.m.; 10.4 °C drop between the 3 and 4 p.m. readings), GOES-18 fire power (76 MW at the 3:10 scan, 1,215 MW at the 3:30 scan) and model v4 arrival medians. The first two rows need no model. GOES times are scan start times (10-minute scans).
