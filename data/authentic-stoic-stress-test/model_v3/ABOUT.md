@@ -50,3 +50,7 @@ Landsat measured the nearest flames at 12:17 p.m. 0.86 km from a gas line; the m
 Landsat's 12:17 outline depends on a burn-ratio threshold under thin cloud. Fire shape is weakly constrained. The post-front model assumes continuous grass, no suppression, and the wind schedules of part 1. Range 11's position and firing direction are not official.
 
 Landsat data courtesy of the U.S. Geological Survey. Fire detections: NASA FIRMS. Weather: ECCC. Contains modified Copernicus Sentinel data [2026].
+
+## Burn severity check (Oct. 24)
+
+See `severity_oct24/ABOUT.md`: the fire burned harder after the 3:16 p.m. wind shift (median dNBR 0.47 vs 0.40-0.42 before), as the model predicts; the Range 2-road head area burned typically for the afternoon run and sits at its northeast edge.
