@@ -3,7 +3,7 @@ Usage: python3 smoke.py REPO P4_DIR_PREFIX OUT_DIR [MODEL_DIR, default model_v4]
 
 Sources: every 40 m cell of the modelled fire, emitting for 10 minutes from the time the fire reaches it
 (pre-front: v4 arrival grids, hours since midnight; post-front: the 30 post-front fires per case, minutes after 3 p.m.;
-cells inside the observed 12:17/2:49 outline but outside the v3 fire are given 2:49 p.m.).
+cells inside the observed 12:17/2:49 outline but outside the model fire are given random times between 12:17 and 3:16 p.m.).
 Emission: fuel consumed 0.35 kg/m2 (FBP O-1b grass) x 8 g PM2.5/kg (grassland; Akagi et al. 2011, Andreae 2019).
 Transport: Gaussian plume, ground-level source with ground reflection (the "low" case of part 5; wind-driven grass fire,
 Byram convection number < 1 for most hours, computed below), Briggs rural dispersion: class E before 8 a.m.,
@@ -72,7 +72,11 @@ for case in CASES:
         reproject(r.read(1), pre, src_transform=r.transform, src_crs=r.crs, src_nodata=np.nan, dst_transform=T, dst_crs="EPSG:3400", dst_nodata=np.nan, resampling=Resampling.nearest)
     start = np.load(os.path.join(W4, "start316.npy"))
     pre_min = pre * 60 - 900
-    pre_min = np.where(start & ~(pre_min <= 16), np.where(np.isfinite(pre_min) & (pre_min <= 16), pre_min, -11.0), pre_min)  # outline cells -> 2:49
+    # cells inside the observed 12:17/2:49 outline that the model fire has not reached by 3:16: they burned some time between
+    # 12:17 and 3:16 p.m., so each gets a random time in that window (seeded) rather than one shared time (which made a false pulse)
+    rng = np.random.default_rng(17)
+    fill = start & ~(np.isfinite(pre_min) & (pre_min <= 16))
+    pre_min = np.where(fill, rng.uniform(-163, 16, pre_min.shape), pre_min)
     yy, xx = np.mgrid[0:H, 0:Wd]; X = minx + (xx + .5) * RES; Y = maxy - (yy + .5) * RES
     m = start & np.isfinite(pre_min)
     px, py, pt = X[m], Y[m], pre_min[m]
@@ -84,7 +88,7 @@ for case in CASES:
             for (k, _, _, w, kind), ci in zip(REC, c):
                 rows.append(dict(case=case, phase="pre", run="pre", time_min=int(tm), off=off, rec=k, kind=kind, w=w, pm=ci))
     # after the front: 30 fires, every minute 3:16-4:00 p.m.
-    for f in sorted(glob.glob(os.path.join(W4, "arr_*.npy"))):
+    for f in ([] if os.environ.get("SMOKE_PRE_ONLY") else sorted(glob.glob(os.path.join(W4, "arr_*.npy")))):
         run = os.path.basename(f)[4:-4]; s = next(k for k in SCHED if run.startswith(k + "_"))
         arr = np.load(f); post = (~start) & np.isfinite(arr)
         sx = np.concatenate([px, X[post]]); sy_ = np.concatenate([py, Y[post]]); st = np.concatenate([pt, arr[post]])
@@ -96,7 +100,7 @@ for case in CASES:
                     rows.append(dict(case=case, phase="post", run=run, time_min=int(tm), off=off, rec=k, kind=kind, w=w, pm=ci))
     print("done", case, len(rows), flush=True)
 df = pd.DataFrame(rows); df["vis_m"] = vis(df.pm.values)
-df.to_csv(os.path.join(OUT, "smoke_receptors.csv.gz"), index=False)
+df.to_csv(os.path.join(OUT, "smoke_receptors_pre.csv.gz" if os.environ.get("SMOKE_PRE_ONLY") else "smoke_receptors.csv.gz"), index=False)
 # Byram convection number by hour (is the plume wind-driven or towering?)
 nc = []
 for _, r in wx.iterrows():
