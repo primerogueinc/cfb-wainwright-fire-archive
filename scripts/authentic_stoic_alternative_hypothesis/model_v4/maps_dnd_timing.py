@@ -10,7 +10,7 @@ g = np.load(os.path.join(SV, "truthful_reading.npz")); P, D = g["P"], g["D"]; mi
 ext = [minx, minx + W * R, maxy - H * R, maxy]
 scar = gpd.read_file(os.path.join(REPO, "data/copernicus/burn_scar.geojson")).to_crs(3400)
 tf = Transformer.from_crs(4326, 3400, always_xy=True).transform
-PTS = {"Range 2": (-110.9063, 52.7728), "Road head": (-110.8996, 52.7705), "Range 11": (-110.9577, 52.7678), "D": (-110.8995, 52.7628), "E": (-110.8990, 52.7530)}
+PTS = {"Range 2": (-110.9063, 52.7728), "Road head": (-110.8996, 52.7705), "Range 11": (-110.9577, 52.7678), "Track, 2 km S of road head": (-110.8990, 52.7530)}
 BG, FG = "#1c140f", "#eee6d6"
 fig, axs = plt.subplots(1, 2, figsize=(16, 8.4), facecolor=BG)
 for ax, data, title in ((axs[0], P, "Where the fire was between 3:45 and 4:00 p.m."),
@@ -18,7 +18,7 @@ for ax, data, title in ((axs[0], P, "Where the fire was between 3:45 and 4:00 p.
     ax.set_facecolor(BG); scar.boundary.plot(ax=ax, color="#888", lw=0.8)
     im = ax.imshow(np.where(data > 0.02, data, np.nan), extent=ext, cmap="YlOrRd", vmin=0, vmax=0.6, zorder=2)
     for k, (lo, la) in PTS.items():
-        x, y = tf(lo, la); ax.plot(x, y, "o", ms=7, mfc="white", mec="k", zorder=3); ax.annotate(k, (x, y), {"Range 2": (-62, 8), "Road head": (8, 6), "D": (8, -4), "E": (8, -4), "Range 11": (-28, 10)}[k], textcoords="offset points", color=FG, fontsize=11, weight="bold", zorder=3)
+        x, y = tf(lo, la); ax.plot(x, y, "o", ms=7, mfc="white", mec="k", zorder=3); ax.annotate(k, (x, y), {"Range 2": (-62, 8), "Road head": (8, 6), "D": (8, -4), "Track, 2 km S of road head": (8, -4), "Range 11": (-28, 10)}[k], textcoords="offset points", color=FG, fontsize=11, weight="bold", zorder=3)
     b = scar.total_bounds; ax.set_xlim(b[0] - 2500, b[2] + 500); ax.set_ylim(b[1] - 500, b[3] + 800); ax.set_xticks([]); ax.set_yticks([]); ax.set_xlabel(""); ax.set_ylabel("")
     for s in ax.spines.values(): s.set_visible(False)
     ax.set_title(title, color=FG, fontsize=14, loc="left")

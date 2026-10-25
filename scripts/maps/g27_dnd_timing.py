@@ -4,14 +4,15 @@ import sys, os, io
 sys.path.insert(0, "scripts/maps")
 from pr import *
 import numpy as np, geopandas as gpd, matplotlib; matplotlib.use("Agg"); import matplotlib.pyplot as plt
+import matplotlib.patheffects as pe
 from pyproj import Transformer
 OUT = sys.argv[1]
 g = np.load(REPO + "data/authentic-stoic-stress-test/model_v4/maps/truthful_reading.npz"); P, D = g["P"], g["D"]
 minx, maxy, R, H, W = g["meta"]; H, W = int(H), int(W); ext = [minx, minx + W * R, maxy - H * R, maxy]
 scar = gpd.read_file(REPO + "data/copernicus/burn_scar.geojson").to_crs(3400)
 tf = Transformer.from_crs(4326, 3400, always_xy=True).transform
-PTS = {"Range 2": (-110.9063, 52.7728), "Road head": (-110.8996, 52.7705), "Range 11": (-110.9577, 52.7678), "E": (-110.8990, 52.7530)}
-OFF = {"Range 2": (-64, 8), "Road head": (8, 6), "E": (9, -5), "Range 11": (-30, 10)}
+PTS = {"Range 2": (-110.9063, 52.7728), "Road head": (-110.8996, 52.7705), "Range 11": (-110.9577, 52.7678), "Track, 2 km S of road head": (-110.8990, 52.7530)}
+OFF = {"Range 2": (-64, 8), "Road head": (8, 6), "Track, 2 km S of road head": (-130, -20), "Range 11": (-30, 10)}
 hx = lambda c: "#%02x%02x%02x" % c
 def panel(data):
     fig, ax = plt.subplots(figsize=(7.0, 6.2), facecolor=hx(BG)); ax.set_facecolor(hx(BG))
@@ -19,7 +20,7 @@ def panel(data):
     ax.imshow(np.where(data > 0.02, data, np.nan), extent=ext, cmap="YlOrRd", vmin=0, vmax=0.6, zorder=2)
     for k, (lo, la) in PTS.items():
         x, y = tf(lo, la); ax.plot(x, y, "o", ms=8, mfc="white", mec="k", zorder=3)
-        ax.annotate(k, (x, y), OFF[k], textcoords="offset points", color=hx(CREAM), fontsize=12, weight="bold", zorder=3)
+        ax.annotate(k, (x, y), OFF[k], textcoords="offset points", color=hx(CREAM), fontsize=12, weight="bold", zorder=4, path_effects=[pe.withStroke(linewidth=3.5, foreground=hx(INK))])
     b = scar.total_bounds; ax.set_xlim(b[0] - 2300, b[2] + 400); ax.set_ylim(b[1] - 400, b[3] + 600)
     ax.plot([b[2] - 1400, b[2] - 400], [b[1] - 250] * 2, color=hx(CREAM), lw=3); ax.text(b[2] - 1400, b[1] - 150, "1 km", color=hx(CREAM), fontsize=11)
     ax.set_axis_off(); fig.subplots_adjust(0, 0, 1, 1)
