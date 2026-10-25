@@ -96,7 +96,7 @@ for case in CASES:
                     rows.append(dict(case=case, phase="post", run=run, time_min=int(tm), off=off, rec=k, kind=kind, w=w, pm=ci))
     print("done", case, len(rows), flush=True)
 df = pd.DataFrame(rows); df["vis_m"] = vis(df.pm.values)
-df.to_parquet(os.path.join(OUT, "smoke_receptors.parquet"), index=False)
+df.to_csv(os.path.join(OUT, "smoke_receptors.csv.gz"), index=False)
 # Byram convection number by hour (is the plume wind-driven or towering?)
 nc = []
 for _, r in wx.iterrows():

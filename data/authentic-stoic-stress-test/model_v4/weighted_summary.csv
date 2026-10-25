@@ -1,0 +1,9 @@
+case,point,arrival_median_unweighted,escape_gust_unweighted,escape_plus3_unweighted,escape_plus7_unweighted,arrival_median_weighted,escape_gust_weighted,escape_plus3_weighted,escape_plus7_weighted
+v4a_2x_lb3.0_0400,A,5.4,80,43,10,5.4,75,46,8
+v4a_2x_lb3.0_0400,B,10.1,100,83,53,10.2,100,79,52
+v4b_2x_lb3.0_0500,A,5.4,80,43,10,5.4,75,46,8
+v4b_2x_lb3.0_0500,B,10.1,100,83,53,10.2,100,79,52
+v4c_1.5x_lb1.5_0600,A,5.2,80,40,10,5.1,74,42,8
+v4c_1.5x_lb1.5_0600,B,9.9,100,80,50,9.6,100,74,47
+v4d_3x_lb3.0_0630,A,5.4,80,43,10,5.4,75,47,8
+v4d_3x_lb3.0_0630,B,10.1,100,83,53,10.2,100,79,52
