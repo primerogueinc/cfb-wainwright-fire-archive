@@ -1,4 +1,4 @@
-"""Two maps for the 'just before 4:00' question (Oct. 23 briefing) against working model v4.
+"""Two maps for the 'just before 4:00' question (Oct. 22 briefing) against working model v4.
 Usage: python3 maps_dnd_timing.py REPO SCRATCH_V4_DIR
 Left: share of the 120 post-front fires (weighted by fit to the final scar) that reach each 40 m cell between 3:45 and 4:00 p.m.
 Right: the same, only for ground 600-1,400 m from the fire's edge at 3:16 p.m. ('about a kilometre away when the wind shifted',
@@ -24,7 +24,7 @@ for ax, data, title in ((axs[0], P, "Where the fire was between 3:45 and 4:00 p.
     ax.set_title(title, color=FG, fontsize=14, loc="left")
     ax.plot([b[2] - 1500, b[2] - 500], [b[1] - 300] * 2, color=FG, lw=3); ax.text(b[2] - 1500, b[1] - 200, "1 km", color=FG, fontsize=10)
 cb = fig.colorbar(im, ax=axs, shrink=0.6, pad=0.01); cb.set_label("Share of modelled fires (weighted by fit to the scar)", color=FG); cb.ax.tick_params(colors=FG)
-fig.text(0.02, 0.95, "DND: overtaken \"just before 4:00\" (Oct. 23); fire \"about a kilometre away\" when the wind shifted (Oct. 18)", color=FG, fontsize=16, weight="bold")
+fig.text(0.02, 0.95, "DND: overtaken \"just before 4:00\" (Oct. 22); fire \"about a kilometre away\" when the wind shifted (Oct. 18)", color=FG, fontsize=16, weight="bold")
 fig.text(0.02, 0.03, "Working model v4: 4 pre-front cases x 30 post-front fires, weighted by overlap with the final Sentinel-2 scar. Grey: mapped final scar. "
          "Range 2 median arrival 3:21, road head 3:26 (0% and 4% of fires in 3:45-4:00).", color="#a99b84", fontsize=9.5)
 out = os.path.join(REPO, "data/authentic-stoic-stress-test/model_v4/maps"); os.makedirs(out, exist_ok=True)

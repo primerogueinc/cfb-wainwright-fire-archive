@@ -1,4 +1,4 @@
-"""Working model v4: where was the fire 'just before 4:00'? (Oct. 23 briefing: "Just before 4:00 local time, uncommonly high
+"""Working model v4: where was the fire 'just before 4:00'? (Oct. 22 briefing: "Just before 4:00 local time, uncommonly high
 winds took a pre-existing range fire towards the pairs range and it overtook their position.")
 Usage: python3 overtaken_time.py REPO P4_DIR_PREFIX
 For every post-front fire (4 cases x 30), weighted by its fit to the final scar (weighted.py), the share of fires reaching

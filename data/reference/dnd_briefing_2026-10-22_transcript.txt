@@ -1,0 +1,1377 @@
+# DND/CAF briefing, Oct. 22, 2026: CFB Wainwright fire (auto-generated transcript)
+# Source video: https://www.youtube.com/watch?v=Ud4AzunMG14 ("CFB Wainwright fire: Military officials provide update as 27 injured remain 'in serious condition'")
+# Transcript: tactiq.io free YouTube transcript, received Oct. 25, 2026; unedited (machine transcription errors kept, e.g. 'Wayright' = Wainwright, 'Paris range' = pairs range, 'BA2/PDA2/TVA2' = permanent danger area 2).
+# Speakers: Gen. Jennie Carignan (CDS), Maj.-Gen. Wade Rutland (Commander 3rd Canadian Division), BGen Vanessa Hanrahan (CF Provost Marshal), Dr. Zia Saleh (interim CEO, Acute Care Alberta) — names as rendered in the transcript may be garbled.
+
+00:00:00.480 the chief of defense staff Jerry Kenny.
+00:00:02.159 Everybody
+00:00:03.200 >> good afternoon and uh thank you for
+00:00:05.839 joining us today.
+00:00:08.080 Last weekend strateg tragedy in wayight
+00:00:11.599 has had a devastating impacts for our
+00:00:14.400 members and their families and they are
+00:00:16.880 being felt across our military
+00:00:18.960 community.
+00:00:20.800 Before Major General Rutland and the
+00:00:23.039 team provide an update on the status of
+00:00:25.439 our injured members, the response to
+00:00:28.000 this incident and in the and the
+00:00:30.400 investigation. I want to say a few words
+00:00:33.040 about the loss we are facing and the
+00:00:35.760 people who are hurting.
+00:00:38.320 I am heartbroken by the loss of our
+00:00:40.800 members. Sergeant Morgan Wong, Private
+00:00:44.719 Sha Frell, Private Aiden Golding,
+00:00:48.960 Private Hayden Lickark.
+00:01:02.000 Foreign
+00:01:12.159 speech. Foreign speech. Foreign speech.
+00:01:22.000 for
+00:01:32.479 the camera.
+00:01:46.720 Alex
+00:01:51.119 General
+00:02:16.319 to the first responders, medical teams
+00:02:19.040 from acute care Alberta. Alberta and
+00:02:21.440 Alberta Health Services, chaplain,
+00:02:24.959 civilian colleagues, and everyone
+00:02:27.200 providing assistance.
+00:02:29.440 Thank you for the care and compassion
+00:02:32.000 you are showing our members and their
+00:02:33.760 families.
+00:02:35.680 There are difficult questions about what
+00:02:38.560 happened. I am acutely aware of our
+00:02:41.920 responsibility to establish the facts,
+00:02:45.360 share the findings, and act on what we
+00:02:48.480 learn. And we take this responsibility
+00:02:51.120 very seriously. I remain firmly
+00:02:54.080 committed to making this happen with
+00:02:56.480 transparency.
+00:02:58.161 [snorts] As chief of defense staff, I am
+00:03:00.160 responsible for ensuring we
+00:03:02.092 [clears throat] follow through both in
+00:03:04.480 getting those answers and in caring for
+00:03:07.120 everyone affected long after the
+00:03:09.840 immediate response.
+00:03:12.000 The outpouring of support from Canadians
+00:03:14.640 is a solemn reminder to our members and
+00:03:17.440 their families that they are not facing
+00:03:19.840 this tragedy alone. We are deeply
+00:03:22.879 grateful for their kindness and
+00:03:25.280 compassion. And now I will turn it over
+00:03:28.000 to Major General Rothman.
+00:03:34.080 Sorry.
+00:03:46.159 Good afternoon. Bonjour. Thank you,
+00:03:49.360 General Kerya. Major General Wade
+00:03:52.480 Rutland, commander of the First Canadian
+00:03:54.080 Division. 5 days ago on the afternoon of
+00:03:57.760 18th October, we lost four soldiers
+00:04:00.640 during training at Canadian Forces Base
+00:04:03.519 Way. Their families are living with a
+00:04:06.560 loss no one should have to bear.
+00:04:09.439 We have many of our soldiers recovering
+00:04:11.280 from very serious injuries and their
+00:04:13.680 families are at their bedsides.
+00:04:16.720 On Sunday I told you what we do in those
+00:04:19.759 first few hours. Today want to tell you
+00:04:22.880 what we have since confirmed, how our
+00:04:25.040 people are doing and what we are doing
+00:04:27.199 to support them.
+00:04:29.680 Actually want to start by correcting the
+00:04:31.120 record on two things I told you Sunday.
+00:04:33.759 First, I said the in injured soldiers
+00:04:35.840 were conducting a section attack range.
+00:04:38.720 This was incorrect. They were setting up
+00:04:41.199 for a pairs range. This is where two
+00:04:44.240 soldiers attack a target, taking turns
+00:04:47.199 covering and firing for one another. In
+00:04:49.919 our training sequence, soldiers
+00:04:51.199 requalify on their weapon individually,
+00:04:54.000 then conduct a pairs range, and then
+00:04:56.080 move on to the next progression, which
+00:04:57.520 is a section attack range. A section is
+00:05:00.560 8 to 10 soldiers led normally by a
+00:05:02.960 sergeant.
+00:05:04.880 Second, when asked how long the
+00:05:06.880 investigation would take, I said at
+00:05:08.400 least a month. This underestimated the
+00:05:11.199 scope of the upcoming board of inquiry,
+00:05:14.160 which will take as long as it takes to
+00:05:16.320 examine all facets of this situation.
+00:05:19.600 Getting the facts right matters, but I
+00:05:22.160 thought it was important to start with
+00:05:23.440 this.
+00:05:25.840 The afternoon of 17 October, Ca Company,
+00:05:28.960 third battalion, Princess Patricia's
+00:05:31.600 Canadian Light Infantry alongside with
+00:05:33.600 attached Army Reserve and medical team
+00:05:36.479 soldiers were on a pair's range with
+00:05:39.520 many also on other ranges in the CFB
+00:05:42.639 Waywright training area.
+00:05:45.039 Just before 4:00 local time, uncommonly
+00:05:48.320 high winds took a pre-existing range
+00:05:50.320 fire towards the Paris range and it
+00:05:53.199 overtook their position.
+00:05:55.520 The fire crossed the base fire paired
+00:05:57.759 and burned beyond the training base.
+00:06:00.720 The base fire platoon of eight
+00:06:02.160 firefighters on shift responded. A
+00:06:04.960 second platoon was soon after brought in
+00:06:07.360 to reinforce the wayright fire hall.
+00:06:11.039 They were joined by fire crews from the
+00:06:12.800 town and municipal district of Wayright
+00:06:15.759 and the fire was contained.
+00:06:19.039 On the accident scene, our soldiers and
+00:06:21.759 medics began treating casualties
+00:06:23.680 immediately.
+00:06:25.600 They were cared for first in Wayright,
+00:06:28.479 then flown to hospital across Alberta by
+00:06:30.639 STARS, Alberta Health Services
+00:06:32.720 paramedics, and Royal Canadian Air Force
+00:06:35.520 helicopters.
+00:06:45.360 39 soldiers were injured as of today. 27
+00:06:48.720 remain in hospital at separate
+00:06:51.280 facilities. We are heartened that 12
+00:06:53.840 soldiers are no longer hospitalized,
+00:06:55.840 although they will still continue to
+00:06:57.199 receive follow-up care.
+00:06:59.840 The soldiers remaining in hospital are
+00:07:01.680 in serious condition.
+00:07:04.080 Multiple investigations are occurring
+00:07:06.319 concurrently.
+00:07:08.080 Can force military police are leading
+00:07:09.919 the police in investigation. They are
+00:07:12.479 working closely with the office of chief
+00:07:15.360 medical examiner and the Canadian armed
+00:07:17.280 forces fire marshal.
+00:07:20.080 In parallel, a board of inquiry has been
+00:07:21.919 placed under the authority of the
+00:07:23.599 commander of the Canyon Army, putting
+00:07:25.759 this higher than the divisional chain of
+00:07:27.680 command be led by a general flag officer
+00:07:31.440 to ensure its independence.
+00:07:34.080 This board will examine the broader
+00:07:35.840 circumstances surrounding the incident,
+00:07:38.880 identify lessons learned and make
+00:07:40.800 recommendations to prevent similar
+00:07:42.400 incidents in the future.
+00:07:44.960 My colleague, the Canadian Armed Forces
+00:07:46.720 Provo Marshall, will speak to the
+00:07:48.319 investigative process.
+00:07:50.400 What I will tell you is we will not shy
+00:07:52.080 away from answers,
+00:07:54.639 whatever hard truths they may reveal.
+00:07:56.800 Our business is serious and our will to
+00:07:59.520 confront hard realities and take
+00:08:01.680 accountability must be steadfast.
+00:08:05.039 On Sunday, I said that a grassfire in
+00:08:08.240 the training area was known, but not
+00:08:10.720 originally assessed as a threat.
+00:08:11.910 [cough and clears throat]
+00:08:14.160 Canadians and families are rightly
+00:08:15.599 asking how that assessment was reached,
+00:08:17.919 what information it was based on, and
+00:08:20.160 whether different decisions should have
+00:08:21.520 been made. Those are amongst the central
+00:08:24.560 questions the investigation must answer.
+00:08:28.479 There is a great deal of analysis that
+00:08:30.240 investigations investigators are
+00:08:32.159 undertaking
+00:08:33.679 including what facts were used by
+00:08:35.440 decision makers to assess the risk, what
+00:08:37.760 information was available and if range
+00:08:40.399 and training policies were appropriate.
+00:08:43.599 As there are active investigations
+00:08:45.360 ongoing, any further speculation by
+00:08:47.839 myself or others outside of
+00:08:49.920 investigative teams would be unhelpful
+00:08:52.880 and inappropriate.
+00:08:55.040 Many of the people who can help paint
+00:08:56.480 the picture are our own soldiers, some
+00:08:59.040 still in hospital, and their accounts
+00:09:00.640 must be their own.
+00:09:20.720 32 designated assistants have been
+00:09:22.720 identified to support the families of
+00:09:24.080 the fallen and are most seriously
+00:09:26.240 injured. These are full-time unifor
+00:09:29.040 members that [cough and clears throat]
+00:09:29.920 assist with travel, accommodation,
+00:09:32.480 administrative steps for families of our
+00:09:34.959 fallen and injured.
+00:09:38.320 Liaison personnel are at the sides of
+00:09:39.920 our soldiers and families at the
+00:09:41.519 hospitals.
+00:09:43.120 Chaplain and mental health resources
+00:09:44.959 have been bolstered and military family
+00:09:47.920 resource centers in our transition
+00:09:49.600 centers are supporting families.
+00:09:51.471 [clears throat]
+00:09:53.440 Right now, the focus is on treatment and
+00:09:55.440 family support. In the month ahead,
+00:09:58.160 months ahead, it will be rehabilitation
+00:10:00.320 and recovery. In the long term, it will
+00:10:02.959 be return to duty where possible and
+00:10:05.360 real support for transition where it is
+00:10:07.440 not.
+00:10:26.240 senior leadership is unequivocally
+00:10:28.240 committed to supporting soldiers and
+00:10:29.680 families. Our minister, chief of defense
+00:10:32.800 staff, commander of the army, been on
+00:10:35.760 site in wayight visiting hospitals,
+00:10:38.560 speaking with soldiers, families.
+00:10:42.000 I want you to know what those soldiers
+00:10:43.360 did in the minutes after the fire swept
+00:10:46.880 through. Soldiers and leaders, whether
+00:10:48.399 injured or uninjured, did not hesitate.
+00:10:51.519 They loaded injured teammates onto
+00:10:53.440 vehicles and got them to medical care as
+00:10:56.079 quickly as anyone could have.
+00:10:59.120 Alberta's paramedics, stars, and our Air
+00:11:02.320 Force helicopters carried them the rest
+00:11:03.920 of the way.
+00:11:05.920 I've heard unbelievable stories of valor
+00:11:08.240 and heroism over the past few days from
+00:11:11.360 those that were on the ground. You will
+00:11:13.839 hear those stories when the time is
+00:11:15.760 right.
+00:11:18.880 When we ask injured soldiers in the
+00:11:20.320 hospital what they need, many give the
+00:11:22.240 same answer. They want to see their
+00:11:24.160 teammates.
+00:11:26.240 Families ask how soon their soldiers,
+00:11:29.200 comrades in arms can visit.
+00:11:33.200 In difficult times like this, it's
+00:11:34.560 important to note that Canadian Armed
+00:11:35.680 Forces is more than institution. It's a
+00:11:38.160 team and a family.
+00:11:41.519 We have not carried this alone.
+00:11:44.160 the people of Waywright, firefighters,
+00:11:46.880 paramedics, police who came when called
+00:11:49.680 to Acute Care Alberta, Alberta Health
+00:11:52.640 Services, to the doctors and nurses
+00:11:54.959 caring for our soldiers to the province.
+00:11:57.920 Thank you. Support grows by the hour.
+00:12:01.040 The Canadian Armed Forces has provided a
+00:12:03.839 CC-130 Hercules aircraft to transport
+00:12:06.959 nearly 30 specialized civilian medical
+00:12:09.440 personnel with expertise in burn care
+00:12:11.680 from Toronto.
+00:12:13.760 eternally grateful for this kind of
+00:12:15.120 support.
+00:12:20.158 [snorts]
+00:12:27.040 in Montre
+00:12:29.200 to Canadians, veterans, and families who
+00:12:32.320 have reached out from across the
+00:12:33.519 country. Your messages of support have
+00:12:36.240 reached our soldiers and their families.
+00:12:39.279 I personally have had messages of
+00:12:41.279 support and concern from across the
+00:12:43.040 world, from people I have met for a day
+00:12:45.680 that had my contact information.
+00:12:48.320 Our business partners have asked, &quot;How
+00:12:49.760 can I help?&quot; And tangibly delivered.
+00:12:52.959 Canadians have reminded us that service
+00:12:54.800 and sacrifice still matters deeply to
+00:12:57.279 this country.
+00:12:59.440 Many of you have asked, &quot;How can you
+00:13:01.120 help?&quot; We have two official Canadian
+00:13:03.519 Armed Forces charities. Support our
+00:13:06.160 troops and Soldier On.
+00:13:08.720 These are two immediate ways to support
+00:13:10.399 our soldiers and families.
+00:13:13.600 As Canadians [clears throat] look for
+00:13:14.639 ways to support those affected by the
+00:13:16.320 events, just encourage everyone to
+00:13:19.440 exercise caution when making donations
+00:13:21.519 online. So you go to the right place.
+00:13:25.600 Canadians have rightly asked how and why
+00:13:28.160 soldiers train the way they do about our
+00:13:30.560 policies and how decisions are made.
+00:13:34.000 As members of the Kan armed forces, we
+00:13:36.399 are called upon to do things that are
+00:13:37.839 difficult, demanding, and usually
+00:13:40.240 dangerous. That is the nature of
+00:13:42.560 military service.
+00:13:45.279 We train in challenging conditions
+00:13:47.040 because we must be prepared to operate
+00:13:48.639 in those conditions when our country
+00:13:50.720 calls upon us.
+00:13:52.560 These soldiers were training for that
+00:13:54.000 responsibility, including an imminent
+00:13:56.320 deployment alongside our NATO allies to
+00:13:59.040 deter Russia from invading Latafia.
+00:14:02.240 We train realistically because in
+00:14:03.839 combat, lives depend on it. In both
+00:14:06.720 training and operations, we assess risk.
+00:14:09.279 We take precautions to mitigate risk. We
+00:14:12.160 do our utmost to prepare our people.
+00:14:15.600 Accept the responsibility.
+00:14:23.440 responsibility.
+00:14:30.399 The fact that military service carries
+00:14:32.079 risks does not lessen the responsibility
+00:14:34.160 to understand exactly what happened to
+00:14:36.800 learn every lesson possible.
+00:14:39.279 After every operation, we conduct an
+00:14:41.279 afteraction review.
+00:14:43.519 The same is true of training events and
+00:14:45.440 following events like an accident. The
+00:14:48.240 same will hold true now.
+00:14:50.959 Alongside investigations already
+00:14:52.560 underway,
+00:14:54.399 we'll be reviewing things like our
+00:14:55.839 ammunition and our range and training
+00:14:58.240 safety standards.
+00:15:00.320 Concurrent and in ongoing investigations
+00:15:03.040 will examine every aspect of what
+00:15:04.639 happened.
+00:15:06.800 Where they find our procedures, our
+00:15:08.480 training, our equipment, or our policies
+00:15:11.040 must change, they will change.
+00:15:16.240 Many Canadians have asked how to honor
+00:15:18.000 the four soldiers we lost and are
+00:15:19.920 injured that have a long road ahead.
+00:15:22.480 Right now, our focus is on families.
+00:15:25.199 Some who will lay their loved ones to
+00:15:27.839 rest in the way each family chooses and
+00:15:30.720 some who stand at hospital beds with
+00:15:34.000 designated assistance close by.
+00:15:37.440 There has been discussion about public
+00:15:39.360 memorial service. Out of respect for
+00:15:42.000 grieving families, we ask for your
+00:15:43.760 patience on this.
+00:15:45.839 More details will become available when
+00:15:47.680 the time is right.
+00:15:50.079 I can't tell you today we have all the
+00:15:51.680 answers because we do not. What
+00:15:54.345 [clears throat] I can tell you is we
+00:15:55.440 will look for them honestly. We will
+00:15:57.360 account for our decisions and we will
+00:15:59.519 act upon what we learn.
+00:16:01.920 This is for every soldier who was on the
+00:16:03.600 range, for every family, and for every
+00:16:06.800 Canadian.
+00:16:08.880 Thank you. I'll turn to the Canadian
+00:16:10.639 Forces Provo Marshall, Brigider General
+00:16:13.120 Vanessa Enran.
+00:16:16.320 >> Thank you.
+00:16:20.160 >> Good afternoon. On behalf of the
+00:16:22.000 military police community, I would like
+00:16:24.000 to offer my deepest condolences to the
+00:16:26.000 families, friends, and colleagues of the
+00:16:28.240 Canadian Armed Forces members who lost
+00:16:30.160 their lives at the fire at CPU way. Our
+00:16:33.279 thoughts are also with those who are
+00:16:35.040 injured and with their loved ones as
+00:16:36.720 they navigate this [clears throat]
+00:16:37.680 extremely difficult time. We recognize
+00:16:40.720 there are important questions about what
+00:16:42.639 happened and a desire for answers.
+00:16:45.199 Canadians deserve [clears throat]
+00:16:46.320 answers grounded in evidence established
+00:16:49.199 through a thorough investigation
+00:16:50.560 investigative process. My role today is
+00:16:53.120 to explain the policing mandate, clarify
+00:16:55.440 the distinct purposes for the ongoing
+00:16:57.120 investigation, and share the facts that
+00:16:59.120 have been confirmed to date. We are
+00:17:01.839 while we are committed to providing
+00:17:03.279 information as it becomes available, the
+00:17:05.439 investigations must be allowed to follow
+00:17:07.520 the evidence wherever it may lead. As a
+00:17:10.799 result, the information that can be
+00:17:12.720 confirmed at this stage is limited.
+00:17:16.720 The military police are conducting their
+00:17:18.400 investigation independently from the
+00:17:20.240 Canadian Armed Forces chain of command.
+00:17:22.400 Their role is to establish the facts and
+00:17:24.799 determine whether any criminal or
+00:17:26.959 service offense may have occurred. The
+00:17:29.840 involvement of the military police
+00:17:31.600 should not be interpreted as an
+00:17:33.600 indication that an offense has taken
+00:17:36.000 place. As with any investigation,
+00:17:39.200 investigate investigators are
+00:17:40.960 responsible for examining all relevant
+00:17:44.080 information and evidence to develop a
+00:17:46.720 complete and accurate understanding of
+00:17:49.520 the circumstances before reaching any
+00:17:52.400 conclusions.
+00:17:54.320 The military [clears throat] police
+00:17:55.360 investigation is also distinct from the
+00:17:57.679 board of inquiry.
+00:17:59.520 I will coordinate with the Canadian Army
+00:18:01.679 as appropriate to support this Board of
+00:18:03.679 Inquiry, but safeguarding the
+00:18:05.840 independence and integrity of the
+00:18:07.440 military police investigation. At the
+00:18:09.280 same time,
+00:18:11.039 approximately 30 military police
+00:18:12.799 personnel, including members of the
+00:18:14.559 Canadian Forces National Investigation
+00:18:16.240 Service, are conducting investigative
+00:18:18.080 activities in Wayright and other
+00:18:20.240 locations across Alberta. Their work
+00:18:23.120 involves a careful and methological ex
+00:18:25.600 examination of all available information
+00:18:27.760 and evidence. Depending on the
+00:18:29.679 circumstances, the investigator's
+00:18:31.360 activities may include examining the
+00:18:33.919 scene, gathering witness accounts,
+00:18:36.480 reviewing relevant records, and drawing
+00:18:38.400 on specialist expertise. These examples
+00:18:41.520 are intended to illustrate the types of
+00:18:44.000 activities that may support each of such
+00:18:46.240 an investigation and should not be
+00:18:48.160 interpreted as confirming specific steps
+00:18:50.240 taken in this case. The military police
+00:18:53.440 are coordinating closely with external
+00:18:55.840 partners as well as organizations within
+00:18:58.320 the Department of National Defense and
+00:19:00.400 the Canadian Armed Forces. This
+00:19:02.799 collaboration is particularly important
+00:19:05.280 when multiple organizations including
+00:19:07.919 police, fire specialists, and provincial
+00:19:10.400 authorities have responsibilities
+00:19:12.400 related to the same event. Each
+00:19:15.120 contributes unique expertise and
+00:19:17.039 perspectives that help build a
+00:19:18.559 comprehensive understanding of the
+00:19:20.480 circumstances. While organizations may
+00:19:23.039 share relevant information and
+00:19:24.559 coordinate their efforts, each remains
+00:19:26.720 responsible for carrying out its own
+00:19:29.039 mandate and reaching its own findings.
+00:19:33.760 At this stage, a number of facts have
+00:19:36.080 been confirmed and can be shared. Based
+00:19:39.120 on the available information, we can
+00:19:41.440 confirm that on the 17th of October,
+00:19:43.840 2026, a fire was reported on the
+00:19:46.799 automatic grenade launcher range, which
+00:19:49.039 initiated during routine military
+00:19:51.039 training activities. The fire initially
+00:19:54.160 remained within the permanent danger
+00:19:56.080 area 2 of the range which restricted the
+00:19:59.039 firefighters ability to conduct direct
+00:20:01.520 suppressive operations. It was therefore
+00:20:04.480 monitored throughout the day by both
+00:20:06.480 range control and the base fireh hall. A
+00:20:09.760 subsequent change in wind direction and
+00:20:12.080 velocity significantly increased the
+00:20:14.480 fire's intensity and rate of speed
+00:20:16.799 across the area which led unfortunately
+00:20:19.600 to the tragic events we're talking about
+00:20:21.440 today.
+00:20:22.799 Furthermore, at this time, there is no
+00:20:25.200 indication that natural gas
+00:20:26.799 infrastructure was involved nor impacted
+00:20:30.000 as a result of this incident.
+00:20:33.679 We do remain committed to providing
+00:20:35.440 updates as information is confirmed and
+00:20:37.600 can be released appropriately. The
+00:20:39.840 investigation remains ongoing and is
+00:20:42.240 important that information be carefully
+00:20:44.480 assessed and validated before it can be
+00:20:46.480 shared. Those affected deserve
+00:20:48.960 compassion, a thorough examination of
+00:20:51.120 the facts and the answers that are
+00:20:53.120 accurate, evidence-based, and able to
+00:20:55.520 withstand scrutiny. On behalf of the
+00:20:58.000 Canadian Forces Military Police, I would
+00:21:00.159 like to thank the Royal Canadian Mount
+00:21:01.600 of Police, the Office of the Chief Mill
+00:21:03.600 Examiner, Emergency Responders, and the
+00:21:06.159 organizations and individuals who
+00:21:08.080 responded to the request for assistance
+00:21:09.760 when asked. Their professionalism and
+00:21:12.400 collaboration have been instrumental in
+00:21:14.799 supporting the ongoing military police
+00:21:16.480 investigation. I commit to continuing to
+00:21:19.360 keep Canadians informed while protecting
+00:21:21.840 the integrity of the investigation and
+00:21:23.840 the privacy of those affected. Thank
+00:21:26.080 you.
+00:21:29.919 >> I will now introduce Dr. Zia Zelki, CEO
+00:21:33.840 of Acute Care Alberta.
+00:21:44.880 Thank you. My name is Dr. Silki and I
+00:21:48.320 serve as the interim CEO of Acute Care
+00:21:50.320 Alberta. Acute Care Alberta, ACA, is a
+00:21:53.679 provincial health agency responsible for
+00:21:56.000 overseeing and coordinating care
+00:21:58.799 services across the province, ensuring
+00:22:01.200 patients receive timely access to
+00:22:03.039 highquality care.
+00:22:05.840 As of today, 27 patients from CFBWrite
+00:22:10.080 are currently being cared for in Alberta
+00:22:12.559 hospitals. 13 are critical.
+00:22:16.559 Of course, out of respect for patients
+00:22:18.559 and their families, we cannot share
+00:22:20.159 details of individual medical
+00:22:21.919 situations.
+00:22:23.420 [clears throat]
+00:22:25.360 We are absolutely devastated by the loss
+00:22:28.240 of life and extent of injury and trauma
+00:22:30.720 suffered by many others. Our thoughts
+00:22:34.480 remain with everyone impacted by this
+00:22:36.400 strategy, including the families and
+00:22:39.360 Canadian Armed Forces colleagues of the
+00:22:41.600 victims.
+00:22:44.559 These patients are receiving the best
+00:22:46.960 possible care, including expertise from
+00:22:49.679 two CA two of Canada's four highly
+00:22:52.159 specialized burn centers located right
+00:22:55.039 here in Alberta, in Edmonton, and in
+00:22:57.520 Calgary.
+00:22:59.360 I would like to take a moment to thank
+00:23:01.600 our paramedics, physicians, nurses,
+00:23:04.799 allied professionals, and support
+00:23:06.799 personnel that have been working around
+00:23:08.640 the clock to provide care for these
+00:23:10.480 patients.
+00:23:12.320 From the moment the first call came in,
+00:23:14.880 the response from our frontline
+00:23:16.559 healthcare workers has been nothing
+00:23:18.400 short of heroic.
+00:23:20.960 staff from across this the system
+00:23:23.440 stepped in and stepped up when time was
+00:23:27.280 of the essence saving many lives in the
+00:23:29.760 process.
+00:23:32.720 Behind the front lines, there were
+00:23:34.400 countless others who also sprung into
+00:23:37.039 action, establishing command centers to
+00:23:39.520 manage transport logistics for so many
+00:23:41.679 critically injured patients and
+00:23:43.760 coordinating across the province to
+00:23:45.520 ensure everyone had the supplies and
+00:23:48.159 resources needed to meet the demand.
+00:23:53.360 We also owe a tremendous step of
+00:23:55.360 gratitude to our medical community
+00:23:57.520 colleagues in Ontario who have sent 19
+00:24:01.440 specialized burn nurses and five o
+00:24:04.080 nurses to supplement our own staffing
+00:24:07.120 contingent today and provide much
+00:24:09.200 neededed capacity to the teams working
+00:24:11.120 around the clock to care for these
+00:24:12.720 patients.
+00:24:14.559 In addition, Give Life Alberta, our
+00:24:17.679 provincial healthcare health corporation
+00:24:20.000 responsible for organ and tissue
+00:24:21.760 donation and transplantation,
+00:24:24.159 has been hard at work sourcing skin
+00:24:26.159 grafts and warm supplies across the
+00:24:28.960 country.
+00:24:30.960 These supplies are much needed and we
+00:24:33.360 are grateful to everyone who has
+00:24:34.880 answered Alberta's call for assistance.
+00:24:38.880 In short, the system responded exactly
+00:24:42.159 as it was designed to do with provincial
+00:24:45.520 health agencies and corporations
+00:24:47.200 including emergency health services
+00:24:48.960 Alberta and rapid a provincial physician
+00:24:52.000 consultation and patient transfer
+00:24:53.840 coordination services as well as acute
+00:24:55.840 care providers like Alberta Health
+00:24:58.400 Services and Covenant Health all working
+00:25:01.039 seamlessly together to make sure
+00:25:03.039 everyone was and continues to be well
+00:25:06.080 supported.
+00:25:09.279 We have seen extraordinary coordination
+00:25:11.600 and collaboration across all of his
+00:25:13.679 organizations which has allowed us to
+00:25:15.760 mobilize expertise and resources quickly
+00:25:18.559 to ensure these and all patients are
+00:25:20.480 receiving the best care possible
+00:25:24.400 and I could not be more proud of these
+00:25:26.720 efforts and the remarkable professionals
+00:25:28.799 behind them. It has been a profound
+00:25:31.520 privilege to serve alongside my
+00:25:33.360 extraordinary colleagues during one of
+00:25:35.760 the most challenging moments our system
+00:25:37.840 has ever faced.
+00:25:41.520 I would also like to reassure Albertans
+00:25:45.279 that our hospitals across the province
+00:25:47.360 have capacity and stand ready to care
+00:25:50.320 for anyone who needs it. The province's
+00:25:53.919 health care system was able to absorb
+00:25:56.720 this extraordinary additional demand by
+00:25:59.120 coordinating capacity across facilities
+00:26:02.320 across the province and ensuring the
+00:26:04.640 right resources were in place where it
+00:26:06.880 was needed most and we continue with
+00:26:10.320 these efforts.
+00:26:12.400 I ask the public to please continue to
+00:26:14.720 seek care that is needed for your
+00:26:16.720 symptoms. If you are unsure about which
+00:26:19.679 care option is right for you, please
+00:26:22.159 call 811
+00:26:24.159 to speak to a registered nurse about
+00:26:26.400 your situation.
+00:26:30.320 Finally, we understand there's
+00:26:32.559 tremendous amount of media interest in
+00:26:34.799 the conditions of patients from CFB
+00:26:37.360 right. But I must ask reporters to
+00:26:40.559 please respect the space and privacy of
+00:26:42.799 these families and please refrain from
+00:26:45.120 attending our hospital site seeking
+00:26:47.200 interviews.
+00:26:48.960 We want to ensure that the hospital
+00:26:50.799 remains a safe place for them and for
+00:26:53.360 their families to be together to
+00:26:54.960 communicate openly with their care
+00:26:56.960 providers.
+00:26:58.799 Thank you so much for your understanding
+00:27:00.320 and your cooperation.
+00:27:03.760 >> Thank you, doctor. We will now move into
+00:27:05.760 the question period. Uh reporters,
+00:27:07.600 please line up behind the mic. When
+00:27:08.880 stating your question, please introduce
+00:27:10.320 yourself, uh your outlet, and then uh
+00:27:12.320 direct your questions.
+00:27:14.159 >> Uh Georgie Smite, CBC, this is just
+00:27:17.120 anyone who can answer this question.
+00:27:18.799 What do we know about the cause of the
+00:27:20.480 fire still? And how will the
+00:27:23.919 investigation go about answering that
+00:27:25.679 question?
+00:27:30.159 So, what I can say to date as as I as I
+00:27:32.640 spoke to in my opening comments, what we
+00:27:34.480 can really say that we now know that the
+00:27:36.159 fire initiated on the automatic grenade
+00:27:39.120 launcher range. Um, and that fire
+00:27:41.600 initiated as a result of routine
+00:27:43.440 military training that was happening on
+00:27:44.960 that range at the time. And in terms of
+00:27:47.919 what will happen in in defining all of
+00:27:49.600 the other answers, the investigative
+00:27:51.440 team is still [laughter] out there
+00:27:52.720 determining all of the decision-making
+00:27:54.799 that happened once the fire started up
+00:27:56.799 to and and including when they responded
+00:27:59.440 to the to the incident uh involving the
+00:28:02.159 tra tragedies of today. So, it would be
+00:28:04.559 inappropriate for me to speculate now
+00:28:06.399 about all of those decisions and any of
+00:28:08.320 the other aspects of the investigation.
+00:28:10.399 Once the investigative team has time to
+00:28:12.159 review all the evidence and do what it
+00:28:13.520 is they need to do, I'll be in a better
+00:28:15.279 position to provide accurate information
+00:28:17.520 as to the outcome of that investigation.
+00:28:19.520 >> And to be clear, you're saying that it
+00:28:20.960 originated on but not from necessarily.
+00:28:25.120 >> So I can commit that it originated as a
+00:28:28.000 result of the ongoing training that was
+00:28:30.240 taking place on that range.
+00:28:31.919 >> Okay. Thank you. And my
+00:28:34.080 >> and my followup is um you know we've
+00:28:36.880 heard a lot about the winds that may
+00:28:38.960 have spread the fire beyond.
+00:28:40.240 >> Can we move to the next outlet, please?
+00:28:41.919 >> That was just a clarifying question. I
+00:28:44.159 just want to make sure we got it right.
+00:28:45.520 Um the severe winds that we that we saw
+00:28:49.200 um previously we've ruled out gas
+00:28:51.360 infrastructure. So this is a
+00:28:53.200 confirmation that we're looking at
+00:28:54.399 munitions at this point and this is part
+00:28:56.159 of the investigation.
+00:28:57.919 So, what I can tell you is the
+00:28:59.279 investigation has confirmed that the
+00:29:01.039 fire originated as a result of a
+00:29:03.440 training event that was taking place on
+00:29:05.039 the anti-grenade launcher range. Every
+00:29:07.760 other aspect of what happened from the
+00:29:09.919 time that fire originated on that range
+00:29:11.679 to what we have today dealing with the
+00:29:13.279 tragic accident on a different range in
+00:29:15.360 that area is still under investigation
+00:29:17.360 by the military police.
+00:29:19.840 >> It's Jeremy Thompson with CTV News. Um,
+00:29:23.039 we understand that there was some damage
+00:29:24.720 in this incident to the base itself. Are
+00:29:27.200 you able to tell us a bit more about
+00:29:29.360 what that damage was to and the extent
+00:29:31.600 of it?
+00:29:34.159 >> I'm not following any extensive damage
+00:29:36.159 to the base. Certainly, there's a lot of
+00:29:38.399 foliage that has been been damaged, but
+00:29:41.120 uh no major infrastructure damage to the
+00:29:43.760 base that I'm following.
+00:29:45.600 >> And uh follow just for for Dr. Zoki
+00:29:48.799 here, you know, can you talk a bit more
+00:29:51.840 about the help that's that's that's on
+00:29:53.360 its way from from elsewhere? you know,
+00:29:55.039 how specialized are these are these
+00:29:56.960 folks who are coming in to help and what
+00:29:59.520 role are they playing with this uh
+00:30:01.840 recovery?
+00:30:02.799 >> For sure. So, as of today, we have had
+00:30:05.200 [clears throat] the military help
+00:30:06.640 transport 19 um ICU nurses that
+00:30:10.320 specialize in burn units and five O
+00:30:12.960 nurses that specialize in the same. It
+00:30:15.840 is very important for us. We are coping
+00:30:17.919 right now to be able to provide the care
+00:30:19.840 that is needed, but this is a marathon
+00:30:22.720 and not a sprint. So any kind of help
+00:30:24.640 and relief is so much appreciated from
+00:30:26.799 Toronto um where they're coming. The the
+00:30:30.480 care for these burnt victims is very um
+00:30:35.679 labor intensive. Addressing change can
+00:30:38.000 take up to two hours taking up one nurse
+00:30:42.080 to do that um if not multiple healthcare
+00:30:44.880 providers. So it is very uh it's very
+00:30:48.080 much appreciated to get this help from
+00:30:50.080 our colleagues uh from Ontario.
+00:30:55.120 Sarah Ryan, Global News. Can you talk
+00:30:58.000 about the status of the 12 soldiers that
+00:31:00.399 are no longer requiring hospitalization?
+00:31:02.640 What was different about their injuries?
+00:31:04.799 Was it more smoke inhilation, less
+00:31:06.480 burns?
+00:31:08.000 Can you paint that picture for us?
+00:31:10.720 >> Unfortunately, I cannot comment on
+00:31:12.880 specific um medical uh information uh
+00:31:16.559 relevant to an individual. In general,
+00:31:18.480 if they're not admitted, that means that
+00:31:20.480 they did not sustain sufficient injuries
+00:31:22.960 requiring monitoring and inpatient
+00:31:25.200 treatment.
+00:31:27.760 You say that no natural gas
+00:31:29.279 infrastructure was damaged. Can you
+00:31:31.440 confirm whether there was an explosion
+00:31:34.080 and if there was an explosion, what
+00:31:36.399 exploded?
+00:31:39.039 >> So, what I can confirm at this point is
+00:31:40.960 that there was a fire that
+00:31:42.796 [cough and clears throat] is origin that
+00:31:43.840 it originated on the range. There is no
+00:31:46.399 indication that there was an explosion
+00:31:49.120 uh of any kind that resulted in the fire
+00:31:51.919 that we're talking about today.
+00:31:54.640 >> No explosion. Sorry, a clarifying
+00:31:56.000 question. No explosion that resulted in
+00:31:57.840 the fire that that caused the fire, but
+00:32:00.399 was there an explosion as a result of
+00:32:02.640 the fire
+00:32:04.480 >> from a gas related infrastructure?
+00:32:06.720 >> No. In general,
+00:32:08.159 >> not to the best of our knowledge,
+00:32:09.519 there's no indication there was an
+00:32:10.640 explosion resulting from the fire.
+00:32:12.320 >> Thank you.
+00:32:14.960 Mocha Vizer with Media Vizer. General
+00:32:17.600 Karan, the board of inquiry may take up
+00:32:19.840 to a year or more and soldiers are still
+00:32:22.240 training on ranges across the country,
+00:32:24.559 will any interim safety measures or
+00:32:26.320 recommendations be put in place before
+00:32:27.919 the final report?
+00:32:30.399 So uh as the board of inquiry does its
+00:32:33.360 work uh and along as well with the
+00:32:36.159 military police investigation, should
+00:32:38.240 there be findings or interim findings
+00:32:42.320 that uh would uh indicate that we need
+00:32:45.679 to take specific measures then of course
+00:32:48.000 we would implement immediately. and uh
+00:32:50.880 General Rutland, have any of the people
+00:32:53.120 responsible for range safety that day
+00:32:55.039 been temporarily moved from those duties
+00:32:57.519 while the investigation is underway?
+00:33:00.240 >> Yeah. Uh like my colleague from the
+00:33:02.240 Provo Marshall discussed, this is under
+00:33:04.480 very serious and long-term investigation
+00:33:06.559 and so I really can't comment on that at
+00:33:08.320 this time.
+00:33:09.360 >> Thank you.
+00:33:11.679 >> Charles Ly, Radio Canada. Um you guys
+00:33:14.159 mentioned um the investigation is going
+00:33:16.559 to take longer than a month I believe if
+00:33:19.840 I remember correctly here. Um how much
+00:33:21.919 longer can we expect cans get like a
+00:33:25.440 question an answer on this? Can I get an
+00:33:27.679 answer in French and in English please?
+00:33:30.480 >> Yeah just [clears throat] to clarify
+00:33:32.159 there's multiple types of investigation.
+00:33:33.600 I said the board of inquiry would likely
+00:33:36.240 take more than a month. I really can't
+00:33:38.240 comment on the other ones.
+00:33:42.008 >> [clears throat]
+00:33:51.039 >> And my followup um so we're ruling out
+00:33:55.200 for now natural gas in this equation and
+00:34:00.480 there was no explosion. Can I get
+00:34:02.399 further comment on that in French and
+00:34:04.399 English as well?
+00:34:06.159 Yes, I can say that there was no natural
+00:34:08.960 gas involvement in the fire that we are
+00:34:10.800 currently investigating in the military
+00:34:12.239 police investigation.
+00:34:33.679 a jubilee party
+00:34:37.280 say
+00:34:41.359 Ashley Stewart, Global News. Uh, I'm
+00:34:43.839 just wondering if the DND is
+00:34:45.520 coordinating with other government
+00:34:46.879 agencies on the response Thank you. on
+00:34:50.159 the response to requests for information
+00:34:52.239 from the public and from the media. And
+00:34:54.399 if so, how?
+00:34:57.599 So maybe I can answer this one. Broadly
+00:35:00.240 speaking, uh usually questions come in
+00:35:02.720 at our media relations offices and then
+00:35:05.520 questions can be directed uh via this
+00:35:08.400 this way and we have public affair
+00:35:10.000 officers here that can uh redirect the
+00:35:12.560 questions to the appropriate subject
+00:35:14.160 matter expert.
+00:35:16.400 Our sorry maybe I need to clarify that a
+00:35:18.640 little bit. Separate government
+00:35:20.720 agencies. So say environment climate
+00:35:23.440 change Canada for example.
+00:35:26.320 >> This I cannot I cannot answer.
+00:35:29.119 >> So there's you're you're not sure if
+00:35:31.040 there's coordination between if they're
+00:35:33.440 being asked not to comment on certain
+00:35:34.880 things while the investigation is
+00:35:36.079 ongoing.
+00:35:37.839 We have no control over what other
+00:35:39.920 government agencies will uh will answer.
+00:35:44.079 uh so like if if questions come uh like
+00:35:47.599 we don't have control over their you
+00:35:49.760 know their uh their communications.
+00:35:53.119 >> Okay. Thank you.
+00:35:53.839 >> If I can add sorry uh just very quickly
+00:35:56.000 I'll say um whenever we are involved
+00:35:57.920 with a police investigation and we have
+00:35:59.280 outside agencies we always coordinate
+00:36:01.359 what information they can release if
+00:36:02.880 they're supporting the police uh the
+00:36:04.800 police investigation prior to them
+00:36:06.240 releasing it.
+00:36:07.599 >> Thank you.
+00:36:10.640 >> Hi Lindy beginning with Evson Journal.
+00:36:12.560 Uh so just to clarify, there's uh three
+00:36:15.520 different investigations happening. Two
+00:36:18.480 military bodies, one civilian body, just
+00:36:22.480 to clarify.
+00:36:24.800 So what I can speak to is there's a
+00:36:26.320 military police investigation taking
+00:36:28.000 place at this time. And there's also the
+00:36:30.800 um the chief uh medical examiner's
+00:36:33.119 office who is responsible for looking
+00:36:35.280 into any fatalities that happen in the
+00:36:37.200 province of Alberta. And then of course
+00:36:39.200 there will be a board of inquiry
+00:36:40.560 investigation convened. um under the
+00:36:42.880 authority of the Canadian Army in the
+00:36:44.640 near future.
+00:36:45.599 >> Okay. Uh is the armed forces able to
+00:36:48.480 commit to releasing all the findings of
+00:36:50.560 these investigations um once they're
+00:36:53.119 complete?
+00:36:55.200 >> Maybe you can speak to the military
+00:36:56.720 police and I'll speak to the board of
+00:36:58.079 >> inquiry. Uh so from a military police
+00:37:00.400 perspective once the investigation has
+00:37:02.400 concluded as I as I spoke to I will
+00:37:05.040 indeed ensure that the outcome of that
+00:37:06.720 investigation is provided to Canadians.
+00:37:10.160 So for the board of inquiry maybe I can
+00:37:13.119 um add a little bit more precision and
+00:37:15.119 clarity. It's an administrative
+00:37:17.599 investigation.
+00:37:19.280 Uh it is in fact to identify the facts
+00:37:23.839 uh surrounding the incidents. Uh it is
+00:37:27.440 also there to uh identify the um the
+00:37:31.760 factors uh involved into the the
+00:37:34.640 incident as well and uh and emit and
+00:37:39.599 recommendations to avoid recurrence of
+00:37:42.400 of potential systemic issues that that
+00:37:44.880 might be surfaced through the uh through
+00:37:47.280 the board of inquiry. So um normally uh
+00:37:52.800 those um those investigations are are
+00:37:56.079 done uh to illustrate uh again systemic
+00:38:00.160 issues for us to take actions on. Now, I
+00:38:03.680 am very much uh um interested in in
+00:38:07.760 ensuring that our own personnel in the
+00:38:10.880 in the Canadian Armed Forces who were uh
+00:38:13.599 involved in the incident are well
+00:38:16.960 informed of what those findings are. So,
+00:38:20.160 as well as their families. So we will
+00:38:22.400 offer uh to have uh the findings briefed
+00:38:26.800 to both our personnel and uh the
+00:38:29.760 families uh and then uh the findings
+00:38:32.720 will be made public u after the board of
+00:38:36.000 inquiries completion.
+00:38:37.839 >> Okay. Thank you.
+00:38:38.960 >> Can I get that in French?
+00:38:48.560 Administration
+00:39:16.079 length.
+00:39:28.960 recommend
+00:39:32.800 the main
+00:39:36.640 reservoir briefing.
+00:39:48.240 We will now move over to the phones.
+00:39:49.599 Operator, can you put through the first
+00:39:51.200 caller?
+00:39:53.200 >> Your first question comes from the line
+00:39:55.200 of Ashley Burke with CBC News. Please go
+00:39:57.680 ahead.
+00:40:00.320 >> Thank you to General Ker and Major
+00:40:02.400 General Brutland. During the last
+00:40:04.079 briefing, we heard that the commander on
+00:40:05.599 the ground said it went from they went
+00:40:07.599 from not seeing the fire to it suddenly
+00:40:09.359 being on top of them. Can you help us
+00:40:11.520 better understand why so many people
+00:40:13.599 were killed and injured and why they
+00:40:15.119 weren't be able to escape and if there
+00:40:17.200 was some sort of evacuation plan or not?
+00:40:20.880 So, every time uh we run uh training
+00:40:25.119 events uh we always have mitigation uh
+00:40:29.920 measures set into place. Uh now we will
+00:40:33.040 have to wait for the investigation to
+00:40:36.640 answer all of those questions. Ashley,
+00:40:42.000 >> your following question.
+00:40:42.720 >> And to the provos, to the provos
+00:40:44.800 marshall, can you help us understand why
+00:40:46.560 firefighters couldn't put out the fire?
+00:40:48.640 You said that they had to monitor it
+00:40:50.480 nearby. And did that mean that people
+00:40:52.320 had to escape also later on by foot?
+00:40:55.839 So, what I can tell you, Ashley, is that
+00:40:57.920 the information we have confirmed to
+00:40:59.440 date is that when the fire originated on
+00:41:02.000 the automatic grenade launcher range, it
+00:41:05.839 could not be put out because of the
+00:41:07.359 location of the fire at the time. And
+00:41:09.440 they monitored that throughout the day.
+00:41:11.839 That is not the range whereby the
+00:41:13.920 incident took place that resulted in the
+00:41:15.599 fatalities. It was the spread of the
+00:41:17.760 fire across the training area to the
+00:41:20.400 range that they were using that is under
+00:41:22.079 investigation at this time. Then
+00:41:24.480 operator, could you put through the next
+00:41:25.760 caller, please?
+00:41:27.440 >> Your next question comes from Alex
+00:41:29.280 Velinka with Toronto Star. Please go
+00:41:31.200 ahead.
+00:41:33.200 >> Um, thank you very much. On the question
+00:41:36.079 of the why the training was happening in
+00:41:38.800 the afternoon. My understanding is that
+00:41:40.960 the standing orders for CFB Wayright say
+00:41:43.359 that October is one of the high-risisk
+00:41:45.280 month for grass fires and therefore
+00:41:47.200 shooting drills should be going on in
+00:41:49.280 the early morning hours if the kind of
+00:41:51.119 the guidance or the advice. Can you
+00:41:52.880 clarify why this was all happening in
+00:41:54.560 the afternoon?
+00:41:56.240 >> Sure. You're probably referring to
+00:41:58.319 paragraph 342 of the way standing orders
+00:42:01.599 which say that units firing during
+00:42:03.760 high-risisk months should plan to
+00:42:05.680 conduct early morning shoots. Uh the
+00:42:08.240 fire hazard is usually low enough
+00:42:10.294 [snorts] to permit the firing of most
+00:42:12.400 ammunition natures in the early morning.
+00:42:15.040 What I'd say is that's a guideline and
+00:42:17.680 commanders on the ground have to assess
+00:42:19.839 multiple factors in order to decide
+00:42:21.760 whether or not to go ahead with
+00:42:23.440 shooting. Realizing I'm speaking in
+00:42:25.839 generalities, what's the weather on the
+00:42:28.319 day? How much rain has there been? What
+00:42:31.200 type of munitions are you using? What's
+00:42:33.839 the logistics in terms of how much light
+00:42:35.920 you have? How many trainees you have to
+00:42:37.839 put through that range? So,
+00:42:40.424 [clears throat] uh, you can certainly
+00:42:41.520 have a wide range of temperatures in
+00:42:43.599 Alberta in August and October. And what
+00:42:47.280 needs to be looked at is what was the
+00:42:49.920 factors on that day as opposed to um
+00:42:52.720 general range guidelines.
+00:42:55.599 >> You're following.
+00:42:57.520 >> Yeah, I guess. So then just just
+00:42:59.440 continuing on that in that vein then um
+00:43:02.000 are those decisions that were made on
+00:43:04.880 Saturday on the 17th to hold the
+00:43:07.599 training in in the in the PM hours um
+00:43:10.880 versus the morning will that be part of
+00:43:13.119 the investigation sort of why that call
+00:43:14.880 was made?
+00:43:16.000 >> Yes.
+00:43:18.240 >> Operator, can you put through the next
+00:43:19.599 calling please?
+00:43:21.280 >> Your next question comes from the line
+00:43:23.040 of Kevin Dusco with Prime Rogue Inc.
+00:43:25.040 Please go ahead.
+00:43:26.480 >> Hi, thank you. Um on you fire today
+00:43:29.280 started on the automatic grenade uh
+00:43:30.960 launcher range inside permanent danger
+00:43:32.960 area too and on Sunday um you had noted
+00:43:35.200 that overtook the administrative area of
+00:43:37.440 a second attack range. Um, are those two
+00:43:40.400 separate locations? And is the
+00:43:42.240 administrative area in question the road
+00:43:45.040 head that the southeast end of the track
+00:43:47.440 from range tube is not hollow
+00:43:51.280 the to the west that goes up the block
+00:43:54.560 of view.
+00:43:56.319 >> I'm sorry your communications are really
+00:43:57.920 choppy and you speak really fast. You
+00:43:59.680 need to go again.
+00:44:00.720 >> I'm really sorry. um
+00:44:03.440 uh the area
+00:44:05.599 the generality of range 2 basically near
+00:44:08.560 that road ahead that's to the east of it
+00:44:11.119 just outside BA2
+00:44:14.319 >> I'm sorry your communications are really
+00:44:15.680 choppy and I'm I can't answer your
+00:44:17.599 question uh
+00:44:21.040 >> could you try and reset
+00:44:22.800 >> could you try and reset your mic and
+00:44:24.160 we'll come back to you at the end
+00:44:26.160 >> absolutely thank you
+00:44:27.119 >> Roger operator please put through the
+00:44:28.720 next caller
+00:44:30.319 >> your next question goes from Kyle Dugan
+00:44:32.319 with the Canadian Press. Please go
+00:44:33.760 ahead.
+00:44:34.880 >> Hi, thank you for taking our questions.
+00:44:36.880 When will training at the base resume
+00:44:38.800 and how do you know that something like
+00:44:40.480 this won't happen again once the
+00:44:42.160 training restarts?
+00:44:44.800 >> Yeah, training already resumed. Um the
+00:44:48.400 battalion took some time to
+00:44:51.680 um make sure that they were ready to
+00:44:54.079 resume training. Charlie Company
+00:44:56.480 actually returned to Edmonton yesterday.
+00:44:58.560 There was some really important training
+00:45:00.480 that needed to be done to make sure that
+00:45:02.560 soldiers were fully qualified from some
+00:45:05.440 gaps in their basic training. We had
+00:45:07.119 some munitions we didn't have. So, we
+00:45:08.640 really wanted to get that done. So,
+00:45:10.240 they're fully qualified. The training is
+00:45:12.480 now complete and the entire battalion
+00:45:15.280 will be redeployed uh in the coming
+00:45:17.359 days. In terms of ensuring it does not
+00:45:20.880 happen again,
+00:45:22.800 what [clears throat] I would say is we
+00:45:23.599 have an extremely high safety culture.
+00:45:26.560 Every range has a range safety officer,
+00:45:29.359 assistant range safety officer.
+00:45:31.920 Range control monitors why the events on
+00:45:34.800 the October 17th happened is entirely
+00:45:37.760 anomalous, which we intend to get to the
+00:45:40.720 bottom of. And uh
+00:45:44.560 we definitely want to ensure this does
+00:45:46.079 not happen again. Thank you.
+00:45:48.000 >> Your following question.
+00:45:48.960 >> Thank you. Yeah. And could could you
+00:45:51.440 speak to how DND is supporting the
+00:45:54.079 families of the vict victims and in
+00:45:56.079 particular what's what's the budget for
+00:45:58.000 family members to travel back to
+00:45:59.359 Edmonton or to travel to Wayne right in
+00:46:00.880 the aftermath of the incident?
+00:46:03.440 >> Sure. [clears throat] So uh we have a
+00:46:07.520 great system in the K armed forces. It's
+00:46:09.599 run by the K armed forces transition
+00:46:11.440 group which was stood up largely to
+00:46:13.839 lessons learned from Afghanistan on
+00:46:15.359 taking care of our ill, injured and
+00:46:17.920 fallen. Every family is assigned a
+00:46:21.520 designated assistant, which is a
+00:46:23.200 military member who helps navigate our
+00:46:24.800 system. It can be complex. It's a
+00:46:28.079 rules-based system and a lot of lot of
+00:46:30.960 policies and regulations. So, they help
+00:46:32.880 navigate that. Certainly, I'll give you
+00:46:35.119 one example. Next travel benefit. No
+00:46:38.000 next token needs to travel to Edmonton
+00:46:40.560 on their own um dollar. If someone is
+00:46:44.240 paid, they will be reimbursed. For
+00:46:45.760 example, the policies are extensive. If
+00:46:48.400 you'd like more details, uh, we can get
+00:46:50.079 them to you. Certainly.
+00:46:52.560 >> Operator, can we move to the next
+00:46:53.839 caller, please?
+00:46:55.359 >> The next question comes from Luke
+00:46:57.280 Carroll with CBC North. Please go ahead.
+00:47:00.880 >> Thank you. Um, I'm wondering if you can
+00:47:02.720 say if any of the soldiers who are
+00:47:04.240 injured are from the Northwest
+00:47:05.599 Territories.
+00:47:09.119 >> I don't believe I can due to privacy
+00:47:10.560 concerns.
+00:47:14.720 >> Okay. Okay, make it a bit more broad.
+00:47:16.079 Are you able to say if any of them are
+00:47:17.359 from any of those three territories?
+00:47:20.640 >> I don't believe I can due to privacy
+00:47:22.240 concerns.
+00:47:27.599 >> Do you have a following question?
+00:47:28.640 >> That's all the question.
+00:47:29.920 >> No,
+00:47:30.880 >> operator put through the uh next caller,
+00:47:32.720 please.
+00:47:34.079 >> Next question comes from Jesse Winter
+00:47:36.000 with the Globin Mail. Please go ahead.
+00:47:39.440 >> Hi. Yes, thanks very much. Um, are you
+00:47:41.599 able to say whether CFB Wayright has a
+00:47:44.079 dedicated meteorologist or someone
+00:47:45.920 trained in wildfire behavior analysis?
+00:47:49.680 >> Yeah, I won't comment on specifically
+00:47:51.760 what's going on at CFB Wayright on that
+00:47:54.160 day or with um weather analysis. It'll
+00:47:57.440 be part of the investigation and quite
+00:47:58.720 frankly for me to say would would uh be
+00:48:00.560 inappropriate because it'll all come out
+00:48:02.000 in the investigation.
+00:48:04.240 You're unable to say whether there's a
+00:48:05.760 position at that base assigned to
+00:48:07.920 wildfire behavior analysis generally.
+00:48:11.200 >> I didn't say that.
+00:48:13.920 >> Is there someone assigned at that base
+00:48:15.760 generally to monitor wildfire to do
+00:48:17.680 wildfire behavior analysis?
+00:48:19.599 >> I'm not going to comment on what is
+00:48:21.359 available in Wayne for weather analysis.
+00:48:23.599 It'll come out in the investigation.
+00:48:25.520 >> Do you have a different question as a
+00:48:27.040 followup?
+00:48:28.960 >> Uh yes. Uh sort of a clarification. Um I
+00:48:32.319 know we've discussed that the the fire
+00:48:34.240 originated on the AGL range. There were
+00:48:37.359 um issues making it difficult to do
+00:48:39.760 initial attack there. Um and that the
+00:48:42.079 fire was continuously monitored. Can you
+00:48:44.079 confirm whether the fire was being
+00:48:45.520 visually monitored between 3 and 4 p.m.?
+00:48:50.880 >> So unfortunately I do not have those
+00:48:52.720 details to be able to confirm. What I
+00:48:54.400 can confirm is the fire was being
+00:48:56.079 monitored from the time that it
+00:48:58.079 originated on the AGL range to the time
+00:49:01.280 that the incident took place on the
+00:49:03.603 >> [clears throat]
+00:49:03.680 >> uh the range.
+00:49:06.400 >> Operator, could you put through the next
+00:49:07.839 caller, please?
+00:49:09.760 >> We do have a followup from Ashley Burke
+00:49:11.599 with CDC News. Please go ahead.
+00:49:18.400 >> And Ashley, you might be unmute.
+00:49:24.319 We're going to go with our next caller,
+00:49:26.160 Kevin Dusco with Prime Ro. Please go
+00:49:28.559 ahead. General, my apologies for the
+00:49:30.800 traffic out there. Um, you said the fire
+00:49:33.440 started on range inside TVA2 and on
+00:49:37.040 Sunday that it overtook the
+00:49:38.559 administrative area of the attack range.
+00:49:41.920 I thought to ask, are these two separate
+00:49:44.000 locations? And in reference to the
+00:49:46.559 administrative area, is that the one uh
+00:49:49.200 basically the road head of the east
+00:49:51.280 range of the track from range 2 in the
+00:49:53.680 hollow just outside PDA2 where there
+00:49:56.160 would basically be a gain in elevation
+00:49:58.960 to the west of about 10 me 10 meters
+00:50:01.280 that would have obuscated the troops
+00:50:03.359 view of any incoming fire.
+00:50:06.960 >> Yeah. What I will tell you is those are
+00:50:08.400 two separate ranges. the top topography,
+00:50:12.240 exact grid locations, and who could see
+00:50:15.040 what will come out in the investigation.
+00:50:17.760 >> And just one quick followup about me.
+00:50:19.839 Um, was T company's training
+00:50:21.760 instrumented through uh the Canadian
+00:50:23.680 Maneuver Training C Center's weapon
+00:50:24.960 effects and position tracking systems or
+00:50:26.960 through tracking? And has that data been
+00:50:30.480 preserved for the investigation if
+00:50:32.000 that's the case?
+00:50:34.000 >> Yeah, the West system was not being used
+00:50:35.920 on this exercise.
+00:50:39.040 Operator, can you put the next caller?
+00:50:41.839 >> Our next question comes from Alex
+00:50:43.520 Valingu with Thor the Star. Please go
+00:50:45.359 ahead.
+00:50:47.520 >> Hey, thank you very much for listening
+00:50:48.800 back. Um, just on the timing of from the
+00:50:52.559 time the fire on the grenade launcher
+00:50:55.359 range started to when I guess around 4
+00:50:59.040 p.m. when the wind had shifted and the
+00:51:00.800 incident happened and the fire spread in
+00:51:02.800 the tragic way that it did. Can you give
+00:51:04.800 us a sense of how long that was? Like
+00:51:06.240 when did the original fire start?
+00:51:09.359 So, what I would say is all of the
+00:51:11.040 aspects of when the original fire
+00:51:12.720 started to the time that it actually
+00:51:14.319 reached the range in question are all
+00:51:16.079 part of the ongoing investigation and it
+00:51:17.920 would be inappropriate for me to
+00:51:19.520 speculate on exact dates and times at
+00:51:21.440 this time.
+00:51:23.200 >> Okay.
+00:51:24.800 Just separately then um you you
+00:51:27.520 mentioned that there are the the police
+00:51:29.760 investigation is happening at Wayne and
+00:51:31.760 also other locations in Alberta I think
+00:51:34.000 you said. C can you tell us why why it's
+00:51:36.880 not just at Wayright? why other
+00:51:38.720 locations are involved,
+00:51:40.079 >> of course. So, part of any police
+00:51:41.680 investigation is to actually interview
+00:51:43.200 people who may have been at the scene at
+00:51:44.640 the time, as well as experts to help us
+00:51:46.240 analyze all of the evidence being
+00:51:48.079 collected. And all of those
+00:51:49.520 investigative activities are happening
+00:51:51.280 in different areas in Alberta where
+00:51:52.800 witnesses are currently located because,
+00:51:54.720 as you've heard, some of them have been
+00:51:56.160 removed from Wayright already.
+00:52:02.160 >> Perfect. Thank you. We're going to move
+00:52:03.280 back to the floor now. Uh we'll do one
+00:52:05.440 question each. Uh Georgie Smith, CBC. So
+00:52:08.480 we've heard today that the training has
+00:52:10.240 resumed.
+00:52:11.839 Is there anything about the training
+00:52:13.680 safety around it that has changed since
+00:52:15.920 this incident? And tell us how.
+00:52:19.920 >> Yep. [clears throat] So the training
+00:52:21.520 resumed was all um static ranges and
+00:52:24.240 what we call dry training without
+00:52:25.520 ammunition. Those static ranges are not
+00:52:29.280 what we'd call in the actual danger
+00:52:31.520 area. So unlikely to um occur at the
+00:52:34.400 same
+00:52:36.000 unlikely to occur like it did
+00:52:38.319 >> and so the safety measures haven't
+00:52:40.000 changed until we wait for the
+00:52:41.839 investigation findings.
+00:52:45.280 >> Uh what I would say is that we did a
+00:52:47.440 completely different type of training
+00:52:48.720 for the last two days. Um we need to
+00:52:50.800 look at our safety regulations very
+00:52:53.119 closely and as chief of defense staff as
+00:52:55.520 the investigation continues if something
+00:52:57.760 comes up immediately then it will change
+00:52:59.200 immediately.
+00:53:02.079 Sarah Rang Global News. Some of the
+00:53:03.440 victims families are saying that there
+00:53:04.880 is a shortage of blood at the UOVA
+00:53:07.040 hospital and other hospitals where um
+00:53:10.079 patients are from this incident. Can you
+00:53:12.480 confirm if that's the case and if so how
+00:53:14.319 it's being remedied?
+00:53:16.880 >> Yeah, [clears throat] thank you for the
+00:53:17.760 question. It is uh the blood supply is
+00:53:20.640 dynamic. Uh so it varies from day to
+00:53:23.280 day. All I can say is that I encourage
+00:53:25.200 every single person listening and
+00:53:26.720 watching today and the general public to
+00:53:29.200 help us by donating blood if they can.
+00:53:34.319 >> Uh we'll move back to the phones.
+00:53:36.240 Operator, put the next caller through.
+00:53:39.119 >> Your next question comes from Zoe Mason
+00:53:41.440 with Canada's National Observer. Please
+00:53:43.440 go ahead.
+00:53:45.680 >> Hi, thanks for taking my question. Just
+00:53:47.599 a quick clarifying question on something
+00:53:49.520 that's um already been touched on here,
+00:53:52.559 but you said that no no evidence that
+00:53:55.599 natural gas infrastructure was damaged.
+00:53:57.920 So, I just wanted to confirm, does that
+00:54:00.079 mean that all the infrastructure located
+00:54:01.839 on the base has already been inspected
+00:54:04.000 for damage?
+00:54:06.960 So, what I could confirm as of today
+00:54:08.960 that any of the infrastructure that was
+00:54:10.960 within the area of the range in question
+00:54:13.599 has been examined and there's no
+00:54:15.280 indication that there was any resulting
+00:54:16.880 impact to the infrastructure.
+00:54:20.000 >> Okay, perfect. Thank you. No followup.
+00:54:22.720 >> Operator, please put through the next
+00:54:24.319 caller and note we have time for two
+00:54:25.680 more questions. So, next caller your
+00:54:27.520 question, please.
+00:54:29.200 >> Our next question comes from Jesse
+00:54:31.440 Winter with the Glob and Mail. Please go
+00:54:33.200 ahead.
+00:54:35.599 Um yeah, thanks very much. Um speaking
+00:54:38.480 about the the the wind change that we
+00:54:41.200 know uh helped drive this fire, are you
+00:54:43.520 able to say uh whether or not that the
+00:54:46.319 that the that wind change was
+00:54:47.440 communicated effectively to troops on
+00:54:48.880 the ground?
+00:54:50.640 So that again is all part of the
+00:54:53.040 decision-making process that happened
+00:54:54.720 that day and that is all part of the
+00:54:56.480 ongoing military police investigation.
+00:54:58.720 And it would be preferable that we
+00:55:00.480 provide you accurate information. And to
+00:55:02.720 do that, we need to let the
+00:55:03.760 investigative team uncover all of the
+00:55:05.280 information so that we can then give you
+00:55:07.280 exactly what took place that day from
+00:55:09.119 the initial fire up until the time when
+00:55:11.119 we started evacuating victims.
+00:55:14.800 >> Operator, please put through the next
+00:55:16.400 caller.
+00:55:18.400 Your next question comes from Ashley
+00:55:20.160 Burke with CBC News. Please go ahead.
+00:55:23.680 >> Thank you. How was the fire burning
+00:55:26.240 before the wind changed and moved over
+00:55:28.400 and were the troops on the ground aware
+00:55:29.920 of it? Was it communicated to them?
+00:55:33.359 >> So again, the spec specifics of how long
+00:55:35.839 the fire was burning up until when the
+00:55:37.599 incident took place is all part of the
+00:55:39.280 ongoing investigation. What I can commit
+00:55:41.520 to you is that the evidence to date
+00:55:42.960 indicates that there was communication
+00:55:44.319 between all individuals that were in the
+00:55:46.079 training area at the time of the
+00:55:47.680 incident.
+00:55:50.240 >> And operator, we will do one more
+00:55:52.079 question. Please put through the Shiloh
+00:55:53.920 Stag for the last question.
+00:55:56.720 >> Our next question comes from the line of
+00:55:58.720 KJ Miller with TMP Shil. Please go
+00:56:02.559 ahead.
+00:56:04.799 >> Um, thank you. Um, ma'am or sir, what
+00:56:09.200 can you say or if you could say
+00:56:10.960 anything, what can you say directly to
+00:56:13.359 CAF members, families, civilian
+00:56:16.079 employees or the community around the
+00:56:17.839 bases to lessen or quell the speculation
+00:56:22.559 and gossip and the unsubstantiated
+00:56:24.640 series floating around on social media
+00:56:27.440 or online forums? What could you say to
+00:56:30.480 address that?
+00:56:33.280 Well, I think uh I think we need to um
+00:56:36.880 emphasize with with everyone that our
+00:56:39.520 priority right now is to look after all
+00:56:42.799 of our members that were affected by
+00:56:45.200 this incident and their families. We are
+00:56:48.480 focusing on that aspect while we are
+00:56:50.880 also uh working at uh understanding what
+00:56:55.200 happened that day and ensuring that uh
+00:56:58.240 the right information is provided uh to
+00:57:01.920 those involved and to the public once
+00:57:03.920 once we've we've uh we've shed light on
+00:57:06.880 on the events. um and then encourage uh
+00:57:10.799 our personnel to reemphasize that uh you
+00:57:14.240 know online or um you know along with
+00:57:18.960 their various colleagues.
+00:57:21.920 Uh thank you everyone for coming. That
+00:57:23.359 is all the time we have today. Um we
+00:57:25.920 will uh arrange for further questions or
+00:57:28.319 for questions and we're not uh able to
+00:57:30.319 be directed with the public affairs and
+00:57:32.240 we will find you the uh best
+00:57:33.599 spokespersons. Thank you very much.
+00:57:35.599 >> Thank you everyone. Thank you.
