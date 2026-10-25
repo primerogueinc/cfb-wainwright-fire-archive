@@ -4,4 +4,4 @@
 
 Result: all 87 output files agree between the two runs and with the committed outputs. 77 are byte-identical. The other 10 differ only in row order (`fit_shape_all.csv.gz`, `fit_shape_best.csv`: the morning fit runs in parallel and returns rows in any order; identical when sorted, maximum numeric difference 0) or in gzip timestamps (`escape_perm.csv.gz`, 8 files; contents identical). `fit_shape.py` now writes its rows in a fixed order.
 
-Comparison script: in the working directory (`compare_runs.py`): SHA-256 per file, then order-insensitive numeric comparison for CSV, JSON equality, raster difference.
+Comparison: SHA-256 per file, then order-insensitive numeric comparison for CSV, JSON equality, raster difference.
