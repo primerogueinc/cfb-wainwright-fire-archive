@@ -1,0 +1,102 @@
+108000
+
+== A jog
+cue                           fire within 300 m                 flames in sight                  gust front (3:16)                  
+delay                                        0     2    5    10              0     2     5    10                0     2     5     10
+strategy                                                                                                                            
+away from the fire (downwind)              37.0  10.0  3.0  0.0            60.0  37.0  30.0  3.0              60.0  57.0  33.0  10.0
+crosswind east (90°)                       43.0  10.0  3.0  0.0            73.0  43.0  30.0  3.0              73.0  63.0  40.0  10.0
+north along range road (0°)                 0.0   0.0  0.0  0.0             0.0   0.0   0.0  0.0               0.0   0.0   0.0   0.0
+optimal (best route)                       43.0  10.0  3.0  0.0            73.0  43.0  30.0  3.0              80.0  63.0  40.0  10.0
+random direction                           13.0   3.0  1.0  0.0            24.0  16.0  10.0  1.0              27.0  19.0  13.0   2.0
+south along range road (180°)              33.0   7.0  3.0  0.0            43.0  40.0  27.0  3.0              63.0  40.0  30.0   3.0
+
+== B jog
+cue                           fire within 300 m                 flames in sight                   gust front (3:16)                   
+delay                                        0     2    5    10              0     2     5     10                0      2     5     10
+strategy                                                                                                                              
+away from the fire (downwind)              37.0  17.0  7.0  0.0            77.0  60.0  40.0  17.0              80.0   77.0  60.0  33.0
+crosswind east (90°)                       43.0  20.0  7.0  0.0           100.0  73.0  47.0  17.0             100.0  100.0  73.0  40.0
+north along range road (0°)                 0.0   0.0  0.0  0.0             3.0   0.0   0.0   0.0              33.0   17.0   7.0   0.0
+optimal (best route)                       43.0  20.0  7.0  0.0           100.0  73.0  47.0  17.0             100.0  100.0  73.0  40.0
+random direction                           17.0   6.0  2.0  0.0            45.0  33.0  21.0   7.0              54.0   48.0  35.0  20.0
+south along range road (180°)              33.0  13.0  7.0  0.0            73.0  53.0  40.0  17.0              83.0   77.0  53.0  40.0
+
+== C jog
+cue                           fire within 300 m                   flames in sight                   gust front (3:16)                  
+delay                                        0     2     5     10              0     2     5     10                0     2     5     10
+strategy                                                                                                                               
+away from the fire (downwind)              20.0  10.0  10.0   3.0            57.0  43.0  33.0  27.0              60.0  57.0  43.0  27.0
+crosswind east (90°)                       37.0  13.0  10.0   0.0            67.0  57.0  47.0  30.0              77.0  60.0  53.0  30.0
+north along range road (0°)                 0.0   0.0   0.0   0.0             0.0   0.0   0.0   0.0               0.0   0.0   0.0   0.0
+optimal (best route)                       80.0  60.0  40.0  17.0            93.0  83.0  77.0  53.0             100.0  90.0  77.0  53.0
+random direction                           35.0  26.0  15.0   7.0            49.0  44.0  38.0  26.0              51.0  46.0  39.0  26.0
+south along range road (180°)              80.0  60.0  37.0  17.0            93.0  83.0  77.0  53.0             100.0  90.0  77.0  53.0
+
+== D jog
+cue                           fire within 300 m                  flames in sight                   gust front (3:16)                   
+delay                                        0     2     5    10              0     2     5     10                0      2     5     10
+strategy                                                                                                                               
+away from the fire (downwind)              23.0  17.0  13.0  0.0            47.0  37.0  23.0  17.0              60.0   60.0  53.0  53.0
+crosswind east (90°)                       47.0  23.0  13.0  0.0            80.0  70.0  57.0  40.0             100.0   97.0  83.0  67.0
+north along range road (0°)                 0.0   0.0   0.0  0.0             0.0   0.0   0.0   0.0              27.0   10.0  10.0   3.0
+optimal (best route)                       77.0  37.0  23.0  0.0            90.0  90.0  70.0  43.0             100.0  100.0  90.0  80.0
+random direction                           27.0  14.0   9.0  0.0            46.0  41.0  31.0  18.0              64.0   59.0  53.0  42.0
+south along range road (180°)              63.0  37.0  23.0  0.0            90.0  83.0  63.0  37.0             100.0   93.0  90.0  77.0
+
+== E jog
+cue                           fire within 300 m                  flames in sight                  gust front (3:16)                    
+delay                                        0     2     5    10              0     2     5    10                0      2      5     10
+strategy                                                                                                                               
+away from the fire (downwind)              70.0  53.0  13.0  3.0            57.0  23.0  10.0  0.0             100.0  100.0   97.0  83.0
+crosswind east (90°)                       23.0  10.0   7.0  0.0             7.0   7.0   0.0  0.0             100.0  100.0   87.0  83.0
+north along range road (0°)                 0.0   0.0   0.0  0.0             0.0   0.0   0.0  0.0              30.0   17.0   10.0   7.0
+optimal (best route)                       83.0  63.0  23.0  3.0            67.0  30.0  10.0  0.0             100.0  100.0  100.0  93.0
+random direction                           41.0  27.0  11.0  1.0            30.0  14.0   5.0  0.0              78.0   76.0   73.0  66.0
+south along range road (180°)              83.0  53.0  23.0  3.0            63.0  30.0  10.0  0.0             100.0  100.0  100.0  93.0
+
+== A smoke
+cue                           fire within 300 m                flames in sight                  gust front (3:16)                 
+delay                                        0    2    5    10              0     2     5    10                0     2     5    10
+strategy                                                                                                                          
+away from the fire (downwind)              13.0  7.0  3.0  0.0            23.0  23.0  10.0  3.0              23.0  23.0  13.0  7.0
+crosswind east (90°)                       13.0  7.0  3.0  0.0            37.0  30.0  10.0  3.0              37.0  37.0  10.0  7.0
+north along range road (0°)                 0.0  0.0  0.0  0.0             0.0   0.0   0.0  0.0               0.0   0.0   0.0  0.0
+optimal (best route)                       17.0  7.0  3.0  0.0            37.0  37.0  13.0  3.0              40.0  37.0  20.0  7.0
+random direction                            3.0  2.0  1.0  0.0             8.0   5.0   3.0  1.0               9.0   6.0   3.0  1.0
+south along range road (180°)               3.0  0.0  0.0  0.0            10.0   7.0   3.0  0.0              17.0  10.0   7.0  0.0
+
+== B smoke
+cue                           fire within 300 m                 flames in sight                   gust front (3:16)                  
+delay                                        0     2    5    10              0     2     5     10                0     2     5     10
+strategy                                                                                                                             
+away from the fire (downwind)              13.0  10.0  7.0  0.0            40.0  27.0  23.0  13.0              57.0  50.0  37.0  20.0
+crosswind east (90°)                       27.0  13.0  7.0  0.0            67.0  47.0  40.0  13.0              83.0  73.0  47.0  40.0
+north along range road (0°)                 0.0   0.0  0.0  0.0             0.0   0.0   0.0   0.0               0.0   0.0   0.0   0.0
+optimal (best route)                       33.0  13.0  7.0  0.0            77.0  53.0  40.0  13.0             100.0  77.0  57.0  40.0
+random direction                            6.0   3.0  1.0  0.0            23.0  16.0  12.0   4.0              32.0  26.0  19.0  13.0
+south along range road (180°)               3.0   0.0  0.0  0.0            23.0  20.0  17.0   0.0              33.0  30.0  20.0  17.0
+point  cue              
+A      fire within 300 m    18.75
+       flames in sight      16.60
+       gust front (3:16)    16.00
+B      fire within 300 m    23.80
+       flames in sight      19.05
+       gust front (3:16)    16.00
+C      fire within 300 m    24.35
+       flames in sight      16.60
+       gust front (3:16)    16.00
+D      fire within 300 m    34.35
+       flames in sight      25.30
+       gust front (3:16)    16.00
+E      fire within 300 m    49.05
+       flames in sight      50.75
+       gust front (3:16)    16.00
+Name: cue_time, dtype: float64
+        min    50%    max
+point                    
+A      19.1  21.45   33.5
+B      21.9  26.15   48.8
+C      19.7  30.75   78.1
+D      24.2  38.40   78.0
+E      28.2  54.45  123.5
