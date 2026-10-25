@@ -28,8 +28,8 @@ def panel(data):
 left = panel(P); right = panel(np.where((D >= 600) & (D <= 1400), P, np.nan))
 Wc, Hc = 1600, 1100
 im, d = canvas(Wc, Hc, "CFB WAINWRIGHT FIRE · WORKING MODEL V4 · DND TIMELINE TEST",
-               "\"About a kilometre away\" and \"just before 4:00\"",
-               "DND, Oct. 18: the fire was about a kilometre away when the wind shifted. DND, Oct. 22: it overtook the pairs range just before 4:00 p.m.\n"
+               "\"A kilometre away\" and \"just before 4:00\"",
+               "Rutland, Oct. 18: \"The fire was a kilometre away when the wind shifted.\" Rutland, Oct. 22: it overtook the pairs range just before 4:00 p.m.\n"
                "Shading: share of 120 modelled fires (weighted by fit to the final burn scar) reaching each spot in that window.")
 y0 = 205
 for i, (pnl, t) in enumerate(((left, "Where the fire was, 3:45-4:00 p.m."), (right, "...and about 1 km from the fire at 3:16 p.m."))):

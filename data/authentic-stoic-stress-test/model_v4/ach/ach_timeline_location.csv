@@ -1,7 +1,7 @@
 evidence,source,credibility,L1,L2,L3,L4,diagnostic
-"Rutland, Oct. 18: fire about a kilometre away when the wind shifted",part 7; Oct. 18 briefing,medium,C,I,C,C,True
+"Rutland, Oct. 18: 'The fire was a kilometre away when the wind shifted'",part 7; Oct. 18 briefing,medium,C,I,C,C,True
 "Rutland, Oct. 22: overtook the pairs range 'just before 4:00'",dnd_briefing_2026-10-22_transcript.txt,medium,I,C,C,C,True
-"DND release, Oct. 17: 'approximately 4:00 p.m.'",part7_briefing_check/ABOUT.md,low,I,C,C,C,True
+"DND releases, Oct. 18: fire ignited / incident at 'approximately 4:00 p.m.'",part7_briefing_check/ABOUT.md,low,I,C,C,C,True
 "CZWN front 3:16 p.m., 82 km/h gust; station about 15 km west (front at the fire 3:16-3:25)",data/weather_exports; authentic-stoic-alternative-hypothesis/ABOUT.md,high,C,C,C,II,True
 "GOES-18 fire power 76 MW (3:10) -> 1,215 MW (3:30); 336 MW at 3:40 in the southern pixel only",data/goes/fire_timeline.csv,medium,C,C,N,II,True
 "Model (240 fires): Range 2 median 3:21-3:30, road head 3:26-3:34; 0-9% of fires reach either 3:45-4:00",ensemble_summary.json; overtaken_time*.json,medium,C,N,I,I,True

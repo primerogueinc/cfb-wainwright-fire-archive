@@ -107,12 +107,12 @@ Suppression classes from Alexander, Heathcott & Schwanke (2013), *Fire behaviour
 | Fire "initially remained within permanent danger area 2", "monitored throughout the day by both range control and the base fire hall" | Slow, unsuppressed fire, no containment lines | Consistent |
 | "A subsequent change in wind direction and velocity significantly increased the fire's intensity and rate of speed" | Front at CZWN 3:16 p.m., 82 km/h gust; GOES fire power ×16 by 3:30 | Consistent |
 | It "crossed the base fireguard and burned beyond the training base" | Scar's straight east edge along the boundary road, with a lobe beyond it | Consistent |
-| Fire about a kilometre away when the wind shifted (Oct. 18) **and** overtook the pairs range "just before 4:00" (Oct. 22; DND's Oct. 17 release said "approximately 4:00 p.m.") | See below (`overtaken_time.json`, `maps/`) | **Hard to reconcile on the model** |
+| Fire about a kilometre away when the wind shifted (Oct. 18) **and** overtook the pairs range "just before 4:00" (Oct. 22; DND's Oct. 18 releases said "approximately 4:00 p.m.") | See below (`overtaken_time.json`, `maps/`) | **Hard to reconcile on the model** |
 | CFB Wainwright standing orders para. 342: units firing in high-risk months "should plan to conduct early morning shoots" (Rutland, Oct. 22: "a guideline") | Start window 4-6:30 a.m. | Suggestive only |
 
 **"About a kilometre" and "just before 4:00".** On our timing the fire reaches ground about a kilometre from its 3:16 edge in the 3:20s to 3:30s, not just before 4:00. Weighted by fit to the scar, it reaches the Range 2 point at a median 3:21 p.m. (0% of fires in 3:45-4:00) and the road head (1.05-1.11 km from the 3:16 edge) at 3:26 (36% in 3:30-3:45, 4% in 3:45-4:00); 84% of the likely ground (part 2) burns by 3:30. Of the burned ground 600-1,400 m from the fire's edge at 3:16, about 6% is reached 3:45-4:00. Both statements fit together best for a thin strip south-east of the road head on the fire's flank, or a patch by the western lake, reached in 10-30% of fires (`maps/dnd_timing_test.png`, `maps_truthful.py`; branded: `data/graphics_published/oct25_model_v4/`).
 
-Caveats: the model times the front from the CZWN station, about 15 km west of the fire. If the front reached the fire at about 3:25 rather than 3:16 (as allowed for in part 1), every post-front time moves about 9 minutes later (Range 2 about 3:30, road head about 3:35), still well before 4:00; GOES-18 shows the run in full force by 3:30. There are no ground observations. DND's "approximately 4:00 p.m." on Oct. 17 may be a reporting time. Likeliest readings: "just before 4:00" is approximate and the event was in the 3:20s-3:30s (our location is unchanged), or "about a kilometre" was approximate and the pairs range was further away.
+Caveats: the model times the front from the CZWN station, about 15 km west of the fire. If the front reached the fire at about 3:25 rather than 3:16 (as allowed for in part 1), every post-front time moves about 9 minutes later (Range 2 about 3:30, road head about 3:35), still well before 4:00; GOES-18 shows the run in full force by 3:30. There are no ground observations. DND's "approximately 4:00 p.m." in its Oct. 18 releases may be a reporting time. Likeliest readings: "just before 4:00" is approximate and the event was in the 3:20s-3:30s (our location is unchanged), or "about a kilometre" was approximate and the pairs range was further away.
 
 ### 9. The full ensemble: every variation since part 1 (`ensemble_all.csv`, `ensemble_summary.json`)
 
@@ -149,8 +149,8 @@ Analysis of competing hypotheses after Heuer (1999, *Psychology of Intelligence 
 | Head advance re-measured 0.33-0.52 km/h allowing for VIIRS pixel size | high | I | C | C | C | C | C | C |
 | Fire energy (VIIRS FRP 75 MW) implies 0.2-0.4 km2/h burned vs 2.7 km2/h at the standard rate | medium | II | C | C | C | C | C | C |
 | No water or bare ground ahead of the head for 2.9 km (head not stalled at Peterson Pond) | high | I | N | N | I | N | N | N |
-| DND, Oct. 22: PDA 2 'restricted the firefighters ability to conduct direct suppressive operations'; monitored all day | medium | N | II | N | N | N | N | N |
-| DND, Oct. 22: the fire 'initially remained within permanent danger area 2' | medium | N | N | C | N | C | N | N |
+| Provost Marshal, Oct. 22: PDA 2 'restricted the firefighters ability to conduct direct suppressive operations'; monitored all day | medium | N | II | N | N | N | N | N |
+| Provost Marshal, Oct. 22: the fire 'remained within Permanent Danger Area 2' | medium | N | N | C | N | C | N | N |
 | No unmapped straight edge with a guard signature (bare strip) before or after the fire at 10-20 m | medium | N | I | I | N | N | N | N |
 | Morning path: 0% bare, 0% old burn, 0% patchy 100 m blocks (surroundings 5 / 8 / 20%) | high | N | N | N | II | N | N | N |
 | Morning path not greener than afternoon path (NDVI 0.42 vs 0.44) | high | N | N | N | N | N | I | N |
@@ -169,9 +169,9 @@ Least contradicted first: H2b > H1b > H4 > H1 > H2 > H3 > H0.
 
 | Evidence | Credibility | L1 | L2 | L3 | L4 |
 |---|---|---|---|---|---|
-| Rutland, Oct. 18: fire about a kilometre away when the wind shifted | medium | C | I | C | C |
+| Rutland, Oct. 18: 'The fire was a kilometre away when the wind shifted' | medium | C | I | C | C |
 | Rutland, Oct. 22: overtook the pairs range 'just before 4:00' | medium | I | C | C | C |
-| DND release, Oct. 17: 'approximately 4:00 p.m.' | low | I | C | C | C |
+| DND releases, Oct. 18: fire ignited / incident at 'approximately 4:00 p.m.' | low | I | C | C | C |
 | CZWN front 3:16 p.m., 82 km/h gust; station about 15 km west (front at the fire 3:16-3:25) | high | C | C | C | II |
 | GOES-18 fire power 76 MW (3:10) -> 1,215 MW (3:30); 336 MW at 3:40 in the southern pixel only | medium | C | C | N | II |
 | Model (240 fires): Range 2 median 3:21-3:30, road head 3:26-3:34; 0-9% of fires reach either 3:45-4:00 | medium | C | N | I | I |
@@ -201,3 +201,13 @@ See `../model_v3/severity_oct24/ABOUT.md`: the fire burned harder after the shif
 - Smoke is modelled, not observed.
 - DND has not confirmed where C Company was. "Range 2 area / road head" remains an inference (low to moderate confidence, part 2).
 - 40 m model grid; 10-30 m imagery. Features smaller than that (tracks, craters, pads) are not resolved.
+
+
+## Fact-check corrections (Oct. 25)
+
+Checked against published sources (DND releases, Provost Marshal statement, Global News, CP, StrathmoreNow, CBC):
+- Rutland's Oct. 18 words were "The fire was a kilometre away when the wind shifted. It is not normal for a fire to move a kilometre in 30 to 60 seconds." "About a kilometre" is reporters' paraphrase; our readings of the distance (0.6-1.5 km etc.) are unchanged.
+- The "approximately 4:00 p.m." releases are dated Oct. 18, not Oct. 17, and say a fire "ignited" then.
+- The permanent danger area 2 and monitoring statements are the Canadian Forces Provost Marshal's (Brig.-Gen. Vanessa Hanrahan), not Rutland's; the written statement says "remained", not "initially remained".
+- Alexander et al. (2013) classes: "easy suppression" (< 1 km/h), "challenging suppression" (1-4.9), "beyond control" (>= 5). Lethbridge winds averaged 69 km/h.
+- "Extreme" is the CWFIS danger class.

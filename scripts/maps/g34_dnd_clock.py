@@ -5,7 +5,7 @@ from v4fig import *
 W, H = 1600, 1250
 im, d = canvas(W, H, "CFB WAINWRIGHT FIRE · WORKING MODEL V4 · DND'S CLOCK",
                "DND said \"just before 4:00\". The instruments say 3:16-3:30",
-               "DND, Oct. 22: \"Just before 4:00 local time, uncommonly high winds took a pre-existing range fire towards the pairs range and it overtook their position.\"\n"
+               "Rutland, Oct. 22: \"Just before 4:00 local time, uncommonly high winds took a pre-existing range fire towards the pairs range and it overtook their position.\"\n"
                "Environment Canada's weather station and NOAA's GOES-18 satellite put the wind, and the fire's run, about half an hour earlier.")
 X0, X1, T0, T1 = 330, W - 70, 14 * 60 + 45, 16 * 60 + 15
 tx = lambda h, m: X0 + (h * 60 + m - T0) / (T1 - T0) * (X1 - X0)
@@ -37,8 +37,8 @@ for nm, a, b, y in (("Range 2", (15, 21), (15, 30), 585), ("Road head", (15, 26)
     xa_, xb_ = tx(*a), tx(*b); d.rounded_rectangle([xa_, y, xb_, y + 34], radius=6, fill=RED)
     d.text((xb_ + 10, y + 17), f"{nm}: median {a[0]-12}:{a[1]:02d}-{b[0]-12}:{b[1]:02d}", font=B(16), fill=CREAM, anchor="lm")
 # DND statements
-label(d, (tx(15, 16) + 4, 742), "Oct. 18: fire \"about a kilometre\" away\nwhen the wind shifted", col=CREAM, size=15)
-label(d, (tx(15, 50) - 300, 830), "Oct. 22: \"just before 4:00\"\nOct. 17 release: \"approximately 4:00 p.m.\"", col=RED, size=17)
+label(d, (tx(15, 16) + 4, 742), "Oct. 18: \"The fire was a kilometre away\nwhen the wind shifted\"", col=CREAM, size=15)
+label(d, (tx(15, 50) - 300, 830), "Oct. 22: \"just before 4:00\"\nOct. 18 releases: \"approximately 4:00 p.m.\"", col=RED, size=17)
 d.text(((tx(15, 30) + tx(15, 50)) / 2, 700), "about 25-35 min", font=B(18), fill=YEL, anchor="mm")
 d.line([(tx(15, 30), 718), (tx(15, 50), 718)], fill=YEL, width=3)
 # bottom text
@@ -47,7 +47,7 @@ for l, f, c in (("The arithmetic: a fire 1 km away at 3:16-3:25 that arrives jus
                 ("After the wind shift this fire ran at 4.4-12 km/h in every version we modelled, and GOES saw its power jump 16 times by the 3:30 scan.", M(18), CREAM),
                 ("Both statements cannot be literally true at once, except on a thin strip of the fire's flank (0-3% of the likely ground).", M(18), CREAM)):
     d.text((54, y), l, font=f, fill=c); y += 34
-footer(im, ["Sources: ECCC CZWN hourly SWOB (Oct. 17); NOAA GOES-18 ABI fire product (10-minute full-disk scans, start times shown); DND briefings Oct. 18 and 22 and Oct. 17 release.",
+footer(im, ["Sources: ECCC CZWN hourly SWOB (Oct. 17); NOAA GOES-18 ABI fire product (10-minute full-disk scans, start times shown); DND briefings Oct. 18 and 22; DND releases Oct. 18.",
             "Model: working model v4 (Prime Rogue), medians weighted by fit to the final Sentinel-2 scar; first time front at the fire 3:16, second 3:25. No ground observations.",
             SRC], fh=150)
 im.convert("RGB").save(OUTD + "cfb-wainwright-dnd-clock.jpg", quality=92); print("ok")

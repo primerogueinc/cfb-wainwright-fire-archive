@@ -9,10 +9,10 @@ TXT = {"CC": "++", "C": "+", "N": "", "I": "-", "II": "--"}
 SHORT1 = {"H0": "Not really slow\n(measurement)", "H1": "Firefighting\nheld it", "H1b": "Boundary guards\nor roads (PDA 2)", "H2": "Patchy ground\n(10 m+)",
           "H2b": "Fine-scale fuel\n(grazing, craters)", "H3": "Grass still\ngreen", "H4": "Damper fuel,\nlighter wind"}
 SHORT2 = {"L1": "Range 2 / road head\nabout 3:20-3:35", "L2": "Further SE, 2-3 km\nabout 3:40-3:55", "L3": "On the flank, both\nstatements literal", "L4": "Front reached the\nfire about 3:45"}
-EV1 = ["Speed re-measured: 0.33-0.52 km/h", "Fire energy: burning 0.2-0.4 km2/h", "No barrier ahead of the head", "DND: no direct suppression in PDA 2",
-       "DND: stayed within PDA 2", "No guard lines visible (10-20 m)", "Morning path: no bare/old-burn/gaps", "Morning path not greener",
+EV1 = ["Speed re-measured: 0.33-0.52 km/h", "Fire energy: burning 0.2-0.4 km2/h", "No barrier ahead of the head", "Provost Marshal: suppression restricted",
+       "Provost Marshal: stayed in PDA 2", "No guard lines visible (10-20 m)", "Morning path: no bare/old-burn/gaps", "Morning path not greener",
        "Curing would need to be ~57%", "Station: FWI 30.8 Extreme, RH 16-23%", "Moisture/wind: big stretch needed", "Same grass ran at full speed after", "Lower severity before the shift"]
-EV2 = ["DND Oct. 18: about 1 km away", "DND Oct. 22: just before 4:00", "DND Oct. 17: about 4:00 p.m.", "Station front 3:16 (fire 3:16-3:25)", "GOES: run in full force by 3:30",
+EV2 = ["Rutland Oct. 18: a km away at the shift", "Rutland Oct. 22: just before 4:00", "DND releases Oct. 18: about 4 p.m.", "Station front 3:16 (fire 3:16-3:25)", "GOES: run in full force by 3:30",
        "Model: Range 2 3:21-3:30, road head 3:26-3:34", "Model: 'both true' ground 0-3%", "Part 2: '1 km' lands on Range 2 area", "Commander: fire suddenly on top", "Terrain: rise hides the fire"]
 
 
@@ -50,5 +50,5 @@ for l in ["Caution: an explanation our data cannot test is never contradicted. '
           "question partly for that reason; DND's answer on grazing, or sub-metre imagery, could rule it in or out. Ratings are our judgements."]:
     d.text((54, y), l, font=M(17), fill=MUTED); y += 26
 footer(im, ["Method: Heuer (1999), Psychology of Intelligence Analysis, ch. 8. Ratings, credibility and sources for every cell: model_v4/ach/ in the archive (ach.py).",
-            "Working model v4: 240 post-front fires; Sentinel-2 and Landsat 8 (Oct. 4-24); VIIRS, GOES-18; ECCC and CWFIS weather; DND briefings Oct. 17, 18 and 22.", SRC], fh=145)
+            "Working model v4: 240 post-front fires; Sentinel-2 and Landsat 8 (Oct. 4-24); VIIRS, GOES-18; ECCC and CWFIS weather; DND releases and briefings Oct. 18 and 22.", SRC], fh=145)
 im.convert("RGB").save(OUTD + "cfb-wainwright-competing-hypotheses.jpg", quality=92); print("ok", y)
