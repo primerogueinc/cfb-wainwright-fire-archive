@@ -1,0 +1,77 @@
+{
+ "before_front": {
+  "Range 2 point": {
+   "min_visibility_m_wind-20": 20000,
+   "min_visibility_m_wind-10": 9972,
+   "min_visibility_m_wind+0": 2672,
+   "min_visibility_m_wind+10": 1890,
+   "min_visibility_m_wind+20": 2108
+  },
+  "Road head": {
+   "min_visibility_m_wind-20": 20000,
+   "min_visibility_m_wind-10": 20000,
+   "min_visibility_m_wind+0": 20000,
+   "min_visibility_m_wind+10": 5871,
+   "min_visibility_m_wind+20": 3293
+  },
+  "C": {
+   "min_visibility_m_wind-20": 20000,
+   "min_visibility_m_wind-10": 20000,
+   "min_visibility_m_wind+0": 20000,
+   "min_visibility_m_wind+10": 20000,
+   "min_visibility_m_wind+20": 20000
+  },
+  "D": {
+   "min_visibility_m_wind-20": 20000,
+   "min_visibility_m_wind-10": 20000,
+   "min_visibility_m_wind+0": 20000,
+   "min_visibility_m_wind+10": 20000,
+   "min_visibility_m_wind+20": 20000
+  },
+  "E": {
+   "min_visibility_m_wind-20": 20000,
+   "min_visibility_m_wind-10": 20000,
+   "min_visibility_m_wind+0": 20000,
+   "min_visibility_m_wind+10": 20000,
+   "min_visibility_m_wind+20": 20000
+  },
+  "likely_ground_max_share_in_smoke_vis_lt_1km": 0.064
+ },
+ "after_front": {
+  "Range 2 point": {
+   "fire": "3:21",
+   "haze_lt_1km": "3:18",
+   "dense_lt_100m": "3:20",
+   "haze_lead_min": 4.2,
+   "dense_lead_min": 1.1
+  },
+  "Road head": {
+   "fire": "3:26",
+   "haze_lt_1km": "3:19",
+   "dense_lt_100m": "3:23",
+   "haze_lead_min": 7.2,
+   "dense_lead_min": 2.1
+  },
+  "C": {
+   "fire": "3:23",
+   "haze_lt_1km": "3:18",
+   "dense_lt_100m": "3:22",
+   "haze_lead_min": 4.6,
+   "dense_lead_min": 1.6
+  },
+  "D": {
+   "fire": "3:30",
+   "haze_lt_1km": "3:20",
+   "dense_lt_100m": "3:26",
+   "haze_lead_min": 11.1,
+   "dense_lead_min": 3.9
+  },
+  "E": {
+   "fire": "3:37",
+   "haze_lt_1km": "3:22",
+   "dense_lt_100m": "3:28",
+   "haze_lead_min": 15.7,
+   "dense_lead_min": 6.2
+  }
+ }
+}
