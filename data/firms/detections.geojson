@@ -1883,6 +1883,115 @@
     "track": "5943",
     "first_seen_file": "data/firms/raw/LANDSAT_NRT/2026-10-21_4d__fetched_20261024T204904Z.csv"
    }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.489136,
+     52.75231
+    ]
+   },
+   "properties": {
+    "acq_datetime_utc": "2026-10-25T18:17:00Z",
+    "acq_datetime_mdt": "2026-10-25 12:17 MDT",
+    "source": "LANDSAT_NRT",
+    "satellite": "L9",
+    "confidence": "M",
+    "daynight": "D",
+    "acq_date": "2026-10-25",
+    "acq_time": "1817",
+    "path": "040",
+    "row": "023",
+    "scan": "3176",
+    "track": "5282",
+    "first_seen_file": "data/firms/raw/LANDSAT_NRT/2026-10-21_5d__fetched_20261025T205023Z.csv"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.87186,
+     53.16075
+    ]
+   },
+   "properties": {
+    "acq_datetime_utc": "2026-10-25T19:40:00Z",
+    "acq_datetime_mdt": "2026-10-25 13:40 MDT",
+    "source": "VIIRS_SNPP_NRT",
+    "satellite": "N",
+    "instrument": "VIIRS",
+    "confidence": "n",
+    "frp": "2.74",
+    "daynight": "D",
+    "acq_date": "2026-10-25",
+    "acq_time": "1940",
+    "bright_ti4": "337.35",
+    "bright_ti5": "270.43",
+    "scan": "0.4",
+    "track": "0.4",
+    "version": "2.0URT",
+    "first_seen_file": "data/firms/raw/VIIRS_SNPP_NRT/2026-10-21_5d__fetched_20261025T205023Z.csv"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.86777,
+     53.16045
+    ]
+   },
+   "properties": {
+    "acq_datetime_utc": "2026-10-25T20:00:00Z",
+    "acq_datetime_mdt": "2026-10-25 14:00 MDT",
+    "source": "VIIRS_NOAA20_NRT",
+    "satellite": "N20",
+    "instrument": "VIIRS",
+    "confidence": "n",
+    "frp": "6.49",
+    "daynight": "D",
+    "acq_date": "2026-10-25",
+    "acq_time": "2000",
+    "bright_ti4": "325.82",
+    "bright_ti5": "272.65",
+    "scan": "0.4",
+    "track": "0.4",
+    "version": "2.1URT",
+    "first_seen_file": "data/firms/raw/VIIRS_NOAA20_NRT/2026-10-21_5d__fetched_20261025T205023Z.csv"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.87146,
+     53.16267
+    ]
+   },
+   "properties": {
+    "acq_datetime_utc": "2026-10-25T20:44:00Z",
+    "acq_datetime_mdt": "2026-10-25 14:44 MDT",
+    "source": "VIIRS_NOAA21_NRT",
+    "satellite": "N21",
+    "instrument": "VIIRS",
+    "confidence": "n",
+    "frp": "5.12",
+    "daynight": "D",
+    "acq_date": "2026-10-25",
+    "acq_time": "2044",
+    "bright_ti4": "331.17",
+    "bright_ti5": "275.77",
+    "scan": "0.5",
+    "track": "0.5",
+    "version": "2.0URT",
+    "first_seen_file": "data/firms/raw/VIIRS_NOAA21_NRT/2026-10-21_5d__fetched_20261025T205023Z.csv"
+   }
   }
  ]
 }
