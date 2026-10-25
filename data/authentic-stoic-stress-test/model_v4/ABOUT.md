@@ -94,7 +94,7 @@ Suppression classes from Alexander, Heathcott & Schwanke (2013), *Fire behaviour
 | H2 | Patchy ground (craters, bare ground, old burns) | Pre-fire Sentinel-2 along the morning vs afternoon paths (`fuel_paths.json`) | Not supported at 10 m: morning path continuous grass, 0% bare, 0% old burn, 0% patchy 100 m blocks (unburned surroundings: 5% bare, 8% old burn, 20% patchy). Sub-10 m features (craters, short-grazed grass) not ruled out |
 | H3 | Grass not fully cured | Same; curing needed (`curing_check.json`) | Not supported as the main cause: morning path slightly *less* green (NDVI 0.42) than the afternoon path (0.44); to explain the gap alone the grass would have had to be about 57% cured |
 | H4 | Damper fuel / lighter wind at grass height | Sensitivity (`moisture_wind.csv`) | Partial: closing the gap needs, e.g., fuel 6 FFMC points damper with wind at 60% of the 10 m value, or 10-11 points damper at full wind; a stretch at 16-23% humidity |
-| H6 | Confined by permanent danger area 2 (boundary roads/guards) | DND Oct. 23 ("initially remained within permanent danger area 2") | Consistent but untested: boundary not public |
+| H6 | Confined by permanent danger area 2 (boundary roads/guards) | DND Oct. 22 ("initially remained within permanent danger area 2") | Consistent but untested: boundary not public |
 
 **Reading:** we found no evidence that the fire was being held; DND says it was watched. The likeliest mix is lighter wind at grass height, somewhat damper fuel, and features too small for 10 m imagery (short or grazed grass, craters). Grazing in the training area is a question for DND.
 
