@@ -12,3 +12,13 @@ All from working model v4 (`data/authentic-stoic-stress-test/model_v4/ABOUT.md`)
 | `cfb-wainwright-dnd-timeline-test.jpg` | `g27_dnd_timing.py` | DND's "about a kilometre away" (Oct. 18) and "just before 4:00" (Oct. 22) against the model; maps show the 3:16 case, times for 3:25 in brackets |
 
 `cfb-wainwright-dnd-timeline-test.jpg` reading: on the model, ground about a kilometre downwind burns in the 3:20s-3:30s (Range 2 median 3:21, road head 3:26; 3:30 and 3:34 if the front reached the fire at 3:25). Both statements fit together only for a thin strip south-east of the road head on the fire's flank, or a patch by the western lake, reached in 10-30% of modelled fires. Inputs: `model_v4/maps/truthful_reading*.npz`, `overtaken_time*.json`.
+
+## Header, social card and thumbnail (working title)
+
+| File | Size | Use |
+|---|---|---|
+| cfb-wainwright-v4-header.jpg | 1600×900 | Article header |
+| cfb-wainwright-v4-og.jpg | 1200×630 | Social share card |
+| cfb-wainwright-v4-thumbnail.jpg | 1280×720 | Video thumbnail |
+
+Working title "Monitored for hours, beyond control in minutes". Background: Sentinel-2 true colour, Oct. 24, 2026. Rebuild with another title: `python3 scripts/maps/g33_v4_hero.py "LINE 1|LINE 2"`.
