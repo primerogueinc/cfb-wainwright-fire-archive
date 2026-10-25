@@ -1,0 +1,79 @@
+{
+ "fire": "oct14",
+ "date": "2026-10-14",
+ "detections": 1,
+ "passes_mdt": [
+  "14:51"
+ ],
+ "night_detections": 0,
+ "max_pass_frp_mw": 11.7,
+ "detection_span_h": 0.0,
+ "scar_km2": 1.058,
+ "scar_touches_window_edge": false,
+ "cwfis_days": [
+  {
+   "date": "2026-10-14",
+   "ffmc": 84.4,
+   "isi": 4.7,
+   "fwi": 15.6
+  }
+ ],
+ "ffmc_start": 80.5,
+ "max_wind_kmh": 43.0,
+ "min_rh": 36.0,
+ "peak_std_ros_kmh": 3.02,
+ "stop_times_h": {
+  "dusk": 19.0,
+  "rh60": 22.0,
+  "free24h": 38.85
+ },
+ "n_runs": 7300,
+ "dusk": {
+  "best_jaccard": 0.528,
+  "weight_by_K": {
+   "1.0": 0.037,
+   "0.5": 0.264,
+   "0.3": 0.61,
+   "0.17": 0.089
+  },
+  "standard_rate_km2_p10_p50_p90": [
+   2.92,
+   4.04,
+   9.6
+  ],
+  "ratio_standard_to_observed": 3.8,
+  "ignition_weighted_median_h": 5.35
+ },
+ "rh60": {
+  "best_jaccard": 0.429,
+  "weight_by_K": {
+   "1.0": 0.058,
+   "0.5": 0.233,
+   "0.3": 0.482,
+   "0.17": 0.228
+  },
+  "standard_rate_km2_p10_p50_p90": [
+   4.1,
+   6.02,
+   12.37
+  ],
+  "ratio_standard_to_observed": 5.7,
+  "ignition_weighted_median_h": 5.35
+ },
+ "free24h": {
+  "best_jaccard": 0.389,
+  "weight_by_K": {
+   "1.0": 0.043,
+   "0.5": 0.17,
+   "0.3": 0.287,
+   "0.17": 0.501
+  },
+  "standard_rate_km2_p10_p50_p90": [
+   7.95,
+   13.02,
+   21.17
+  ],
+  "ratio_standard_to_observed": 12.3,
+  "ignition_weighted_median_h": 6.35
+ }
+}

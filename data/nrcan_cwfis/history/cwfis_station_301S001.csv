@@ -1,0 +1,2 @@
+aes,wmo,id,name,instr,prov,lon,lat,elev,tz_correct,h_bul,s_bul,hly,syn,tmm,ua,useindex,agency,the_geom
+301S001,71118,CZWN,                        WAINWRIGHT+CFB+AIRFIELD+21,   AU8,AB, -111.10, 52.83,686,-7,swobml/czwn,smcn21/cwao,G,H,@,-,118,MSC   ,01010000208A0F0000F8C54E03912A30C114C23CB8B6092141

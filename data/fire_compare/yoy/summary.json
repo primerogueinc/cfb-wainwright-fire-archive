@@ -1,0 +1,73 @@
+{
+ "years": "2012-2025 (2026 separate)",
+ "snpp_fire_days": {
+  "Sep": 41,
+  "Oct": 24
+ },
+ "snpp_fire_days_pda2": {
+  "Sep": 13,
+  "Oct": 13
+ },
+ "years_with_fire": {
+  "Sep": 13,
+  "Oct": 11
+ },
+ "years_with_fire_pda2": {
+  "Sep": 7,
+  "Oct": 8
+ },
+ "fwi_mean": {
+  "Sep": 21.8,
+  "Oct": 18.3
+ },
+ "y2026": [
+  {
+   "year": 2026,
+   "month": "Sep",
+   "snpp_fire_days": 3,
+   "snpp_fire_days_pda2": 2,
+   "snpp_detections": 13,
+   "all_sensor_fire_days": 4,
+   "all_sensor_fire_days_pda2": 2,
+   "dates": "2026-09-16;2026-09-18;2026-09-20;2026-09-21",
+   "fwi_mean": 12.28,
+   "days_with_fwi": 30,
+   "days_very_high_plus": 10,
+   "days_extreme": 3
+  },
+  {
+   "year": 2026,
+   "month": "Oct",
+   "snpp_fire_days": 1,
+   "snpp_fire_days_pda2": 0,
+   "snpp_detections": 1,
+   "all_sensor_fire_days": 3,
+   "all_sensor_fire_days_pda2": 2,
+   "dates": "2026-10-14;2026-10-17;2026-10-18",
+   "fwi_mean": 15.91304347826087,
+   "days_with_fwi": 23,
+   "days_very_high_plus": 8,
+   "days_extreme": 2
+  }
+ ],
+ "oct17_2026_fwi_rank": {
+  "fwi": 30.8,
+  "share_of_october_days_2012_2025_at_or_above": 0.1576,
+  "october_days_2012_2025": 330
+ },
+ "nbac_dnd_ha_by_year": {
+  "2012": 2158.0,
+  "2013": 5230.0,
+  "2014": 2230.0,
+  "2015": 8103.0,
+  "2016": 1567.0,
+  "2017": 2504.0,
+  "2018": 10363.0,
+  "2019": 2344.0,
+  "2020": 2205.0,
+  "2022": 3710.0,
+  "2023": 3792.0,
+  "2024": 2422.0,
+  "2025": 9027.0
+ }
+}
