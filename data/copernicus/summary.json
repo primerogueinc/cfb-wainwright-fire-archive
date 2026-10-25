@@ -1,14 +1,14 @@
 {
-  "generated_utc": "2026-10-21T05:36:20Z",
+  "generated_utc": "2026-10-25T22:41:02Z",
   "pre_scene": "S2C_12UWD_20261004_0_L2A",
   "pre_datetime": "2026-10-04T18:39:36.300000Z",
-  "post_scene": "S2B_12UWD_20261019_0_L2A",
-  "post_datetime": "2026-10-19T18:39:34.244000Z",
-  "post_aoi_clear_pct": 78,
-  "valid_pixel_pct_both_scenes": 75,
-  "burn_scar_km2_dnbr_0.27": 11.71,
-  "possible_light_burn_fringe_km2_within_500m": 14.39,
-  "burn_patches": 31,
+  "post_scene": "S2C_12UWD_20261024_0_L2A",
+  "post_datetime": "2026-10-24T18:39:33.920000Z",
+  "post_aoi_clear_pct": 91,
+  "valid_pixel_pct_both_scenes": 88,
+  "burn_scar_km2_dnbr_0.27": 10.83,
+  "possible_light_burn_fringe_km2_within_500m": 4.14,
+  "burn_patches": 8,
   "detections_used": 74,
   "method": "dNBR from Sentinel-2 L2A B8A/B12 at 20 m; SCL classes 2,4,5,7; scar = dNBR >= 0.27 patches within 1500 m of a detection, holes filled"
 }
