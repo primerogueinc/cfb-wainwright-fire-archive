@@ -1,6 +1,8 @@
-# Working model v5: data sources
+# Rubicon Ridge: data sources
 
-Status, Oct. 26, 2026: planning. v5 keeps every v4 input and adds the ones below. Each row says what it is for and where it is (or will be) archived. Nothing here changes a published number until v5 is run.
+Rubicon Ridge is the next model of the Oct. 17, 2026 CFB Wainwright fire. It succeeds the "authentic stoic" stress test and its working models v1-v4 (`data/authentic-stoic-stress-test/`), which stay as published.
+
+Status, Oct. 26, 2026: planning. Rubicon Ridge keeps every v4 input and adds the ones below. Each row says what it is for and where it is (or will be) archived. Nothing here changes a published number until Rubicon Ridge is run.
 
 ## Carried over from v4
 
@@ -11,20 +13,20 @@ Status, Oct. 26, 2026: planning. v5 keeps every v4 input and adds the ones below
 | Fire power through the afternoon (timing check) | NOAA GOES-18/19 ABI fire detection (FDC), NOAA open data on AWS | `data/goes/fire_timeline.csv` |
 | Fuel moisture codes | NRCan CWFIS daily FWI | `data/nrcan_cwfis/` |
 | Final burn (fitting) | Copernicus Sentinel-2 L2A, Oct. 4 and 19 | `data/copernicus/manual_exports/`, `data/infrastructure/scar_patches_revised.geojson` |
-| Burn-edge checks | USGS Landsat 8, Oct. 24; Sentinel-2, Oct. 24 | `model_v4/edge/` |
+| Burn-edge checks | USGS Landsat 8, Oct. 24; Sentinel-2, Oct. 24 | `data/authentic-stoic-stress-test/model_v4/edge/` |
 | Terrain | NRCan MRDEM-30 | `data/dem/` |
 | Tracks, ranges and danger areas (unofficial) | OpenStreetMap contributors (ODbL) | `data/infrastructure/osm_infrastructure_ODbL.geojson` |
 | Fire spread | Canadian FBP System, fuel type O-1a (Forestry Canada 1992, ST-X-3) | in code |
 
-## New in v5: added
+## New in Rubicon Ridge: added
 
-| Input | Source | Archived copy | Use in v5 |
+| Input | Source | Archived copy | Use |
 |---|---|---|---|
 | **Official range locations** | 3 CDSB Edmonton Det Wainwright Range and Training Area Standing Orders, 2024 edition (ch. 1 para 51; Annex H), grid references converted from MGRS zone 12U | `data/reference/range_standing_orders_2024/rso_points.csv` and `.geojson`; analysis in `README.md` there | Replace the OSM "Range 2 point" with the official Range 2 grid; add Range 15 (Field Firing Range) and its barrier at "Yellow and Fireguard" (20 m from the road head) as scenario points; place Range 11 (grenade launcher) for the ignition search. The document itself is not in the repository. |
 | **Range rules** | Same document: fire hazard conditions (para 339-342), ground cover fires (343-345), weather warnings (214-216), Range Control check-fire powers (para 7), cattle in impact areas (170-171) | quoted in the RSO `README.md` | Context and scenario design: ignition timing in an early-morning shoot (para 342); fires in impact areas left to burn (344c); grazing as a fuel factor (170-171). |
 | **Spring 2026 planned burn** | Long-term burn inventory (Landsat dNBR), Apr. 20-21, 2026, read as a likely planned burn; DND spring burn window Apr. 10-May 5, 2026 | `data/fuel/burn_2026-04-20_pda2.geojson` | Separate fuel class: six months of regrowth on about 986 ha, 477 ha of which burned again on Oct. 17 (around the road head and Range 15). Test a lower spread rate there and refit to the scar. |
 
-## New in v5: requested (pending network access or keys)
+## New in Rubicon Ridge: requested (pending network access or keys)
 
 | Input | Source | Why |
 |---|---|---|
