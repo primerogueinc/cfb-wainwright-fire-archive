@@ -12,3 +12,5 @@ Front passage, estimated from the hourly mean humidity in the hour the front pas
 | Gilt Edge North AGCM | 43 km NNE | 3:00-4:00 p.m. | 23.7 -> 14.1 C | 30.3% (~17 / ~43.5) | ~3:30 p.m. (peak gust 3:28) |
 
 Both fit the station-plane estimate of the front at the fire, about 3:29 p.m. MDT (README_pull.md).
+
+Also in the file: Wainwright CFB Airfield 21, the same ECCC station (CZWN, 301S001) already used from ECCC/SWOB as the primary record (82 km/h peak gust at 3:16 p.m. MDT). ACIS republishes its hourly values; nothing new.
