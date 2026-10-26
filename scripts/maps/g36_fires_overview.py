@@ -91,6 +91,8 @@ CMP = pd.read_csv(FC + "comparison.csv").set_index("fire")
 fwis = lambda v: (lambda a: f"{min(a):.0f}-{max(a):.0f}" if len(a) > 1 else f"{a[0]:.0f}")([float(x) for x in str(v).split(";")])
 def fmt(fid):
     if fid == "oct17": return ["Burned 10.8 km² (FWI 30.8, Extreme). Crept at about", "a sixth of the standard rate all day, then ran", "4.4-12 km/h after the 3:16 p.m. front. Four killed."]
+    if fid == "aug27_28" and fid in CMP.index:
+        return ["Seen only at night: Aug. 27 2:16-3:20, Aug. 28 2:16-3:58 a.m.", "FWI 20-24. Scar mixed with 2020-23 burns (no reliable size).", "Only the slowest model rate (a sixth) fits 26 h of detections.", "Seen again Sept. 21, 1:42-3:23 p.m., same scar."]
     if fid not in CMP.index and fid == "aug27_28": return ["Seen only at night: Aug. 27 2:16-3:20, Aug. 28 2:16-3:58 a.m.", "Scar on Oct. 4 about 8.8 km², mixed with 2020-23 burns.", "Seen again Sept. 21, 1:42-3:23 p.m., same scar. (Model running.)"]
     if fid not in CMP.index: return ["(model running)"]
     c = CMP.loc[fid]; out = []
