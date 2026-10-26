@@ -34,7 +34,7 @@ if len(sys.argv) > 5:
 
 def clock(t):
     h, m = int(t // 60), int(t % 60)
-    return f'{h - 12 if h > 12 else h}:{m:02d} p.m.'
+    return f'{h - 12 if h > 12 else h}:{m:02d} ' + ('p.m.' if h >= 12 else 'a.m.')
 
 
 def phase(t, fade):
@@ -122,9 +122,9 @@ def compose(im, n, t, fade, screen, prologue=None, g=0):
     hdr = Image.new('RGBA', (W, int(92 * S)), (*INK, 205)); im.paste(hdr, (0, 0), hdr)
     d = ImageDraw.Draw(im)
     if prologue:
-        big, cap, sub, col = ('Morning', 'Grenadiers fire automatic grenade launchers on Range 11',
-                              'DND says the fire started on the AGL range (Oct. 22 briefing). Firing positions, '
-                              'targets and times shown are illustrative.', AMBER)
+        big, cap, sub, col = (clock(t), 'Grenadiers fire on Range 11. The fire is already burning in its impact area',
+                              'Modelled: burning since about 5 a.m. (v4 best fit; v4 4:00-6:30, v3 3:30-7). '
+                              'Started by that morning\'s rounds or earlier? Unknown.', AMBER)
     else:
         big, cap, sub, col = phase(t, fade)
     d.text((18 * S, 12 * S), big, font=fb(int(34 * S)), fill=col)
@@ -165,7 +165,7 @@ if TROOPS is not None and pros:
     for pf in pros:
         k = int(os.path.basename(pf)[4:8]); pm = pmeta[str(k)]
         TROOPS.override = (pm['loc'], pm['look'])
-        compose(Image.open(pf).convert('RGB'), 0, 600, 0, pm['screen'],
+        compose(Image.open(pf).convert('RGB'), 0, pm.get('t', 600), 0, pm['screen'],
                 prologue=(k, int(NK * 0.8)), g=i).save(os.path.join(lab, f'{i:04d}.png')); i += 1
     TROOPS.override = None
 for f in frames:

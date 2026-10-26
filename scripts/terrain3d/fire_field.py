@@ -8,11 +8,14 @@ Observed anchors (all already in the archive):
   15:10-15:40  GOES-18: fire power peaks at 15:30 (1,215 MW), fades by 16:00
   Oct 24 Sentinel-2 dNBR: final burn scar and severity
 
-Everything between those anchors is MODELLED, the same way the published
-reconstruction does it:
-  1. 12:17 -> 14:49: spread from the Landsat pixels across the pre-shift
-     footprint, timed by distance (inside the footprint) so the farthest cell
-     is reached at 14:49.
+Everything between those anchors is MODELLED, following working model v4:
+  0. before 3:16 p.m.: v4's best-fit morning fire (case v4b: start 5:00 a.m.,
+     1.4-2.2 km east of Range 11, 2x morning spread, L:B x3), read from
+     data/authentic-stoic-stress-test/model_v4/arrival_prefront_v4b_*.tif on
+     the authentic-stoic-alternative-hypothesis branch (hours after midnight).
+  1. cells of the 12:17/2:49 detection outline that v4b has not reached by
+     3:16 burn by distance from the noon line, 12:17 -> 2:49 (v4 likewise
+     joins this outline to its 3:16 fire before the post-front runs).
   2. after 15:16: cells downwind (306 deg) of the footprint burn in order of
      their distance downwind, the run taking 15:20 -> 15:35 (the published
      "about 3:20 to 3:35 p.m.").
@@ -21,7 +24,7 @@ reconstruction does it:
   4. scar patches not connected to any of that get no time (shown as burned
      only in the final frames, labelled as timing unknown).
 
-Run: python3 fire_field.py LAYERDIR
+Run: python3 fire_field.py LAYERDIR [PREFRONT_TIF]
 """
 import sys, os, json, heapq
 import numpy as np
@@ -74,6 +77,24 @@ def dijkstra(seeds, allowed, speed_mpm=None, floor=None):
                     out[rr, cc] = nv; heapq.heappush(pq, (nv, rr, cc))
     return out
 
+# --- 0. v4 best-fit morning fire --------------------------------------------
+if len(sys.argv) > 2:
+    import rasterio
+    from rasterio.warp import reproject, Resampling
+    pre = np.full((H, W), np.nan, np.float32)
+    TG = from_origin(G['x0'], G['y0'] + H * RES, RES, RES)
+    with rasterio.open(sys.argv[2]) as src:
+        reproject(rasterio.band(src, 1), pre, dst_transform=TG, dst_crs=G['crs'],
+                  dst_nodata=np.nan, resampling=Resampling.bilinear)
+    # v4 works on a 40 m grid; bilinear resampling to 10 m smooths its stair steps
+    pre_min = pre * 60
+    v4 = np.isfinite(pre_min) & (pre_min <= T_SHIFT)
+    arr[v4] = pre_min[v4]
+    print(f'v4b morning fire: {v4.sum()*RES*RES/1e6:.2f} km2 by 3:16 (v4: 1.23), first cell {np.nanmin(pre_min)/60:.2f} h')
+    hullm_pre = hullm & ~v4
+else:
+    hullm_pre = hullm
+
 rc = lambda x, y: (int(np.clip(H - 1 - y / RES, 0, H - 1)), int(np.clip(x / RES, 0, W - 1)))
 allowed_pre = hullm.copy()
 seeds = {}
@@ -82,10 +103,14 @@ for h in ls:
 d_pre = dijkstra(seeds, allowed_pre)
 fin = np.isfinite(d_pre)
 dmax = d_pre[fin].max()
-arr[fin] = T_LS + d_pre[fin] / dmax * (T_V - T_LS)
+creep = np.where(fin, T_LS + d_pre / dmax * (T_V - T_LS), np.nan)
+fill = fin & hullm_pre & ~np.isfinite(arr)
+arr[fill] = creep[fill]
+fin = np.isfinite(arr)  # the fire's footprint at the shift: v4b plus the detection outline
 print(f'pre-shift: farthest cell {dmax/1000:.2f} km from the noon line -> creep {dmax/(T_V-T_LS)*60/1000:.2f} km/h')
 
 # --- 2. the run: distance downwind (upwind ray to the footprint) -------------
+foot = fin.copy()
 az = np.radians(306)  # wind FROM 306: march upwind toward 306
 ux, uy = np.sin(az), np.cos(az)
 rr, cc = np.nonzero(scar & ~fin)
@@ -96,7 +121,7 @@ for k in range(1, 700):  # up to 7 km
     s = k * RES
     r2 = np.clip((H - 1 - (Y + s * uy) / RES).astype(int), 0, H - 1)
     c2 = np.clip(((X + s * ux) / RES).astype(int), 0, W - 1)
-    hit = alive & hullm[r2, c2]
+    hit = alive & foot[r2, c2]
     d_up[hit] = s; alive &= ~hit
 ok = ~np.isnan(d_up)
 dmax_run = np.nanmax(d_up)

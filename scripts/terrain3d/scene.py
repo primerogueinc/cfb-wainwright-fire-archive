@@ -450,20 +450,37 @@ if a.mode == 'fire':
         loc_b, look_b = main_pose(0)
         return loc_a.lerp(loc_b, s_), look_a.lerp(look_b, s_)
 
-    if a.prologue:
-        img.pixels.foreach_set(np.zeros(Hh * 2 * Ww * 2 * 4, np.float32) + np.tile([0, 0, 0, 1], Hh * 2 * Ww * 2).astype(np.float32))
+    def set_fire(t, fade=0.0):
+        """Write the fire texture for clock time t (minutes after midnight)."""
+        dt = t - arr5
+        burning = dt >= 0
+        # minutes a cell keeps glowing: a slow, wide-glowing edge before the shift,
+        # a narrow front in the run
+        tau = np.where(arr5 < FM['T_SHIFT'], 15.0, 1.2)
+        glow = np.where(burning, np.exp(-np.clip(dt, 0, None) / tau), 0.0) ** 2
+        char = np.where(burning, np.clip(dt / 2.0, 0, 1), 0.0) * (0.6 + 0.4 * sev5)
+        rgba = np.zeros((Hh * 2, Ww * 2, 4), np.float32)
+        rgba[..., 0] = char; rgba[..., 1] = np.clip(glow, 0, 1); rgba[..., 2] = unk5 * 0.8 * fade
+        rgba[..., 3] = 1
+        img.pixels.foreach_set(np.flipud(rgba).ravel())
         img.update()
+
+    PRO_T0, PRO_T1 = 8 * 60, 12 * 60 + 17  # prologue clock: 8:00 a.m. -> 12:17 p.m.
+
+    if a.prologue:
         for ob, _ in marks:
             ob.hide_render = True
         pm = {}
         for k in range(a.start, a.end if a.end is not None else a.prologue):
             loc, look = prologue_pose(k, a.prologue)
             cam.location = loc; look_at(cam, look)
+            t = PRO_T0 + (PRO_T1 - PRO_T0) * k / max(a.prologue - 1, 1)
+            set_fire(t)
             scn.render.filepath = os.path.join(a.out, f'pro_{k:04d}.png')
             bpy.ops.render.render(write_still=True)
-            pm[k] = {'screen': screen_points(cam), 'loc': list(loc), 'look': list(look)}
+            pm[k] = {'screen': screen_points(cam), 'loc': list(loc), 'look': list(look), 't': t}
             json.dump(pm, open(os.path.join(a.out, f'pro_meta_{a.start:04d}.json'), 'w'))
-            print('prologue', k, flush=True)
+            print('prologue', k, f'{int(t//60)}:{int(t%60):02d}', flush=True)
         sys.exit(0)
     end = a.end if a.end is not None else N_FR
     for f in range(a.start, end):
@@ -474,19 +491,8 @@ if a.mode == 'fire':
         R, Hc = 5600 - 600 * u, 2700 - 300 * u
         loc, look = main_pose(u)
         cam.location = loc; look_at(cam, look)
-        # fire state at time t
-        dt = t - arr5
-        burning = dt >= 0
-        tau = np.where(arr5 < FM['T_SHIFT'], 8.0, 1.2)   # minutes a cell keeps glowing (narrow front in the run)
-        glow = np.where(burning, np.exp(-np.clip(dt, 0, None) / tau), 0.0) ** 2
-        
-        char = np.where(burning, np.clip(dt / 2.0, 0, 1), 0.0) * (0.6 + 0.4 * sev5)
         fade = np.clip((sec - FINAL_FADE[0]) / (FINAL_FADE[1] - FINAL_FADE[0]), 0, 1)
-        rgba = np.zeros((Hh * 2, Ww * 2, 4), np.float32)
-        rgba[..., 0] = char; rgba[..., 1] = np.clip(glow, 0, 1); rgba[..., 2] = unk5 * 0.8 * fade
-        rgba[..., 3] = 1
-        img.pixels.foreach_set(np.flipud(rgba).ravel())
-        img.update()
+        set_fire(t, fade)
         for ob, t_obs in marks:
             # a detection marker shows from its satellite pass until the wind shift
             ob.hide_render = not (t_obs <= t < FM['T_SHIFT'])
