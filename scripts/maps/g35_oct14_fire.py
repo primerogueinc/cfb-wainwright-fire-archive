@@ -7,6 +7,8 @@ from rasterio.warp import reproject, Resampling
 from rasterio.transform import from_origin
 from pyproj import Transformer
 import matplotlib.patheffects as pe
+matplotlib.rcParams['hatch.linewidth'] = 1.3
+CC, CD = (70, 205, 235), (255, 80, 140)
 tf = Transformer.from_crs(4326, 3400, always_xy=True).transform
 BR = gpd.read_file(REPO + "data/oct14_fire/burns.geojson").to_crs(3400)
 scar = gpd.read_file(REPO + "data/infrastructure/scar_patches_revised.geojson").to_crs(3400); s17 = scar[scar.patch == "main Oct 17 run"]
@@ -34,16 +36,16 @@ SEPT = gpd.GeoSeries([_shape(g) for g, v in _ft.shapes(sept.astype("uint8"), mas
 lo, hi = np.percentile(rgb, 2, axis=(0, 1)), np.percentile(rgb, 98, axis=(0, 1)); rgb = np.clip((rgb - lo) / (hi - lo), 0, 1) * 0.75
 f, ax = fig(860, 860); ax.imshow(rgb, extent=[x0, x0 + W_ * RES, y0 - H_ * RES, y0])
 pda2.boundary.plot(ax=ax, color=hx(GOLD), lw=1.6, ls="--")
-s17.plot(ax=ax, color=hx((255, 112, 40)), alpha=0.45, lw=0); s17.boundary.plot(ax=ax, color=hx(CREAM), lw=1.2)
-SEPT.plot(ax=ax, color=hx((255, 112, 40)), alpha=0.45, lw=0); SEPT.boundary.plot(ax=ax, color=hx((214, 140, 60)), lw=1.0)
-BR[BR.name == "oct14_burn"].plot(ax=ax, color=hx((255, 112, 40)), alpha=0.45, lw=0); BR[BR.name == "oct14_burn"].boundary.plot(ax=ax, color=hx(RED), lw=1.5)
-fx, fy = tf(F.longitude.values, F.latitude.values); ax.plot(fx, fy, "^", ms=6, mfc="none", mec=hx(YEL), mew=1.4)
-vx, vy = tf(-110.93891, 52.75486); ax.plot(vx, vy, "^", ms=12, mfc=hx(YEL), mec=hx(INK), mew=1.2)
+s17.plot(ax=ax, color=hx((255, 112, 40)), alpha=0.42, lw=0); s17.plot(ax=ax, facecolor="none", edgecolor=hx(CREAM), hatch="---", lw=0, alpha=0.5); s17.boundary.plot(ax=ax, color=hx(CREAM), lw=1.6)
+SEPT.plot(ax=ax, color=hx((255, 112, 40)), alpha=0.42, lw=0); SEPT.plot(ax=ax, facecolor="none", edgecolor=hx(CC), hatch="///", lw=0, alpha=0.55); SEPT.boundary.plot(ax=ax, color=hx(INK), lw=3.4); SEPT.boundary.plot(ax=ax, color=hx(CC), lw=2.0)
+O14 = BR[BR.name == "oct14_burn"]; O14.plot(ax=ax, color=hx((255, 112, 40)), alpha=0.42, lw=0); O14.plot(ax=ax, facecolor="none", edgecolor=hx(CD), hatch="xxx", lw=0, alpha=0.55); O14.boundary.plot(ax=ax, color=hx(INK), lw=3.4); O14.boundary.plot(ax=ax, color=hx(CD), lw=2.0)
+fx, fy = tf(F.longitude.values, F.latitude.values); ax.plot(fx, fy, "s", ms=6, mfc=hx(CC), mec=hx(INK), mew=0.8)
+vx, vy = tf(-110.93891, 52.75486); ax.plot(vx, vy, "D", ms=11, mfc=hx(CD), mec=hx(INK), mew=1.2)
 ig = fit["_sunset"]["top15"][:6]; ix, iy = tf([p["lon"] for p in ig], [p["lat"] for p in ig]); ax.plot(ix, iy, "x", ms=9, mew=2.4, color="white")
 st = dict(color=hx(CREAM), fontsize=13, weight="bold", path_effects=[pe.withStroke(linewidth=3.5, foreground=hx(INK))])
 for nm, (lo_, la_), off in (("Range 11", (-110.9577, 52.7678), (-70, 8)), ("Range 13", (-110.94249, 52.75627), (-82, 2)), ("Range 2", (-110.9063, 52.7728), (8, 6))):
     x, y = tf(lo_, la_); ax.plot(x, y, "o", ms=8, mfc="white", mec="k"); ax.annotate(nm, (x, y), off, textcoords="offset points", **st)
-for txt, (lo_, la_), c in (("Oct. 17 burn", (-110.905, 52.792), CREAM), ("Sept. 18-20 burn", (-110.905, 52.733), (240, 170, 90)), ("Oct. 14 burn", (-110.975, 52.742), RED), ("Permanent Danger Area 2\n(OpenStreetMap)", (-110.982, 52.792), GOLD)):
+for txt, (lo_, la_), c in (("Oct. 17 burn", (-110.905, 52.792), CREAM), ("Sept. 18-20 burn", (-110.905, 52.733), CC), ("Oct. 14 burn", (-110.975, 52.742), CD), ("Permanent Danger Area 2\n(OpenStreetMap)", (-110.982, 52.792), GOLD)):
     x, y = tf(lo_, la_); ax.text(x, y, txt, color=hx(c), fontsize=14, weight="bold", path_effects=[pe.withStroke(linewidth=3.5, foreground=hx(INK))])
 ax.set_xlim(x0, x1); ax.set_ylim(y1, y0); ax.set_axis_off(); f.subplots_adjust(0, 0, 1, 1); mp = to_img(f)
 # right panel: how big it should have been
@@ -72,12 +74,12 @@ for l, fnt, col in (("Free-burning at the standard grass-fire rate, a fire seen 
                     ("fire did before its wind shift, and started early, around", M(16), CREAM), ("6-8:30 a.m. (the earliest we tested). Or it was put out.", M(16), CREAM), ("", M(10), CREAM),
                     ("Satellite fire detections in the training area", B(18), GOLD),
                     ("Sept. 16  1:34 p.m.   north-east of the base", M(15), CREAM), ("Sept. 18  3:14 p.m.   PDA 2, about 5 km SE of the Oct. 14 burn", M(15), CREAM),
-                    ("Sept. 20  3:07 a.m. to 2:55 p.m.   PDA 2, same fire (31)", B(15), (240, 170, 90)), ("Sept. 21  1:42 p.m.   PDA 3A F1, 9.5 km west", M(15), CREAM),
-                    ("Oct. 14   2:51 p.m.   PDA 2, at Range 13", B(15), RED), ("Oct. 17   12:17 p.m. onward   PDA 2", B(15), CREAM)):
+                    ("Sept. 20  3:07 a.m. to 2:55 p.m.   PDA 2, same fire (31)", B(15), CC), ("Sept. 21  1:42 p.m.   PDA 3A F1, 9.5 km west", M(15), CREAM),
+                    ("Oct. 14   2:51 p.m.   PDA 2, at Range 13", B(15), CD), ("Oct. 17   12:17 p.m. onward   PDA 2", B(15), CREAM)):
     d.text((xr, y), l, font=fnt, fill=col); y += 27
 lx, ly = 70, 200 + 860 - 90
-d.rectangle([lx, ly - 30, lx + 24, ly - 8], fill=(255, 112, 40)); label(d, (lx + 32, ly - 34), "Contemporaneous burn (outline: amber Sept. 18-20, red Oct. 14, white Oct. 17)", col=CREAM, size=15)
-for sym, txt in (("▲", "VIIRS detections: Sept. 20 (open), Oct. 14 (filled)"), ("x", "Best-fit start points for the Oct. 14 fire (model)")):
+d.rectangle([lx, ly - 30, lx + 24, ly - 8], fill=(255, 112, 40)); label(d, (lx + 32, ly - 34), "Contemporaneous burn; outline/hatch: cyan Sept. 18-20, pink Oct. 14, white Oct. 17", col=CREAM, size=15)
+for sym, txt in (("■ ◆", "VIIRS detections: Sept. 20 (squares), Oct. 14 (diamond)"), ("x", "Best-fit start points for the Oct. 14 fire (model)")):
     label(d, (lx, ly), f"{sym}  {txt}", col=CREAM, size=15); ly += 34
 footer(im, ["Burns: Sentinel-2 Oct. 4 (L2A) vs Landsat 9 Oct. 16 (TOA), NBR thresholds per sensor (Oct. 14 burn 0.91-1.13 km² across thresholds); Sept. 20 burn as seen Oct. 4.",
             "Detections: NASA FIRMS (VIIRS S-NPP, NOAA-20, NOAA-21), MDT. Model: FBP O-1a, 95% curing, CZWN hourly weather, 9,180+ runs per variant.",

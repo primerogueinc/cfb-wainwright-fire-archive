@@ -8,8 +8,11 @@ from rasterio.transform import from_origin
 from pyproj import Transformer
 import matplotlib.patheffects as pe
 from matplotlib.patches import Rectangle
+matplotlib.rcParams['hatch.linewidth'] = 1.3
 tf = Transformer.from_crs(4326, 3400, always_xy=True).transform
 FC = REPO + "data/fire_compare/"
+HATCH = {"aug27_28": "\\\\\\", "sept16": "...", "sept18_20": "///", "oct14": "xxx", "oct17": "---"}
+MARK = {"aug27_28": "v", "sept16": "o", "sept18_20": "s", "oct14": "D", "oct17": "^"}
 BURN = (255, 112, 40)  # one fill for every burn from Aug. 27-Oct. 17, 2026
 LEG = "Contemporaneous burn, Aug. 27-Oct. 17, 2026"
 F = pd.read_csv(REPO + "data/firms/history_2012-2026/all_detections_merged.csv"); F = F[F.source.str.contains("VIIRS|LANDSAT") & (F.acq_date >= "2026-08-27") & (F.acq_date <= "2026-10-17")]
@@ -22,10 +25,10 @@ def scar(f):
 def summ(f):
     p = FC + f + "/summary.json"; return json.load(open(p)) if os.path.exists(p) else None
 FIRES = [  # id, label, date filter, colour, box half-size (m)
-    ("aug27_28", "A", "Aug. 27-28, Sept. 21", ["2026-08-27", "2026-08-28", "2026-09-21"], (200, 120, 200), 2400),
-    ("sept16", "B", "Sept. 16", ["2026-09-16"], (150, 200, 120), 900),
-    ("sept18_20", "C", "Sept. 18-20", ["2026-09-18", "2026-09-19", "2026-09-20"], (214, 140, 60), 2600),
-    ("oct14", "D", "Oct. 14", ["2026-10-14"], RED, 1200),
+    ("aug27_28", "A", "Aug. 27-28, Sept. 21", ["2026-08-27", "2026-08-28", "2026-09-21"], (190, 120, 255), 2400),
+    ("sept16", "B", "Sept. 16", ["2026-09-16"], (120, 225, 120), 900),
+    ("sept18_20", "C", "Sept. 18-20", ["2026-09-18", "2026-09-19", "2026-09-20"], (70, 205, 235), 2600),
+    ("oct14", "D", "Oct. 14", ["2026-10-14"], (255, 80, 140), 1200),
     ("oct17", "E", "Oct. 17", ["2026-10-17"], CREAM, 3000)]
 x0, y0 = tf(-111.10, 52.845); x1, y1 = tf(-110.82, 52.695); RES = 20; W_, H_ = int((x1 - x0) / RES), int((y0 - y1) / RES); T = from_origin(x0, y0, RES, RES)
 L = glob.glob("/home/claude/cfb-wainwright-landsat-8-9/landsat/2026-10-16/*/*B7.TIF")[0].replace("B7.TIF", "B%s.TIF")
@@ -42,13 +45,18 @@ def draw(ax, focus=None):
         c = g.representative_point(); ax.annotate(nm, (c.x, c.y), (4, 4), textcoords="offset points", **st(CREAM, 9 if focus is None else 11))
     for fid, lab, nm, dates, col, half in FIRES:
         g = s17 if fid == "oct17" else scar(fid)
-        if g is not None: g.plot(ax=ax, color=hx(BURN), alpha=0.45, lw=0); g.boundary.plot(ax=ax, color=hx(col), lw=2.0 if focus == fid else 1.3)
+        if g is not None:
+            g.plot(ax=ax, color=hx(BURN), alpha=0.42, lw=0)
+            g.plot(ax=ax, facecolor="none", edgecolor=hx(col), hatch=HATCH[fid], lw=0, alpha=0.55 if focus in (None, fid) else 0.3)
+            g.boundary.plot(ax=ax, color=hx(INK), lw=3.6 if focus in (None, fid) else 2.2); g.boundary.plot(ax=ax, color=hx(col), lw=2.2 if focus in (None, fid) else 1.0)
+            if focus is None or focus == fid:
+                c = g.geometry.union_all().representative_point(); ax.text(c.x, c.y, lab, ha="center", va="center", **st(col, 22 if focus is None else 30))
         d = F[F.acq_date.isin(dates)]
         if fid == "oct17": d = d[d.mdt.dt.hour < 15]
         else:
             c = {"aug27_28": (52.728, -111.04), "sept16": (52.825, -110.858), "sept18_20": (52.73, -110.91), "oct14": (52.7549, -110.9389)}[fid]
             d = d[np.hypot((d.latitude - c[0]) * 111, (d.longitude - c[1]) * 67.4) < 4]
-        px, py = tf(d.longitude.values, d.latitude.values); ax.plot(px, py, "^", ms=5 if focus is None else 8, mfc=hx(col), mec=hx(INK), mew=0.6)
+        px, py = tf(d.longitude.values, d.latitude.values); ax.plot(px, py, MARK[fid], ms=5 if focus is None else 8, mfc=hx(col), mec=hx(INK), mew=0.8)
 CENT = {}
 for fid, lab, nm, dates, col, half in FIRES:
     g = s17 if fid == "oct17" else scar(fid)
@@ -57,7 +65,7 @@ for fid, lab, nm, dates, col, half in FIRES:
 f, ax = fig(980, 760); draw(ax)
 for fid, lab, nm, dates, col, half in FIRES:
     cx, cy = CENT[fid]; ax.add_patch(Rectangle((cx - half, cy - half), 2 * half, 2 * half, fill=False, ec=hx(col), lw=2.2))
-    ax.text(cx - half + 120, cy + half - 420, lab, **st(col, 22))
+    if fid == "sept16": ax.text(cx - half + 120, cy + half - 420, lab, **st(col, 22))
 x, y = tf(-111.0, 52.792); ax.text(x, y, "Permanent Danger Area 2\n(dashed, OpenStreetMap)", **st(GOLD, 12))
 xb = EXT[1] - 2600; yb = EXT[2] + 500; ax.plot([xb, xb + 2000], [yb, yb], color=hx(CREAM), lw=3); ax.text(xb, yb + 150, "2 km", **st(CREAM, 11))
 ax.set_xlim(EXT[0], EXT[1]); ax.set_ylim(EXT[2], EXT[3]); ax.set_axis_off(); f.subplots_adjust(0, 0, 1, 1); OV = to_img(f)
@@ -72,10 +80,10 @@ for fid, lab, nm, dates, col, half in FIRES:
 W, H = 1600, 1560
 im, d = canvas(W, H, "CFB WAINWRIGHT FIRE · EVERY FIRE SATELLITES SAW, AUG. 27-OCT. 17, 2026",
                "Five fires in seven weeks, all but one inside permanent danger areas",
-               "Boxes A-E on the overview map are shown up close below. Outlines: burn scars from Sentinel-2 (Oct. 4) and Landsat 9 (Oct. 16); triangles: NASA VIIRS fire detections.\n"
+               "Boxes A-E on the overview map are shown up close below. Outlines: burn scars from Sentinel-2 (Oct. 4) and Landsat 9 (Oct. 16); markers: NASA VIIRS fire detections.\n"
                "Background: Landsat 9 shortwave infrared, Oct. 16 (before the Oct. 17 fire; its outline is the final scar).")
 im.paste(OV, (54, 205)); d = ImageDraw.Draw(im)
-d.rectangle([70, 205 + 760 - 44, 96, 205 + 760 - 22], fill=BURN); label(d, (104, 205 + 760 - 48), LEG + "  (outline colour = fire A-E; A also includes older burns)", col=CREAM, size=15)
+d.rectangle([70, 205 + 760 - 44, 96, 205 + 760 - 22], fill=BURN); label(d, (104, 205 + 760 - 48), "Orange fill: contemporaneous burn, Aug. 27-Oct. 17, 2026. Each fire: its own colour, hatching, letter and marker.", col=CREAM, size=14)
 # right column: comparison list
 xr = 54 + 980 + 30; y = 205
 d.text((xr, y), "How each fire behaved", font=B(22), fill=GOLD); y += 40
@@ -99,8 +107,10 @@ def fmt(fid):
     if fid == "aug27_28": out.append("Seen again Sept. 21, 1:42-3:23 p.m., same scar.")
     return out
 for fid, lab, nm, dates, col, half in FIRES:
-    d.text((xr, y), f"{lab}  {nm}", font=B(19), fill=col); y += 28
-    for l in fmt(fid): d.text((xr + 30, y), l, font=M(15), fill=CREAM); y += 23
+    d.rectangle([xr, y + 2, xr + 34, y + 24], fill=BURN, outline=col, width=4)
+    MK = {"aug27_28": "▼", "sept16": "●", "sept18_20": "■", "oct14": "◆", "oct17": "▲"}[fid]
+    d.text((xr + 44, y), f"{lab}  {nm}", font=B(19), fill=col); d.text((xr + 44 + d.textlength(f"{lab}  {nm}", font=B(19)) + 10, y + 1), MK, font=M(17), fill=col); y += 28
+    for l in fmt(fid): d.text((xr + 44, y), l, font=M(15), fill=CREAM); y += 23
     y += 12
 # panels
 py = 205 + 760 + 30
