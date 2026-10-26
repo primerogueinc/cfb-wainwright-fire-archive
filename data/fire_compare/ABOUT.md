@@ -27,15 +27,11 @@ Same model for each (`model_fire.py`): FBP O-1a grass, 95% curing, corrected ISI
 
 **Reading.** Every fire in the danger areas this fall behaved like Oct. 17 before its wind shift: far slower and smaller than the standard grass-fire calculation. That supports the explanation that this ground burns slower than the standard model (fine fuel, grazing, cratering, moisture at grass height) and it means range staff would have seen fires stay tame several times in the weeks before. It does not show whether any was suppressed: satellites cannot see firefighting. Fires A and C were burning at night (2-4 a.m.).
 
-## 2025 and 2026 (`fire_days_2025_2026.csv`, graphic `cfb-wainwright-fires-2025-2026.jpg`)
+## Context (anchor text for a companion piece)
 
-Every day with a NASA satellite fire detection in the central training area, April-October 2025 and 2026 (2025: VIIRS S-NPP and Landsat; 2026 adds NOAA-20 and NOAA-21, so 2026 catches more small fires).
-
-- **Spring:** detections Apr. 24-May 1, 2025 and Apr. 20-May 1, 2026. DND announced spring fuel-reduction ("prescribed") burns for Apr. 10-May 5, 2026 ([Lakeland Connect](https://lakelandconnect.net/2026/04/09/fuel-reduction-burns-underway-at-cfb-wainwright-through-early-may/), [Border Pulse](https://borderpulse.ca/dnd-warns-of-increased-smoke-near-cfb-wainwright/)) and for Apr. 2-May 2, 2024 ([Town of Wainwright](https://wainwright.ca/news/posts/garrison-wainwright-planning-prescribed-burns-in-range-training-area-april-2-may-2-2024/), [Global News](https://globalnews.ca/news/10448300/cfb-wainwright-prescribed-burn/)); "range control staff and firefighters" monitored the 2024 burn "around the clock". We found no 2025 notice in a short search.
-- **September 2025:** an 11-day episode in PDA 3A F1/F2, Sept. 5-15, detected at night (about 3-5 a.m.) on six of those days; Sept. 25 in PDA 2. NBAC 2025 maps 5,089 ha in one DND polygon whose detections run Apr. 25-Sept. 11.
-- **Fall 2026:** fires A-E above. We found no public notice of fall burns in either year.
-
-The longer record (2012-2024) is outside this story; [backlink to the companion piece goes here].
+This story covers Aug. 27-Oct. 17, 2026. Two pieces of context are referenced as anchor text and will link to a companion piece on the long-term fire record, once published:
+- the [2025 fire season on the base] [link to come];
+- [controlled burns near CFB Wainwright] [link to come]: DND announces spring fuel-reduction burns (Apr. 10-May 5, 2026, per [Lakeland Connect](https://lakelandconnect.net/2026/04/09/fuel-reduction-burns-underway-at-cfb-wainwright-through-early-may/); Apr. 2-May 2, 2024, per the [Town of Wainwright](https://wainwright.ca/news/posts/garrison-wainwright-planning-prescribed-burns-in-range-training-area-april-2-may-2-2024/)). We found no public notice of burns in late summer or fall 2026.
 
 ## Public record
 

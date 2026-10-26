@@ -4,5 +4,4 @@
 
 - `cfb-wainwright-all-fires-sept16-oct17.jpg` (g36): every fire Aug. 27-Oct. 17 boxed on one map with zoomed panels; one fill for every 2026 burn, each fire with its own colour, hatching, letter and marker; ranges from OSM.
 - `cfb-wainwright-fire-A-...` to `-E-...`: one image per fire.
-- `cfb-wainwright-fires-2025-2026.jpg` (g39): every fire day, April-October 2025 and 2026, with daily FWI and the announced 2026 spring burn window.
 Notes: `data/fire_compare/ABOUT.md`.
