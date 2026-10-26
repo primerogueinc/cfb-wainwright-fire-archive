@@ -10,6 +10,8 @@ import matplotlib.patheffects as pe
 from matplotlib.patches import Rectangle
 tf = Transformer.from_crs(4326, 3400, always_xy=True).transform
 FC = REPO + "data/fire_compare/"
+BURN = (255, 112, 40)  # one fill for every burn from Aug. 27-Oct. 17, 2026
+LEG = "Contemporaneous burn, Aug. 27-Oct. 17, 2026"
 F = pd.read_csv(REPO + "data/firms/history_2012-2026/all_detections_merged.csv"); F = F[F.source.str.contains("VIIRS|LANDSAT") & (F.acq_date >= "2026-08-27") & (F.acq_date <= "2026-10-17")]
 F["mdt"] = pd.to_datetime(F.acq_date + " " + F.acq_time.astype(str).str.zfill(4)) - pd.Timedelta(hours=6)
 s17 = gpd.read_file(REPO + "data/infrastructure/scar_patches_revised.geojson").to_crs(3400); s17 = s17[s17.patch == "main Oct 17 run"]
@@ -40,7 +42,7 @@ def draw(ax, focus=None):
         c = g.representative_point(); ax.annotate(nm, (c.x, c.y), (4, 4), textcoords="offset points", **st(CREAM, 9 if focus is None else 11))
     for fid, lab, nm, dates, col, half in FIRES:
         g = s17 if fid == "oct17" else scar(fid)
-        if g is not None: g.boundary.plot(ax=ax, color=hx(col), lw=2.0 if focus == fid else 1.3)
+        if g is not None: g.plot(ax=ax, color=hx(BURN), alpha=0.45, lw=0); g.boundary.plot(ax=ax, color=hx(col), lw=2.0 if focus == fid else 1.3)
         d = F[F.acq_date.isin(dates)]
         if fid == "oct17": d = d[d.mdt.dt.hour < 15]
         else:
@@ -73,6 +75,7 @@ im, d = canvas(W, H, "CFB WAINWRIGHT FIRE · EVERY FIRE SATELLITES SAW, AUG. 27-
                "Boxes A-E on the overview map are shown up close below. Outlines: burn scars from Sentinel-2 (Oct. 4) and Landsat 9 (Oct. 16); triangles: NASA VIIRS fire detections.\n"
                "Background: Landsat 9 shortwave infrared, Oct. 16 (before the Oct. 17 fire; its outline is the final scar).")
 im.paste(OV, (54, 205)); d = ImageDraw.Draw(im)
+d.rectangle([70, 205 + 760 - 44, 96, 205 + 760 - 22], fill=BURN); label(d, (104, 205 + 760 - 48), LEG + "  (outline colour = fire A-E; A also includes older burns)", col=CREAM, size=15)
 # right column: comparison list
 xr = 54 + 980 + 30; y = 205
 d.text((xr, y), "How each fire behaved", font=B(22), fill=GOLD); y += 40
@@ -80,7 +83,7 @@ CMP = pd.read_csv(FC + "comparison.csv").set_index("fire")
 fwis = lambda v: (lambda a: f"{min(a):.0f}-{max(a):.0f}" if len(a) > 1 else f"{a[0]:.0f}")([float(x) for x in str(v).split(";")])
 def fmt(fid):
     if fid == "oct17": return ["Burned 10.8 km² (FWI 30.8, Extreme). Crept at about", "a sixth of the standard rate all day, then ran", "4.4-12 km/h after the 3:16 p.m. front. Four killed."]
-    if fid not in CMP.index and fid == "aug27_28": return ["Seen only at night: Aug. 27, 2:16-3:20 a.m.; Aug. 28, 2:16-3:58 a.m.", "Scar on Oct. 4 about 8.8 km², mixed with 2020-23 burns.", "Seen again Sept. 21, 1:42-3:23 p.m., same scar. (Model running.)"]
+    if fid not in CMP.index and fid == "aug27_28": return ["Seen only at night: Aug. 27 2:16-3:20, Aug. 28 2:16-3:58 a.m.", "Scar on Oct. 4 about 8.8 km², mixed with 2020-23 burns.", "Seen again Sept. 21, 1:42-3:23 p.m., same scar. (Model running.)"]
     if fid not in CMP.index: return ["(model running)"]
     c = CMP.loc[fid]; out = []
     sc = c.scar_km2
@@ -116,7 +119,8 @@ for fid, lab, nm, dates, col, half in FIRES:
     ax.plot([cx + half * 0.9 - sb, cx + half * 0.9], [cy - half * 0.9] * 2, color=hx(CREAM), lw=4); ax.text(cx + half * 0.9 - sb, cy - half * 0.85, f"{sb/1000:g} km", **st(CREAM, 14))
     f.subplots_adjust(0, 0, 1, 1); pimg = to_img(f)
     im2, d2 = canvas(900, 1310, f"CFB WAINWRIGHT · FIRE {lab} · {SUB[fid].upper()}", nm, None)
-    im2.paste(pimg, (50, 150)); d2 = ImageDraw.Draw(im2); yy = 965
+    im2.paste(pimg, (50, 150)); d2 = ImageDraw.Draw(im2); yy = 1000
+    d2.rectangle([50, 962, 74, 984], fill=BURN); d2.text((84, 962), LEG, font=M(17), fill=CREAM)
     for l in fmt(fid): d2.text((50, yy), l, font=M(18), fill=CREAM); yy += 28
     footer(im2, ["Landsat 9, Oct. 16 (SWIR). Burn outline; NASA VIIRS detections (triangles).", "Ranges, PDA 2: OpenStreetMap (ODbL), not official.", "Data and code: github.com/primerogueinc/cfb-wainwright-fire-archive", "Graphic: Kevin Duska Jr. (Prime Rogue Inc.), CC BY-NC 4.0."], fh=170)
     im2.convert("RGB").save(REPO + f"data/graphics_published/oct25_oct14_fire/cfb-wainwright-fire-{lab}-{fid}.jpg", quality=90)
