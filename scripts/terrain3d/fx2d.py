@@ -44,7 +44,7 @@ class FireFX:
         """Composite flames and smoke for camera frame f, global frame g, clock t (min)."""
         W, H = im.size; sx, sy = W / self.S.W, H / self.S.H; Sc = W / 960
         dt = t - self.cells[:, 2]
-        win = np.where(self.cells[:, 2] < T_SHIFT, 40.0, 4.0)
+        win = np.where(self.cells[:, 2] < T_SHIFT, 40.0, 1.5)
         act = (dt >= 0) & (dt <= win)
         if not act.any():
             return im
@@ -63,7 +63,7 @@ class FireFX:
         AGE = 18  # frames a puff lives
         drift = 28.0 if t < T_SHIFT else 60.0  # metres per frame downwind (screen time)
         rise = 20.0                            # scene units per frame (height is x3)
-        em = idx[(self.emit[idx] < (0.10 if t < T_SHIFT else 0.03))]
+        em = idx[(self.emit[idx] < (0.10 if t < T_SHIFT else 0.012))]
         for j in em:
             x0, y0, z0 = self.cells[j, 0], self.cells[j, 1], self.z[j]
             for k in range(0, AGE, 3):
@@ -72,18 +72,18 @@ class FireFX:
                 qx, qy, qd = self.S.project(f, (xs, ys, zs))
                 if qd <= 0:
                     continue
-                r = (3 + 0.9 * age) * Sc * 5200 / qd
+                r = min((3 + 0.9 * age) * Sc * 5200 / qd, 12 * Sc)
                 a = int(115 * (1 - age / AGE))
                 X_, Y_ = qx * sx, qy * sy
                 sd.ellipse([X_ - r, Y_ - r, X_ + r, Y_ + r], fill=(205, 200, 195, a))
-        smoke = smoke.filter(ImageFilter.GaussianBlur(3 * Sc))
+        smoke = smoke.filter(ImageFilter.GaussianBlur(6 * Sc))
         im = im.convert('RGBA'); im.alpha_composite(smoke)
 
         # --- flames (additive glow) ----------------------------------------
         glow = Image.new('RGB', (W, H), (0, 0, 0)); gd = ImageDraw.Draw(glow)
         core = Image.new('RGB', (W, H), (0, 0, 0)); cd = ImageDraw.Draw(core)
         for x, y, d, v in zip(px[ok] * sx, py[ok] * sy, depth[ok], inten[ok]):
-            r = max(1.2, 2.6 * Sc * 5200 / d)
+            r = min(max(1.2, 2.6 * Sc * 5200 / d), 3.2 * Sc)
             c = (int(255 * v), int(110 * v), int(20 * v))
             gd.ellipse([x - 2 * r, y - 2 * r, x + 2 * r, y + 2 * r], fill=c)
             cc_ = (int(255 * v), int(215 * v), int(140 * v))

@@ -54,6 +54,7 @@ FX = FireFX(TR, arr)
 import pandas as pd
 sw = pd.read_csv(SWOB)
 sw = sw[sw.time_mdt.str.startswith('2026-10-17') & sw.max_wnd_spd_pst1hr_tm.notna()]
+sw = sw[sw.time_mdt < '2026-10-17 16:00']  # the 16:00 report holds the 3:16 gust front; it is used only from 3:16
 WT = np.array([int(s[11:13]) * 60 for s in sw.time_mdt]) - 30  # mid-hour of the reporting period
 WD = sw.avg_wnd_dir_10m_pst10mts.values.astype(float); WS = sw.avg_wnd_spd_10m_pst10mts.values.astype(float)
 WG = sw.max_wnd_spd_10m_pst1hr.values.astype(float)
@@ -62,6 +63,7 @@ WG = sw.max_wnd_spd_10m_pst1hr.values.astype(float)
 def wind(t):
     if t >= T_SHIFT:  # the gust front: CZWN 82 km/h at 3:16 p.m., then from the northwest
         return 307.0, 47.6, 82.0
+    t = min(t, WT[-1])  # hold the last pre-front report until the gust front
     u = np.interp(t, WT, np.sin(np.radians(WD)) * WS); v = np.interp(t, WT, np.cos(np.radians(WD)) * WS)
     return (math.degrees(math.atan2(u, v)) % 360, float(np.interp(t, WT, WS)), float(np.interp(t, WT, WG)))
 
@@ -149,7 +151,7 @@ def paint_fire(d, t, final_fade):
     base = d['base'].copy(); A = d['A']
     dt = t - A
     burning = np.nan_to_num(dt, nan=-1) >= 0
-    tau = np.where(A < T_SHIFT, 15.0, 1.2)
+    tau = np.where(A < T_SHIFT, 15.0, 0.8)
     glow = np.where(burning, np.exp(-np.clip(np.nan_to_num(dt), 0, None) / tau), 0.0) ** 2
     inscar = d['SC'] > 0.5
     char = np.where(burning & inscar, np.clip(np.nan_to_num(dt) / 2.0, 0, 1), 0.0) * (0.6 + 0.4 * d['SV'])
@@ -168,7 +170,7 @@ def night(img, glow, t):
         tint = np.array([0.55, 0.65, 1.0], np.float32)
         img = img * (1 - 0.86 * dark) * (tint * dark + (1 - dark))
     g = glow[..., None] * np.array([1.0, 0.36, 0.06], np.float32)
-    gl = cv2.GaussianBlur(g, (0, 0), 1.2) * 1.4 + cv2.GaussianBlur(g, (0, 0), 7) * (0.8 + 1.2 * dark)
+    gl = cv2.GaussianBlur(g, (0, 0), 1.2) * 1.0 + cv2.GaussianBlur(g, (0, 0), 7) * (0.45 + 1.4 * dark)
     return np.clip(img + gl, 0, 1)
 
 
@@ -183,7 +185,7 @@ def caption(fr, t):
                 'Grey: burned, timing unknown (not connected to the main fire; includes heat VIIRS saw on Oct. 14).', WHITE)
     if fr['card'] == 'forecast':
         return (clock(t), 'Environment Canada\'s 4:30 a.m. forecast: west winds gusting to 80 km/h this afternoon',
-                'C Company is training on the range. The day\'s live fire includes the automatic grenade launcher range, Range 11.', WHITE)
+                'Overnight the wind is light, from the south-southwest (CZWN station).', WHITE)
     if t < hm(7, 50):
         return (clock(t), 'Modelled: the fire starts in Range 11\'s impact area',
                 'Working model v4 best fit, about 5 a.m. (v4 4:00-6:30; v3 3:30-7). Night firing or a holdover from '
@@ -256,7 +258,7 @@ for fr in story:
         if t < hm(12, 0):
             TR.draw_agl(im, i, i % 48, 48)
     # C Company: moving until 3:16; dimmed while the scenarios play
-    if not fr['final']:
+    if not fr['final'] and t >= hm(7, 50):
         a_c = 1.0 if t < T_SHIFT else 0.35
         TR.draw(im, i, i, t, alpha=a_c * (1 - 0.6 * dark))
     dr = ImageDraw.Draw(im)
