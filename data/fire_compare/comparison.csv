@@ -1,0 +1,6 @@
+fire,area_osm,dates,detections,passes,first_last_pass_mdt,detection_span_h,night_detections,max_pass_frp_mw,fwi,max_wind_kmh,min_rh,peak_standard_spread_kmh,scar_km2,standard_rate_km2_by_dusk_p50,standard_matches_all_passes,standard_share_hitting_grid_edge,slow_factor_0p17_km2_by_dusk_p50,ratio_dusk,standard_rate_km2_24h_p50,best_rate_factor_dusk,best_overlap_dusk,ignition_weighted_median_h,pre_front_pace
+sept16,outside the mapped danger areas,2026-09-16 (+1 passes),1,1,13:34-13:34,0.0,0,1.1,4.3,16.0,30.0,0.7,0.0,4.2,True,0.0,0.09,,14.49,1.0,0.0,5.57,
+sept18_20,PDA 2,2026-09-18 (+10 passes),35,10,15:14-14:55,47.68,5,285.8,11.2;18.8;22.1,24.0,31.0,1.94,5.684,59.32,False,1.0,11.06,10.4,59.62,0.3,0.205,6.42,
+sept21,PDA 3A F1,2026-09-21 (+4 passes),7,4,13:42-15:23,1.68,0,50.1,22.7,27.0,29.0,2.15,8.767,9.6,True,1.0,0.66,1.1,31.94,1.0,0.164,6.2,
+oct14,PDA 2 (Range 13),2026-10-14 (+1 passes),1,1,14:51-14:51,0.0,0,11.7,15.6,43.0,36.0,3.02,1.058,4.04,True,0.71,0.49,3.8,13.02,0.3,0.528,5.35,
+oct17,PDA 2,2026-10-17,67,2,12:17-14:49,2.53,0,75.0,30.8,48.0,16.0,7.0,10.79,,,,,,,0.17 before the 3:16 p.m. front,,5.0,about 1/6 of standard (0.43 vs 2.5 km/h)
