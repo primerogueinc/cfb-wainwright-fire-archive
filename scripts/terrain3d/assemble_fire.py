@@ -47,7 +47,7 @@ def phase(t, fade):
                 'Yellow: 59 fire pixels (30 m each), about 1.9 km long.', AMBER)
     if t < T_V:
         return (clock(t), 'The fire creeps north',
-                'Between satellite passes the spread is modelled, not observed: timed by distance from the noon line.', AMBER)
+                'Between satellite passes the spread is modelled (working model v4), not observed.', AMBER)
     if t < T_SHIFT:
         return (clock(t), 'NOAA-20 sees the fire (blue). The wind is from the southwest',
                 'The fire has grown about 1 km north since noon.', BLUE)
