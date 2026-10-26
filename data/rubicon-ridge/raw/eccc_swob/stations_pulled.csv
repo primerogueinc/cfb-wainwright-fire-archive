@@ -1,0 +1,39 @@
+network,id,name,lat,lon,dist_km_from_fire
+msc,CPNX,RANFURLY AUTO,53.4249,-111.7257,91.6
+msc,CPWX,WASECA RCS,53.131451,-109.405481,108.4
+msc,CWCT,CORONATION CLIMATE,52.07427,-111.449205,85.2
+msc,CWGY,ESTHER 1,51.6697,-110.2061,130.7
+msc,CWRV,CAMROSE,53.042863,-112.821616,132.2
+msc,CWTS,SCOTT CDA,52.359879,-108.834815,147.0
+msc,CWVI,VEGREVILLE,53.5053,-112.0978,114.5
+msc,CYLL,Lloydminster,53.3106,-110.074,82.3
+msc,CZWN,WAINWRIGHT CFB AIRFIELD 21,52.8294,-111.0956,14.7
+ab_agriculture,ALBE,Albert Hall AGCM,53.1134,-111.1812,43.0
+ab_agriculture,ALLI,Alliance AGCM,52.3154,-111.7787,77.4
+ab_agriculture,BELL,Bellshill AGCM,52.5824,-111.4654,42.9
+ab_agriculture,BODO,Bodo AGDM,52.1242,-110.1011,89.7
+ab_agriculture,CADO,Cadogan AGCM,52.3343,-110.51,54.8
+ab_agriculture,CONS,Consort AGDM,51.9371,-110.713,92.9
+ab_agriculture,DEWY,Dewberry AGCM,53.6593,-110.5876,101.7
+ab_agriculture,EDGE,Edgerton AGCM,52.7778,-110.4328,31.8
+ab_agriculture,FLEE,Fleet AGCM,52.0411,-111.8133,101.3
+ab_agriculture,FURG,Forestburg AGCM,52.5484,-112.1234,85.6
+ab_agriculture,GILT,Gilt Edge North AGCM,53.071,-110.621,39.0
+ab_agriculture,GLAD,Gladstone AGCM,52.9875,-112.2783,95.4
+ab_agriculture,GOOS,Gooseberry Lake AGCM,52.1131,-110.8025,72.8
+ab_agriculture,HOLD,Holden AGDM,53.1852,-112.2462,101.2
+ab_agriculture,HUGH,Hughenden AGCM,52.5782,-110.7837,22.3
+ab_agriculture,KESS,Kessler AGCM,52.2902,-111.1132,54.6
+ab_agriculture,KILL,Killam AGDM,52.8475,-111.8723,65.7
+ab_agriculture,KINS,Kinsella Research,53.0469,-111.5473,53.3
+ab_agriculture,KIRR,Kirriemuir AGCM,51.9133,-110.3592,101.7
+ab_agriculture,KITS,Kitscoty AGCM,53.3534,-110.4161,73.2
+ab_agriculture,LLDM,Lloydminster LITE,53.3581,-110.0253,88.4
+ab_agriculture,MRNM,Myrnam LITE,53.7081,-111.1331,106.0
+ab_agriculture,MVIL,Mannville AGCM,53.4557,-111.2555,80.3
+ab_agriculture,RIBS,Ribstone South AGCM,52.587,-110.3429,42.7
+ab_agriculture,RIVE,Rivercourse AGCM,53.0189,-110.102,60.9
+ab_agriculture,ROSA,Rosalind AGCM,52.7922,-112.4222,102.1
+ab_agriculture,TWOH,Two Hills AGDM,53.6252,-111.6781,108.7
+ab_agriculture,VERM,Vermilion AGDM,53.3438,-110.8818,64.4
+ab_agriculture,VIKI,Viking AGCM,53.1822,-111.7316,72.2
