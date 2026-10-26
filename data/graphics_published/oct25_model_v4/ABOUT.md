@@ -26,3 +26,7 @@ Working title "Monitored for hours, beyond control in minutes". Background: Sent
 ## DND's clock (`cfb-wainwright-dnd-clock.jpg`, g34_dnd_clock.py)
 
 DND's Oct. 22 wording ("Just before 4:00 local time, uncommonly high winds took a pre-existing range fire towards the pairs range and it overtook their position") against ECCC CZWN (peak gust 82 km/h at 3:16 p.m.; 10.4 °C drop between the 3 and 4 p.m. readings), GOES-18 fire power (76 MW at the 3:10 scan, 1,215 MW at the 3:30 scan) and model v4 arrival medians. The first two rows need no model. GOES times are scan start times (10-minute scans).
+
+## Reconstruction animation
+
+`cfb-wainwright-v4-reconstruction.mp4` / `.gif` (`scripts/maps/g40_v4_animation.py`): Oct. 17, 11 a.m. to 4 p.m., 48 s at 4 frames a second. Pre-front fire: case v4b (`model_v4/arrival_prefront_v4b_2x_lb3.0_0500.tif`). After 3:16 p.m.: that case's best fit to the scar (wind from 315°, 8 km/h head spread, steady shape; Jaccard 0.547, best of all 240 runs 0.551), starting from the modelled fire joined with the outline of the 12:17 and 2:49 p.m. detections. In this run the fire reaches Range 2 at 3:21 p.m. and the road head at 3:25 p.m. (240-run medians 3:21 and 3:26). One run, not the ensemble; a reconstruction, not observation. Final frame: modelled burned area against the Oct. 19 Sentinel-2 scar.
