@@ -25,6 +25,7 @@ The goal is a record anyone can check: every raw file is kept unaltered, hashed,
 | `data/graphics_published/` | Every graphic Prime Rogue published on the fire, Oct. 17–20, kept as published (dated snapshots). | Fixed (archival) |
 | `data/adsb/` | ADS-B positions of every aircraft heard near the base on Oct. 17–18 (adsb.lol open archive, ODbL), with the original trace files, to find where aircraft landed near the fire. | On demand |
 | `data/location_analysis/` | Prime Rogue's estimate of where C Company was, the competing-hypotheses analysis, fire-behaviour model runs and the stress test (Oct. 21). | Fixed (archival) |
+| `data/terrain3d/` | 3D terrain reconstruction (work in progress): true-scale views and sightlines from Range 13, Range 2, the roadhead and the garrison; a test orbit; the animated fire draft; the modelled arrival-time layer. Code in `scripts/terrain3d/`. | As drafts are made |
 | `data/manifests/` | SHA-256 manifests of each batch of new raw files, plus `.ots` timestamp proofs. | Automatically |
 | `atip/` | Records released under the *Access to Information Act* and Alberta's *Access to Information Act*. | Within 72 hours of receipt |
 | `docs/` | Methods and verification notes. | As needed |
