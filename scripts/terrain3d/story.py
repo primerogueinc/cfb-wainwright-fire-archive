@@ -38,29 +38,34 @@ class Story:
         S = []
         def seg(dur, t0, t1, shot, **kw):
             S.append(dict(dur=dur, t0=t0, t1=t1, shot=shot, **kw))
-        seg(3.0, hm(4, 30), hm(4, 50), 'B', card='forecast')
+        # Static shots can be lengthened freely (rendered once); camera moves keep their length
+        # so their renders are reused. tmap = (fraction of segment, clock) knots to slow key moments.
+        seg(4.0, hm(4, 30), hm(4, 50), 'B', card='forecast')
         seg(2.0, hm(4, 50), hm(5, 20), ('B', 'A'))
-        seg(6.0, hm(5, 20), hm(11, 40), 'A')
+        seg(8.0, hm(5, 20), hm(11, 40), 'A', tmap=[(0, hm(5, 20)), (0.3, hm(6, 30)), (1, hm(11, 40))])
         seg(2.0, hm(11, 40), hm(12, 17), ('A', 'B'))
-        seg(1.5, hm(12, 17), hm(12, 17), 'B')
+        seg(3.0, hm(12, 17), hm(12, 17), 'B')
         seg(2.5, hm(12, 17), hm(14, 14), 'B')
-        seg(1.5, hm(14, 14), hm(14, 18), 'B', card='warning')
+        seg(3.5, hm(14, 14), hm(14, 18), 'B', card='warning')
         seg(1.2, hm(14, 18), hm(14, 49), 'B')
-        seg(1.0, hm(14, 49), hm(14, 50), 'B')
+        seg(2.0, hm(14, 49), hm(14, 50), 'B')
         seg(1.5, hm(14, 50), hm(15, 16), 'B')
-        seg(1.2, hm(15, 16), hm(15, 16.2), 'B', card='gust')
+        seg(3.5, hm(15, 16), hm(15, 16.2), 'B', card='gust')
         seg(1.5, hm(15, 16.2), hm(15, 16.8), ('B', 'C'))
-        seg(10.0, hm(15, 16.8), hm(15, 31), 'C')
+        seg(20.0, hm(15, 16.8), hm(15, 31), 'C', tmap=[(0, hm(15, 16.8)), (0.75, hm(15, 26)), (1, hm(15, 31))])
         seg(1.5, hm(15, 31), hm(15, 40), ('C', 'B'))
         seg(1.5, hm(15, 40), hm(15, 45), 'B')
-        seg(2.5, hm(15, 45), hm(15, 45), 'B', final=True)
+        seg(4.0, hm(15, 45), hm(15, 45), 'B', final=True)
         self.segs = S
         self.frames = []
         for si, s in enumerate(S):
             n = int(round(s['dur'] * FPS))
             for k in range(n):
                 q = k / n
-                t = s['t0'] + (s['t1'] - s['t0']) * q
+                if s.get('tmap'):
+                    qs, ts = zip(*s['tmap']); t = float(np.interp(q, qs, ts))
+                else:
+                    t = s['t0'] + (s['t1'] - s['t0']) * q
                 if isinstance(s['shot'], tuple):
                     a, b = s['shot']; w = smooth(q)
                     key = f"{a}{b}_{si}_{k:03d}"

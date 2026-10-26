@@ -167,8 +167,8 @@ def night(img, glow, t):
     e = sun_elev(t)
     dark = float(np.clip((2.0 - e) / 8.0, 0, 1))  # full night below -6 deg, daylight above +2
     if dark > 0:
-        tint = np.array([0.55, 0.65, 1.0], np.float32)
-        img = img * (1 - 0.86 * dark) * (tint * dark + (1 - dark))
+        tint = np.array([0.78, 0.84, 1.0], np.float32)  # moonlit, readable: the night is a cue, not a blackout
+        img = img * (1 - 0.5 * dark) * (tint * dark + (1 - dark))
     g = glow[..., None] * np.array([1.0, 0.36, 0.06], np.float32)
     gl = cv2.GaussianBlur(g, (0, 0), 1.2) * 1.0 + cv2.GaussianBlur(g, (0, 0), 7) * (0.45 + 1.4 * dark)
     return np.clip(img + gl, 0, 1)
@@ -316,8 +316,11 @@ for fr in story:
             dr.rectangle([bx + 10 * S, by + (30 + 19 * j) * S, bx + 24 * S, by + (42 + 19 * j) * S], fill=r['col'])
             dr.text((bx + 32 * S, by + (28 + 19 * j) * S), f"leave {clock(r['dep'])}: {r['odds']}", font=fm(12 * S), fill=WHITE)
     # place labels
-    lab_pts = {k: P['pov'][k] for k in ('Range 13',)}
-    lab_pts['Range 11'] = P['extra']['Range 11']
+    lab_pts = {'Range 11': P['extra']['Range 11']}
+    v = P['extra']['Range 11']; x, y, z = TR.project(i, (v['x'], v['y'], TR.gz(v['x'], v['y'])))
+    x *= W / TR.W; y *= H / TR.H
+    if z > 0 and x < 0 and 100 * S < y < H - 50 * S and not fr['final']:
+        dr.text((10 * S, y), '\u2190 Range 11 (AGL range)', font=fb(14 * S), fill=WHITE, stroke_width=3, stroke_fill=INK, anchor='lm')
     if t >= T_SHIFT - 1:
         lab_pts.update({k: P['pov'][k] for k in ('Range 2', 'Roadhead')})
     for k, v in lab_pts.items():
