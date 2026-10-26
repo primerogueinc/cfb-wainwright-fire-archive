@@ -503,3 +503,51 @@ if a.mode == 'fire':
         if a.simtime is None:
             json.dump(meta, open(os.path.join(a.out, f'fire_meta_{a.start:04d}.json'), 'w'))
         print('frame', f, f'{int(t//60)}:{int(t%60):02d}', flush=True)
+
+
+# ============================================================== base renders for the story
+# Renders every unique camera of story.json twice: the lit terrain with no fire
+# (base_<key>.png) and a data pass whose red/green encode map x/y (xy_<key>.png,
+# 16-bit), so compose_story.py can paint the fire, night and smoke per frame.
+if a.mode == 'base':
+    build_terrain(step=2, with_canopy=False)
+    ter = bpy.data.objects['terrain']
+    lit = ter.data.materials[0]
+    Wm, Hm = P['grid']['w'] * RES, P['grid']['h'] * RES
+    xm = bpy.data.materials.new('xy'); xm.use_nodes = True
+    N = xm.node_tree.nodes; Lk = xm.node_tree.links; N.remove(N['Principled BSDF'])
+    geo = N.new('ShaderNodeNewGeometry'); sep = N.new('ShaderNodeSeparateXYZ'); Lk.new(geo.outputs['Position'], sep.inputs[0])
+    dx = N.new('ShaderNodeMath'); dx.operation = 'DIVIDE'; dx.inputs[1].default_value = Wm; Lk.new(sep.outputs[0], dx.inputs[0])
+    dy = N.new('ShaderNodeMath'); dy.operation = 'DIVIDE'; dy.inputs[1].default_value = Hm; Lk.new(sep.outputs[1], dy.inputs[0])
+    cmb = N.new('ShaderNodeCombineXYZ'); Lk.new(dx.outputs[0], cmb.inputs[0]); Lk.new(dy.outputs[0], cmb.inputs[1]); cmb.inputs[2].default_value = 1.0
+    em = N.new('ShaderNodeEmission'); Lk.new(cmb.outputs[0], em.inputs['Color']); em.inputs['Strength'].default_value = 1.0
+    Lk.new(em.outputs[0], N['Material Output'].inputs['Surface'])
+    story = json.load(open(L('story.json')))['frames']
+    keys = {}
+    for fr in story:
+        keys.setdefault(fr['key'], (fr['loc'], fr['look']))
+    todo = sorted(keys)[a.start:a.end]
+    cam = camera(lens=30)
+    for key in todo:
+        loc, look = keys[key]
+        cam.location = Vector(loc); look_at(cam, Vector(look))
+        if os.path.exists(os.path.join(a.out, f'xy_{key}.png')):
+            continue
+        # lit pass
+        ter.data.materials[0] = lit
+        scn.render.film_transparent = False
+        scn.view_settings.view_transform = 'AgX'
+        scn.cycles.samples = a.samples; scn.cycles.use_denoising = True
+        scn.render.image_settings.color_depth = '8'; scn.render.image_settings.color_mode = 'RGB'
+        scn.render.filepath = os.path.join(a.out, f'base_{key}.png'); bpy.ops.render.render(write_still=True)
+        # data pass
+        ter.data.materials[0] = xm
+        scn.render.film_transparent = True
+        scn.view_settings.view_transform = 'Standard'
+        scn.view_settings.look = 'None'
+        scn.cycles.samples = 1; scn.cycles.use_denoising = False
+        scn.cycles.filter_width = 0.01
+        scn.render.image_settings.color_depth = '16'; scn.render.image_settings.color_mode = 'RGBA'
+        scn.render.filepath = os.path.join(a.out, f'xy_{key}.png'); bpy.ops.render.render(write_still=True)
+        scn.cycles.filter_width = 1.5
+        print('base', key, flush=True)
