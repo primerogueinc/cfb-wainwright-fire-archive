@@ -106,8 +106,9 @@ print(f'run: {ok.sum()*RES*RES/1e6:.2f} km2 downwind of the footprint, farthest 
 
 # --- 3. the rest: outward from burning cells at flank rate --------------------
 have = np.isfinite(arr)
-seeds = {(r, c): max(arr[r, c], T_SHIFT if arr[r, c] >= T_SHIFT else arr[r, c])
-         for r, c in zip(*np.nonzero(have))}
+# flanks only start moving after the shift: the pre-shift footprint seeds at 3:16,
+# the run cells at their own (later) times
+seeds = {(r, c): max(arr[r, c], T_SHIFT) for r, c in zip(*np.nonzero(have))}
 t_flank = dijkstra(seeds, scar | have, speed_mpm=FLANK_MPM, floor=None)
 rest = scar & ~have & np.isfinite(t_flank)
 arr[rest] = np.maximum(t_flank[rest], T_SHIFT)
