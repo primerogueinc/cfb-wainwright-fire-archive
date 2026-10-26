@@ -8,6 +8,7 @@ Front passage, estimated from the hourly mean humidity in the hour the front pas
 |---|---|---|---|---|---|
 | Hughenden AGCM | 22 km S | 3:00-4:00 p.m. | 23.6 -> 13.8 C | 25.9% (17.8 / ~41) | ~3:39 p.m. (peak-gust hour proxy 3:43) |
 | Albert Hall AGCM | 43 km NNW | 3:00-4:00 p.m. | 22.9 -> 12.7 C | 45.6% (~21 / ~46): already post-front for nearly all the hour | ~3:00-3:05 p.m. (peak gust 3:07) |
+| Bellshill AGCM | 39 km W | 3:00-4:00 p.m. | 23.1 -> 12.7 C | 40.8% (~18 / ~40): post-front for nearly all the hour | ~3:00-3:05 p.m. |
 | Gilt Edge North AGCM | 43 km NNE | 3:00-4:00 p.m. | 23.7 -> 14.1 C | 30.3% (~17 / ~43.5) | ~3:30 p.m. (peak gust 3:28) |
 
 Both fit the station-plane estimate of the front at the fire, about 3:29 p.m. MDT (README_pull.md).
