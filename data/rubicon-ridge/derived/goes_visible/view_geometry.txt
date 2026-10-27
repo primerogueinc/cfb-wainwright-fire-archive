@@ -1,0 +1,2 @@
+G18: sub-satellite lon -137.0, view zenith at fire 65.0 deg, direction to satellite (azimuth) 212 deg, C02 pixel spacing E-W 0.66 km, N-S 1.24 km; parallax per km height 2.14 km toward azimuth 32 deg
+G19: sub-satellite lon -75.0, view zenith at fire 68.8 deg, direction to satellite (azimuth) 138 deg, C02 pixel spacing E-W 0.80 km, N-S 1.41 km; parallax per km height 2.57 km toward azimuth 318 deg

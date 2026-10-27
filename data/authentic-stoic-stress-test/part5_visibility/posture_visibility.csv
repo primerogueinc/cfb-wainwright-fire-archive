@@ -1,0 +1,13 @@
+posture,flame_m,grass,share_any,share_core
+standing,2.5,no grass,58,0
+standing,2.5,0.6 m cured grass,52,0
+standing,6.0,no grass,68,41
+standing,6.0,0.6 m cured grass,64,0
+kneeling,2.5,no grass,52,0
+kneeling,2.5,0.6 m cured grass,45,0
+kneeling,6.0,no grass,64,0
+kneeling,6.0,0.6 m cured grass,57,0
+prone,2.5,no grass,44,0
+prone,2.5,0.6 m cured grass,32,0
+prone,6.0,no grass,56,0
+prone,6.0,0.6 m cured grass,41,0

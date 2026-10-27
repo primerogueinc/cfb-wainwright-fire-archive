@@ -1,0 +1,76 @@
+schedule,scenario,pace,fire_arrives,latest_departure,margin_before_arrival_min,best_bearing,route_to_safety_m
+S0_fixed306,A,walk 5 km/h,25.6,25.1,0.5,90,580
+S0_fixed306,A,jog in kit 8 km/h,25.6,25.1,0.5,60,620
+S0_fixed306,A,run 10 km/h,25.6,25.1,0.5,55,640
+S0_fixed306,B,walk 5 km/h,34.1,33.6,0.5,85,300
+S0_fixed306,B,jog in kit 8 km/h,34.1,33.6,0.5,75,200
+S0_fixed306,B,run 10 km/h,34.1,33.6,0.5,75,200
+S0_fixed306,C,walk 5 km/h,27.4,26.7,0.7,215,720
+S0_fixed306,C,jog in kit 8 km/h,27.4,26.8,0.6,215,720
+S0_fixed306,C,run 10 km/h,27.4,26.8,0.6,215,720
+S0_fixed306,D,walk 5 km/h,41.0,40.5,0.5,90,1780
+S0_fixed306,D,jog in kit 8 km/h,41.0,40.5,0.5,80,1800
+S0_fixed306,D,run 10 km/h,41.0,40.5,0.5,60,1220
+S0_fixed306,E,walk 5 km/h,53.4,52.7,0.7,145,240
+S0_fixed306,E,jog in kit 8 km/h,53.4,52.7,0.6,145,240
+S0_fixed306,E,run 10 km/h,53.4,52.8,0.6,145,240
+S1_stoic,A,walk 5 km/h,21.1,18.9,2.3,100,580
+S1_stoic,A,jog in kit 8 km/h,21.1,20.6,0.5,90,580
+S1_stoic,A,run 10 km/h,21.1,20.6,0.5,90,580
+S1_stoic,B,walk 5 km/h,25.5,24.2,1.3,60,160
+S1_stoic,B,jog in kit 8 km/h,25.5,25.0,0.5,85,300
+S1_stoic,B,run 10 km/h,25.5,25.0,0.5,80,200
+S1_stoic,C,walk 5 km/h,65.8,65.1,0.7,215,720
+S1_stoic,C,jog in kit 8 km/h,65.8,65.2,0.6,215,720
+S1_stoic,C,run 10 km/h,65.8,65.2,0.6,215,720
+S1_stoic,D,walk 5 km/h,65.9,65.2,0.6,150,2040
+S1_stoic,D,jog in kit 8 km/h,65.9,65.3,0.6,150,2040
+S1_stoic,D,run 10 km/h,65.9,65.3,0.5,150,2040
+S1_stoic,E,walk 5 km/h,96.4,95.9,0.5,220,200
+S1_stoic,E,jog in kit 8 km/h,96.4,95.9,0.5,220,200
+S1_stoic,E,run 10 km/h,96.4,95.9,0.5,220,200
+S2_station_veer,A,walk 5 km/h,21.5,20.8,0.6,90,580
+S2_station_veer,A,jog in kit 8 km/h,21.5,21.0,0.5,90,580
+S2_station_veer,A,run 10 km/h,21.5,21.0,0.5,90,580
+S2_station_veer,B,walk 5 km/h,29.6,29.1,0.5,75,200
+S2_station_veer,B,jog in kit 8 km/h,29.6,29.1,0.5,75,200
+S2_station_veer,B,run 10 km/h,29.6,29.1,0.5,75,200
+S2_station_veer,C,walk 5 km/h,42.5,41.8,0.7,215,720
+S2_station_veer,C,jog in kit 8 km/h,42.5,41.9,0.6,215,720
+S2_station_veer,C,run 10 km/h,42.5,41.9,0.6,215,720
+S2_station_veer,D,walk 5 km/h,42.4,41.7,0.7,160,1800
+S2_station_veer,D,jog in kit 8 km/h,42.4,41.8,0.6,150,2040
+S2_station_veer,D,run 10 km/h,42.4,41.8,0.6,150,2040
+S2_station_veer,E,walk 5 km/h,69.5,69.0,0.5,220,200
+S2_station_veer,E,jog in kit 8 km/h,69.5,69.0,0.5,220,200
+S2_station_veer,E,run 10 km/h,69.5,69.0,0.5,220,200
+S3_fast_veer,A,walk 5 km/h,24.2,22.3,2.0,115,2540
+S3_fast_veer,A,jog in kit 8 km/h,24.2,23.7,0.5,85,580
+S3_fast_veer,A,run 10 km/h,24.2,23.7,0.5,70,560
+S3_fast_veer,B,walk 5 km/h,28.9,28.1,0.8,110,1940
+S3_fast_veer,B,jog in kit 8 km/h,28.9,28.4,0.5,100,920
+S3_fast_veer,B,run 10 km/h,28.9,28.4,0.5,85,300
+S3_fast_veer,C,walk 5 km/h,33.8,33.1,0.7,215,720
+S3_fast_veer,C,jog in kit 8 km/h,33.8,33.2,0.6,215,720
+S3_fast_veer,C,run 10 km/h,33.8,33.2,0.6,215,720
+S3_fast_veer,D,walk 5 km/h,36.8,36.2,0.6,150,2040
+S3_fast_veer,D,jog in kit 8 km/h,36.8,36.3,0.6,150,2040
+S3_fast_veer,D,run 10 km/h,36.8,36.3,0.5,150,2040
+S3_fast_veer,E,walk 5 km/h,58.8,58.3,0.6,220,200
+S3_fast_veer,E,jog in kit 8 km/h,58.8,58.3,0.5,220,200
+S3_fast_veer,E,run 10 km/h,58.8,58.3,0.5,220,200
+S4_fixed315,A,walk 5 km/h,20.7,18.2,2.4,105,600
+S4_fixed315,A,jog in kit 8 km/h,20.7,20.2,0.5,110,2440
+S4_fixed315,A,run 10 km/h,20.7,20.2,0.5,90,580
+S4_fixed315,B,walk 5 km/h,24.9,23.7,1.2,90,300
+S4_fixed315,B,jog in kit 8 km/h,24.9,24.2,0.7,115,2020
+S4_fixed315,B,run 10 km/h,24.9,24.4,0.5,100,920
+S4_fixed315,C,walk 5 km/h,21.5,20.1,1.4,180,880
+S4_fixed315,C,jog in kit 8 km/h,21.5,20.9,0.6,185,880
+S4_fixed315,C,run 10 km/h,21.5,20.9,0.6,215,720
+S4_fixed315,D,walk 5 km/h,28.3,23.1,5.2,80,1800
+S4_fixed315,D,jog in kit 8 km/h,28.3,27.7,0.6,115,2040
+S4_fixed315,D,run 10 km/h,28.3,27.8,0.5,115,2040
+S4_fixed315,E,walk 5 km/h,34.2,33.0,1.3,200,160
+S4_fixed315,E,jog in kit 8 km/h,34.2,33.5,0.8,135,840
+S4_fixed315,E,run 10 km/h,34.2,33.6,0.6,135,840

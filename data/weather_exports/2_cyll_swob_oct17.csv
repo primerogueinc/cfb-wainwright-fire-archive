@@ -1,0 +1,4 @@
+obs_time_utc,obs_time_mdt_local_clock_utc-6,obs_time_lst_utc-7,station,station_name,air_temp_c,rel_hum_pct,dew_point_c,wind_dir_2min_avg_deg,wind_spd_2min_avg_kmh,wind_dir_10min_avg_deg,wind_spd_10min_avg_kmh,max_gust_past_hour_kmh,max_gust_dir_deg,max_gust_time_utc,max_gust_time_mdt,peak_wind_remark_raw,station_pressure_kpa,source_file
+2026-10-17 20:00,2026-10-17 14:00,2026-10-17 13:00,CYLL,Lloydminster,20.5,22.0,-1.8,250.0,31.7,251.0,33.5,57.6,250.0,,,,91.95,2026-10-17-2000-CYLL-AUTO-swob.xml
+2026-10-17 21:00,2026-10-17 15:00,2026-10-17 14:00,CYLL,Lloydminster,21.9,22.0,-0.6,260.0,29.5,253.0,31.7,55.4,256.0,,,,91.89,2026-10-17-2100-CYLL-AUTO-swob.xml
+2026-10-17 22:00,2026-10-17 16:00,2026-10-17 15:00,CYLL,Lloydminster,15.1,42.0,2.4,290.0,63.0,291.0,63.0,98.3,269.0,,,,92.07,2026-10-17-2200-CYLL-AUTO-swob.xml

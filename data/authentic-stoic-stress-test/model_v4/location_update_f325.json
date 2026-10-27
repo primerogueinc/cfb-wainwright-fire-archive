@@ -1,0 +1,18 @@
+{
+ "all likely ground": {
+  "share_of_likely_ground": 1.0,
+  "median_arrival": "3:31"
+ },
+ "near (600-1,400 m)": {
+  "share_of_likely_ground": 0.536,
+  "median_arrival": "3:33"
+ },
+ "late (>=15% of fires 3:45-4:00)": {
+  "share_of_likely_ground": 0.101,
+  "median_arrival": "3:41"
+ },
+ "near and late": {
+  "share_of_likely_ground": 0.028,
+  "median_arrival": "3:37"
+ }
+}

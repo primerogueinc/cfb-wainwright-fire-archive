@@ -1,0 +1,21 @@
+{
+ "central": {
+  "km2": 1.058
+ },
+ "strict": {
+  "km2": 0.912
+ },
+ "loose": {
+  "km2": 1.13
+ },
+ "s2_oct19_patch_km2": 0.563,
+ "s2_patch_within_landsat_burn": 0.98,
+ "oct14_burn_on_old_burn_edge_share": 1.0,
+ "perimeter_share_within_60m": {
+  "old_burn": 0.09,
+  "water": 0.0,
+  "osm_road": 0.12,
+  "osm_track": 0.0,
+  "any": 0.12
+ }
+}

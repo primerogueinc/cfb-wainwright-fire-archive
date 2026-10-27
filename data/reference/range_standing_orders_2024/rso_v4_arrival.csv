@@ -1,0 +1,5 @@
+point,runs_reaching,weighted_median,weighted_p10,weighted_p90,unweighted_median,share_first_reached_345_400_weighted_pct
+Range 2 (RSO grid),120/120,3:25 p.m.,3:21 p.m.,3:32 p.m.,3:25 p.m.,0.0
+Range 15 (RSO grid),120/120,3:26 p.m.,3:22 p.m.,3:35 p.m.,3:26 p.m.,4.0
+"Range 2 point (OSM, earlier)",120/120,3:21 p.m.,3:19 p.m.,3:26 p.m.,3:21 p.m.,0.0
+Road head (earlier),120/120,3:26 p.m.,3:22 p.m.,3:35 p.m.,3:26 p.m.,4.0

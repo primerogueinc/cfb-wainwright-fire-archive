@@ -7,3 +7,7 @@ Level-2A visualizations exported from the Copernicus Browser: individual bands B
 **Probative value:** moderate (pre-fire state one day before; partly obscured).
 
 Contains modified Copernicus Sentinel data [2026].
+
+## L2A full export (received Oct. 22)
+
+All bands and layers for Oct. 16 at about 10 m were checked. Thin cloud or haze covers the whole fire area (blue reflectance median 0.16; the scene classification puts about 97% of the area in a single cloud class). Not usable as a pre-fire baseline; the Oct. 4 scene remains the baseline. Files not kept.

@@ -1,0 +1,88 @@
+{
+ "fire": "sept18_20",
+ "date": "2026-09-18",
+ "detections": 35,
+ "passes_mdt": [
+  "15:14",
+  "15:33",
+  "03:07",
+  "03:26",
+  "04:11",
+  "12:56",
+  "13:15",
+  "14:00",
+  "14:36",
+  "14:55"
+ ],
+ "night_detections": 5,
+ "max_pass_frp_mw": 285.8,
+ "detection_span_h": 47.68,
+ "scar_km2": 5.684,
+ "scar_touches_window_edge": false,
+ "cwfis_days": [
+  {
+   "date": "2026-09-18",
+   "ffmc": 89.8,
+   "isi": 5.8,
+   "fwi": 11.2
+  },
+  {
+   "date": "2026-09-19",
+   "ffmc": 89.8,
+   "isi": 10.6,
+   "fwi": 18.8
+  },
+  {
+   "date": "2026-09-20",
+   "ffmc": 89.8,
+   "isi": 12.2,
+   "fwi": 22.1
+  }
+ ],
+ "ffmc_start": 86.8,
+ "max_wind_kmh": 24.0,
+ "min_rh": 31.0,
+ "peak_std_ros_kmh": 1.94,
+ "stop_times_h": {
+  "dusk": 67.95,
+  "rh60": 69.0,
+  "free24h": 86.917
+ },
+ "n_runs": 7800,
+ "dusk": {
+  "best_jaccard": 0.205,
+  "weight_by_K": {
+   "1.0": 0.0,
+   "0.5": 0.0,
+   "0.3": 1.0,
+   "0.17": 0.0
+  },
+  "standard_rate_km2_p10_p50_p90": null,
+  "ratio_standard_to_observed": null,
+  "ignition_weighted_median_h": 6.42
+ },
+ "rh60": {
+  "best_jaccard": 0.202,
+  "weight_by_K": {
+   "1.0": 0.0,
+   "0.5": 0.0,
+   "0.3": 1.0,
+   "0.17": 0.0
+  },
+  "standard_rate_km2_p10_p50_p90": null,
+  "ratio_standard_to_observed": null,
+  "ignition_weighted_median_h": 6.23
+ },
+ "free24h": {
+  "best_jaccard": 0.197,
+  "weight_by_K": {
+   "1.0": 0.0,
+   "0.5": 0.0,
+   "0.3": 1.0,
+   "0.17": 0.0
+  },
+  "standard_rate_km2_p10_p50_p90": null,
+  "ratio_standard_to_observed": null,
+  "ignition_weighted_median_h": 6.23
+ }
+}

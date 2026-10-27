@@ -1,0 +1,137 @@
+{
+ "source": "Copernicus Browser export (Sentinel Hub), received from Prime Rogue",
+ "date": "2026-10-21",
+ "level": "L1C",
+ "format": "tiff",
+ "layers": [
+  "B01_(Raw)",
+  "B02_(Raw)",
+  "B03_(Raw)",
+  "B04_(Raw)",
+  "B08_(Raw)",
+  "B12_(Raw)",
+  "B8A_(Raw)",
+  "False_color",
+  "False_color__urban_",
+  "Highlight_Optimized_Natural_Color",
+  "Moisture_index",
+  "NDSI",
+  "NDVI",
+  "NDWI",
+  "SWIR",
+  "True_color",
+  "Wildfires"
+ ],
+ "n_files": 17,
+ "qa": {
+  "georeferenced": true,
+  "crs": "EPSG:4326",
+  "pixel_deg": [
+   0.0005833740234375,
+   0.0003538326523726479
+  ],
+  "pixel_m_approx": [
+   39.3,
+   39.3
+  ],
+  "bounds": [
+   -111.50162,
+   52.36891,
+   -110.04318,
+   52.98671
+  ],
+  "shape": [
+   1746,
+   2500
+  ],
+  "dtype": "float32",
+  "covers_points": {
+   "origin": false,
+   "A_range2": false,
+   "B_road_head": false
+  },
+  "fire_box_valid_frac": 0.0,
+  "usable": false
+ },
+ "previews": [
+  "preview_true_colour.jpg",
+  "preview_swir.jpg"
+ ],
+ "files": {
+  "2026-10-21-00_00_2026-10-21-23_59_Sentinel-2_L1C_B01_(Raw).tiff": {
+   "bytes": 4244575,
+   "sha256": "bb2995719e09f6e161e38cb17c7fe9c7a8573e416fcd18e9a19899ecf2844a9e"
+  },
+  "2026-10-21-00_00_2026-10-21-23_59_Sentinel-2_L1C_B02_(Raw).tiff": {
+   "bytes": 5037193,
+   "sha256": "2d67c459dfa1d889f56dea4d4baa1b4de663aa6542c66a00ed2109cd34910a0a"
+  },
+  "2026-10-21-00_00_2026-10-21-23_59_Sentinel-2_L1C_B03_(Raw).tiff": {
+   "bytes": 5155654,
+   "sha256": "7b7050919e80d4f4cac630947074485433eaa8c87cd279b15aeb64d21c5f7393"
+  },
+  "2026-10-21-00_00_2026-10-21-23_59_Sentinel-2_L1C_B04_(Raw).tiff": {
+   "bytes": 5559221,
+   "sha256": "6b0e1f7f3dae70e57e8562e263fcc2d8f015c62ac85e929785f5952ae2177d81"
+  },
+  "2026-10-21-00_00_2026-10-21-23_59_Sentinel-2_L1C_B08_(Raw).tiff": {
+   "bytes": 5760243,
+   "sha256": "1748c606b097fe88c2017b3050553a996763a724be748b9e329d06e6a6e38d5b"
+  },
+  "2026-10-21-00_00_2026-10-21-23_59_Sentinel-2_L1C_B12_(Raw).tiff": {
+   "bytes": 5656545,
+   "sha256": "3983da48d7ae4bcd79316a70abac2e32ab17b210b5fc2101166f0116e8fc7bb3"
+  },
+  "2026-10-21-00_00_2026-10-21-23_59_Sentinel-2_L1C_B8A_(Raw).tiff": {
+   "bytes": 5724939,
+   "sha256": "167c99cf7e6295d2bf1207564edff5f05e6a451c5f0f81df707eb47ea0f1fb01"
+  },
+  "2026-10-21-00_00_2026-10-21-23_59_Sentinel-2_L1C_False_color.tiff": {
+   "bytes": 16021432,
+   "sha256": "d67acc7412041b9bde6dab4169ddf4e435786d5872ed967e016ff0e67a48390e"
+  },
+  "2026-10-21-00_00_2026-10-21-23_59_Sentinel-2_L1C_False_color__urban_.tiff": {
+   "bytes": 17096047,
+   "sha256": "a1df5af42af0aab41d3826e77ce13066b67a5f9873c61ee88e8a641db697afdf"
+  },
+  "2026-10-21-00_00_2026-10-21-23_59_Sentinel-2_L1C_Highlight_Optimized_Natural_Color.tiff": {
+   "bytes": 14495982,
+   "sha256": "40d0911afe8972e10df474ec7b06626fdf4064d9aa90fcf45f047d269f6dfd56"
+  },
+  "2026-10-21-00_00_2026-10-21-23_59_Sentinel-2_L1C_Moisture_index.tiff": {
+   "bytes": 5546680,
+   "sha256": "3341fe8adb7fc55661980d88e72c2cf8754df33745fd0178ac875e2661c990c9"
+  },
+  "2026-10-21-00_00_2026-10-21-23_59_Sentinel-2_L1C_NDSI.tiff": {
+   "bytes": 14182964,
+   "sha256": "9675df1528a35ba0346b15f7f363dc59febe376ea2bec9fbd5d5d577340d18a9"
+  },
+  "2026-10-21-00_00_2026-10-21-23_59_Sentinel-2_L1C_NDVI.tiff": {
+   "bytes": 3858644,
+   "sha256": "10a00a49b423926f874cf284e5e35fd2c5bb6905b5bb4873e34eae925168cdec"
+  },
+  "2026-10-21-00_00_2026-10-21-23_59_Sentinel-2_L1C_NDWI.tiff": {
+   "bytes": 4458484,
+   "sha256": "688673f9630730c82477f9414ee1b36480380e3acbbbab24ce9a07913e7969a1"
+  },
+  "2026-10-21-00_00_2026-10-21-23_59_Sentinel-2_L1C_SWIR.tiff": {
+   "bytes": 16781159,
+   "sha256": "9a4581bbb89af39e02c476babf02db3f0bfee8952e15f4dd657257c7a030f58e"
+  },
+  "2026-10-21-00_00_2026-10-21-23_59_Sentinel-2_L1C_True_color.tiff": {
+   "bytes": 24098466,
+   "sha256": "a148d9e65e972c22fe6336353ea3124124b73a55c9195701ed4cb676b9d7c2b2"
+  },
+  "2026-10-21-00_00_2026-10-21-23_59_Sentinel-2_L1C_Wildfires.tiff": {
+   "bytes": 23938562,
+   "sha256": "24828f890ee35799c5335c92cc28282b58250ab92afe5745058d390d81dd0fe3"
+  }
+ },
+ "package": {
+  "name": "Browser_images__14__5114e1.zip",
+  "bytes": 175674453,
+  "sha256": "48c32a96f0d7f83408a079dcab7880790b9ead7f9fd221d83e40007fedb49587",
+  "note": "Raw files stored unchanged at https://github.com/primerogueinc/CFB-Wainwright---Full-Satellite-Data---Copernicus- under sentinel-2/2026-10-21/L1C_tiff/"
+ },
+ "licence": "Contains modified Copernicus Sentinel data [2026]"
+}

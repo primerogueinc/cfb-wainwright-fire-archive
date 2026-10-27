@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"name": "rso_points",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Range 2", "description": "Grenade Range", "grid_ref": "WD 06686 46913", "source": "Ch. 1 para 51b", "lat": 52.772, "lon": -110.90089 }, "geometry": { "type": "Point", "coordinates": [ -110.90089, 52.772 ] } },
+{ "type": "Feature", "properties": { "name": "Range 3", "description": "Jungle Lane", "grid_ref": "WD 06434 48187", "source": "para 51c", "lat": 52.78346, "lon": -110.9046 }, "geometry": { "type": "Point", "coordinates": [ -110.9046, 52.78346 ] } },
+{ "type": "Feature", "properties": { "name": "Range 10", "description": "Anti-Tank Weapons Range", "grid_ref": "WD 02626 48365", "source": "para 51h", "lat": 52.78509, "lon": -110.96106 }, "geometry": { "type": "Point", "coordinates": [ -110.96106, 52.78509 ] } },
+{ "type": "Feature", "properties": { "name": "Range 11", "description": "Grenade Launcher Range (AGLS and M203)", "grid_ref": "WD 02612 46459", "source": "para 51i", "lat": 52.76796, "lon": -110.96129 }, "geometry": { "type": "Point", "coordinates": [ -110.96129, 52.76796 ] } },
+{ "type": "Feature", "properties": { "name": "Range 13", "description": "Anti-Tank Weapons Range", "grid_ref": "WD 02598 45534", "source": "para 51j", "lat": 52.75964, "lon": -110.9615 }, "geometry": { "type": "Point", "coordinates": [ -110.9615, 52.75964 ] } },
+{ "type": "Feature", "properties": { "name": "Range 14", "description": "Demolition Range", "grid_ref": "WD 03975 43748", "source": "para 51k", "lat": 52.74358, "lon": -110.94112 }, "geometry": { "type": "Point", "coordinates": [ -110.94112, 52.74358 ] } },
+{ "type": "Feature", "properties": { "name": "Range 15", "description": "Field Firing Range", "grid_ref": "WD 06783 46728", "source": "para 51l", "lat": 52.77034, "lon": -110.89946 }, "geometry": { "type": "Point", "coordinates": [ -110.89946, 52.77034 ] } },
+{ "type": "Feature", "properties": { "name": "Range 19", "description": "Field Firing Range", "grid_ref": "WD 03645 43989", "source": "para 51n", "lat": 52.74575, "lon": -110.946 }, "geometry": { "type": "Point", "coordinates": [ -110.946, 52.74575 ] } },
+{ "type": "Feature", "properties": { "name": "Range 20", "description": "Sub Cal Range", "grid_ref": "WD 03563 49209", "source": "para 51o", "lat": 52.79267, "lon": -110.94716 }, "geometry": { "type": "Point", "coordinates": [ -110.94716, 52.79267 ] } },
+{ "type": "Feature", "properties": { "name": "Range 22", "description": "HHAA Static", "grid_ref": "WD 01533 46517", "source": "para 51q", "lat": 52.76848, "lon": -110.97728 }, "geometry": { "type": "Point", "coordinates": [ -110.97728, 52.76848 ] } },
+{ "type": "Feature", "properties": { "name": "Range 15 barrier", "description": "Yellow and Fireguard (sentry, flag, swing barrier)", "grid_ref": "WD 0677 4673", "source": "Annex H", "lat": 52.77036, "lon": -110.89965 }, "geometry": { "type": "Point", "coordinates": [ -110.89965, 52.77036 ] } },
+{ "type": "Feature", "properties": { "name": "Range 15 barrier", "description": "Yellow and Fireguard, south end (flag, chain barrier)", "grid_ref": "WD 0801 4106", "source": "Annex H", "lat": 52.71937, "lon": -110.88141 }, "geometry": { "type": "Point", "coordinates": [ -110.88141, 52.71937 ] } },
+{ "type": "Feature", "properties": { "name": "Range 15 barrier", "description": "Entrance Range 14 (flag, swing barrier)", "grid_ref": "WD 0397 4374", "source": "Annex H", "lat": 52.74351, "lon": -110.94119 }, "geometry": { "type": "Point", "coordinates": [ -110.94119, 52.74351 ] } }
+]
+}

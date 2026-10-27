@@ -1,0 +1,34 @@
+{
+ "head_advance": {
+  "lead_detection": [
+   52.78825,
+   -110.90158
+  ],
+  "along_axis_m": 1081,
+  "kmh": 0.43,
+  "kmh_range_pixel": [
+   0.33,
+   0.52
+  ],
+  "note": "the north-east-most 2:49 pixel sits at Peterson Pond / Range 3, where the final scar's north tip ends: the head may have reached water and a range clearing before 2:49, so the advance alone is a lower bound"
+ },
+ "viirs_frp_mw_249": 74.6,
+ "area_growth_km2_per_h_from_frp": {
+  "rad_frac_0.1": 0.43,
+  "rad_frac_0.15": 0.28,
+  "rad_frac_0.2": 0.21
+ },
+ "model_area_growth_km2_per_h_1217_1449": [
+  0.15,
+  0.13,
+  0.29,
+  0.17
+ ],
+ "standard_rate_fire_area_growth_km2_per_h_after_1h": 2.65,
+ "goes18_fire_power_mw": {
+  "15:10 MDT": 76.0,
+  "15:20 MDT": 0.0,
+  "15:30 MDT": 1215.0,
+  "15:40 MDT": 336.0
+ }
+}

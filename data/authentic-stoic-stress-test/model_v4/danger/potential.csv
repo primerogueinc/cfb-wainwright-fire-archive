@@ -1,0 +1,6 @@
+scenario,min,median,max,class_of_median
+"After the shift, 4 p.m. obs",4.4,7.9,11.7,beyond control (>=5 km/h)
+"Before the shift, 2:49-3:16 p.m.",4.8,6.300000000000001,7.8,beyond control (>=5 km/h)
+"Before the shift, gusts",7.5,9.85,12.5,beyond control (>=5 km/h)
+Just after the front (drier edge),6.3,8.4,12.0,beyond control (>=5 km/h)
+Peak gust 3:16 p.m.,7.8,11.2,16.4,beyond control (>=5 km/h)

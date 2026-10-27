@@ -1,0 +1,623 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<dataFile fileCreationDate="Tue Apr  8 19:37:46 2025">
+	<EC_administrativeZone abreviation="atl" name_en_CA="Atlantic" name_fr_CA="Atlantique">
+		<regionList>
+			<region nameEn="Bathurst" nameFr="Bathurst" cgndb="DAFQX" latitude="47.6261" longitude="-65.6283">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/atl/observation/realtime/xml/AQ_OBS_DAFQX_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/atl/forecast/realtime/xml/AQ_FCST_DAFQX_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Burin" nameFr="Burin" cgndb="AADCE" latitude="47.082841" longitude="-55.175272">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/atl/observation/realtime/xml/AQ_OBS_AADCE_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/atl/forecast/realtime/xml/AQ_FCST_AADCE_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Campbellton" nameFr="Campbellton" cgndb="DAHEI" latitude="47.999336" longitude="-66.683511">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/atl/observation/realtime/xml/AQ_OBS_DAHEI_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/atl/forecast/realtime/xml/AQ_FCST_DAHEI_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Charlottetown" nameFr="Charlottetown" cgndb="BAARG" latitude="46.2402777777778" longitude="-63.1347222222222">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/atl/observation/realtime/xml/AQ_OBS_BAARG_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/atl/forecast/realtime/xml/AQ_FCST_BAARG_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Corner Brook" nameFr="Corner Brook" cgndb="AAEOU" latitude="48.9521" longitude="-57.922167">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/atl/observation/realtime/xml/AQ_OBS_AAEOU_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/atl/forecast/realtime/xml/AQ_FCST_AAEOU_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Edmundston" nameFr="Edmundston" cgndb="DALZZ" latitude="47.377222" longitude="-68.294444">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/atl/observation/realtime/xml/AQ_OBS_DALZZ_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/atl/forecast/realtime/xml/AQ_FCST_DALZZ_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Fredericton" nameFr="Fredericton" cgndb="DAFMJ" latitude="45.945278" longitude="-66.666667">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/atl/observation/realtime/xml/AQ_OBS_DAFMJ_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/atl/forecast/realtime/xml/AQ_FCST_DAFMJ_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Grand Falls - Windsor" nameFr="Grand Falls - Windsor" cgndb="ABYRK" latitude="48.93" longitude="-55.66">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/atl/observation/realtime/xml/AQ_OBS_ABYRK_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/atl/forecast/realtime/xml/AQ_FCST_ABYRK_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Halifax" nameFr="Halifax" cgndb="CBUCG" latitude="44.64625" longitude="-63.57392">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/atl/observation/realtime/xml/AQ_OBS_CBUCG_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/atl/forecast/realtime/xml/AQ_FCST_CBUCG_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Halifax Downtown" nameFr="centre-ville d'Halifax" cgndb="CAPHL" latitude="44.647401" longitude="-63.590651">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/atl/observation/realtime/xml/AQ_OBS_CAPHL_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/atl/forecast/realtime/xml/AQ_FCST_CAPHL_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Kentville" nameFr="Kentville" cgndb="CASWE" latitude="45.0775" longitude="-64.4952777777778">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/atl/observation/realtime/xml/AQ_OBS_CASWE_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/atl/forecast/realtime/xml/AQ_FCST_CASWE_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Labrador City" nameFr="Labrador City" cgndb="ABFQA" latitude="52.9605694" longitude="-66.9365972">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/atl/observation/realtime/xml/AQ_OBS_ABFQA_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/atl/forecast/realtime/xml/AQ_FCST_ABFQA_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Lake Major" nameFr="Lake Major" cgndb="CATHI" latitude="44.71338" longitude="-63.467261">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/atl/observation/realtime/xml/AQ_OBS_CATHI_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/atl/forecast/realtime/xml/AQ_FCST_CATHI_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Miramichi" nameFr="Miramichi" cgndb="DBEDJ" latitude="47.0041999" longitude="-65.4666999">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/atl/observation/realtime/xml/AQ_OBS_DBEDJ_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/atl/forecast/realtime/xml/AQ_FCST_DBEDJ_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Moncton" nameFr="Moncton" cgndb="DADHJ" latitude="46.115833" longitude="-64.803056">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/atl/observation/realtime/xml/AQ_OBS_DADHJ_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/atl/forecast/realtime/xml/AQ_FCST_DADHJ_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Pictou" nameFr="Pictou" cgndb="CBDPK" latitude="45.6758333333333" longitude="-62.7091666666667">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/atl/observation/realtime/xml/AQ_OBS_CBDPK_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/atl/forecast/realtime/xml/AQ_FCST_CBDPK_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Port Hawkesbury" nameFr="Port Hawkesbury" cgndb="CBELL" latitude="45.6161111" longitude="-61.356111">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/atl/observation/realtime/xml/AQ_OBS_CBELL_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/atl/forecast/realtime/xml/AQ_FCST_CBELL_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Saint John" nameFr="Saint John" cgndb="DAEGW" latitude="45.2591666666667" longitude="-66.0388888888889">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/atl/observation/realtime/xml/AQ_OBS_DAEGW_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/atl/forecast/realtime/xml/AQ_FCST_DAEGW_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="St. Andrews" nameFr="St. Andrews" cgndb="DAEBC" latitude="45.079907" longitude="-67.058373">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/atl/observation/realtime/xml/AQ_OBS_DAEBC_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/atl/forecast/realtime/xml/AQ_FCST_DAEBC_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="St. John's" nameFr="St. John's" cgndb="ABEFS" latitude="47.5658333333333" longitude="-52.7252777777778">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/atl/observation/realtime/xml/AQ_OBS_ABEFS_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/atl/forecast/realtime/xml/AQ_FCST_ABEFS_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="St. Peters Bay" nameFr="St. Peters Bay" cgndb="BAEMV" latitude="46.4166666666667" longitude="-62.5833333333333">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/atl/observation/realtime/xml/AQ_OBS_BAEMV_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/atl/forecast/realtime/xml/AQ_FCST_BAEMV_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Summerside (Wellington)" nameFr="Summerside (Wellington)" cgndb="BADSZ" latitude="46.45" longitude="-64.0">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/atl/observation/realtime/xml/AQ_OBS_BADSZ_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/atl/forecast/realtime/xml/AQ_FCST_BADSZ_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Sydney" nameFr="Sydney" cgndb="CBLGX" latitude="46.1380555555556" longitude="-60.1952777777778">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/atl/observation/realtime/xml/AQ_OBS_CBLGX_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/atl/forecast/realtime/xml/AQ_FCST_CBLGX_CURRENT.xml</pathToCurrentForecast>
+			</region>
+		</regionList>
+	</EC_administrativeZone>
+	<EC_administrativeZone abreviation="que" name_en_CA="Québec" name_fr_CA="Québec">
+		<regionList>
+			<region nameEn="Gatineau" nameFr="Gatineau" cgndb="EGLTT" latitude="45.4833333333333" longitude="-75.65">
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/que/forecast/realtime/xml/AQ_FCST_EGLTT_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Montréal" nameFr="Montréal" cgndb="EHHUN" latitude="45.5166666666667" longitude="-73.65">
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/que/forecast/realtime/xml/AQ_FCST_EHHUN_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Quebec" nameFr="Québec" cgndb="EHTWR" latitude="46.8166666666667" longitude="-71.2166666666667">
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/que/forecast/realtime/xml/AQ_FCST_EHTWR_CURRENT.xml</pathToCurrentForecast>
+			</region>
+		</regionList>
+	</EC_administrativeZone>
+	<EC_administrativeZone abreviation="ont" name_en_CA="Ontario" name_fr_CA="Ontario">
+		<regionList>
+			<region nameEn="Barrie" nameFr="Barrie" cgndb="FAFFD" latitude="44.37124" longitude="-79.6769699">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/ont/observation/realtime/xml/AQ_OBS_FAFFD_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/ont/forecast/realtime/xml/AQ_FCST_FAFFD_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Belleville" nameFr="Belleville" cgndb="FEVJS" latitude="44.2566666" longitude="-77.3697222">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/ont/observation/realtime/xml/AQ_OBS_FEVJS_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/ont/forecast/realtime/xml/AQ_FCST_FEVJS_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Brampton" nameFr="Brampton" cgndb="FALIF" latitude="43.6883333333333" longitude="-79.7608333333333">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/ont/observation/realtime/xml/AQ_OBS_FALIF_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/ont/forecast/realtime/xml/AQ_FCST_FALIF_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Brantford" nameFr="Brantford" cgndb="FALJI" latitude="43.1569444" longitude="-80.25749">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/ont/observation/realtime/xml/AQ_OBS_FALJI_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/ont/forecast/realtime/xml/AQ_FCST_FALJI_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Burlington" nameFr="Burlington" cgndb="FAMXK" latitude="43.37" longitude="-79.8141666666667">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/ont/observation/realtime/xml/AQ_OBS_FAMXK_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/ont/forecast/realtime/xml/AQ_FCST_FAMXK_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Chatham" nameFr="Chatham" cgndb="FEUTC" latitude="42.43396" longitude="-82.12876">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/ont/observation/realtime/xml/AQ_OBS_FEUTC_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/ont/forecast/realtime/xml/AQ_FCST_FEUTC_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Cornwall" nameFr="Cornwall" cgndb="FCCOT" latitude="45.0263889" longitude="-74.7263889">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/ont/observation/realtime/xml/AQ_OBS_FCCOT_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/ont/forecast/realtime/xml/AQ_FCST_FCCOT_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Dorset" nameFr="Dorset" cgndb="FAZKI" latitude="45.2447222" longitude="-78.8927778">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/ont/observation/realtime/xml/AQ_OBS_FAZKI_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/ont/forecast/realtime/xml/AQ_FCST_FAZKI_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Grand Bend" nameFr="Grand Bend" cgndb="FAYJG" latitude="43.3025" longitude="-81.7563889">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/ont/observation/realtime/xml/AQ_OBS_FAYJG_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/ont/forecast/realtime/xml/AQ_FCST_FAYJG_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Guelph" nameFr="Guelph" cgndb="FBKKK" latitude="43.53571" longitude="-80.22899">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/ont/observation/realtime/xml/AQ_OBS_FBKKK_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/ont/forecast/realtime/xml/AQ_FCST_FBKKK_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Hamilton" nameFr="Hamilton" cgndb="FEVNS" latitude="43.242778" longitude="-79.935">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/ont/observation/realtime/xml/AQ_OBS_FEVNS_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/ont/forecast/realtime/xml/AQ_FCST_FEVNS_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Hamilton Downtown" nameFr="centre-ville de Hamilton" cgndb="FBLJL" latitude="43.24504" longitude="-79.8418">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/ont/observation/realtime/xml/AQ_OBS_FBLJL_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/ont/forecast/realtime/xml/AQ_FCST_FBLJL_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Hamilton Mountain" nameFr="Hamilton Mountain" cgndb="FBLKS" latitude="43.23039" longitude="-79.82235">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/ont/observation/realtime/xml/AQ_OBS_FBLKS_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/ont/forecast/realtime/xml/AQ_FCST_FBLKS_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Hamilton West" nameFr="Hamilton Ouest" cgndb="FDCHU" latitude="43.2644444" longitude="-79.9027778">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/ont/observation/realtime/xml/AQ_OBS_FDCHU_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/ont/forecast/realtime/xml/AQ_FCST_FDCHU_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Kingston" nameFr="Kingston" cgndb="FEVJR" latitude="44.3066666" longitude="-76.4163888">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/ont/observation/realtime/xml/AQ_OBS_FEVJR_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/ont/forecast/realtime/xml/AQ_FCST_FEVJR_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Kitchener" nameFr="Kitchener" cgndb="FEBWC" latitude="43.4186111" longitude="-80.4727778">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/ont/observation/realtime/xml/AQ_OBS_FEBWC_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/ont/forecast/realtime/xml/AQ_FCST_FEBWC_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="London" nameFr="London" cgndb="FCAEN" latitude="42.9674999" longitude="-81.2325">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/ont/observation/realtime/xml/AQ_OBS_FCAEN_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/ont/forecast/realtime/xml/AQ_FCST_FCAEN_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Milton" nameFr="Milton" cgndb="FDGEM" latitude="43.5055556" longitude="-79.9177778">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/ont/observation/realtime/xml/AQ_OBS_FDGEM_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/ont/forecast/realtime/xml/AQ_FCST_FDGEM_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Mississauga" nameFr="Mississauga" cgndb="FEAKO" latitude="43.5855555555556" longitude="-79.6572222222222">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/ont/observation/realtime/xml/AQ_OBS_FEAKO_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/ont/forecast/realtime/xml/AQ_FCST_FEAKO_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Newmarket" nameFr="Newmarket" cgndb="FDGED" latitude="44.0580555555556" longitude="-79.4583333333333">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/ont/observation/realtime/xml/AQ_OBS_FDGED_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/ont/forecast/realtime/xml/AQ_FCST_FDGED_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="North Bay" nameFr="North Bay" cgndb="FCFUU" latitude="46.314444" longitude="-79.459167">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/ont/observation/realtime/xml/AQ_OBS_FCFUU_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/ont/forecast/realtime/xml/AQ_FCST_FCFUU_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Oakville" nameFr="Oakville" cgndb="FCGKZ" latitude="43.4563888888889" longitude="-79.7138888888889">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/ont/observation/realtime/xml/AQ_OBS_FCGKZ_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/ont/forecast/realtime/xml/AQ_FCST_FCGKZ_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Oshawa" nameFr="Oshawa" cgndb="FDMOP" latitude="43.9005555555556" longitude="-78.8572222222222">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/ont/observation/realtime/xml/AQ_OBS_FDMOP_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/ont/forecast/realtime/xml/AQ_FCST_FDMOP_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Ottawa" nameFr="Ottawa" cgndb="FEVNT" latitude="45.4344444444445" longitude="-75.6769444444444">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/ont/observation/realtime/xml/AQ_OBS_FEVNT_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/ont/forecast/realtime/xml/AQ_FCST_FEVNT_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Parry Sound" nameFr="Parry Sound" cgndb="FDSUS" latitude="45.3538889" longitude="-80.0361111">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/ont/observation/realtime/xml/AQ_OBS_FDSUS_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/ont/forecast/realtime/xml/AQ_FCST_FDSUS_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Peterborough" nameFr="Peterborough" cgndb="FDGEJ" latitude="44.3011111" longitude="-78.3333333">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/ont/observation/realtime/xml/AQ_OBS_FDGEJ_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/ont/forecast/realtime/xml/AQ_FCST_FDGEJ_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Port Stanley" nameFr="Port Stanley" cgndb="FCIBD" latitude="42.6663888" longitude="-81.2108334">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/ont/observation/realtime/xml/AQ_OBS_FCIBD_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/ont/forecast/realtime/xml/AQ_FCST_FCIBD_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Sarnia" nameFr="Sarnia" cgndb="FEARV" latitude="42.9813889" longitude="-82.3177777">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/ont/observation/realtime/xml/AQ_OBS_FEARV_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/ont/forecast/realtime/xml/AQ_FCST_FEARV_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Sault Ste. Marie" nameFr="Sault Ste. Marie" cgndb="FDZCP" latitude="46.5588888" longitude="-84.3469444">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/ont/observation/realtime/xml/AQ_OBS_FDZCP_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/ont/forecast/realtime/xml/AQ_FCST_FDZCP_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="St. Catharines" nameFr="St. Catharines" cgndb="FDJFN" latitude="43.16544" longitude="-79.2533">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/ont/observation/realtime/xml/AQ_OBS_FDJFN_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/ont/forecast/realtime/xml/AQ_FCST_FDJFN_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Sudbury" nameFr="Sudbury" cgndb="FCTOV" latitude="46.5011111" longitude="-80.9775">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/ont/observation/realtime/xml/AQ_OBS_FCTOV_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/ont/forecast/realtime/xml/AQ_FCST_FCTOV_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Thunder Bay" nameFr="Thunder Bay" cgndb="FCWFX" latitude="48.4013889" longitude="-89.2677778">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/ont/observation/realtime/xml/AQ_OBS_FCWFX_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/ont/forecast/realtime/xml/AQ_FCST_FCWFX_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Tiverton" nameFr="Tiverton" cgndb="FCWOV" latitude="44.2669444" longitude="-81.5444444">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/ont/observation/realtime/xml/AQ_OBS_FCWOV_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/ont/forecast/realtime/xml/AQ_FCST_FCWOV_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Toronto" nameFr="Toronto" cgndb="FEUZB" latitude="43.7416666666667" longitude="-79.3733333333333">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/ont/observation/realtime/xml/AQ_OBS_FEUZB_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/ont/forecast/realtime/xml/AQ_FCST_FEUZB_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Toronto Downtown" nameFr="centre-ville de Toronto" cgndb="FCWYG" latitude="43.6758333" longitude="-79.3969444">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/ont/observation/realtime/xml/AQ_OBS_FCWYG_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/ont/forecast/realtime/xml/AQ_FCST_FCWYG_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Toronto East" nameFr="Toronto Est" cgndb="FDQBU" latitude="43.7558333" longitude="-79.2308334">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/ont/observation/realtime/xml/AQ_OBS_FDQBU_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/ont/forecast/realtime/xml/AQ_FCST_FDQBU_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Toronto North" nameFr="Toronto Nord" cgndb="FDQBX" latitude="43.76205" longitude="-79.41026">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/ont/observation/realtime/xml/AQ_OBS_FDQBX_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/ont/forecast/realtime/xml/AQ_FCST_FDQBX_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Toronto West" nameFr="Toronto Ouest" cgndb="FCKTB" latitude="43.71823" longitude="-79.56589">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/ont/observation/realtime/xml/AQ_OBS_FCKTB_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/ont/forecast/realtime/xml/AQ_FCST_FCKTB_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Windsor" nameFr="Windsor" cgndb="FDEGT" latitude="42.3022222222222" longitude="-82.9936111111111">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/ont/observation/realtime/xml/AQ_OBS_FDEGT_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/ont/forecast/realtime/xml/AQ_FCST_FDEGT_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Windsor Downtown" nameFr="centre-ville de Windsor" cgndb="FDATE" latitude="42.3081" longitude="-82.99182">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/ont/observation/realtime/xml/AQ_OBS_FDATE_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/ont/forecast/realtime/xml/AQ_FCST_FDATE_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Windsor West" nameFr="Windsor Ouest" cgndb="FCNJT" latitude="42.2830556" longitude="-83.0594444">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/ont/observation/realtime/xml/AQ_OBS_FCNJT_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/ont/forecast/realtime/xml/AQ_FCST_FCNJT_CURRENT.xml</pathToCurrentForecast>
+			</region>
+		</regionList>
+	</EC_administrativeZone>
+	<EC_administrativeZone abreviation="pnr" name_en_CA="Prairies and North" name_fr_CA="Prairies et territoires du nord">
+		<regionList>
+			<region nameEn="Airdrie" nameFr="Airdrie" cgndb="IAQFR" latitude="51.2922222" longitude="-114.0141667">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pnr/observation/realtime/xml/AQ_OBS_IAQFR_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pnr/forecast/realtime/xml/AQ_FCST_IAQFR_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Arviat" nameFr="Arviat" cgndb="OATSD" latitude="61.108333" longitude="-94.058333">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pnr/observation/realtime/xml/AQ_OBS_OATSD_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pnr/forecast/realtime/xml/AQ_FCST_OATSD_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Brandon" nameFr="Brandon" cgndb="GADMZ" latitude="49.8469444444444" longitude="-99.9522222222222">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pnr/observation/realtime/xml/AQ_OBS_GADMZ_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pnr/forecast/realtime/xml/AQ_FCST_GADMZ_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Brooks" nameFr="Brooks" cgndb="IAIDN" latitude="50.567222" longitude="-111.895">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pnr/observation/realtime/xml/AQ_OBS_IAIDN_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pnr/forecast/realtime/xml/AQ_FCST_IAIDN_CURRENT.xml</pathToCurrentForecast>
+				<associatedStations>
+					<station napsid="90451" nameEn="Brooks - Meadowplace" nameFr="Brooks - Meadowplace"/>
+				</associatedStations>
+			</region>
+			<region nameEn="Buffalo Narrows" nameFr="Buffalo Narrows" cgndb="HASIZ" latitude="55.8769833" longitude="-108.5243083">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pnr/observation/realtime/xml/AQ_OBS_HASIZ_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pnr/forecast/realtime/xml/AQ_FCST_HASIZ_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Calgary" nameFr="Calgary" cgndb="IAKID" latitude="51.0458333333333" longitude="-114.0575">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pnr/observation/realtime/xml/AQ_OBS_IAKID_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pnr/forecast/realtime/xml/AQ_FCST_IAKID_CURRENT.xml</pathToCurrentForecast>
+				<associatedStations>
+					<station napsid="90222" nameEn="Calgary Northwest" nameFr="Calgary - nord-ouest"/>
+					<station napsid="90228" nameEn="Calgary Central" nameFr="Calgary - centre"/>
+					<station napsid="90229" nameEn="Calgary Southeast" nameFr="Calgary - sud-est"/>
+				</associatedStations>
+			</region>
+			<region nameEn="Cold Lake" nameFr="Cold Lake" cgndb="IAEFD" latitude="54.45" longitude="-110.166667">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pnr/observation/realtime/xml/AQ_OBS_IAEFD_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pnr/forecast/realtime/xml/AQ_FCST_IAEFD_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Drayton Valley" nameFr="Drayton Valley" cgndb="IABOA" latitude="53.2241666" longitude="-114.9808333">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pnr/observation/realtime/xml/AQ_OBS_IABOA_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pnr/forecast/realtime/xml/AQ_FCST_IABOA_CURRENT.xml</pathToCurrentForecast>
+				<associatedStations>
+					<station napsid="92801" nameEn="Drayton Valley" nameFr="Drayton Valley"/>
+				</associatedStations>
+			</region>
+			<region nameEn="Edmonton" nameFr="Edmonton" cgndb="IACMP" latitude="53.5344444444444" longitude="-113.490277777778">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pnr/observation/realtime/xml/AQ_OBS_IACMP_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pnr/forecast/realtime/xml/AQ_FCST_IACMP_CURRENT.xml</pathToCurrentForecast>
+				<associatedStations>
+					<station napsid="90120" nameEn="Edmonton South" nameFr="Edmonton - sud"/>
+					<station napsid="90121" nameEn="Edmonton East" nameFr="Edmonton - est"/>
+					<station napsid="90133" nameEn="Woodcroft" nameFr="Woodcroft"/>
+					<station napsid="90140" nameEn="Edmonton McCauley" nameFr="Edmonton McCauley"/>
+					<station napsid="90141" nameEn="Edmonton Lendrum" nameFr="Edmonton Lendrum"/>
+				</associatedStations>
+			</region>
+			<region nameEn="Edson" nameFr="Edson" cgndb="IACMW" latitude="53.5836111" longitude="-116.4327778">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pnr/observation/realtime/xml/AQ_OBS_IACMW_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pnr/forecast/realtime/xml/AQ_FCST_IACMW_CURRENT.xml</pathToCurrentForecast>
+				<associatedStations>
+					<station napsid="92901" nameEn="Edson" nameFr="Edson"/>
+				</associatedStations>
+			</region>
+			<region nameEn="Estevan" nameFr="Estevan" cgndb="HAUQM" latitude="49.1392833" longitude="-102.9859847">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pnr/observation/realtime/xml/AQ_OBS_HAUQM_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pnr/forecast/realtime/xml/AQ_FCST_HAUQM_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Flin Flon" nameFr="Flin Flon" cgndb="GAILW" latitude="54.768056" longitude="-101.8641699">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pnr/observation/realtime/xml/AQ_OBS_GAILW_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pnr/forecast/realtime/xml/AQ_FCST_GAILW_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Fort Chipewyan" nameFr="Fort Chipewyan" cgndb="IAFEW" latitude="58.7144444444444" longitude="-111.158333333333">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pnr/observation/realtime/xml/AQ_OBS_IAFEW_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pnr/forecast/realtime/xml/AQ_FCST_IAFEW_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Fort McKay" nameFr="Fort McKay" cgndb="IAFFF" latitude="57.1811111111111" longitude="-111.599722222222">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pnr/observation/realtime/xml/AQ_OBS_IAFFF_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pnr/forecast/realtime/xml/AQ_FCST_IAFFF_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Fort McMurray" nameFr="Fort McMurray" cgndb="IAFFI" latitude="56.7263888888889" longitude="-111.380277777778">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pnr/observation/realtime/xml/AQ_OBS_IAFFI_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pnr/forecast/realtime/xml/AQ_FCST_IAFFI_CURRENT.xml</pathToCurrentForecast>
+				<associatedStations>
+					<station napsid="90701" nameEn="Athabasca Valley" nameFr="Vallée de l'Athabasca"/>
+					<station napsid="90702" nameEn="Patricia McInnes" nameFr="Patricia McInnes"/>
+					<station napsid="94601" nameEn="Anzac" nameFr="Anzac"/>
+				</associatedStations>
+			</region>
+			<region nameEn="Fort Saskatchewan" nameFr="Fort Saskatchewan" cgndb="IAFFM" latitude="53.7111111111111" longitude="-113.217777777778">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pnr/observation/realtime/xml/AQ_OBS_IAFFM_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pnr/forecast/realtime/xml/AQ_FCST_IAFFM_CURRENT.xml</pathToCurrentForecast>
+				<associatedStations>
+					<station napsid="90601" nameEn="Fort Saskatchewan" nameFr="Fort Saskatchewan"/>
+				</associatedStations>
+			</region>
+			<region nameEn="Fort Simpson" nameFr="Fort Simpson" cgndb="LAILM" latitude="61.8609" longitude="-121.3527">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pnr/observation/realtime/xml/AQ_OBS_LAILM_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pnr/forecast/realtime/xml/AQ_FCST_LAILM_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Fort Smith" nameFr="Fort Smith" cgndb="LAILN" latitude="60.0053" longitude="-111.8829">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pnr/observation/realtime/xml/AQ_OBS_LAILN_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pnr/forecast/realtime/xml/AQ_FCST_LAILN_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Genesee" nameFr="Genesee" cgndb="IAFYX" latitude="53.3458334" longitude="-114.37">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pnr/observation/realtime/xml/AQ_OBS_IAFYX_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pnr/forecast/realtime/xml/AQ_FCST_IAFYX_CURRENT.xml</pathToCurrentForecast>
+				<associatedStations>
+					<station napsid="93101" nameEn="Genesee" nameFr="Genesee"/>
+				</associatedStations>
+			</region>
+			<region nameEn="Grande Prairie" nameFr="Grande Prairie" cgndb="IAHMM" latitude="55.1708333333333" longitude="-118.796111111111">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pnr/observation/realtime/xml/AQ_OBS_IAHMM_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pnr/forecast/realtime/xml/AQ_FCST_IAHMM_CURRENT.xml</pathToCurrentForecast>
+				<associatedStations>
+					<station napsid="92001" nameEn="Grande Prairie - Henry Pirker Station" nameFr="Grande Prairie - Henry Pirker Station"/>
+					<station napsid="91501" nameEn="Beaverlodge" nameFr="Beaverlodge"/>
+				</associatedStations>
+			</region>
+			<region nameEn="Hinton" nameFr="Hinton" cgndb="IAJWU" latitude="53.4111111" longitude="-117.5627778">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pnr/observation/realtime/xml/AQ_OBS_IAJWU_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pnr/forecast/realtime/xml/AQ_FCST_IAJWU_CURRENT.xml</pathToCurrentForecast>
+				<associatedStations>
+					<station napsid="93202" nameEn="Hinton - Drinnan" nameFr="Hinton - Drinnan"/>
+					<station napsid="93205" nameEn="Hinton - Hillcrest" nameFr="Hinton - Hillcrest"/>
+					<station napsid="199001" nameEn="Jasper" nameFr="Jasper"/>
+				</associatedStations>
+			</region>
+			<region nameEn="Inuvik" nameFr="Inuvik" cgndb="LALNA" latitude="68.3609" longitude="-133.7297">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pnr/observation/realtime/xml/AQ_OBS_LALNA_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pnr/forecast/realtime/xml/AQ_FCST_LALNA_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Iqaluit" nameFr="Iqaluit" cgndb="OATRP" latitude="63.75" longitude="-68.5166666">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pnr/observation/realtime/xml/AQ_OBS_OATRP_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pnr/forecast/realtime/xml/AQ_FCST_OATRP_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Kugluktuk" nameFr="Kugluktuk" cgndb="OAUDO" latitude="67.826667" longitude="-115.09333">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pnr/observation/realtime/xml/AQ_OBS_OAUDO_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pnr/forecast/realtime/xml/AQ_FCST_OAUDO_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Lamont County" nameFr="comté de Lamont" cgndb="IACGW" latitude="53.7591666" longitude="-112.7844444">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pnr/observation/realtime/xml/AQ_OBS_IACGW_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pnr/forecast/realtime/xml/AQ_FCST_IACGW_CURRENT.xml</pathToCurrentForecast>
+				<associatedStations>
+					<station napsid="90606" nameEn="Bruderheim" nameFr="Bruderheim"/>
+					<station napsid="91101" nameEn="Elk Island National Park" nameFr="Parc national Elk Island"/>
+					<station napsid="92201" nameEn="Lamont County" nameFr="Comté de Lamont"/>
+					<station napsid="92202" nameEn="Lamont" nameFr="Lamont"/>
+				</associatedStations>
+			</region>
+			<region nameEn="Lethbridge" nameFr="Lethbridge" cgndb="IADGP" latitude="49.6936111111111" longitude="-112.841944444444">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pnr/observation/realtime/xml/AQ_OBS_IADGP_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pnr/forecast/realtime/xml/AQ_FCST_IADGP_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Medicine Hat" nameFr="Medicine Hat" cgndb="IAIUC" latitude="50.0408333333333" longitude="-110.676666666667">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pnr/observation/realtime/xml/AQ_OBS_IAIUC_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pnr/forecast/realtime/xml/AQ_FCST_IAIUC_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Norman Wells" nameFr="Norman Wells" cgndb="LARCU" latitude="65.2811" longitude="-126.8316">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pnr/observation/realtime/xml/AQ_OBS_LARCU_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pnr/forecast/realtime/xml/AQ_FCST_LARCU_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Prince Albert" nameFr="Prince Albert" cgndb="HAPNV" latitude="53.216111" longitude="-105.714722">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pnr/observation/realtime/xml/AQ_OBS_HAPNV_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pnr/forecast/realtime/xml/AQ_FCST_HAPNV_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Red Deer" nameFr="Red Deer" cgndb="IAEJS" latitude="52.2686111111111" longitude="-113.810277777778">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pnr/observation/realtime/xml/AQ_OBS_IAEJS_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pnr/forecast/realtime/xml/AQ_FCST_IAEJS_CURRENT.xml</pathToCurrentForecast>
+				<associatedStations>
+					<station napsid="90302" nameEn="Red Deer - Riverside Drive" nameFr="Red Deer - Riverside Drive"/>
+					<station napsid="90304" nameEn="Red Deer - Lancaster" nameFr="Red Deer - Lancaster"/>
+				</associatedStations>
+			</region>
+			<region nameEn="Regina" nameFr="Regina" cgndb="HAIMP" latitude="50.4547222222222" longitude="-104.606666666667">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pnr/observation/realtime/xml/AQ_OBS_HAIMP_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pnr/forecast/realtime/xml/AQ_FCST_HAIMP_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Saskatoon" nameFr="Saskatoon" cgndb="HAHJJ" latitude="52.1397222222222" longitude="-106.686111111111">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pnr/observation/realtime/xml/AQ_OBS_HAHJJ_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pnr/forecast/realtime/xml/AQ_FCST_HAHJJ_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="St. Albert" nameFr="St. Albert" cgndb="IAGHN" latitude="53.6369444" longitude="-113.6202778">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pnr/observation/realtime/xml/AQ_OBS_IAGHN_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pnr/forecast/realtime/xml/AQ_FCST_IAGHN_CURRENT.xml</pathToCurrentForecast>
+				<associatedStations>
+					<station napsid="90136" nameEn="St. Albert" nameFr="St. Albert"/>
+				</associatedStations>
+			</region>
+			<region nameEn="Strathcona County" nameFr="comté de Stratchona" cgndb="IACIQ" latitude="53.5522222" longitude="-113.1438889">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pnr/observation/realtime/xml/AQ_OBS_IACIQ_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pnr/forecast/realtime/xml/AQ_FCST_IACIQ_CURRENT.xml</pathToCurrentForecast>
+				<associatedStations>
+					<station napsid="90134" nameEn="Sherwood Park" nameFr="Sherwood Park"/>
+					<station napsid="90135" nameEn="Ardrossan" nameFr="Ardrossan"/>
+				</associatedStations>
+			</region>
+			<region nameEn="Sturgeon County" nameFr="comté de Sturgeon" cgndb="IAASX" latitude="53.8297222" longitude="-113.3283333">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pnr/observation/realtime/xml/AQ_OBS_IAASX_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pnr/forecast/realtime/xml/AQ_FCST_IAASX_CURRENT.xml</pathToCurrentForecast>
+				<associatedStations>
+					<station napsid="90607" nameEn="Gibbons" nameFr="Gibbons"/>
+					<station napsid="90608" nameEn="Redwater" nameFr="Redwater"/>
+				</associatedStations>
+			</region>
+			<region nameEn="Swift Current" nameFr="Swift Current" cgndb="HAPKT" latitude="50.285833" longitude="-107.81689">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pnr/observation/realtime/xml/AQ_OBS_HAPKT_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pnr/forecast/realtime/xml/AQ_FCST_HAPKT_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Winnipeg" nameFr="Winnipeg" cgndb="GBEIN" latitude="49.8844444444444" longitude="-97.1463888888889">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pnr/observation/realtime/xml/AQ_OBS_GBEIN_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pnr/forecast/realtime/xml/AQ_FCST_GBEIN_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Wood Buffalo - south" nameFr="Wood Buffalo - sud" cgndb="IANHQ" latitude="55.6311111" longitude="-111.0788889">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pnr/observation/realtime/xml/AQ_OBS_IANHQ_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pnr/forecast/realtime/xml/AQ_FCST_IANHQ_CURRENT.xml</pathToCurrentForecast>
+				<associatedStations>
+					<station napsid="94701" nameEn="Janvier" nameFr="Janvier"/>
+					<station napsid="90808" nameEn="Stony Mountain" nameFr="Stony Mountain"/>
+					<station napsid="90809" nameEn="Conklin" nameFr="Conklin"/>
+				</associatedStations>
+			</region>
+			<region nameEn="Yellowknife" nameFr="Yellowknife" cgndb="LBAMG" latitude="62.4536" longitude="-114.37">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pnr/observation/realtime/xml/AQ_OBS_LBAMG_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pnr/forecast/realtime/xml/AQ_FCST_LBAMG_CURRENT.xml</pathToCurrentForecast>
+			</region>
+		</regionList>
+	</EC_administrativeZone>
+	<EC_administrativeZone abreviation="pyr" name_en_CA="Pacific and Yukon" name_fr_CA="Pacifique et Yukon">
+		<regionList>
+			<region nameEn="Castlegar" nameFr="Castlegar" cgndb="JCAAC" latitude="49.324722" longitude="-117.666667">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pyr/observation/realtime/xml/AQ_OBS_JCAAC_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pyr/forecast/realtime/xml/AQ_FCST_JCAAC_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Central Fraser Valley" nameFr="Bas-Fraser - centre" cgndb="JABNO" latitude="49.0583333333333" longitude="-122.25">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pyr/observation/realtime/xml/AQ_OBS_JABNO_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pyr/forecast/realtime/xml/AQ_FCST_JABNO_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Central Okanagan" nameFr="Okanagan - centre" cgndb="JAFUV" latitude="49.8833333333333" longitude="-119.483333333333">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pyr/observation/realtime/xml/AQ_OBS_JAFUV_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pyr/forecast/realtime/xml/AQ_FCST_JAFUV_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Comox Valley" nameFr="Vallée de Comox" cgndb="JAHJY" latitude="49.6833" longitude="-124.9833">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pyr/observation/realtime/xml/AQ_OBS_JAHJY_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pyr/forecast/realtime/xml/AQ_FCST_JAHJY_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Cranbrook" nameFr="Cranbrook" cgndb="JAIQY" latitude="49.5" longitude="-115.7667">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pyr/observation/realtime/xml/AQ_OBS_JAIQY_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pyr/forecast/realtime/xml/AQ_FCST_JAIQY_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Duncan" nameFr="Duncan" cgndb="JBBWA" latitude="48.783333" longitude="-123.7">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pyr/observation/realtime/xml/AQ_OBS_JBBWA_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pyr/forecast/realtime/xml/AQ_FCST_JBBWA_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Eastern Fraser Valley" nameFr="Bas-Fraser - est" cgndb="JCVCC" latitude="49.175" longitude="-121.941666666667">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pyr/observation/realtime/xml/AQ_OBS_JCVCC_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pyr/forecast/realtime/xml/AQ_FCST_JCVCC_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Fort St. John" nameFr="Fort St. John" cgndb="JAGPB" latitude="56.2525" longitude="-120.846667">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pyr/observation/realtime/xml/AQ_OBS_JAGPB_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pyr/forecast/realtime/xml/AQ_FCST_JAGPB_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Kamloops" nameFr="Kamloops" cgndb="JAFNW" latitude="50.6733333333333" longitude="-120.327222222222">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pyr/observation/realtime/xml/AQ_OBS_JAFNW_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pyr/forecast/realtime/xml/AQ_FCST_JAFNW_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Kitimat" nameFr="Kitimat" cgndb="JCMDB" latitude="54.053333" longitude="-128.652222">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pyr/observation/realtime/xml/AQ_OBS_JCMDB_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pyr/forecast/realtime/xml/AQ_FCST_JCMDB_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Metro Vancouver - NE" nameFr="Metro Vancouver - nord-est" cgndb="JBXHZ" latitude="49.2333333333333" longitude="-122.683333333333">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pyr/observation/realtime/xml/AQ_OBS_JBXHZ_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pyr/forecast/realtime/xml/AQ_FCST_JBXHZ_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Metro Vancouver - NW" nameFr="Metro Vancouver - nord-ouest" cgndb="JBRIK" latitude="49.261111" longitude="-123.113889">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pyr/observation/realtime/xml/AQ_OBS_JBRIK_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pyr/forecast/realtime/xml/AQ_FCST_JBRIK_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Metro Vancouver - SE" nameFr="Metro Vancouver - sud-est" cgndb="JAZBU" latitude="49.1166666666667" longitude="-122.75">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pyr/observation/realtime/xml/AQ_OBS_JAZBU_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pyr/forecast/realtime/xml/AQ_FCST_JAZBU_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Metro Vancouver - SW" nameFr="Metro Vancouver - sud-ouest" cgndb="JBJFI" latitude="49.163333" longitude="-123.163333">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pyr/observation/realtime/xml/AQ_OBS_JBJFI_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pyr/forecast/realtime/xml/AQ_FCST_JBJFI_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Nanaimo / Parksville" nameFr="Nanaimo / Parksville" cgndb="JAQAL" latitude="49.1666666666667" longitude="-123.933333333333">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pyr/observation/realtime/xml/AQ_OBS_JAQAL_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pyr/forecast/realtime/xml/AQ_FCST_JAQAL_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="North Okanagan" nameFr="Okanagan - nord" cgndb="JBOAP" latitude="50.2583333333333" longitude="-119.266666666667">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pyr/observation/realtime/xml/AQ_OBS_JBOAP_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pyr/forecast/realtime/xml/AQ_FCST_JBOAP_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Prince George" nameFr="Prince George" cgndb="JBLVS" latitude="53.9166666666667" longitude="-122.75">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pyr/observation/realtime/xml/AQ_OBS_JBLVS_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pyr/forecast/realtime/xml/AQ_FCST_JBLVS_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Quesnel" nameFr="Quesnel" cgndb="JBNTS" latitude="53.0" longitude="-122.5">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pyr/observation/realtime/xml/AQ_OBS_JBNTS_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pyr/forecast/realtime/xml/AQ_FCST_JBNTS_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Smithers" nameFr="Smithers" cgndb="JBMQO" latitude="54.779167" longitude="-127.176111">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pyr/observation/realtime/xml/AQ_OBS_JBMQO_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pyr/forecast/realtime/xml/AQ_FCST_JBMQO_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="South Okanagan" nameFr="Okanagan - sud" cgndb="JBHJG" latitude="49.0333333333333" longitude="-119.45">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pyr/observation/realtime/xml/AQ_OBS_JBHJG_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pyr/forecast/realtime/xml/AQ_FCST_JBHJG_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Sparwood" nameFr="Sparwood" cgndb="JBMPJ" latitude="49.733333" longitude="-114.885833">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pyr/observation/realtime/xml/AQ_OBS_JBMPJ_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pyr/forecast/realtime/xml/AQ_FCST_JBMPJ_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Squamish" nameFr="Squamish" cgndb="JCVCJ" latitude="49.75" longitude="-123.133333">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pyr/observation/realtime/xml/AQ_OBS_JCVCJ_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pyr/forecast/realtime/xml/AQ_FCST_JCVCJ_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Terrace" nameFr="Terrace" cgndb="JBXCK" latitude="54.516389" longitude="-128.599722">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pyr/observation/realtime/xml/AQ_OBS_JBXCK_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pyr/forecast/realtime/xml/AQ_FCST_JBXCK_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Victoria / Saanich" nameFr="Victoria / Saanich" cgndb="JBOBQ" latitude="48.4333333333333" longitude="-123.366666666667">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pyr/observation/realtime/xml/AQ_OBS_JBOBQ_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pyr/forecast/realtime/xml/AQ_FCST_JBOBQ_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="WestShore" nameFr="WestShore" cgndb="JCLMX" latitude="48.423611" longitude="-123.493333">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pyr/observation/realtime/xml/AQ_OBS_JCLMX_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pyr/forecast/realtime/xml/AQ_FCST_JCLMX_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Whistler" nameFr="Whistler" cgndb="JCJHI" latitude="50.1166666666667" longitude="-122.966666666667">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pyr/observation/realtime/xml/AQ_OBS_JCJHI_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pyr/forecast/realtime/xml/AQ_FCST_JCJHI_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Whitehorse" nameFr="Whitehorse" cgndb="KAHFT" latitude="60.6961111" longitude="-135.0808333">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pyr/observation/realtime/xml/AQ_OBS_KAHFT_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pyr/forecast/realtime/xml/AQ_FCST_KAHFT_CURRENT.xml</pathToCurrentForecast>
+			</region>
+			<region nameEn="Williams Lake" nameFr="Williams Lake" cgndb="JBTMB" latitude="52.1416666666667" longitude="-122.141666666667">
+				<pathToCurrentObservation>http://dd.meteo.gc.ca/today/air_quality/pyr/observation/realtime/xml/AQ_OBS_JBTMB_CURRENT.xml</pathToCurrentObservation>
+				<pathToCurrentForecast>http://dd.meteo.gc.ca/today/air_quality/pyr/forecast/realtime/xml/AQ_FCST_JBTMB_CURRENT.xml</pathToCurrentForecast>
+			</region>
+		</regionList>
+	</EC_administrativeZone>
+</dataFile>

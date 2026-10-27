@@ -1,0 +1,34 @@
+{
+ "morning (by 12:17)": {
+  "km2": 0.44,
+  "ndvi_median": 0.421,
+  "nbr_median": 0.095,
+  "bare_pct": 0.0,
+  "old_burn_pct": 0.0,
+  "patchy_blocks_pct": 0.0
+ },
+ "midday (12:17-3:16)": {
+  "km2": 1.64,
+  "ndvi_median": 0.421,
+  "nbr_median": 0.094,
+  "bare_pct": 0.0,
+  "old_burn_pct": 0.0,
+  "patchy_blocks_pct": 0.0
+ },
+ "afternoon (after 3:16)": {
+  "km2": 9.63,
+  "ndvi_median": 0.442,
+  "nbr_median": 0.122,
+  "bare_pct": 0.3,
+  "old_burn_pct": 0.6,
+  "patchy_blocks_pct": 2.6
+ },
+ "unburned (within 1 km)": {
+  "km2": 45.69,
+  "ndvi_median": 0.452,
+  "nbr_median": 0.115,
+  "bare_pct": 4.7,
+  "old_burn_pct": 8.3,
+  "patchy_blocks_pct": 19.5
+ }
+}

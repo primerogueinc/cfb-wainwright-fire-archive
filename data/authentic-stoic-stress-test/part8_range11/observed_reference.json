@@ -1,0 +1,27 @@
+{
+ "range11_zone_km2": 1.432,
+ "start_fire_km2_baseline": 1.939,
+ "start_fire_km2_range11": 2.975,
+ "observed_scar": {
+  "reach_east_m": 4088,
+  "reach_south_m": 2986,
+  "east_to_south_ratio": 1.37
+ },
+ "goes_footprints": {
+  "W (start)": {
+   "scar_km2": 3.04,
+   "start_fire_km2": 1.97
+  },
+  "E": {
+   "scar_km2": 0.0,
+   "start_fire_km2": 0.0
+  },
+  "S": {
+   "scar_km2": 3.87,
+   "start_fire_km2": 0.0
+  }
+ },
+ "LB": 6.63,
+ "grid_m": 40.0,
+ "scar_cells": 6750
+}

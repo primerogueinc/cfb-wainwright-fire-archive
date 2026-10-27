@@ -1,0 +1,85 @@
+{
+ "weights_by_schedule": {
+  "S0_fixed306": 0.208,
+  "S1_stoic": 0.008,
+  "S2_station_veer": 0.047,
+  "S3_fast_veer": 0.164,
+  "S4_fixed315": 0.573
+ },
+ "weights_by_ros": {
+  "4.4": 0.357,
+  "8.0": 0.328,
+  "12.0": 0.315
+ },
+ "cases": {},
+ "by_point_across_cases": {
+  "A": {
+   "arrival_median_unweighted": [
+    5.2,
+    5.3
+   ],
+   "escape_gust_unweighted": [
+    77.0,
+    77.0
+   ],
+   "escape_plus3_unweighted": [
+    40.0,
+    43.0
+   ],
+   "escape_plus7_unweighted": [
+    13.0,
+    13.0
+   ],
+   "arrival_median_weighted": [
+    4.9,
+    5.4
+   ],
+   "escape_gust_weighted": [
+    75.0,
+    75.0
+   ],
+   "escape_plus3_weighted": [
+    42.0,
+    46.0
+   ],
+   "escape_plus7_weighted": [
+    9.0,
+    10.0
+   ]
+  },
+  "B": {
+   "arrival_median_unweighted": [
+    9.8,
+    10.2
+   ],
+   "escape_gust_unweighted": [
+    100.0,
+    100.0
+   ],
+   "escape_plus3_unweighted": [
+    80.0,
+    83.0
+   ],
+   "escape_plus7_unweighted": [
+    50.0,
+    53.0
+   ],
+   "arrival_median_weighted": [
+    9.7,
+    10.2
+   ],
+   "escape_gust_weighted": [
+    100.0,
+    100.0
+   ],
+   "escape_plus3_weighted": [
+    75.0,
+    79.0
+   ],
+   "escape_plus7_weighted": [
+    46.0,
+    51.0
+   ]
+  }
+ }
+}

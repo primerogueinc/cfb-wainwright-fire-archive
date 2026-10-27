@@ -1,0 +1,11 @@
+ros_multiplier,start,best_ignition_mdt,window_mdt,misfit_m,landsat_to_fire_m,fire_edge_to_landsat_m,viirs_misfit_m
+0.75,line 1.4-2.2 km at 80 deg,02:15,22:00 Oct 16 to 03:30,202,101,143,323
+0.75,point 2.15 km at 81 deg,20:00 Oct 16,18:45 Oct 16 to 22:45 Oct 16,211,136,166,242
+1.0,line 1.4-2.2 km at 80 deg,03:00,01:45 to 04:15,160,16,172,262
+1.0,point 2.15 km at 81 deg,00:15,22:30 Oct 16 to 02:15,193,123,150,226
+1.5,line 1.4-2.2 km at 80 deg,06:00,04:45 to 06:45,153,5,170,263
+1.5,point 2.15 km at 81 deg,04:00,03:15 to 06:00,183,99,153,228
+2.0,line 1.4-2.2 km at 80 deg,07:15,06:30 to 08:00,152,3,184,236
+2.0,point 2.15 km at 81 deg,06:45,05:30 to 07:30,185,113,144,227
+3.0,line 1.4-2.2 km at 80 deg,08:45,08:15 to 09:45,174,15,209,248
+3.0,point 2.15 km at 81 deg,08:45,08:00 to 09:00,191,134,137,221

@@ -1,0 +1,99 @@
+{
+ "A_burned_by_1217": {
+  "km2": 0.42,
+  "median": 0.402,
+  "p90": 0.47,
+  "share_mod_high": 0.22
+ },
+ "B_1217_to_316_prefront": {
+  "km2": 1.83,
+  "median": 0.424,
+  "p90": 0.513,
+  "share_mod_high": 0.42
+ },
+ "C_after_316_shift": {
+  "km2": 8.91,
+  "median": 0.468,
+  "p90": 0.594,
+  "share_mod_high": 0.59
+ },
+ "C_by_model_arrival": [
+  [
+   "0-9 min after 3:16",
+   1.51,
+   0.445
+  ],
+  [
+   "9-19 min after 3:16",
+   1.2,
+   0.505
+  ],
+  [
+   "19-34 min after 3:16",
+   2.07,
+   0.495
+  ],
+  [
+   "34-54 min after 3:16",
+   2.0,
+   0.528
+  ],
+  [
+   "54-84 min after 3:16",
+   1.0,
+   0.399
+  ],
+  [
+   "84-124 min after 3:16",
+   0.25,
+   0.385
+  ]
+ ],
+ "C_by_model_spread_rate": [
+  [
+   "slowest third (flank/backing)",
+   0.447,
+   1654
+  ],
+  [
+   "middle third",
+   0.52,
+   1703
+  ],
+  [
+   "fastest third (head)",
+   0.468,
+   1654
+  ]
+ ],
+ "spearman_dnbr_vs_model_rate": 0.095,
+ "spearman_dnbr_vs_arrival": -0.04,
+ "points": {
+  "Range 2 point": {
+   "median_dnbr_200m": 0.452,
+   "model_arrival_min_after_316": 5.3,
+   "in_start_fire": false
+  },
+  "Road head": {
+   "median_dnbr_200m": 0.542,
+   "model_arrival_min_after_316": 10.0,
+   "in_start_fire": false
+  },
+  "C": {
+   "median_dnbr_200m": 0.485,
+   "model_arrival_min_after_316": 14.8,
+   "in_start_fire": false
+  },
+  "D": {
+   "median_dnbr_200m": 0.527,
+   "model_arrival_min_after_316": 22.4,
+   "in_start_fire": false
+  },
+  "E": {
+   "median_dnbr_200m": 0.333,
+   "model_arrival_min_after_316": 38.4,
+   "in_start_fire": false
+  }
+ },
+ "scar_excluded_cloud_px_km2": 0.58
+}

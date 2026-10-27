@@ -1,0 +1,562 @@
+{
+ "free_to_10am": {
+  "best_jaccard": 0.404,
+  "weight_by_K": {
+   "0.17": 0.349,
+   "0.5": 0.44,
+   "1.0": 0.211
+  },
+  "weight_ignition_by_830": 0.515,
+  "weighted_final_km2": {
+   "p10": 1.67,
+   "p50": 3.99,
+   "p90": 7.14
+  },
+  "top15": [
+   {
+    "lon": -110.9447,
+    "lat": 52.7532,
+    "m_from_range13": 372,
+    "m_from_range11": 1847,
+    "bearing_from_range11": 152,
+    "ignition_h": 7.5,
+    "K": 0.17,
+    "jaccard": 0.404,
+    "final_km2": 1.754
+   },
+   {
+    "lon": -110.9426,
+    "lat": 52.7518,
+    "m_from_range13": 499,
+    "m_from_range11": 2054,
+    "bearing_from_range11": 150,
+    "ignition_h": 6.0,
+    "K": 0.17,
+    "jaccard": 0.37,
+    "final_km2": 1.65
+   },
+   {
+    "lon": -110.9445,
+    "lat": 52.7545,
+    "m_from_range13": 236,
+    "m_from_range11": 1722,
+    "bearing_from_range11": 149,
+    "ignition_h": 7.0,
+    "K": 0.17,
+    "jaccard": 0.361,
+    "final_km2": 2.159
+   },
+   {
+    "lon": -110.9426,
+    "lat": 52.7518,
+    "m_from_range13": 499,
+    "m_from_range11": 2054,
+    "bearing_from_range11": 150,
+    "ignition_h": 6.5,
+    "K": 0.17,
+    "jaccard": 0.358,
+    "final_km2": 1.669
+   },
+   {
+    "lon": -110.9445,
+    "lat": 52.7545,
+    "m_from_range13": 236,
+    "m_from_range11": 1722,
+    "bearing_from_range11": 149,
+    "ignition_h": 7.5,
+    "K": 0.17,
+    "jaccard": 0.354,
+    "final_km2": 2.019
+   },
+   {
+    "lon": -110.9426,
+    "lat": 52.7518,
+    "m_from_range13": 499,
+    "m_from_range11": 2054,
+    "bearing_from_range11": 150,
+    "ignition_h": 7.5,
+    "K": 0.17,
+    "jaccard": 0.349,
+    "final_km2": 1.545
+   },
+   {
+    "lon": -110.9424,
+    "lat": 52.7531,
+    "m_from_range13": 350,
+    "m_from_range11": 1930,
+    "bearing_from_range11": 148,
+    "ignition_h": 6.0,
+    "K": 0.17,
+    "jaccard": 0.332,
+    "final_km2": 1.922
+   },
+   {
+    "lon": -110.9424,
+    "lat": 52.7531,
+    "m_from_range13": 350,
+    "m_from_range11": 1930,
+    "bearing_from_range11": 148,
+    "ignition_h": 7.0,
+    "K": 0.17,
+    "jaccard": 0.32,
+    "final_km2": 1.921
+   },
+   {
+    "lon": -110.9424,
+    "lat": 52.7531,
+    "m_from_range13": 350,
+    "m_from_range11": 1930,
+    "bearing_from_range11": 148,
+    "ignition_h": 6.5,
+    "K": 0.17,
+    "jaccard": 0.319,
+    "final_km2": 1.934
+   },
+   {
+    "lon": -110.9424,
+    "lat": 52.7531,
+    "m_from_range13": 350,
+    "m_from_range11": 1930,
+    "bearing_from_range11": 148,
+    "ignition_h": 7.5,
+    "K": 0.17,
+    "jaccard": 0.309,
+    "final_km2": 1.8
+   },
+   {
+    "lon": -110.9424,
+    "lat": 52.7531,
+    "m_from_range13": 350,
+    "m_from_range11": 1930,
+    "bearing_from_range11": 148,
+    "ignition_h": 8.0,
+    "K": 0.17,
+    "jaccard": 0.307,
+    "final_km2": 1.805
+   },
+   {
+    "lon": -110.9424,
+    "lat": 52.7531,
+    "m_from_range13": 350,
+    "m_from_range11": 1930,
+    "bearing_from_range11": 148,
+    "ignition_h": 8.5,
+    "K": 0.17,
+    "jaccard": 0.306,
+    "final_km2": 1.77
+   },
+   {
+    "lon": -110.9444,
+    "lat": 52.7559,
+    "m_from_range13": 137,
+    "m_from_range11": 1600,
+    "bearing_from_range11": 146,
+    "ignition_h": 7.0,
+    "K": 0.17,
+    "jaccard": 0.296,
+    "final_km2": 2.33
+   },
+   {
+    "lon": -110.9424,
+    "lat": 52.7531,
+    "m_from_range13": 350,
+    "m_from_range11": 1930,
+    "bearing_from_range11": 148,
+    "ignition_h": 9.0,
+    "K": 0.17,
+    "jaccard": 0.296,
+    "final_km2": 1.698
+   },
+   {
+    "lon": -110.9424,
+    "lat": 52.7531,
+    "m_from_range13": 350,
+    "m_from_range11": 1930,
+    "bearing_from_range11": 148,
+    "ignition_h": 10.0,
+    "K": 0.17,
+    "jaccard": 0.291,
+    "final_km2": 1.628
+   }
+  ],
+  "standard_rate_final_km2_range_viirs_consistent": [
+   4.795999999999999,
+   8.8405,
+   12.513
+  ]
+ },
+ "_sunset": {
+  "best_jaccard": 0.476,
+  "weight_by_K": {
+   "0.17": 0.02,
+   "0.3": 0.387,
+   "0.5": 0.486,
+   "1.0": 0.107
+  },
+  "weight_ignition_by_830": 0.722,
+  "weighted_final_km2": {
+   "p10": 1.18,
+   "p50": 2.09,
+   "p90": 3.08
+  },
+  "top15": [
+   {
+    "lon": -110.9469,
+    "lat": 52.7533,
+    "m_from_range13": 446,
+    "m_from_range11": 1773,
+    "bearing_from_range11": 156,
+    "ignition_h": 7.5,
+    "K": 0.3,
+    "jaccard": 0.476,
+    "final_km2": 1.308
+   },
+   {
+    "lon": -110.9469,
+    "lat": 52.7533,
+    "m_from_range13": 446,
+    "m_from_range11": 1773,
+    "bearing_from_range11": 156,
+    "ignition_h": 6.5,
+    "K": 0.3,
+    "jaccard": 0.467,
+    "final_km2": 1.42
+   },
+   {
+    "lon": -110.9448,
+    "lat": 52.7519,
+    "m_from_range13": 515,
+    "m_from_range11": 1977,
+    "bearing_from_range11": 154,
+    "ignition_h": 6.5,
+    "K": 0.3,
+    "jaccard": 0.456,
+    "final_km2": 1.293
+   },
+   {
+    "lon": -110.9448,
+    "lat": 52.7519,
+    "m_from_range13": 515,
+    "m_from_range11": 1977,
+    "bearing_from_range11": 154,
+    "ignition_h": 7.5,
+    "K": 0.3,
+    "jaccard": 0.453,
+    "final_km2": 1.18
+   },
+   {
+    "lon": -110.9469,
+    "lat": 52.7533,
+    "m_from_range13": 446,
+    "m_from_range11": 1773,
+    "bearing_from_range11": 156,
+    "ignition_h": 8.0,
+    "K": 0.3,
+    "jaccard": 0.442,
+    "final_km2": 1.223
+   },
+   {
+    "lon": -110.9469,
+    "lat": 52.7533,
+    "m_from_range13": 446,
+    "m_from_range11": 1773,
+    "bearing_from_range11": 156,
+    "ignition_h": 6.0,
+    "K": 0.3,
+    "jaccard": 0.438,
+    "final_km2": 1.383
+   },
+   {
+    "lon": -110.9448,
+    "lat": 52.7519,
+    "m_from_range13": 515,
+    "m_from_range11": 1977,
+    "bearing_from_range11": 154,
+    "ignition_h": 7.0,
+    "K": 0.3,
+    "jaccard": 0.432,
+    "final_km2": 1.199
+   },
+   {
+    "lon": -110.9448,
+    "lat": 52.7519,
+    "m_from_range13": 515,
+    "m_from_range11": 1977,
+    "bearing_from_range11": 154,
+    "ignition_h": 6.0,
+    "K": 0.3,
+    "jaccard": 0.424,
+    "final_km2": 1.267
+   },
+   {
+    "lon": -110.947,
+    "lat": 52.7519,
+    "m_from_range13": 571,
+    "m_from_range11": 1907,
+    "bearing_from_range11": 158,
+    "ignition_h": 9.0,
+    "K": 0.5,
+    "jaccard": 0.423,
+    "final_km2": 1.959
+   },
+   {
+    "lon": -110.947,
+    "lat": 52.7519,
+    "m_from_range13": 571,
+    "m_from_range11": 1907,
+    "bearing_from_range11": 158,
+    "ignition_h": 8.0,
+    "K": 0.5,
+    "jaccard": 0.42,
+    "final_km2": 2.294
+   },
+   {
+    "lon": -110.947,
+    "lat": 52.7519,
+    "m_from_range13": 571,
+    "m_from_range11": 1907,
+    "bearing_from_range11": 158,
+    "ignition_h": 8.5,
+    "K": 0.5,
+    "jaccard": 0.419,
+    "final_km2": 2.188
+   },
+   {
+    "lon": -110.9491,
+    "lat": 52.7534,
+    "m_from_range13": 552,
+    "m_from_range11": 1709,
+    "bearing_from_range11": 160,
+    "ignition_h": 9.0,
+    "K": 0.5,
+    "jaccard": 0.416,
+    "final_km2": 2.224
+   },
+   {
+    "lon": -110.9471,
+    "lat": 52.7506,
+    "m_from_range13": 706,
+    "m_from_range11": 2044,
+    "bearing_from_range11": 160,
+    "ignition_h": 7.5,
+    "K": 0.5,
+    "jaccard": 0.415,
+    "final_km2": 2.095
+   },
+   {
+    "lon": -110.9471,
+    "lat": 52.7506,
+    "m_from_range13": 706,
+    "m_from_range11": 2044,
+    "bearing_from_range11": 160,
+    "ignition_h": 7.0,
+    "K": 0.5,
+    "jaccard": 0.413,
+    "final_km2": 2.238
+   },
+   {
+    "lon": -110.9468,
+    "lat": 52.7546,
+    "m_from_range13": 341,
+    "m_from_range11": 1642,
+    "bearing_from_range11": 153,
+    "ignition_h": 9.0,
+    "K": 0.3,
+    "jaccard": 0.41,
+    "final_km2": 1.308
+   }
+  ],
+  "standard_rate_final_km2_range_viirs_consistent": [
+   2.7765,
+   3.762,
+   6.7015
+  ]
+ },
+ "_rh60": {
+  "best_jaccard": 0.41,
+  "weight_by_K": {
+   "0.17": 0.081,
+   "0.3": 0.398,
+   "0.5": 0.332,
+   "1.0": 0.189
+  },
+  "weight_ignition_by_830": 0.628,
+  "weighted_final_km2": {
+   "p10": 1.57,
+   "p50": 2.69,
+   "p90": 4.18
+  },
+  "top15": [
+   {
+    "lon": -110.9469,
+    "lat": 52.7533,
+    "m_from_range13": 446,
+    "m_from_range11": 1773,
+    "bearing_from_range11": 156,
+    "ignition_h": 7.5,
+    "K": 0.3,
+    "jaccard": 0.41,
+    "final_km2": 2.061
+   },
+   {
+    "lon": -110.9469,
+    "lat": 52.7533,
+    "m_from_range13": 446,
+    "m_from_range11": 1773,
+    "bearing_from_range11": 156,
+    "ignition_h": 6.5,
+    "K": 0.3,
+    "jaccard": 0.398,
+    "final_km2": 2.218
+   },
+   {
+    "lon": -110.9448,
+    "lat": 52.7519,
+    "m_from_range13": 515,
+    "m_from_range11": 1977,
+    "bearing_from_range11": 154,
+    "ignition_h": 6.5,
+    "K": 0.3,
+    "jaccard": 0.398,
+    "final_km2": 1.979
+   },
+   {
+    "lon": -110.9448,
+    "lat": 52.7519,
+    "m_from_range13": 515,
+    "m_from_range11": 1977,
+    "bearing_from_range11": 154,
+    "ignition_h": 7.5,
+    "K": 0.3,
+    "jaccard": 0.394,
+    "final_km2": 1.831
+   },
+   {
+    "lon": -110.9469,
+    "lat": 52.7533,
+    "m_from_range13": 446,
+    "m_from_range11": 1773,
+    "bearing_from_range11": 156,
+    "ignition_h": 8.0,
+    "K": 0.3,
+    "jaccard": 0.39,
+    "final_km2": 1.99
+   },
+   {
+    "lon": -110.9448,
+    "lat": 52.7519,
+    "m_from_range13": 515,
+    "m_from_range11": 1977,
+    "bearing_from_range11": 154,
+    "ignition_h": 7.0,
+    "K": 0.3,
+    "jaccard": 0.376,
+    "final_km2": 1.878
+   },
+   {
+    "lon": -110.9469,
+    "lat": 52.7533,
+    "m_from_range13": 446,
+    "m_from_range11": 1773,
+    "bearing_from_range11": 156,
+    "ignition_h": 6.0,
+    "K": 0.3,
+    "jaccard": 0.374,
+    "final_km2": 2.215
+   },
+   {
+    "lon": -110.9448,
+    "lat": 52.7519,
+    "m_from_range13": 515,
+    "m_from_range11": 1977,
+    "bearing_from_range11": 154,
+    "ignition_h": 6.0,
+    "K": 0.3,
+    "jaccard": 0.374,
+    "final_km2": 1.986
+   },
+   {
+    "lon": -110.9448,
+    "lat": 52.7519,
+    "m_from_range13": 515,
+    "m_from_range11": 1977,
+    "bearing_from_range11": 154,
+    "ignition_h": 8.0,
+    "K": 0.3,
+    "jaccard": 0.368,
+    "final_km2": 1.769
+   },
+   {
+    "lon": -110.9426,
+    "lat": 52.7518,
+    "m_from_range13": 499,
+    "m_from_range11": 2054,
+    "bearing_from_range11": 150,
+    "ignition_h": 6.0,
+    "K": 0.17,
+    "jaccard": 0.366,
+    "final_km2": 0.897
+   },
+   {
+    "lon": -110.9448,
+    "lat": 52.7519,
+    "m_from_range13": 515,
+    "m_from_range11": 1977,
+    "bearing_from_range11": 154,
+    "ignition_h": 8.5,
+    "K": 0.3,
+    "jaccard": 0.363,
+    "final_km2": 1.67
+   },
+   {
+    "lon": -110.9445,
+    "lat": 52.7545,
+    "m_from_range13": 236,
+    "m_from_range11": 1722,
+    "bearing_from_range11": 149,
+    "ignition_h": 7.0,
+    "K": 0.17,
+    "jaccard": 0.362,
+    "final_km2": 1.041
+   },
+   {
+    "lon": -110.9468,
+    "lat": 52.7546,
+    "m_from_range13": 341,
+    "m_from_range11": 1642,
+    "bearing_from_range11": 153,
+    "ignition_h": 9.0,
+    "K": 0.3,
+    "jaccard": 0.357,
+    "final_km2": 2.135
+   },
+   {
+    "lon": -110.9447,
+    "lat": 52.7532,
+    "m_from_range13": 372,
+    "m_from_range11": 1847,
+    "bearing_from_range11": 152,
+    "ignition_h": 7.5,
+    "K": 0.3,
+    "jaccard": 0.357,
+    "final_km2": 2.083
+   },
+   {
+    "lon": -110.9427,
+    "lat": 52.7504,
+    "m_from_range13": 649,
+    "m_from_range11": 2182,
+    "bearing_from_range11": 152,
+    "ignition_h": 6.5,
+    "K": 0.3,
+    "jaccard": 0.356,
+    "final_km2": 1.726
+   }
+  ],
+  "standard_rate_final_km2_range_viirs_consistent": [
+   3.416,
+   5.009499999999999,
+   8.615
+  ]
+ }
+}

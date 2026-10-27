@@ -1,0 +1,102 @@
+{
+ "Landsat_30_m_NBR_2026_10_24": {
+  "Range 2 point": {
+   "burned_pct_30_150m_by_quadrant": {
+    "NE": 74,
+    "SE": 64,
+    "SW": 100,
+    "NW": 100
+   },
+   "burned_pct_within_150m": 84
+  },
+  "Road head": {
+   "burned_pct_30_150m_by_quadrant": {
+    "NE": 0,
+    "SE": 34,
+    "SW": 100,
+    "NW": 43
+   },
+   "burned_pct_within_150m": 44
+  }
+ },
+ "S2_10_m_red_darkening_2026_10_19": {
+  "Range 2 point": {
+   "burned_pct_30_150m_by_quadrant": {
+    "NE": 26,
+    "SE": 6,
+    "SW": 5,
+    "NW": 10
+   },
+   "burned_pct_within_150m": 11
+  },
+  "Road head": {
+   "burned_pct_30_150m_by_quadrant": {
+    "NE": 0,
+    "SE": 4,
+    "SW": 35,
+    "NW": 3
+   },
+   "burned_pct_within_150m": 10
+  }
+ },
+ "S2_10_m_red_darkening_2026_10_24": {
+  "Range 2 point": {
+   "burned_pct_30_150m_by_quadrant": {
+    "NE": 65,
+    "SE": 55,
+    "SW": 83,
+    "NW": 78
+   },
+   "burned_pct_within_150m": 70
+  },
+  "Road head": {
+   "burned_pct_30_150m_by_quadrant": {
+    "NE": 0,
+    "SE": 11,
+    "SW": 90,
+    "NW": 32
+   },
+   "burned_pct_within_150m": 32
+  }
+ },
+ "S2_20_m_dNBR_2026_10_19": {
+  "Range 2 point": {
+   "burned_pct_30_150m_by_quadrant": {
+    "NE": 76,
+    "SE": 67,
+    "SW": 100,
+    "NW": 100
+   },
+   "burned_pct_within_150m": 84
+  },
+  "Road head": {
+   "burned_pct_30_150m_by_quadrant": {
+    "NE": 0,
+    "SE": 29,
+    "SW": 100,
+    "NW": 42
+   },
+   "burned_pct_within_150m": 42
+  }
+ },
+ "S2_20_m_dNBR_2026_10_24": {
+  "Range 2 point": {
+   "burned_pct_30_150m_by_quadrant": {
+    "NE": 73,
+    "SE": 65,
+    "SW": 100,
+    "NW": 100
+   },
+   "burned_pct_within_150m": 82
+  },
+  "Road head": {
+   "burned_pct_30_150m_by_quadrant": {
+    "NE": 0,
+    "SE": 24,
+    "SW": 100,
+    "NW": 38
+   },
+   "burned_pct_within_150m": 40
+  }
+ }
+}

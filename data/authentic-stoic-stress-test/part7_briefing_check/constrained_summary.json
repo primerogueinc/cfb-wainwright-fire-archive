@@ -1,0 +1,46 @@
+{
+ "all_likely_ground": {
+  "cells": 600,
+  "weight_share": 1.0,
+  "sees_edge_standing": 0.52,
+  "sees_edge_prone": 0.318,
+  "escape_gust_jog": 0.631,
+  "escape_gust_smoke": 0.421,
+  "escape_fire500_jog": 0.426,
+  "escape_fire200_jog": 0.095,
+  "median_arrival_min_after_3pm": 21.8
+ },
+ "inside_PDA2": {
+  "cells": 600,
+  "weight_share": 1.0,
+  "sees_edge_standing": 0.52,
+  "sees_edge_prone": 0.318,
+  "escape_gust_jog": 0.631,
+  "escape_gust_smoke": 0.421,
+  "escape_fire500_jog": 0.426,
+  "escape_fire200_jog": 0.095,
+  "median_arrival_min_after_3pm": 21.8
+ },
+ "outside_PDA2": {
+  "cells": 0,
+  "weight_share": 0.0,
+  "sees_edge_standing": null,
+  "sees_edge_prone": null,
+  "escape_gust_jog": null,
+  "escape_gust_smoke": null,
+  "escape_fire500_jog": null,
+  "escape_fire200_jog": null,
+  "median_arrival_min_after_3pm": NaN
+ },
+ "outside_PDA2_within_300m_of_boundary": {
+  "cells": 0,
+  "weight_share": 0.0,
+  "sees_edge_standing": null,
+  "sees_edge_prone": null,
+  "escape_gust_jog": null,
+  "escape_gust_smoke": null,
+  "escape_fire500_jog": null,
+  "escape_fire200_jog": null,
+  "median_arrival_min_after_3pm": NaN
+ }
+}

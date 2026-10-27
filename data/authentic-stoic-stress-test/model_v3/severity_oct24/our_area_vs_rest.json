@@ -1,0 +1,55 @@
+{
+ "our_area (300 m around Range 2-road head)": {
+  "km2": 0.42,
+  "median": 0.49,
+  "mean": 0.471,
+  "share_ge_044": 0.64,
+  "share_ge_066": 0.027,
+  "pre_nbr": 0.132,
+  "pre_ndvi": 0.422
+ },
+ "rest of scar": {
+  "km2": 10.69,
+  "median": 0.453,
+  "mean": 0.447,
+  "share_ge_044": 0.55,
+  "share_ge_066": 0.016,
+  "pre_nbr": 0.114,
+  "pre_ndvi": 0.398
+ },
+ "rest, after-shift only": {
+  "km2": 8.46,
+  "median": 0.467,
+  "mean": 0.454,
+  "share_ge_044": 0.58,
+  "share_ge_066": 0.02,
+  "pre_nbr": 0.12,
+  "pre_ndvi": 0.403
+ },
+ "rest, after-shift, reached 0-20 min": {
+  "km2": 2.39,
+  "median": 0.479,
+  "mean": 0.464,
+  "share_ge_044": 0.65,
+  "share_ge_066": 0.012,
+  "pre_nbr": 0.116,
+  "pre_ndvi": 0.4
+ },
+ "rank_vs_random_after-shift_patches": {
+  "n": 1320,
+  "percentile": 33.7,
+  "patch_median_range_p5_p95": [
+   0.388,
+   0.566
+  ]
+ },
+ "fuel_adjusted_residual": {
+  "our_area": 0.028,
+  "rest_after_shift": 0.016,
+  "coef": [
+   0.285,
+   -0.2,
+   0.479
+  ]
+ }
+}

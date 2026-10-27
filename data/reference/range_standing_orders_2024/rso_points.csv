@@ -1,0 +1,14 @@
+name,description,grid_ref,source,lat,lon,in_2026_burn,to_2026_burn_edge_m,to_noon_fire_line_km,to_range2_point_osm_m,to_road_head_m
+Range 2,Grenade Range,WD 06686 46913,Ch. 1 para 51b,52.772,-110.90089,False,10,1.16,376,188
+Range 3,Jungle Lane,WD 06434 48187,para 51c,52.78346,-110.9046,False,199,0.68,1191,1481
+Range 10,Anti-Tank Weapons Range,WD 02626 48365,para 51h,52.78509,-110.96106,False,1810,2.31,3939,4452
+Range 11,Grenade Launcher Range (AGLS and M203),WD 02612 46459,para 51i,52.76796,-110.96129,False,1088,1.68,3749,4172
+Range 13,Anti-Tank Weapons Range,WD 02598 45534,para 51j,52.75964,-110.9615,False,1180,2.06,4002,4348
+Range 14,Demolition Range,WD 03975 43748,para 51k,52.74358,-110.94112,False,132,3.0,4011,4101
+Range 15,Field Firing Range,WD 06783 46728,para 51l,52.77034,-110.89946,False,18,1.36,536,20
+Range 19,Field Firing Range,WD 03645 43989,para 51n,52.74575,-110.946,False,146,2.81,4029,4169
+Range 20,Sub Cal Range,WD 03563 49209,para 51o,52.79267,-110.94716,False,1803,2.25,3533,4046
+Range 22,HHAA Static,WD 01533 46517,para 51q,52.76848,-110.97728,False,2167,2.75,4813,5246
+Range 15 barrier,"Yellow and Fireguard (sentry, flag, swing barrier)",WD 0677 4673,Annex H,52.77036,-110.89965,False,9,1.35,524,16
+Range 15 barrier,"Yellow and Fireguard, south end (flag, chain barrier)",WD 0801 4106,Annex H,52.71937,-110.88141,False,2560,6.72,6176,5819
+Range 15 barrier,"Entrance Range 14 (flag, swing barrier)",WD 0397 4374,Annex H,52.74351,-110.94119,False,140,3.0,4020,4110

@@ -1,0 +1,17 @@
+flame_m,canopy,zone,share_sees_edge
+2.5,terrain only,any,58
+2.5,terrain only,>=12 of 20,0
+2.5,leaf-off aspen (100 m see-through),any,58
+2.5,leaf-off aspen (100 m see-through),>=12 of 20,0
+2.5,dense (30 m),any,58
+2.5,dense (30 m),>=12 of 20,0
+2.5,opaque canopy,any,58
+2.5,opaque canopy,>=12 of 20,0
+6.0,terrain only,any,69
+6.0,terrain only,>=12 of 20,41
+6.0,leaf-off aspen (100 m see-through),any,69
+6.0,leaf-off aspen (100 m see-through),>=12 of 20,41
+6.0,dense (30 m),any,69
+6.0,dense (30 m),>=12 of 20,41
+6.0,opaque canopy,any,68
+6.0,opaque canopy,>=12 of 20,41
