@@ -551,3 +551,44 @@ if a.mode == 'base':
         scn.render.filepath = os.path.join(a.out, f'xy_{key}.png'); bpy.ops.render.render(write_still=True)
         scn.cycles.filter_width = 1.5
         print('base', key, flush=True)
+
+
+# ============================================================== eye-level base renders
+# Fixed eye-level cameras (true scale, terrain + canopy) at the Range 2 point and the road
+# head, one lit pass and one data pass each (map x, y and height in R, G, B), for
+# compose_pov.py. Heading 300 deg (WNW-NW, toward the fire and the 3:16 front), 15 mm lens.
+if a.mode == 'povbase':
+    build_terrain(step=1, with_canopy=True)
+    ter = bpy.data.objects['terrain']; lit = ter.data.materials[0]
+    Wm, Hm = P['grid']['w'] * RES, P['grid']['h'] * RES
+    xm = bpy.data.materials.new('xyz'); xm.use_nodes = True
+    N = xm.node_tree.nodes; Lk = xm.node_tree.links; N.remove(N['Principled BSDF'])
+    geo = N.new('ShaderNodeNewGeometry'); sep = N.new('ShaderNodeSeparateXYZ'); Lk.new(geo.outputs['Position'], sep.inputs[0])
+    cmb = N.new('ShaderNodeCombineXYZ')
+    for i, sc in enumerate((Wm, Hm, 200.0)):
+        m = N.new('ShaderNodeMath'); m.operation = 'DIVIDE'; m.inputs[1].default_value = sc
+        Lk.new(sep.outputs[i], m.inputs[0]); Lk.new(m.outputs[0], cmb.inputs[i])
+    em = N.new('ShaderNodeEmission'); Lk.new(cmb.outputs[0], em.inputs['Color'])
+    Lk.new(em.outputs[0], N['Material Output'].inputs['Surface'])
+    cam = camera(lens=15)
+    for k in ('Range 2', 'Roadhead'):
+        if a.only and a.only.lower() not in k.lower():
+            continue
+        v = P['pov'][k]; z = ground_z(v['x'], v['y'], peak=True) + 1.7
+        cam.location = (v['x'], v['y'], z)
+        hd = math.radians(300)
+        look_at(cam, cam.location + Vector((math.sin(hd), math.cos(hd), 0)) * 1000 + Vector((0, 0, 35)))
+        slug = k.lower().replace(' ', '')
+        ter.data.materials[0] = lit; scn.render.film_transparent = False
+        scn.view_settings.view_transform = 'AgX'; scn.cycles.samples = a.samples; scn.cycles.use_denoising = True
+        scn.render.image_settings.color_depth = '8'; scn.render.image_settings.color_mode = 'RGB'
+        scn.render.filepath = os.path.join(a.out, f'povbase_{slug}.png'); bpy.ops.render.render(write_still=True)
+        ter.data.materials[0] = xm; scn.render.film_transparent = True
+        scn.view_settings.view_transform = 'Standard'; scn.view_settings.look = 'None'
+        scn.cycles.samples = 1; scn.cycles.use_denoising = False; scn.cycles.filter_width = 0.01
+        scn.render.image_settings.color_depth = '16'; scn.render.image_settings.color_mode = 'RGBA'
+        scn.render.filepath = os.path.join(a.out, f'povxyz_{slug}.png'); bpy.ops.render.render(write_still=True)
+        scn.cycles.filter_width = 1.5
+        json.dump({'loc': list(cam.location), 'heading': 300, 'lens': 15, 'eye': 1.7, 'res': [RX, RY], 'z0': Z0},
+                  open(os.path.join(a.out, f'povcam_{slug}.json'), 'w'))
+        print('povbase', k, flush=True)

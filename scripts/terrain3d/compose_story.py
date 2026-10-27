@@ -25,7 +25,9 @@ from PIL import Image, ImageDraw, ImageFont, ImageFilter
 from scipy.ndimage import map_coordinates
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import troops
 from troops import Scene
+troops.EXAG = 1.0  # the story base renders are true scale (scene.py 'base' mode)
 from fx2d import FireFX
 
 Ld, Bd, Sd, PF, SWOB, OUT = sys.argv[1:7]
@@ -351,7 +353,7 @@ for fr in story:
         dr.text((bx, by + 76 * S), f'gusts {wg:.0f}', font=fm(13 * S), fill=WHITE, anchor='mm', stroke_width=2, stroke_fill=INK)
     # footer
     ft = Image.new('RGBA', (W, int(40 * S)), (*INK, 210)); im.paste(ft, (0, H - int(40 * S)), ft); dr = ImageDraw.Draw(im)
-    dr.text((18 * S, H - 33 * S), 'Clock not to scale · height x3 · fire: working model v4 (modelled) · observed: Landsat 8 12:17, VIIRS 2:49, '
+    dr.text((18 * S, H - 33 * S), 'Clock not to scale · true scale (no height exaggeration) · fire: working model v4 (modelled) · observed: Landsat 8 12:17, VIIRS 2:49, '
             'CZWN wind, ECCC forecast/warning, Sentinel-2 scar Oct 24', font=freg(11 * S), fill=MUTED)
     dr.text((18 * S, H - 17 * S), 'Figures representative, not to scale · smoke illustrative · ranges from OpenStreetMap, not verified by DND · '
             'Prime Rogue Inc.', font=freg(11 * S), fill=MUTED)

@@ -38,3 +38,16 @@ The video therefore opens at 8:00 a.m. with the fire already burning in Range 11
 **Illustrative only:** the AGL firing in the prologue (DND said on Oct. 22 that the fire started on the automatic grenade launcher range; Range 11 is the AGL range per the standing orders as reported; firing positions, targets and times are not public), and all figures: C Company (~30, a platoon-sized slice, in the Range 2–roadhead area named in the location analysis) and twelve prone grenadiers with range staff on Range 11. Their movement is ordinary range activity and **stops at 3:16 p.m.**: no public source says what anyone did once the wind turned, so the animation does not show it. Figures are drawn at a fixed screen size, not to scale.
 
 The silhouette libraries used for the figures are not included here; only the prone grenadier drawn for this animation is.
+
+## Eye-level version (`eye_level/`, Oct. 27)
+
+`cfb-wainwright-3d-eye-level-draft1.mp4`: what someone standing at the Range 2 point (top) and the road head (bottom) could have seen, from 11:30 a.m. until the modelled fire reached each point. True scale, eye height 1.7 m, looking west-northwest to north-northwest (heading 300°, 15 mm lens); terrain NRCan MRDEM-30 plus Meta/WRI canopy. `povcam_*.json` give each camera. Code: `scripts/terrain3d/compose_pov.py` (base renders: `scene.py` mode `povbase`).
+
+- **Fire:** working model v4, case v4b morning fire and its best-fitting post-front fire (wind 315°, 8 km/h): reaches the Range 2 point at about 3:21 and the road head at about 3:25 p.m.
+- **Smoke visibility** follows v4's smoke model for that fire (`model_v4/smoke/`): before the front, haze at the Range 2 point from about 3:10 (about 2.7 km), the road head clear; after it, under 1 km at 3:18 at both points, under 100 m at 3:20 (Range 2) and 3:23 (road head). Values between are interpolated on a log scale.
+- **Illustrative:** flame heights (2 m before the wind shift, 3-7 m after) and the smoke column before the shift.
+- **No people are shown.** Each panel cuts to black just before the modelled fire reaches its point.
+
+## Correction (Oct. 27)
+
+The timeline drafts 3 and 4 and fire drafts 1 and 2 were labelled "height x3", but their terrain was rendered at true scale (only the test orbit is exaggerated 3x). Figures were placed with 3x heights, a few pixels off the ground. Timeline draft 5 fixes the label and the figure placement.
