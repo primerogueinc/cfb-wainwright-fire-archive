@@ -2,6 +2,8 @@
 
 An open, timestamped archive of raw data and documents on the deadly fire at Canadian Forces Base Wainwright, Alberta, on **October 17, 2026**. Maintained by [Prime Rogue Inc.](https://primerogueinc.com) alongside its [live coverage](https://primerogueinc.com/blog/cfb-wainwright-fire-live-updates/).
 
+> **This is part 1, frozen as of Oct. 27, 2026.** It holds everything up to and including working model v4 (tag `v4-published`). New work, including Rubicon Ridge (working model v5), the Satellogic-derived measurements and the polar-orbiter pass analysis, continues in **part 2: [primerogueinc/cfb-wainwright-fire-archive-2](https://github.com/primerogueinc/cfb-wainwright-fire-archive-2)**. The `data/rubicon-ridge/` files below were copied there. The automated collection jobs listed below may keep adding raw files here.
+
 The goal is a record anyone can check: every raw file is kept unaltered, hashed, and timestamped on the Bitcoin blockchain via [OpenTimestamps](https://opentimestamps.org), so readers can verify that a file existed in this form at a given time.
 
 ## What's here
