@@ -1,5 +1,8 @@
 # Working model v4 (Oct. 25, 2026)
 
+> **Correction, Oct. 28, 2026:** v4 timed the front from the CFB Wainwright station (3:16 p.m., allowing 3:25). Working model v5 (Rubicon Ridge, `cfb-wainwright-fire-archive-2/data/rubicon-ridge/model_v5/`) fits the front over the fire at about 3:28 p.m. (3:27–3:29), which moves the arrival times below about 12–15 minutes later. The station is 14.7 km west-northwest of the fire, not "about 15 km west". v4 is otherwise left as published; the exact published state is the `v4-published` tag. See [`CORRECTIONS.md`](/CORRECTIONS.md).
+
+
 A full re-run of the fire model with a bug fix, new imagery (Sentinel-2 and Landsat 8, Oct. 24), a smoke model, a fit of the post-front fire to the final burn scar, a 240-fire ensemble covering every variation used since part 1, an analysis of competing hypotheses, and the facts DND confirmed at its Oct. 22 briefing (transcript: `data/reference/dnd_briefing_2026-10-22_transcript.txt`). Scripts: `scripts/authentic_stoic_alternative_hypothesis/model_v4/`. This is a working model, not a final finding.
 
 ## Version history

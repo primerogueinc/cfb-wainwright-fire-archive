@@ -1,5 +1,8 @@
 # Part 7: Does the model fit what officials said on Oct. 22?
 
+> **Correction, Oct. 28, 2026:** the DND "approximately 4:00 p.m." release is dated Oct. 18, not Oct. 17, and the station is 14.7 km from the fire, not about 13 km (both fixed below). The front time here (about 3:26) is superseded by working model v5: about 3:28 p.m. (3:27–3:29), in `cfb-wainwright-fire-archive-2`. See [`CORRECTIONS.md`](/CORRECTIONS.md).
+
+
 At the Oct. 22 DND/CAF briefing, officials said: the fire was reported on the automatic grenade launcher (AGL) range; it initially stayed inside Permanent Danger Area 2, so firefighters could not attack it directly; range control monitored it throughout the day; the AGL range and the section-attack range are two separate ranges; the sudden wind change increased its speed and spread; there is no indication natural gas infrastructure was involved; the weapons-effect simulation and tracking system (WEST) was not in use; topography will be addressed by the investigation.
 
 No model inputs change, so parts 1-6 were not re-run. `briefing_check.py` tests the statements against the existing data (`briefing_check.json`). PDA 2 boundary: OpenStreetMap (volunteer-mapped, not confirmed by DND).
@@ -7,7 +10,7 @@ No model inputs change, so parts 1-6 were not re-run. `briefing_check.py` tests 
 | Statement | Our data | Fit |
 |---|---|---|
 | Fire stayed in PDA 2 at first | 59/59 Landsat (12:17) and 7/8 VIIRS (2:49) detections inside PDA 2; pre-shift outline 100% inside; final scar 91% inside | Consistent |
-| Monitored all day | Satellite detections from about noon; Rutland: "several hours" | Consistent; contradicts DND's Oct. 17 release ("approximately 4:00 p.m.") |
+| Monitored all day | Satellite detections from about noon; Rutland: "several hours" | Consistent; contradicts DND's Oct. 18 release ("approximately 4:00 p.m.") |
 | AGL and section-attack ranges are separate | Fire origin (12:17 centroid, 52.7764, -110.9214) is 1.1 km from Range 2 and 1.6 km from the road head | Consistent with Rutland's "a kilometre away when the wind shifted" |
 | Sudden change increased speed | GOES-18 76 MW (3:10) to 1,215 MW (3:30); 82 km/h gust at 21:16Z | Consistent |
 | No gas infrastructure | No producing gas wells within 2 km; two abandoned/reclaimed wells inside the scar; no OSM pipelines within 500 m | Consistent |
@@ -36,7 +39,7 @@ If the section-attack range's administrative area lay outside PDA 2 (as admin ar
 
 ## Firming up the soft spots (`firm_up.py`, `firm_up.json`)
 
-**When the front reached the fire.** A planar fit to front passage at Edmonton (1:27 p.m. MDT), Red Deer (2:24), Wainwright station (3:16) and Lloydminster (3:49) gives a front moving toward 130° at about 80 km/h. At that speed it would reach the fire, about 13 km downstream of the station, around 3:26. The fit is loose (residuals up to about 13 minutes), and the GOES-18 southern pixel burning by 3:30 favours an earlier arrival. Bracket: **3:16 to about 3:26**. Parts 1-6 already model both ends (front at 3:16 and 3:25). Clock times may run up to about 10 minutes later than the 3:16-based figures; the minutes between the front and the fire's arrival do not change.
+**When the front reached the fire.** A planar fit to front passage at Edmonton (1:27 p.m. MDT), Red Deer (2:24), Wainwright station (3:16) and Lloydminster (3:49) gives a front moving toward 130° at about 80 km/h. At that speed it would reach the fire, about 15 km (14.7 km) downstream of the station, around 3:26. The fit is loose (residuals up to about 13 minutes), and the GOES-18 southern pixel burning by 3:30 favours an earlier arrival. Bracket: **3:16 to about 3:26**. Parts 1-6 already model both ends (front at 3:16 and 3:25). Clock times may run up to about 10 minutes later than the 3:16-based figures; the minutes between the front and the fire's arrival do not change.
 
 **How fast the fire ran.** The evidence pulls both ways. The GOES-18 southern pixel needs at least 8 km/h. The 3:30 fire power (1,215 MW, under a 100% cloud flag) fits a slower run, about 4 km/h by the Byram estimate, though cloud attenuates fire power. The 4.4-12 km/h range stands. If the fire ran at 8-12 km/h, escape odds are worse:
 

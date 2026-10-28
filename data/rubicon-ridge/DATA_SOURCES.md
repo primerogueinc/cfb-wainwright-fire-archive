@@ -30,7 +30,7 @@ Status, Oct. 26, 2026: planning. Rubicon Ridge keeps every v4 input and adds the
 
 | Input | Source | Why |
 |---|---|---|
-| Weather stations nearer the fire | Alberta Climate Information Service (ACIS), provincial fire-weather stations | When the front reached the fire itself, not the airfield 13-15 km away (the 3:16 vs 3:25 question) |
+| Weather stations nearer the fire | Alberta Climate Information Service (ACIS), provincial fire-weather stations | When the front reached the fire itself, not the airfield 14.7 km away (the 3:16 vs 3:25 question) |
 | Weather radar | ECCC radar covering Wainwright (archived scans may need a request to ECCC) | Gust-front movement and the smoke plume's timing |
 | Raw GOES imagery | NOAA GOES-18/19 ABI radiances (visible, 3.9 and 11 µm), every 10 min; check for 5-min or 1-min regional scans | Plume direction and sub-threshold heat between 3:10 and 3:30 |
 | Smoke in town | Alberta government air-quality monitors; PurpleAir sensors (API key) | Independent time for smoke reaching Wainwright |

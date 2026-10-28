@@ -37,7 +37,7 @@ We cannot give a plume direction or length from this imagery, and none should be
   reveal a plume. GOES-19 has no FDC fire detection, although its 3.9 µm anomaly is clear at 15:20 and 15:40.
 - **Side note (not a visible-band finding).** On the GOES-19 15:20 scan, the 3.9 µm burn-box maximum is
   304.6 K against a 284.6 K background. GOES-18's 15:20 scan was cloud-flagged at the fire. This warm signal
-  comes before the ~15:29 front arrival, but it is a single 2 km pixel cluster at a 69° view angle and was
+  comes before the ~15:29 front arrival, but it is a single cluster of 3.9 µm pixels (about 2.6 × 5 km each at the fire) at a 69° view angle and was
   not confirmed by FDC. Treat it as a lead to check, not a fact.
 
 ## Limits
@@ -62,8 +62,8 @@ We cannot give a plume direction or length from this imagery, and none should be
   Frames are resampled to a 0.5 km azimuthal-equidistant grid centred on the fire (bilinear for
   reflectance, nearest-neighbour for C07).
 - **Hot-pixel outline (red).** This marks C07 brightness temperature more than 10 K above the local 7×7
-  median on the 2 km grid, restricted to within 15 km of the fire. It is a display aid, not a fire detection
-  product. The outline is the shape of 2 km pixels projected at a steep angle.
+  median on the 3.9 µm grid (nominal 2 km, about 2.6 × 5 km at the fire), restricted to within 15 km of the fire. It is a display aid, not a fire detection
+  product. The outline is the shape of those pixels projected at a steep angle.
 - **Fire centre.** The marked point is 52.7645 N, 110.9052 W. Wainwright town is at 52.8334 N, 110.8601 W.
 
 ## Files
