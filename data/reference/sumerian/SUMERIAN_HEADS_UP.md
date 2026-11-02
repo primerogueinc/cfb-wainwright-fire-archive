@@ -59,6 +59,7 @@ We have **not** confirmed how the licences passed from Cleo to Sumerian. It coul
   - distances to the burn outline and to Ranges 15, 2 and 11;
   - the January 2025 Abandoned Well Map licensee and status;
   - membership in the Oct. 9 order extract.
+- `ranges_troops/`: the same maps with every range from the 2024 Range Standing Orders, the R11 AGL range (500 m and 1 km rings) and the road head with the v5.3 500 m troop-area zone. Full 12 km view and a ranges close-up, before and after. Script: `scripts/reference/wells_ranges_troops.py`.
 - Script: `scripts/reference/wells_fullbleed_sumerian.py`. The old-vs-new comparison is in `../aer_abandoned_wells/map_st37_vs_abandoned.png` (`scripts/reference/abandoned_vs_st37_map.py`).
 
 ## Sources
