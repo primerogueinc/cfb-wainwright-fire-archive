@@ -40,3 +40,5 @@ On the "buried wellhead" idea: abandoned wells are cut and capped below ground (
 AER data. The Abandoned Well Map metadata says: purchasers may use the files for internal or client use and may release small portions; copying a complete file or a large portion for resale is not permitted. The originals are kept here unchanged, as supplied, for provenance only; this archive is non-commercial (CC BY-NC 4.0 for Prime Rogue's work).
 
 Credit: Alberta Energy Regulator. Clip and comparison: Prime Rogue Inc.
+
+- `map_st37_vs_abandoned.png`: old vs new map. It compares the ST37 list (Oct. 1, 2026) with the Abandoned Well Map (Jan. 2025) on Sentinel-2, Oct. 19. Matched wells sit at identical positions. Counts: 174 same, 11 status changed, 19 abandoned since, 214 active/other in ST37 only, 1 on the abandoned map only. Script: `scripts/reference/abandoned_vs_st37_map.py`. Sumerian annotations: `../sumerian/`.
