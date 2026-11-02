@@ -53,6 +53,7 @@ We have **not** confirmed how the licences passed from Cleo to Sumerian. It coul
 
 - `wells_sumerian_before_oct04.png` and `wells_sumerian_after_oct19.png`: full-bleed 10 m maps of all wells and pipelines within 12 km, with Sumerian wells ringed and Sumerian lines in magenta.
 - `wells_sumerian_before_after.jpg`: the same two maps side by side.
+- `closeup_burn_r15_before_oct04.jpg`, `closeup_burn_r15_after_oct19.jpg`, `closeup_burn_r15_before_after.jpg`: 2x close-ups of the burn, Range 2 and Range 15 area, cropped from the full maps.
 - `wells_12km_sumerian_flagged.csv`: every well within 12 km, with:
   - a Sumerian flag;
   - distances to the burn outline and to Ranges 15, 2 and 11;
