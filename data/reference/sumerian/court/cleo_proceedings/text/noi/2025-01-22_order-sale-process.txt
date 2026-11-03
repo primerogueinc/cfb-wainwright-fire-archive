@@ -1,0 +1,833 @@
+                                                                                  Clerk’s Stamp
+
+ COURT FILE NO.            B301-163430
+
+
+ COURT                     COURT OF KING’S BENCH OF ALBERTA
+                           (IN BANKRUPTCY & INSOLVENCY)
+
+ JUDICIAL CENTRE           CALGARY
+
+ APPLICANTS                IN THE MATTER OF THE BANKRUPTCY AND INSOLVENCY ACT,
+                           RSC 1985, C C-8, AS AMENDED
+
+                           AND IN THE MATTER OF THE NOTICE OF INTENTION TO
+                           MAKE A PROPOSAL OF CLEO ENERGY CORP.
+
+ DOCUMENT                  ORDER (Sale Process)
+
+ ADDRESS FOR               Gowling WLG (Canada) LLP
+ SERVICE AND               1600, 421 – 7th Avenue SW
+ CONTACT                   Calgary, AB T2P 4K9
+ INFORMATION OF
+ PARTY FILING              Attn:     Sam Gabor / Tom Cumming
+ THIS DOCUMENT             Phone:    403.298.1938
+                           Fax:      403.263.9193
+                           Email:    sam.gabor@gowlingwlg.com /
+                                     tom.cumming@gowlingwlg.com
+                           File No.: G10010664
+
+
+DATE ON WHICH ORDER WAS PRONOUNCED:                         January 22, 2025
+LOCATION WHERE ORDER WAS PRONOUNCED: Calgary, Alberta
+JUSTICE WHO MADE THIS ORDER:                                The Honourable Associate Chief
+                                                            Justice K. G. Nielsen in
+                                                            Commercial Chambers
+
+                UPON THE APPLICATION of Cleo Energy Corp. (the “Applicant”), filed
+January 20, 2025; AND UPON reading Affidavit of Chris Lewis, sworn January 20, 2025,
+and the Affidavit of Service of Sherry Langley, sworn January ●, 2025; AND UPON reading the
+Second Report of Alvarez & Marsal Canada Inc. in its capacity as proposal trustee of the
+Applicant (in such capacity, the “Proposal Trustee”) dated January ●, 2025 (the “Second
+Report”); AND UPON hearing submissions by counsel for the Applicant, counsel for the
+Proposal Trustee and any other counsel or other interested parties present,
+
+
+
+65884445\4
+LEGAL_CAL:16465465.1
+IT IS HEREBY ORDERED AND DECLARED THAT:
+
+1.      The time for service of the notice of application for this order (the “Order”) is hereby
+        abridged and deemed good and sufficient and this application is properly returnable today,
+        and no other than those persons served is entitled to service of the notice of application.
+
+2.      The sale and solicitation process (“Sale Process”) commenced by the Applicant prior to
+        the granting of this Order, as described in the Second Report and as attached hereto as
+        Appendix “A”, is commercially reasonable and is hereby approved.
+
+3.      The Proposal Trustee, with the assistance of and in consultation with the Applicant, is
+        hereby authorized and directed to conduct the Sale Process, and do all things reasonably
+        necessary to give full effect thereto and carry out its obligations thereunder, including
+        taking any additional steps or executing additional documents as may be necessary or
+        desirable in order to carry out and complete the Sale Process and a transaction or
+        transactions thereunder.
+
+4.      Nothing herein shall act as authorization or approval of the transfer or vesting of any or all
+        of the Applicant’s property, assets or undertakings under any agreement negotiated in
+        connection with the Sale Process, or otherwise. Such transfer and vesting shall be dealt
+        with and shall be subject to further Order of this Court.
+
+5.      The Applicant and the Proposal Trustee are hereby authorized and empowered to apply to
+        this Court to amend, vary or seek any advice, directions or the approval or vesting of any
+        transaction in connection with the Sale Process.
+
+6.      This Court hereby requests the aid and recognition of any court, tribunal, regulatory, or
+        administrative body having jurisdiction in Canada or in any of its provinces or territories
+        or in any foreign jurisdiction, to act in aid of and to be complimentary to this Court in
+        carrying out the terms of this Order, to give effect to this Order, and to assist the Proposal
+        Trustee and its agents in carrying out the terms of this Order. All courts, tribunals, and
+        regulatory and administrative bodies are hereby respectfully requested to make such order
+        and to provide such assistance to the Proposal Trustee, as an officer of the Court, as may
+
+
+
+
+65884445\4
+        be necessary or desirable to give effect to this Order or to assist the Proposal Trustee and
+        its agents in carrying out the terms of this Order.
+
+7.      Service of this Order shall be deemed good and sufficient:
+
+        (a)    by serving same on the persons who were served with notice of this Application
+               and any other parties attending or represented at the hearing of this Application;
+               and
+
+        (b)    by posting a copy of this Order on the Proposal Trustee’s website as:
+
+                       https://www.alvarezandmarsal.com/content/CLEO
+
+8.      Service of this Order on any other person is hereby dispensed with.
+
+9.      Service of this Order may be effected by facsimile, electronic mail, personal delivery or
+        courier. Service is deemed to be effected the next business day following transmission or
+        delivery of this Order.
+
+
+
+
+                                                              _______________________________
+                                                              J.C.K.B.A.
+
+
+
+
+65884445\4
+             APPENDIX “A”
+
+
+
+
+65884445\4
+                              SALE AND SOLICITATION PROCESS
+
+                                            Introduction
+
+1.      On December 8, 2024, Cleo Energy Corp. (the “Company”) filed a notice of intention to
+        make a proposal (a “NOI”) under the Bankruptcy and Insolvency Act, RSC 1985, c B-3,
+        as amended (the “BIA”) with the Office of the Superintendent of Bankruptcy (the “OSB”).
+        Alvarez & Marsal Canada Inc. was appointed as proposal trustee of the Company (in such
+        capacity, the “Proposal Trustee”).
+
+2.      The Company and the Proposal Trustee intend to commence this sale and solicitation
+        process (the “SSP”) in order to solicit interest in the purchase of or investment in all or part
+        of the business or operations of the Company or its undertaking, property and assets (the
+        “Property”), and within a reasonable period following the launch of the SSP seek an Order
+        of the Court of King’s Bench of Alberta (the “Court”) approving and ratifying the SSP. The
+        Company has engaged Sayer Energy Advisors (“Sayer”) to act as the sale advisor to the
+        Company and Proposal Trustee in the SSP.
+
+3.      The SSP as described herein shall, together with any order issued by the Court pertaining
+        to the SSP, exclusively govern the process for soliciting and selecting bids in connection
+        with the SSP.
+
+4.      Chris Lewis, the president and sole director of the Company, has informed the Proposal
+        Trustee that he does not currently intend to directly or indirectly participate in any purchase
+        from or investment in the Company pursuant to the SSP, and has undertaken to notify the
+        Proposal Trustee if that should change at any time during the proceedings under the BIA.
+        In such an event, the Proposal Trustee will conduct the SSP, with the advice of Sayer, but
+        without consulting the Company and the Proposal Trustee will establish the appropriate
+        ethical walls with Mr. Lewis and the Company to protect confidential information with
+        respect to any offers received in the SSP.
+
+5.      The offer submission and evaluation stage of the SSP will, as more fully described herein,
+        be comprised of a two-phase process:
+
+        (a)    Phase 1 – the submission and evaluation of non-binding letters of intent (a “Non-
+               Binding LOI”) from Qualified Bidders; and
+
+        (b)    Phase 2 – the submission and evaluation of binding offers from bidders that have
+               submitted a Non-Binding LOI and that have been invited to submit a Bid.
+
+6.      All dollar amounts expressed herein, unless otherwise noted, are in Canadian currency.
+
+7.      Unless otherwise indicated herein, any event that occurs on a day that is not a Business
+        Day shall be deemed to occur on the next Business Day.
+
+                                           Defined Terms
+
+8.      All capitalized terms used herein and not otherwise defined shall have the meaning given
+        to them in Schedule “A hereto.
+
+
+
+
+65883420\12
+                                                -2-
+
+
+                                  Sale and Solicitation Process
+
+9.      The SSP describes, among other things:
+
+        (a)    the manner in which prospective bidders may gain access to due diligence
+               materials concerning the business, operations, or Property of the Company;
+
+        (b)    the guidelines for the ultimate selection of the Successful Bid and Back-Up Bid, as
+               applicable; and,
+
+        (c)    the process for obtaining such approvals (including the approval of the Court) as
+               may be necessary or appropriate in respect of the Successful Bid and the Back-
+               up Bid, as applicable.
+
+                                          Conduct of SSP
+
+10.     The Company shall conduct the SSP in consultation with and with the assistance of the
+        Proposal Trustee and Sayer. In the event there is a disagreement regarding or clarification
+        required as to the interpretation or application of the SSP or the responsibilities of any
+        Person hereunder, upon application of the Company, the Proposal Trustee or any other
+        interested Person, the Court will have jurisdiction to hear such matters and provide advice
+        and directions.
+
+11.     Notwithstanding that the SSP contemplates that a transaction will be concluded by way of
+        an asset purchase, participants may propose alternative transaction or investment
+        structures in connection with the SSP, including but not limited to transactions to refinance,
+        reorganize, or recapitalize the Company or a reverse vesting order transaction.
+
+12.     Participants in the SSP shall be responsible for all costs, expenses and liabilities incurred
+        by them in connection with the submission of any Bid, including in respect of all due
+        diligence activities or other actions undertaken by such participant, whether or not they
+        lead to the consummation of a transaction.
+
+13.     The SSP does not and will not be interpreted to create any contractual or other legal
+        relationship between the Company, the Proposal Trustee or any Potential Bidder, Bidder,
+        Qualified Bidder, Successful Bidder, Back-up Bidder or any other Person, other than as
+        specifically set forth in a definitive agreement that may be entered into with the Company.
+
+                                         “As Is, Where Is”
+
+14.     Any transaction involving the Company and the Property will be on an “as is, where is”
+        basis without surviving representations, warranties, covenants or indemnities of any kind,
+        nature, or description by the Company, the Proposal Trustee, Sayer or any of their
+        respective agents, estates, advisors, professionals or otherwise, other than as specifically
+        set forth in a definitive agreement that may be entered into with the Company.
+
+                            Free of Any and All Claims and Interests
+
+15.     All of the right, title and interest of the Company in and to any Property sold or transferred
+        in connection with the SSP will, at the time of such sale or transfer, be sold or transferred
+        free and clear of all pledges, liens, security interests, encumbrances, claims, charges,
+
+
+65883420\12
+                                                  -3-
+
+
+        options and interests pursuant to an approval and vesting order made by the Court under
+        Section 65.13(7) of the BIA.
+
+                                                Timeline
+
+16.     The following table sets out key milestones and anticipated deadlines for the SSP:
+
+                        MILESTONE                                       DATE
+              Commencement Date                     Estimated to be no later than January 22, 2025
+              SSP Approval Application              As soon as reasonably possible
+              Non-Binding LOI Submission Date       February 25, 2025, or such later date as
+                                                    determined by the Proposal Trustee in
+                                                    consultation with the Company and Sayer
+              Binding Bid Submission Date           March 13, 2025, or such later date as
+                                                    determined by the Proposal Trustee in
+                                                    consultation with the Company and Sayer
+              Bid Approval Application              Week of March 24, 2025, or as soon thereafter
+                                                    as Court time can be confirmed, or such later
+                                                    date as determined by the Proposal Trustee in
+                                                    consultation with the Company and Sayer
+              Target Closing Date                   March 31, 2025, or 3 days after Court approval
+                                                    is obtained
+              Outside Date                          April 18, 2025
+
+                                         Solicitation of Interest
+
+17.     The SSP will be commenced by the Company and Sayer, in consultation with the Proposal
+        Trustee, compiling a list of potential bidders (the “Known Potential Bidders”). Such list
+        can include both strategic and financial parties who, in the reasonable business judgment
+        of the Company, Sayer and the Proposal Trustee, may be interested in and have the
+        financial capacity to make a Qualified Bid.
+
+18.     For the purposes of the SSP, the following Persons shall be considered potential bidders
+        (each, a “Potential Bidder”): (i) the Known Potential Bidders, and (ii) any other Person
+        that executes and delivers the documents listed in paragraph 23 and is permitted by the
+        Company or the Proposal Trustee, in consultation with Sayer, to participate in the SSP.
+
+19.     The Company, with the assistance of Sayer and the Proposal Trustee, shall:
+
+        (a)    prepare a teaser letter describing the SSP and inviting interested participants to
+               express their interest in the SSP (the “Teaser”);
+
+        (b)    prepare a non-disclosure agreement (“NDA”), a template Non-Binding LOI and a
+               Template APA; and
+
+        (c)    gather all required due diligence materials, including information relating to the
+               business, operations, or Property of the Company, and establish a virtual data
+               room (the “VDR”) containing same.
+
+        Further, (i) Sayer and the Company shall contact Known Potential Bidders to determine
+        their interest in the SSP by forwarding them a Teaser and, if interested, providing such
+        party with a copy of the SSP and the NDA; and (ii) Sayer shall publish a notice regarding
+
+65883420\12
+                                               -4-
+
+
+        the SSP in the Daily Oil Bulletin, Insolvency Insider and any other publications or
+        newswires as determined by the Proposal Trustee.
+
+20.     The Company, Sayer and the Proposal Trustee will grant access to the VDR to any
+        Potential Bidder that executes and delivers the NDA to the Company and Sayer. Access
+        to the VDR will be granted as soon as reasonably practicable following the delivery of the
+        NDA.
+
+21.     Neither the Company, the Proposal Trustee, Sayer, nor any of their respective advisors
+        make any representation or warranty as to the information contained in the VDR, or other
+        information to be provided through the due diligence process or otherwise, except to the
+        extent contemplated under any definitive document negotiated with a Successful Bidder
+        or Back-Up Bidder which is executed and delivered by the Company and approved by the
+        Court.
+
+                                             Phase 1
+
+22.     A Potential Bidder who wishes to participate in this SSP must deliver a Non-Binding LOI
+        to the Proposal Trustee, with a copy to the Company and Sayer, at the e-mail addresses
+        specified in Schedule “B” hereto, by the Non-Binding LOI Submission Date.
+
+23.     A Non-Binding LOI will be considered a qualified LOI (a “Qualified LOI”) only if the Non-
+        Binding LOI:
+
+        (a)    is submitted to the Proposal Trustee on or before the Non-Binding LOI Submission
+               Date;
+
+        (b)    specifies:
+
+                 (i)    the total proposed consideration payable in the transaction;
+
+                 (ii)   the identity, the type, and the jurisdiction of organization of the Potential
+                        Bidder;
+
+                (iii)   the contact information for such Potential Bidder;
+
+                (iv)    full disclosure of the direct and indirect owners and principals of the
+                        Potential Bidder;
+
+                 (v)    confirmation that the Potential Bidder has a subsisting business associate
+                        code issued through Petrinex and has general eligibility to acquire and
+                        hold licenses or approvals for wells, facilities and pipelines through the
+                        Alberta Energy Regulator; and
+
+                (vi)    such financial disclosure and credit quality support or enhancement that
+                        allows the Proposal Trustee to make a reasonable determination as to
+                        the Potential Bidder’s financial and other capabilities to consummate a
+                        transaction; and
+
+        (c)    includes an executed letter acknowledging receipt of the SSP and agreeing to
+               accept and be bound by the provisions contained therein.
+
+
+65883420\12
+                                                -5-
+
+
+24.     The Proposal Trustee, in consultation with the Company and Sayer, will assess all Non-
+        Binding LOI’s submitted on or before the Non-Binding LOI Submission Date. If it is
+        determined by the Proposal Trustee that:
+
+        (a)    a Potential Bidder: (i) has complied with each of the requirements described in
+               paragraph 23, (ii) has a bona fide interest in concluding a transaction, and (iii) has
+               the financial wherewithal to conclude a transaction, then such Potential Bidder may
+               be deemed a “Qualified Bidder” and advanced to Phase 2; or
+
+        (b)    no Qualified LOI’s have been submitted or, alternatively, that no Qualified LOI is
+               likely to result in a Successful Bid (as defined below), the Proposal Trustee, in
+               consultation with the Company and Sayer, may immediately terminate the SSP.
+
+25.     The Proposal Trustee shall notify all Potential Bidders that deliver a Non-Binding LOI to
+        the Proposal Trustee whether or not they have been designated as a Qualified Bidder.
+
+                                             Phase 2
+
+26.     Qualified Bidders shall be entitled to conduct further due diligence prior to submitting a
+        binding bid (a “Bid”). Such further due diligence shall, at the discretion of the Proposal
+        Trustee, include on-site inspections or meetings with the senior management of the
+        Company.
+
+27.     A Qualified Bidder that wishes to make a Bid must deliver their Bid to the Proposal Trustee,
+        with a copy to Sayer and the Company (provided that the Company or Mr. Lewis is not
+        considered a Qualified Bidder), at the e-mail addresses specified in Schedule “B” hereto,
+        by no later than the Binding Bid Submission Date.
+
+28.     Bids submitted to the Proposal Trustee for consideration must comply with all of the
+        following requirements, and any such complying Bid shall be a “Qualified Bid”:
+
+        (a)    Template: Each Bid must be submitted in the form of a template agreement of
+               purchase and sale (the “Template APA”), a copy of which shall be provided in the
+               VDR;
+
+        (b)    Purchase Price: Each Bid must clearly set forth the purchase price in Canadian
+               dollars, stated on a total enterprise value basis (including the cash and non-cash
+               components thereof);
+
+        (c)    Binding Bid Submission Date: Each Bid must be received on or before 5:00 pm
+               (Calgary time) on the Binding Bid Submission Date;
+
+        (d)    Irrevocable Offer: Each Bid must include a letter stating that the Bid is irrevocable
+               until approval of the Successful Bid or Back-up Bid by the Court, as applicable,
+               provided that if such Bidder is selected as the Successful Bidder or Back-up
+               Bidder, the Bid shall remain irrevocable until the closing of a transaction;
+
+        (e)    Executed Documents: Each Bid must be accompanied by a duly authorized and
+               executed form of transaction document, an electronic Word copy of such
+               agreement, a marked-up version showing all edits to the transaction document as
+               compared to the Template APA, as well as duly authorized and executed
+
+
+65883420\12
+                                               -6-
+
+
+              documents necessary to effectuate the transactions contemplated thereby, which
+              specifies, at a minimum:
+
+                (i)    Identity: Each Bid must fully disclose the identity of each entity that will be
+                       sponsoring or participating in the Bid and the complete terms of such
+                       participation;
+
+               (ii)    Contact Information: Each Bid must contain contact information for any
+                       business, financial or legal advisors retained or to be retained in
+                       connection with the proposed transaction;
+
+               (iii)   Deposit: Each Bid must be accompanied by a deposit (the “Deposit”) in
+                       the form of a wire transfer to a non-interest bearing account specified by
+                       the Proposal Trustee, payable to the order of the Proposal Trustee, on
+                       behalf of the Company, in trust, in an amount equal to fifteen (15%)
+                       percent of the cash consideration contemplated by the Bid or as otherwise
+                       contemplated in any fully executed transaction document, to be held and
+                       dealt with in accordance with the terms of the SSP;
+
+               (iv)    Financial Wherewithal: Each Bid must include:
+
+                       A.      written evidence of a firm, irrevocable commitment for financing,
+                               or other evidence of ability to consummate the proposed
+                               transaction, that will allow the Proposal Trustee to make a
+                               reasonable determination as to the Qualified Bidder’s financial
+                               and other capabilities to consummate the transaction, fund the
+                               business, and implement post-Closing measures and
+                               transactions; and
+
+                       B.      the identification of any Person or entity who may provide debt or
+                               equity financing for the Bid and any material conditions to be
+                               satisfied in connection with such financing;
+
+               (v)     Authorization: Each Bid must include evidence, in form and substance
+                       reasonably satisfactory to the Proposal Trustee, of authorization and
+                       approval from the Qualified Bidder’s board of directors (or comparable
+                       governing body) with respect to the submission, execution, delivery and
+                       Closing of the transaction contemplated by the Bid;
+
+               (vi)    No Other Authorization, Diligence, Financing Conditions: A Bid may not
+                       be conditional upon the following:
+
+                       A.      any internal approval(s);
+
+                       B.      the outcome of unperformed due diligence by the Qualified Bidder;
+                               or
+
+                       C.      obtaining financing;
+
+              (vii)    Regulatory Approvals: Each Bid must be in compliance with Alberta
+                       Energy Regulator requirements and outline any anticipated regulatory
+
+
+65883420\12
+                                               -7-
+
+
+                        and other approvals required to close the transaction, and the anticipated
+                        time frame and any anticipated impediments for obtaining such approvals
+                        and confirms that the Qualified Bidder will make and submit all necessary
+                        and applicable regulatory filings and pay all fees associated therewith;
+
+               (viii)   Disclaimer of Fees: Each Bid must disclaim any right to receive a fee
+                        analogous to a break-up fee, expense reimbursement, termination fee, or
+                        any other similar form of compensation;
+
+                (ix)    Timeline: Each Bid must provide a timeline to Closing with critical
+                        milestones and shall confirm that the Qualified Bidder will use
+                        commercially reasonable efforts to Close by the Target Closing Date;
+
+                 (x)    Confirmation of no collusion: Each Bid should include confirmation by the
+                        Qualified Bidder that it has not engaged in any discussions or any other
+                        collusive behaviour with any other Qualified Bidder regarding the SSP or
+                        any Bids submitted or contemplated to be submitted in the SSP; and
+
+                (xi)    Other Information: Each Bid must contain such other information as may
+                        be reasonably required to evaluate the Bid or as may be requested by the
+                        Proposal Trustee from time to time.
+
+29.     Notwithstanding anything herein to the contrary, the Proposal Trustee, the Company and
+        Sayer will review each Bid to assess whether they are Qualified Bids, with the final
+        decision resting with the Proposal Trustee, following consultation with the Company and
+        Sayer. In performing such review and assessment, the Bids will be evaluated based on
+        the following non-exhaustive list of considerations:
+
+        (a)    the purchase price and net value (including assumed liabilities and other
+               obligations to be assumed or otherwise performed by the Qualified Bidder);
+
+        (b)    the firm, irrevocable commitment for financing of the transaction;
+
+        (c)    the claims likely to be created by such Bid in relation to other Bids;
+
+        (d)    the counterparties to the transaction;
+
+        (e)    the terms of transaction documents;
+
+        (f)    the Closing conditions and other factors affecting the speed, certainty and value of
+               the transaction (including any regulatory approvals required to close the
+               transaction);
+
+        (g)    planned treatment of stakeholders;
+
+        (h)    the assets or liabilities included or excluded from the Bid, including whether the
+               Property subject to such Bid is on a “white map” basis and includes all Property
+               within one or more bid areas delineated by Sayer;
+
+        (i)    compliance with Alberta Energy Regulator requirements;
+
+
+
+
+65883420\12
+                                                -8-
+
+
+        (j)    any restructuring costs that would arise from the Bid;
+
+        (k)    the likelihood and timing of consummating the transaction,
+
+        (l)    the financing or cash pro forma available post-Closing to fund the Company’s
+               business; and
+
+        (m)    the capital sufficient to implement post-Closing measures and transactions.
+
+30.     The Proposal Trustee, in consultation with the Company and Sayer, may reject any Bid
+        that is (a) inadequate or insufficient; (b) not in conformity with the requirements pursuant
+        to the SSP; (c) contrary to the best interest of the Company; or (d) not a Qualified Bid;
+        provided that the Proposal Trustee may waive strict compliance with any one or more of
+        the requirements specified in the SSP and deem a non-compliant Bid to be a Qualified
+        Bid.
+
+                                   Selection of Successful Bid
+
+31.     The Proposal Trustee, in consultation with the Company and Sayer, may clarify or
+        negotiate amended terms with respect to any Qualified Bid, and such Qualified Bid may
+        be amended, modified, or varied as a result of such clarification or negotiation. For greater
+        certainty, the Proposal Trustee, in consultation with the Company and Sayer, shall be
+        entitled to request that any Qualified Bidder submit a revised bid.
+
+32.     In the event that no Qualified Bid is: (a) acceptable to the Proposal Trustee, acting
+        reasonably, or (b) likely to result in a Successful Bid (as defined below), the Proposal
+        Trustee, in consultation with the Company and Sayer, may immediately terminate the
+        SSP.
+
+33.     The Proposal Trustee, in consultation with the Company and Sayer, may, but is not
+        obligated to, select the highest or best Qualified Bid received during the SSP (the
+        “Successful Bid” and the party submitting such Successful Bid, the “Successful Bidder”)
+        and has the discretion to identify and record the next highest or best Qualified Bid (the
+        “Back-Up Bid” and the party submitting such Back-Up Bid, the “Back-Up Bidder”). For
+        greater certainty, the Proposal Trustee shall have no obligation to select a Successful Bid
+        or Back-Up Bid and expressly reserves the right to reject any or all Qualified Bids.
+
+34.     If a Successful Bid, and Back-Up Bid, as applicable, is selected, the Proposal Trustee
+        shall advise: (a) the Successful Bidder and the Back-Up Bidder of such determination, and
+        (b) all other Qualified Bidders that they are not a Successful Bidder or Back-Up Bidder.
+
+                                    Bid Approval Application
+
+35.     The Company shall take all necessary steps to implement the transaction contemplated
+        by the Successful Bid and either the Company or the Proposal Trustee shall apply to the
+        Court (the “Bid Approval Application”) for an Order approving the Successful Bid and
+        authorizing the Company to enter into any and all necessary agreements with respect to
+        the Successful Bid and to undertake such other actions as may be necessary or
+        appropriate to implement and give effect to the Successful Bid.
+
+
+
+
+65883420\12
+                                                -9-
+
+
+36.     The hearing of the Bid Approval Application will be held as soon as practical after the
+        selection of the Successful Bid. The Bid Approval Application may be adjourned or
+        rescheduled by the Company or the Proposal Trustee, as applicable.
+
+37.     All Qualified Bids (other than the Successful Bid and the Back-Up Bid) will be deemed
+        rejected on the date the Successful Bid is approved by the Court.
+
+                                   Closing the Successful Bid
+
+38.     The Company and the Successful Bidder shall take all reasonable steps to complete the
+        transaction contemplated by the Successful Bid by the Target Closing Date, and in any
+        event no later than the Outside Date, unless otherwise agreed by the parties.
+
+39.     If the transaction contemplated by the Successful Bid does not close for any reason, the
+        Proposal Trustee, in consultation with the Company and Sayer, may elect to seek to
+        complete the transaction contemplated by the Back-Up Bid and will promptly seek to Close
+        the transaction contemplated by the Back-Up Bid. The Back-Up Bid will be deemed to be
+        the Successful Bid and the Company will be deemed to have accepted the Back-Up Bid
+        only when the Proposal Trustee has made such election and provided written notice of
+        such determination to the Successful Bidder and the Back-Up Bidder.
+
+                                             Deposits
+
+40.     All Deposits shall be retained by the Proposal Trustee in a trust account with a chartered
+        bank in Canada. The Deposit (without interest thereon) paid by the Successful Bidder and
+        Back-Up Bidder, as applicable, whose Qualified Bid(s) is/are approved at the Bid Approval
+        Application will be applied to the purchase price to be paid by the Successful Bidder and/or
+        Back-Up Bidder, as applicable, upon Closing of the approved transaction, and will be non-
+        refundable other than as set out in the Successful Bid or the Back-Up Bid, as applicable.
+
+41.     The Deposits of Qualified Bidders not selected as the Successful Bidder or Back-Up
+        Bidder will be returned to such Qualified Bidders within five (5) Business Days of the date
+        the Successful Bid or the Back-Up Bid is approved by the Court. The Deposit of the Back-
+        Up Bidder, if any, shall be returned to such Back-Up Bidder no later than five (5) Business
+        Days after Closing of a transaction with the Successful Bidder.
+
+42.     If the Successful Bidder or Back-up Bidder, as applicable, breaches its obligations under
+        the terms of the SSP, its Deposit shall be considered non-refundable and forfeited as
+        liquidated damages and not as a penalty.
+
+43.     If the Company is unable to complete the Successful Bid as a result of its own actions and
+        not as a result of steps or conditions contained in the Successful Bid (or the actions of the
+        Successful Bidder), then the Deposit shall be returned to the Successful Bidder.
+
+                                              Notice
+
+44.     The addresses used for delivering documents as prescribed by the terms and conditions
+        of the SSP are set out in Schedule “B” hereto. All documents required to be delivered to
+        the Company and Sayer or the Proposal Trustee pursuant to the SSP shall be delivered
+        to the Company and Sayer and the Proposal Trustee by e-mail, personal delivery, or by
+
+
+
+65883420\12
+                                               - 10 -
+
+
+        courier. Persons requesting information about the SSP should contact the Proposal
+        Trustee at the contact information contained in Schedule “B”.
+
+                                           Amendment
+
+45.     The Proposal Trustee, in consultation with the Company and Sayer, shall have the right
+        to modify the SSP, including any deadlines set out herein, if, in its reasonable business
+        judgment such modification will enhance the process or better achieve the objectives of
+        the SSP.
+
+                                            Credit Bid
+
+46.     Any secured creditor of the Company, including an interim financing lender, shall be
+        entitled to participate in this SSP as a credit bidder (the “Credit Bidder”). Any credit bid
+        submitted by a Credit Bidder shall be based on the form of the Template APA, with such
+        changes as are appropriate for credit bids (the “Credit Bid”).
+
+47.     For the purposes of any Credit Bid submitted by a Credit Bidder, such Credit Bidder shall
+        be entitled to credit all or any portion of its secured indebtedness but must either:
+
+        (a)    irrevocably pay, in cash and in full, all of the obligations in priority (the “Priority
+               Obligations”) to the Credit Bidder’s secured indebtedness, including for reference
+               any amounts that are priority charges (the “Priority Charges”) created in the
+               Proposal Proceedings (namely, the Administration Charge, the D&O Charge or
+               any DIP Charge (as defined in the Court’s January 6, 2025 Order or any
+               subsequent Order)); or
+
+        (b)    assume or otherwise satisfy any of the Priority Obligations on terms and conditions
+               acceptable to the beneficiary of the security for such Priority Obligations (except
+               for the Administration Charge, the D&O Charge or the DIP Charge (if applicable),
+               which must be paid in cash and in full if there are amounts owing on them at the
+               conclusion of the Proposal Proceedings).
+
+48.     Any Credit Bid shall be accompanied by a Deposit sent by wire transfer to the Proposal
+        Trustee. Any such Deposit is to be held by the Proposal Trustee and dealt with in
+        accordance with the SSP.
+
+                                          Further Orders
+
+49.     The Proposal Trustee may at any time apply to the Court for advice and directions with
+        respect to the discharge of its powers and duties hereunder, including to terminate the
+        SSP if deemed to be necessary by the Proposal Trustee, acting reasonably.
+
+
+
+
+65883420\12
+                                          Schedule “A”
+
+                                         Defined Terms
+
+“Back-Up Bid” has the meaning given to it in paragraph 33.
+
+“Back-Up Bidder” has the meaning given to it in paragraph 33.
+
+“BIA” has the meaning given to it in paragraph 1.
+
+“Bid” has the meaning given to it in paragraph 26.
+
+“Bid Approval Application” has the meaning given to it in paragraph 35.
+
+“Binding Bid Submission Date” has the meaning given to it in paragraph 16.
+
+“Business Day” means a day (other than Saturday or Sunday) on which banks are generally
+open for business in Calgary, Alberta.
+
+“Closing” means the completion of the transaction contemplated by the Successful Bid.
+
+“Company” has the meaning given to it in paragraph 1.
+
+“Court” has the meaning given to it in paragraph 2.
+
+“Credit Bid” has the meaning given to it in paragraph 46.
+
+“Credit Bidder” has the meaning given to it in paragraph 46.
+
+“Deposit” has the meaning given to it in paragraph 28(e)(iii).
+
+“Known Potential Bidders” has the meaning given to it in paragraph 17.
+
+“NDA” has the meaning given to it in paragraph 19(b).
+
+“NOI” has the meaning given to it in paragraph 1.
+
+“Non-Binding LOI” has the meaning given to it in paragraph 5(a).
+
+“Non-Binding LOI Submission Date” has the meaning given to it in paragraph 16.
+
+“OSB” has the meaning given to it in paragraph 1.
+
+“Outside Date” has the meaning given to it in paragraph 16.
+
+“Person” will be broadly interpreted and includes, without limitation: (i) a natural person, whether
+acting in his or her own capacity, or in his or her capacity as executor, administrator, estate
+trustee, trustee or personal or legal representative, and the heirs, executors, administrators,
+estate trustees, trustees or other personal or legal representatives of a natural person; (ii) a
+corporation or a Company of any kind, a partnership of any kind, a sole proprietorship, a trust, a
+joint venture, an association, an unincorporated association, an unincorporated syndicate, an
+
+
+65883420\12
+unincorporated organization or any other association, organization or entity of any kind; and (iii)
+a governmental authority.
+
+“Potential Bidder” has the meaning given to it in paragraph 18.
+
+“Priority Charges” has the meaning given to it in paragraph 47(a).
+
+“Priority Obligations” has the meaning given to it in paragraph 47(a).
+
+“Property” means all of the Company’s current and future assets, undertakings, and properties
+of every nature and kind whatsoever, and wherever situate, including all proceeds thereof.
+
+“Proposal Proceedings” means collectively the proceedings commenced by the Company upon
+the filing of a notice of intention to make a proposal on December 8, 2024, as applicable, in Court
+and Estate No.: B301-163430.
+
+“Proposal Trustee” has the meaning given to it in paragraph 1.
+
+“Qualified Bid” has the meaning given to it in paragraph 28.
+
+“Qualified Bidder” has the meaning given to it in paragraph 24(a).
+
+“Qualified LOI” has the meaning given to it in paragraph 23.
+
+“Sayer” has the meaning given to it in paragraph 2.
+
+“SSP” has the meaning given to it in paragraph 2.
+
+“Successful Bid” has the meaning given to it in paragraph 33.
+
+“Successful Bidder” has the meaning given to it in paragraph 33.
+
+“Target Closing Date” has the meaning given to it in paragraph 16.
+
+“Teaser” has the meaning given to it in paragraph 19(a).
+
+“Template APA” has the meaning given to it in paragraph 28(a).
+
+“VDR” has the meaning given to it in paragraph 19(c).
+
+
+
+
+65883420\12
+                                               Schedule “B”
+
+                                                  Notice
+
+
+        (a)       If to the Company:
+
+                  Cleo Energy Corp.
+                  117 8 Ave SW #200
+                  Calgary, AB T2P 1B4
+                  Attention:    Chris Lewis
+                  E-mail:       clewis@cleoenergy.com
+
+        with a copy to:
+
+                  Gowling WLG
+                  Suite 1600, 421 7 Ave SW
+                  Calgary, AB T2P 4K9
+                  Attention:    Sam Gabor / Tom Cumming
+                  E-mail:       sam.gabor@gowlingwlg.com / tom.cumming@gowlingwlg.com
+
+        (b)       If to the Proposal Trustee
+
+                  Alvarez & Marsal Canada Inc.
+                  Bow Valley Square IV
+                  Suite 1110, 250 – 6th Avenue SW
+                  Calgary, AB T2P EH7
+                  Attention:    Orest Konowalchuk / David Williams
+                  E-mail:        okonowalchuk@alvarezandmarsal.com
+                                /david.williams@alvarezandmarsal.com
+
+              with a copy to:
+
+                  Miller Thomson LLP
+                  525-8th Avenue SW, 43RD Floor
+                  Eighth Avenue Place East
+                  Calgary, AB T2P 1G1
+                  Attention:    James Reid
+                  Email:        jwreid@millerthomson.com
+
+        (c)       If to Sayer
+
+                  Sayer Energy Advisors
+                  1620, 540 5th Avenue SW
+                  Calgary, AB T2P 0M2
+                  Attention:    Tom Pavic, CFA, President
+                  Email:        TPavic@sayeradvisors.com
+
+
+
+
+65883420\12
+

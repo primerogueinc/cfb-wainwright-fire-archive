@@ -1,0 +1,485 @@
+                                                             C11121
+
+
+                                                                       FILED
+                                                                      Clerk’s Stamp
+
+                                                                      Jan 21, 2025
+ COURT FILE NUMBER        B301-163430
+                                                                       by Email
+
+ COURT                    COURT OF KING’S BENCH OF ALBERTA                            COM
+                                                                                      Jan 22, 2025
+ JUDICIAL CENTRE          CALGARY
+
+                          IN THE MATTER OF THE BANKRUPTCY AND
+                          INSOLVENCY ACT, RSC 1985, C C-8, AS AMENDED
+
+                          AND IN THE MATTER OF THE NOTICE OF INTENTION
+                          TO MAKE A PROPOSAL OF CLEO ENERGY CORP.
+
+ DOCUMENT                 BENCH BRIEF OF CLEO ENERGY CORP.
+
+ ADDRESS FOR SERVICE      GOWLING WLG (CANADA) LLP
+ AND CONTACT              Suite 1600, 421 – 7th Avenue SW
+ INFORMATION OF           Calgary, AB T2P 4K9
+ PARTY FILING THIS
+ DOCUMENT                 Telephone:    403-298-1946 / 403-298-1938
+                          Fax:          403-263-9193
+                          Email:        sam.gabor@gowlingwlg.com /
+                                        tom.cumming@gowlingwlg.com
+                          File No.:     G10010664
+
+                          Attention:    Sam Gabor/ Tom Cumming
+
+                    APPLICATION BEFORE THE HONOURABLE
+                       ASSOCIATE CHIEF JUSTICE NEILSON
+         JANUARY 22, 2025 AT 3:00 PM ON THE CALGARY COMMERCIAL LIST
+                                    VIA WEBEX
+
+
+
+
+66035079\8
+                                                        Table of Contents
+                                                                                                                                  Page
+
+
+PART 1 - INTRODUCTION ...................................................................................................... 1
+PART 2 - FACTS AND BACKGROUND ................................................................................. 1
+PART 3 - ISSUES......................................................................................................................... 6
+PART 4 - – LAW AND ARGUMENT ....................................................................................... 6
+          A.         The Sale Process should be ratified and approved ........................................... 6
+PART 5 - CONCLUSION AND RELIEF SOUGHT................................................................ 9
+TABLE OF AUTHORITIES .................................................................................................... 10
+
+
+
+
+                                                                     i
+66035079\8
+PART 1 - INTRODUCTION
+
+1.         This Bench Brief is submitted on behalf of the Applicant, Cleo Energy Corp. (“Cleo” or
+           the “Applicant”).
+
+2.         In this Application, Cleo is seeking from this Honourable Court an Order that provides as
+           follows:
+
+           (a)      abridging the time for service of notice of this Application, deeming service of
+                    notice of this Application to be good and sufficient, and declaring that there is no
+                    other person who ought to have been served with notice of this Application;
+
+           (b)      approving Cleo’s proposed sale and solicitation process (“Sale Process”),
+                    substantially in the form attached as Appendix “A” to the Order, and declaring the
+                    Sale Process to be commercially reasonable;
+
+           (c)      authorizing and directing the Proposal Trustee, with the assistance of Cleo and
+                    Sayer, to conduct the Sale Process and do all things reasonably necessary to give
+                    full effect thereto; and
+
+           (d)      such further and other relief as the Applicants may request and this Honourable
+                    Court may grant.
+
+PART 2 - FACTS AND BACKGROUND
+
+Cleo and the Proposal Proceedings
+
+3.         Cleo’s application is supported by an Affidavit sworn by Chris Lewis on January 20, 2025 1
+           (the “Lewis Affidavit”) and by the second report dated January 20, 2025 (the
+           “Second Report”) of Alvarez & Marsal Canada Inc. (“A&M”), the proposal trustee (the
+           “Proposal Trustee”) of Cleo. All capitalized terms not otherwise defined in this Bench
+           Brief shall have the meaning given to them in the Lewis Affidavit.
+
+
+
+
+1
+    Affidavit of Chris Lewis, sworn January 20, 2025 [the “Lewis Affidavit”].
+
+
+66035079\8
+                                                    2
+
+
+4.       On December 8, 2024 Cleo filed a notice of intention to make a proposal (a “NOI”) under
+         Section 50.4 of Division I of Part III of the BIA with the Office of the Superintendent of
+         Bankruptcy (the “OSB”, and the proceedings commenced thereby, the “Proposal
+         Proceedings”). Alvarez & Marsal Canada Inc. (“A&M”) was named as proposal trustee
+         (the “Proposal Trustee”).2
+
+5.       Cleo is a privately owned oil and gas operator of medium gravity oil based in Calgary,
+         Alberta with operations throughout East Central Alberta. Cleo has been operating since its
+         incorporation in 2016. Cleo’s shares are held entirely by its parent corporation Chimera
+         Management Group Ltd., a holding corporation. Cleo does not own shares in any other
+         corporation.3
+
+6.       Cleo’s revenue is primarily linked to the productivity of its wells, as well as the market
+         price of oil.4
+
+7.       Cleo has recently experienced a significant reduction in production levels due to several
+         factors, including:
+
+         (a)      lack of repair and maintenance required at several of its main producing fields
+                  causing shut ins of wells;
+
+         (b)      shut downs of its oil producing assets following verbal directives issued to Cleo by
+                  the Alberta Energy Regulator (“AER”);
+
+         (c)      thefts and vandalism at its oil and gas fields causing shutdowns over time and a
+                  recent complete shut down of Cleo’s largest oil and gas field; and
+
+         (d)      lower prices obtained by Cleo for its oil and gas production. 5
+
+
+
+
+2
+  Lewis Affidavit at para 10.
+3
+  Lewis Affidavit, at para 6.
+4
+  Lewis Affidavit, at para 7.
+5
+  Lewis Affidavit, at para 8.
+
+
+66035079\8
+                                                       3
+
+
+         As a result of these issues, Cleo is currently unable to meet its obligations as they become
+         due and its liabilities exceed its assets.6
+
+8.       Cleo has total indebtedness of approximately $24,102,898, 7 of which approximately $6.7
+         million is secured indebtedness owing to a number of secured creditors. 8
+
+Sale Process
+
+9.       Cleo and the Proposal Trustee have developed the Sale Process under which Cleo will
+         market and attempt to sell its Property with the advice of and in consultation with the
+         Proposal Trustee. Cleo has also engaged Sayer Energy Advisors (“Sayer”) as its sales
+         agent and to provide assistance and advice to Cleo and the Proposal Trustee in the conduct
+         of the Sale Process.9
+
+10.      In preparation for the launch of the Sale Process, Cleo and Sayer, in consultation with the
+         Proposal Trustee, have compiled a list of potential strategic and financial bidders
+         (“Potential Bidders”), set up a virtual data room (the “VDR”) in which due diligence
+         documents and information pertaining to Cleo’s business, operations and property are
+         being deposited, prepared a teaser letter describing the Sale Process and inviting Potential
+         Bidders to participate therein (the “Teaser”), and prepared the templates of a non-
+         disclosure agreement (an “NDA”), a non-binding letter of intent (a “Non-Binding LOI”)
+         and asset purchase agreement (a “Template APA”). Should this Honourable Court grant
+         the relief sought, Sayer and the Company will send the Teaser and Sale Process to Potential
+         Bidders and Sayer will publish notices of the Sale Process in the Daily Oil Bulletin,
+         Insolvency Insider and any other publications or newswires identified by the Proposal
+         Trustee.
+
+11.      The Sale Process contemplates a two phase marketing process with the following
+         milestones, which can be altered in the discretion of the Proposal Trustee:
+
+
+
+
+6
+  Lewis Affidavit, at para 8.
+7
+  Lewis Affidavit, at para 9.
+8
+  Lewis Affidavit, at para 9.
+9
+  Lewis Affidavit, at para 13.
+
+
+66035079\8
+                                                  4
+
+
+        (a)    a commencement date of January 22, 2025;
+
+        (b)    a Non-Binding LOI Submission Date of February 25, 2025;
+
+        (c)    a Binding Bid Submission Date of March 13, 2025;
+
+        (d)    a Bid Approval Application, where Cleo will seek the approval of the Court for one
+               or more proposed transactions, in the week of March 24, 2025 (or as soon thereafter
+               as court time can be confirmed);
+
+        (e)    a Target Closing Date of March 31, 2025, or 3 days after Court approval is obtained;
+               and
+
+        (f)    an Outside Date of April 18, 2025.
+
+12.     In the first phase of the Sale Process, the Proposal Trustee, Cleo and Sayer will send the
+        Teasers to Potential Bidders to make them aware of the Sale Process. Potential Bidders
+        who sign NDAs are given access to the Virtual Data Room in order to carry out due
+        diligence.
+
+13.     Any Potential Bidder interested in bidding on Property must submit a Non-Binding LOI
+        by no later than the Non-Binding LOI Submission Date. The Non-Binding LOI must
+        comply with the requirements set out in paragraph 23 of the Sale Process, including setting
+        out the proposed structure of the consideration payable under the proposed transaction,
+        providing sufficient disclosure of their financial condition and credit quality (or
+        enhancements) so as to allow the Proposal Trustee to make a reasonable determination as
+        to the Potential Bidder’s financial and other capabilities to consummate such transaction,
+        and confirming that the Potential Bidder satisfies AER requirements for holding licenses.
+
+14.     Following the Non-Binding LOI Submission Date, the Proposal Trustee, in consultation
+        with Cleo and Sayer, will review each Non-Binding LOI to determine whether the Potential
+        Bidder has complied with the requirements of paragraph 23 of the Sale Process, has a bona
+        fide interest in concluding a transaction, and has the financial wherewithal to conclude a
+        transaction. Provided that the Proposal Trustee determines these requirements are satisfied,
+        such Potential Bidder will be designated a qualified bidder (a “Qualified Bidder”),
+
+66035079\8
+                                                 5
+
+
+        whereupon it can advance to the second phase. If the Proposal Trustee concludes that no
+        Qualified LOI is likely to result in a Successful Bid, the Proposal Trustee, in consultation
+        with Cleo and Sayer, may terminate the Sale Process.
+
+15.     In the second phase, Qualified Bidders may carry out additional due diligence. In the
+        second phase, a Qualified Bidder must submit a binding basis in the form of the template
+        asset purchase agreement (a “Qualified Bid”) included in the Virtual Data Room which
+        complies with the requirements set out in paragraph 28 of the Sale Process by no later than
+        the Binding Bid Submission Date. These requirements include:
+
+        (a)    submitting a deposit in an amount equal to 15% of the proposed cash consideration
+               contemplated by the Qualified Bid, which will become non-refundable upon the
+               Qualified Bid becoming a Successful Bid (other than in the circumstances
+               contemplated in the Successful Bid);
+
+        (b)    evidence of financial wherewithal to complete the transaction;
+
+        (c)    the Qualified Bid cannot be conditional on internal approvals, the outcome of any
+               unperformed due diligence, or obtaining financing;
+
+        (d)    the Qualified Bid and transaction contemplated thereby must be in compliance with
+               AER requirements; and
+
+        (e)    the Qualified Bid must disclaim any break-up or similar fees.
+
+        The transaction contemplated by the Qualified Bid must be on an “as is, where is” basis
+        and without surviving representations or warranties of any kind, nature, or description,
+        other than as specifically included in the definitive documents.
+
+16.     Following the Binding Bid Submission Date, the Proposal Trustee, in consultation with
+        Cleo and Sayer, will review each Qualified Bid to determine if they comply with the
+        requirements of paragraph 28 of the Sale Process, the adequacy of the proposed
+        consideration, and whether the proposed transaction is in the best interests of Cleo,
+        considering, among other things, the criteria set out in paragraph 29 of the Sale Process.
+        The Proposal Trustee seek clarification of the proposed terms from, and negotiate the terms
+
+66035079\8
+                                                       6
+
+
+           with, and seek a revised Qualified Bid from the Qualified Bidder. The Proposal Trustee,
+           in consultation with Cleo and Sayer, may but is not obligated to select the highest or best
+           Qualified Bid(s) (each, a “Successful Bid”, and such Qualified Bidder, the “Successful
+           Bidder”) and designate any back-up bids. If the Proposal Trustee determines that no
+           Qualified Bid is likely to result in a Successful Bid, the Proposal Trustee may terminate
+           the Sale Process.
+
+17.        Once one or more Successful Bids have been determined, Cleo or the Proposal Trustee will
+           apply to this Honourable Court for an Order approving the Successful Bid(s), authorizing
+           Cleo to enter into any agreements required to implement the Successful Bid(s) and, if
+           applicable, vesting the Property subject thereto in the Successful Bidder(s) free and clear
+           of all encumbrances. The Sale Process contemplates that the transaction(s) contemplated
+           by the Successful Bid(s) will close by the Target Closing Date, and in any event by no later
+           than the Outside Date.
+
+18.        Additional facts supporting the relief sought on this Application are more particularly set
+           out in the Lewis Affidavit.
+
+PART 3 - ISSUES
+
+19.        This Brief addresses whether this Honourable Court should approve the Applicant’s Sale
+           Process.
+
+PART 4 - LAW AND ARGUMENT
+
+A.         The Sale Process should be ratified and approved
+
+20.        While the BIA does not mandate the form of a sale solicitation process, Courts in decisions
+           under the Companies Creditors Arrangement Act have considered whether or not to
+           approve a sale process. In Nortel Networks Corporation (Re) (“Nortel”),10 the factors
+           adopted by the Court included:
+
+
+
+
+10
+     Nortel Networks Corporation (Re), 2009 CanLII 39492 (ON SC) [Tab 1]
+
+
+66035079\8
+                                                      7
+
+
+        (a)      whether a sale transaction was warranted at this time;
+
+        (b)      whether a sale would benefit the whole “economic community”;
+
+        (c)      whether any creditors would have a bona fide reason to object to a sale of the
+                 business; and
+
+        (d)      whether there is a viable alternative.11
+
+21.     In Walter Energy Canada Holdings, Inc. (Re), Justice Fitzpatrick wrote that in reviewing
+        a proposed sale process, the court should consider (i) the fairness, transparency and
+        integrity of the proposed process; (ii) the commercial efficacy of the proposed process in
+        light of the specific circumstances facing the receiver; and (iii) whether the sales process
+        will optimize the chances, in the particular circumstances, of securing the best possible
+        price for the assets up for sale.12         In making this determination, Justice Fitzpatrick
+        considered whether the time lines were reasonable, whether there was a need to move
+        quickly to preserve cash resources pending a sale or investment, and whether sufficient
+        flexibility was built into the sale process to allow the person conducting it to amend the
+        timelines if circumstances justified it. She also considered whether the sale process was
+        consistent with similar sale processes approved in other Canadian insolvency
+        proceedings.13
+
+22.     In determining whether to approve a sale under section 65.13 of the BIA, a court will
+        consider, among other things, (a) whether the process leading to the proposed sale or
+        disposition was reasonable in the circumstances, and (b) whether the proposal trustee
+        approved the process leading to the proposed sale or disposition.14 Similarly, the criteria
+        applied by courts referring to the test in Royal Bank of Canada v Soundair Corp includes
+        (i) whether the receiver has made sufficient effort has been made to get the best price and
+
+
+
+
+11
+   Nortel, at para 49.
+12
+   Walter Energy Canada Holdings, Inc. (Re), 2016 BCSC 107 (CanLII), at para 20 [Tab 2]
+13
+   Ibid, at paras 22 and 23 [Tab 2].
+14
+   Bankruptcy and Insolvency Act, RSC 1985, c B-3, section 65.13(4) [Tab 3].
+
+
+66035079\8
+                                                     8
+
+
+        has not acted improvidently, and (ii) the efficacy and integrity of the process by which
+        offers are obtained.15
+
+23.     Cleo submits that the Sale Process satisfies the criteria set out above:
+
+        (a)     because of Cleo’s limited working capital, the Sale Process provides the only
+                avenue available for either selling the Property on a going concern basis or
+                restructuring Cleo;16
+
+        (b)     while the time lines are compressed, this is necessary because of Cleo’s limited
+                working capital, but both the Proposal Trustee and Sayer have expressed the view
+                that adequate time is given to Potential Bidders to carry out due diligence and
+                submit Non-Binding LOI’s and ultimately Qualified Bids; 17
+
+        (c)     if the Property is not sold, the Property may have to be surrendered to the Orphan
+                Well Association, which would be contrary to the interests of the public; 18
+
+        (d)     the Proposal Trustee will be intimately involved in the Sale Process and will
+                ultimately determine, in consultation with Cleo and Sayer, the Qualified Bidders
+                who are permitted to advance to the second phase, and which Bid(s) is a Successful
+                Bid(s); 19
+
+        (e)     the Sale Process is fair and transparent and gives all Potential Bidders equal access
+                to information on Cleo and its Property and an opportunity to submit Bids and are
+                able to participate in the Sale Process on a level playing field; 20
+
+        (f)     the Proposal Trustee and Sayer have significant expertise and experience with
+                insolvent oil and gas producers and marketing and selling their assets, which will
+
+
+
+
+15
+   Royal Bank of Canada v Soundair Corp, 1991 CanLII 2727 (ON CA), at para 16 [Tab 4]
+16
+   Lewis Affidavit, paras 24-26
+17
+   Lewis Affidavit, para 26; Second Report, paras 32(b) & 33
+18
+   Lewis Affidavit, para 27
+19
+   Lewis Affidavit, paras 19 & 21
+20
+   Second Report, para 32(a)
+
+
+66035079\8
+                                                    9
+
+
+                 greatly enhance the prospects of one or more successful sales and provide creditors
+                 and other stakeholders with confidence in the process; 21
+
+        (g)      the Proposal Trustee working with Cleo in developing the Sale Process, will be
+                 consulted and involved in the conduct of the Sale Process, believes it is the best
+                 option for Cleo to preserve the value of its business and continue as a going concern
+                 and has recommended to this Honourable Court that it approve the Sale Process; 22
+
+        (h)      creditors and other stakeholders are likely to derive a greater benefit from going
+                 concern sales under the Sale Process than a pure liquidation in a bankruptcy, and
+                 therefore any such sale is likely to be in the best interests of the creditors and other
+                 stakeholders of Cleo;23 and
+
+        (i)      the proposed Sale Process is designed to facilitate a broad market solicitation of the
+                 Property and the business as a whole under the supervision of the Proposal Trustee
+                 and with the assistance of Sayer in a fair, open and transparent manner. 24
+
+PART 5 - CONCLUSION AND RELIEF SOUGHT
+
+24.     For the reasons above, the Applicant requests the Order approving the Sale Process be
+        granted as it is fair, necessary and reasonable in the circumstances and represents the best
+        option to permit Cleo to realize maximum value for its Property, to the benefit of its
+        creditors and other stakeholders.
+
+ALL OF WHICH IS RESPECTFULLY SUBMITTED this 20 th day of January, 2025.
+
+                                                GOWLING WLG (CANADA) LLP
+
+
+                                                Per: ___________________________________
+                                                     Sam Gabor/Tom Cumming
+                                                     Counsel for the Applicant
+
+
+
+21
+   Second Report, para 32(c)
+22
+   Second Report, paras 22 & 34
+23
+   Lewis Affidavit, para 27
+24
+   Second Report, para 24
+
+
+66035079\8
+                                           10
+
+
+                              TABLE OF AUTHORITIES
+
+
+
+
+ Tab         Authority
+
+ 1.          Nortel Networks Corporation (Re), 2009 CanLII 39492 (ON SC)
+
+ 2.          Walter Energy Canada Holdings, Inc. (Re), 2016 BCSC 107 (CanLII)
+
+ 3.          Bankruptcy and Insolvency Act, RSC 1985, c B-3
+
+ 4.          Royal Bank of Canada v Soundair Corp, 1991 CanLII 2727 (ON CA)
+
+
+
+
+66035079\8
+

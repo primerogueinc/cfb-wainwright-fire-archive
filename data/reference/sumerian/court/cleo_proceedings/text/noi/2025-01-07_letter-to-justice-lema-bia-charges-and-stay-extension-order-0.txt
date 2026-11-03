@@ -1,0 +1,482 @@
+Docusign Envelope ID: 55961460-231C-49DA-8982-25268E8CA1BE
+
+
+
+
+         January 7, 2025
+                                                                                                                                      Sam Gabor
+         Via E-Mail                                                                                                      Direct +1 403 298 1946
+                                                                                                                     sam.gabor@gowlingwlg.com
+                                                                                                                             File no. G10010664
+         Justice Lema
+         c/o Corbyn Burik - Commercial Coordinator
+         Court of King’s Bench of Alberta
+         601 - 5th Street SW
+         Calgary, AB T2P 5P7
+
+         Your Lordship:
+
+         Re: In the Matter of the Notice of Intention to Make a Proposal of Cleo Energy Corp. (“Cleo”) –
+             Court File No.: B301-163430 before the Honourable Justice Lema on January 6, 2025 at
+             2:00 p.m. (MT)
+
+         We are counsel to Cleo. We refer to the form of order as pronounced by your Lordship on January 6,
+         2025 attached in our email to the Commercial Coordinator which we submit for your review. The changes
+         which have been made are as follows:
+
+         1.      Para 9(b) – We have deleted the words “Definitive Documents” and replaced it with the words
+         “Interim Financing Agreement” in accordance with that defined term at paragraph 4 of the order.
+         Definitive Documents is not a defined term in the order so we have revised it with the correct defined
+         term.
+
+         2.     Paragraph 12 – The directors and officers charge has been revised from $200,000 to $250,000
+         in accordance with our client’s application materials and the court’s order.
+
+         3.       Para 14 – We have deleted the words “provided, however, that the relative priority of the BIA
+         Charges and is subject to further order of the Court”. Upon our review of the order tonight while revising
+         it, it was determined that this language was inadvertently included in the draft form of order and
+         originated from a precedent document used for the drafting of the order. Please see paragraph 10 of the
+         enclosed order of Justice Feasby from Mantle Materials Group, Ltd. dated August 15, 2023 (as
+         Attachment 1) where the language originated from and which acted as our precedent. The language
+         under that order was “provided, however, that the relative priority of the Charges and the Travelers’
+         Security Interests is subject to further order of the Court.”
+
+         The prior language was required in the Mantle case as a subsequent priority dispute needed to be
+         determined as between a PMSI holder, Travelers Capital Corp., and the DIP Lender following the
+         granting of the BIA charges. The language needs to be deleted in this case to ensure that the relative
+         priorities under your order as between the administration charge, interim financing charge and D&O
+         charge are certain and there is no confusion as to priority between those charges, which could occur if
+         the language were to remain; the inadvertent included language contradicts the next sentence which
+         expressly sets out the priorities between the three charges. Deletion of the language is consistent with
+         paragraph 1(i) of the amended application.
+
+
+         Gowling WLG (Canada) LLP                      T +1 403 298 1000   Gowling WLG (Canada) LLP is a member of Gowling WLG, an international law firm
+                                                                           which consists of independent and autonomous entities providing services around
+         Suite 1600, 421 7th Avenue SW                 F +1 403 263 9193   the world. Our structure is explained in more detail at gowlingwlg.com/legal.
+         Calgary AB T2P 4K9 Canada                     gowlingwlg.com
+
+         65838775\1
+Docusign Envelope ID: 55961460-231C-49DA-8982-25268E8CA1BE
+
+
+
+
+         4.      Paragraph 21 – The stay language in favour of Mr. Lewis has been deleted and replaced with
+         language confirming that issue of the statutory directors stay and guarantee stay in favour of Mr. Lewis
+         is adjourned to Friday, January 10, 2025 before your Lordship.
+
+         5.    Paragraph 22 – Language has been inserted confirming that the issue of monthly set-off as
+         between Trafigura and Cleo is adjourned to January 10, 2025 before your Lordship.
+
+         We have cc’d the Service List to this letter. Please feel free to contact the writer if you have any questions.
+
+         Sincerely,
+
+         Gowling WLG (Canada) LLP
+
+
+
+         Sam Gabor
+         SG
+
+         c.c. via Titan File – the Service List
+
+         c.c. via email – Tom Cumming
+
+
+
+
+                                                                                                                 Page 2
+         65838775\1
+Docusign Envelope ID: 55961460-231C-49DA-8982-25268E8CA1BE
+
+
+
+
+                                                             ATTACHMENT 1
+
+
+
+
+                                                                            Page 3
+         65838775\1
+Docusign Envelope ID: 55961460-231C-49DA-8982-25268E8CA1BE
+
+
+
+                                                                                               Clerk’s Stamp
+
+               COURT FILE NO.             25-2965622
+
+               COURT                      COURT OF KING’S BENCH OF ALBERTA
+
+               JUDICIAL CENTRE            CALGARY
+
+               APPLICANTS                 IN THE MATTER OF THE BANKRUPTCY AND INSOLVENCY ACT,
+                                          RSC 1985, C B-3, AS AMENDED
+
+                                          AND IN THE MATTER OF THE NOTICE OF INTENTION TO
+                                          MAKE A PROPOSAL OF MANTLE MATERIALS GROUP, LTD.
+
+               DOCUMENT                   ORDER (Stay Extension, Administration Charge, Interim
+                                          Financing, Interim Financing Charge, D&O Charge and Other
+                                          Relief)
+
+               ADDRESS FOR                Gowling WLG (Canada) LLP
+               SERVICE AND                1600, 421 – 7th Avenue SW
+               CONTACT                    Calgary, AB T2P 4K9
+               INFORMATION OF
+               PARTY FILING               Attn:        Tom Cumming / Sam Gabor / Stephen Kroeger
+               THIS DOCUMENT              Phone:    403.298.1938 / 403.298.1018
+                                          Fax:      403.263.9193
+                                          Email:    tom.cumming@gowlingwlg.com /
+                                                    sam.gabor@gowlingwlg.com /
+                                                    stephen.kroeger@gowlingwlg.com
+                                          File No.: A1171561
+
+             DATE ON WHICH ORDER WAS PRONOUNCED:                          August 15, 2023
+             LOCATION WHERE ORDER WAS PRONOUNCED: Calgary, Alberta
+             JUSTICE WHO MADE THIS ORDER:                                 The Honourable Justice Feasby in
+                                                                          Commercial Chambers
+
+                          UPON THE APPLICATION of Mantle Materials Group, Ltd. (“Mantle” or, the
+             “Applicant”) filed August 8, 2023; AND UPON reading the Affidavit of Byron Levkulich,
+             sworn August 7, 2023, the Supplemental Affidavit of Byron Levkulich, sworn August 11,
+             2023 (the “August 11 Affidavit”), the Second Supplemental Affidavit of Byron Levkulich
+             sworn, August 14, 2023, the Affidavit of Cory Pichota, sworn August 8, 2023 , the Affidavit
+             of Warren Miller of Travelers Capital Corp. (“Travelers”), sworn August 4, 2023, the
+             Affidavit of Heather Dent, sworn August 11, 2023, and the Affidavits of Service of Samah
+             Zeineddine, sworn August 8 and 15, 2023; AND UPON reading the Report of FTI Consulting
+             Canada Inc. in its capacity as proposal trustee of the Applicant (in such capacity, the
+             “Proposal Trustee”), dated August 4, 2023, and the Supplemental Report of the Proposal
+
+             58090650\4
+Docusign Envelope ID: 55961460-231C-49DA-8982-25268E8CA1BE
+
+
+
+
+             Trustee, dated August 11, 2023; AND UPON hearing submissions by counsel for the
+             Applicant, the Proposal Trustee, Travelers, the Minister of Environment and Protected Areas
+             any other counsel or other interested parties present,
+
+              IT IS HEREBY ORDERED THAT:
+
+              SERVICE
+             1.      The time for service of the notice of application for this order (the “Order”) is hereby
+                     abridged and deemed good and sufficient and this application is properly returnable today,
+                     and no other than those persons served is entitled to service of the notice of application.
+
+             EXTENSION OF TIME TO FILE A PROPOSAL
+
+             2.       The time within which Mantle is required to file a proposal to its creditors with the Official
+                      Receiver, under section 50.4 of the Bankruptcy and Insolvency Act, RSC 1985, c B-3 (the
+                      “BIA”) is hereby extended to September 27, 2023 (as extended from time to time, the “Stay
+                      Period”).
+
+             ADMINISTRATION CHARGE
+
+             3.       Legal counsel to Mantle, the Proposal Trustee and McCarthy Tétrault, legal counsel to the
+                      Proposal Trustee, as security for their respective professional fees and disbursements
+                      incurred in preparing for and during these proposal proceedings, and both before and after
+                      the granting of this Order, shall be entitled to the benefit of, and are hereby granted, a
+                      security and charge (the “Administration Charge”) on all of Mantle’s present and after-
+                      acquired assets, property and undertakings (the “Property”), which charge shall not exceed
+                      $425,000.
+
+             INTERIM FINANCING
+
+             4.       Mantle is hereby authorized and empowered to obtain and borrow under an interim
+                      financing facility (the “Interim Financing Facility”) pursuant to the interim financing
+                      facility commitment letter dated August 10, 2023 (the “Interim Financing Commitment
+                      Letter”) between Mantle as borrower and RLF Canada Lender Limited (the “Interim
+                      Lender”) as lender, provided that borrowings under the Interim Financing Facility shall
+                      not exceed the principal amount of $2,200,000 unless permitted by further order of this
+                      Court and agreed to by the Interim Lender.
+
+
+
+             58090650\4
+Docusign Envelope ID: 55961460-231C-49DA-8982-25268E8CA1BE
+
+
+
+
+             5.       The Interim Financing Facility shall be on the terms and subject to the conditions set forth
+                      in the Interim Financing Commitment Letter attached as Exhibit “H” to the August 11
+                      Affidavit, as such Interim Financing Commitment Letter may be amended in accordance
+                      with its terms.
+
+             6.       The Interim Lender shall be entitled to the benefit of and are hereby granted a security and
+                      charge on the Property (the “Interim Lender’s Charge”) as security for the payment and
+                      performance of the indebtedness, liabilities and obligations of Mantle to the Interim Lender
+                      under the Interim Financing Commitment Letter and the Interim Financing Facility created
+                      thereby in the principal amount of $2,200,000 together with any interest accrued thereon
+                      or costs and expenses incurred thereunder.
+
+             D&O INDEMNIFICATION AND CHARGE
+
+             7.       Mantle shall indemnify its directors and officers against obligations and liabilities that they
+                      may incur as directors or officers after the Filing Date, except to the extent that, with respect
+                      to any director or officer, the obligation or liability was incurred as a result of the director
+                      or officer’s gross negligence or wilful misconduct.
+
+             8.       Each of the directors and officers of Mantle shall be entitled to the benefit of and are hereby
+                      granted a charge (the “D&O Charge”) on all of the Property, which shall not exceed an
+                      aggregate amount of $150,000, as security for the indemnity provided in this Order.
+
+             PRIORITY OF CHARGES
+
+             9.       The filing, registration or perfection of the Administration Charge, the Interim Lender’s
+                      Charge and the Directors Charge (collectively, the “Charges”) shall not be required, and
+                      the Charges shall be enforceable for all purposes, including as against any right, title or
+                      interest filed, registered, recorded or perfected subsequent to the Charges coming into
+                      existence, notwithstanding any such failure to file, register, record or perfect.
+
+             10.      The Charges shall constitute a security and charge on the Property and, with the exception
+                      of the security interests in favour of Travelers registered in the Alberta Property Registry
+                      as base registration number 21100725361 (the “Travelers’ Security Interests”), such
+                      Charges shall rank in priority to all other security interests, trusts, liens, charges, deemed
+                      trusts, encumbrances and claims of secured creditors, statutory or otherwise in favour of
+                      any person, including liens and trusts created by federal and provincial legislation
+                      (collectively, the “Encumbrances”), provided, however, that the relative priority of the
+             58090650\4
+Docusign Envelope ID: 55961460-231C-49DA-8982-25268E8CA1BE
+
+
+
+
+                      Charges and the Travelers’ Security Interests is subject to further order of the Court. The
+                      ranking as between the Charges shall be as follows:
+
+                      (a)     first, the Administration Charge;
+
+                      (b)     second, the Interim Lender’s Charge; and
+
+                      (c)     third, the D&O Charge.
+
+             11.      Except as otherwise provided herein, or as may be approved by this Honourable Court,
+                      Mantle shall not grant any Encumbrances over the Property that rank in priority to, or pari
+                      passu with, any of the Charges, unless Mantle obtains the prior written consent of the
+                      beneficiaries of the Charges (the “Chargees”) or further order of this Court.
+
+             12.      The Charges shall not be rendered invalid or unenforceable and the rights and remedies of
+                      the Chargees thereunder shall not otherwise be limited or impaired in any way by:
+
+                      (a)     the pendency of these proceedings and the declarations of insolvency made in this
+                              Order;
+
+                      (b)     any application(s) for bankruptcy order(s) issued pursuant to the BIA, or any
+                              bankruptcy order made pursuant to such applications;
+
+                      (c)     the filing of any assignments for the general benefit of creditors made pursuant to
+                              the BIA;
+
+                      (d)     the provisions of any federal or provincial statutes; or
+
+                      (e)     any negative covenants, prohibitions or other similar provisions with respect to
+                              borrowings, incurring debt or the creation of Encumbrances, contained in any
+                              existing loan documents, lease, sublease, offer to lease or other agreement
+                              (collectively, an “Agreement”) that binds Mantle, and notwithstanding any
+                              provision to the contrary in any Agreement:
+
+                              (i)      neither the creation of the Charges nor the execution, delivery, perfection,
+                                       registration or performance of any documents in respect thereof, shall create
+                                       or be deemed to constitute a new breach by Mantle of any Agreement to
+                                       which they, or any one of them, is a party;
+
+                              (ii)     none of the Chargees shall have any liability to any person whatsoever as a
+                                       result of any breach of any Agreement caused by or resulting from the
+
+             58090650\4
+Docusign Envelope ID: 55961460-231C-49DA-8982-25268E8CA1BE
+
+
+
+
+                                       creation of the Charges, or the execution, delivery or performance of the
+                                       Interim Financing Facility; and
+
+                              (iii)    the payments made by Mantle pursuant to this Order and the granting of the
+                                       Charges, do not and will not constitute preferences, fraudulent conveyances,
+                                       transfers at undervalue, oppressive conduct or other challengeable or
+                                       voidable transactions under any applicable law.
+
+             RESTATEMENT OF STAY AND CONTINUATION OF SERVICES
+
+             13.      In accordance with section 69(1) of the BIA, during the period between July 14, 2023 (the
+                      “Filing Date”) and the date on which the Stay Period expires:
+
+                              (i)      no creditor has any remedy against Mantle or against any of the Property
+                                       or shall commence or continue any action, execution or other proceedings
+                                       for the recovery of a claim provable in bankruptcy; and
+
+                              (ii)     no provision of a security agreement between Mantle and a secured creditor
+                                       that provides, in substance, that on Mantle’s insolvency, the default by
+                                       Mantle of an obligation under the security agreement, or the filing by
+                                       Mantle of the NOI, Mantle ceases to have rights to use or deal with Property
+                                       secured under the security agreement as it would otherwise have, has any
+                                       force or effect.
+
+             14.      In accordance with section 65.1(1) of the BIA but subject to section 65.1(4) of the BIA, no
+                      person may terminate or amend any agreement with Mantle or claim an accelerated
+                      payment, or a forfeiture of the term, under any agreement with Mantle by reason only that
+                      Mantle is insolvent or a NOI has been filed with respect to Mantle.
+
+             15.      During the Stay Period, all persons having oral or written agreements with Mantle or
+                      statutory or regulatory mandates for the supply of goods and/or services are hereby
+                      restrained until further Order of this Court from discontinuing, altering, interfering with or
+                      terminating the supply of such goods or services as may be required by Mantle, provided
+                      in each case that the normal prices or charges for such goods or services received after the
+                      date of this Order are paid by Mantle in accordance with normal payment practices of
+                      Mantle or other practices as may be agreed upon by the supplier or service provider and
+                      each of Mantle and the Proposal Trustee, or as may be ordered by this Honourable Court.
+
+
+             58090650\4
+Docusign Envelope ID: 55961460-231C-49DA-8982-25268E8CA1BE
+
+
+
+
+             16.      Mantle shall be entitled, but not required, to pay amounts owing to any supplier for goods
+                      or services actually supplied to Mantle prior to July 14, 2023 if, in the opinion of Mantle,
+                      any such payment is necessary to maintain the uninterrupted operations of the business
+                      (such payments being “Emergency Payments”), provided that the Proposal Trustee
+                      approves such payment and such payment is contemplated by the cash flow projections
+                      filed by the Proposal Trustee in these proceedings under section 50(6) of the BIA.
+
+             17.      In the event that the payment of an Emergency Payment which was made prior to the date
+                      of this Order has been funded by an advance under the Interim Financing Facility, Mantle
+                      shall be entitled to repay such advance(s) to the Interim Lender from any amounts received
+                      by Mantle subsequent to the Filing Date.
+
+             18.      Any Person (as such term is defined in the BIA) that has collected, realized, seized or taken
+                      possession of any money or other Property subsequent to the Filing Date without the
+                      consent of the Proposal Trustee or leave of this Honourable Court shall promptly deliver
+                      or surrender to Mantle such money or other Property.
+
+             ALLOCATION
+
+             19.      Any interested Person may apply to this Court on notice to any other party likely to be
+                      affected for an order to allocate the Administration Charge, the Interim Lender's Charge,
+                      and the D&O Charge amongst the various assets comprising the Property.
+
+             GENERAL
+
+             20.      Service of this Order may be effected by facsimile, electronic mail, personal delivery or
+                      courier. Service is deemed to be effected the next business day following transmission or
+                      delivery of this Order.
+
+             21.      The approval as to form and content of the parties to this Order may be signed in
+                      counterpart and by facsimile or other electronic means.
+
+
+
+                                                                 J.C.K.B.A.
+
+
+
+
+             58090650\4
+Docusign Envelope ID: 55961460-231C-49DA-8982-25268E8CA1BE
+
+
+
+
+               Approved as to form and content this ____
+                                                      17th day          Approved as to form and content this ____ day
+               of August, 2023 by Legal Counsel for FTI                 of August, 2023 by Legal Counsel for the
+               Consulting Canada Inc., in its capacity as               Applicant
+               Proposal Trustee for the Applicant
+
+
+               Pantelis Kyriakakis                                      Tom Cumming
+               McCarthy Tétrault LLP                                    Gowling WLG (Canada) LLP
+
+
+               Approved as to form and content this ____ day            Approved as to form and content this ____ day
+               of August, 2023 by Legal Counsel for Alberta             of August, 2023 by Legal Counsel for Travelers
+               Environment and Protected Areas (AEP)                    Capital Corp.
+
+
+               Doug Nishimura                                           Alexis Teasdale
+               Field Law                                                Lawson Lundell LLP
+
+
+
+
+                                                       Signature page to the Order
+             LEGAL_CAL:16465465.1
+                                                granted by the Honourable Justice Feasby
+                                             on August 15, 2023 in Court File No. 25-2965622
+             58090650\4
+Docusign Envelope ID: 55961460-231C-49DA-8982-25268E8CA1BE
+
+
+
+
+               Approved as to form and content this ____ day            Approved as to form and content this 17th day
+               of August, 2023 by Legal Counsel for FTI                 of August, 2023 by Legal Counsel for the
+               Consulting Canada Inc., in its capacity as               Applicant
+               Proposal Trustee for the Applicant
+
+
+               Pantelis Kyriakakis                                      Tom Cumming
+               McCarthy Tétrault LLP                                    Gowling WLG (Canada) LLP
+
+
+               Approved as to form and content this 17th day            Approved as to form and content this ____ day
+               of August, 2023 by Legal Counsel for Alberta             of August, 2023 by Legal Counsel for Travelers
+               Environment and Protected Areas (AEP)                    Capital Corp.
+
+
+
+
+               Doug Nishimura                                           Alexis Teasdale
+               Field Law                                                Lawson Lundell LLP
+
+
+
+
+                                                       Signature page to the Order
+             LEGAL_CAL:16465465.1
+                                                granted by the Honourable Justice Feasby
+                                             on August 15, 2023 in Court File No. 25-2965622
+             58090650\4
+Docusign Envelope ID: 55961460-231C-49DA-8982-25268E8CA1BE
+
+
+
+
+               Approved as to form and content this ____ day            Approved as to form and content this ____ day
+               of August, 2023 by Legal Counsel for FTI                 of August, 2023 by Legal Counsel for the
+               Consulting Canada Inc., in its capacity as               Applicant
+               Proposal Trustee for the Applicant
+
+
+               Pantelis Kyriakakis                                      Tom Cumming
+               McCarthy Tétrault LLP                                    Gowling WLG (Canada) LLP
+
+
+               Approved as to form and content this ____ day            Approved as to form and content this 17th day
+               of August, 2023 by Legal Counsel for Alberta             of August, 2023 by Legal Counsel for Travelers
+               Environment and Protected Areas (AEP)                    Capital Corp.
+
+
+               Doug Nishimura                                           Alexis Teasdale
+               Field Law                                                Lawson Lundell LLP
+
+
+
+
+                                                       Signature page to the Order
+             LEGAL_CAL:16465465.1
+                                                granted by the Honourable Justice Feasby
+                                             on August 15, 2023 in Court File No. 25-2965622
+             58090650\4
+
+
+            36583.159753.AET.23943632.1
+

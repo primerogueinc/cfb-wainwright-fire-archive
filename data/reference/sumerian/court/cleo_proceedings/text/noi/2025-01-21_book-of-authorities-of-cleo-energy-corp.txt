@@ -1,0 +1,873 @@
+                                                         C11121
+
+                                                                  Clerk’s Stamp
+                                                                   FILED
+                                                                  Jan 21, 2025
+ COURT FILE NUMBER     B301-163430
+                                                                   by Email
+ COURT                 COURT OF KING’S BENCH OF ALBERTA
+                                                                                  COM
+                                                                                  Jan 22, 2025
+ JUDICIAL CENTRE       CALGARY
+
+                       IN THE MATTER OF THE BANKRUPTCY AND
+                       INSOLVENCY ACT, RSC 1985, C C-8, AS AMENDED
+
+                       AND IN THE MATTER OF THE NOTICE OF INTENTION
+                       TO MAKE A PROPOSAL OF CLEO ENERGY CORP.
+
+ DOCUMENT              BOOK OF AUTHORITIES OF CLEO ENERGY CORP.
+
+ ADDRESS FOR SERVICE   GOWLING WLG (CANADA) LLP
+ AND CONTACT           Suite 1600, 421 – 7th Avenue SW
+ INFORMATION OF        Calgary, AB T2P 4K9
+ PARTY FILING THIS
+ DOCUMENT              Telephone:    403-298-1946 / 403-298-1938
+                       Fax:          403-263-9193
+                       Email:        sam.gabor@gowlingwlg.com /
+                                     tom.cumming@gowlingwlg.com
+                       File No.:     G10010664
+
+                       Attention:    Sam Gabor/ Tom Cumming
+
+
+
+
+66035079\8
+                                           10
+
+
+                              TABLE OF AUTHORITIES
+
+
+
+
+ Tab         Authority
+
+ 1.          Nortel Networks Corporation (Re), 2009 CanLII 39492 (ON SC)
+
+ 2.          Walter Energy Canada Holdings, Inc. (Re), 2016 BCSC 107 (CanLII)
+
+ 3.          Bankruptcy and Insolvency Act, RSC 1985, c B-3
+
+ 4.          Royal Bank of Canada v Soundair Corp, 1991 CanLII 2727 (ON CA)
+
+
+
+
+66035079\8
+Tab
+
+
+1
+Nortel Networks Corp., Re, 2009 CarswellOnt 4467
+2009 CarswellOnt 4467, [2009] O.J. No. 3169, 179 A.C.W.S. (3d) 265...
+
+
+
+                                                         2009 CarswellOnt 4467
+                                            Ontario Superior Court of Justice [Commercial List]
+
+                                                            Nortel Networks Corp., Re
+
+                    2009 CarswellOnt 4467, [2009] O.J. No. 3169, 179 A.C.W.S. (3d) 265, 55 C.B.R. (5th) 229
+
+                             IN THE MATTER OF THE COMPANIES' CREDITORS
+                            ARRANGEMENT ACT, R.S.C. 1985, c. C-36, AS AMENDED
+                    AND IN THE MATTER OF A PLAN OF COMPROMISE OR ARRANGEMENT OF
+                   NORTEL NETWORKS CORPORATION, NORTEL NETWORKS LIMITED, NORTEL
+                   NETWORKS GLOBAL CORPORATION, NORTEL NETWORKS INTERNATIONAL
+                 CORPORATION AND NORTEL NETWORKS TECHNOLOGY CORPORATION (Applicants)
+
+                                      APPLICATION UNDER THE COMPANIES' CREDITORS
+                                     ARRANGEMENT ACT, R.S.C. 1985, c. C-36, AS AMENDED
+
+                                                                     Morawetz J.
+
+                                                              Heard: June 29, 2009
+                                                          Written reasons: July 23, 2009
+                                                              Docket: 09-CL-7950
+
+Counsel: Derrick Tay, Jennifer Stam for Nortel Networks Corporation, et al
+Lyndon Barnes, Adam Hirsh for Board of Directors of Nortel Networks Corporation, Nortel Networks Limited
+J. Carfagnini, J. Pasquariello for Monitor, Ernst & Young Inc.
+M. Starnino for Superintendent of Financial Services, Administrator of PBGF
+S. Philpott for Former Employees
+K. Zych for Noteholders
+Pamela Huff, Craig Thorburn for MatlinPatterson Global Advisors LLC, MatlinPatterson Global Opportunities Partners III L.P.,
+Matlin Patterson Opportunities Partners (Cayman) III L.P.
+David Ward for UK Pension Protection Fund
+Leanne Williams for Flextronics Inc.
+Alex MacFarlane for Official Committee of Unsecured Creditors
+Arthur O. Jacques, Tom McRae for Felske & Sylvain (de facto Continuing Employees' Committee)
+Robin B. Schwill, Matthew P. Gottlieb for Nortel Networks UK Limited
+A. Kauffman for Export Development Canada
+D. Ullman for Verizon Communications Inc.
+G. Benchetrit for IBM
+
+Subject: Insolvency; Estates and Trusts
+Headnote
+Bankruptcy and insolvency --- Proposal — Companies' Creditors Arrangement Act — Miscellaneous issues
+Telecommunication company entered protection under Companies' Creditors Arrangement Act ("Act") — Company decided to
+pursue "going concern" sales for various business units — Company entered into sale agreement with respect to assets in Code
+Division Multiple Access business and Long-Term Evolution Access assets — Company was pursuing sale of its other business
+units — Company brought motion for approval of bidding procedures and asset sale agreement — Motion granted — Court
+has jurisdiction to authorize sales process under Act in absence of formal plan of compromise or arrangement and creditor vote
+
+
+
+
+WESTLAW EDGE CANADA Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.   1
+Nortel Networks Corp., Re, 2009 CarswellOnt 4467
+2009 CarswellOnt 4467, [2009] O.J. No. 3169, 179 A.C.W.S. (3d) 265...
+
+— Sale by company which preserved its business as going concern was consistent with objectives of Act — Unless sale was
+undertaken at this time, long-term viability of business would be in jeopardy.
+Bankruptcy and insolvency --- Administration of estate — Sale of assets — Jurisdiction of court to approve sale
+Telecommunication company entered protection under Companies' Creditors Arrangement Act ("Act") — Company decided to
+pursue "going concern" sales for various business units — Company entered into sale agreement with respect to assets in Code
+Division Multiple Access business and Long-Term Evolution Access assets — Company was pursuing sale of its other business
+units — Company brought motion for approval of bidding procedures and asset sale agreement — Motion granted — Court
+has jurisdiction to authorize sales process under Act in absence of formal plan of compromise or arrangement and creditor vote
+— Sale by company which preserved its business as going concern was consistent with objectives of Act — Unless sale was
+undertaken at this time, long-term viability of business would be in jeopardy.
+
+MOTION by company for approval of bidding procedures for sale of business and asset sale agreement.
+
+Morawetz J.:
+
+Introduction
+
+1 On June 29, 2009, I granted the motion of the Applicants and approved the bidding procedures (the "Bidding Procedures")
+described in the affidavit of Mr. Riedel sworn June 23, 2009 (the "Riedel Affidavit") and the Fourteenth Report of Ernst &
+Young, Inc., in its capacity as Monitor (the "Monitor") (the "Fourteenth Report"). The order was granted immediately after
+His Honour Judge Gross of the United States Bankruptcy Court for the District of Delaware (the "U.S. Court") approved the
+Bidding Procedures in the Chapter 11 proceedings.
+
+2      I also approved the Asset Sale Agreement dated as of June 19, 2009 (the "Sale Agreement") among Nokia Siemens
+Networks B.V. ("Nokia Siemens Networks" or the "Purchaser"), as buyer, and Nortel Networks Corporation ("NNC"), Nortel
+Networks Limited ("NNL"), Nortel Networks, Inc. ("NNI") and certain of their affiliates, as vendors (collectively the "Sellers")
+in the form attached as Appendix "A" to the Fourteenth Report and I also approved and accepted the Sale Agreement for the
+purposes of conducting the "stalking horse" bidding process in accordance with the Bidding Procedures including, the Break-
+Up Fee and the Expense Reimbursement (as both terms are defined in the Sale Agreement).
+
+3 An order was also granted sealing confidential Appendix "B" to the Fourteenth Report containing the schedules and exhibits
+to the Sale Agreement pending further order of this court.
+
+4     The following are my reasons for granting these orders.
+
+5     The hearing on June 29, 2009 (the "Joint Hearing") was conducted by way of video conference with a similar motion
+being heard by the U.S. Court. His Honor Judge Gross presided over the hearing in the U.S. Court. The Joint Hearing was
+conducted in accordance with the provisions of the Cross-Border Protocol, which had previously been approved by both the
+U.S. Court and this court.
+
+6    The Sale Agreement relates to the Code Division Multiple Access ("CMDA") business Long-Term Evolution ("LTE")
+Access assets.
+
+7 The Sale Agreement is not insignificant. The Monitor reports that revenues from CDMA comprised over 21% of Nortel's
+2008 revenue. The CDMA business employs approximately 3,100 people (approximately 500 in Canada) and the LTE business
+employs approximately 1,000 people (approximately 500 in Canada). The purchase price under the Sale Agreement is $650
+million.
+
+Background
+
+8 The Applicants were granted CCAA protection on January 14, 2009. Insolvency proceedings have also been commenced
+in the United States, the United Kingdom, Israel and France.
+
+
+
+WESTLAW EDGE CANADA Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.   2
+Nortel Networks Corp., Re, 2009 CarswellOnt 4467
+2009 CarswellOnt 4467, [2009] O.J. No. 3169, 179 A.C.W.S. (3d) 265...
+
+
+                  The legislation is intended to have wide scope and allow a judge to make orders which will effectively maintain
+                  the status quo for a period while the insolvent company attempts to gain the approval of its creditors for a
+                  proposed arrangement which will enable the company to remain in operation for what is, hopefully, the future
+                  benefit of both the company and its creditors. [at 580]
+
+            25. The Court was not satisfied in Cliffs Over Maple Bay that the "restructuring" contemplated by the debtor would
+            do anything other than distribute the net proceeds from the sale, winding up or liquidation of its business. The debtor
+            had no intention of proposing a plan of arrangement, and its business would not continue following the execution of
+            its proposal - thus it could not be said the purposes of the statute would be engaged...
+
+            26. In my view, however, the case at bar is quite different from Cliffs Over Maple Bay. Here, the main debtor, the
+            Partnership, is at the centre of a complicated corporate group and carries on an active financing business that it hopes
+            to save notwithstanding the current economic cycle. (The business itself which fills a "niche" in the market, has
+            been carried on in one form or another since 1983.) The CCAA is appropriate for situations such as this where it is
+            unknown whether the "restructuring" will ultimately take the form of a refinancing or will involve a reorganization of
+            the corporate entity or entities and a true compromise of the rights of one or more parties. The "fundamental purpose"
+            of the Act - to preserve the status quo while the debtor prepares a plan that will enable it to remain in business to
+            the benefit of all concerned - will be furthered by granting a stay so that the means contemplated by the Act - a
+            compromise or arrangement - can be developed, negotiated and voted on if necessary...
+
+47     It seems to me that the foregoing views expressed in Forest and Marine are not inconsistent with the views previously
+expressed by the courts in Ontario. The CCAA is intended to be flexible and must be given a broad and liberal interpretation
+to achieve its objectives and a sale by the debtor which preserves its business as a going concern is, in my view, consistent
+with those objectives.
+
+48     I therefore conclude that the court does have the jurisdiction to authorize a sale under the CCAA in the absence of a plan.
+
+49     I now turn to a consideration of whether it is appropriate, in this case, to approve this sales process. Counsel to the
+Applicants submits that the court should consider the following factors in determining whether to authorize a sale under the
+CCAA in the absence of a plan:
+
+            (a) is a sale transaction warranted at this time?
+
+            (b) will the sale benefit the whole "economic community"?
+
+            (c) do any of the debtors' creditors have a bona fide reason to object to a sale of the business?
+
+            (d) is there a better viable alternative?
+
+I accept this submission.
+
+50     It is the position of the Applicants that Nortel's proposed sale of the Business should be approved as this decision is to
+the benefit of stakeholders and no creditor is prejudiced. Further, counsel submits that in the absence of a sale, the prospects
+for the Business are a loss of competitiveness, a loss of value and a loss of jobs.
+
+51 Counsel to the Applicants summarized the facts in support of the argument that the Sale Transaction should be approved,
+namely:
+
+            (a) Nortel has been working diligently for many months on a plan to reorganize its business;
+
+            (b) in the exercise of its business judgment, Nortel has concluded that it cannot continue to operate the Business
+            successfully within the CCAA framework;
+
+
+
+WESTLAW EDGE CANADA Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.   7
+Tab
+
+
+2
+Walter Energy Canada Holdings, Inc., Re, 2016 BCSC 107, 2016 CarswellBC 158
+2016 BCSC 107, 2016 CarswellBC 158, [2016] B.C.W.L.D. 844, 23 C.C.P.B. (2nd) 201...
+
+
+
+                                                                 2016 BCSC 107
+                                                        British Columbia Supreme Court
+
+                                                   Walter Energy Canada Holdings, Inc., Re
+
+                                     2016 CarswellBC 158, 2016 BCSC 107, [2016] B.C.W.L.D. 844,
+                                    23 C.C.P.B. (2nd) 201, 263 A.C.W.S. (3d) 300, 33 C.B.R. (6th) 60
+
+  In the Matter of the Companies' Creditors Arrangement Act, R.S.C. 1985, c. C-36 as Amended
+                           In the Matter of the Business Corporations Act, S.B.C. 2002, c. 57, as Amended
+
+                                In the Matter of a Plan of Compromise or Arrangement of Walter Energy
+                                 Canada Holdings, Inc. and the Other Petitioners Listed on Schedule "A"
+
+                                                                    Fitzpatrick J.
+
+                                                            Heard: January 5, 2016
+                                                          Judgment: January 5, 2016
+                                                       Written reasons: January 26, 2016
+                                                        Docket: Vancouver S1510120
+
+Counsel: Marc Wasserman, Mary I.A. Buttery, Tijana Gavric, Joshua Hurwitz, for Petitioners
+John Sandrelli, Tevia Jeffries, for United Mine Workers of America 1974 Pension Plan and Trust
+Matthew Nied, for Steering Committee of First Lien Creditors of Walter Energy, Inc.
+Aaron Welch, for Her Majesty the Queen in Right of the Province of British Columbia
+Kathryn Esaw, for Morgan Stanley Senior Funding, Inc.
+Peter Reardon, Wael Rostom, Caitlin Fell, for KPMG Inc., Monitor
+Neva Beckie, for Canada Revenue Agency
+Stephanie Drake, for United States Steel Workers, Local 1-424
+
+Subject: Civil Practice and Procedure; Corporate and Commercial; Insolvency
+Headnote
+Bankruptcy and insolvency --- Companies' Creditors Arrangement Act — Miscellaneous
+Insolvent corporations ("petitioners") were granted initial order under Companies' Creditors Arrangement Act — Petitioners
+were on path towards equity or debt restructuring, or sale and liquidation of their assets — Petitioners brought application for
+approval of sale and solicitation process, appointment of professionals to manage that process, key employee retention plan,
+and extension of stay — Application granted — Proposed sale and investment solicitation process represented best opportunity
+to restructure as going concern, was reasonable, was not opposed by any stakeholders, and was approved — It was appropriate
+to appoint chief restructuring officer (CRO) and financial advisor, as they were necessary for successful restructuring —
+Petitioners' assets and operations were significantly complex so as to justify appointments and proposed compensation and
+charges — Recommendations for financial advisor and CRO were accepted as being most qualified candidates — Key employee
+retention plan was approved, even in light of earlier salary raise and pension plan's objections, as employee was most senior
+remaining executive — Loss of this person's expertise now or during process would be extremely detrimental to chances of
+successful restructuring — Stay that was granted under initial order was extended in order to provide sufficient time to solicit
+letters of intent — Union was not entitled to proceed with its claims as it was not imperative that they be determined now.
+
+APPLICATION by insolvent corporations for extension of stay of proceedings and other relief to lead to potential restructuring.
+
+Fitzpatrick J.:
+
+
+
+
+WESTLAW EDGE CANADA Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.   1
+Walter Energy Canada Holdings, Inc., Re, 2016 BCSC 107, 2016 CarswellBC 158
+2016 BCSC 107, 2016 CarswellBC 158, [2016] B.C.W.L.D. 844, 23 C.C.P.B. (2nd) 201...
+
+
+Introduction and Background
+
+1     On December 7, 2015, I granted an initial order in favour of the petitioners, pursuant to the Companies' Creditors
+Arrangement Act, R.S.C. 1985, c. C-36, as amended ("CCAA").
+
+2 The "Walter Group" is a major exporter of metallurgical coal for the steel industry, with mines and operations in the U.S.,
+Canada and the U.K. The petitioners comprise part of the Canadian arm of the Walter Group and are known as the "Walter
+Canada Group". The Canadian entities were acquired by the Walter Group only recently in 2011.
+
+3    The Canadian operations principally include the Brule and Willow Creek coal mines, located near Chetwynd, B.C., and
+the Wolverine coal mine, near Tumbler Ridge, B.C. The mine operations are conducted through various limited partnerships.
+The petitioners include the Canadian parent holding company and the general partners of the partnerships. Given the complex
+corporate structure of the Walter Canada Group, the initial order also included stay provisions relating to the partnerships:
+Lehndorff General Partner Ltd., Re (1993), 9 B.L.R. (2d) 275 (Ont. Gen. Div. [Commercial List]); Forest & Marine Financial
+Corp., Re, 2009 BCCA 319 (B.C. C.A.) at para. 21.
+
+4      The timing of the Canadian acquisition could not have been worse. Since 2011, the market for metallurgical coal has
+fallen dramatically. This in turn led to financial difficulties in all three jurisdictions in which the Walter Group operated. The
+three Canadian mines were placed in care and maintenance between April 2013 and June 2014. The mines remain in this state
+today, at an estimated annual cost in excess of $16 million. Similarly, the U.K. mines were idled in 2015. In July 2015, the
+U.S. companies in the Walter Group filed and sought creditor protection by filing a proceeding under Chapter 11 of the U.S.
+Bankruptcy Code. It is my understanding that the U.S. entities have coal mining operations in Alabama and West Virginia.
+
+5    From the time of the granting of the initial order, it was apparent that the outcome of the U.S. proceedings would have a
+substantial impact on the Walter Canada Group. A sales process completed in the U.S. proceeding is anticipated to result in a
+transfer of the U.S. assets to a stalking horse bidder sometime early this year. This is significant because the U.S. companies
+have historically supported the Canadian operations with funding and provided essential management services. This is a relevant
+factor in terms of the proposed relief, as I will discuss below.
+
+6      The Walter Canada Group faces various significant contingent liabilities. The various entities are liable under a 2011
+credit agreement of approximately $22.6 million in undrawn letters of credit for post-mining reclamation obligations. Estimated
+reclamation costs for all three mines exceed this amount. Further obligations potentially arise with respect to the now laid-
+off employees of the Wolverine mine, who are represented by the United Steelworkers, Local 1-424 (the "Union"). If these
+employees are not recalled before April 2016, the Wolverine partnership faces an estimated claim of $11.3 million. As I will
+discuss below, an even more significant contingent liability has also recently been advanced.
+
+7      This anticipated "parting of the ways" as between the U.S. and Canadian entities in turn prompted the filing of this
+proceeding, which is intended to provide the petitioners with time to develop a restructuring plan. The principal goal of that
+plan, as I will describe below, is to complete a going concern sale of the Canadian operations as soon as possible. Fortunately,
+as of early December 2015, the Walter Canada Group has slightly in excess of US$40.5 million in cash resources to fund the
+restructuring efforts. However, ongoing operating costs remain high and are now compounded by the restructuring costs.
+
+8      As was appropriate, the petitioners did not seek extensive orders on December 7, 2015, given the lack of service on
+certain major stakeholders. A stay was granted on that date, together with other ancillary relief. KPMG Inc. was appointed as
+the monitor (the "Monitor").
+
+9     The petitioners now seek relief that will set them on a path to a potential restructuring; essentially, an equity and/or debt
+restructuring or alternatively, a sale and liquidation of their assets. That relief includes approving a sale and solicitation process
+and the appointment of further professionals to manage that process and complete other necessary management functions. They
+also seek a key employee retention plan. Finally, the petitioners seek an extension of the stay to early April 2016.
+
+
+
+
+WESTLAW EDGE CANADA Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.   2
+Walter Energy Canada Holdings, Inc., Re, 2016 BCSC 107, 2016 CarswellBC 158
+2016 BCSC 107, 2016 CarswellBC 158, [2016] B.C.W.L.D. 844, 23 C.C.P.B. (2nd) 201...
+
+
+10 For obvious reasons, the financial and environmental issues associated with the coal mines loom large in this matter. For that
+reason, the Walter Canada Group has engaged in discussions with the provincial regulators, being the B.C. Ministry of Energy
+and Mines and the B.C. Ministry of the Environment, concerning the environmental issues and the proposed restructuring plan.
+No issues arise from the regulators' perspective at this time in terms of the relief on this application. Other stakeholders have
+responded to the application and contributed to the final terms of the relief sought.
+
+11     The stakeholders appearing on this application are largely supportive of the relief sought, save for two.
+
+12     Firstly, the United Mine Workers of America 1974 Pension Plan and Trust (the "1974 Pension Plan") opposes certain
+aspects of the relief sought as to who should be appointed to conduct the sales process.
+
+13     The status of the 1974 Pension Plan arises from somewhat unusual circumstances. One of the U.S. entities, Jim Walter
+Resources, Inc. ("JWR") is a party to a collective bargaining agreement with the 1974 Pension Plan (the "CBA"). In late
+December 2015, the U.S. bankruptcy court issued a decision that allowed JWR to reject the CBA. The court also ordered that the
+sale of the U.S. assets would be free and clear of any liabilities under the CBA. As a result, the 1974 Pension Plan has filed a proof
+of claim in the U.S. proceedings advancing a contingent claim against JWR with respect to a potential "withdrawal liability"
+under U.S. law of approximately US$900 million. The U.S. law in question is the Employee Retirement Income Security Act of
+1974, 29 USC § 101, as amended, which is commonly referred to as "ERISA".
+
+14      The 1974 Pension Plan alleges that it is only a matter of time before JWR formally rejects the CBA. In that event, the
+1974 Pension Plan contends that ERISA provides that all companies under common control with JWR are jointly and severally
+liable for this withdrawal liability, and that some of the entities in the Walter Canada Group come within this provision.
+
+15 It is apparent at this time that neither the Walter Canada Group nor the Monitor has had an opportunity to assess the 1974
+Pension Plan's contingent claim. No claims process has even been contemplated at this time. Nevertheless, the standing of the
+1974 Pension Plan to make submissions on this application is not seriously contested.
+
+16 Secondly, the Union only opposes an extension of the stay of certain proceedings underway in this court and the Labour
+Relations Board in relation to some of its employee claims, which it wishes to continue to litigate.
+
+17    At the conclusion of the hearing, I granted the orders sought by the petitioners, with reasons to follow. Hence, these reasons.
+
+The Sale and Investment Solicitation Process ("SISP")
+
+18     The proposed SISP has been developed by the Walter Canada Group in consultation with the Monitor. By this process,
+bidders may submit a letter of intent or bid for a restructuring, recapitalization or other form of reorganization of the business
+and affairs of the Walter Canada Group as a going concern, or a purchase of any or all equity interests held by Walter Energy
+Canada. Alternatively, any bid may relate to a purchase of all or substantially all, or any portion of the Walter Canada Group
+assets (including the Brule, Willow Creek and Wolverine mines).
+
+19     It is intended that the SISP will be led by a chief restructuring officer (the "CRO"), implemented by a financial advisor
+(both as discussed below) and supervised by the Monitor.
+
+20 Approvals of SISPs are a common feature in CCAA restructuring proceedings. The Walter Canada Group refers to CCM
+Master Qualified Fund Ltd. v. blutip Power Technologies Ltd., 2012 ONSC 1750 (Ont. S.C.J. [Commercial List]). At para. 6,
+Brown J. (as he then was) stated that in reviewing a proposed sale process, the court should consider:
+
+            (i) the fairness, transparency and integrity of the proposed process;
+
+            (ii) the commercial efficacy of the proposed process in light of the specific circumstances facing the receiver; and,
+
+
+
+
+WESTLAW EDGE CANADA Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.   3
+Walter Energy Canada Holdings, Inc., Re, 2016 BCSC 107, 2016 CarswellBC 158
+2016 BCSC 107, 2016 CarswellBC 158, [2016] B.C.W.L.D. 844, 23 C.C.P.B. (2nd) 201...
+
+
+            (iii) whether the sales process will optimize the chances, in the particular circumstances, of securing the best possible
+            price for the assets up for sale.
+
+21     Although the court in CCM Master Qualified Fund was considering a sales process proposed by a receiver, I agree that
+these factors are also applicable when assessing the reasonableness of a proposed sales process in a CCAA proceeding: see
+PCAS Patient Care Automation Services Inc., Re, 2012 ONSC 2840 (Ont. S.C.J. [Commercial List]) at paras. 17-19.
+
+22     In this case, the proposed timelines would see a deadline of March 18 for letters of intent, due diligence thereafter with
+a bid deadline of May 27 and a target closing date of June 30, 2016. In my view, the timeline is reasonable, particularly with
+regard to the need to move as quickly as possible to preserve cash resources pending a sale or investment; or, in the worst case
+scenario, to allow the Walter Canada Group to close the mines permanently. There is sufficient flexibility built into the SISP to
+allow the person conducting it to amend these deadlines if the circumstances justify it.
+
+23     The SISP proposed here is consistent with similar sales processes approved in other Canadian insolvency proceedings.
+In addition, I agree with the Monitor's assessment that the SISP represents the best opportunity for the Walter Canada Group
+to successfully restructure as a going concern, if such an opportunity should arise.
+
+24    No stakeholder, including the 1974 Pension Plan, opposed this relief. All concerned recognize the need to monetize, if
+possible, the assets held by the Walter Canada Group. I conclude that the proposed SISP is reasonable and it is approved.
+
+Appointment of Financial Advisor and CRO
+
+25    The more contentious issues are who should conduct the SISP and manage the operations of the Walter Canada Group
+pending a transaction and what their compensation should be.
+
+26     The Walter Canada Group seeks the appointment of a financial advisor and CRO to assist with the implementation of
+the SISP.
+
+27 In restructuring proceedings it is not unusual that professionals are engaged to advance the restructuring where the existing
+management is either unable or unwilling to bring the required expertise to bear. In such circumstances, courts have granted
+enhanced powers to the monitor; otherwise, the appointment of a CRO and/or financial advisor can be considered.
+
+28 A consideration of this issue requires some context in terms of the current governance status of the Walter Canada Group.
+At present, there is only one remaining director, who is based in West Virginia. The petitioners' counsel does not anticipate his
+long-term involvement in these proceedings and expects he will resign once the U.S. sale completes. Similarly, the petitioners
+have been largely instructed to date by William Harvey. Mr. Harvey is the executive vice-president and chief financial officer
+of Walter Energy Canada Holdings, Inc., one of the petitioners. He lives in Birmingham, Alabama. As with the director, the
+petitioners' counsel expects him to resign in the near future.
+
+29 The only other high level employee does reside in British Columbia, but his expertise is more toward operational matters,
+particularly regarding environmental and regulatory issues.
+
+30     Accordingly, there is a legitimate risk that the Walter Canada Group ship may become rudderless in the midst of these
+proceedings and most significantly, in the midst of the very important sales and solicitation process. This risk is exacerbated by
+the fact that the management support traditionally provided by the U.S. entities will not be provided after the sale of the U.S.
+assets. Significant work must be done to effect a transition of those shared services in order to allow the Canadian operations to
+continue running smoothly. It is anticipated that the CRO will play a key role in assisting in this transition of the shared services.
+
+31     In these circumstances, I am satisfied that professional advisors are not just desirable, but indeed necessary, in order
+to have a chance for a successful restructuring. Both appointments ensure that the SISP will be implemented by professionals
+who will enhance the likelihood that it generates maximum value for the Walter Canada Group's stakeholders. In addition, the
+appointment of a CRO will allow the Canadian operations to continue in an orderly fashion, pending a transaction.
+
+
+WESTLAW EDGE CANADA Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.   4
+Tab
+
+
+3
+Bankruptcy and Insolvency Act, R.S.C. 1985, c. B-3, s. 1
+
+
+
+
+   Canada Federal Statutes
+     Bankruptcy and Insolvency Act
+       Short Title
+
+                                                                R.S.C. 1985, c. B-3, s. 1
+
+
+                                                                  s 1. Short title
+
+                                                                       Currency
+
+
+1.Short title
+This Act may be cited as the Bankruptcy and Insolvency Act.
+
+Amendment History
+1992, c. 27, s. 2
+
+
+Judicial Consideration (1)
+
+Currency
+Federal English Statutes reflect amendments current to September 25, 2024
+Federal English Regulations Current to Gazette Vol. 158:20 (September 25, 2024)
+
+
+
+End of Document                 Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.
+
+
+
+
+WESTLAW EDGE CANADA Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.          1
+Bankruptcy and Insolvency Act, R.S.C. 1985, c. B-3, s. 65.13
+
+
+
+
+   Canada Federal Statutes
+     Bankruptcy and Insolvency Act
+       Part III — Proposals (ss. 50-66.4)
+         Division I — General Scheme for Proposals
+
+                                                              R.S.C. 1985, c. B-3, s. 65.13
+
+
+                                                                       s 65.13
+
+                                                                       Currency
+
+
+65.13
+65.13(1) Restriction on disposition of assets
+An insolvent person in respect of whom a notice of intention is filed under section 50.4 or a proposal is filed under subsection
+62(1) may not sell or otherwise dispose of assets outside the ordinary course of business unless authorized to do so by a court.
+Despite any requirement for shareholder approval, including one under federal or provincial law, the court may authorize the
+sale or disposition even if shareholder approval was not obtained.
+
+65.13(2)Individuals
+In the case of an individual who is carrying on a business, the court may authorize the sale or disposition only if the assets were
+acquired for or used in relation to the business.
+
+65.13(3)Notice to secured creditors
+An insolvent person who applies to the court for an authorization shall give notice of the application to the secured creditors
+who are likely to be affected by the proposed sale or disposition.
+
+65.13(4) Factors to be considered
+In deciding whether to grant the authorization, the court is to consider, among other things,
+
+      (a) whether the process leading to the proposed sale or disposition was reasonable in the circumstances;
+
+      (b) whether the trustee approved the process leading to the proposed sale or disposition;
+
+      (c) whether the trustee filed with the court a report stating that in their opinion the sale or disposition would be more
+      beneficial to the creditors than a sale or disposition under a bankruptcy;
+
+      (d) the extent to which the creditors were consulted;
+
+      (e) the effects of the proposed sale or disposition on the creditors and other interested parties; and
+
+      (f) whether the consideration to be received for the assets is reasonable and fair, taking into account their market value.
+
+65.13(5)Additional factors — related persons
+If the proposed sale or disposition is to a person who is related to the insolvent person, the court may, after considering the
+factors referred to in subsection (4), grant the authorization only if it is satisfied that
+
+      (a) good faith efforts were made to sell or otherwise dispose of the assets to persons who are not related to the insolvent
+      person; and
+
+
+
+
+WESTLAW EDGE CANADA Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.   1
+Bankruptcy and Insolvency Act, R.S.C. 1985, c. B-3, s. 65.13
+
+
+
+
+      (b) the consideration to be received is superior to the consideration that would be received under any other offer made in
+      accordance with the process leading to the proposed sale or disposition.
+
+65.13(6)Related persons
+For the purpose of subsection (5), a person who is related to the insolvent person includes
+
+      (a) a director or officer of the insolvent person;
+
+      (b) a person who has or has had, directly or indirectly, control in fact of the insolvent person; and
+
+      (c) a person who is related to a person described in paragraph (a) or (b).
+
+65.13(7)Assets may be disposed of free and clear
+The court may authorize a sale or disposition free and clear of any security, charge or other restriction and, if it does, it shall
+also order that other assets of the insolvent person or the proceeds of the sale or disposition be subject to a security, charge or
+other restriction in favour of the creditor whose security, charge or other restriction is to be affected by the order.
+
+65.13(8)Restriction — employers
+The court may grant the authorization only if the court is satisfied that the insolvent person can and will make the payments
+that would have been required under paragraphs 60(1.3)(a) and (1.5)(a) if the court had approved the proposal.
+
+65.13(9)Restriction — intellectual property
+If, on the day on which a notice of intention is filed under section 50.4 or a copy of the proposal is filed under subsection 62(1),
+the insolvent person is a party to an agreement that grants to another party a right to use intellectual property that is included
+in a sale or disposition authorized under subsection (7), that sale or disposition does not affect the other party's right to use
+the intellectual property — including the other party's right to enforce an exclusive use — during the term of the agreement,
+including any period for which the other party extends the agreement as of right, as long as the other party continues to perform
+its obligations under the agreement in relation to the use of the intellectual property.
+
+Amendment History
+2005, c. 47, s. 44; 2007, c. 36, s. 27; 2018, c. 27, s. 266
+
+
+Judicial Consideration (1)
+
+Currency
+Federal English Statutes reflect amendments current to September 25, 2024
+Federal English Regulations Current to Gazette Vol. 158:20 (September 25, 2024)
+
+
+
+End of Document                 Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.
+
+
+
+
+WESTLAW EDGE CANADA Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.          2
+Tab
+
+
+4
+Royal Bank v. Soundair Corp., 1991 CarswellOnt 205
+1991 CarswellOnt 205, [1991] O.J. No. 1137, 27 A.C.W.S. (3d) 1178, 46 O.A.C. 321...
+
+
+
+                                                              1991 CarswellOnt 205
+                                                             Ontario Court of Appeal
+
+                                                          Royal Bank v. Soundair Corp.
+
+                                 1991 CarswellOnt 205, [1991] O.J. No. 1137, 27 A.C.W.S. (3d) 1178,
+                                   46 O.A.C. 321, 4 O.R. (3d) 1, 7 C.B.R. (3d) 1, 83 D.L.R. (4th) 76
+
+         ROYAL BANK OF CANADA (plaintiff/respondent) v. SOUNDAIR CORPORATION
+             (respondent), CANADIAN PENSION CAPITAL LIMITED (appellant)
+             and CANADIAN INSURERS' CAPITAL CORPORATION (appellant)
+                                                    Goodman, McKinlay and Galligan JJ.A.
+
+                                                      Heard: June 11, 12, 13 and 14, 1991
+                                                            Judgment: July 3, 1991
+                                                           Docket: Doc. CA 318/91
+
+Counsel: J. B. Berkow and S. H. Goldman , for appellants Canadian Pension Capital Limited and Canadian Insurers' Capital
+Corporation.
+J. T. Morin, Q.C. , for Air Canada.
+L.A.J. Barnes and L.E. Ritchie , for plaintiff/respondent Royal Bank of Canada.
+S.F. Dunphy and G.K. Ketcheson , for Ernst & Young Inc., receiver of respondent Soundair Corporation.
+W.G. Horton , for Ontario Express Limited.
+N.J. Spies , for Frontier Air Limited.
+
+Subject: Corporate and Commercial; Insolvency
+Headnote
+Receivers --- Conduct and liability of receiver — General conduct of receiver
+Court considering its position when approving sale recommended by receiver.
+S Corp., which engaged in the air transport business, had a division known as AT. When S Corp. experienced financial
+difficulties, one of the secured creditors, who had an interest in the assets of AT, brought a motion for the appointment of a
+receiver. The receiver was ordered to operate AT and to sell it as a going concern. The receiver had two offers. It accepted the
+offer made by OEL and rejected an offer by 922 which contained an unacceptable condition. Subsequently, 922 obtained an
+order allowing it to make a second offer removing the condition. The secured creditors supported acceptance of the 922 offer.
+The court approved the sale to OEL and dismissed the motion to approve the 922 offer. An appeal was brought from this order.
+Held:
+The appeal was dismissed.
+Per Galligan J.A.: When a court appoints a receiver to use its commercial expertise to sell an airline, it is inescapable that it
+intends to rely upon the receiver's expertise and not upon its own. The court should be reluctant to second-guess, with the benefit
+of hindsight, the considered business decisions made by its receiver.
+The conduct of the receiver should be reviewed in the light of the specific mandate given to him by the court. The order
+appointing the receiver did not say how the receiver was to negotiate the sale. The order obviously intended, because of the
+unusual nature of the asset being sold, to leave the method of sale substantially to the discretion of the receiver.
+To determine whether a receiver has acted providently, the conduct of the receiver should be examined in light of the information
+the receiver had when it agreed to accept an offer. On the date the receiver accepted the OEL offer, it had only two offers: that
+of OEL, which was acceptable, and that of 922, which contained an unacceptable condition. The decision made was a sound
+one in the circumstances. The receiver made a sufficient effort to obtain the best price, and did not act improvidently.
+
+
+
+
+WESTLAW EDGE CANADA Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.   1
+Royal Bank v. Soundair Corp., 1991 CarswellOnt 205
+1991 CarswellOnt 205, [1991] O.J. No. 1137, 27 A.C.W.S. (3d) 1178, 46 O.A.C. 321...
+
+The court must exercise extreme caution before it interferes with the process adopted by a receiver to sell an unusual asset. It is
+important that prospective purchasers know that, if they are acting in good faith, bargain seriously with a receiver and enter into
+an agreement with it, a court will not lightly interfere with the commercial judgment of the receiver to sell the assets to them.
+Per McKinlay J.A. (concurring in the result): It is most important that the integrity of procedures followed by court-appointed
+receivers be protected in the interests of both commercial morality and the future confidence of business persons in their dealings
+with receivers. In all cases, the court should carefully scrutinize the procedure followed by the receiver. While the procedure
+carried out by the receiver in this case was appropriate, given the unfolding of events and the unique nature of the asset involved,
+it may not be a procedure that is likely to be appropriate in many receivership sales.
+Per Goodman J.A. (dissenting): It was imprudent and unfair on the part of the receiver to ignore an offer from an interested party
+which offered approximately triple the cash down payment without giving a chance to the offeror to remove the conditions or
+other terms which made the offer unacceptable to the receiver. The offer accepted by the receiver was improvident and unfair
+insofar as two creditors were concerned.
+
+Appeal from order approving sale of assets by receiver.
+
+Galligan J.A. :
+
+1 This is an appeal from the order of Rosenberg J. made on May 1, 1991. By that order, he approved the sale of Air Toronto
+to Ontario Express Limited and Frontier Air Limited, and he dismissed a motion to approve an offer to purchase Air Toronto
+by 922246 Ontario Limited.
+
+2    It is necessary at the outset to give some background to the dispute. Soundair Corporation ("Soundair") is a corporation
+engaged in the air transport business. It has three divisions. One of them is Air Toronto. Air Toronto operates a scheduled airline
+from Toronto to a number of mid-sized cities in the United States of America. Its routes serve as feeders to several of Air
+Canada's routes. Pursuant to a connector agreement, Air Canada provides some services to Air Toronto and benefits from the
+feeder traffic provided by it. The operational relationship between Air Canada and Air Toronto is a close one.
+
+3      In the latter part of 1989 and the early part of 1990, Soundair was in financial difficulty. Soundair has two secured
+creditors who have an interest in the assets of Air Toronto. The Royal Bank of Canada (the "Royal Bank") is owed at least
+$65 million dollars. The appellants Canadian Pension Capital Limited and Canadian Insurers' Capital Corporation (collectively
+called "CCFL") are owed approximately $9,500,000. Those creditors will have a deficiency expected to be in excess of $50
+million on the winding up of Soundair.
+
+4 On April 26, 1990, upon the motion of the Royal Bank, O'Brien J. appointed Ernst & Young Inc. (the "receiver") as receiver
+of all of the assets, property and undertakings of Soundair. The order required the receiver to operate Air Toronto and sell it as
+a going concern. Because of the close relationship between Air Toronto and Air Canada, it was contemplated that the receiver
+would obtain the assistance of Air Canada to operate Air Toronto. The order authorized the receiver:
+
+      (b) to enter into contractual arrangements with Air Canada to retain a manager or operator, including Air Canada, to manage
+      and operate Air Toronto under the supervision of Ernst & Young Inc. until the completion of the sale of Air Toronto to
+      Air Canada or other person.
+
+Also because of the close relationship, it was expected that Air Canada would purchase Air Toronto. To that end, the order of
+O'Brien J. authorized the Receiver:
+
+      (c) to negotiate and do all things necessary or desirable to complete a sale of Air Toronto to Air Canada and, if a sale
+      to Air Canada cannot be completed, to negotiate and sell Air Toronto to another person, subject to terms and conditions
+      approved by this Court.
+
+5      Over a period of several weeks following that order, negotiations directed towards the sale of Air Toronto took place
+between the receiver and Air Canada. Air Canada had an agreement with the receiver that it would have exclusive negotiating
+rights during that period. I do not think it is necessary to review those negotiations, but I note that Air Canada had complete
+
+
+
+WESTLAW EDGE CANADA Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.   2
+Royal Bank v. Soundair Corp., 1991 CarswellOnt 205
+1991 CarswellOnt 205, [1991] O.J. No. 1137, 27 A.C.W.S. (3d) 1178, 46 O.A.C. 321...
+
+access to all of the operations of Air Toronto and conducted due diligence examinations. It became thoroughly acquainted with
+every aspect of Air Toronto's operations.
+
+6     Those negotiations came to an end when an offer made by Air Canada on June 19, 1990, was considered unsatisfactory
+by the receiver. The offer was not accepted and lapsed. Having regard to the tenor of Air Canada's negotiating stance and a
+letter sent by its solicitors on July 20, 1990, I think that the receiver was eminently reasonable when it decided that there was
+no realistic possibility of selling Air Toronto to Air Canada.
+
+7 The receiver then looked elsewhere. Air Toronto's feeder business is very attractive, but it only has value to a national airline.
+The receiver concluded reasonably, therefore, that it was commercially necessary for one of Canada's two national airlines to
+be involved in any sale of Air Toronto. Realistically, there were only two possible purchasers, whether direct or indirect. They
+were Air Canada and Canadian Airlines International.
+
+8 It was well known in the air transport industry that Air Toronto was for sale. During the months following the collapse of
+the negotiations with Air Canada, the receiver tried unsuccessfully to find viable purchasers. In late 1990, the receiver turned
+to Canadian Airlines International, the only realistic alternative. Negotiations began between them. Those negotiations led to
+a letter of intent dated February 11, 1990. On March 6, 1991, the receiver received an offer from Ontario Express Limited and
+Frontier Airlines Limited, who are subsidiaries of Canadian Airlines International. This offer is called the OEL offer.
+
+9     In the meantime, Air Canada and CCFL were having discussions about making an offer for the purchase of Air Toronto.
+They formed 922246 Ontario Limited ("922") for the purpose of purchasing Air Toronto. On March 1, 1991, CCFL wrote to the
+receiver saying that it proposed to make an offer. On March 7, 1991, Air Canada and CCFL presented an offer to the receiver
+in the name of 922. For convenience, its offers are called the "922 offers."
+
+10      The first 922 offer contained a condition which was unacceptable to the receiver. I will refer to that condition in more
+detail later. The receiver declined the 922 offer and on March 8, 1991, accepted the OEL offer. Subsequently, 922 obtained
+an order allowing it to make a second offer. It then submitted an offer which was virtually identical to that of March 7, 1991,
+except that the unacceptable condition had been removed.
+
+11      The proceedings before Rosenberg J. then followed. He approved the sale to OEL and dismissed a motion for the
+acceptance of the 922 offer. Before Rosenberg J., and in this court, both CCFL and the Royal Bank supported the acceptance
+of the second 922 offer.
+
+12     There are only two issues which must be resolved in this appeal. They are:
+
+      (1) Did the receiver act properly when it entered into an agreement to sell Air Toronto to OEL?
+
+      (2) What effect does the support of the 922 offer by the secured creditors have on the result?
+
+13     I will deal with the two issues separately.
+
+1. Did the Receiver Act Properly in Agreeing to Sell to OEL?
+
+14 Before dealing with that issue, there are three general observations which I think I should make. The first is that the sale
+of an airline as a going concern is a very complex process. The best method of selling an airline at the best price is something
+far removed from the expertise of a court. When a court appoints a receiver to use its commercial expertise to sell an airline, it
+is inescapable that it intends to rely upon the receiver's expertise and not upon its own. Therefore, the court must place a great
+deal of confidence in the actions taken and in the opinions formed by the receiver. It should also assume that the receiver is
+acting properly unless the contrary is clearly shown. The second observation is that the court should be reluctant to second-
+guess, with the benefit of hindsight, the considered business decisions made by its receiver. The third observation which I wish
+to make is that the conduct of the receiver should be reviewed in the light of the specific mandate given to him by the court.
+
+
+
+
+WESTLAW EDGE CANADA Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.   3
+Royal Bank v. Soundair Corp., 1991 CarswellOnt 205
+1991 CarswellOnt 205, [1991] O.J. No. 1137, 27 A.C.W.S. (3d) 1178, 46 O.A.C. 321...
+
+
+15     The order of O'Brien J. provided that if the receiver could not complete the sale to Air Canada that it was "to negotiate
+and sell Air Toronto to another person." The court did not say how the receiver was to negotiate the sale. It did not say it was
+to call for bids or conduct an auction. It told the receiver to negotiate and sell. It obviously intended, because of the unusual
+nature of the asset being sold, to leave the method of sale substantially in the discretion of the receiver. I think, therefore, that
+the court should not review minutely the process of the sale when, broadly speaking, it appears to the court to be a just process.
+
+16     As did Rosenberg J., I adopt as correct the statement made by Anderson J. in Crown Trust Co. v. Rosenberg (1986), 60
+O.R. (2d) 87, 67 C.B.R. (N.S.) 320n, 22 C.P.C. (2d) 131, 39 D.L.R. (4th) 526 (H.C.) , at pp. 92-94 [O.R.], of the duties which
+a court must perform when deciding whether a receiver who has sold a property acted properly. When he set out the court's
+duties, he did not put them in any order of priority, nor do I. I summarize those duties as follows:
+
+      1. It should consider whether the receiver has made a sufficient effort to get the best price and has not acted improvidently.
+
+      2. It should consider the interests of all parties.
+
+      3. It should consider the efficacy and integrity of the process by which offers are obtained.
+
+      4. It should consider whether there has been unfairness in the working out of the process.
+
+17     I intend to discuss the performance of those duties separately.
+
+1. Did the Receiver make a sufficient effort to get the best price and did it act providently?
+
+18 Having regard to the fact that it was highly unlikely that a commercially viable sale could be made to anyone but the two
+national airlines, or to someone supported by either of them, it is my view that the receiver acted wisely and reasonably when it
+negotiated only with Air Canada and Canadian Airlines International. Furthermore, when Air Canada said that it would submit
+no further offers and gave the impression that it would not participate further in the receiver's efforts to sell, the only course
+reasonably open to the receiver was to negotiate with Canadian Airlines International. Realistically, there was nowhere else to
+go but to Canadian Airlines International. In do ing so, it is my opinion that the receiver made sufficient efforts to sell the airline.
+
+19      When the receiver got the OEL offer on March 6, 1991, it was over 10 months since it had been charged with the
+responsibility of selling Air Toronto. Until then, the receiver had not received one offer which it thought was acceptable. After
+substantial efforts to sell the airline over that period, I find it difficult to think that the receiver acted improvidently in accepting
+the only acceptable offer which it had.
+
+20     On March 8, 1991, the date when the receiver accepted the OEL offer, it had only two offers, the OEL offer, which
+was acceptable, and the 922 offer, which contained an unacceptable condition. I cannot see how the receiver, assuming for the
+moment that the price was reasonable, could have done anything but accept the OEL offer.
+
+21 When deciding whether a receiver had acted providently, the court should examine the conduct of the receiver in light of
+the information the receiver had when it agreed to accept an offer. In this case, the court should look at the receiver's conduct
+in the light of the information it had when it made its decision on March 8, 1991. The court should be very cautious before
+deciding that the receiver's conduct was improvident based upon information which has come to light after it made its decision.
+To do so, in my view, would derogate from the mandate to sell given to the receiver by the order of O'Brien J. I agree with and
+adopt what was said by Anderson J. in Crown Trust Co. v. Rosenberg , supra, at p. 112 [O.R.]:
+
+      Its decision was made as a matter of business judgment on the elements then available to it . It is of the very essence
+      of a receiver's function to make such judgments and in the making of them to act seriously and responsibly so as to be
+      prepared to stand behind them.
+
+      If the court were to reject the recommendation of the Receiver in any but the most exceptional circumstances, it would
+      materially diminish and weaken the role and function of the Receiver both in the perception of receivers and in the
+
+
+
+WESTLAW EDGE CANADA Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.   4
+

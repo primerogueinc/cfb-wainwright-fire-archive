@@ -1,0 +1,1379 @@
+                                                                             C11244
+
+                                                                                          FILED
+COURT FILE NUMBER                  B301-163430                                           Jan 22, 2025
+COURT                              COURT OF KING’S BENCH OF ALBERTA                       by Email
+JUDICIAL CENTRE                    CALGARY
+                                   IN THE MATTER OF THE BANKRUPTCY AND
+                                   INSOLVENCY ACT, RSC 1985, C B-3, AS AMENDED
+                                                                                                      COM
+                                                                                                      Jan 22, 2025
+                                   AND IN THE MATTER OF THE NOTICE OF INTENTION TO
+                                   MAKE A PROPOSAL OF CLEO ENERGY CORP.
+
+APPLICANT                          CLEO ENERGY CORP.
+
+
+                      SUPPLEMENTAL BOOK OF AUTHORITIES OF THE RESPONDENT,
+                                   TRAFIGURA CANADA LIMITED
+
+                          FOR THE HEARING SCHEDULED IN JUDGE’S CHAMBERS
+                                    ON January 22, 2025, AT 3:00 PM
+
+STIKEMAN ELLIOTT LLP                                   GOWLING WLG (CANADA) LLP
+Barristers & Solicitors                                1600, 421 – 7th Avenue SW
+4200 Bankers Hall West,                                Calgary, AB T2P 4K9
+888-3rd Street S.W.,
+Calgary, AB T2P 5C5
+
+Karen Fellowes K.C. / Eric Blay                        Sam Gabor / Tom Cumming
+KFellowes@stikeman.com /                               sam.gabor@gowlingwlg.com /
+eblay@stikeman.com                                     tom.cumming@gowlingwlg.com
+Tel: (403) 724 9496 / (403) 724 9485                   Tel: (403) 571-1069
+Fax: (403) 266-9034
+                                                       Counsel for the Applicant, Cleo Energy Corp.
+Counsel for the Respondent, Trafigura Canada           File no. G10010664
+Limited
+File no.: 137093.1030
+
+
+
+
+120830048 v1
+                                                     -2-
+
+
+                                          TABLE OF AUTHORITIES
+
+ Tab           Authority
+1.             Blade Energy Services Corp (Re), 2024 ABKB 100, 2024 CarswellAlta 356
+2.             Razor Energy Corp (Re), 2024 ABKB 553, 2024 CarswellAlta 2385
+
+
+
+
+120830048 v1
+               Tab 1
+
+
+
+
+120830048 v1
+Blade Energy Services Corp (Re), 2024 ABKB 100, 2024 CarswellAlta 356
+2024 ABKB 100, 2024 CarswellAlta 356, [2024] 4 W.W.R. 660, [2024] A.W.L.D. 1195...
+
+
+
+                                                            2024 ABKB 100
+                                                      Alberta Court of King's Bench
+
+                                                     Blade Energy Services Corp (Re)
+
+                         2024 CarswellAlta 356, 2024 ABKB 100, [2024] 4 W.W.R. 660, [2024]
+                      A.W.L.D. 1195, 11 C.B.R. (7th) 319, 2024 A.C.W.S. 802, 68 Alta. L.R. (7th) 321
+
+                        In the Matter of the Notice of Intention to Make a Proposal of
+                    FTI Consulting Canada Inc (Applicant) and Blade Energy Services Corp (Respondent)
+
+                                  In the Matter of the Notice of Intention to Make a Proposal of
+
+                        FTI Consulting Canada Inc (Applicant) and Razor Energy Corp (Respondent)
+
+                                  In the Matter of the Notice of Intention to Make a Proposal of
+
+                     FTI Consulting Canada Inc (Applicant) and Razor Holdings GP Corp (Respondent)
+
+                                  In the Matter of the Notice of Intention to Make a Proposal of
+
+               FTI Consulting Canada Inc (Applicant) and Razor Royalties Limited Partnership (Respondent)
+
+                                                                  M.J. Lema J.
+
+                                                Heard: February 16, 2024
+                                              Judgment: February 21, 2024
+                         Docket: Calgary B301-0373300, B301-037334, B301-037338, B301-037340
+
+Counsel: Kelly Bourassa, for Applicant (FTI Consulting Canada Inc) Proposal Trustee
+Sean Collins, Patellis Kyriakis, Nathan Stewart, for Razor Energy Group
+Keely Cameron, Michael Selnes, Lisa Rodriguez, for Conifer Energy Inc.
+Jessica Cameron, for Arena Investors LP
+
+Subject: Civil Practice and Procedure; Insolvency
+Related Abridgment Classifications
+Bankruptcy and insolvency
+XVII Practice and procedure in courts
+   XVII.1 Stay of proceedings
+Headnote
+Bankruptcy and insolvency --- Practice and procedure in courts — Stay of proceedings
+Operator claimed producer owed $8 million in arrears — Relying on right in operating-procedure agreement, operator notified
+producer that it intended to disconnect producer from gas-gathering system if it did not clear arrears or agree to satisfactory
+payment arrangement — Neither happened and operator disconnected producer from system — Shortly after, producer filed
+notice of intention (NOI) to file proposal under Bankruptcy and Insolvency Act — Producer sought order declaring stay applied
+and directing reconnection to gas-gathering system and processing of its production on certain payment terms — Order directed
+operator to discontinue lockout — When it came to future services, parties had same rights and liabilities under their agreements
+as before and there was no role for court when it came to parties' going-forward arrangements — Operator's lockout step,
+commenced before NOI stay began, was continuing collection remedy and was stayed when NOI was filed — Lockout step
+fell within scope of s. 69(1)(a) stay and was not defensible status quo — Operator's actual or possible secured-creditor status
+made no difference — Scope of "remedy" and "other proceeding" in s. 69(1(a) of Act was broad including both judicial and
+
+
+                     Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.   1
+Blade Energy Services Corp (Re), 2024 ABKB 100, 2024 CarswellAlta 356
+2024 ABKB 100, 2024 CarswellAlta 356, [2024] 4 W.W.R. 660, [2024] A.W.L.D. 1195...
+
+extrajudicial debt-collection steps — Stay under s. 69(1)(a) of Act did not have retroactive effect, in sense of undoing completed
+steps and implied power for court to grant orders to enforce stay and restore parties to pre-breach position as much as possible
+— Section 65.1 of Act did not apply — Section 65.1(4) of Act did not create freestanding right in creditor to insist on immediate
+payment post-NOI Bankruptcy and Insolvency Act, R.S.C. 1985, c. B-3, s 65.1(4); Bankruptcy and Insolvency Act, R.S.C.
+1985, c. B-3, s 69(1)(a).
+Table of Authorities
+Cases considered by M.J. Lema J.:
+     BCIMC Realty Corp. v. Fernandes (October 4, 2021), Doc. CEL-00543-21 (Ont. L.T.B.) — referred to
+     Bank of Nova Scotia v. Avramenko (2020), 2020 SKQB 54, 2020 CarswellSask 107, 59 C.P.C. (8th) 216 (Sask. Q.B.) —
+     considered
+     Canadian Petcetera Ltd. Partnership v. 2876 R. Holdings Ltd. (2010), 2010 BCCA 469, 2010 CarswellBC 2852, 96 R.P.R.
+     (4th) 157, [2010] 12 W.W.R. 189, 10 B.C.L.R. (5th) 235, 70 C.B.R. (5th) 180, 295 B.C.A.C. 201, 501 W.A.C. 201 (B.C.
+     C.A.) — considered
+     Condominium Plan No. 78R15349 v. Fayad (2001), 2001 SKQB 104, 2001 CarswellSask 152, 206 Sask. R. 78 (Sask.
+     Q.B.) — referred to
+     Durham Sports Barn Inc. Bankruptcy Proposal (2020), 2020 ONSC 5938, 2020 CarswellOnt 14288, 84 C.B.R. (6th) 293,
+     22 R.P.R. (6th) 235 (Ont. S.C.J.) — referred to
+     Ford Credit Canada Ltd. v. Crosbie Realty Ltd. (1992), 12 C.B.R. (3d) 282, 88 D.L.R. (4th) 706, 95 Nfld. & P.E.I.R. 322,
+     301 A.P.R. 322, 1992 CarswellNfld 19 (Nfld. C.A.) — referred to
+     Golden Griddle Corp. v. Fort Erie Truck & Travel Plaza Inc. (2005), 2005 CarswellOnt 9935, 29 C.B.R. (5th) 62, 277
+     D.L.R. (4th) 568 (Ont. S.C.J.) — considered
+     Goldenkey Oil Inc (Re) (2023), 2023 ABKB 365, 2023 CarswellAlta 1577, 7 C.B.R. (7th) 243 (Alta. K.B.) — referred to
+     Hutchingame Growth Capital Corporation v. Independent Electricity System Operator (2020), 2020 ONCA 430, 2020
+     CarswellOnt 9200, 13 P.P.S.A.C. (4th) 102 (Ont. C.A.) — referred to
+     Hutchingame Growth Capital Corporation v. Independent Electricity System Operator (2021), 2021 CarswellOnt 739,
+     2021 CarswellOnt 740 (S.C.C.) — referred to
+     Peel Housing Corp. v. Siewnarine (2008), 2008 CarswellOnt 3807, 45 C.B.R. (5th) 313, 239 O.A.C. 88 (Ont. Div. Ct.)
+     — referred to
+     Plancher Heritage Ltée / Heritage Flooring Ltd., Re (2004), 2004 NBQB 168, 2004 CarswellNB 358, 3 C.B.R. (5th) 60,
+     (sub nom. Heritage Flooring Ltd., Re) 279 N.B.R. (2d) 1, (sub nom. Heritage Flooring Ltd., Re) 732 A.P.R. 1, 2004 NBBR
+     168 (N.B. Q.B.) — referred to
+     Quintette Coal Ltd. v. Nippon Steel Corp. (1990), 51 B.C.L.R. (2d) 105, 2 C.B.R. (3d) 303, 1990 CarswellBC 384 (B.C.
+     C.A.) — considered
+     Schendel Mechanical Contracting Ltd (Re), (2021), 2021 ABQB 893, 2021 CarswellAlta 2828, 38 Alta. L.R. (7th) 406
+     (Alta. Q.B.) — considered
+     Vachon v. Canada (Employment & Immigration Commission) (1985), [1985] 2 S.C.R. 417, (sub nom. Vachon v. Canada
+     Employment) 63 N.R. 81, 57 C.B.R. (N.S.) 113, 23 D.L.R. (4th) 641, 1985 CarswellNat 12, 1985 CarswellNat 668 (S.C.C.)
+     — considered
+Statutes considered:
+Bankruptcy and Insolvency Act, R.S.C. 1985, c. B-3
+     Generally — considered
+
+     s. 65.1 [en. 1992, c. 27, s. 30] — referred to
+
+     s. 65.1(1) [en. 1992, c. 27, s. 30] — referred to
+
+     s. 65.1(2) [en. 1992, c. 27, s. 30] — referred to
+
+     s. 65.1(3) [en. 1992, c. 27, s. 30] — referred to
+
+     s. 65.1(4) [en. 1992, c. 27, s. 30] — considered
+
+
+                      Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.   2
+Blade Energy Services Corp (Re), 2024 ABKB 100, 2024 CarswellAlta 356
+2024 ABKB 100, 2024 CarswellAlta 356, [2024] 4 W.W.R. 660, [2024] A.W.L.D. 1195...
+
+
+     s. 69 — referred to
+
+     s. 69(1)(a) — considered
+
+     s. 69(2) — referred to
+
+     s. 121 — referred to
+
+   s. 244(1) — referred to
+Companies' Creditors Arrangement Act, R.S.C. 1985, c. C-36
+   Generally — considered
+
+    s. 11 — referred to
+Criminal Code, R.S.C. 1985, c. C-46
+    Generally — referred to
+
+RULING on whether lockout constituted continuing debt-collection remedy and was stayed under Bankruptcy and Insolvency
+Act.
+
+M.J. Lema J.:
+
+Reasons for Judgment of Honourable Justice M. J. Lema
+
+I. Introduction
+
+1     Is the arrears-triggered disconnection (or lockout) of a gas producer by a gas-plant operator a continuing remedy and
+accordingly one stayed under the producer's notice-of-intention proceedings under the Bankruptcy and Insolvency Act?
+
+2    The producer seeks an order declaring that the stay applies and directing reconnection to the gas-gathering system and
+processing of its production on certain payment terms.
+
+3     The operator characterizes the lockout as a completed step and thus, not offside the BIA stay. Alternatively, if the stay
+applies and reconnection follows, the operator seeks going-forward terms including immediate payment, a critical-supplier's
+charge, and payment of some of the existing arrears.
+
+4     I find that the lockout was a continuing remedy, that it was stayed when the BIA notice of intention was filed, that
+reconnection is required, and that, with the stay not applying to any post-NOI arrears that may accrue, the parties' existing
+agreements will govern future services and payments for them i.e., without the Court setting such terms.
+
+II. Background
+
+5    Razor and Conifer are oil and gas producers. Conifer is also the operator of a gas plant in the South Swan Hills area in
+which both are producing natural gas.
+
+6   Per Conifer, Razor owes approximately $8 million to it, relating in part to processing-charge and capital-cost shortfalls.
+Razor disputes that figure.
+
+7     After long-running attempts to negotiate the clearance of those arrears, Conifer notified Razor that, relying on a right in
+their operating-procedure agreement, it intended to disconnect Razor from the gas-gathering system if it did not clear its arrears
+or agree to a satisfactory payment arrangement.
+
+
+
+
+                     Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.   3
+Blade Energy Services Corp (Re), 2024 ABKB 100, 2024 CarswellAlta 356
+2024 ABKB 100, 2024 CarswellAlta 356, [2024] 4 W.W.R. 660, [2024] A.W.L.D. 1195...
+
+
+8      Neither happened, eventually leading to Conifer disconnecting Razor from the system, Razor shortly afterwards filing
+a notice of intention to file a proposal under the Bankruptcy and Insolvency Act, and the current debate over the scope of the
+resulting stay and its impact (if any) on the lockout.
+
+III. Issues
+
+9 The first issue is whether the lockout constitutes a continuing debt-collection remedy. If so, it is stayed by the BIA stay. The
+second is the appropriate remedy in such case. Assuming it includes reconnection, the third is on what term(s) should future
+services be provided by Conifer.
+
+IV. Analysis
+
+A. Stay provision
+
+10    Here is the applicable BIA provision (para 69(1)(a)):
+
+     Subject to subsections (2) and (3) and sections 69.4, 69.5 and 69.6 [none of which apply here, at least not currently], on
+     the filing of a notice of intention under section 50.4 by an insolvent person,
+
+          (a) no creditor has any remedy against the insolvent person or the insolvent person's property, or shall commence or
+          continue any action, execution or other proceedings, for the recovery of a claim provable in bankruptcy[.] [emphasis
+          added]
+
+11      Conifer did not argue, and it could not plausibly have argued, that Razor is not an insolvent person, that a notice of
+intention has not been filed, or that its claim for contractual amounts owing by Razor through to the lockout is not a claim
+provable in bankruptcy i.e. would not fall within the scope of s 121 BIA if a bankruptcy had occurred on the NOI filing date.
+
+12     Leaving the questions of whether the lockout constitutes a remedy or other proceeding (or both) and, if so, whether the
+stay captures the lockout when it occurred before the NOI was filed.
+
+13    I start by examining the scope of the key terms here.
+
+B. Broad scope of "remedy" and "other proceedings"
+
+14    The scope of "remedy" and "other proceedings" is broad, including both judicial and extrajudicial debt-collection steps.
+Per Vachon v Canada Employment and Immigration Commission, [1985] 2 SCR 417:
+
+     Appellant in my view properly relied upon the English version of s. 49(1) of the Bankruptcy Act, where the word recours
+     is rendered by the word "remedy", giving to it and to the words "autres procédures" ("other proceedings") a very
+     broad meaning which covers any kind of attempt at recovery, judicial or extrajudicial. Black's Law Dictionary (5th
+     ed. 1979), defines "remedy":
+
+          The means by which a right is enforced or the violation of a right is prevented, redressed, or compensated.
+
+     and below:
+
+          Remedy means any remedial right to which an aggrieved party is entitled with or without resort to a tribunal.
+
+     Jowitt's Dictionary of English Law (2nd ed. 1977), vol. 2, gives an almost identical definition:
+
+          the means by which the violation of a right is prevented, redressed, or compensated. Remedies are of four kinds:
+          (1) by act of the party injured . . . ; (2) by operation of law . . . ; (3) by agreement between the parties . . . ; (4)
+
+
+
+
+                     Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.   4
+Blade Energy Services Corp (Re), 2024 ABKB 100, 2024 CarswellAlta 356
+2024 ABKB 100, 2024 CarswellAlta 356, [2024] 4 W.W.R. 660, [2024] A.W.L.D. 1195...
+
+          by judicial remedy, e.g. action or suit. The last are called judicial remedies, as opposed to the first three classes
+          which are extrajudicial.
+
+     The courts have also interpreted the stay of proceedings imposed by s. 49(1) of the Bankruptcy Act very broadly.
+
+     [discussion of cases involving distress for unpaid municipal taxes, incomplete seizures, and bids to cut off utilities].
+
+     This Court of course does not have to decide whether the conclusions of these judgments are correct, but in my opinion
+     the courts were right to give, expressly or by implication, a broad meaning to the stay of proceedings imposed by
+     s. 49(1) of the Bankruptcy Act. This broad meaning is confirmed by the fact that the legislator took the trouble to
+     exclude actions against either the creditor or his property.
+
+     As Houlden and Morawetz wrote in Bankruptcy Law of Canada, vol. 1, p. F-70.1, under s. 49 of the Bankruptcy Act:
+
+          An ordinary unsecured creditor with a claim provable in bankruptcy can only obtain payment of that claim
+          subject to and in accordance with the terms of the Bankruptcy Act. The procedure laid down by that Act
+          completely excludes any other remedy or procedure.
+
+     The Bankruptcy Act governs bankruptcy in all its aspects. It is therefore understandable that the legislator wished to
+     suspend all proceedings, administrative or judicial, so that all the objectives of the Act could be attained.
+
+     Accordingly, I consider that s. 49(1) of the Bankruptcy Act is sufficiently broad to include recovery by retention from
+     subsequent [unemployment-insurance] benefits, such as the recovery at issue here. [paras 21-31] [emphasis added]
+
+15   Recall as well that para 69(1)(a) refers to "any remedy" and "any . . . other proceedings", without any limitation to legal
+remedies or proceedings.
+
+16    Further examples of extrajudicial steps found to constitute "remedies" or "proceedings" include:
+
+     • setting off current payments (for coal deliveries) against pre-existing arrears: Quintette Coal Ltd v Nippon Steel Corp,
+     1990 CanLII 430 (BCCA), found to fall within the scope of a s 11 CCAA stay of "proceedings" (see paragraph beginning
+     "Quintette continued to make coal deliveries . . . " and paragraphs from that beginning with "It is evident from the above
+     that . . . " .. up to and including that beginning with "As Thackray, J. has not been shown to have erred . . . "]
+
+     • "sweeping [the debtor's] operating account and [capping] the amount available to [the debtor] [under a revolving credit
+     facility]: Heritage Flooring BIA Proposal (Re), 2004 NBQB 168 (para 82);
+
+     • distraining for unpaid rent: Ford Credit Canada Ltd v Crosbie Realty Ltd, 1992 CanLII 7132 (NLCA) (paras 21-26) and
+     Durham Sports Barn Inc (bankruptcy proposal), 2020 ONSC 5938 (42-49);
+
+     • registering a caveat as a prelude to enforcing a condominium levy: Condominium Plan No 78R15349 v Fayad, 2001
+     SKQB 104 (paras 23 and 24); and
+
+     • seeking an injunction to enforce continued business operations in leased premises: Golden Griddle Corp v Fort Erie
+     Truck & Travel Plaza Inc, 2005 CanLII 81263 (ONSC) (paras 11-15).
+
+17 The focus of such steps is collection or attempted collection of existing indebtedness i.e. "remedies" or "other proceedings"
+for the "recovery of claims provable in bankruptcy."
+
+18 By contrast, terminating an agreement was found to fall outside the scope of s. 69: Canadian Petcetera Limited Partnership
+v 2876 R Holdings Ltd, 2010 BCCA 469 (paras 20, 28 and 29). For the same (outside scope of s 69) treatment of contract
+termination, see also Hutchingame Growth Capital Corporation v Independent Electricity System Operator, 2020 ONCA 430
+(paras 32-26) (leave denied: 2021 CanLII 2823 (SCC)). Examples of the same treatment in a landlord-tenant context include
+
+
+
+                     Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.   5
+Blade Energy Services Corp (Re), 2024 ABKB 100, 2024 CarswellAlta 356
+2024 ABKB 100, 2024 CarswellAlta 356, [2024] 4 W.W.R. 660, [2024] A.W.L.D. 1195...
+
+Peel Housing Corp v Siewnarine, 2008 CanLII 31815 (ONSC DC) (paras 12-26) and BCIMC Realty Corporation v Fernandes,
+2021 CanLII 140640 (ON LTB) (determinations 1-7).
+
+19   The distinction with termination is the focus on ending the commercial relationship, not on recovery of outstanding arrears.
+
+20     I note that Conifer does not argue that the agreement in question has terminated, whether because of Razor's defaults
+or otherwise.
+
+21 Other "outside scope" examples noted in Canadian Petcetera are seeking Criminal Code compensation orders, pursuing
+a contempt order, or enforcing post-bankruptcy indebtedness (paras 30 and 31), all found not to involve claims provable in the
+insolvency proceeding. (I discuss the latter aspect later, with "post-bankruptcy" translated to "post-NOI".)
+
+C. Purpose of stay
+
+22     Golden Griddle (cited above) accurately describes the purpose of staying such remedies and proceedings in a proposal
+setting:
+
+     While I agree that the word "remedy" in section 69(1 )(a) should be given a broad interpretation, it must be a purposive
+     one that is in accord with the objectives of the BIA generally, and in particular, the specific purposes of the stay provisions
+     against secured and unsecured creditors, giving, in the words of E.B. Leonard and K.G. Marantz in their article, "Debt
+     restructuring under the Bankruptcy and Insolvency Act, June 1, 1995 - Stays of Proceedings, under the Bankruptcy and
+     Insolvency Act" (for the 1995 Insolvency Institute of Canada lectures), "a reorganizing debtor an opportunity to have
+     some 'breathing room' during which to negotiate with its creditors and hopefully put together a prospective financial
+     restructuring which would meet their requirements."
+
+     A purposive definition of the word "remedy" in section 69(1 )(a) would suggest that, remedies which in any way hinder
+     or could impair that process are caught within the section and are stayed. The issue should be approached contextually
+     on a case-by-case basis and the remedy sought should be considered in terms of its impact on the objectives of the statutory
+     stay provision. It is the impact rather than the generic nature of the relief sought which should govern. Therefore,
+     if the injunctive relief sought detrimentally affects or could impair the ability of the insolvent person to put forth
+     a proposal, it should be stayed, whereas, if the nature of the injunction sought would have no effect whatsoever on that
+     ability, it should not be stayed.
+
+     The nature of the injunctive relief sought here is to restrain the defendants from operating a restaurant other than a
+     Golden Griddle and a convenience store other than a Nicholby's, and to restrain the defendants from terminating the lease
+     arrangements. It is, in a sense, a mandatory injunction that is sought to continue to have the defendants operate
+     the outlets as a Golden Griddle restaurant and as a Nicholby's. To operate as a Golden Griddle restaurant requires
+     compliance by the defendants with the franchise agreement provisions such as meeting certain standards and operating
+     procedures, selling only approved products and services, purchasing food products and supplies from designated suppliers
+     and maintaining adequate inventory and adequately trained personnel.
+
+     To enforce such provisions during the proposal period, in my view, would be a remedy which would interfere with
+     the "breathing space" that section 69(1 )(a) was meant to create, and, could have implications for and could impair
+     the debtor's ability to restructure and put forth a proposal.
+
+     I, therefore find that the nature of the injunctive relief sought here is such that because of its potential impact on the
+     restructuring process it is caught by the wording of section 69(1)(a) and is, therefore, stayed. [paras 11-15] [emphasis
+     added]
+
+D. Nature of lockout per Conifer
+
+23    Conifer itself recognizes the remedial nature of its lockout step. Per the February 15, 2024 Affidavit of its deponent
+(Heather Wilkins - Conifer's VP Finance):
+
+
+                      Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.   6
+Blade Energy Services Corp (Re), 2024 ABKB 100, 2024 CarswellAlta 356
+2024 ABKB 100, 2024 CarswellAlta 356, [2024] 4 W.W.R. 660, [2024] A.W.L.D. 1195...
+
+
+     On or around December 23, 2023, after multiple attempts to get Razor to address its arrears, Conifer exercised its
+     rights under section 602(b)(ii) of the [Construction, Ownership and Operation Agreement], and stopped receiving and
+     processing Razor's gas by physically closing and locking valves at 16 separate points within the South Swan Hills Gas
+     Gathering System on the basis of close to $8 million in unpaid arrears. [para 8]
+
+     Conifer has not received any payments and no further enforcement steps were taken following the disconnecting of
+     services. [para 9]
+
+     Due to Razor's unwillingness to address its obligations, on or about November 2, 2023, conifer notified Razor that
+     Conifer would revoke Razor's privileges and disconnect services at the Judy Creek Gas Plant in seven days . . . if Razor
+     failed to remedy its arrears and bring its account into good standing. . . . [para 28]
+
+     . . . Conifer reiterated that it would disconnect Razor's Services within seven days if Razor did not implement a
+     monthly payment plan to bring its account into good standing. [para 31]
+
+     On December 20, 2023, Conifer wrote . . . to Razor that [a certain] proposal was not acceptable, and that Conifer would
+     follow through with Service Disconnection if Conifer did not receive at least $2.5 million to pay towards Razor's
+     arrears by December 22, 2023. . . . [para 34]
+
+     On December 29, 2023 . . . , Conifer completed the Fuel Disconnection. At that time, service to Razor's South Swan
+     Hills Unit assets was completely disconnected from the fuel supply at the Judy Creek Gas Plant with the exception
+     of one generator running for building heat and pipeline tracers to preserve infrastructure integrity. [para 42]
+
+     I confirm that Conifer has taken no further steps to enforce payment of Razor's arrears since the Fuel Disconnection
+     on December 29, 2023. [emphasis added]
+
+24 Conifer did not argue that its exercise of the described disconnection step, one its contractual rights under the agreement
+in question with Razor (and other parties), was not a "remedy" or "other proceeding" within the meaning of para 69(1)(a).
+
+25     Nor could it plausibly have done so, given the above-described breadth of the provision and the clearly acknowledged
+use of the lockout right to recover, or try to recover, Razor's arrears. Per Vachon, this was undoubtedly "[a] kind of attempt at
+recovery, judicial or extrajudicial" of amounts qualifying as a "provable claim in bankruptcy."
+
+26    By invoking the lockout provision of its agreement with Razor (and others), Conifer was attempting to extract payment
+from Razor of the approximately $8 million in arrears claimed by Conifer (not all of which are acknowledged by Razor) or
+some subset satisfactory to Conifer and accompanied by a satisfactory payment arrangement for the balance.
+
+27    As was acknowledged by Conifer's counsel in the bolded passages below:
+
+     . . . Conifer is preserving the status quo, which as of the date of Disconnection means no further Services will be provided
+     without the substantial past accounts being paid or satisfactory arrangements being reached.
+
+     The key question in determining this [legitimacy-of-disconnection] issue is whether or not Conifer already exercised its
+     rights prior to Razor filing its NOI. If it has, the issue is moot; Conifer cannot breach the stay for an action taken prior
+     to the existence of the Stay, which was only triggered by the filing of the NOI.
+
+     Conifer agrees that the Stay was created pursuant to section 69(1)(a) of the BIA; however, Razor's submissions fail to
+     acknowledge two key points: (1) the remedy, in this case the Disconnection and cessation of the Services, was exercised
+     on notice and prior to January 30, 2024 when Razor filed the NOI; and (2) the Disconnection was implemented to
+     prevent further costs from being incurred in the face of Razor's continued payment arrears. . . .
+
+
+
+
+                     Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.   7
+Blade Energy Services Corp (Re), 2024 ABKB 100, 2024 CarswellAlta 356
+2024 ABKB 100, 2024 CarswellAlta 356, [2024] 4 W.W.R. 660, [2024] A.W.L.D. 1195...
+
+
+     Conifer reasonably exercised its rights by ceasing to provide Services at a loss through implementing the Disconnection
+     when Razor failed to provide a viable plan to address its arrears. The Disconnection was not a continuing action as
+     characterized by Razor but rather a one-time permanent step taken in December 2023 resulting from the disconnection
+     at 16 separate points within the South Swan Hills Gas Gathering System. [Conifer brief, paras 12-15] [emphasis added]
+
+28 As seen here, Conifer is not arguing that its lockout step was not a remedy or other proceeding per para 69(1)(a), instead
+that the remedy was taken and completed before the NOI was filed and, having no ongoing effect, is thus beyond the reach of
+the NOI-triggered stay. (It also anchors the lockout in the anticipated avoidance of further losses, which I discuss later.)
+
+29    It is common ground that the lockout occurred, or at least began, before the NOI was filed.
+
+30     It is also common ground that the para 69(1)(a) stay does not have retroactive effect, in the sense of undoing completed
+steps. For instance, the stay did not reach back to undo Conifer's accomplished set-offs (pre-NOI) of amounts owing to Razor
+against the latter's debts to Conifer. Same if Conifer had obtained a judgment against Razor, obtained proceeds from execution,
+and applied them to Razor's debts. Or Conifer had otherwise taken and completed a collection step before the NOI was filed.
+
+31 It is also common ground, or at least cannot be disputed, that para 69(1)(a) captures, and stays, both the commencement
+and continuation of proceedings to recover provable claims. (Per Vachon, "remedies" and "other proceedings" are effectively
+synonymous, at least in the case of extrajudicial recovery steps i.e. the bar on commencing or continuing "other remedies" is
+equally a bar on commencing or continuing extrajudicial "remedies" generally.)
+
+32    Was the lockout here a completed remedy?
+
+E. Lockout a continuing remedy
+
+33    The answer is no: it was an ongoing (i.e. continuing) remedy.
+
+34     Despite Conifer's characterization of the lockout as a "one-time permanent step", it was anything but. Per Conifer's
+counsel's February 6, 2024 letter to Razor:
+
+     Should Razor desire access to the Judy Creek Facility, Razor must make acceptable provisions to address its arrears
+     and provide pre-payment for all costs associated with obtaining access to the facility, fuel gas and processing costs
+     going forward. We have been advised by Conifer that should an acceptable arrangement be met, . . . it would take
+     approximately 3 business days for its to reinstate production for Razor. [emphasis added]
+
+35    That paragraph reflects the true nature of the lockout: a reversible step designed to stay in place until Razor cleared or
+otherwise addressed its pre-NOI debt to Conifer's satisfaction.
+
+36 It was the very ongoing effect of the lockout - daily preventing Razor from producing from the field(s) in question - that
+constituted Conifer's (contractually-permitted) leverage here.
+
+37    This was not a completed step i.e. a former remedy no longer providing leverage or pressure to pay.
+
+38    It was a continuing step, creating ongoing leverage and resulting in or contributing to Razor's decision to pursue a BIA
+proposal, starting with filing a NOI and triggering the para 69(1)(a) stay of proceedings.
+
+39      How can the lockout fairly be regarded as a completed remedy, having no ongoing effect, when its express purpose
+- clearance of Razor's arrears or at least some portion (with a satisfactory payment arrangement for the balance) - was not
+achieved to any degree? And when (per the quoted letter) Conifer stood ready to reverse the lockout i.e. following a hoped-
+for clearance of Razor's arrears or a subset with a satisfactory payment arrangement for the balance? And until that happened,
+Conifer continued the lockout?
+
+
+
+
+                     Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.   8
+Blade Energy Services Corp (Re), 2024 ABKB 100, 2024 CarswellAlta 356
+2024 ABKB 100, 2024 CarswellAlta 356, [2024] 4 W.W.R. 660, [2024] A.W.L.D. 1195...
+
+
+40 The lockout is functionally equivalent to a judgment creditor seizing and removing the judgment debtor's key equipment
+and advising that will restore the equipment if the judgment debt is cleared in full or satisfactory payment arrangements are made.
+
+41     The common feature is a creditor step interrupting the debtor's business operations, designed to pressure the debtor to
+clear or arrange to clear the debt.
+
+42 In both cases the genesis of the pressure is a legal right i.e. a contractual right in the first case and a judgment-enforcement
+right in the second.
+
+43    The question is not whether the creditor has the given right or whether it was appropriate to exercise it.
+
+44     It is whether the remedy pursued was completed (in which case the stay does not reach it) versus being an ongoing step
+(in which case it does), with the BIA aiming to quell such creditor actions pending (at minimum) preparation and circulation
+of a proposal.
+
+45    I return to this point after examining two other arguments from Conifer defending its lockout step.
+
+F. Continuing lockout not a permissible status quo
+
+46    Conifer argued that continuing the lockout after post-NOI simply maintained the pre-NOI status quo.
+
+47      But that ignores para 69(1)(a)'s bar on commencing or continuing debt-collection steps. Given that bar, an in-progress
+collection action cannot be the status quo to be preserved. Otherwise, the only question would be whether the collection action
+had started pre-NOI. If that were right, any already-started collection action would be permitted to continue e.g. an ongoing
+effort to seize the debtor's property via writ, an in-progress auction to sell seized property, a garnishment continuing to attach
+a periodic receivable, and so on.
+
+48     But (as explained earlier) para 69(1)(a) shuts down in-progress collection actions, leaving no room for preservation of
+a "continuing action status quo."
+
+49     For an example of status-quo-maintaining step not breaching a BIA stay, see BNS v Avramenko, 2020 SKQB 54 (Elson
+J.), where an unsecured creditor sought to renew its judgment despite the bankruptcy of the debtor:
+
+     I am compelled to add, perhaps in obiter, that I would have granted the renewal [of the unsecured creditor's judgment under
+     SKQB rules], even if the trustee had not been discharged. In my view, and construing s. 69.3(1) purposively, the stay of
+     proceedings does not apply to steps a judgment creditor takes to preserve a position it already enjoys. As much as
+     s. 7.1 of The Limitations Act and Rule 10-12 contemplate active steps by commencing a proceeding on the judgment, the
+     reality is that these are steps to preserve a judgment. They are neither new proceedings nor are they steps to execute
+     on the judgment. To conclude otherwise would be to force a judgment creditor to stand aside while its judgment expires
+     through circumstances that may well be beyond its control. [para 17] [bold emphasis added]
+
+50    The renewal step so authorized allowed the judgment creditor to continue as such; it did not extend to enforcing the
+judgment, which would have offended the stay.
+
+51   Conifer did not point to this kind of status-quo-maintaining step here, only to its ongoing collection action via the lockout.
+
+G. Conifer not a secured creditor in this context
+
+52     At the application, Conifer's counsel argued that Conifer is a secured creditor of Razor, pointing to a lien and charge
+provision (s 602(a)) in the operating agreement.
+
+
+
+
+                      Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.   9
+Blade Energy Services Corp (Re), 2024 ABKB 100, 2024 CarswellAlta 356
+2024 ABKB 100, 2024 CarswellAlta 356, [2024] 4 W.W.R. 660, [2024] A.W.L.D. 1195...
+
+
+53 Per that provision, Conifer indeed has a lien and charge "with respect to the Functional Unit Participation of each Owner
+in the Facility and such Owner's share of Facility Products, to secure payment of such Owner's proportionate share of the costs
+and expenses incurred by the Operator for the Joint Account."
+
+54     "Functional Unit Participation" means "with respect to any Functional Unit, the percentage interest ownership of
+each Owner in such Functional Unit as set forth opposite such Owner's name under the Appendix entitled "FACILITY AND
+FUNCTIONAL UNIT PARTICIPATION"[.]
+
+55     "Functional Unit" means a separate component of the Facility described under the Appendix entitled "DESCRIPTION
+OF FACILITY AND FUNCTIONAL UNITS AND SCHEMATIC", and all real and personal property of every nature and kind
+attached to, forming part of or used in connection with the operation thereof"[.]
+
+56 "Facility" means "all real and personal property of every nature and kind attached to, forming part of or use in connection
+with Joint Operations, maintained and held by Operator in accordance with this Agreement and as described under the Appendix
+entitled "DESCRIPTION OF FACILITY AND FUNCTIONAL UNITS AND SCHEMATIC"[.]
+
+57    The lien and charge, focused on Razor's ownership stake in the described oil and gas assets, is not the root of Conifer's
+lockout right. The latter arises under a separate provision (s 602(b)(ii)) and focuses on denial of one of Razor's "privileges"
+under the operating agreement.
+
+58    In any case, Conifer did not argue that its lockout right arises from or is otherwise a feature of the lien and charge.
+
+H. No difference if Conifer secured
+
+59 Instead, Conifer appeared to argue that its status as a secured creditor (arising from the lien and charge) conferred general
+immunity from the stay i.e. even if the lockout right is not security-based itself.
+
+60 However, the stay analysis would remain the same, whether Conifer is a secured creditor "at large" or even if the lockout
+right itself should be characterized as or stemming from security.
+
+61    Paragraph 69(1)(a) applies to "creditor[s]" generally, whether secured, preferred, or unsecured.
+
+62     Subsection 69(2) contains an exception to the stay in para 69(1)(a) for secured creditors; however, it is limited to the
+following circumstances:
+
+     (2) The stays provided by subsection (1) do not apply
+
+          (a) to prevent a secured creditor who took possession of secured assets of the insolvent person for the purpose of
+          realization before the notice of intention under section 50.4 was filed from dealing with those assets;
+
+          (b) to prevent a secured creditor who gave notice of intention under subsection 244(1) to enforce that creditor's
+          security against the insolvent person more than ten days before the notice of intention under section 50.4 was filed,
+          from enforcing that security, unless the secured creditor consents to the stay; [or]
+
+          (c) to prevent a secured creditor who gave notice of intention under subsection 244(1) to enforce that creditor's security
+          from enforcing the security if the insolvent person has, under subsection 244(2), consented to the enforcement action[.]
+
+63      Conifer did not "[take] possession of secured assets of [Razor]" here or, if it did, did not do so "for the purpose of
+realization" of such assets. Conifer was exercising its lockout right, not attempting to somehow dispose of that right to others
+for proceeds.
+
+64     Neither did Conifer issue a prescribed form notice under ss 244(1) BIA. (See BIA General Rule 124 and Form 88 for
+the prescribed form.)
+
+
+                     Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.   10
+Blade Energy Services Corp (Re), 2024 ABKB 100, 2024 CarswellAlta 356
+2024 ABKB 100, 2024 CarswellAlta 356, [2024] 4 W.W.R. 660, [2024] A.W.L.D. 1195...
+
+
+65     Accordingly, even if characterized as a secured creditor for the purposes of para 69(1)(a), Conifer still falls within its
+scope, with no ss 69(2) or other secured-creditor exception applying.
+
+I. Conclusion on stay and lockout
+
+66     For these reasons, I find that the lockout step was a continuing remedy or "other proceeding", that it accordingly fell
+within the scope of the para 69(1)(a) stay, that continuing that remedy was not a defensible status quo, and that Conifer's actual
+or possible secured-creditor status makes no difference here.
+
+67 The net result is that Conifer's lockout step, commenced before the NOI stay began, was a continuing collection remedy
+and was thus stayed when the NOI was filed.
+
+68    Conifer's continuation of the lockout since then has been in breach of the stay.
+
+69    The question becomes: what can and should be done in response?
+
+J. Parties' positions on appropriate response
+
+70    Per Razor:
+
+     . . . the appropriate relief , in the circumstances is to cure the breach of the Stay by ordering Conifer to: (i) permit Razor . . .
+     to access the Judy Creek Gas Plant; and (ii) resume providing Services on terms that include Conifer continuing its
+     practice of marketing [Razor's] production, setting off the revenue against post-filing amounts, and calling upon $200,000
+     security if there is a shortfall [as particularized in Razor's counsel's February 1, 2024 letter]
+
+71    Per Conifer (making alternative submissions i.e. "if Conifer must supply"):
+
+     If this Court holds that Razor's rights under the Ownership Agreement compel Conifer to continue processing and selling
+     their products, then Razor must pay for those Services up front and in advance. The BIA is clear that a party providing
+     post-filing services may require immediate payment for those services and that service providers are not required to
+     advance further money or credit. Specifically, section 65.4(1) states:
+
+          . . . Nothing in subsections (1) to (3) shall be construed
+
+               (a) as prohibiting a person from requiring immediate payment for goods, services, use of leased or licensed
+               property or other valuable consideration provided after the filing of
+
+                     (i) the notice of intention, if one was filed . . . or
+
+               (b) as requiring the further advance of money or credit . . . .
+
+     . . . Forcing Conifer to provide the Services without guaranteeing payment up front is equivalent to forcing Conifer to
+     provide the Services on credit, a requirement that is expressly prohibited under [para] 65.1(4)(b).
+
+     As Razor is seeking a declaration [that the stay applies], which is an equitable remedy, this Court must consider the equities
+     of both parties. [bold emphasis added]
+
+72     Conifer also seeks a "critical suppliers" charge and repayment of some "cure costs" (i.e. some of the pre-NOI arrears,
+as detailed in paras 29-42 of its brief.
+
+K. Remedies for stay breach
+
+1. Court's power to remedy breach of stay
+
+
+
+
+                      Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.   11
+Blade Energy Services Corp (Re), 2024 ABKB 100, 2024 CarswellAlta 356
+2024 ABKB 100, 2024 CarswellAlta 356, [2024] 4 W.W.R. 660, [2024] A.W.L.D. 1195...
+
+
+73    The BIA does not expressly endow the Court with powers to remedy a stay breach.
+
+74     However, many examples exist of courts granting orders undoing or reversing a stay-breaching action or pulling the
+proceeds of such actions into the proposal or bankruptcy estate (as applicable): see the cases summarized in 5:289 - Proceedings
+Taken Without Leave in Bankruptcy and Insolvency Law of Canada, 4 th Edition (online edition), which feature remedial orders
+such as reversing a property seizure, barring further proceeding in offside actions, and turning over garnishment recoveries,
+
+75 I find that para 69(1)(a) implies a power for the Court to grant such orders i.e. to enforce the stay and, as much as possible,
+restore the parties to their pre-breach position.
+
+2. Remedy appropriate here
+
+76    In this case, the stay breach did not generate any proceeds.
+
+77 The clear remedy for the breach here - continuing an arrears-collection lockout in the face of the stay - is an order directing
+Conifer to discontinue the lockout i.e. restoring the system connections Razor had before the lockout.
+
+78      Given Conifer's estimate of "approximately 3 business days" to reconnect Razor, I direct Conifer to perform the
+reconnection work by 6 pm on Friday, February 23, 2024 or such other deadline as the parties may agree on.
+
+3. Payment terms for future services
+
+79     The other relief suggested by the parties (alternatively, in Conifer's case) goes to the terms on which future services are
+to be provided by Conifer.
+
+80     As noted, Razor suggested continuation of the pre-lockout set-off arrangement or situation, bolstered by a $200,000
+deposit. Conifer argued in favour of immediate payments, a critical-supplier charge, and payments towards arrears.
+
+81    I do not see any role for the Court when it comes to the parties' going-forward arrangements.
+
+82 Paragraph 69(1)(a) focuses on shutting down collection steps on pre-NOI arrears, as reflected in the above order reversing
+the lockout.
+
+83    It says nothing about the terms on which services must, should or may be provided going forward.
+
+4. Section 65.1 inapplicable
+
+84 As noted, Conifer invokes s. 65.1. However, that section does not apply here. Per ss 65.1(1), it only applies where a person
+"terminate[s] or amend[s] any agreement . . . with the insolvent person, or claim[s] an accelerated payment, or a forfeiture
+of the term, under any agreement . . . with the insolvent person", limiting the moving party's rights to take any such steps in
+certain circumstances.
+
+85    In invoking its lockout right, Conifer did not engage in any of the noted activities.
+
+86    As a result, nothing in s. 65.1 applies here.
+
+87 That includes ss. 65.1(4) (quoted above). The purpose of that provision is to shelter a creditor's immediate-payment right
+(if it exists) from limitations imposed by one or more of ss. 65.1(1), (2) and (3). As noted, ss. 65.1(1) does not apply here. And
+neither does ss. 65.1(2) (leases and licensing agreements) or 65.1(3) (public utilities).
+
+88     If (for example) we were dealing with a public utility, and the utility had the right under its contract with its customer
+to require immediate payment (versus extending credit) for services provided, ss. 65.1(4) tells us that that right survives the
+imposition of no-discontinuance-for-arrears limitation imposed under ss. 65.1(3).
+
+
+
+                     Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.   12
+Blade Energy Services Corp (Re), 2024 ABKB 100, 2024 CarswellAlta 356
+2024 ABKB 100, 2024 CarswellAlta 356, [2024] 4 W.W.R. 660, [2024] A.W.L.D. 1195...
+
+
+89     In other words, while the utility cannot discontinue service for arrears, it can rely on its immediate-payment-required
+term for ongoing utility services.
+
+90    In yet other words, ss. 65.1(4) does not create a freestanding right in a creditor to insist on immediate payment post-NOI.
+
+91    It depends on whether the creditor has that right under its contract with the debtor.
+
+92     I cannot tell from the materials filed whether Conifer has the right to require immediate payment for future services,
+whether under the Accounting Procedure described in s 902 of the Ownership and Operation Agreement, Article VI of the
+Operating Procedure (Accounting Measures), or otherwise.
+
+5. Conifer's enforcement rights not stayed re debts for future services
+
+93 The critical point here is that Conifer's use and enforcement of its timing-of-payment and enforcement-of-payment rights,
+relating to future services, are not subject to the para 69(1)(a) stay.
+
+94    The reason is simple: the NOI filing created two distinct eras, the period leading up to the filing and the period after.
+Claims existing in the first era are subject to the stay; claims arising in the second are not.
+
+95    Here see Canadian Petcetera Limited Partnership (cited above):
+
+     [An earlier-described] interpretation of s. 69(1) is also demonstrated by the jurisprudence dealing with new indebtedness
+     incurred by a debtor after he or she has gone bankrupt. It has been held that leave is not necessary for a creditor to have
+     a remedy against the debtor because the new indebtedness is not a claim provable in the bankruptcy. (See Richardson
+     & Co. v. Storey (1941), 1941 CanLII 334 (ON SC), 23 C.B.R. 145, [1942] 1 D.L.R. 182(Ont. S.C.); Re Bolf (1945), 26
+     C.B.R. 149(Que. S.C.); Venneri v. Bomasuit (1950), 31 C.B.R. 150(Ont. S.C.); and Greenfield Park Lumber & Builders'
+     Supplies Ltd. v. Zikman (1967), 12 C.B.R. (N.S.) 115(Que. S.C.). Also see Wescraft Manufacturing Co. (Re) (1994), 1994
+     CanLII 2883 (BC SC), 27 C.B.R. (3d) 28(B.C.S.C.), which appears to have held, correctly in my view, that s. 69.1(1) (the
+     stay provision triggered upon the filing of a proposal) did not stay the termination of a lease on account of arrears
+     of rent due after the filing of a proposal . . . .[para 31] [emphasis added]
+
+96    And Schendel Mechanical Contracting (Re) 2021 ABQB 893 (Mah J.):
+
+     . . . it is known that Hatch supplied goods to various Schendel projects during the post-NOI period to the tune of
+     $34,476.75. Hatch advised the Receiver of which specific invoices to which the $40,000 was applied. That information
+     was not provided to the Court. It is known that apart from those specific invoices, there was a balance that was applied to
+     indebtedness on the Paul Band School project, where one invoice related to the post-NOI period.
+
+     The stay would not apply in respect of indebtedness arising from goods and services supplied to Schendel after the
+     date of filing the NOI as such indebtedness would not be "a claim provable in bankruptcy" per section 69(1): Wosk's
+     Ltd Re, 1985 CanLII 624 (BC SC), 1985 Carswell BC 807 (SC), 58 CBR 312; 728835 Ontario Ltd., Re, 1998 CanLII 2019
+     (ON CA), 1998 CarswellOnt 2576, 3 C.B.R. (4th) 214.; and Jones, Re, 2003 CanLII 21196 (ON CA), 2003 CarswellOnt
+     3184, 2003 CarswellOnt 3184, [2003] O.J. No. 3258. [paras 25 and 26] [emphasis added]
+
+97 Accordingly, when it comes to future services, Conifer and Razor have the same rights and liabilities under their agreements
+as before i.e. without any limitations arising from or otherwise affected by the stay of proceedings.
+
+98 It may be that Conifer will choose to proceed on the basis suggested by Razor (setoffs accompanied by deposit). Conifer
+might choose to rely on other payment-enforcement rights it has under the agreements i.e. as they may be triggered by Razor's
+payment performance or non-performance. The parties may end up agreeing to new or varied payment arrangements.
+
+99    It is not the Court's role, in a stay-enforcement context, to get involved in those going-forward business decisions.
+
+
+
+                     Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.   13
+Blade Energy Services Corp (Re), 2024 ABKB 100, 2024 CarswellAlta 356
+2024 ABKB 100, 2024 CarswellAlta 356, [2024] 4 W.W.R. 660, [2024] A.W.L.D. 1195...
+
+
+6. Critical-supplier charge and "cure" payments
+
+100     While Conifer requested a critical-supplier charge, it did not apply for such relief. I recognize that the application heard
+last Friday (February 16 th ) was brought forward with very tight timing and that Conifer was already dealing with accelerated
+timelines.
+
+101 I simply note that I did not have the benefit of any written submissions from Razor on the critical-supplier aspect, with
+none required i.e. with no application for such cross-relief.
+
+102     As well, I am not convinced that every gap or difference between the BIA (which does not provide for critical-supplier
+charges, at least expressly) and the CCAA (which does) is necessarily answered by filling in the gap i.e. by finding that a feature
+or aspect in one is necessarily to be read into the other. I would (ideally) have more fulsome submissions from each side on
+this point before considering such a charge further.
+
+103      Same for Conifer's request for payment of a portion of Razor's pre-NOI arrears. This is at odds with the equality-
+of-unsecured-creditors approach under the BIA. It too would benefit from an application and more fulsome submissions from
+both sides.
+
+104 If Conifer continues to seek either or both forms of relief, I invite its counsel to so advise, following which I will provide
+procedural directions for a follow-up application (with which I am seizing myself), on accelerated timelines, if necessary.
+
+7. Lockout to avoid anticipated future arrears
+
+105      As noted, Conifer attempted to explain its lockout decision in part by a wish to avoid or pre-empt anticipated future
+arrears. Per its brief (para 14):
+
+      . . . the Discontinuance was [also] implemented to prevent further costs from being incurred in the face of Razor's continued
+      payment arrears. [I added "also" given the clear evidence, recited earlier, that Conifer was also seeking, via the lockout,
+      to enforce collection of all or at least some of the pre-NOI arrears.]
+
+106    I do not see anything in the agreements here authorizing a lockout for anticipated arrears, even with Razor's arrears history.
+
+107     As explained above, the parties are effectively back to square one when it comes to future services. If Razor allows
+new arrears to accrue, it faces the prospect of Conifer taking any, some or all of the enforcement steps available to it under the
+agreements, without any impediment from the para. 69(1)(a) stay.
+
+108     Absent further defaults, I do not see Conifer having any lockout power.
+
+V. Closing note
+
+109     I thank the parties for their excellent written materials and oral submissions.
+
+110     On costs, if either side seeks a ruling other than "bear own costs", on which Goldenkey Oil Inc (Re), 2023 ABKB
+365 may provide some guidance, I invite counsel to contact my assistant to arrange for a phone conference to discuss and set
+procedural directions for costs submissions.
+                                                                                                        Order accordingly.
+
+
+
+End of Document             Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.
+
+
+
+
+                      Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.   14
+               Tab 2
+
+
+
+
+120830048 v1
+Razor Energy Corp (Re), 2024 ABKB 553, 2024 CarswellAlta 2385
+2024 ABKB 553, 2024 CarswellAlta 2385, [2024] A.W.L.D. 4242
+
+
+
+                                                            2024 ABKB 553
+                                                      Alberta Court of King's Bench
+
+                                                          Razor Energy Corp (Re)
+
+                               2024 CarswellAlta 2385, 2024 ABKB 553, [2024] A.W.L.D. 4242
+
+  In the Matter of the Companies' Creditors Arrangement Act, R.S.C. 1985, c. C-36, as amended
+                            And In the Matter of the Plan of Compromise or Arrangement of Razor
+                           Energy Corp, Razor Holdings GP Corp, and Blade Energy Services Corp
+
+                                                              Douglas R. Mah J.
+
+                                                        Heard: September 11, 2024
+                                                      Judgment: September 19, 2024
+                                                       Docket: Calgary 2401-02680
+
+Counsel: Keely Cameron, Sarah Aaron, for Applicant, Conifer Energy
+Sean Collins, for Razor Energy Corp, Razor Royalties Limited Partnership, Razor Holdings GP Corp., and Blade Energy
+Services Corp.
+Kelly J. Bourassa, for Monitor, FTI Consulting Canada Inc.
+Jessica Cameron, for 405 Dolomite ULC, as agent to certain lenders (Arena Investors LP)
+Randal Van de Mosselaer, for Canadian Natural Resources Limited
+Corey Luda, for Vulcan County
+Michael Swanberg, for Big Lakes County and Municipal District of Greenvew
+Stacey McPeak, for Alberta Petroleum Marketing Commission
+Philip LaFair, for Sabre Energy Ltd.
+Daniel Segal — Justice Canada
+Marianne Panenka, for Indian Oil and Gas Canada
+Kristopher Lensink — Government of Alberta, Alberta Energy and Mineral Energy Legal Team
+
+Subject: Insolvency
+Related Abridgment Classifications
+Bankruptcy and insolvency
+XIX Companies' Creditors Arrangement Act
+   XIX.7 Miscellaneous
+Headnote
+Bankruptcy and insolvency --- Companies' Creditors Arrangement Act — Miscellaneous
+Creditor and debtor co-owned gas plant along with other parties — Debtor defaulted in its obligations to pay its share of plant's
+operating costs — Creditor partially locked debtor out of plant and they could not agree on terms by which debtor could return —
+Debtor declared bankruptcy and was granted stay under s. 11.02 of Companies' Creditors Arrangement Act — Debtor continued
+to owe creditor and debt was escalating monthly — Debtor advised court that corporate transaction was underway with third-
+party purchaser which would result in creditor being paid post-filing arrears in full — Creditor brought application for payment
+of post-filing obligations and priming charge to secure payment — Application dismissed — Allowing creditor's application
+would cause corporate transaction to collapse — Granting application would not have provided conditions under which debtor
+could execute corporate transaction but rather would hasten its bankruptcy or receivership — Creditor would be given unfair
+advantage by authorizing preferential payment and/or artificially elevating its priority position — Granting application would
+not provide constructive solution to any stakeholders other than creditor — If granted, creditor's application would permit
+interests of single post-filing creditor to determine fate of entire proceedings under Act to detriment of remaining stakeholders.
+
+
+
+                     Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.   1
+Razor Energy Corp (Re), 2024 ABKB 553, 2024 CarswellAlta 2385
+2024 ABKB 553, 2024 CarswellAlta 2385, [2024] A.W.L.D. 4242
+
+Table of Authorities
+Cases considered by Douglas R. Mah J.:
+     Agro Pacific Industries Ltd., Re (2000), 2000 BCSC 879, 2000 CarswellBC 1180, 76 B.C.L.R. (3d) 376, 5 B.L.R. (3d)
+     176, 18 C.B.R. (4th) 1, [2000] B.C.T.C. 332 (B.C. S.C.) — referred to
+     Allarco Entertainment Inc., Re (2009), 2009 ABQB 503, 2009 CarswellAlta 1458, 12 Alta. L.R. (5th) 341, 58 C.B.R. (5th)
+     140, [2010] 4 W.W.R. 299, 483 A.R. 53 (Alta. Q.B.) — referred to
+     Arrangement relatif à Gestion Éric Savard inc. (2019), 2019 QCCA 1434, 2019 CarswellQue 7641 (C.A. Que.) — referred
+     to
+     Blade Energy Services Corp (Re) (2024), 2024 ABKB 100, 2024 CarswellAlta 356, [2024] 4 W.W.R. 660, 11 C.B.R. (7th)
+     319, 68 Alta. L.R. (7th) 321 (Alta. K.B.) — referred to
+     Cansearch Resources Ltd v. Regent Resources Ltd (2017), 2017 ABQB 535, 2017 CarswellAlta 1601, 52 C.B.R. (6th) 114,
+    60 Alta. L.R. (6th) 373, 7 P.P.S.A.C. (4th) 278 (Alta. Q.B.) — referred to
+     Ernst & Young Inc. v. Essar Global Fund Limited (2017), 2017 ONCA 1014, 2017 CarswellOnt 20162, 54 C.B.R. (6th)
+     173, 139 O.R. (3d) 1, 420 D.L.R. (4th) 23, 76 B.L.R. (5th) 171 (Ont. C.A.) — considered
+     Essar Steel Algoma Inc., Re (2016), 2016 ONSC 6459, 2016 CarswellOnt 16408, 41 C.B.R. (6th) 298 (Ont. S.C.J.
+     [Commercial List]) — referred to
+     General Motors Corp. v. Peco Inc. (2006), 2006 CarswellOnt 987, 15 B.L.R. (4th) 282, 19 C.B.R. (5th) 224 (Ont. S.C.J.)
+     — referred to
+     Indalex Ltd., Re (2013), 2013 SCC 6, 2013 CarswellOnt 733, 2013 CarswellOnt 734, D.T.E. 2013T-97, 96 C.B.R. (5th)
+     171, 354 D.L.R. (4th) 581, 20 P.P.S.A.C. (3d) 1, 439 N.R. 235, 301 O.A.C. 1, 8 B.L.R. (5th) 1, (sub nom. Sun Indalex
+     Finance LLC v. United Steelworkers) [2013] 1 S.C.R. 271, 2 C.C.P.B. (2nd) 1 (S.C.C.) — referred to
+     Royal Bank v. Cow Harbour Construction Ltd. (2012), 2012 ABQB 59, 2012 CarswellAlta 198, 75 C.B.R. (5th) 99, 59
+     Alta. L.R. (5th) 215, 19 P.P.S.A.C. (3d) 31, [2012] 8 W.W.R. 209, 98 B.L.R. (4th) 236, (sub nom. Royal Bank of Canada
+     v. Cow Harbour Construction Ltd.) 529 A.R. 147 (Alta. Q.B.) — considered
+     Smith Brothers Contracting Ltd., Re (1998), 1998 CarswellBC 678, 53 B.C.L.R. (3d) 264, 13 P.P.S.A.C. (2d) 316 (B.C.
+    S.C.) — considered
+    Smoky River Coal Ltd., Re (2000), 2000 CarswellAlta 830, [2000] 10 W.W.R. 147, 83 Alta. L.R. (3d) 127, 19 C.B.R. (4th)
+     281, 2000 ABQB 621, 297 A.R. 1 (Alta. Q.B.) — referred to
+     Smoky River Coal Ltd., Re (2001), 2001 ABCA 209, 2001 CarswellAlta 1035, [2001] 10 W.W.R. 204, 205 D.L.R. (4th)
+     94, 28 C.B.R. (4th) 127, 95 Alta. L.R. (3d) 1, 299 A.R. 125, 266 W.A.C. 125 (Alta. C.A.) — referred to
+     Ted Leroy Trucking Ltd., Re (2010), 2010 SCC 60, 2010 CarswellBC 3419, 2010 CarswellBC 3420, 12 B.C.L.R. (5th)
+     1, (sub nom. Century Services Inc. v. A.G. of Canada) 2011 D.T.C. 5006 (Eng.), (sub nom. Century Services Inc. v. A.G.
+     of Canada) 2011 G.T.C. 2006 (Eng.), [2011] 2 W.W.R. 383, 72 C.B.R. (5th) 170, 409 N.R. 201, (sub nom. Ted LeRoy
+     Trucking Ltd., Re) 326 D.L.R. (4th) 577, (sub nom. Century Services Inc. v. Canada (A.G.)) [2010] 3 S.C.R. 379, [2010]
+     G.S.T.C. 186, (sub nom. Leroy (Ted) Trucking Ltd., Re) 296 B.C.A.C. 1, (sub nom. Leroy (Ted) Trucking Ltd., Re) 503
+     W.A.C. 1, 2010 CSC 60 (S.C.C.) — considered
+     9354-9186 Québec inc. v. Callidus Capital Corp. (2020), 2020 SCC 10, 2020 CSC 10, 2020 CarswellQue 3772, 2020
+     CarswellQue 3773, 78 C.B.R. (6th) 1, 444 D.L.R. (4th) 373, 1 B.L.R. (6th) 1, [2020] 1 S.C.R. 521 (S.C.C.) — referred to
+Statutes considered:
+Companies' Creditors Arrangement Act, R.S.C. 1985, c. C-36
+     Generally — referred to
+
+    s. 11 — considered
+
+    s. 11.01 [en. 2005, c. 47, s. 128] — considered
+
+    s. 11.02 [en. 2005, c. 47, s. 128] — considered
+
+    s. 11.4 [en. 1997, c. 12, s. 124] — considered
+Bankruptcy and Insolvency Act, R.S.C. 1985, c. B-3
+
+
+
+                    Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.   2
+Razor Energy Corp (Re), 2024 ABKB 553, 2024 CarswellAlta 2385
+2024 ABKB 553, 2024 CarswellAlta 2385, [2024] A.W.L.D. 4242
+
+    s. 69(1)(a) — referred to
+
+APPLICATION by creditor for payment of post-filing obligations and priming charge to secure payment.
+
+Douglas R. Mah J.:
+
+Reasons for Decision
+
+A. Background
+
+1    Within the ambit of CCAA 1 proceedings, a creditor (Conifer Energy Inc) of the debtor corporation (Razor Energy Corp)
+seeks an Order under s 11 for payment of post-filing obligations and a priming charge to secure that payment.
+
+2   Here is a brief factual synopsis:
+
+    • Razor and Conifer are oil and gas producers. Conifer operates the Judy Creek Gas Conservation Plant where Conifer,
+    under an ownership and operating agreement (OOA) with Razor, received and processed a major portion of Razor's gas
+    production.
+
+    • Razor and Conifer, along with others, are owners of the gas plant. The OOA requires Razor to pay its share of the plant's
+    operating costs and to pay for ongoing processing services in respect of its gas processed there. There are 8 other owners
+    who have ownership interests in the functional units comprising the facility.
+
+    • In December 2023, after Razor defaulted in its obligations under the OOA, Conifer physically locked Razor out of the
+    gathering system at 16 separate points within the South Swan Hills Gas Gathering System, thus preventing processing of
+    about two-thirds of Razor's gas.
+
+    • Conifer was unable to completely lock out Razor because the configuration of the infrastructure did not allow Conifer to
+    do so without adversely affecting third-party interests. Conifer set-off and continues to set-off the revenue from the one-
+    third of Razor's gas that continues to be processed against Razor's obligations.
+
+    • Razor filed a Notice of Intention to Make a Proposal (NOI) under the BIA 2 in January 2024, thus invoking the statutory
+    stay provided in s 69(1)(a) of the BIA.
+
+    • Justice Lema in a February 21, 2024 decision reported as Blade Energy Services Corp (Re), 2024 ABKB 100 determined
+    that Conifer's lockout action was contrary to the statutory stay so far as any pre-NOI amounts were concerned, but not
+    any post-NOI amount owing. He determined that Conifer continues to enjoy any contractual remedies it may have with
+    regard to unpaid post-NOI obligations.
+
+    • Following Justice Lema's decision, Conifer and Razor were unable to reach terms by which Razor could revert to full
+    access to the plant. Razor had determined that it could continue to carry on business even without access to the Judy Creek
+    plant. Thus, the lockout of the two-thirds of Razor's output continues and the set-off by Conifer of the revenue from the
+    remaining one-third also continues.
+
+    • On February 28, 2024 Razor converted its NOI proceedings into a CCAA proceeding, engaging a new stay under s 11.02.
+    There have been extensions applied for and granted. The current stay period expires on October 13, 2024. The amounts
+    sought to be paid (or secured) relate to the period on and after February 28, 2024 or the "post-filing" period.
+
+    • Razor advises that its plan in the CCAA proceedings takes the form of a pending "Corporate Transaction" with a third-
+    party purchaser which, according to Razor's affiant (Mr. Bailey, affidavit of September 6, 2024 at para 6), will come
+    together on or about September 20, 2024 and will result in Conifer being paid the post-filing arrears in full. For reasons of
+    commercial confidentiality, the details of the Corporate Transaction have not been disclosed.
+
+
+
+
+                     Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.   3
+Razor Energy Corp (Re), 2024 ABKB 553, 2024 CarswellAlta 2385
+2024 ABKB 553, 2024 CarswellAlta 2385, [2024] A.W.L.D. 4242
+
+
+    • It is Conifer's surmise (affidavit of Ms. Wilkins affirmed September 3, 2024 at para 16) that Razor's interest in the Judy
+    Creek gas plant and South Swan Hills Unit form part of the assets under sale in the Corporate Transaction.
+
+    • Razor continues to not pay Conifer under the OOA. Razor says it is insolvent and unable to do so. Conifer says that Razor
+    is getting a "free ride" with respect to the one-third of gas output that continues to be processed at the Judy Creek plant and
+    with regard to its ownership obligations. Furthermore, Conifer advises that Razor's obligations to another owner, CNRL,
+    are now being allocated by CNRL to Conifer, thus jeopardizing Conifer's financial status.
+
+    • The amount owed to Conifer by Razor for the post-filing period as of September 2, 2024 for services is $1.89 million,
+    including Razor's share of the plant's operating costs. The debt is escalating at a rate of $250,000 per month after set-off.
+    The amount reallocated by CNRL to Conifer in respect of Razor is more than $4.15 million which includes approximately
+    $360,000 for post-filing amounts charged by CNRL.
+
+B. Principles underlying the CCAA
+
+3    The Supreme Court of Canada in Century Services Inc v Canada (Attorney General), 2010 SCC 60, by its majority at
+paras 57-60, set out the foundational precepts of decision-making under the CCAA:
+
+    • The CCAA is "skeletal in nature" and does not "contain a comprehensive code that lays out all that is permitted or barred."
+    Thus, CCAA decisions are often based on discretionary grants of jurisdiction. Judicial discretion in this regard must be
+    exercised in furtherance of the CCAA's purposes.
+
+    • The purpose of the CCAA is remedial "in the purest sense" in providing a means whereby the devastating social and
+    economic effects of bankruptcy or creditor-initiated termination of ongoing business operations can be avoided while a
+    Court-supervised attempt to reorganize the financial affairs of the debtor company is undertaken.
+
+    • The Court engaged in judicial decision-making under the CCAA must "first of all provide the conditions under which
+    the debtor can attempt to reorganize." This can be achieved by staying enforcement action to allow the debtor's business
+    to continue, preserving the status quo while the debtor readies itself to present the restructuring or reorganization plan to
+    creditors, and supervising the process and advancing it to the point where it can be determined whether it will succeed.
+
+    • The Court must be cognizant of and weigh all stakeholder interests and the public interest that may come into play in
+    any decision of whether to allow a particular action.
+
+4   I consider this application against the backdrop of the above principles.
+
+C. Conifer's Position
+
+5   Conifer seeks this Order from the Court:
+
+    • requiring Razor to pay Conifer all amounts owing under the OOA for the post-filing period;
+
+    • requiring Razor to pay Conifer all post-filing amounts owed by Razor to CNRL that CNRL intends to seek from Conifer;
+
+    • that such payments be made in priority to any other creditors of Razor and be paid by September 20, 2024 (coinciding
+    with the date that the Corporate Transaction is supposed to be signed); and
+
+    • that Conifer be granted a charge against Razor's property to secure the post-filing amounts, ranking only behind the
+    administration charge and directors' charge, or a declaration of constructive trust against Razor's property, for the post-
+    filing amounts. (This appears to be alternative relief to a Court Order for an immediate in-full cash payment.)
+
+6   As justification for the relief sought, Conifer says:
+
+
+
+
+                     Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.   4
+Razor Energy Corp (Re), 2024 ABKB 553, 2024 CarswellAlta 2385
+2024 ABKB 553, 2024 CarswellAlta 2385, [2024] A.W.L.D. 4242
+
+
+     • The amounts are owed by Razor to Conifer under the OOA.
+
+     • Both s 11.01 of the CCAA, as an exception to the stay provision, and para 19 of the Amended and Restated Initial Order
+     (ARIO) permit Conifer to require immediate payment from Razor for post-filing amounts.
+
+     • Conifer notes that Razor is paying certain partners and service providers their post-filing invoices but not Conifer, resulting
+     in Conifer facing risk while those other creditors receive ongoing payment, contrary to the spirit of insolvency legislation
+     as expressed in Québec Inc v Callidus Capital Corp, 2020 SCC 10 at para 75.
+
+     • The Court has broad jurisdiction under section 11 of the CCAA to make the Order sought. When assessed against the
+     policy objectives of the CCAA, Conifer notes the purpose of the CCAA is not to disadvantage creditors but rather to
+     provide a constructive solution for all stakeholders and where all stakeholders are treated as advantageously and fairly as
+     circumstances permit: Sun Indalex Finance, LLC v United Steelworkers, 2013 SCC 6 at para 205.
+
+     • Under its inherent powers, the Court can create a security interest for creditors who supply goods and services to the
+     debtor after the filing of a CCAA petition and can provide for the priority and ranking of such a security interest with
+     respect to other security holders: Arrangement relatif à Gestion Éric Savard inc, 2019 QCCA 1434 at paras. 17-24;
+     Houlden, Morawetz and Sarra, The 2024 Annotated Bankruptcy and Insolvency Act, Toronto: Thomson Carswell, 2024,
+     pp. 1464-1465, commenting on Re Smoky River Coal Ltd, 2000 ABQB 621, aff'd in 2001 ABCA 209.
+
+     • Further, or in the alternative, the Court may declare a constructive trust in respect of the supplier's entitlement to be paid
+     for post-filing goods and services provided under an executory contract: General Motors Corporation v Peco, Inc., 2006
+     CanLII 4758 at paras. 17-31.
+
+7     In its brief at paragraph 41, Conifer invoked s 11.4 the CCCA, which provides the Court the ability to declare a charge
+in favor of a "critical supplier" but did not press that position during the hearing. The evidence before me was that Razor was
+carrying on business without support from Conifer and Conifer was not cutting off services completely only because of the
+configuration of the infrastructure and its obligations to other parties. In this sense, Conifer was not a critical supplier of Razor.
+
+8     CNRL appeared by counsel at the hearing. No argument was made on its behalf regarding whether the Orders sought
+should be granted or not. Counsel confined his remarks to saying that if the Court was inclined to grant the Orders in favour
+of Conifer, then payment of the amounts earmarked for reallocated obligations by CNRL should be paid directly to CNRL.
+Counsel for CNRL also suggested that if Conifer was successful, then one might expect CNRL and other operators involved
+with Razor to make the same application.
+
+D. Razor's position
+
+9    In response, Razor submits the following:
+
+     • The OOA between Conifer and Razor provides the remedies for breach and non-payment. The Court should not be
+     rewriting the OOA by giving Conifer new remedies and rights, nor does the CCAA confer jurisdiction on the Court
+     to do so:Allarco Entertainment Inc, Re, 2009 ABQB 503 at paras 52-54. (As noted, Conifer is presently exercising the
+     existing right of set-off.)
+
+     • Enforcement of the post-filing amounts remain stayed. No application has been made to lift the stay. The remedy inherent
+     in s 11.01 is not an Order for payment but rather stoppage of supply.
+
+     • The Court should remain alive to the principle that the status quo should be maintained until a conclusion is reached
+     under the CCAA. Accordingly, there is no basis for Conifer to obtain the Court's assistance to either improve its position
+     by enhancing priority or effect collection of amounts owing: Agro Pacific Industries Ltd, Re, 2000 BCSC 879 at para 17.
+
+
+
+
+                      Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.   5
+Razor Energy Corp (Re), 2024 ABKB 553, 2024 CarswellAlta 2385
+2024 ABKB 553, 2024 CarswellAlta 2385, [2024] A.W.L.D. 4242
+
+
+     • Case law establishes that s 11.01 must be construed narrowly. In order for a creditor to fit within the exception to the stay
+     of proceedings found in s 11.01, the creditor must be compelled by CCAA Order to continue supply of services during the
+     post-filing period. The quid pro quo for this compulsion is the statutory obligation for the debtor to continue paying on a
+     current basis during the post-filing period: Smith Brothers Contracting Ltd (Re) (Trustee of), 1998 CanLII 3844 (BCSC)
+     at para 14; Royal Bank v Cow Harbour Construction Ltd, 2012 ABQB 59.
+
+     • The granting of Conifer's application in either form, says Razor, would basically sound the death knell for the Corporate
+     Transaction. Razor says that it is insolvent and lacks the ability to pay Conifer as requested in the application. Further, the
+     granting of a priority charge to Conifer would make the Corporate Transaction untenable. There is no reason to elevate
+     Conifer's position at the expense of all remaining creditors standing to benefit if the Corporate Transaction is concluded.
+
+10    Razor was supported in its opposition to the application by Arena Investors LP, one of Razor's secured creditors, and by
+Big Lakes County and the Municipal District of Greenview. The two municipalities, among others, are owed municipal taxes
+on a priority basis. All of these objecting parties echo that Conifer seeks to improperly elevate its priority status either by actual
+payment before anyone else or the granting of a priming charge, to the prejudice of other creditors.
+
+11 Arena's counsel submitted that Conifer's post-filing claim is unsecured or at best forms the basis of an Operator's Lien, still
+subordinate to Arena's security: Cansearch Resources Ltd v Regent Resources Ltd, 2017 ABQB 535 at para 42. Arena also
+contends that a single post-filing creditor should not be allowed to determine the fate of the entire CCAA proceeding:Essar
+Steel Algoma Inc, Re, 2016 ONSC 6459 at para 26. Finally, with regard to constructive trust, Arena's counsel says that even
+if enrichment of Razor and deprivation on Conifer's part are made out, there is a juristic reason not to pay Conifer and that
+is the CCAA.
+
+E. Does Section 11.01 apply?
+
+12      I accept that s 11.01 must be construed narrowly per Smith Brothers and Cow Harbour. Yamauchi J noted at para 16
+of the latter case:
+
+     While a debtor corporation is proceeding through the CCAA restructuring process, it must still carry on its business. It
+     hardly seems fair to require a person to continue to supply the debtor corporation with goods or services, or to allow the
+     debtor corporation to continue to use leased property, without that person being compensated for those goods, services or
+     use. Section 11.01(a) of the CCAA allows for that compensation.
+
+13     I understand the sentiment of the unfairness of non-payment when the services are connected to the debtor corporation
+carrying on business while under the CCAA. Here, the evidence before me is that Razor has not asked Conifer to provide
+services. In fact, Conifer has cut off Razor to the extent it can. All of the gas ostensibly produced by Razor that is processed
+at the plant is being processed for Conifer's benefit, not Razor's. The only reason the services continue on Razor's account is
+because of the physical configuration of the system infrastructure and Conifer's obligations to other parties, neither of which
+Razor control. Indeed, the evidence is that Razor is getting by without any help from Conifer.
+
+14 I am not ready to say that the quid pro quo of compulsion under a CCAA Order is required to engage s 11.01 as suggested
+by Razor but in the least the services being claimed must be at the debtor's request and of some utility to the debtor in conducting
+its business, even if the claimant is not a "critical supplier" under s 11.4. It is true that the plant continues to be operated and that
+Razor's interest in the plant may be part of the assets sold in the Corporate Transaction. But Conifer's continued operation of the
+plant arises not from Razor's request to do so but rather Conifer's obligations to others and its self-interest in the plant's operation.
+
+15 As the evidence shows, Razor has undergone a process of determining who it needs to pay in order to remain in business
+and work toward achieving the Corporate Transaction. Examples were given in Mr. Bailey's affidavit of electrical supply and the
+services of other operators who are processing Razor's gas and providing Razor with revenue for use as the CCAA proceedings
+advance. Razor has determined that it does not need Conifer's help to conduct business during the stay period or to advance
+the Corporate Transaction under the CCAA.
+
+
+
+                       Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.   6
+Razor Energy Corp (Re), 2024 ABKB 553, 2024 CarswellAlta 2385
+2024 ABKB 553, 2024 CarswellAlta 2385, [2024] A.W.L.D. 4242
+
+
+16     To be sure, Conifer is in an unwieldy predicament and that is through no fault of its own. It cannot completely shut
+off Razor's access and it cannot shut down the plant. Unfortunately for Conifer, it has already taken its best available remedy,
+which is the set-off. I agree that if s 11.01 is engaged then Conifer's remedies under s 11.01 itself are as contained in the OOA
+or stoppage of supply (if it were possible). Beyond that, Conifer must apply for an Order under s 11 (or s 11.4 if "critical
+supplier" status was made out). Such an application in either event engages the foundational precepts of decision-making under
+the CCAA discussed above.
+
+F. Monitor's Report
+
+17    These points are notable from the Monitor's Report:
+
+     • (at para 24) Razor has sufficient liquidity to remain in business for the duration of the stay. If Conifer were successful in
+     obtaining its Order directing payment of the post-filing arrears by September 20, 2024 Razor would not have the necessary
+     cash flow to remain in business.
+
+     • (at para 25) The Monitor's fifth report and sixth (and current) cash flow statement, and others filed in these proceedings,
+     do not contemplate payment of the post-filing amounts owed to Conifer.
+
+     • (at para 28) The Monitor views the Corporate Transaction as the best alternative for all stakeholders as it would avoid
+     a bankruptcy and potentially no recovery for stakeholders.
+
+     • (at para 29) The Monitor understands that the estimated proceeds from the Corporate Transaction are expected to be
+     sufficient to pay the post-filing arrears owed to Conifer, not including the deposit of $680,000 that is requested, which
+     would only be required if Conifer were to reconnect Razor to the system.
+
+     • (at para 32) If Conifer were successful in this application, Razor will likely be unable to complete the Corporate
+     Transaction which would result in significant losses for stakeholders, including significant abandonment and reclamation
+     obligations.
+
+18    I remind myself of the Monitor's role in these proceedings. The Monitor is a Court officer subject to OSB supervision.
+The Ontario Court of Appeal summarized the nature of the Monitor's role in Ernst & Young Inc v Essar Global Fund Limited,
+2017 ONCA 1014 at para 109, as:
+
+     The monitor is to be the eyes and the ears of the Court and sometimes, as is the case here, the nose. The monitor is to be
+     independent and impartial, must treat all parties reasonably and fairly, and is to conduct itself in a manner consistent with
+     the objectives of the CCAA and its restructuring purpose. In the course of a CCAA proceeding, a monitor frequently takes
+     positions; indeed it is required by statute to do so.
+
+19 The Monitor's financial presentation and its statements about the effect of the Corporate Transaction if it comes to fruition
+(or not) were not controverted by Conifer or any other evidence. Accordingly, I accept what the Monitor in its September 10,
+2024 report says about the financial condition of Razor, its liquidity, and the prospects for all of Razor's stakeholders if the
+Corporate Transaction is realized or is not.
+
+G. Ruling
+
+20 Even if Conifer's post-filing claim falls within s 11.01, I am still required to exercise my discretion to make an appropriate
+Order under s 11 in accordance with the CCAA's overall policy objectives.
+
+21    In making my ruling, I have regard to the following factors:
+
+     • The mere fact that Razor is under the CCAA means it is insolvent.
+
+
+
+
+                      Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.   7
+Razor Energy Corp (Re), 2024 ABKB 553, 2024 CarswellAlta 2385
+2024 ABKB 553, 2024 CarswellAlta 2385, [2024] A.W.L.D. 4242
+
+
+     • No provision in the latest cash flow statement, which extends to the end of the current stay, is made for payment to
+     Conifer for any post-filing amounts.
+
+     • The granting of Conifer's application in either form would trigger similar applications by CNRL and other operators,
+     which the Court would be hard-pressed (given the precedent set) to deny.
+
+     • The Corporate Transaction contemplates full payment of post-filing arrears to both Conifer and CNRL (less only the
+     deposit for future services which would not be required).
+
+     • The documentation for the Corporate Transaction is scheduled to be completed and signed as of September 20, 2024,
+     which is a scant day away. Mr. Bailey (Razor's CEO) expresses optimism that the Corporate Transaction will actually come
+     to pass. There is no contrary information before me.
+
+     • Conifer is not left dangling indefinitely. There are milestone dates looming: September 20, 2024 for the signing of the
+     Corporate Transaction and October 13, 2024 for the expiry of the current stay.
+
+22    Based on the evidence before me, I conclude as follows:
+
+     • Allowing Conifer's application (and the other similar applications that would inevitably follow) will likely have the effect
+     of causing the Corporate Transaction to collapse.
+
+     • In the words of Century Services, granting the Order sought would not "provide the conditions" under which Razor can
+     execute on the Corporate Transaction but rather would hasten its bankruptcy or receivership.
+
+     • Granting the Order sought would give Conifer an unfair advantage now and in any subsequent bankruptcy or receivership
+     by authorizing a preferential payment and/or artificially elevating its priority position. It would not provide a constructive
+     solution to all stakeholders, only Conifer.
+
+     • Granting the Order would in effect permit the interests of a single post-filing creditor to determine the fate of the entire
+     CCAA proceeding to the detriment of remaining stakeholders.
+
+23 In exercising my discretion under the CCAA, I remain cognizant of the remedial purpose of the CCAA and the requirement
+to consider broad stakeholder interests. I appreciate the Corporate Transaction, if signed, is still subject to Court approval but,
+on the basis of the evidence before me, it does represent the best and fairest outcome for all stakeholders.
+
+24 In the result, I find that Conifer's post-filing claim does not fall within the narrow exception created by s 11.01. Whether
+it does or not, I would still exercise my discretion against granting the Order for the reasons given above. In consequence, I
+dismiss Conifer's application.
+
+25     If the parties/counsel so wish, they may address costs with me within 30 days of the date of this decision by submitting
+a written submission not longer than two single-spaced pages, excluding exhibits and authorities, and including a draft Bill
+of costs.
+                                                                                                         Application dismissed.
+
+
+Footnotes
+1      Companies' Creditors Arrangement Act, RSC, 1985, c C-36 as am.
+
+2      Bankruptcy and Insolvency Act, RSC 1985, c B-3 as am.
+
+
+
+
+End of Document             Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.
+
+
+
+                      Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.    8
+

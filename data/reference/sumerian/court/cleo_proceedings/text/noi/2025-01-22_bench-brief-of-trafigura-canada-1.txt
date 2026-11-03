@@ -1,0 +1,252 @@
+                                                                               C11244
+
+                                                                                           FILED
+COURT FILE NUMBER                  B301-163430                                           Jan 22, 2025
+COURT                              COURT OF KING’S BENCH OF ALBERTA
+JUDICIAL CENTRE                    CALGARY                                                 by Email
+                                   IN THE MATTER OF THE BANKRUPTCY AND
+                                   INSOLVENCY ACT, RSC 1985, C B-3, AS AMENDED
+
+                                   AND IN THE MATTER OF THE NOTICE OF                       COM
+                                   INTENTION TO MAKE A PROPOSAL OF CLEO                     Jan 22, 2025
+                                   ENERGY CORP.
+APPLICANT                          CLEO ENERGY CORP.
+
+
+                          SUPPLEMENTAL BENCH BRIEF OF THE RESPONDENT,
+                                   TRAFIGURA CANADA LIMITED
+
+                       FOR THE HEARING SCHEDULED IN JUDGE’S CHAMBERS
+                                 ON January 22, 2025, AT 3:00 PM
+
+STIKEMAN ELLIOTT LLP                                GOWLING WLG (CANADA) LLP
+Barristers & Solicitors                             1600, 421 – 7th Avenue SW
+4200 Bankers Hall West,                             Calgary, AB T2P 4K9
+888-3rd Street S.W.,
+Calgary, AB T2P 5C5
+
+Karen Fellowes K.C. / Eric Blay                     Sam Gabor / Tom Cumming
+KFellowes@stikeman.com /                            sam.gabor@gowlingwlg.com /
+EBlay@stikeman.com                                  tom.cumming@gowlingwlg.com
+Tel: (403) 724 9496 / (403) 724 9485                Tel: (403) 571-1069
+Fax: (403) 266-9034
+                                                    Counsel for the Applicant, Cleo Energy Corp.
+Counsel for the Respondent, Trafigura Canada        File no. G10010664
+Limited
+File no.: 137093.1030
+
+
+
+
+120751022 v2
+                                                         TABLE OF CONTENTS
+
+PART I – INTRODUCTION AND RELIEF SOUGHT ................................................................................... 3
+
+PART II – LAW AND ARGUMENT .............................................................................................................. 3
+
+PART III – CONCLUSION ............................................................................................................................ 6
+
+
+
+
+                                                                         2
+
+120751022 v2
+PART I – INTRODUCTION AND RELIEF SOUGHT
+
+1. Trafigura Canada Limited (“Trafigura”) wishes to bring to the attention of this Honourable Court two
+     further and additional recent cases which may be of assistance in determining the issues before the
+     Court. Unless otherwise defined herein, capitalized terms shall have the meanings ascribed to them in
+     Trafigura’s Brief dated January 6, 2024.
+
+PART II – LAW AND ARGUMENT
+2. Trafigura submits that the key issue in this application is whether the Trafigura Post-Filing Obligations
+     and Cleo Post-Filing Obligations both constitute post-filing obligations therefore entitling it to its
+     contractual right to set-off the Trafigura Post-Filing Obligations against the Cleo Post-Filing Obligations.
+
+3. This Court dealt with an analogous case in Blade Energy Services Corp (Re), 1 wherein a
+     creditor/operator of a gas-plant sought, in the alternative, direction regarding its enforcement rights
+     relating to the costs of operating the gas plant on behalf of the oil producer/debtor against the revenues
+     generated therefrom subsequent to the debtor filing an NOI. Justice Lema found that it was not the
+     role of the Court to dictate the parties’ going-forward arrangements and that the applicable contract,
+     which was entered into prior to the debtor filing an NOI, between the creditor and the debtor should
+     govern in the post-NOI era.2
+
+4. In Blade Energy, the creditor/operator Conifer entered into an operating-procedure agreement with the
+     debtor/producer Razor in relation to the operation of a gas plant. Approximately $8 million in arrears
+     arose relating to processing-charge and capital-cost shortfalls. After attempting to negotiate payment
+     of the arrears, Conifer notified Razor that it intended to disconnect Razor from the gas-gathering system
+     if it did not clear its arrears or agree to a payment plan. 3 Shortly after being locked out from the system,
+     Razor filed an NOI. One of the issues raised in this application was whether Conifer’s enforcement set-
+     off rights, granted in the operating-procedure agreement, were stayed regarding debts for services
+     provided subsequent to the filing of the NOI. Notably, it was common ground that the operating-
+     procedure agreement was not terminated as a result of Razor’s defaults or otherwise.
+
+5. The key point in Blade Energy, which is relevant to the within Application, is that a creditor is entitled to
+     set off its post-filing obligations against the post-filing obligations of the debtor even if those obligations
+     arise from an agreement entered into prior to the filing of the NOI. 4 Accordingly, when it comes to
+     services provided subsequent to the filing of an NOI, the debtor and creditor were found to have the
+     same rights and liabilities under their agreements as before, without any limitations arising from, or
+
+
+
+1
+  Blade Energy Services Corp (Re), 2024 ABKB 100, 2024 CarswellAlta 356 (“Blade Energy”).
+2
+  Ibid paras 81, 91.
+3
+  Ibid paras 5 – 8.
+4
+  Ibid paras 93-94.
+                                                         3
+
+120751022 v2
+       otherwise affected by, the Stay of Proceedings.5 Justice Lema set out the relevant case law on this
+       issue and the basis of his reasoning in his decision:
+
+               5. Conifer's enforcement rights not stayed re debts for future services
+
+               93     The critical point here is that Conifer's use and enforcement of its timing-of-payment
+               and enforcement-of-payment rights, relating to future services, are not subject to the para
+               69(1)(a) stay.
+
+               94     The reason is simple: the NOI filing created two distinct eras, the period leading
+               up to the filing and the period after. Claims existing in the first era are subject to the stay;
+               claims arising in the second are not.
+
+               95     Here see Canadian Petcetera Limited Partnership (cited above):
+
+                     [An earlier-described] interpretation of s. 69(1) is also demonstrated by the
+                     jurisprudence dealing with new indebtedness incurred by a debtor after he or she
+                     has gone bankrupt. It has been held that leave is not necessary for a creditor to have
+                     a remedy against the debtor because the new indebtedness is not a claim
+                     provable in the bankruptcy. (See Richardson & Co. v. Storey (1941), 1941 CanLII
+                     334 (ON SC), 23 C.B.R. 145, [1942] 1 D.L.R. 182(Ont. S.C.); Re Bolf (1945), 26
+                     C.B.R. 149(Que. S.C.); Venneri v. Bomasuit (1950), 31 C.B.R. 150(Ont. S.C.); and
+                     Greenfield Park Lumber & Builders' Supplies Ltd. v. Zikman (1967), 12 C.B.R. (N.S.)
+                     115(Que. S.C.). Also see Wescraft Manufacturing Co. (Re) (1994), 1994 CanLII 2883
+                     (BC SC), 27 C.B.R. (3d) 28(B.C.S.C.), which appears to have held, correctly in my
+                     view, that s. 69.1(1) (the stay provision triggered upon the filing of a proposal)
+                     did not stay the termination of a lease on account of arrears of rent due after
+                     the filing of a proposal . . . .[para 31] [emphasis added]
+
+               96     And Schendel Mechanical Contracting (Re) 2021 ABQB 893 (Mah J.):
+
+                     . . . it is known that Hatch supplied goods to various Schendel projects during
+                     the post-NOI period to the tune of
+                     $34,476.75. Hatch advised the Receiver of which specific invoices to which the
+                     $40,000 was applied. That information was not provided to the Court. It is known
+                     that apart from those specific invoices, there was a balance that was applied to
+                     indebtedness on the Paul Band School project, where one invoice related to the post-
+                     NOI period.
+
+                     The stay would not apply in respect of indebtedness arising from goods and
+                     services supplied to Schendel after the date of filing the NOI as such
+                     indebtedness would not be "a claim provable in bankruptcy" per section 69(1):
+                     Wosk's Ltd Re, 1985 CanLII 624 (BC SC), 1985 Carswell BC 807 (SC), 58 CBR 312;
+                     728835 Ontario Ltd., Re, 1998 CanLII 2019
+                     (ON CA), 1998 CarswellOnt 2576, 3 C.B.R. (4th) 214.; and Jones, Re, 2003 CanLII
+                     21196 (ON CA), 2003 CarswellOnt
+
+
+5
+    Ibid para 97.
+                                                            4
+
+120751022 v2
+                     3184, 2003 CarswellOnt 3184, [2003] O.J. No. 3258. [paras 25 and 26] [emphasis
+                     added]
+
+               97     Accordingly, when it comes to future services, Conifer and Razor have the same rights
+               and liabilities under their agreements as before i.e. without any limitations arising from or
+               otherwise affected by the stay of proceedings.
+
+               98     It may be that Conifer will choose to proceed on the basis suggested by Razor
+               (setoffs accompanied by deposit). Conifer might choose to rely on other payment-
+               enforcement rights it has under the agreements i.e. as they may be triggered by Razor's
+               payment performance or non-performance. The parties may end up agreeing to new or
+               varied payment arrangements.
+
+               99     It is not the Court's role, in a stay-enforcement context, to get involved in those
+               going-forward business decisions.6
+
+6. In the present case, neither Trafigura or Cleo have argued that the Agreements have terminated and
+     Trafigura has continued to meet its obligations thereunder with regards to the marketing and sale of
+     Cleo’s oil products. Trafigura is seeking analogous relief to that recognized in Blade Energy whereby it
+     should be paid, by way of set-off or cash payment, for services provided subsequent to the Filing Date.
+     It would be unjust to require Trafigura to continue marketing and selling oil on behalf of Cleo without
+     receiving payment for these services.
+
+7. In a subsequent related hearing, Razor Energy Corp (Re), 2024 ABKB 553,7 Justice Mah heard an
+     application by Conifer for payment of post-filing obligations and a priming charge to secure payment
+     for the services provided subsequent to Razor’s filing of its NOI.8 Notably, while Justice Mah did not
+     grant the relief sought by Conifer in Razor Energy, the Court also did not dispute Conifer’s right to set-
+     off Razor’s post-filing obligations9 against revenues generated from continuing to operate the gas plant.
+     The Court opined that Conifer was in an unwieldy predicament through no fault of its own and that the
+     best available remedy to Conifer was setting off the amounts owed by Razor against the revenues
+     Conifer generated on Razor’s behalf via operation of the gas plant pursuant to the agreement between
+     the parties.
+
+8. The outcome of the application brought in Razor Energy reinforced the decision of Justice Lema in
+     Blade Energy with regards to Conifer’s entitlement to set-off for post-NOI amounts. Trafigura submits
+     that the relief it is seeking is consistent with the findings of the Court in Blade Energy and Razor Energy
+     and follows the precedent set down in those decisions that a debtor should be entitled to its bargained
+     for set-off rights in relation to post-filing obligations.
+
+
+
+
+6
+  Ibid paras 93-99.
+7
+  Razor Energy Corp (Re), 2024 ABKB 553, 2024 CarswellAlta 2385 (“Razer Energy”).
+8
+  Ibid para 2.
+9
+  Ibid paras 2, 9, and 16.
+                                                            5
+
+120751022 v2
+PART III – CONCLUSION
+
+9. Without the sought relief, Trafigura will be irreparably prejudiced, its contractually bargained for set-off
+     rights will be rendered moot, and it will be required to pay for crude it purchased via the Agreements
+     twice. Meanwhile, Cleo will receive all of the benefits under the Agreements without having to answer
+     to the extensive set-off rights it promised to Trafigura in return. Such a finding would contradict the
+     jurisprudence of this Court affirming a creditor’s right to set-off for post-filing obligations without any
+     limitations imposed by the Stay of Proceedings. As a result, Trafigura submits that the relief sought is
+     reasonable and appropriate in the circumstances.
+
+ALL OF WHICH IS RESPECTFULLY SUBMITTED this 21st day of January 2025.
+
+                                                            STIKEMAN ELLIOTT LLP
+
+
+
+                                                            Per: ______________________________
+                                                                 Karen Fellowes, K.C.
+                                                                 Counsel    for   the   Respondent/Applicant,
+                                                                 Trafigura Canada Limited
+
+
+
+
+                                                       6
+
+120751022 v2
+                                       TABLE OF AUTHORITIES
+
+ Tab No.       Description
+
+       1)      Blade Energy Services Corp (Re), 2024 ABKB 100, 2024 CarswellAlta 356
+
+       2)      Razor Energy Corp (Re), 2024 ABKB 553, 2024 CarswellAlta 2385
+
+
+
+
+                                                   7
+
+120751022 v2
+
