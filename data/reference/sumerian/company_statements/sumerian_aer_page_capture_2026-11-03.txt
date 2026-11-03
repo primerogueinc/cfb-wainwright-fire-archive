@@ -1,0 +1,279 @@
+Sumerian Oil & Gas
+Home
+About
+Operations
+Contact
+Account
+
+Sign In
+My Account
+Sumerian & AER
+ Why this page exists
+
+Sumerian Oil & Gas Inc., formerly Cleo Energy Corp., was acquired out of receivership in November 2025 through a court-approved Reverse Vesting Order. The Alberta Energy Regulator did not oppose the acquisition. Eleven months later the company's sites are in the custody of the Orphan Well Association by order of the AER, its production is shut in, and the abandonment program the AER itself ordered has been stood down.
+
+
+
+The company will appeal the October 5, 2026 order within the 30-day appeal period and has asked the Minister of Energy and Minerals to review the AER's conduct on this file. This page is the record on which both of those requests rest. It is drawn from the AER's own orders, letters and emails, the company's submissions, and the court file. Where the AER's account and the company's differ, both are stated. The documents are listed below and are available on request.
+
+
+
+What the AER knew before the acquisition
+
+By 2025 Cleo Energy Corp. was in receivership. Its AER record included a pipeline release on licence P58349 in April 2025, suspected cause internal corrosion, on a segment where the AER's own inspections had flagged a corrosion monitoring deficiency as High Risk in March 2018; a second pipeline incident on P54028; twelve open field inspections, five of them on licences that actually belonged to another operator but still showed under Cleo in the AER's system; fifteen wells past their mineral-lease-expiry abandonment deadlines; packer isolation tests for 2025 not done; no audited financial statements for 2023 or 2024; no current pipeline operations manual; and a corporate emergency response plan dated 2017 in places. In February 2019 the AER had assessed Cleo as "managing their pipeline infrastructure well."
+
+On September 19, 2025, two months before closing, the AER wrote to the incoming ownership and set out what the company would carry forward: the closure spend quota history, the orphan levy and administration fee history including 2025 penalties, the expired-lease wells and the open inspection files. The AER later described that letter as "a good summary of what Sumerian should expect." The Reverse Vesting Order was granted by the Court of King's Bench on November 14, 2025 with the AER as a party with notice. On November 24 the AER confirmed Sumerian as licensee.
+
+Every deficiency now being enforced existed on that date, and the regulator had listed it in writing.
+
+
+
+What the company did
+
+In the nine months after closing Sumerian rebuilt the compliance program from the ground up and reported its progress to the AER in writing every month from March to August 2026, answering each AER comment item by item.
+
+Directive 013 noncompliant wells: 142 at the company's March 25 baseline, 73 by August 4, with 93 inspections completed and 72 OneStop submissions filed. On the AER's own count: 115 in its April 22 Order, 95 in its July 24 letter, 89 in its August 13 letter.
+Field inspection compliance rate, on the AER's numbers: 16% in its April Order, 24% in its September Order.
+Producing wells: 146 in May, 165 in August, 19 of them reactivated by Sumerian.
+The corporate emergency response plan was rewritten against the AER's new Directive 071 with an outside safety consultant, the Shorncliffe site plan was rewritten, the 1-800 emergency line was upgraded and gas monitoring was installed. On August 17, 2026 the AER's emergency preparedness specialist confirmed the corporate plan "compliant with Directive 071."
+The 27 expired-lease wells were identified, programmed and costed at $1,159,200, with a rig ready to mobilize before the July 20 Order.
+A Regulatory Compliance Assurance Management plan was delivered and revised through five versions. A pipeline operations manual and a third-party integrity provider were engaged. Management-prepared 2025 financial statements were delivered and an auditor engaged.
+No injury, evacuation or public safety incident occurred at any site.
+The AER inspected these assets 31 times in Sumerian's first nine months. It had inspected Cleo 29 times in the two years before the acquisition.
+
+The company's engagement with the AER
+
+Sumerian did not wait for the AER to come to it. The record shows the company in continuous contact with the regulator from the first weeks of ownership.
+
+February 17, 2026: written reply to the AER's February 11 letter, proposing a meeting.
+March 10: the CEO, CFO and COO meet AER Regulatory Compliance at its Calgary head office. March 17: written response delivered. March 25: baseline compliance workbook delivered.
+April 21: pre-issuance meeting on the draft April Order. May 5: meeting with AER field staff in Wainwright. May 6: written dispute of the levy and security calculation, identifying licences wrongly attributed to Sumerian.
+June 1: written request to pay the security in instalments, accepted by the AER on June 2. June 17: meeting with the AER; Shorncliffe site plan submitted by the deadline set that morning. June 22: meeting with the AER and submission of the emergency planning zone calculations that led the AER to rescind its order the next day.
+July 9: counsel's letter to the AER's Law Branch. July 15: pre-issuance meeting on the draft July Order. July 20: cheque delivered inside the AER's own window for further information.
+August 4: monthly update. August 18: pre-issuance meeting on the Environmental Protection Order and delivery of a consolidated record letter to the AER.
+September 17: pre-issuance meeting on the draft September Order. September 21: written response on operational capacity, staffing and emergency readiness.
+October 5: pre-issuance meeting on the Orphan Well Association order, at which the company opposed the order and advised the AER that a lender was prepared to put $2 million into the abandonments, cleanup and fees conditional on restarting unaffected pipelines. October 7: written response to the AER on control and operators.
+October 17: on learning of the fire on the CFB Wainwright range, the company notified the OWA's emergency line, the AER's 24-hour line and CFB Wainwright Range Control the same evening, and wrote to the AER and the OWA asking what measures were being taken.
+Through all of this the company asked the AER, in writing and more than once, for a licence-level calculation of the security and levy amounts and of the well count it was being held to. The AER has acknowledged that pipeline segments transferred to another operator still show under Sumerian in its systems, that three segments it had counted were never constructed, and that at least one inspection was closed because the noncompliance was Cleo's. In June 2026 the AER itself contacted Fire Creek Resources about transferring a licence that still showed under Sumerian; it did not contact Sumerian. The AER knew the assessed asset base was wrong, acted on that knowledge with the other operator, and continued to enforce the amounts against Sumerian. It has never produced the reconciliation.
+
+
+
+What the AER did
+
+The AER's response to that engagement was five orders and two environmental protection orders between April 22 and October 5, 2026, three of them shut-ins, and then the order transferring care of the company's sites to the Orphan Well Association.
+
+June 19. The AER suspended the Shorncliffe field on the ground that the site-specific emergency response plan was inadequate. The plan was Cleo's 2017 document, in the AER's own files, which Sumerian was rewriting against Directive 071; the AER had brought the new edition into force on February 2, 2026 and given existing operations until their next scheduled 12-month update to comply. No release, injury or complaint had occurred. On June 20 the Court of King's Bench granted an interim injunction. On June 22 Sumerian submitted calculations on the AER's own AERH2S model showing the field did not require a site-specific plan at all. On June 23 the Director wrote that "a operations specific ERP is no longer required" and that he "no longer see[s] the need for the June 19, 2026, suspension order," and rescinded it. On June 24 the AER rescinded the related audit notices "as the Shorncliffe Operation-specific ERP was determined to not be required." Seven days later it issued its next notice of possible suspension.
+
+July 20. On June 2 the AER had accepted payment of the $445,368.77 security in instalments; on June 18 it withdrew that. On July 15, after a pre-issuance meeting, it set new terms in writing: $340,195.24 by cheque, and a payment plan for the balance would follow. On July 17 it invited further information by 2:00 pm on July 20. At 9:03 am on July 20 a cheque for $340,195.24 was delivered to the AER's mail room with a cover letter. The cheque was dated July 23. At 3:40 pm the Director wrote that because the cheque was post-dated the AER could not tell whether the fees were paid, and refused the payment plan because Sumerian "has not followed through on previous commitments." At 3:41 pm the AER served an order shutting in every well, facility and pipeline the company operated within 14 days. The Order identified no safety or environmental risk. Fourteen days was the time allowed to shut in infrastructure on CFB Wainwright, where civilian access is limited to set days. The company does not dispute that the cheque was post-dated, or that it stopped the cheque after the Order shut in the revenue that was to fund it. It disputes that a three-day post-date on a cheque for the full amount, delivered inside the AER's own window, was a reason to shut in a company's entire production rather than to say so and wait three days.
+
+August 17. On August 15 a produced-water release occurred on pipeline P58349. Sumerian isolated the segment within about an hour, reported it to the AER and began cleanup. On August 17 AER inspectors attended and the entire Shorncliffe field was shut in. The same day the AER confirmed the corporate emergency plan compliant with Directive 071 and closed a pipeline inspection on P54028 as Low Risk. The other release sites under AER order date from the prior operation; the AER's own inspection reports record the releases at 15-35-021-07W4 from an April 30 inspection without dating them, and P58349 had a prior release under Cleo on the same line in April 2025.
+
+September 21. A further order, holding the company to the prior operation's defaults: packer tests for the 2025 calendar year, when Sumerian held the licences for seven weeks; decommissioning reports for 2023 and 2024; a reclamation plan from March 2024. The same order states that the AER has "limited operational and financial history" for Sumerian.
+
+October 5. At 8:56 am on Friday October 2 the AER requested a meeting that morning on an order placing the company's sites under the Orphan Well Association, and said that without a response by noon the decision would be made on the information in hand. The meeting was held on Monday October 5. Sumerian opposed the order and advised the AER of the $2 million financing it would end. The order was signed and served the same day. The company's emergency line was rerouted to the OWA; the company must obtain the OWA's written approval to enter its own sites. On October 9 the order was amended because its licence list was incomplete. The liability the AER is moving onto the industry-funded Orphan Well Association is, on the AER's own estimate, $25 million or more.
+
+October 17. A fire began on the CFB Wainwright range. Wells Sumerian holds licences for were inside the fire area. At 7:15 pm the OWA advised that none of those wells had been shut in and that it did not plan to attend the base before October 27. At 7:48 pm the AER's on-call contact advised that the AER was not aware of the fire and that under the October 5 order there was nothing Sumerian could do.
+
+The October 5 order required the OWA to shut in the wells within 14 days, the same period the AER's July 20 Order had given Sumerian. Sumerian argued before the Court of King's Bench, in June and again in July, that these wells, facilities and pipelines cannot be safely shut in within 14 days, and the AER's own staff acknowledged that it could not be done in that time. The Orphan Well Association, with the AER's full authority and no operator in its way, had not shut in a single well on the range twelve days into its 14-day period, and did not plan to attend until day 22. A fire then started on the range with the wells open.
+
+
+
+What the AER will say, and the company's answer
+
+The $340,195.24 was never paid. True. The cheque was post-dated, the Order issued before its date, and the cheque was stopped after the Order shut in the revenue that was to fund it. The August 5 stay condition was missed for the same reason.
+Operators left the sites. They did not. Operators were paid and the sites were staffed through the shut-ins, and the company said so in writing on September 21 in answer to the AER's September 11 inquiry. Operators were laid off after October 5, when the AER's order removed the company from its own sites.
+No counsel appeared on September 28. Correct. Counsel withdrew before the hearing. The company is retaining counsel for the appeal.
+Releases at 15-35-021-07W4 were not cleaned up by the AER's deadlines. The AER's inspections so record. The company's position is that the releases date from the prior operation and that the August 7 deadline fell while the company was shut in by the July 20 Order.
+Packer tests, pipeline integrity program and financial statements outstanding. Each is a Cleo-era obligation or a new one imposed in 2026 on short deadlines. The company has reported its progress on each monthly and does not claim they are complete.
+A 24% compliance rate against a 74% industry average. The AER's own figure was 16% in April. The rate rose while the company operated.
+900 wells on the AER's count against about 410 on the company's. The AER's count includes licences the AER has acknowledged belong to other operators. The company has asked for a reconciliation and has not received one.
+The company's position
+
+The conditions being enforced pre-date the acquisition, and the AER listed them in writing before closing.
+On every measure the AER itself tracks, compliance improved after the acquisition, and the company reported that progress to the AER every month.
+The AER's first shut-in was over a plan the field did not need, and the AER said so itself within four days. Its second turned on a three-day post-date. Its third followed a release that was already contained. Each was followed by a harsher step.
+The AER's published policy is education first, enforcement proportionate to risk, and licence loss as a last resort. The order of October 5 removed an operator with staff, equipment and a plan the AER had confirmed compliant, and twelve days later the body that replaced it had not secured the wells during a fire.
+What the company is asking for
+
+A regulatory appeal of the October 5 order, to be filed within the 30-day period, and the restoration of the company's control of its sites pending that appeal.
+A review by the Minister of Energy and Minerals of the AER's conduct on this file against the AER's own published compliance policy.
+A licence-level reconciliation of the security, levy and well-count figures the AER has relied on.
+Enforcement proportionate to the risk and to the company's documented progress, so that the abandonment program the AER itself ordered can be carried out by the operator that costed it, funded it and had the rig ready.
+ 
+
+Timeline
+Before the acquisition
+
+April 25, 2025
+
+Cleo reports a pipeline release on P58349 at 01-22-040-08W4; suspected cause internal corrosion. The AER's inspection record traces the corrosion monitoring deficiency on that segment to March 2018
+
+September 19, 2025
+
+AER letter to the incoming ownership listing the obligations that will carry forward: closure spend quota history, orphan levy and fee history with 2025 penalties, 15 expired-lease wells past deadline, 12 open inspection files
+
+November 14, 2025
+
+Reverse Vesting Order granted, Court of King's Bench file 2501-09028. The AER has notice and does not oppose
+
+November 21–24, 2025
+
+Closing. A pipeline riser release is found on closing day. AER confirms Sumerian as licensee
+
+Taking over
+
+January 7, 2026
+
+AER inspection finds no integrity management program on P54028
+
+January 27
+
+Notice of noncompliance: 2025 packer isolation tests, a Cleo-era obligation
+
+February 2
+
+AER's rewritten Directive 071 comes into force; existing operations have until their next scheduled 12-month update to comply
+
+February 11
+
+AER compliance summary letter; written response requested by February 26
+
+March 10
+
+Sumerian's CEO, CFO and COO meet AER Regulatory Compliance
+
+March 24
+
+AER notice of intent to take action; D013 noncompliant wells 142
+
+March 25
+
+Sumerian delivers baseline compliance workbook
+
+The April Order
+
+Date
+
+Event
+
+April 1
+
+Closure quota security decision: $445,368.77 for the 2025 spend year, in which Sumerian held the licences for seven weeks
+
+April 22
+
+Order: RCAM plan, corporate ERP by May 8, pipeline integrity program by May 22, 27 expired-lease wells abandoned within 365 days, monthly reports. AER counts 115 D013 noncompliant wells
+
+April 30
+
+Inspection of F2927 at 15-35-021-07W4 records releases and staining; the report does not date them
+
+May 6
+
+Sumerian disputes the levy and security amounts in writing
+
+May 21
+
+Failure-to-comply letter
+
+Instalments agreed, then withdrawn
+
+
+
+June 1
+
+Notice of possible suspension. Sumerian reports 142 to 97 wells and asks for seven instalments of $63,624.11
+
+June 2
+
+AER confirms in writing the security "may be made in the installments as requested"
+
+June 9
+
+AER confirms pre-acquisition levies "are not required to be paid due to the insolvency process"
+
+June 17
+
+AER meeting; Shorncliffe site plan submitted by the 3:00 pm deadline
+
+June 18
+
+AER says the plan "is from 2017," demands evidence by noon, withdraws the instalment arrangement
+
+June 19
+
+First shut-in: Shorncliffe field, on the emergency response plan. No release, injury or complaint had occurred
+
+June 20
+
+Court of King's Bench grants an interim injunction
+
+June 22
+
+Sumerian submits AERH2S calculations showing the field does not require a site-specific plan
+
+June 23
+
+AER Director: "a operations specific ERP is no longer required… I no longer see the need for the June 19, 2026, suspension order." Order rescinded
+
+June 24
+
+AER rescinds the related audit notices "as the Shorncliffe Operation-specific ERP was determined to not be required"
+
+June 30
+
+Second notice of possible suspension, seven days after the rescission
+
+The July 20 Order
+
+July 15
+
+Pre-issuance meeting. AER sets terms in writing: $340,195.24 by cheque, then a payment plan
+
+July 17
+
+Revised draft order; further information invited by 2:00 pm July 20
+
+July 20, 9:03 am
+
+Cheque for $340,195.24 delivered, dated July 23
+
+July 20, 3:40 pm
+
+AER: cheque is post-dated, "unable to determine if the AER fees have been paid"; payment plan refused
+
+July 20, 3:41 pm
+
+Second shut-in: all wells, facilities and pipelines within 14 days. No safety or environmental risk identified
+
+July 24
+
+AER summary letter: interim financial statements required for the first time, within 7 and 11 days; AER's D013 count 95
+
+July 27
+
+Sumerian files regulatory appeal of the July 20 Order
+
+July 31
+
+Court stays the July 20 Order pending the appeal, conditional on $340,195.24 by August 5
+
+August to October
+
+August 4
+
+Sumerian monthly update: D013 wells 142 to 73; 165 producing wells; 27 expired-lease wells costed at $1,159,200, rig ready
+
+August 5–6
+
+Court-ordered payment not made; stay lapses. AER restricts licence eligibility
+
+August 13
+
+AER response: 89 D013 wells on its count; further ten-day demands
+
+August 15
+
+Produced-water release on P58349. Segment isolated in about an hour, reported, cleanup begun
+
+Aug
