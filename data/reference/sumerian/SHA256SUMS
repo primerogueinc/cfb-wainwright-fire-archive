@@ -5,12 +5,13 @@ ad77c131d03ce1b3dba683debc4a2439eea85807a58de16f21bed6baefa4d84a  ./SUMERIAN_HEA
 b5fe8d8591f15c5214e0faa9a6ff993c5bbd70ee40d628bb6376a0d6d8acbe44  ./closeup_burn_r15_before_oct04.jpg
 bc7229a7356f31e1b77c5f08438337af98fa9e44e5f0384c82254ef99fa62f06  ./court/2025abkb621_cleo_energy_re.pdf
 1a8c178a38ad799c5a06b7917f9367d1e912ede595d575a6eb22a67f26c591c6  ./court/2026abkb742_2755857_alberta_re.pdf
-81c90276c90897b9a892083ab0c5698eb91967b130dbd3fad088d9dc16b51b3a  ./court/cleo_proceedings/DUPLICATES.csv
-4a508a298127a43ecb0cf9edfae516341843ca64728641716902ee7d5f02616a  ./court/cleo_proceedings/INDEX.csv
+7e2556fa76b998aa3e44852c43209227cc98306beb81270336a9ad34ab5bb444  ./court/cleo_proceedings/DUPLICATES.csv
+96d64afe9eb03dfd7c756301eca9eb05ef6e3eb58d81c1383707f8571f80ecab  ./court/cleo_proceedings/INDEX.csv
 b79541939e09014e44411bbcdcf41b4e798097ff1dbb4c1a018c2c9f3bca100d  ./court/cleo_proceedings/README.md
-0eb9718f50ba1c84e3db952d4aa0f3a82f554a9539407d0de03a6e1707ff04f2  ./court/cleo_proceedings/SITE_LISTING.csv
+61ef75267655a8c4100d7ae1c41ea423c1e4cd309c8ffb129a145c315b081bc6  ./court/cleo_proceedings/SITE_LISTING.csv
 bfd085ba4d77f25e54a3e8f3744dc95dd95342435c14acb16bd24251ee1db25d  ./court/cleo_proceedings/noi/2024-12-08_certificate-for-the-notice-of-intention-25-3163430.pdf
 7424b53ffbc383972705915b2eee00475cf27a916f8ba8c922cc9ae0f8569d6e  ./court/cleo_proceedings/noi/2024-12-08_cleo-notice-to-creditors-of-noi-december-13-2024-redacted.pdf
+e3f784fe38e599df75985d4cd07822993784d3c0745e56889d32f39813956054  ./court/cleo_proceedings/noi/2025-03-25_application.pdf
 6c0a1470b03a3cf97f813df8b4f7cf287bd24cd83a3941034ca18ec453c3bf49  ./court/cleo_proceedings/noi/2025-03-26_order-approving-proposal-trustee-s-activities-fees-and-disbursements.pdf
 6e2b1d4c57ac988e05463a1a8d5737a17a0824ef4456c6ce84d4a7cfed13de17  ./court/cleo_proceedings/noi/2025-03-31_order-sale-approval-and-vesting-nuova-strada-ventures-ltd.pdf
 c364e40100d0b1156eedf34cd629704583fa79a97d700bb799ab3e6613245555  ./court/cleo_proceedings/noi/2025-03-31_order-sale-approval-and-vesting-surge-energy-inc.pdf
@@ -26,6 +27,10 @@ d5d71b6034279fb8879f2f317cef41b600c164b5c33e84adff2b2c7401467d8e  ./court/cleo_p
 759c71d67d788f775485e1fd9e8b02f5225c4e8e7189d8d53ced09996e368288  ./court/cleo_proceedings/noi/2025-06-02_sealing-order.pdf
 70043f7f3ccc634c4c32daf2a371a64655d2654ddc78e98e9af3883f51dfd8b8  ./court/cleo_proceedings/noi/2025-06-04_order-approving-proposal-trustee-s-activities-fees-and-disbursements.pdf
 8e49168cfb46f9b2d8f404041cde21697d67270e2b3787820231270a5dfffc68  ./court/cleo_proceedings/noi/undated_bench-brief-of-cleo-energy-corp.pdf
+c75959e1399dfee9af52856aa7f5dc341f9fd3578a542e8da13e103139477dc1  ./court/cleo_proceedings/noi/undated_bench-brief-of-cleo-energy-corp_2.pdf
+620872c145957eed26f96820d1ed51a6e137076f41143efdeb1349cf04e5408b  ./court/cleo_proceedings/noi/undated_bench-brief-of-cleo-energy-corp_3.pdf
+d84c4a5c23ef5c40fb0ba1f11aae5ea35a0058be86a0dc86a0e5cece347f74c5  ./court/cleo_proceedings/noi/undated_book-of-authorities-of-cleo-energy-corp.pdf
+29250d4ce038adbd3da57ad8ac6ad40cc0a0d4a919eac01e57c6eeee3d2caaab  ./court/cleo_proceedings/noi/undated_book-of-authorities-of-cleo-energy-corp_2.pdf
 b56984872c8e05eccad1d188cf63fd5dae6e9f6fe64369de6fb93bfd7d8b7fa8  ./court/cleo_proceedings/receivership/2025-05-26_originating-application.pdf
 6693ff0b9784107e6e496eedb19e0a39e34010377aeb9d6fb46287a7e10305fd  ./court/cleo_proceedings/receivership/2025-06-02_book-of-authorities.pdf
 730c05e4f316a823af5be061289388eb6f44486b61a5324d69418670ad8313f3  ./court/cleo_proceedings/receivership/2025-10-06_first-report-of-alvarez-marsal-canada-inc-in-its-capacity-as-receiver-.pdf

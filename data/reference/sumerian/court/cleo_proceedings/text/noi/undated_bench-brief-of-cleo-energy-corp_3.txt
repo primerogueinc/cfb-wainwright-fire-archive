@@ -1,0 +1,474 @@
+                                                                        Clerk’s Stamp
+
+
+
+ COURT FILE NUMBER          B301-163430
+
+ COURT                      COURT OF KING’S BENCH OF ALBERTA
+
+ JUDICIAL CENTRE            CALGARY
+
+                            IN THE MATTER OF THE BANKRUPTCY AND INSOLVENCY
+                            ACT, RSC 1985, C B-3, AS AMENDED
+
+                            AND IN THE MATTER OF THE NOTICE OF INTENTION TO
+                            MAKE A PROPOSAL OF CLEO ENERGY CORP.
+
+ DOCUMENT                   BENCH BRIEF OF CLEO ENERGY CORP.
+
+ ADDRESS FOR SERVICE        GOWLING WLG (CANADA) LLP
+ AND CONTACT                Suite 1600, 421 – 7th Avenue SW
+ INFORMATION OF PARTY       Calgary, AB T2P 4K9
+ FILING THIS DOCUMENT
+                            Telephone:    403-298-1946 / 403-298-1938
+                            Fax:          403-263-9193
+                            Email:        sam.gabor@gowlingwlg.com /
+                                          tom.cumming@gowlingwlg.com
+                            File No.:     G10010664
+
+                            Attention:    Sam Gabor/ Tom Cumming
+
+             APPLICATION BEFORE THE HONOURABLE JUSTICE ARMSTRONG
+             APRIL 30, 2025 AT 10:00 AM ON THE CALGARY COMMERCIAL LIST
+
+
+
+
+67963776\2
+                                                     Table of Contents
+
+                                                                                                                                          Page
+
+
+PART I.      INTRODUCTION ........................................................................................................... 1
+
+        A.   Background to the Application .......................................................................................... 2
+
+PART II.     ISSUES.............................................................................................................................. 3
+
+PART III.    LAW AND ARGUMENT................................................................................................ 3
+
+        A.   Extension of the Filing Period is Appropriate ................................................................... 3
+        B.   Sealing Order ..................................................................................................................... 6
+
+PART IV.     CONCLUSION AND RELIEF SOUGHT ..................................................................... 8
+
+
+
+
+                                                                   i
+67963776\2
+PART I.         INTRODUCTION
+
+1.      Cleo is a private Alberta corporation formed in 2016 and carries on the business of producing
+        medium gravity based oil and gas with operated and non-operated working interests in the Alliance,
+        Atlee, Enchant/Taber, Fabyan, Hayter, Kessler, Neutral Hills, Sedgewick, Shorncliffe and Silver
+        Heights areas of Alberta. Cleo’s head office is located in Calgary, Alberta and has a field office in
+        Shorncliffe, Alberta.
+
+2.      Since early in 2024, Cleo has been experiencing serious financial difficulties and therefore on
+        December 8, 2024, filed a notice of intention to make a proposal pursuant to section 50.4(1) of the
+        Bankruptcy and Insolvency Act, RSC 1985, c B-3, as amended (the “BIA”, and the proceedings
+        initiated thereby, the “Proposal Proceedings”) designating Alvarez & Marsal Canada Inc.
+        (“A&M”) as its proposal trustee (in such capacity, the “Proposal Trustee”).
+
+3.      The initial 30-day time period within which a proposal was required to be filed under section
+        50.4(8) of the BIA ended on January 7, 2025. Pursuant to an Order of the Honourable Justice Lema
+        pronounced on January 6, 2025 (the “January 6 Order”), the time within which Cleo was required
+        to file a proposal was extended to February 21, 2025. Pursuant to a second Order of the Honourable
+        Justice Lema pronounced on February 19, 2025 (the “February 19 Order”), that time period was
+        extended to April 4, 2025. Pursuant to a third Order of the Honourable Justice Bourque pronounced
+        on April 1, 2025 (the “April 1 Order”), that time period was extended to May 9, 2025.
+
+4.      This Bench Brief is submitted on behalf of Cleo in support of an application (the “Application”)
+        for the following Orders:
+
+        (a)     an Order (the “Extension Order”) extending the period within which Cleo is required
+                under section 50.4(8) of the BIA to file a proposal, currently ending May 9, 2025, by an
+                additional 30 days to end on June 8, 2025 (such period, as extended from time to time under
+                section 50.4(9) of the BIA, being the “Filing Period”);
+
+        (b)     an Order (the “Sealing Order”) sealing the confidential appendix (the “Confidential
+                Appendix”) to the fifth report of Alvarez & Marsal Canada Inc. (“A&M”) in its capacity
+                as proposal trustee of Cleo (in such capacity, the “Proposal Trustee”, and such report, the
+                “Fifth Report”); and
+
+        (c)     such other relief as this Honourable Court deems appropriate.
+
+
+
+67963776\2
+                                                            2
+
+
+5.         This Application is supported by an Affidavit sworn April 22, 2025 by Chris Lewis, the sole
+           Director, Executive Chairman, and Chief Executive Officer of Cleo (the “April 22 Affidavit”).
+           The further facts with respect to the Application are more fully set out in, and this Brief will rely
+           upon:
+
+           (a)      the April 22 Affidavit;
+
+           (b)      the Fourth Report; and
+
+           (c)      the Confidential Appendix.
+
+6.         All references to monetary amounts referenced herein are in Canadian dollars, unless otherwise
+           stated and capitalized terms not defined herein have the meanings given to them in the April 22
+           Affidavit.
+
+A.         Background to the Application
+
+7.         Pursuant to an Order of the Honourable Justice J.T. Nielson pronounced January 22, 2025 (the
+           “Sale Process Order”), the Court approved a sale and solicitation process (the “SSP”) that
+           provided for the marketing of the business and properties of Cleo (the “Properties”) and the
+           manner in which bids to purchase Properties or invest in Cleo are to be made and assessed, and
+           approved Cleo’s engagement of Sayer Energy Advisors as a financial advisor and sale agent (the
+           “Sales Agent”).
+
+8.         Prior to the April 1 Order, the Proposal Trustee sent an email to remaining Qualified Bidders within
+           the SSP extending the Binding Bid Submission Date to March 27, 2025. Cleo and the Sale Agent
+           have since received several offers from Qualified Bidders and are negotiating with Qualified
+           Bidders. Cleo requires an extension of time until June 8, 2025 in order to negotiate one or more
+           binding transactions, obtain court approval and close one or more transactions prior to June 8,
+           2025.1
+
+9.         Cleo further requires the extension of time to discuss and further work through the SSP with the
+           AER, which Cleo and the Proposal Trustee are having ongoing discussions with regarding its assets
+           and deemed liabilities.2
+
+
+
+1
+    Affidavit of Chris Lewis, sworn April 22, 2025 (the “April 22 Affidavit”), para. 16.
+2
+    Ibid, para. 17.
+
+
+67963776\2
+                                                           3
+
+
+PART II.            ISSUES
+
+10.         This Bench Brief addresses whether this Honourable Court should make the following Orders:
+
+            (a)     the Extension Order; and
+
+            (b)     the Sealing Order.
+
+PART III.           LAW AND ARGUMENT
+
+A.          Extension of the Filing Period is Appropriate
+
+11.         The initial 30-day period within which Cleo was required to file a proposal ended on January 7,
+            2025. That period was extended by the January 6 Order to February 21, 2025; it was further
+            extended from February 19, 2025 to April 4, 2025 pursuant to the February 19 Order; it was further
+            extended from April 4, 2025 to May 9, 2025 pursuant to the April 1 Order.
+
+12.         If Cleo fails to file a proposal by May 9, 2025, or by the date of any extension granted under section
+            50.4(9) of the BIA, under section 50.4(8) Cleo will be deemed to have made an assignment in
+            bankruptcy.
+
+13.         The six (6) month time period for Cleo to file a proposal to its creditors ends on June 8, 2025, and
+            thereafter on June 9, 2025, Cleo shall be deemed bankrupt in accordance with the Bankruptcy and
+            Insolvency Act.3
+
+14.         Under section 50.4(9) of the BIA, Cleo is entitled to apply to the Court for an Order extending the
+            Filing Period:
+
+                    50.4(9) The insolvent person may, before the expiry of the 30-day period referred to
+                    in subsection (8) or of any extension granted under this subsection, apply to the court
+                    for an extension, or further extension, as the case may be, of that period, and the court,
+                    on notice to any interested persons that the court may direct, may grant the extensions,
+                    not exceeding 45 days for any individual extension and not exceeding in the aggregate
+                    five months after the expiry of the 30-day period referred to in subsection (8), if
+                    satisfied on each application that
+
+                    (a) the insolvent person has acted, and is acting, in good faith and with due diligence;
+
+
+
+
+3
+    Ibid.
+
+
+67963776\2
+                                                      4
+
+
+                (b) the insolvent person would likely be able to make a viable proposal if the extension
+                being applied for were granted; and
+
+                (c) no creditor would be materially prejudiced if the extension being applied for were
+                granted.4
+
+15.     Under section 50.4(9) of the BIA, the burden of proof is on the debtor to show on the balance of
+        probabilities that an extension is justified,5 although the evidentiary threshold to meet the onus is
+        low.6 The Court assesses the likelihood of a debtor making a viable proposal on an objective basis,
+        considering what a reasonable creditor might expect to happen or what might reasonably be
+        expected to occur, rather than what a specific creditor would do.7 The test requires a dispassionate
+        evaluation by the Court to consider what a reasonable creditor might expect to happen or what
+        might reasonably be expected to occur.8
+
+16.     Cleo and the Sales Agent have received several offers from qualified Phase 2 bidders under the
+        SSP (“Qualified Bidders”) and are negotiating binding transactions with Qualified Bidders. Cleo
+        requires an extension of time until June 8, 2025 in order to negotiate one or more binding
+        transactions, obtain court approval, and close one or more transactions prior to June 8, 2025.9
+
+17.     Cleo’s efforts during the Proposal Proceedings are now focussed on carrying out the SSP. Courts
+        have indicated that seeking a sale of assets is evidence of good faith for the purposes of section
+        50.4(9) of the BIA.10
+
+18.     Cleo is seeking an extension of the Filing Period to June 8, 2025. Cleo respectfully submits that
+        the extension is appropriate for the following reasons:
+
+        (a)     Cleo has acted and continues to act in good faith and with due diligence;
+
+        (b)     no creditor will be materially prejudiced by the requested extension of the stay of
+                proceedings (the “Stay Period”); and
+
+
+
+
+4
+  BIA section 50.4(9) [Tab 1].
+5
+  Re Heritage Flooring Ltd., 2004 NBQB 168, paras 31, 32 and 37 [Tab 2].
+6
+  Re Scotian Distribution Services Limited, 2020 NSSC 131, para 24 [Tab 3]; Re T & C Steel Ltd, 2022 SKKB 236,
+para 20 [Tab 4].
+7
+  Nautican v Dumont, 2020 PESC 15, paras 16-18 [Tab 5].
+8
+  Baldwin Valley Investors Inc., Re, 1994 CarswellOnt 254 [Tab 6].
+9
+  April 22 Affidavit, para. 16.
+10
+   Re Colossus Minerals, 2014 ONSC 514, para 39 [Tab 7].
+
+
+67963776\2
+                                                         5
+
+
+           (c)       the extension of the Stay Period is necessary to allow Cleo sufficient time and opportunity
+                     to continue the restructuring of its business and affairs and continue forward with the SSP.
+
+19.        Since the NOI was filed, Cleo has worked diligently and in good faith to advance these Proposal
+           Proceedings and to comply with the various requirements under the BIA. These steps have included
+           the following since Cleo’s last extension hearing, among other things:
+
+           (a)       working with the Sale Agent and the Proposal Trustee to advance the SSP including
+                     addressing questions of Bidders and providing information for the Data Room and to the
+                     Sale Agent and Bidders;
+
+           (b)       providing the Proposal Trustee with continuing access to its books and records;
+
+           (c)       working with the Proposal Trustee on the preparation of the Revised Cash Flow Projections
+                     (as defined below);
+
+           (d)       communicating with creditors and other stakeholders regarding the Proposal Proceedings;
+
+           (e)       closing the previously court approved transactions with IIH, Nuova Strada and Surge;
+
+           (f)       communicating with the AER regarding the status of its licensed Properties, its operations,
+                     the Proposal Proceedings and the SSP;
+
+           (g)       communicating with customers regarding the Proposal Proceedings;
+
+           (h)       through counsel, working with Transalta regarding revised prepayment arrangements for
+                     power;
+
+           (i)       continuing to review its operating expenses, pursue the collection of accounts receivable
+                     and take other steps to ensure Cleo remains financially viable during these Proposal
+                     Proceedings; and
+
+           (j)       preparing this Application.11
+
+
+
+
+11
+     April 22 Affidavit, para. 19.
+
+
+67963776\2
+                                                         6
+
+
+20.     Cleo’s creditors will not be prejudiced by the extension of the Filing Period. Rather, the extension
+        is critical to permitting Cleo to carry out the SSP.12
+
+21.     The revised cash flow projections prepared by the Proposal Trustee with the assistance of Cleo for
+        the period beginning with the week of April 19, 2025 and ending with the week of June 8, 2025
+        (the “Revised Cash Flow Projections”) confirm that Cleo will have sufficient working capital to
+        continue the Proposal Proceedings and the SSP until the week of June 8, 2025.13
+
+22.     The Proposal Trustee is supportive of the extension of the Filing Period to June 8, 2025.14
+
+B.      Sealing Order
+
+23.     Cleo requests a sealing order with respect to the Confidential Appendix, until the filing by the
+        Proposal Trustee of a certificate confirming that no further sales under the SSP are pending or
+        further order of the court.
+
+24.     The notice to the media that Cleo was seeking the Sealing Order was given on April 22, 2025.
+
+25.     Part 6 of Division 4 of the Alberta Rules of Court and in particular Rules 6.28 to 6.30, provide that
+        the Court may order that a document filed in a civil proceeding is confidential, may sealed and not
+        form part of the public record of the proceedings.
+
+26.     The test to obtain a sealing order was set out by the Supreme Court of Canada in Sierra Club of
+        Canada v Canada (Minister of Finance)15 and revised by the Supreme Court in Sherman Estate v
+        Donovan:
+
+                 “The test for discretionary limits on presumptive court openness has been expressed as a
+                 two-step inquiry involving the necessity and proportionality of the proposed order (Sierra
+                 Club, at para. 53). Upon examination, however, this test rests upon three core prerequisites
+                 that a person seeking such a limit must show. Recasting the test around these three
+                 prerequisites, without altering its essence, helps to clarify the burden on an applicant
+                 seeking an exception to the open court principle. In order to succeed, the person asking a
+                 court to exercise discretion in a way that limits the open court presumption must establish
+                 that:
+
+                 (1)      court openness poses a serious risk to an important public interest;
+
+
+
+
+12
+   April 22 Affidavit, para 25.
+13
+   April 22 Affidavit, para 34.
+14
+   April 22 Affidavit, para 35.
+15
+   Sierra Club of Canada v Canada (Minister of Finance), 2002 SCC 41, para 53 [Tab 8].
+
+
+67963776\2
+                                                         7
+
+
+                (2)      the order sought is necessary to prevent this serious risk to the identified interest
+                         because reasonably alternative measures will not prevent this risk; and,
+
+                (3)      as a matter of proportionality, the benefits of the order outweigh its negative
+                         effects.
+
+                Only where all three of these prerequisites have been met can a discretionary limit on
+                openness — for example, a sealing order, a publication ban, an order excluding the public
+                from a hearing, or a redaction order — properly be ordered. This test applies to all
+                discretionary limits on court openness, subject only to valid legislative enactments.”16
+
+27.     The Confidential Appendix attaches a copy of the Confidential Sales Agent Report that contains
+        the Sale Agent’s analysis of the Phase 2 Qualified Bids. It is being submitted to the Court so that
+        the Court has appropriate oversight over the status of the SSP.
+
+28.     The disclosure to the public of the Confidential Appendix would be highly prejudicial to the SSP
+        and Cleo’s ability to maximize the value of its Properties. The reasons, which are outlined in the
+        April 22 Affidavit, include that:
+
+        (a)     Cleo, the Sale Agent and the Proposal Trustee are still attempting to sell the majority of
+                the Properties, and the disclosure of Qualified Bids would hamper their ability to finalize
+                APAs for those Properties with Qualified Bidders;
+
+        (b)     the economic terms of the Qualified Bids were provided on a confidential basis and if
+                disclosed, would undermine the integrity of the sale process and be a “chill” on the
+                willingness of parties to submit further bids;
+
+        (c)     the period during which the proposed Sealing Order would operate is limited to the period
+                required to complete the sales of any Properties that Cleo is able to sell pursuant to the
+                SSP.17
+
+29.     One of the fundamental purposes of the BIA is to achieve the equitable distribution of assets,18 and
+        an important mechanism for achieving an equitable distribution through maximizing the value of a
+        debtor’s estate in sales out of the ordinary course of business under section 65.13 of the BIA.
+        Maintaining the confidentiality of the bidding process, and of information on the value of a debtor’s
+        assets, protects the integrity of a sale process.
+
+
+
+16
+   Sherman Estate v Donovan, 2021 SCC 25, para 38 [Tab 9].
+17
+   April 22 Affidavit, para 29.
+18
+   Orphan Well Association v Grant Thornton Ltd, 2019 SCC 5, para 67 [Tab 10]; Alberta (Attorney General) v
+Moloney, 2015 SCC 51, para 33 [Tab 11].
+
+
+67963776\2
+                                                      8
+
+
+30.     It is submitted that the integrity of a sale process contemplated by section 65.13 is an important
+        public interest which is put at risk by the Confidential Appendix being on the public record.
+        Further, the only reasonable way to protect that interest is pursuant to the Sealing Order, which for
+        a limited period of time keeps the Confidential Appendix sealed. Once the Proposal Trustee files
+        a certificate stating that all sales under the SSP have been completed and the SSP has been
+        terminated, or a further Order of this Honourable Court is made, the Confidential Appendix will no
+        longer be sealed. Hence, the limit on the open court principle posed by the Sealing Order is limited
+        in duration.
+
+31.     There are no reasonable alternative measures that would protect these sensitive commercial
+        interests of Cleo and its stakeholders, and yet still permit the Confidential Appendix to be available
+        to this Honourable Court for its review in connection with Cleo’s Application. Further, during
+        insolvency proceedings, similar limits on sensitive economic data is typically subject to time
+        limited sealing orders while sale processes play out.
+
+32.     Because of the importance of the SSP to these Proposal Proceedings, Cleo submits that the salutary
+        effects of the Sealing Order outweigh any negative the temporary limits on any public access to
+        that information pursuant to the open court principle.
+
+PART IV.        CONCLUSION AND RELIEF SOUGHT
+
+33.     For the reasons above, Cleo requests the Orders sought be granted as they are fair, necessary and
+        reasonable in the circumstances.
+
+ALL OF WHICH IS RESPECTFULLY SUBMITTED this 22ndh day of April, 2025.
+
+                                                 GOWLING WLG (CANADA) LLP
+
+
+                                                 Per: ___________________________________
+                                                      Sam Gabor/Tom Cumming
+                                                      Counsel for Cleo Energy Corp.
+
+
+
+
+67963776\2
+                                             9
+
+
+                               TABLE OF AUTHORITIES
+
+
+
+ Tab         Authority
+
+ 1.          Bankruptcy and Insolvency Act, RSC 1985, c B-3
+ 2.          Re Heritage Flooring Ltd., 2004 NBQB 168
+ 3.          Re Scotian Distribution Services Limited, 2020 NSSC 131
+
+ 4.          Re T & C Steel Ltd, 2022 SKKB 236
+ 5.          Nautican v Dumont, 2020 PESC 15
+ 6.          Baldwin Valley Investors Inc., Re, 1994 CarswellOnt 254
+
+ 7.          Re Colossus Minerals, 2014 ONSC 514
+
+ 8.          Sierra Club of Canada v Cafnada (Minister of Finance), 2002 SCC 41
+
+ 9.          Sherman Estate v Donovan, 2021 SCC 25
+
+ 10.         Orphan Well Association v Grant Thornton Ltd, 2019 SCC 5
+
+ 11.         Alberta (Attorney General) v Moloney, 2015 SCC 51
+
+
+
+
+67963776\2
+

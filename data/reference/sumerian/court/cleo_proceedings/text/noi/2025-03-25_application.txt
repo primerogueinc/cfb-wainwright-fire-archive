@@ -1,0 +1,1664 @@
+                                                                                       Form 7 Rule 3.8
+                                                                                    Clerk's Stamp
+
+
+ COURT FILE NO.             B301-163430
+
+ COURT                      COURT OF KING’S BENCH OF ALBERTA
+
+ JUDICIAL CENTRE            CALGARY
+                            IN THE MATTER OF THE BANKRUPTCY AND INSOLVENCY ACT, RSC
+                            1985, C B-3, AS AMENDED
+                            AND IN THE MATTER OF THE NOTICE OF INTENTION TO MAKE A
+                            PROPOSAL OF CLEO ENERGY CORP.
+
+ APPLICANT                  CLEO ENERGY CORP.
+
+ DOCUMENT                   APPLICATION
+
+ ADDRESS FOR                Gowling WLG (Canada) LLP
+ SERVICE AND                1600, 421 – 7th Avenue S.W.
+ CONTACT                    Calgary, AB T2P 4K9
+ INFORMATION                Attention: Sam Gabor / Tom Cumming
+ OF PARTY                   Telephone: 403) 298-1946 / (403) 298-1938
+ FILING THIS                Facsimile: (403) 263-9193
+ DOCUMENT                   Email:       sam.gabor@gowlingwlg.com / tom.cumming@gowlingwlg.com
+                            File No.     G10010664
+
+
+NOTICE TO THE RESPONDENTS
+
+This application is made against you.
+
+You have the right to state your side of this matter before the Justice.
+
+To do so, you must be in Court when the application is heard as shown below:
+
+             Date:              March 25, 2025
+             Time:              11:00 a.m. MST
+             Where:             By Webex (see Webex details at Schedule “F”)
+             Before Whom:       The Honourable Justice M.H. Bourque in Commercial
+                                Chambers (Calgary)
+
+Go to the end of this document to see what you can do and when you must do it.
+
+Remedy claimed or sought:
+
+1.      The applicant, CLEO Energy Corp. (“CLEO”), in connection with the proceedings under Division
+        I of Part III of the Bankruptcy and Insolvency Act, RSC 1985, c B-3, as amended (the “BIA”, and
+67119808\5
+                                                   2
+
+        such proceedings, the “Proposal Proceedings”), commenced by notice of intention to make a
+        proposal filed on December 8, 2024 (the “Filing Date”, and such notice, the “NOI”), applies for
+        the following Orders:
+
+        (a)    an Order:
+
+               (i)     abridging the time for service of notice of this Application, deeming service of
+                       notice of this Application to be good and sufficient, and declaring that there is no
+                       other person who ought to have been served with notice of this Application; and
+
+               (ii)    extending the period within which Cleo is required under section 50.4(8) of the
+                       BIA to file a proposal, currently ending April 4, 2025, by an additional 35 days to
+                       end on May 9, 2025 (such period, as extended from time to time under section
+                       50.4(9) of the BIA, being the “Filing Period”),
+
+               which Order is substantially in the form attached hereto as Schedule “A” (the “Extension
+               Order”);
+
+        (b)    an Order (the “IHH SAVO”) approving the sale of certain assets (the “IHH Assets”)
+               pursuant to an asset purchase agreement dated as of March 14, 2025 (the “IHH APA”)
+               between CLEO and IHH Energy Corp. (“IHH”) and vesting all of the right, title and
+               interest of CLEO in and to the IHH Assets, free and clear of any and all caveats, security
+               interests, hypothecs, pledges, mortgages, liens, trusts or deemed trusts, reservations of
+               ownership, royalties, options, rights of pre-emption, privileges, interests, assignments,
+               actions, judgements, executions, levies, taxes, writs of enforcement, charges, or other
+               claims, whether contractual, statutory, financial, monetary or otherwise, whether or not
+               they have attached or been perfected, registered or filed and whether secured, unsecured or
+               otherwise (collectively, “Encumbrances”), which IHH SAVO is substantially in the form
+               attached hereto as Schedule “B”;
+
+        (c)    an Order (the “Nuova SAVO”) approving the sale of certain assets (the “Nuova Assets”)
+               pursuant to an asset purchase agreement dated as of March 14, 2025 (the “Nuova APA”)
+               between CLEO and Nuova Strada Ventures Ltd. (“Nuova”) and vesting all of the right,
+               title and interest of CLEO in and to the Nuova Assets, free and clear of any and all
+               Encumbrances, which Nuova SAVO is substantially in the form attached as Schedule “C”;
+
+        (d)    an Order (the “Surge SAVO”, and together with the IHH SAVO and the Nuova SAVO,
+               the “SAVOs”) approving the sale of certain assets (the “Surge Assets”) pursuant to an
+67119808\5
+                                                        3
+
+                   asset purchase agreement dated as of March 14, 2025 (the “Surge APA”, and together with
+                   the IHH APA and the Nuova APA, the “APAs”) between CLEO and Surge Energy Inc.
+                   (“Surge”) and vesting all of the right, title and interest of CLEO in and to the Surge Assets,
+                   free and clear of any and all Encumbrances, which Surge SAVO is substantially in the form
+                   attached as Schedule “D”;
+
+        (e)        an Order (the “Sealing Order”) sealing the confidential supplement (the “Confidential
+                   Supplement”) to the fourth report of Alvarez & Marsal Canada Inc. (“A&M”) in its
+                   capacity as proposal trustee of Cleo (in such capacity, the “Proposal Trustee”, and such
+                   report, the “Fourth Report”), which Sealing Order is substantially in the form attached
+                   hereto as Schedule “E”; and
+
+        (f)        such further and other relief as Cleo may request and this Honourable Court may grant.
+
+Grounds for making this application:
+
+Background
+
+2.      Cleo was incorporated and is existing under the laws of Alberta in 2016 and carries on business as
+        a producer of oil, natural gas liquids and natural gas in central Alberta. Cleo’s head office is located
+        in Calgary.
+
+3.      Cleo experienced significant reductions in production since the beginning of 2024, which together
+        with lower market prices for oil and gas, resulted in serious working capital shortages. Cleo had
+        insufficient revenue to pay its liabilities in the ordinary course.
+
+4.      In order to address its financial difficulties, Cleo filed the NOI on December 8, 2025 pursuant to
+        Division I of Part III of the BIA, commencing the Proposal Proceedings. A&M was appointed as
+        Proposal Trustee.
+
+5.      The initial 30-day Filing Period expired on January 7, 2025 (as extended from time to time, the
+        “Filing Period”). Pursuant to an Order of the Honourable Justice Lema pronounced January 6,
+        2025 (the “January 6 Order”), the time within which Cleo was required to file a proposal was
+        extended to February 21, 2025. Pursuant to a second Order of the Honourable Justice Lema
+        pronounced February 19, 2025 (the “February 19 Order”), that time period was extended to April
+        4, 2025.
+
+6.      The January 6 Order also approved the Interim Facility, created the Administration Charge, the
+        Interim Lender’s Charge and D&O Charge (as such terms are defined in the January 6 Order, and
+67119808\5
+                                                      4
+
+        collectively, the “BIA Charges”), and declared the BIA Charges rank in priority to any other
+        Encumbrances (as defined in the January 6 Order) and as between the BIA Charges, the
+        Administration Charge ranks first in priority, the Interim Lender’s Charge ranks second in priority
+        and the D&O Charge ranks third in priority. Under the February 19 Order, the maximum principal
+        amount of the Interim Facility and the amount secured by the Interim Lender’s Charge were
+        increased.
+
+SSP
+
+7.      On January 21, 2025, the Honourable Justice Nielson pronounced an Order (the “Sale Process
+        Order”) approving a sale and solicitation process (the “SSP”), under which Cleo is seeking to
+        market and sell its property and assets in consultation with, and with the assistance of, the Proposal
+        Trustee and Sayer Energy Advisors, as sale agent (the “Sale Agent”). The SSP contemplates two
+        phases. In the first phase, which was launched on January 22, 2025, the Sale Agent marketed the
+        undertaking, property and assets of Cleo (collectively, the “Properties”), potential bidders who
+        executed non-disclosure agreements were given access to a confidential data room, and bidders
+        were required to submit non-binding letters of intent (each a “Phase I LOI”) by no later than
+        February 27, 2025 (the “Phase I Bid Deadline”). In the second phase, bidders could carry out
+        additional due diligence and were required to submit binding bids (each, a “Bid”) by no later than
+        March 13, 2025 (the “Binding Bid Deadline”). Under the SSP, the Proposal Trustee determines,
+        in consultation with Cleo and the Sale Agent, which bidders submitting Non-Binding LOIs were
+        entitled to participate in the second phase, and which Bids satisfy the criteria required under the
+        SSP, and which Bids are to be accepted by Cleo (each a “Successful Bid”). Sale transactions under
+        the SSP are to be on an “as is, where is” basis and must be approved by this Honourable Court.
+
+8.      The Sale Agent distributed a marketing teaser describing Cleo’s business and Properties to
+        approximately 2,250 parties by email, and placed advertisements in the BOE Report, Daily Oil
+        Bulletin and the Sale Agent’s Canadian Oil Industry Asset Sale Listing, and with A&D Watch,
+        Energy Advisors Group. Sixty (60) parties executed non-disclosure agreements and accessed the
+        data room, and twenty-two (22) parties submitted twenty-six (26) Phase I LOIs by the Phase I Bid
+        Deadline. On March 7, 2025, the Proposal Trustee sent emails advising ten (10) parties that they
+        were qualified to participate in the second phase and twelve (12) parties that they had not qualified.
+
+9.      The Proposal Trustee designated the Bids submitted by IHH, Nuova and Surge as Successful Bids
+        and in consultation with Cleo and the Sale Agent negotiated the terms of the IHH APA, the Nuova
+        APA and the Surge APA (collectively, the “APAs”). The Proposal Trustee, Cleo and Sale Agent
+        are continuing negotiations with the other seven (7) parties who submitted Qualified Phase I Bids.
+67119808\5
+                                                       5
+
+10.     The purchase and sale transactions (the “Transactions”) contemplated by the APAs satisfy the
+        criteria for approval by this Honourable Court under section 65.13 of the BIA. All secured creditors
+        having interests in the Properties subject to the APAs are on the service list for these Proposal
+        Proceedings and will be given notice of this Application. The SSP was prepared in consultation
+        with the Proposal Trustee and the Sale Agent. The Proposal Trustee recommended that this
+        Honourable Court approve the SSP and the SSP was approved by pursuant to the Sale Process
+        Order. It is anticipated that in the Fourth Report, the Proposal Trustee opined that the Transactions
+        were more beneficial to the creditors than a sale under a bankruptcy. Cleo has kept its principal
+        secured creditors informed with respect to the APAs and Transactions. Finally, given the scope of
+        the marketing efforts pursuant to the SSP, the consideration to be received for the Properties
+        pursuant to the APAs is reasonable and fair.
+
+11.     Further, the common law criteria for approving sales during insolvency proceedings has been
+        satisfied. Sufficient efforts have been made to obtain the best prices, and no party has acted
+        improvidently. In recommending the approval of the Transactions pursuant to the APAs, the
+        Proposal Trustee considered the interests of all parties. Finally, the SSP is being carried out
+        professionally and in a reasonable manner by the Sale Agent and the integrity of the SSP is being
+        ensured by the Proposal Trustee determining which parties submitting Phase I LOIs were qualified
+        to participate in the second phase, and which Bids were Successful Bids, and that there was no
+        unfairness in the working out of the SSP.
+
+12.     The net proceeds from the Transactions will be held in an interest bearing account by the Proposal
+        Trustee and be used to pay necessary amounts owing for professional fees secured by the
+        Administration Charge and to repay amounts owing under the Interim Facility. Any remaining
+        amounts will continue to be held in trust by the Proposal Trustee and be subject to any security
+        vested out by the SAVOs.
+
+Extension of the Filing Period
+
+13.     The Filing Period expires on April 4, 2025. Cleo requires an extension of the Filing Period to
+        continue the SSP, complete the Transactions, and sell other Properties under the SSP.
+
+14.     The criteria for obtaining an order extending the Filing Period under section 50.4(9) of the BIA has
+        been satisfied. All interested parties in such application are on the Service List and are to receive
+        notice of this Application. The number of days by which the Filing Period is being extended does
+        not exceed 45 days, and the aggregate of the extensions of the Filing Period do not exceed 5 months.
+        Further, Cleo has acted, and is acting, in good faith and with due diligence, and no creditor will be
+
+67119808\5
+                                                      6
+
+        materially prejudiced by the extension. Finally, the extension of the Filing Period is necessary to
+        allow Cleo sufficient time and opportunity to continue implementing the SSP, negotiate sales of
+        other Properties and complete the Transactions pursuant to the APAs.
+
+15.     The sale of Cleo’s Properties will significantly reduce the risk to the Alberta public that could arise
+        if operations ceased and there were insufficient working capital to abandon, reclaim and remediate
+        Cleo’s licensed wells, facilities and pipelines, which would potentially result in such Properties
+        having to be surrendered to the Orphan Well Association.
+
+16.     The revised cash flow forecast for the period beginning the week of March 14, 2025 and ending
+        the week of May 9, 2025 indicates that there will be sufficient working capital until the week ending
+        May 9, 2025 to meet Cleo’s obligations which arise during the Proposal Proceedings.
+
+17.     If the Filing Period is not extended, Cleo would be deemed to have made an assignment in
+        bankruptcy, its operations would have to be immediately shut down, the SSP would have to be
+        suspended, and the potential recoveries of creditors of Cleo would be severely impacted.
+
+18.     The Proposal Trustee supports the requested extension of the Filing Period.
+
+Sealing Order
+
+19.     Cleo seeks the sealing of the Confidential Supplement pursuant to the Sealing Order. The
+        Confidential Supplement attaches unredacted copies of the APAs, compares the economic terms of
+        the APAs with the economic terms of other Phase I LOIs that were submitted, contains other
+        confidential information relating to Cleo’s business and Properties, and contains the Proposal
+        Trustee’s recommendations to approve the APAs and Transactions.
+
+20.     If the Confidential Supplement was publicly available, the SSP would be negatively impacted. If
+        the Transactions fail to close, efforts to re-market the Properties subject thereto would be
+        prejudiced. Cleo, the Sale Agent and Proposal Trustee are continuing to negotiate sales of other
+        Properties, and if the Confidential Supplement was publicly available, such negotiations and
+        realizations would be negatively impacted. This poses a serious risk to an important public interest,
+        namely maintaining the integrity of the public interest, and the Sealing Order is necessary to prevent
+        this risk. The benefits of the order outweigh its negative effects and there are no reasonable
+        alternative measures that would protect these interests. The Sealing Order is time limited.
+
+Material or evidence to be relied on:
+
+21.     The Affidavit of Chris Lewis sworn March 17, 2025, to be filed;
+67119808\5
+                                                    7
+
+22.     Bench Brief, to be filed;
+
+23.     The Fourth Report of the Proposal Trustee, to be filed;
+
+24.     The Confidential Supplement to the Fourth Report, to be filed on a sealed basis; and
+
+25.     Such further and other material as counsel may advise and this Honourable Court may permit.
+
+Applicable Acts and regulations:
+
+26.     Rules 1.2, 1.3, 3.2(2)(d), 3.8, 6.3(1), 6.9, 11.27 and 13.5 of the Alberta Rules of Court, Alta Reg
+        124/2010;
+
+27.     The Bankruptcy and Insolvency Act, RSC 1985, c B-3, as amended; and
+
+28.     Such further and other Acts and regulations as counsel may advise and this Honourable Court may
+        permit.
+
+Any irregularity complained of or objection relied on:
+
+29.     None.
+
+How the application is proposed to be heard or considered:
+
+30.     Before the presiding Justice in Commercial Chambers via Webex.
+
+ WARNING
+
+ If you do not come to Court either in person or by your lawyer, the Court may give the
+ applicant(s) what they want in your absence. You will be bound by any order that the Court
+ makes. If you want to take part in this application, you or your lawyer must attend in Court on
+ the date and time shown at the beginning of this form. If you intend to give evidence in response
+ to the application, you must reply by filing an affidavit or other evidence with the Court and
+ serving a copy of that affidavit or other evidence on the applicant(s) a reasonable time before
+ the application is to be heard or considered.
+
+
+
+
+67119808\5
+                 Schedule “A”
+             Draft Extension Order
+
+
+
+
+67119808\5
+                                                                                            Clerk’s Stamp
+
+ COURT FILE NO.             B301-163430
+
+ COURT                      COURT OF KING’S BENCH OF ALBERTA
+
+ JUDICIAL CENTRE            CALGARY
+
+                            IN THE MATTER OF THE BANKRUPTCY AND INSOLVENCY ACT, RSC
+                            1985, C B-3, AS AMENDED
+
+                            AND IN THE MATTER OF THE NOTICE OF INTENTION TO MAKE A
+                            PROPOSAL OF CLEO ENERGY CORP.
+
+ APPLICANT                  CLEO ENERGY CORP.
+
+ DOCUMENT                   ORDER (Stay Extension)
+
+ ADDRESS FOR                Gowling WLG (Canada) LLP
+ SERVICE AND                1600, 421 – 7th Avenue SW
+ CONTACT                    Calgary, AB T2P 4K9
+ INFORMATION OF
+ PARTY FILING THIS          Attn:        Sam Gabor / Tom Cumming
+ DOCUMENT                   Phone:      403.298.1946 / 403.298.1938
+                            Fax:        403.263.9193
+                            Email:      sam.gabor@gowlingwlg.com / tom.cumming@gowlingwlg.com
+                            File No.:   G10010664
+
+DATE ON WHICH ORDER WAS PRONOUNCED:                                 March 25, 2025
+
+LOCATION WHERE ORDER WAS PRONOUNCED:                                Calgary, Alberta
+
+JUSTICE WHO MADE THIS ORDER:                                        The Honourable Justice M.H. Bourque
+                                                                    in Commercial Chambers
+
+             UPON THE APPLICATION of Cleo Energy Corp. (“Cleo”) filed December 23, 2024 for
+an order extending the time within which a proposal must be filed;
+
+             AND UPON reading the Affidavit of Chris Lewis sworn March 17, 2025 (the “Affidavit”),
+the Affidavit of Service of Sherry Langley, sworn March ●, 2025 and the Fourth Report of Alvarez
+& Marsal Canada Inc. in its capacity as proposal trustee of Cleo (in such capacity, the “Proposal
+Trustee”) dated March ●, 2025; AND UPON hearing submissions by counsel for Cleo, the Proposal
+Trustee, counsel for the Proposal Trustee and any other counsel or other interested parties present,
+
+IT IS HEREBY ORDERED THAT:
+
+1.     The time for service of the notice of application for this order (the “Order”) is hereby abridged and
+       deemed good and sufficient and this application is properly returnable today, and no other than those
+       persons served is entitled to service of the notice of application.
+
+67119713\5
+2.      The time within which Cleo is required to file a proposal to its creditors with the Official Receiver
+        under section 50.4 of the Bankruptcy and Insolvency Act, RSC 1985, c B-3 (the “BIA”) is hereby
+        extended to May 9, 2025 (as extended from time to time, the “Filing Period”).
+
+3.      Service of this Order may be effected by facsimile, electronic mail, personal delivery or courier to
+        the service list (the “Service List”) in the proceedings. Service is deemed to be effected the next
+        business day following transmission or delivery of this Order.
+
+4.      This Order shall be posted on the Proposal Trustee’s website for these proceedings at:
+        https://www.alvarezandmarsal.com/CLEO.
+
+
+
+
+                                                       J.C.K.B.A.
+
+
+
+
+67119713\5
+             Schedule “B”
+             IHH SAVO
+
+
+
+
+67119808\5
+                                                                                         Clerk’s Stamp
+
+ COURT FILE NO.           B301-163430
+
+ COURT                    COURT OF KING’S BENCH OF ALBERTA
+
+ JUDICIAL CENTRE          CALGARY
+
+                          IN THE MATTER OF THE BANKRUPTCY AND INSOLVENCY ACT, RSC
+                          1985, C B-3, AS AMENDED
+                          AND IN THE MATTER OF THE NOTICE OF INTENTION TO MAKE A
+                          PROPOSAL OF CLEO ENERGY CORP.
+
+ APPLICANT                CLEO ENERGY CORP.
+
+ DOCUMENT                 ORDER (Sale Approval and Vesting – IHH Energy Corp.)
+
+ ADDRESS FOR              Gowling WLG (Canada) LLP
+ SERVICE AND              1600, 421 – 7th Avenue SW
+ CONTACT                  Calgary, AB T2P 4K9
+ INFORMATION OF
+                          Attn:       Sam Gabor / Tom Cumming
+ PARTY FILING THIS
+ DOCUMENT                 Phone:      403.298.1946 / 403.298.1938
+                          Fax:        403.263.9193
+                          Email:      sam.gabor@gowlingwlg.com / tom.cumming@gowlingwlg.com
+                          File No.:   G10010664
+
+DATE ON WHICH ORDER WAS PRONOUNCED:                            March 25, 2025
+
+LOCATION WHERE ORDER WAS PRONOUNCED:                           Calgary, Alberta
+
+JUSTICE WHO MADE THIS ORDER:                                   The Honourable Justice M.H. Bourque in
+                                                               Commercial Chambers
+
+             UPON THE APPLICATION of Cleo Energy Corp. (“Cleo”) filed March 17, 2025 for an order
+approving the sale transaction (the “Transaction”) contemplated by a purchase and sale agreement dated as
+of March 14, 2025 (the “Sale Agreement”) between CLEO and IHH Energy Corp. (the “Purchaser”) and
+vesting all of CLEO’s right, title and interest in and to the assets described in the Sale Agreement (the
+“Purchased Assets”);
+
+             AND UPON having read the Affidavit of Chris Lewis sworn March 17, 2025 (the “Affidavit”),
+the Affidavit of Service of Sherry Langley, sworn March ●, 2025, and the Fourth Report of Alvarez &
+Marsal Canada Inc. in its capacity as proposal trustee of Cleo (in such capacity, the “Proposal Trustee”)
+dated March ●, 2025; AND UPON hearing submissions by counsel for Cleo, the Proposal Trustee, counsel
+for the Proposal Trustee and any other counsel or other interested parties present,
+
+
+
+
+67226964\4
+                                                          -2-
+
+
+IT IS HEREBY ORDERED AND DECLARED THAT:
+
+SERVICE
+
+1.      Service of notice of this application and supporting materials is hereby declared to be good and sufficient,
+        no other person is required to have been served with notice of this application and time for service of this
+        application is abridged to that actually given.
+
+APPROVAL OF TRANSACTION
+
+2.      The Transaction is hereby approved and the execution of the Sale Agreement by CLEO is hereby
+        authorized and approved, with such minor amendments as CLEO may deem necessary. CLEO is hereby
+        authorized and directed to take such additional steps and execute such additional documents as may be
+        necessary or desirable for completion of the Transaction and conveyance of the Purchased Assets to the
+        Purchaser.
+
+VESTING OF PROPERTY
+
+3.      Upon delivery of the Proposal Trustee’s certificate to the Purchaser substantially in the form set out in
+        Schedule “A” hereto (the “Proposal Trustee’s Certificate”), all of CLEO’s right, title and interest in
+        and to the Purchased Assets listed in Schedule “B” hereto shall vest absolutely in the name of the
+        Purchaser, free and clear of and from any and all caveats, security interests, hypothecs, pledges,
+        mortgages, liens, trusts or deemed trusts, reservations of ownership, royalties, options, rights of pre-
+        emption, privileges, interests, assignments, actions, judgements, executions, levies, taxes, writs of
+        enforcement, charges, or other claims, whether contractual, statutory, financial, monetary or otherwise,
+        whether or not they have attached or been perfected, registered or filed and whether secured, unsecured
+        or otherwise (collectively, “Claims”) including, without limiting the generality of the foregoing:
+
+        (a)     the Administration Charge (“Administration Charge”), Interim Lender’s Charge (“Interim
+                Lender’s Charge”) and D&O Charge created pursuant to, and having the meanings given to them
+                in, the Order (Stay Extension, Administration Charge, Interim Financing, Interim Financing
+                Charge, D&O Charge and Other Relief) of the Honourable Justice M.J. Lema in these proceedings
+                pronounced January 6, 2025, as amended by his Order (Stay Extension, Interim Financing, Interim
+                Financing Charge and Other Relief) pronounced February 19, 2025;
+
+        (b)     any charges, security interests or claims evidenced by registrations pursuant to the Personal
+                Property Security Act (Alberta) or any other personal property registry system;
+
+        (c)     any liens or claims of lien under the Builders’ Lien Act (Alberta); and
+
+67226964\4
+                                                       -3-
+
+        (d)     those Claims listed in Schedule “C” hereto (all of which are collectively referred to as the
+                “Encumbrances”, which term shall not include the permitted encumbrances, caveats, interests,
+                easements, and restrictive covenants listed in Schedule “D” (collectively, “Permitted
+                Encumbrances”))
+
+        and for greater certainty, this Court orders that all Claims including Encumbrances other than Permitted
+        Encumbrances, affecting or relating to the Purchased Assets are hereby expunged, discharged and
+        terminated as against the Purchased Assets.
+
+4.      Upon delivery of the Proposal Trustee’s Certificate, and upon filing of a certified copy of this Order,
+        together with any applicable registration fees, all governmental authorities and or regulatory bodies
+        including those referred to below in this paragraph (collectively, “Governmental Authorities”) are
+        hereby authorized, requested and directed to accept delivery of the Proposal Trustee’s Certificate and
+        certified copy of this Order as though they were originals and to register such transfers, interest
+        authorizations, discharges and discharge statements of conveyance as may be required to convey to the
+        Purchaser clear title to the Purchased Assets subject only to Permitted Encumbrances. Without limiting
+        the foregoing:
+
+        (a)     Alberta Energy (“Energy Ministry”) shall and is hereby authorized, requested and directed to
+                forthwith:
+
+                (i)      cancel and discharge those Claims including builders’ liens, security notices, assignments
+                         under section 426 (formerly section 177) of the Bank Act (Canada) and other
+                         Encumbrances (but excluding Permitted Encumbrances) registered (whether before or
+                         after the date of this Order) against the estate or interest of CLEO in and to any of the
+                         Purchased Assets located in the Province of Alberta; and
+
+                (ii)     transfer all Crown leases listed in Schedule “E” to this Order standing in the name of
+                         CLEO to the Purchaser free and clear of all Claims including Encumbrances but
+                         excluding Permitted Encumbrances;
+
+        (b)     the Registrar of the Alberta Personal Property Registry (the “PPR Registrar”) shall and is hereby
+                directed to forthwith cancel and discharge any registrations at the Alberta Personal Property
+                Registry (whether made before or after the date of this Order) claiming security interests (other
+                than Permitted Encumbrances) in the estate or interest of CLEO in any of the Purchased Assets
+                which are of a kind prescribed by applicable regulations as serial-number goods.
+
+
+
+
+67226964\4
+                                                         -4-
+
+5.      In order to effect the transfers and discharges described above, this Court directs each of the Governmental
+        Authorities to take such steps as are necessary to give effect to the terms of this Order and the Sale
+        Agreement. Presentment of this Order and the Proposal Trustee’s Certificate shall be the sole and
+        sufficient authority for the Governmental Authorities to make and register transfers of title or interest and
+        cancel and discharge registrations against any of the Purchased Assets of any Claims including
+        Encumbrances but excluding Permitted Encumbrances.
+
+6.      No authorization, approval or other action by and no notice to or filing with any Governmental Authority
+        exercising jurisdiction over the Purchased Assets is required for the due execution, delivery and
+        performance by the Receiver of the Sale Agreement, other than any required approval by the Energy
+        Regulator referenced in paragraph 3 above.
+
+7.      For the purposes of determining the nature and priority of Claims, net proceeds from sale of the Purchased
+        Assets (to be held in an interest bearing trust account by the Proposal Trustee) shall stand in the place and
+        stead of the Purchased Assets from and after delivery of the Proposal Trustee’s Certificate and all Claims
+        including Encumbrances (but excluding Permitted Encumbrances) shall not attach to, encumber or
+        otherwise form a charge, security interest, lien, or other Claim against the Purchased Assets and may be
+        asserted against the net proceeds from sale of the Purchased Assets with the same priority as they had with
+        respect to the Purchased Assets immediately prior to the sale, as if the Purchased Assets had not been sold
+        and remained in the possession or control of the person having that possession or control immediately
+        prior to the sale. Unless otherwise ordered (whether before or after the date of this Order), the Proposal
+        Trustee shall not make any distributions to creditors of net proceeds from sale of the Purchased Assets
+        without further order of this Court, provided however the Proposal Trustee may apply any part of such net
+        proceeds to pay amounts owing as secured by the Administration Charge and repay any amounts CLEO
+        has borrowed as secured by the Interim Lender’s Charge.
+
+8.      Except as expressly provided for by section 5 of the Alberta Employment Standards Code, the Purchaser
+        shall not, by completion of the Transaction, have liability of any kind whatsoever in respect of any Claims
+        against Cleo.
+
+9.      Upon completion of the Transaction, CLEO and all persons who claim by, through or under CLEO in
+        respect of the Purchased Assets, and all persons or entities having any Claims of any kind whatsoever in
+        respect of the Purchased Assets, save and except for persons entitled to the benefit of the Permitted
+        Encumbrances, shall stand absolutely and forever barred, estopped and foreclosed from and permanently
+        enjoined from pursuing, asserting or claiming any and all right, title, estate, interest, royalty, rental, equity
+        of redemption or other Claim whatsoever in respect of or to the Purchased Assets, and to the extent that
+        any such persons or entities remain in the possession or control of any of the Purchased Assets, or any
+
+67226964\4
+                                                          -5-
+        artifacts, certificates, instruments or other indicia of title representing or evidencing any right, title, estate,
+        or interest in and to the Purchased Assets, they shall forthwith deliver possession thereof to the Purchaser.
+
+10.     The Purchaser shall be entitled to enter into and upon, hold and enjoy the Purchased Assets for its own
+        use and benefit without any interference of or by CLEO, or any person claiming by, through or against
+        CLEO.
+
+11.     Immediately upon closing of the Transaction, holders of Permitted Encumbrances shall have no claim
+        whatsoever against CLEO.
+
+MISCELLANEOUS MATTERS
+
+12.     Notwithstanding:
+
+        (a)     the pendency of these proceedings and any declaration of insolvency made herein;
+
+        (b)     the pendency of any applications for a bankruptcy order now or hereafter issued pursuant to the
+                Bankruptcy and Insolvency Act, R.S.C. 1985, c.B-3, as amended (the “BIA”), in respect of Cleo,
+                and any bankruptcy order issued pursuant to any such applications;
+
+        (c)     any assignment in bankruptcy made in respect of CLEO; and
+
+        (d)     the provisions of any federal or provincial statute:
+
+        the vesting of the Purchased Assets in the Purchaser pursuant to this Order shall be binding on any trustee
+        in bankruptcy that may be appointed in respect of CLEO and shall not be void or voidable by creditors of
+        CLEO, nor shall it constitute nor be deemed to be a transfer at undervalue, settlement, fraudulent
+        preference, assignment, fraudulent conveyance, or other reviewable transaction under the BIA or any other
+        applicable federal or provincial legislation, nor shall it constitute oppressive or unfairly prejudicial conduct
+        pursuant to any applicable federal or provincial legislation.
+
+13.     CLEO, the Proposal Trustee, the Purchaser and any other interested party, shall be at liberty to apply for
+        further advice, assistance and direction as may be necessary in order to give full force and effect to the
+        terms of this Order and to assist and aid the parties in closing the Transaction.
+
+14.     This Honourable Court hereby requests the aid and recognition of any court, tribunal, regulatory or
+        administrative body having jurisdiction in Canada or in any of its provinces or territories or in any foreign
+        jurisdiction, to act in aid of and to be complimentary to this Court in carrying out the terms of this Order,
+        to give effect to this Order and to assist the Proposal Trustee and its agents in carrying out the terms of
+        this Order. All courts, tribunals, regulatory and administrative bodies are hereby respectfully requested
+67226964\4
+                                                       -6-
+        to make such order and to provide such assistance to the Proposal Trustee, as an officer of the Court, as
+        may be necessary or desirable to give effect to this Order or to assist the Proposal Trustee and its agents
+        in carrying out the terms of this Order.
+
+GENERAL
+
+15.     Service of this Order may be effected by facsimile, electronic mail, personal delivery or courier to the
+        service list (the “Service List”) in the proceedings. Service is deemed to be effected the next business day
+        following transmission or delivery of this Order.
+
+16.     This Order shall be posted on the Proposal Trustee’s website for these proceedings at:
+        https://www.alvarezandmarsal.com/CLEO.
+
+
+
+
+                                                       J.C.K.B.A.
+
+
+
+
+67226964\4
+                                                       -7-
+                                                SCHEDULE “A”                                     Clerk’s Stamp
+
+                                  PROPOSAL TRUSTEE’S CERTIFICATE
+
+
+ COURT FILE NO.             B301-163430
+
+ COURT                      COURT OF KING’S BENCH OF ALBERTA
+
+ JUDICIAL CENTRE            CALGARY
+
+                            IN THE MATTER OF THE BANKRUPTCY AND INSOLVENCY ACT, RSC
+                            1985, C B-3, AS AMENDED
+                            AND IN THE MATTER OF THE NOTICE OF INTENTION TO MAKE A
+                            PROPOSAL OF CLEO ENERGY CORP.
+
+ APPLICANT                  CLEO ENERGY CORP.
+
+ DOCUMENT                   PROPOSAL TRUSTEE’S CERTIFICATE
+
+ ADDRESS FOR                Miller Thomson LLP
+ SERVICE AND                525-8th Avenue SW, 43rd Floor
+ CONTACT                    Calgary, AB, Canada T2P 1G1
+ INFORMATION OF
+                            Attn:        James W. Reid
+ PARTY FILING THIS
+                            Phone:       403-298-2418
+ DOCUMENT
+                            Email:      jwreid@millerthomson.com
+                            File No.:    0289127.0002
+
+RECITALS:
+
+A.       Cleo Energy Corp. (“CLEO”) filed a notice of intention to make a proposal under Division I of Part III
+of the Bankruptcy and Insolvency Act, RSC 1985, c B-3, as amended (the “BIA”) on December 8, 2024 and
+Alvarez & Marsal Canada Inc. in its capacity as proposal trustee of CLEO (in such capacity, the “Proposal
+Trustee”).
+
+
+B.      Pursuant to an Order of the Honourable Justice M.H. Bourque of the Court of King’s Bench of Alberta
+(the “Court”) dated March 25, 2025, the Court approved the agreement of purchase and sale made as of March
+14, 2025 (the “Sale Agreement”) between CLEO and IHH Energy Corp. (the “Purchaser”) and provided for the
+vesting in the Purchaser of CLEO’s right, title and interest in and to the Purchased Assets, which vesting is to be
+effective with respect to the Purchased Assets upon the delivery by the Receiver to the Purchaser of a certificate
+confirming (i) the payment by the Purchaser of the Purchase Price for the Purchased Assets; (ii) that the conditions
+to Closing as set out in sections 3.2 to 3.4 of the Sale Agreement have been satisfied or waived by the Proposal
+Trustee and the Purchaser; and (iii) the Transaction has been completed to the satisfaction of the Proposal Trustee.
+
+
+C.      Unless otherwise indicated herein, capitalized terms have the meanings set out in the Sale Agreement.
+
+67226964\4
+                                                       -8-
+
+
+THE PROPOSAL TRUSTEE CERTIFIES the following:
+
+1.      The Purchaser has paid and the Proposal Trustee has received the Purchase Price for the Purchased
+Assets payable on the Closing Date pursuant to the Sale Agreement;
+
+
+2.      The conditions to Closing as set out in sections 3.2 to 3.4 of the Sale Agreement have been satisfied or
+waived by the Proposal Trustee and the Purchaser; and
+
+
+3.      The Transaction has been completed to the satisfaction of the Proposal Trustee.
+
+
+4.      This Certificate was delivered by the Proposal Trustee at [Time] on [Date].
+
+                                                 Alvarez & Marsal Canada Inc. in its capacity as proposal
+                                                 trustee, and not in its personal capacity
+                                                 By:
+
+                                                 ____________________________
+                                                 Name:
+                                                 Title:
+
+
+
+
+67226964\4
+                   -9-
+               SCHEDULE “B”
+
+             PURCHASED ASSETS
+
+
+
+
+67226964\4
+                 - 10 -
+             SCHEDULE “C”
+
+             ENCUMBRANCES
+
+
+
+
+67226964\4
+                      - 11 -
+                  SCHEDULE “D”
+
+             PERMITTED ENCUMBRANCES
+
+
+
+
+67226964\4
+             Schedule “C”
+             Nuova SAVO
+
+
+
+
+67119808\5
+                                                                                         Clerk’s Stamp
+
+ COURT FILE NO.           B301-163430
+
+ COURT                    COURT OF KING’S BENCH OF ALBERTA
+
+ JUDICIAL CENTRE          CALGARY
+
+                          IN THE MATTER OF THE BANKRUPTCY AND INSOLVENCY ACT, RSC
+                          1985, C B-3, AS AMENDED
+                          AND IN THE MATTER OF THE NOTICE OF INTENTION TO MAKE A
+                          PROPOSAL OF CLEO ENERGY CORP.
+
+ APPLICANT                CLEO ENERGY CORP.
+
+ DOCUMENT                 ORDER (Sale Approval and Vesting – Nuova Strada Ventures Ltd.)
+
+ ADDRESS FOR              Gowling WLG (Canada) LLP
+ SERVICE AND              1600, 421 – 7th Avenue SW
+ CONTACT                  Calgary, AB T2P 4K9
+ INFORMATION OF
+                          Attn:       Sam Gabor / Tom Cumming
+ PARTY FILING THIS
+ DOCUMENT                 Phone:      403.298.1946 / 403.298.1938
+                          Fax:        403.263.9193
+                          Email:      sam.gabor@gowlingwlg.com / tom.cumming@gowlingwlg.com
+                          File No.:   G10010664
+
+DATE ON WHICH ORDER WAS PRONOUNCED:                            March 25, 2025
+
+LOCATION WHERE ORDER WAS PRONOUNCED:                           Calgary, Alberta
+
+JUSTICE WHO MADE THIS ORDER:                                   The Honourable Justice M.H. Bourque in
+                                                               Commercial Chambers
+
+             UPON THE APPLICATION of Cleo Energy Corp. (“Cleo”) filed March 17, 2025 for an order
+approving the sale transaction (the “Transaction”) contemplated by a purchase and sale agreement dated as
+of March 14, 2025 (the “Sale Agreement”) between CLEO and Nuova Strada Ventures Ltd. (the
+“Purchaser”) and vesting all of CLEO’s right, title and interest in and to the assets described in the Sale
+Agreement (the “Purchased Assets”);
+
+             AND UPON having read the Affidavit of Chris Lewis sworn March 17, 2025 (the “Affidavit”),
+the Affidavit of Service of Sherry Langley, sworn March ●, 2025, and the Fourth Report of Alvarez &
+Marsal Canada Inc. in its capacity as proposal trustee of Cleo (in such capacity, the “Proposal Trustee”)
+dated March ●, 2025; AND UPON hearing submissions by counsel for Cleo, the Proposal Trustee, counsel
+for the Proposal Trustee and any other counsel or other interested parties present,
+
+
+
+
+67226944\5
+                                                          -2-
+
+
+IT IS HEREBY ORDERED AND DECLARED THAT:
+
+SERVICE
+
+1.      Service of notice of this application and supporting materials is hereby declared to be good and sufficient,
+        no other person is required to have been served with notice of this application and time for service of this
+        application is abridged to that actually given.
+
+APPROVAL OF TRANSACTION
+
+2.      The Transaction is hereby approved and the execution of the Sale Agreement by CLEO is hereby
+        authorized and approved, with such minor amendments as CLEO may deem necessary. CLEO is hereby
+        authorized and directed to take such additional steps and execute such additional documents as may be
+        necessary or desirable for completion of the Transaction and conveyance of the Purchased Assets to the
+        Purchaser.
+
+VESTING OF PROPERTY
+
+3.      Subject only to approval by the Alberta Energy Regulator (“Energy Regulator”) of transfer of any
+        applicable licenses, permits and approvals pursuant to section 24 of the Oil and Gas Conservation Act
+        (Alberta) and section 18 of the Pipeline Act (Alberta), upon delivery of the Proposal Trustee’s certificate
+        to the Purchaser substantially in the form set out in Schedule “A” hereto (the “Proposal Trustee’s
+        Certificate”), all of CLEO’s right, title and interest in and to the Purchased Assets listed in Schedule “B”
+        hereto shall vest absolutely in the name of the Purchaser, free and clear of and from any and all caveats,
+        security interests, hypothecs, pledges, mortgages, liens, trusts or deemed trusts, reservations of ownership,
+        royalties, options, rights of pre-emption, privileges, interests, assignments, actions, judgements,
+        executions, levies, taxes, writs of enforcement, charges, or other claims, whether contractual, statutory,
+        financial, monetary or otherwise, whether or not they have attached or been perfected, registered or filed
+        and whether secured, unsecured or otherwise (collectively, “Claims”) including, without limiting the
+        generality of the foregoing:
+
+        (a)     the Administration Charge (“Administration Charge”), Interim Lender’s Charge (“Interim
+                Lender’s Charge”) and D&O Charge created pursuant to, and having the meanings given to them
+                in, the Order (Stay Extension, Administration Charge, Interim Financing, Interim Financing
+                Charge, D&O Charge and Other Relief) of the Honourable Justice M.J. Lema in these proceedings
+                pronounced January 6, 2025, as amended by his Order (Stay Extension, Interim Financing, Interim
+                Financing Charge and Other Relief) pronounced February 19, 2025;
+
+
+
+67226944\5
+                                                       -3-
+
+        (b)     any charges, security interests or claims evidenced by registrations pursuant to the Personal
+                Property Security Act (Alberta) or any other personal property registry system;
+
+        (c)     any liens or claims of lien under the Builders’ Lien Act (Alberta); and
+
+        (d)     those Claims listed in Schedule “C” hereto (all of which are collectively referred to as the
+                “Encumbrances”, which term shall not include the permitted encumbrances, caveats, interests,
+                easements, and restrictive covenants listed in Schedule “D” (collectively, “Permitted
+                Encumbrances”))
+
+        and for greater certainty, this Court orders that all Claims including Encumbrances other than Permitted
+        Encumbrances, affecting or relating to the Purchased Assets are hereby expunged, discharged and
+        terminated as against the Purchased Assets.
+
+4.      Upon delivery of the Proposal Trustee’s Certificate, and upon filing of a certified copy of this Order,
+        together with any applicable registration fees, all governmental authorities and or regulatory bodies
+        including those referred to below in this paragraph (collectively, “Governmental Authorities”) are
+        hereby authorized, requested and directed to accept delivery of the Proposal Trustee’s Certificate and
+        certified copy of this Order as though they were originals and to register such transfers, interest
+        authorizations, discharges and discharge statements of conveyance as may be required to convey to the
+        Purchaser clear title to the Purchased Assets subject only to Permitted Encumbrances. Without limiting
+        the foregoing:
+
+        (a)     Alberta Energy (“Energy Ministry”) shall and is hereby authorized, requested and directed to
+                forthwith:
+
+                (i)      cancel and discharge those Claims including builders’ liens, security notices, assignments
+                         under section 426 (formerly section 177) of the Bank Act (Canada) and other
+                         Encumbrances (but excluding Permitted Encumbrances) registered (whether before or
+                         after the date of this Order) against the estate or interest of CLEO in and to any of the
+                         Purchased Assets located in the Province of Alberta; and
+
+                (ii)     transfer all Crown leases listed in Schedule “E” to this Order standing in the name of
+                         CLEO to the Purchaser free and clear of all Claims including Encumbrances but
+                         excluding Permitted Encumbrances;
+
+        (b)     the Registrar of the Alberta Personal Property Registry (the “PPR Registrar”) shall and is hereby
+                directed to forthwith cancel and discharge any registrations at the Alberta Personal Property
+                Registry (whether made before or after the date of this Order) claiming security interests (other
+67226944\5
+                                                         -4-
+                than Permitted Encumbrances) in the estate or interest of CLEO in any of the Purchased Assets
+                which are of a kind prescribed by applicable regulations as serial-number goods.
+
+5.      In order to effect the transfers and discharges described above, this Court directs each of the Governmental
+        Authorities to take such steps as are necessary to give effect to the terms of this Order and the Sale
+        Agreement. Presentment of this Order and the Proposal Trustee’s Certificate shall be the sole and
+        sufficient authority for the Governmental Authorities to make and register transfers of title or interest and
+        cancel and discharge registrations against any of the Purchased Assets of any Claims including
+        Encumbrances but excluding Permitted Encumbrances.
+
+6.      No authorization, approval or other action by and no notice to or filing with any Governmental Authority
+        exercising jurisdiction over the Purchased Assets is required for the due execution, delivery and
+        performance by the Receiver of the Sale Agreement, other than any required approval by the Energy
+        Regulator referenced in paragraph 3 above.
+
+7.      For the purposes of determining the nature and priority of Claims, net proceeds from sale of the Purchased
+        Assets (to be held in an interest bearing trust account by the Proposal Trustee) shall stand in the place and
+        stead of the Purchased Assets from and after delivery of the Proposal Trustee’s Certificate and all Claims
+        including Encumbrances (but excluding Permitted Encumbrances) shall not attach to, encumber or
+        otherwise form a charge, security interest, lien, or other Claim against the Purchased Assets and may be
+        asserted against the net proceeds from sale of the Purchased Assets with the same priority as they had with
+        respect to the Purchased Assets immediately prior to the sale, as if the Purchased Assets had not been sold
+        and remained in the possession or control of the person having that possession or control immediately
+        prior to the sale. Unless otherwise ordered (whether before or after the date of this Order), the Proposal
+        Trustee shall not make any distributions to creditors of net proceeds from sale of the Purchased Assets
+        without further order of this Court, provided however the Proposal Trustee may apply any part of such net
+        proceeds to pay amounts owing as secured by the Administration Charge and repay any amounts CLEO
+        has borrowed as secured by the Interim Lender’s Charge.
+
+8.      Except as expressly provided for by section 5 of the Alberta Employment Standards Code, the Purchaser
+        shall not, by completion of the Transaction, have liability of any kind whatsoever in respect of any Claims
+        against Cleo.
+
+9.      Upon completion of the Transaction, CLEO and all persons who claim by, through or under CLEO in
+        respect of the Purchased Assets, and all persons or entities having any Claims of any kind whatsoever in
+        respect of the Purchased Assets, save and except for persons entitled to the benefit of the Permitted
+        Encumbrances, shall stand absolutely and forever barred, estopped and foreclosed from and permanently
+        enjoined from pursuing, asserting or claiming any and all right, title, estate, interest, royalty, rental, equity
+67226944\5
+                                                          -5-
+        of redemption or other Claim whatsoever in respect of or to the Purchased Assets, and to the extent that
+        any such persons or entities remain in the possession or control of any of the Purchased Assets, or any
+        artifacts, certificates, instruments or other indicia of title representing or evidencing any right, title, estate,
+        or interest in and to the Purchased Assets, they shall forthwith deliver possession thereof to the Purchaser.
+
+10.     The Purchaser shall be entitled to enter into and upon, hold and enjoy the Purchased Assets for its own
+        use and benefit without any interference of or by CLEO, or any person claiming by, through or against
+        CLEO.
+
+11.     Immediately upon closing of the Transaction, holders of Permitted Encumbrances shall have no claim
+        whatsoever against CLEO.
+
+MISCELLANEOUS MATTERS
+
+12.     Notwithstanding:
+
+        (a)     the pendency of these proceedings and any declaration of insolvency made herein;
+
+        (b)     the pendency of any applications for a bankruptcy order now or hereafter issued pursuant to the
+                Bankruptcy and Insolvency Act, R.S.C. 1985, c.B-3, as amended (the “BIA”), in respect of Cleo,
+                and any bankruptcy order issued pursuant to any such applications;
+
+        (c)     any assignment in bankruptcy made in respect of CLEO; and
+
+        (d)     the provisions of any federal or provincial statute:
+
+        the vesting of the Purchased Assets in the Purchaser pursuant to this Order shall be binding on any trustee
+        in bankruptcy that may be appointed in respect of CLEO and shall not be void or voidable by creditors of
+        CLEO, nor shall it constitute nor be deemed to be a transfer at undervalue, settlement, fraudulent
+        preference, assignment, fraudulent conveyance, or other reviewable transaction under the BIA or any other
+        applicable federal or provincial legislation, nor shall it constitute oppressive or unfairly prejudicial conduct
+        pursuant to any applicable federal or provincial legislation.
+
+13.     CLEO, the Proposal Trustee, the Purchaser and any other interested party, shall be at liberty to apply for
+        further advice, assistance and direction as may be necessary in order to give full force and effect to the
+        terms of this Order and to assist and aid the parties in closing the Transaction.
+
+14.     This Honourable Court hereby requests the aid and recognition of any court, tribunal, regulatory or
+        administrative body having jurisdiction in Canada or in any of its provinces or territories or in any foreign
+        jurisdiction, to act in aid of and to be complimentary to this Court in carrying out the terms of this Order,
+67226944\5
+                                                       -6-
+        to give effect to this Order and to assist the Proposal Trustee and its agents in carrying out the terms of
+        this Order. All courts, tribunals, regulatory and administrative bodies are hereby respectfully requested
+        to make such order and to provide such assistance to the Proposal Trustee, as an officer of the Court, as
+        may be necessary or desirable to give effect to this Order or to assist the Proposal Trustee and its agents
+        in carrying out the terms of this Order.
+
+GENERAL
+
+15.     Service of this Order may be effected by facsimile, electronic mail, personal delivery or courier to the
+        service list (the “Service List”) in the proceedings. Service is deemed to be effected the next business day
+        following transmission or delivery of this Order.
+
+16.     This Order shall be posted on the Proposal Trustee’s website for these proceedings at:
+        https://www.alvarezandmarsal.com/CLEO.
+
+
+
+
+                                                       J.C.K.B.A.
+
+
+
+
+67226944\5
+                                                       -7-
+                                                SCHEDULE “A”                                     Clerk’s Stamp
+
+                                  PROPOSAL TRUSTEE’S CERTIFICATE
+
+
+ COURT FILE NO.             B301-163430
+
+ COURT                      COURT OF KING’S BENCH OF ALBERTA
+
+ JUDICIAL CENTRE            CALGARY
+
+                            IN THE MATTER OF THE BANKRUPTCY AND INSOLVENCY ACT, RSC
+                            1985, C B-3, AS AMENDED
+                            AND IN THE MATTER OF THE NOTICE OF INTENTION TO MAKE A
+                            PROPOSAL OF CLEO ENERGY CORP.
+
+ APPLICANT                  CLEO ENERGY CORP.
+
+ DOCUMENT                   PROPOSAL TRUSTEE’S CERTIFICATE
+
+ ADDRESS FOR                Miller Thomson LLP
+ SERVICE AND                525-8th Avenue SW, 43rd Floor
+ CONTACT                    Calgary, AB, Canada T2P 1G1
+ INFORMATION OF
+                            Attn:        James W. Reid
+ PARTY FILING THIS
+                            Phone:       403-298-2418
+ DOCUMENT
+                            Email:      jwreid@millerthomson.com
+                            File No.:    0289127.0002
+
+RECITALS:
+
+A.       Cleo Energy Corp. (“CLEO”) filed a notice of intention to make a proposal under Division I of Part III
+of the Bankruptcy and Insolvency Act, RSC 1985, c B-3, as amended (the “BIA”) on December 8, 2024 and
+Alvarez & Marsal Canada Inc. in its capacity as proposal trustee of CLEO (in such capacity, the “Proposal
+Trustee”).
+
+
+B.      Pursuant to an Order of the Honourable Justice M.H. Bourque of the Court of King’s Bench of Alberta
+(the “Court”) dated March 25, 2025, the Court approved the agreement of purchase and sale made as of March
+14, 2025 (the “Sale Agreement”) between CLEO and Nuova Strada Ventures Ltd. (the “Purchaser”) and
+provided for the vesting in the Purchaser of CLEO’s right, title and interest in and to the Purchased Assets, which
+vesting is to be effective with respect to the Purchased Assets upon the delivery by the Receiver to the Purchaser
+of a certificate confirming (i) the payment by the Purchaser of the Purchase Price for the Purchased Assets; (ii)
+that the conditions to Closing as set out in sections 3.2 to 3.4 of the Sale Agreement have been satisfied or waived
+by the Proposal Trustee and the Purchaser; and (iii) the Transaction has been completed to the satisfaction of the
+Proposal Trustee.
+
+C.      Unless otherwise indicated herein, capitalized terms have the meanings set out in the Sale Agreement.
+67226944\5
+                                                       -8-
+
+
+THE PROPOSAL TRUSTEE CERTIFIES the following:
+
+1.      The Purchaser has paid and the Proposal Trustee has received the Purchase Price for the Purchased
+Assets payable on the Closing Date pursuant to the Sale Agreement;
+
+
+2.      The conditions to Closing as set out in sections 3.2 to 3.4 of the Sale Agreement have been satisfied or
+waived by the Proposal Trustee and the Purchaser; and
+
+
+3.      The Transaction has been completed to the satisfaction of the Proposal Trustee.
+
+
+4.      This Certificate was delivered by the Proposal Trustee at [Time] on [Date].
+
+                                                 Alvarez & Marsal Canada Inc. in its capacity as proposal
+                                                 trustee, and not in its personal capacity
+                                                 By:
+
+                                                 ____________________________
+                                                 Name:
+                                                 Title:
+
+
+
+
+67226944\5
+                   -9-
+               SCHEDULE “B”
+
+             PURCHASED ASSETS
+
+
+
+
+67226944\5
+                 - 10 -
+             SCHEDULE “C”
+
+             ENCUMBRANCES
+
+
+
+
+67226944\5
+                      - 11 -
+                  SCHEDULE “D”
+
+             PERMITTED ENCUMBRANCES
+
+
+
+
+67226944\5
+             Schedule “D”
+             Surge SAVO
+
+
+
+
+67119808\5
+                                                                                         Clerk’s Stamp
+
+ COURT FILE NO.           B301-163430
+
+ COURT                    COURT OF KING’S BENCH OF ALBERTA
+
+ JUDICIAL CENTRE          CALGARY
+
+                          IN THE MATTER OF THE BANKRUPTCY AND INSOLVENCY ACT, RSC
+                          1985, C B-3, AS AMENDED
+                          AND IN THE MATTER OF THE NOTICE OF INTENTION TO MAKE A
+                          PROPOSAL OF CLEO ENERGY CORP.
+
+ APPLICANT                CLEO ENERGY CORP.
+
+ DOCUMENT                 ORDER (Sale Approval and Vesting – Surge Energy Inc.)
+
+ ADDRESS FOR              Gowling WLG (Canada) LLP
+ SERVICE AND              1600, 421 – 7th Avenue SW
+ CONTACT                  Calgary, AB T2P 4K9
+ INFORMATION OF
+                          Attn:       Sam Gabor / Tom Cumming
+ PARTY FILING THIS
+ DOCUMENT                 Phone:      403.298.1946 / 403.298.1938
+                          Fax:        403.263.9193
+                          Email:      sam.gabor@gowlingwlg.com / tom.cumming@gowlingwlg.com
+                          File No.:   G10010664
+
+DATE ON WHICH ORDER WAS PRONOUNCED:                            March 25, 2025
+
+LOCATION WHERE ORDER WAS PRONOUNCED:                           Calgary, Alberta
+
+JUSTICE WHO MADE THIS ORDER:                                   The Honourable Justice M.H. Bourque in
+                                                               Commercial Chambers
+
+             UPON THE APPLICATION of Cleo Energy Corp. (“Cleo”) filed March 17, 2025 for an order
+approving the sale transaction (the “Transaction”) contemplated by a purchase and sale agreement dated as
+of March 14, 2025 (the “Sale Agreement”) between CLEO and Nuova Strada Ventures Ltd. (the
+“Purchaser”) and vesting all of CLEO’s right, title and interest in and to the assets described in the Sale
+Agreement (the “Purchased Assets”);
+
+             AND UPON having read the Affidavit of Chris Lewis sworn March 17, 2025 (the “Affidavit”),
+the Affidavit of Service of Sherry Langley, sworn March ●, 2025, and the Fourth Report of Alvarez &
+Marsal Canada Inc. in its capacity as proposal trustee of Cleo (in such capacity, the “Proposal Trustee”)
+dated March ●, 2025; AND UPON hearing submissions by counsel for Cleo, the Proposal Trustee, counsel
+for the Proposal Trustee and any other counsel or other interested parties present,
+
+
+
+
+67226957\4
+                                                          -2-
+
+
+IT IS HEREBY ORDERED AND DECLARED THAT:
+
+SERVICE
+
+1.      Service of notice of this application and supporting materials is hereby declared to be good and sufficient,
+        no other person is required to have been served with notice of this application and time for service of this
+        application is abridged to that actually given.
+
+APPROVAL OF TRANSACTION
+
+2.      The Transaction is hereby approved and the execution of the Sale Agreement by CLEO is hereby
+        authorized and approved, with such minor amendments as CLEO may deem necessary. CLEO is hereby
+        authorized and directed to take such additional steps and execute such additional documents as may be
+        necessary or desirable for completion of the Transaction and conveyance of the Purchased Assets to the
+        Purchaser.
+
+VESTING OF PROPERTY
+
+3.      Subject only to approval by the Alberta Energy Regulator (“Energy Regulator”) of transfer of any
+        applicable licenses, permits and approvals pursuant to section 18 of the Pipeline Act (Alberta), upon
+        delivery of the Proposal Trustee’s certificate to the Purchaser substantially in the form set out in Schedule
+        “A” hereto (the “Proposal Trustee’s Certificate”), all of CLEO’s right, title and interest in and to the
+        Purchased Assets listed in Schedule “B” hereto shall vest absolutely in the name of the Purchaser, free
+        and clear of and from any and all caveats, security interests, hypothecs, pledges, mortgages, liens, trusts
+        or deemed trusts, reservations of ownership, royalties, options, rights of pre-emption, privileges, interests,
+        assignments, actions, judgements, executions, levies, taxes, writs of enforcement, charges, or other claims,
+        whether contractual, statutory, financial, monetary or otherwise, whether or not they have attached or been
+        perfected, registered or filed and whether secured, unsecured or otherwise (collectively, “Claims”)
+        including, without limiting the generality of the foregoing:
+
+        (a)     the Administration Charge (“Administration Charge”), Interim Lender’s Charge (“Interim
+                Lender’s Charge”) and D&O Charge created pursuant to, and having the meanings given to them
+                in, the Order (Stay Extension, Administration Charge, Interim Financing, Interim Financing
+                Charge, D&O Charge and Other Relief) of the Honourable Justice M.J. Lema in these proceedings
+                pronounced January 6, 2025, as amended by his Order (Stay Extension, Interim Financing, Interim
+                Financing Charge and Other Relief) pronounced February 19, 2025;
+
+        (b)     any charges, security interests or claims evidenced by registrations pursuant to the Personal
+                Property Security Act (Alberta) or any other personal property registry system;
+
+67226957\4
+                                                       -3-
+        (c)     any liens or claims of lien under the Builders’ Lien Act (Alberta); and
+
+        (d)     those Claims listed in Schedule “C” hereto (all of which are collectively referred to as the
+                “Encumbrances”, which term shall not include the permitted encumbrances, caveats, interests,
+                easements, and restrictive covenants listed in Schedule “D” (collectively, “Permitted
+                Encumbrances”))
+
+        and for greater certainty, this Court orders that all Claims including Encumbrances other than Permitted
+        Encumbrances, affecting or relating to the Purchased Assets are hereby expunged, discharged and
+        terminated as against the Purchased Assets.
+
+4.      Upon delivery of the Proposal Trustee’s Certificate, and upon filing of a certified copy of this Order,
+        together with any applicable registration fees, all governmental authorities and or regulatory bodies
+        including those referred to below in this paragraph (collectively, “Governmental Authorities”) are
+        hereby authorized, requested and directed to accept delivery of the Proposal Trustee’s Certificate and
+        certified copy of this Order as though they were originals and to register such transfers, interest
+        authorizations, discharges and discharge statements of conveyance as may be required to convey to the
+        Purchaser clear title to the Purchased Assets subject only to Permitted Encumbrances. Without limiting
+        the foregoing:
+
+        (a)     Alberta Energy (“Energy Ministry”) shall and is hereby authorized, requested and directed to
+                forthwith:
+
+                (i)      cancel and discharge those Claims including builders’ liens, security notices, assignments
+                         under section 426 (formerly section 177) of the Bank Act (Canada) and other
+                         Encumbrances (but excluding Permitted Encumbrances) registered (whether before or
+                         after the date of this Order) against the estate or interest of CLEO in and to any of the
+                         Purchased Assets located in the Province of Alberta; and
+
+                (ii)     transfer all Crown leases listed in Schedule “E” to this Order standing in the name of
+                         CLEO to the Purchaser free and clear of all Claims including Encumbrances but
+                         excluding Permitted Encumbrances;
+
+        (b)     the Registrar of the Alberta Personal Property Registry (the “PPR Registrar”) shall and is hereby
+                directed to forthwith cancel and discharge any registrations at the Alberta Personal Property
+                Registry (whether made before or after the date of this Order) claiming security interests (other
+                than Permitted Encumbrances) in the estate or interest of CLEO in any of the Purchased Assets
+                which are of a kind prescribed by applicable regulations as serial-number goods.
+
+67226957\4
+                                                         -4-
+
+5.      In order to effect the transfers and discharges described above, this Court directs each of the Governmental
+        Authorities to take such steps as are necessary to give effect to the terms of this Order and the Sale
+        Agreement. Presentment of this Order and the Proposal Trustee’s Certificate shall be the sole and
+        sufficient authority for the Governmental Authorities to make and register transfers of title or interest and
+        cancel and discharge registrations against any of the Purchased Assets of any Claims including
+        Encumbrances but excluding Permitted Encumbrances.
+
+6.      No authorization, approval or other action by and no notice to or filing with any Governmental Authority
+        exercising jurisdiction over the Purchased Assets is required for the due execution, delivery and
+        performance by the Receiver of the Sale Agreement, other than any required approval by the Energy
+        Regulator referenced in paragraph 3 above.
+
+7.      For the purposes of determining the nature and priority of Claims, net proceeds from sale of the Purchased
+        Assets (to be held in an interest bearing trust account by the Proposal Trustee) shall stand in the place and
+        stead of the Purchased Assets from and after delivery of the Proposal Trustee’s Certificate and all Claims
+        including Encumbrances (but excluding Permitted Encumbrances) shall not attach to, encumber or
+        otherwise form a charge, security interest, lien, or other Claim against the Purchased Assets and may be
+        asserted against the net proceeds from sale of the Purchased Assets with the same priority as they had with
+        respect to the Purchased Assets immediately prior to the sale, as if the Purchased Assets had not been sold
+        and remained in the possession or control of the person having that possession or control immediately
+        prior to the sale. Unless otherwise ordered (whether before or after the date of this Order), the Proposal
+        Trustee shall not make any distributions to creditors of net proceeds from sale of the Purchased Assets
+        without further order of this Court, provided however the Proposal Trustee may apply any part of such net
+        proceeds to pay amounts owing as secured by the Administration Charge and repay any amounts CLEO
+        has borrowed as secured by the Interim Lender’s Charge.
+
+8.      Except as expressly provided for by section 5 of the Alberta Employment Standards Code, the Purchaser
+        shall not, by completion of the Transaction, have liability of any kind whatsoever in respect of any Claims
+        against Cleo.
+
+9.      Upon completion of the Transaction, CLEO and all persons who claim by, through or under CLEO in
+        respect of the Purchased Assets, and all persons or entities having any Claims of any kind whatsoever in
+        respect of the Purchased Assets, save and except for persons entitled to the benefit of the Permitted
+        Encumbrances, shall stand absolutely and forever barred, estopped and foreclosed from and permanently
+        enjoined from pursuing, asserting or claiming any and all right, title, estate, interest, royalty, rental, equity
+        of redemption or other Claim whatsoever in respect of or to the Purchased Assets, and to the extent that
+        any such persons or entities remain in the possession or control of any of the Purchased Assets, or any
+
+67226957\4
+                                                          -5-
+        artifacts, certificates, instruments or other indicia of title representing or evidencing any right, title, estate,
+        or interest in and to the Purchased Assets, they shall forthwith deliver possession thereof to the Purchaser.
+
+10.     The Purchaser shall be entitled to enter into and upon, hold and enjoy the Purchased Assets for its own
+        use and benefit without any interference of or by CLEO, or any person claiming by, through or against
+        CLEO.
+
+11.     Immediately upon closing of the Transaction, holders of Permitted Encumbrances shall have no claim
+        whatsoever against CLEO.
+
+MISCELLANEOUS MATTERS
+
+12.     Notwithstanding:
+
+        (a)     the pendency of these proceedings and any declaration of insolvency made herein;
+
+        (b)     the pendency of any applications for a bankruptcy order now or hereafter issued pursuant to the
+                Bankruptcy and Insolvency Act, R.S.C. 1985, c.B-3, as amended (the “BIA”), in respect of Cleo,
+                and any bankruptcy order issued pursuant to any such applications;
+
+        (c)     any assignment in bankruptcy made in respect of CLEO; and
+
+        (d)     the provisions of any federal or provincial statute:
+
+        the vesting of the Purchased Assets in the Purchaser pursuant to this Order shall be binding on any trustee
+        in bankruptcy that may be appointed in respect of CLEO and shall not be void or voidable by creditors of
+        CLEO, nor shall it constitute nor be deemed to be a transfer at undervalue, settlement, fraudulent
+        preference, assignment, fraudulent conveyance, or other reviewable transaction under the BIA or any other
+        applicable federal or provincial legislation, nor shall it constitute oppressive or unfairly prejudicial conduct
+        pursuant to any applicable federal or provincial legislation.
+
+13.     CLEO, the Proposal Trustee, the Purchaser and any other interested party, shall be at liberty to apply for
+        further advice, assistance and direction as may be necessary in order to give full force and effect to the
+        terms of this Order and to assist and aid the parties in closing the Transaction.
+
+14.     This Honourable Court hereby requests the aid and recognition of any court, tribunal, regulatory or
+        administrative body having jurisdiction in Canada or in any of its provinces or territories or in any foreign
+        jurisdiction, to act in aid of and to be complimentary to this Court in carrying out the terms of this Order,
+        to give effect to this Order and to assist the Proposal Trustee and its agents in carrying out the terms of
+        this Order. All courts, tribunals, regulatory and administrative bodies are hereby respectfully requested
+67226957\4
+                                                       -6-
+        to make such order and to provide such assistance to the Proposal Trustee, as an officer of the Court, as
+        may be necessary or desirable to give effect to this Order or to assist the Proposal Trustee and its agents
+        in carrying out the terms of this Order.
+
+GENERAL
+
+15.     Service of this Order may be effected by facsimile, electronic mail, personal delivery or courier to the
+        service list (the “Service List”) in the proceedings. Service is deemed to be effected the next business day
+        following transmission or delivery of this Order.
+
+16.     This Order shall be posted on the Proposal Trustee’s website for these proceedings at:
+        https://www.alvarezandmarsal.com/CLEO.
+
+
+
+
+                                                       J.C.K.B.A.
+
+
+
+
+67226957\4
+                                                       -7-
+                                                SCHEDULE “A”                                     Clerk’s Stamp
+
+                                  PROPOSAL TRUSTEE’S CERTIFICATE
+
+
+ COURT FILE NO.             B301-163430
+
+ COURT                      COURT OF KING’S BENCH OF ALBERTA
+
+ JUDICIAL CENTRE            CALGARY
+
+                            IN THE MATTER OF THE BANKRUPTCY AND INSOLVENCY ACT, RSC
+                            1985, C B-3, AS AMENDED
+                            AND IN THE MATTER OF THE NOTICE OF INTENTION TO MAKE A
+                            PROPOSAL OF CLEO ENERGY CORP.
+
+ APPLICANT                  CLEO ENERGY CORP.
+
+ DOCUMENT                   PROPOSAL TRUSTEE’S CERTIFICATE
+
+ ADDRESS FOR                Miller Thomson LLP
+ SERVICE AND                525-8th Avenue SW, 43rd Floor
+ CONTACT                    Calgary, AB, Canada T2P 1G1
+ INFORMATION OF
+                            Attn:        James W. Reid
+ PARTY FILING THIS
+                            Phone:       403-298-2418
+ DOCUMENT
+                            Email:      jwreid@millerthomson.com
+                            File No.:    0289127.0002
+
+RECITALS:
+
+A.       Cleo Energy Corp. (“CLEO”) filed a notice of intention to make a proposal under Division I of Part III
+of the Bankruptcy and Insolvency Act, RSC 1985, c B-3, as amended (the “BIA”) on December 8, 2024 and
+Alvarez & Marsal Canada Inc. in its capacity as proposal trustee of CLEO (in such capacity, the “Proposal
+Trustee”).
+
+
+B.      Pursuant to an Order of the Honourable Justice M.H. Bourque of the Court of King’s Bench of Alberta
+(the “Court”) dated March 25, 2025, the Court approved the agreement of purchase and sale made as of March
+14, 2025 (the “Sale Agreement”) between CLEO and Surge Energy Inc. (the “Purchaser”) and provided for the
+vesting in the Purchaser of CLEO’s right, title and interest in and to the Purchased Assets, which vesting is to be
+effective with respect to the Purchased Assets upon the delivery by the Receiver to the Purchaser of a certificate
+confirming (i) the payment by the Purchaser of the Purchase Price for the Purchased Assets; (ii) that the conditions
+to Closing as set out in sections 3.2 to 3.4 of the Sale Agreement have been satisfied or waived by the Proposal
+Trustee and the Purchaser; and (iii) the Transaction has been completed to the satisfaction of the Proposal Trustee.
+
+
+C.      Unless otherwise indicated herein, capitalized terms have the meanings set out in the Sale Agreement.
+
+67226957\4
+                                                       -8-
+
+
+THE PROPOSAL TRUSTEE CERTIFIES the following:
+
+1.      The Purchaser has paid and the Proposal Trustee has received the Purchase Price for the Purchased
+Assets payable on the Closing Date pursuant to the Sale Agreement;
+
+
+2.      The conditions to Closing as set out in sections 3.2 to 3.4 of the Sale Agreement have been satisfied or
+waived by the Proposal Trustee and the Purchaser; and
+
+
+3.      The Transaction has been completed to the satisfaction of the Proposal Trustee.
+
+
+4.      This Certificate was delivered by the Proposal Trustee at [Time] on [Date].
+
+                                                 Alvarez & Marsal Canada Inc. in its capacity as proposal
+                                                 trustee, and not in its personal capacity
+                                                 By:
+
+                                                 ____________________________
+                                                 Name:
+                                                 Title:
+
+
+
+
+67226957\4
+                   -9-
+               SCHEDULE “B”
+
+             PURCHASED ASSETS
+
+
+
+
+67226957\4
+                 - 10 -
+             SCHEDULE “C”
+
+             ENCUMBRANCES
+
+
+
+
+67226957\4
+                      - 11 -
+                  SCHEDULE “D”
+
+             PERMITTED ENCUMBRANCES
+
+
+
+
+67226957\4
+             Schedule “E”
+             Sealing Order
+
+
+
+
+67119808\5
+ COURT FILE NO.           B301-163430
+
+ COURT                    COURT OF KING’S BENCH OF ALBERTA
+ JUDICIAL CENTRE          CALGARY
+                          IN THE MATTER OF THE BANKRUPTCY AND INSOLVENCY ACT,
+                          RSC 1985, C B-3, AS AMENDED
+                          AND IN THE MATTER OF THE NOTICE OF INTENTION TO
+                          MAKE A PROPOSAL OF CLEO ENERGY CORP.
+
+ APPLICANT                CLEO ENERGY CORP.
+
+ DOCUMENT                 SEALING ORDER
+
+ ADDRESS FOR              Gowling WLG (Canada) LLP
+ SERVICE AND              1600, 421 – 7th Avenue SW
+ CONTACT                  Calgary, AB T2P 4K9
+ INFORMATION OF           Attn: Sam Gabor / Tom Cumming
+ PARTY FILING             Phone: 403.298.1946/403.298.1938
+ THIS DOCUMENT            Email: sam.gabor@gowlingwlg.com / tom.cumming@gowlingwlg.com
+                          Fax:     403.263.9193
+                          File No.: G10010664
+
+ DATE ON WHICH ORDER WAS                                 March 25, 2025
+ PRONOUNCED:
+
+ LOCATION WHERE ORDER WAS                                Calgary, Alberta
+ PRONOUNCED:
+
+ JUSTICE WHO MADE THIS ORDER:                            The Honourable Justice M.H. Bourque
+                                                         in Commercial Chambers (Calgary)
+
+
+        UPON THE APPLICATION of Cleo Energy Corp. (“Cleo”) filed March 17, 2025 (the
+“Application”), for an Order sealing the Confidential Supplement (as defined below);
+
+        AND UPON reading the Affidavit of Chris Lewis sworn March 17, 2025 (the “Affidavit”), the
+Affidavit of Service of Sherry Langley, sworn March ●, 2025, the Fourth Report of Alvarez & Marsal
+Canada Inc. in its capacity as proposal trustee of Cleo (in such capacity, the “Proposal Trustee”) dated
+March ●, 2025 (the “Fourth Report”) and the confidential supplement to the Fourth Report dated March
+●, 2025 (the “Confidential Supplement”);
+
+        AND UPON noting that the required notice to the media has been filed, and hearing submissions
+by counsel for Cleo, the Proposal Trustee, counsel for the Proposal Trustee and any other counsel or
+other interested parties present,
+
+ACTIVE_CA\67125563\5
+                                                    -2-
+IT IS HEREBY ORDERED THAT:
+
+
+1.      The time for service of the notice of application for this sealing order (the “Order”) is hereby
+        abridged and deemed good and sufficient and the Application is properly returnable today, and
+        no person other than those persons served is entitled to service of the notice of the Application.
+
+2.      The Confidential Supplement shall be sealed and kept confidential until the Proposal Trustee has
+        filed with the Court a certificate substantially in the form attached as Schedule “A” hereto (such
+        certificate, the “Proposal Trustee’s SSP Termination Certificate”) confirming that all sales of
+        properties of Cleo pursuant to the sale solicitation process (the “SSP”) approved by the Order of
+        the Honourable Justice J.T. Nielson pronounced January 22, 2025 have been completed and the
+        SSP has been terminated, or until further Order of this Court, to be shown only to a Justice of the
+        Court of King’s Bench of Alberta, and accordingly, shall be filed with the Clerk of the Court who
+        shall keep the Confidential Affidavit in a sealed envelope, which shall be clearly marked:
+
+                “SEALED PURSUANT TO THE ORDER OF THE HONOURABLE JUSTICE
+                BOURQUE DATED MARCH 25, 2025. TO REMAIN SEALED UNTIL THE
+                PROPOSAL TRUSTEE’S SSP TERMINATION CERTIFICATE AS
+                SCHEDULED TO THE SEALING ORDER OF JUSTICE BOURQUE DATED
+                MARCH 25, 2025 UNDER COURT FILE NO. B301-163430 IS FILED WITH
+                THE COURT OR UNTIL FURTHER ORDER OF THE COURT.”
+
+3.      Service of this Order shall be deemed to be achieved by posting a copy of this Order on the
+        Proposal Trustee’s website created and maintained for the within proceeding and by delivering a
+        copy of this Order to those parties listed on the Service List prepared by counsel to the Applicants.
+
+
+
+
+                                                               __________________________
+                                                               J.C.K.B.A
+
+
+
+
+ACTIVE_CA\67125563\5
+                                                      -3-
+                                               SCHEDULE “A”                                    Clerk’s Stamp
+
+                                         PROPOSAL TRUSTEE’S
+                                    SSP TERMINATION CERTIFICATE
+
+
+ COURT FILE NO.            B301-163430
+
+ COURT                     COURT OF KING’S BENCH OF ALBERTA
+
+ JUDICIAL CENTRE           CALGARY
+
+                           IN THE MATTER OF THE BANKRUPTCY AND INSOLVENCY ACT, RSC
+                           1985, C B-3, AS AMENDED
+                           AND IN THE MATTER OF THE NOTICE OF INTENTION TO MAKE A
+                           PROPOSAL OF CLEO ENERGY CORP.
+
+ APPLICANT                 CLEO ENERGY CORP.
+
+ DOCUMENT                  PROPOSAL TRUSTEE’S SSP TERMINATION CERTIFICATE
+
+ ADDRESS FOR               Miller Thomson LLP
+ SERVICE AND               525-8th Avenue SW, 43rd Floor
+ CONTACT                   Calgary, AB, Canada T2P 1G1
+ INFORMATION OF
+                           Attn:        James W. Reid
+ PARTY FILING THIS
+                           Phone:       403-298-2418
+ DOCUMENT
+                           Email:      jwreid@millerthomson.com
+                           File No.:    0289127.0002
+
+RECITALS:
+
+A.      Cleo Energy Corp. (“CLEO”) filed a notice of intention to make a proposal under Division I of Part III
+of the Bankruptcy and Insolvency Act, RSC 1985, c B-3, as amended (the “BIA”) on December 8, 2024 and
+Alvarez & Marsal Canada Inc. in its capacity as proposal trustee of CLEO (in such capacity, the “Proposal
+Trustee”).
+
+
+B.      Pursuant to an Order of Honourable Justice J.T. Nielson pronounced January 22, 2025, a sale and
+solicitation process (the “SSP”) for the undertaking, properties and assets of Cleo was approved.
+
+
+C.      Pursuant to an Order of the Honourable Justice M.H. Bourque of the Court of King’s Bench of Alberta
+(the “Court”) dated March 25, 2025, the Court ordered that the confidential supplement to the fourth report of the
+Proposal Trustee dated March ●, 2025 be sealed until the Proposal Trustee has filed with the Court a certificate
+stating that all sales of properties of Cleo pursuant to the SSP have been completed and the SSP has been
+terminated.
+
+
+
+ACTIVE_CA\67125563\5
+                                                      -4-
+THE PROPOSAL TRUSTEE CERTIFIES that all sales of properties pursuant to the SSP have been completed
+and the SSP has been terminated.
+
+This Certificate was delivered by the Proposal Trustee at [Time] on [Date].
+
+                                                Alvarez & Marsal Canada Inc. in its capacity as proposal
+                                                trustee, and not in its personal capacity
+                                                By:
+
+                                                ____________________________
+                                                Name:
+                                                Title:
+
+
+
+
+ACTIVE_CA\67125563\5
+                                                   Schedule “F”
+                                                   WebEx Details
+
+     Virtual Courtroom 60 has been assigned for the above noted matter:
+
+     Virtual Courtroom Link:
+
+     https://albertacourts.webex.com/meet/virtual.courtroom60
+
+     Instructions for Connecting to the Meeting
+
+         1. Click on the link above or open up Chrome or Firefox and cut and paste it into your browser
+            address bar.
+         2. If you do not have the Cisco Webex application already installed on your device, the site will
+            have a button to install it. Follow installation instructions. Enter your full name and email address
+            when prompted
+         3. Click on the Open Cisco Webex Meeting.
+         4. You will see a preview screen. Click on Join Meeting.
+
+     Key considerations for those attending:
+
+1.    Please connect to the courtroom 15 minutes prior to the start of the hearing.
+
+2.    Please ensure that your microphone is muted and remains muted for the duration of the proceeding, unless
+     you are speaking. Ensure that you state your name each time you speak.
+
+3.    If bandwidth becomes an issue, some participants may be asked to turn off their video and participate by
+     audio only.
+
+4.   Note: Recording or rebroadcasting of the video is prohibited.
+
+
+5.    Note: It is highly recommended you use headphones with a microphone or a headset when using
+     Webex. This prevents feedback.
+
+     For more information relating to Webex protocols and procedures, please                                visit:
+     https://www.albertacourts.ca/qb/court-operations-schedules/webex-remote-hearings-protocol
+
+     You can also join the meeting via the “Cisco Webex Meetings” App on your smartphone/tablet or other
+     smart device. You can download this via the App marketplace and join via the link provided above.
+
+
+
+
+     67119808\5
+
