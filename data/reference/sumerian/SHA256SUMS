@@ -5,10 +5,12 @@ ad77c131d03ce1b3dba683debc4a2439eea85807a58de16f21bed6baefa4d84a  ./SUMERIAN_HEA
 b5fe8d8591f15c5214e0faa9a6ff993c5bbd70ee40d628bb6376a0d6d8acbe44  ./closeup_burn_r15_before_oct04.jpg
 bc7229a7356f31e1b77c5f08438337af98fa9e44e5f0384c82254ef99fa62f06  ./court/2025abkb621_cleo_energy_re.pdf
 1a8c178a38ad799c5a06b7917f9367d1e912ede595d575a6eb22a67f26c591c6  ./court/2026abkb742_2755857_alberta_re.pdf
-2e9b055f37ab7ec05532813bb70f88c751f97267c01d3c727e5acc32160f1c1d  ./court/cleo_proceedings/DUPLICATES.csv
-948e69923e1cd04c9fe9657e442317b5c4f67de3ed8117f6b8cfe24233bf2257  ./court/cleo_proceedings/INDEX.csv
+65eac00fea13fa3070c413bedb8f5b4d5e306cd0c3206451b803e8c84f0c9b03  ./court/cleo_proceedings/DUPLICATES.csv
+f898ff70c6d160ad04087bdd44d3c48a19d487e97d3814b96c157aeb1ed8b43d  ./court/cleo_proceedings/INDEX.csv
 b79541939e09014e44411bbcdcf41b4e798097ff1dbb4c1a018c2c9f3bca100d  ./court/cleo_proceedings/README.md
 7e06c6bd4a71b9e7a3b1cd5886c8bf0d71ec9d9846f94ba9c7d9d2d285ca929f  ./court/cleo_proceedings/SITE_LISTING.csv
+bc4de3fd5dbca89cc4487e9e70c9b8a46425beb344eb5eacf5d66eaa56a67557  ./court/cleo_proceedings/bankruptcy/2026-02-10_residualco-bankruptcy-creditors-package.pdf
+e033e52a70cf886d2b7562d262be9bceb6b7db428db6066751e7d3f5a0870014  ./court/cleo_proceedings/bankruptcy/2026-07-28_form-19-25-3403158.pdf
 32f85e5d2a5569b01aaefaa9aba08f88611a70cf957eb41f34bd04099104c7ec  ./court/cleo_proceedings/noi/2024-07-09_affidavit.pdf
 bfd085ba4d77f25e54a3e8f3744dc95dd95342435c14acb16bd24251ee1db25d  ./court/cleo_proceedings/noi/2024-12-08_certificate-for-the-notice-of-intention-25-3163430.pdf
 7424b53ffbc383972705915b2eee00475cf27a916f8ba8c922cc9ae0f8569d6e  ./court/cleo_proceedings/noi/2024-12-08_cleo-notice-to-creditors-of-noi-december-13-2024-redacted.pdf
@@ -82,6 +84,7 @@ d5d71b6034279fb8879f2f317cef41b600c164b5c33e84adff2b2c7401467d8e  ./court/cleo_p
 70043f7f3ccc634c4c32daf2a371a64655d2654ddc78e98e9af3883f51dfd8b8  ./court/cleo_proceedings/noi/2025-06-04_order-approving-proposal-trustee-s-activities-fees-and-disbursements.pdf
 7791f9c8ea734c4704901c873ae3d8a6b4fa5bd4005cfd01cdfb976c44fa4b8e  ./court/cleo_proceedings/noi/2025-06-09_closing-certificate.pdf
 e07cd8ab63e8c934ceb215b2cf5e2b16b18f9c0ba593f4c903597ff7f97621fb  ./court/cleo_proceedings/noi/2025-06-09_closing-certificate_2.pdf
+faaa8c039fd03f4d4d44c633ead6a635c4d893e6aa60c8e08a50a0843149b641  ./court/cleo_proceedings/noi/2026-08-13_2755857-alberta-ltd-preliminary-report-to-creditors-0.pdf
 8e49168cfb46f9b2d8f404041cde21697d67270e2b3787820231270a5dfffc68  ./court/cleo_proceedings/noi/undated_bench-brief-of-cleo-energy-corp.pdf
 c75959e1399dfee9af52856aa7f5dc341f9fd3578a542e8da13e103139477dc1  ./court/cleo_proceedings/noi/undated_bench-brief-of-cleo-energy-corp_2.pdf
 620872c145957eed26f96820d1ed51a6e137076f41143efdeb1349cf04e5408b  ./court/cleo_proceedings/noi/undated_bench-brief-of-cleo-energy-corp_3.pdf
@@ -102,6 +105,8 @@ a5324a8247a23d13f8c7ac6549316a9076b9c4bf4c43695f9e872153bdfbfbe9  ./court/cleo_p
 b56984872c8e05eccad1d188cf63fd5dae6e9f6fe64369de6fb93bfd7d8b7fa8  ./court/cleo_proceedings/receivership/2025-05-26_originating-application.pdf
 da30e9694dde955f07cb297b94842e3a16ae3d8bf410c9f7d1e7275ee28fc3a4  ./court/cleo_proceedings/receivership/2025-06-02_affidavit-of-service.pdf
 6693ff0b9784107e6e496eedb19e0a39e34010377aeb9d6fb46287a7e10305fd  ./court/cleo_proceedings/receivership/2025-06-02_book-of-authorities.pdf
+c054e73ee1cdeb07606f5053014122918b9d5c298e915b46c95f7810c76c7828  ./court/cleo_proceedings/receivership/2025-06-02_cleo-energy-corp-notice-of-statement-of-receiver-and-creditor-listing-.pdf
+6b83e83e14341120da36c7797f2e69697e19987a3b262999d3f6543507b02c28  ./court/cleo_proceedings/receivership/2025-06-02_reasons-for-decision-october-23-2026.pdf
 cdbaf09e4843679c99ea52bd542d5b4e8e7a69c957aeb092b457781eb9f8470d  ./court/cleo_proceedings/receivership/2025-06-03_005-order-stay-of-proposal-proceedings-filed-june-3-2025.pdf
 19a87f9c6f25b61a93c6027cbfa261607ba32e81372a30e4048b83e26f03d22e  ./court/cleo_proceedings/receivership/2025-08-12_book-of-authorities.pdf
 249ae141549951e5ee96a879022cf3b579ce408323486cde32625913d1bb7ea8  ./court/cleo_proceedings/receivership/2025-10-06_application.pdf
@@ -134,6 +139,7 @@ bc31ddd4dd437ff1b3f6df09a17235c56925748c36c4c3ad335e5949c431e747  ./court/cleo_p
 03c649640f802c195dbdd8435beabf27b04d1f6173cd2a99d9a34e52d7542247  ./court/cleo_proceedings/receivership/2026-02-18_order.pdf
 7ee9a7dbf6b5d1f8ab24a1d3f7e17e15ce736136ac651d981341c55a74b7e8b6  ./court/cleo_proceedings/receivership/2026-09-09_brief-of-law.pdf
 0379008e0cccad28162b0ecc3ae75fdc3716414e19f109d165a42b92d0e9ead6  ./court/cleo_proceedings/receivership/2026-09-09_fourth-report-of-alvarez-marsal-canada-inc-in-its-capacity-as-receiver.pdf
+3ac419e59f7f73d789468d549504e503678c44e5e4d7165f1356c1c5e7d69ef9  ./court/cleo_proceedings/receivership/2026-09-09_service-list-as-of-september-9-2026-role-interest-respondent-attention.pdf
 4154b5d2874469a8bdfd9412df1ddd52b47690ea226a68a0f2cfd515ea5ed54d  ./court/cleo_proceedings/receivership/2026-09-16_application.pdf
 9bbbe3f5a81c03a42a5e5d5b514d8cae128fbfceba87ff1f3da87319c365cae7  ./court/cleo_proceedings/receivership/2026-09-16_supplemental-report-to-the-fourth-report-of-alvarez-marsal-canada-inc-.pdf
 cfe63b10000bbe1d92e0a0281afd3d8821c827a9f415d497f3d8bcbaf8803f59  ./court/cleo_proceedings/receivership/undated_bench-brief-of-alberta-energy-and-minerals-re-proposed-reverse-vesting.pdf

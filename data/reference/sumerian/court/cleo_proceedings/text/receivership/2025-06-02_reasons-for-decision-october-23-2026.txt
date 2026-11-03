@@ -1,0 +1,1333 @@
+                                                                                                                         FILED
+                                   Court of King’s Bench of Alberta                                                OCT 23 2026
+Citation: 2755857 Alberta Ltd. (Re), 2026 ABKB 742
+
+                                                                                                                                Date:
+                                                                                                                   Docket: 2501 09028
+                                                                                                                     Registry: Calgary
+
+Between:
+
+       In the matter of the Bankruptcy and Insolvency Act, RSC 1985, c B-3, as amended
+
+                    AND in the matter of the Receivership of 2755857 Alberta Ltd
+
+                  _______________________________________________________
+
+                                     Reasons for Decision
+                                           of the
+                               Honourable Justice M.A. Marion
+                  _______________________________________________________
+
+
+
+                                                           Table of Contents
+
+I.      Introduction and Background ............................................................................................. 2
+
+II.     Issues ................................................................................................................................... 4
+
+III.    Analysis............................................................................................................................... 5
+
+        A.         The Proposed WEPPA Declarations ....................................................................... 5
+
+                   1.          Factual Context ........................................................................................... 5
+
+                   2.          Legal Framework ........................................................................................ 8
+
+                   3.          This Court Has Jurisdiction but Declines to Exercise It ........................... 10
+
+        B.         CNRL Application ................................................................................................ 14
+
+                   1.          Factual Context ......................................................................................... 14
+
+                   2.          Legal Framework for Late Claims in Insolvency ..................................... 17
+
+                   3.          Inadvertence and Good Faith .................................................................... 19
+                                                                          2
+
+
+                   4.         Prejudice ................................................................................................... 21
+
+                   5.         Other Considerations ................................................................................ 23
+
+                   6.         Conclusion ................................................................................................ 23
+
+        C.         Other Relief Sought by the Receiver .................................................................... 23
+
+                   1.         Approval of Receiver’s Actions, Activities and Conduct ......................... 23
+
+                   2.         Approval of Fees and Disbursements of the Receiver and its Legal
+                              Counsel ..................................................................................................... 24
+
+                   3.         Approval of Proposed Distribution ........................................................... 26
+
+                   4.         Discharge .................................................................................................. 26
+
+IV.     Conclusion ........................................................................................................................ 26
+
+
+
+I.      Introduction and Background
+
+[1]    On June 2, 2025, the Court granted a receivership order (Receivership Order) appointing
+a receiver-manager (Receiver) 1 in respect of Cleo Energy Corp. (Cleo) 2. Cleo’s employees
+(Former Employees) were terminated shortly thereafter. The Minister under the Wage Earner
+Protection Program Act, SC 2005, c 47, s 1 (WEPPA) accepted the Former Employees’ entitlement
+to and made payments (WEPP Payments) under the Wage Earner Protection Program (WEPP).
+
+[2]     In October 2025, the Court dismissed the Receiver’s application for a reverse vesting order
+(RVO) approving the sale of Cleo’s shares to a purchaser (269 Corp 3) under a share purchase
+agreement (Share Transaction) due to insufficient evidence of the need for an RVO transaction,
+without prejudice to its ability to reapply on better evidence: Cleo Energy Corp (Re), 2025 ABKB
+621 [Decision]. In the Decision, the Court also raised concerns about two issues that had been
+raised in the Receiver’s RVO application: (1) RVO transactions that do not provide for payment
+of “cure costs” for retained contracts; and (2) the idea that the Minister might take steps to claw
+back the WEPP Payments following approval of an RVO transaction.
+
+[3]     On November 14, 2025, upon receiving further evidence, the Court approved the Share
+Transaction under a revised RVO (Revised RVO) that addressed the Court’s cure costs concern.
+The Revised RVO provided for priority payment for retained contract cure costs out of the
+purchase price proceeds, failing which the contracting counter-party could waive their entitlement
+to the cure costs and terminate the retained contract.
+
+
+
+1
+  Alvarez & Marsal Canada Inc.
+2
+  Cleo is now named Sumerian Oil & Gas Inc.
+3
+  2698902 Alberta Corp.
+                                                        3
+
+
+[4]    Since then, the Revised RVO transaction closed, the Court approved and the Receiver
+implemented a “Claims Procedure Order” to assess and finalize the claims against Cleo, including
+cure costs claims, and the Minister under WEPPA indeed decided to take steps to claw back the
+Former Employees’ WEPP Payments.
+
+[5]     The Receiver now seeks various orders to allow it to complete the administration of the
+receivership and obtain its discharge. This decision addresses two main disputed issues that arise
+in that context, together with several otherwise undisputed matters (some of which depend on the
+resolution of the two disputed issues).
+
+[6]    The first disputed matter is whether this Court has or should exercise jurisdiction to make
+declarations (WEPPA Declarations) about the impact of the Revised RVO on the Former
+Employees’ entitlement to the WEPP Payments, or should otherwise declare how WEPPA is to be
+applied. The Receiver, now in its capacity as the court-appointed receiver and manager of the
+residual corporation created to implement the Revised RVO (ResidualCo 4), seeks these WEPPA
+Declarations:
+
+          (a)      that the Revised RVO does not impact any previously approved claims or WEPP
+                   Payments made to Cleo’s Former Employees pursuant to WEPPA; and
+
+          (b)      the Former Employees’ entitlement under WEPPA is to be determined at the time
+                   of their termination pursuant to the receivership and the subsequent granting of the
+                   Revised RVO does not vary or change their eligibility under WEPPA.
+
+[7]     The Minister opposes the WEPPA Declarations on the basis that the Court does not have
+jurisdiction to make them or, alternatively, should not exercise its discretion to make them. The
+Minister argues that the question of entitlement to the WEPP Payments is governed by and has
+been decided under the WEPPA regime and this Court should not interfere with the WEPPA
+procedures for challenging the Minister’s entitlement or review decisions.
+
+[8]    Second, this decision addresses whether Canadian Natural Resources Ltd. (CNRL) should
+be allowed to file a late proof of claim (CNRL Claim) under the Claims Procedure Order. The
+CNRL Claim relates to cure costs (CNRL Cure Costs) under contracts between Cleo and CNRL
+that were retained by Cleo under the Share Transaction approved in the Revised RVO.
+
+[9]     Before the first proposed RVO transaction application, CNRL reached a side agreement
+(Side Agreement) with 269 Corp, as purchaser of the Cleo shares, for payment of the CNRL Cure
+Costs. After 269 Corp failed to make the Side Agreement payments, CNRL applied for and on
+January 16, 2026 obtained an order (Consent Order) providing judgment (Judgment) against
+269 Corp for the CNRL Cure Costs and setting out a payment schedule for their payment by May
+2026. After that, CNRL focused on enforcing the Consent Order and stopped actively monitoring
+these receivership proceedings. Thus, CNRL did not provide a proof of claim for the CNRL Cure
+Costs in the receivership before March 31, 2026 (Claims Bar Date) under the Claims Procedure
+Order.
+
+
+
+4
+    2755857 Alberta Ltd.
+                                                     4
+
+
+[10] Not having been able to recover the CNRL Cure Costs from 269 Corp, CNRL now seeks
+permission to provide and to have accepted its late claim to recover the CNRL Cure Costs from
+the Share Transaction proceeds. CNRL’s application is opposed by the Receiver and certain
+creditors (Alberta Energy Regulator (AER) and five municipalities (Municipalities)) whose share
+of the distribution from the receivership would be reduced if CNRL Claim is allowed and accepted.
+
+[11]   The Receiver’s application also seeks several other grounds of relief:
+
+       (a)      approving the Receiver’s actions, activities and conduct, including the final
+                statement of receipts and disbursements (Final Statement) and final cash flow
+                forecast (Final Forecast) as set out in the Receiver’s Fourth Report;
+
+       (b)      approving the fees and disbursements of the Receiver and its legal counsel as
+                outlined in the Fourth Report;
+
+       (c)      approval of proposed distributions of the Receiver as set out in the Fourth Report
+                of the Receiver (Proposed Distributions); and
+
+       (d)      providing for the discharge and release of the Receiver upon filing certificates of
+                completion of its remaining obligations.
+
+[12] All of these matters were before me on September 16, 2026. I reserved and adjourned the
+Receiver’s application to allow for the completion of a written process in respect of the CNRL
+Claim under the Claims Procedure Order, so that I could decide the CNRL Claim and related
+application at the same time as the Receiver’s application. I set various deadlines for the written
+hearing process for the CNRL Claim matters and those processes are now complete.
+
+[13] For the reasons set out below, I decline to make the WEPPA Declarations, I deny CNRL’s
+application to permit its late proof of claim for the CNRL Claim, and I grant the other relief sought
+by the Receiver.
+
+II.    Issues
+
+[14]   The issues before me are:
+
+       (a)      Does the Court have jurisdiction to grant the WEPPA Declarations and, if so, should
+                the Court exercise its discretion and grant the WEPPA Declarations?
+
+       (b)      Should the CNRL Claim be considered even though it was provided after the
+                Claims Bar Date? If so, should the CNRL Claim be accepted as a cure cost claim
+                under the Claims Procedure Order?
+
+       (c)      Should the other relief sought by the Receiver be granted?
+                                                     5
+
+
+III.   Analysis
+
+       A.     The Proposed WEPPA Declarations
+
+              1.      Factual Context
+
+[15]   As noted above, on June 2, 2025, the Court granted the Receivership Order.
+
+[16]   On June 3, 2025, the Receiver terminated the Former Employees.
+
+[17] On June 16, 2025, the Receiver provided the Former Employees information packages for
+the WEPP. It received back WEPP proof of claims forms for each of the Former Employees and
+administered them in accordance with WEPPA. The Receiver subsequently received confirmation
+from Employment and Social Development Canada (ESDC) that the Former Employees’ WEPP
+claims had been processed and they had received the WEPP Payments.
+
+[18] On September 29, 2025, ESDC notified the Receiver that $15,333.41 paid as WEPP
+payments to the Former Employees held a super-priority entitlement over other Cleo creditors
+(Superpriority Amount). Although the related correspondence is not before me, I understand that
+the Superpriority Amount claimed by ESDC was founded upon the rights of subrogation under
+section 36 of WEPPA and the Former Employees’ rights under section 81.4 of the Bankruptcy and
+Insolvency Act, RSC 1985, c B-3 (BIA).
+
+[19] In the October 28, 2025 Decision, Justice Feasby dismissed the Receiver’s application to
+approve the RVO because he found the Receiver had not provided sufficient evidence that an RVO
+was necessary: Decision at para 25.
+
+[20] Before Justice Feasby, ESDC warned that the proposed RVO transaction structure could
+have adverse consequences for the Former Employees, namely that the WEPP Payments could be
+clawed back if the RVO was approved. Justice Feasby received supplemental written submissions
+on this issue, in which ESDC stated:
+
+       Prior to the RVO application, some of the [Former Employees], applied for and
+       received payments from the [WEPP]. Those payments will most likely be collected
+       back from the employees following an approval of the RVO transaction as the
+       former employees will no longer meet the eligibility criteria under [WEPPA]. In
+       short, the effects of the RVO would likely disqualify those employees from
+       eligibility and they would be required to repay WEPP benefits received.
+
+       The AGC is submitting this letter in the interest of transparency, to ensure the Court
+       is aware of a stakeholder, namely, the [Former Employees], who may be affected
+       should the RVO be granted. It also provides a brief overview of the WEPPA
+       program to assist the Court in understanding its purpose and limitations. ESDC
+                                                             6
+
+
+        does not take a position on the RVO application or on the rights of the former
+        employees, as it does not represent the said former employees. 5
+
+[21] In response, the Receiver described the issue as whether the RVO “retroactively
+disqualifies” the Former Employees from the WEPP. It argued that the RVO “should not impact
+any eligibility requirements” of the Former Employees, because it undermines the objective of the
+WEPP, and is contrary to the public policy objections of the WEPP itself. 6 The Receiver relied on
+two Quebec cases in which WEPPA had been interpreted in the context of proceedings under the
+Companies’ Creditors Arrangement Act, RSC 1985, c C-36 (CCAA): Arrangement relatif à
+Former Gestion Inc, 2024 QCCS 3645 [Just for Laughs], leave to appeal refused Attorney
+General of Canada c Former Gestion Inc, 2024 QCCA 1441 [Just for Laughs CA];
+Arrangement relatif à Valeo Pharma inc, 2025 QCCS 580 [Valeo Pharma], leave to appeal
+granted Attorney General of Canada c Valeo Pharma inc, 2025 QCCA 483 [Valeo Pharma CA]. 7
+
+[22] Before Justice Feasby, the Receiver also proposed additional language to the form of RVO
+to address this issue, which is consistent with one of the WEPPA Declarations it now seeks, as
+follows (additional language underlined):
+
+        the Company shall cease to be a party in this Action and shall be released from the
+        purview of the Receivership Order and all other orders of this Court granted in these
+        proceedings; however nothing in this Order shall impact any eligibility
+        requirements of any former employees of the Company to any Wage Earner
+        Protection Program entitlements they may have received as a result of the
+        Company’s receivership and subsequent termination of such employees by the
+        Receiver.
+
+[23] Ultimately, Justice Feasby did not have to resolve WEPPA issue because he dismissed the
+Receiver’s application for the other reasons noted above. However, in obiter, Justice Feasby
+agreed with Just For Laughs, at para 34, in which Justice Collier held that the relevant time for
+determining when WEPPA applies “is the moment at which all an insolvent entity’s employees are
+terminated due to a bankruptcy or restructuring”, and that neither WEPPA nor its regulations
+“indicate that circumstances arising after the termination are relevant”.
+
+[24]    Justice Feasby stated, at para 46:
+
+        [46] I agree. WEPP exists to protect employees from the adverse consequences
+        of the insolvency of their employer. Terminated employees have no control over
+        how insolvency and restructuring transactions are structured after their termination.
+        Terminated employees who have received WEPPs payment and have no inkling of
+        the possibility of a clawback may have used the money to pay for groceries or rent.
+        A choice to clawback payments made to terminated employees of an insolvent
+        corporation because of subsequent events beyond their control would be to the
+
+5
+  Supplement to the First Report of the Receiver dated October 24, 2025 at Appendix A (October 22, 2025 letter
+from the Department of Justice Canada).
+6
+  Reply Brief of the Receiver to the Department of Justice Canada at paras 23-25.
+7
+  I understand that the Quebec Court of Appeal heard this matter in September 2025 and its decision remains under
+reserve.
+                                                  7
+
+
+       immense discredit of the Minister and, I would hope, be swiftly reversed by the
+       Canada Industrial Relations Board or the Federal Court of Appeal.
+
+[25] As noted above, following the Decision the Receiver applied for approval of the Revised
+RVO. The Receiver’s Second Report addressed the WEPP as follows, at paras 18-20:
+
+       18.    At the October 17 Application and in its written submission, the DOJ on
+              behalf of ESDC had advised the Court a reverse vesting order transaction
+              could have an impact on employees who received WEPP payments as part
+              of their employment termination in these proceedings.
+
+       19.    The Court addressed this in the Reasons for Decision at paragraphs 40 to
+              46.
+
+       20.    The DOJ has been provided a copy of the Revised RVO in advance of filing
+              the Receiver’s application and we understand that ESDC takes no position
+              at the application for the Revised RVO.
+
+[26] Unlike its supplemental submissions before Justice Feasby, in the follow-up Revised RVO
+application the Receiver did not seek any declaration about WEPPA. Counsel for ESDC advised
+me that ESDC did not take a position on whether the Revised RVO should be granted, in part
+because no declarations about WEPPA were being sought.
+
+[27] On November 14, 2025, Justice Bourque heard the Receiver’s application for the Revised
+RVO. As set out above, WEPPA matters were noted in the Receiver’s Second Report, but it is my
+understanding they were not the subject of any substantive submissions by the Receiver or ESDC.
+
+[28] Justice Bourque granted the application approving the Revised RVO. The Revised RVO
+does not include any WEPPA-related declarations.
+
+[29]   On November 19, 2025, the RVO transaction closed.
+
+[30]   On November 20, 2025, the Receiver paid the Superpriority Amount to ESDC.
+
+[31]   Subsequent to the Revised RVO being granted, I understand that:
+
+       (a)    the Minister reconsidered the previous WEPPA eligibility determinations of the
+              Former Employees;
+
+       (b)    the Minister determined the Former Employees were not eligible to receive the
+              WEPP Payments;
+
+       (c)    the Former Employees all exercised their statutory right to seek a review of the
+              Minister’s determinations under WEPPA;
+
+       (d)    the Minister confirmed the determination that the Former Employees were not
+              eligible for WEPP payments; and
+                                                      8
+
+
+       (e)     the Minister has taken steps, or intends to take steps, to effect repayment or claw
+               back of the WEPP Payments.
+
+[32]   On July 28, 2026, the Receiver assigned ResidualCo into bankruptcy.
+
+[33] It is not in the record before me whether the Former Employees have exercised or intend
+to exercise their statutory right of appeal to the Canadian Industrial Relations Board (CIRB) under
+section 14(1) of WEPPA.
+
+               2.      Legal Framework
+
+[34] The request to make the WEPPA Declarations engages the limits on the Court’s
+discretionary jurisdiction to provide advice and directions and grant declarations in receiverships.
+
+[35] The court has the jurisdiction to provide advice and directions in receiverships, under both
+the BIA and the court’s broad general jurisdiction under the Judicature Act, RSA 2000, c J-2: BIA,
+section 249; RIC New Brunswick Inc v Telecommunications Research Laboratories, 2010
+ABCA 227 at para 23; Judicature Act, sections 8, 13(2).
+
+[36] It has been held that advice and directions are appropriate where the relief “relates to the
+receiver’s administration, the powers and performance of duties including custody of assets, their
+disposition and approval of settlements”: Griffiths McBurney & Partners v Ernst & Young YBM
+Inc, 2000 ABCA 284 [YBM Magnex] at para 30, citing Bennett on Receiverships, 2nd ed
+(Toronto: Carswell, 1999) at 166.
+
+[37] However, there are limits on the court’s exercise of its advice and direction jurisdiction.
+Courts generally should decline to provide advice and directions in a receivership where:
+
+       (a)     the requested advice and directions do not directly relate to the receivership;
+
+       (b)     the advice and directions seek answers to theoretical questions;
+
+       (c)     the receiver is effectively using the court as a legal adviser;
+
+       (d)     the court is asked to decide disputed substantive matters and an affected party has
+               not had the opportunity to fairly participate, or a summary determination is not
+               appropriate;
+
+       (e)     it would substantively impact proceedings in another jurisdiction which are
+               properly before the court in that other jurisdiction; or
+
+       (f)     where it would preclude a substantive defence in other existing litigation
+               proceedings.
+
+       See, for example: YBM Magnex at paras 34, 46, 48; Canada (Attorney General) v Ernst
+       & Young Inc, 2019 ABCA 180 at para 26; Calgary Firefighters’ Supplementary Pension
+       Plan (Trustee of) v Calgary (City of), 2004 ABQB 125 at para 80.
+                                                    9
+
+
+[38] The court’s jurisdiction to grant declaratory relief under section 11 of the Judicature Act,
+is a statutory and equitable remedy: Wesley v Alberta, 2024 ABCA 276 at para 77, leave to appeal
+refused 2025 CanLII 44340 (SCC); YBM Magnex at para 56; Venini v Venini, 2023 ABKB 524
+at para 63; Scenic Acres Community Association v Calgary (City), 2015 ABQB 586 at para 71;
+Piikani Investment Corporation v Piikani First Nation, 2008 ABQB 775 at para 221; Romspen
+Mortgage Ltd Partnership v 3443 Zen Garden Ltd Partnership, 2023 ABKB 730 at para 168,
+aff’d 2024 ABCA 333.
+
+[39] Declarations can be granted where: (1) the court has jurisdiction to hear the issue; (2) the
+dispute is real and not theoretical; (3) the party raising the issue has a genuine interest in its
+resolution; and (4) the respondent has an interest in opposing the declaration sought: Ewert v
+Canada, 2018 SCC 30 at para 81; SA v Metro Vancouver Housing Corp, 2019 SCC 4 at para 60;
+Daniels v Canada (Indian Affairs and Northern Development), 2016 SCC 12 at para 11; Canada
+(Prime Minister) v Khadr, 2010 SCC 3 at para 46; Faichney v Fort McKay Métis Nation
+Association, 2026 ABKB 429 at para 29.
+
+[40] However, the discretion to grant declaratory relief should be exercised with care and
+caution: YBM Magnex at para 55; Peter Lehmann Wines Ltd v Vintage West Wine Marketing
+Inc, 2015 ABQB 481 at para 75; Scenic Acres at para 71. Whether to exercise the discretion is
+based on a fact and context driven assessment.
+
+[41]   Courts have held that discretionary declarations will not normally be appropriate where:
+
+       (a)     it would interfere with the jurisdiction assigned to a specialized tribunal, or its
+               purpose is to be used to influence or determine an issue extant before another court:
+               Lobsinger v Lobsinger Family Trust, 2026 ABKB 671 at paras 19-21; Bosa v
+               Canada, 2025 BCSC 1284 at para 50; Sheila Holmes Spousal Trust v Canada
+               (Attorney General), 2013 ABQB 489 at paras 60-61; 2585929 Alberta Ltd (Re),
+               2026 ABKB 75 at paras 26-29, 54-59; GLP NT Corp v Canada (Attorney
+               General), 2003 CanLII 41554 (ON SC) at para 21; Baxter v Attorney General of
+               Canada et al, 2013 ONSC 3153 at paras 23-26; 422252 Alberta Ltd v Canada
+               (Attorney General), 2003 BCSC 1362 at paras 32, 42; Foundation v Jabs
+               Construction Ltd, 1998 CanLII 4651 (BC SC) at para 7; Lau v Canada (Attorney
+               General), 2014 BCSC 2384 at para 66;
+
+       (b)     it would serve no purpose, which has been described as including where it would
+               have no “practical utility”, would be “useless or embarrassing”, would not settle a
+               live controversy between the parties, would be of no practical use to the applicant,
+               would not lead to “any tangible result for the parties”, would be academic or moot,
+               or has been “overtaken by subsequent events”: Iris Technologies Inc v Canada,
+               2024 SCC 24 at para 58; YBM Magnex at paras 55-56, citing Hugh W Simmons
+               Ltd v Foster, 1955 CanLII 49 (SCC), [1955] SCR 324 and 19 Hals. (2d) 215 at para
+               512; Romspen Mortgage at para 168; Daniels at para 11; Faichney at para 31;
+               Anderson v Canada (Employment, Workforce and Labour), 2019 ABQB 579 at
+               para 13; CM v Alberta, 2024 ABCA 136 at paras 26, 29, citing Trang v Alberta
+               (Edmonton Remand Centre), 2007 ABCA 263 at para 15, leave to appeal to SCC
+               refused 2008 CanLII 6439 (SCC); Thomas v Rio Tinto Alcan Inc, 2024 BCCA 62
+                                                   10
+
+
+               at para 382, leave to appeal refused 2024 CanLII 96608 (SCC); Nassichuk-Dean v
+               University of Lethbridge, 2022 ABKB 629 at paras 19-21;
+
+       (c)     there exists an adequate alternative statutory mechanism, or more appropriate
+               procedures, to resolve the dispute or protect the rights in question: Ewert at para
+               83; YBM Magnex at para 55; Romspen Mortgage at para 169; Anderson at para
+               14; Nova Scotia (Securities Commission) v Potter, 2012 NSCA 12 at para 19;
+               Bryton Capital Corp GP Ltd v CIM Bayview Creek Inc, 2023 ONCA 363 at para
+               64, citing Gook Country Estates Ltd v Quesnel (City of), 2008 BCCA 407 at para
+               10; and
+
+       (d)     it would be unjust based on equitable considerations, including the conduct of the
+               party seeking the declaration and any equitable defences: YBM Magnex at para 55;
+               Venini at para 63; Piikani Investment Corporation at para 221, citing Hong Kong
+               Bank of Canada v Wheeler Holdings Ltd, 1993 CanLII 148 (SCC), [1993] 1 SCR
+               167 at 192; Wawanesa Mutual Insurance Co v Lindblom, 2001 ABCA 102 at para
+               53.
+
+[42]   I now turn to this case.
+
+               3.     This Court Has Jurisdiction but Declines to Exercise It
+
+[43]   I find that this Court has jurisdiction to consider and grant the WEPPA Declarations.
+
+[44] In addition to the broad statutory jurisdiction noted above, the Receivership Order
+expressly provides that the Receiver may apply to the Court “for advice and directions in the
+discharge of its powers and duties hereunder”. The Revised RVO also provides that the Court
+“shall retain exclusive jurisdiction to, among other things, interpret, implement and enforce the
+terms and provisions” of the Revised RVO, the Share Transaction, and disputes arising from them.
+
+[45] Further, the WEPPA Declarations sought are connected to the administration of the
+receivership. The Former Employees were terminated by the Receiver following the Receivership
+Order, the Receiver paid the Superpriority Amount to ESDC for the WEPP Payments to the Former
+Employees, and the Final Statement, Final Forecast and Proposed Distribution for which the
+Receiver seeks approval are each calculated based on the Superpriority Amount having been paid.
+
+[46] Finally, there is not clear, unequivocal or precise wording to oust the court’s jurisdiction:
+Canada (Attorney General) v Fontaine, 2017 SCC 47 at para 33; Brewers Retail Inc v Campbell,
+2023 ONCA 534 at para 64, citing Weber v Ontario Hydro, 1995 CanLII 108 (SCC), [1995] 2
+SCR 929 at paras 50-58; Canada (Attorney General) v TeleZone Inc, 2010 SCC 62 at para 6;
+1001270243 Ontario Inc, 2026 ONSC 3967 [Synaptive] at para 59.
+
+[47] However, in the unique circumstances of this case there are several factors that lead me to
+the conclusion that I should decline to exercise my discretion to consider or make the WEPPA
+Declarations.
+
+[48] First, the Receiver reasonably points to decisions in which courts have interpreted WEPPA
+on the question of whether post-employment termination events are relevant to determining
+                                                   11
+
+
+employee eligibility for WEPP payments. The Receiver asserts that existing cases make it clear
+that, as a matter of statutory interpretation of WEPPA and fairness, an RVO does not give the
+Minister grounds to rescind WEPP payment entitlement because employee entitlement must be
+considered at the time of termination and not based on later events. I review the key cases below.
+
+[49] In Just for Laughs, several entities filed a notice of intention to make a proposal under the
+BIA, and then the Court later authorized them and other entities to continue or commence
+insolvency proceedings under the CCAA. As here, employees were terminated before proposed
+transactions, however, the transactions involved both asset sales and RVO transactions. In the
+RVO transactions, employee liabilities were transferred to the newly incorporated residual
+company. Unlike this case, the question of whether the employees were entitled to WEPP
+payments was brought before and decided by the Court before the Minister had made any decision
+about entitlement and at the same time as the RVO transaction was approved.
+
+[50] The Court held, at para 34, that the time to determine entitlement under WEPPA is “the
+moment at which all an insolvent entity’s employees are terminated due to a bankruptcy or
+restructuring”. In reaching this determination, the Court exercised its jurisdiction to determine
+WEPP payment entitlement in the context of a CCAA or bankruptcy, as expressly provided for in
+section 5(5) of WEPPA and section 3.2 of the Wage Earner Protection Program Regulations,
+SOR/2008-222 (Regulations). Those sections provide, respectively:
+
+       Prescribed criteria — other proceedings
+
+       (5)     On application by any person, a court may, in proceedings under Division I
+       of Part III of the Bankruptcy and Insolvency Act or under the Companies’ Creditors
+       Arrangement Act, determine that the former employer meets the criteria prescribed
+       by regulation.
+
+               [...]
+
+       Proceedings Under Bankruptcy and Insolvency Act or Companies’ Creditors
+       Arrangement Act
+
+       3.2    For the purposes of subsection 5(5) of the Act, a court may determine
+       whether the former employer is the former employer all of whose employees in
+       Canada have been terminated other than any retained to wind down its business
+       operations.
+
+[51]   The Court declared that the debtor companies were former employers under WEPPA.
+
+[52] Just for Laughs is distinguishable from this case because the Receiver does not seek the
+WEPPA Declaration under section 5(5) of WEPPA or section 3.2 of the Regulations. Notably,
+WEPPA does not expressly provide the same express judicial jurisdiction to determine whether a
+former employee meets the criteria under WEPPA or its Regulations in the context of a
+receivership.
+
+[53] As noted above, leave to appeal Just for Laughs was refused in Just for Laughs CA.
+Vauclair JA was not satisfied the proposed appeal was prima facie meritorious, because Justice
+                                                          12
+
+
+Collier did not make a finding about eligibility for WEPP payments but was exercising the Court’s
+broad discretion under WEPPA and section 3.2 of the Regulations.
+
+[54] Just for Laughs has been followed in other CCAA and BIA proceedings. In Syndic
+d’Intelgenx Corp, 2024 QCCS 3678, in the context of CCAA proceedings, employees were laid
+off and the Court approved an RVO transaction which involved the transfer of employee liabilities
+to a residual corporation. The Court followed Just for Laughs and, under section 5(5) of WEPPA,
+declared the CCAA debtor company to be the former employer of the terminated employees. 8
+
+[55] In Valeo Pharma (a CCAA case), the approved RVO transaction structure contemplated
+that some employees (not yet terminated), could be retained by the purchaser, but if the purchaser
+did not retain them, then the employees were transferred to the residual corporation and terminated.
+Justice Collier made a declaration under section 5(5) of WEPPA and the Regulations that the
+residual corporation was the former employer of those employees. In this case, leave to appeal was
+granted in Valeo Pharma CA. As noted above, I understand this appeal remains under reserve.
+
+[56] In Arrangement relating to Lion Electric Company/Compagnie électrique Lion, 2025
+QCCS 2210, the determination of a case similar to Just for Laughs and Valeo Pharma was
+adjourned pending the Court of Appeal’s decision in Valeo Pharma.
+
+[57] In Synaptive, another CCAA case similar to Valeo Pharma, the CCAA debtor retained some
+employees, but agreements with other employees whose employment had been terminated were
+transferred to a residual corporation as part of an RVO transaction. Declaratory relief was sought
+at the time the RVO transaction, but was adjourned to give the Attorney General of Canada time
+to respond. The RVO transaction then closed, and the residual corporation went bankrupt. In those
+circumstances, the Court exercised its jurisdiction under section 5(5) of WEPPA and the
+Regulations, to declare that the residual corporation was a former employer under WEPPA, both
+as a CCAA applicant and as a bankrupt. In the circumstances, the Court did not need to decide
+whether the debtor company was also a former employer.
+
+[58] The WEPPA statutory interpretation question has not yet been settled by an appellate court,
+or in any decision of this Court. Further, the previous cases are distinguishable from the
+circumstances before me. In the other cases, applications for the declarations sought were brought
+at the time the RVO transaction was approved, and before the Minister decided or reviewed the
+question of the terminated employees’ entitlement to WEPP payments. Further, the other decisions
+were brought in the context of proceedings for which WEPPA expressly provides for judicial
+jurisdiction to make declarations about whether an employer is a “former employer” under
+WEPPA.
+
+[59] In contrast, in this case the WEPPA Declarations are sought after the Revised RVO
+transaction was approved and closed, and after the Minister had already made decisions about the
+Former Employees’ entitlement to WEPP Payments. This different context materially changes the
+question of whether this Court should consider making the WEPPA Declarations as requested.
+
+
+8
+ A similar unpublished order appears to have been granted in the CCAA proceedings involving Taiga Motors
+Corporation: Andrew J Hatnay et al, WEPPA Woes with RVOs: Employees Facing Uncertainty under the
+“Remedial” Legislation, 2025 23 Annual Review of Insolvency Law, 2025 CanLIIDocs 3316 at p 19.
+                                                      13
+
+
+[60] Second, although the Proposed Declarations are sufficiently connected to the court-
+appointed receiverships to provide the Court jurisdiction, at this stage that connection is more
+tenuous and relatively immaterial with respect to the steps remaining in the receivership. The
+WEPPA Declarations are not necessary for the Court to consider or decide the Receiver’s
+application to approve the Proposed Distribution or the Final Statement.
+
+[61] The only matter before me that is still connected to WEPPA is the Superpriority Amount
+and the apparent overpayment to ESDC if it also has clawed back the WEPP Payments without
+accounting for the Superpriority Amount already received. However, this is a relatively modest
+amount in the context of the applications. I am satisfied that, if the entitlement to the Superpriority
+Amount, or the mechanics for the handling of those funds, cannot be agreed between the Receiver,
+ESDC and the Former Employees, this is something that can efficiently be addressed by the parties
+(or this Court, if necessary) as a receivership administration matter prior to the Receiver’s final
+discharge.
+
+[62] Third, the Receiver and ESDC were both aware of the dispute about whether the Minister
+could review the Former Employees’ entitlement to the WEPP Payments, or whether an RVO
+would provide the Minister grounds to rescind their determination of eligibility and seek to claw
+back amounts already paid. Specific declarations were sought before Justice Feasby, but not before
+Justice Bourque.
+
+[63] The risk of the Minister reviewing the Former Employees’ entitlement to the WEPP
+Payments was flagged in the Receiver’s Second Report before Justice Bourque granted the Revised
+RVO, but no WEPPA declarations were sought by the Receiver and neither side made any
+submissions about it. It seems that, perhaps, the Receiver believed the Minister would not claw
+back the WEPP Payments in light of Justice Feasby’s obiter comment that it would be to the
+Minister’s “immense discredit” to do so: Decision at para 46.
+
+[64] In any event, the Court approved the Revised RVO with the knowledge that the risk of
+Minister review and claw back existed and, based on para 46 of the Decision, such steps would be
+subject to the appeal jurisdiction of the CIRB.
+
+[65] In my view, if the Receiver intended this Court to decide the issues embedded in the
+WEPPA Declarations within the receivership, the appropriate time to have brought the matter
+forward was at the time the Revised RVO was approved.
+
+[66] Fourth, WEPPA provides a statutory scheme governing the Minister’s review of
+entitlement to WEPP payments, and the process for challenging the Minister’s decision. It provides
+for the conditions of eligibility for WEPP payments (sections 5, 6); the Minister’s determination
+whether an applicant is eligible to receiver a payment (section 9); the review of the Minister’s
+determination of eligibility (sections 11, 12); and an appeal to the CIRB on questions of law or
+jurisdiction (sections 13.1 to 20): WEPPA; Just for Laughs at para 23. Sections 19 and 20 of
+WEPPA purport to provide a limited scope of judicial review (which must be read in light of the
+Supreme Court of Canada decision in Democracy Watch v Canada (Attorney General), 2026 SCC
+28).
+                                                     14
+
+
+[67] The Minister’s consideration of the legal effect of the Revised RVO, the Minister’s
+decision that it could initiate a review after WEPP payments are made without being asked by an
+applicant to do so, and the Minister’s interpretation of the WEPPA, all appear to be questions of
+law or jurisdiction (although I need not decide that).
+
+[68] If the cases relied on by the Receiver are correct, then the Minister may very well have
+acted without jurisdiction or have committed a legal error, and the CIRB may very well “swiftly
+reverse” the Minister’s review and rescission of the Former Employees’ eligibility for the WEPP
+Payments as contemplated in para 46 of the Decision. I make no decisions about any of those
+matters. At the late stage of these receivership proceedings, those matters are better resolved within
+the existing WEPPA, CIRB appeal, and related Federal Court frameworks, not by this Court.
+
+[69] In my view, WEPPA provided an alternative adequate statutory mechanism available to the
+Former Employees post Revised RVO approval. Any residual unfairness following that process,
+or otherwise arising out of WEPPA, is a matter for Parliament.
+
+[70] Finally, the Receiver has not established that there is a practical utility or appropriate
+purpose in this Court considering or making the WEPPA Declarations. The Minister has decided
+the Former Employees are not entitled to the WEPP Payments. Asserting that the Minister’s
+approach may offend the general sense of fairness of the Receiver or insolvency practitioners is,
+without more, insufficient for this Court to intervene at this stage.
+
+[71] The Former Employees did not participate in the applications before me. They provided no
+evidence about what has occurred with respect to their WEPP Payments, the status regarding any
+CIRB appeal or review process under WEPPA, or their intentions in that regard.
+
+[72] With no other practical purpose to the declarations identified by the Receiver, one can only
+speculate that the de facto purpose of the WEPPA Declarations may be to influence or be the
+foundation for the Former Employees’ existing or future CIRB appeals, or perhaps a request for
+the Minister to conduct another review of the Former Employees’ eligibility under WEPPA. I am
+not satisfied that this justifies this Court considering or making the WEPPA Declarations at this
+stage, base on the legal framework and considerations noted above.
+
+[73] For the above reasons, I decline to exercise my discretion to consider or grant the WEPPA
+Declarations.
+
+       B.      CNRL Application
+
+               1.      Factual Context
+
+[74]   As noted above, on June 2, 2025, the Court granted the Receivership Order.
+
+[75] On October 6, 2025, the Receiver applied for approval of the Share Transaction through
+the initial RVO. To CNRL’s knowledge, the proposed RVO transaction did not contemplate
+provision for cure costs, including the CNRL Cure Costs. For that reason, CNRL advised the
+Receiver that it would oppose the application.
+                                                    15
+
+
+[76] The Receiver’s application was scheduled to be heard on October 17, 2025. In order to
+address CNRL’s concern with the transaction, CNRL entered into the Side Agreement with 269
+Corp effective October 17, 2025, by which 269 Corp agreed to pay the CNRL Cure Costs within
+30 days of closing of the Share Transaction. It does not appear that CNRL’s counsel appeared or
+made submissions with respect to the Receiver’s RVO application. However, Alberta Energy
+appeared and objected to the application because the proposed RVO’s failed to address its cure
+costs in the form of Crown royalties.
+
+[77] As noted above, in the October 28, 2025 Decision, Justice Feasby dismissed the Receiver’s
+application without prejudice to the Receiver’s right to re-apply. Justice Feasby also expressed
+concern about whether this was an appropriate case for Cleo to retain the benefit of executory
+contracts (such as Crown leases) while absolving itself of the responsibility to remedy cure costs
+(such as pre-receivership unpaid Crown royalties or rent): Decision at paras 37-39.
+
+[78] On November 5, 2025, the Receiver filed another application to implement the Share
+Transaction. The proposed Revised RVO expressly provided for payment of cure costs out of the
+proceeds of the Share Transaction:
+
+       10.1 Notwithstanding anything in paragraph 10 above, the Purchase Price
+       proceeds will be used to satisfy any valid and proven cure costs that may be owing
+       in respect of the Crown in right of Alberta. Any other claimants with proven cure
+       costs that may be owing in respect of contracts that will form part of the Retained
+       Assets, will be entitled to be paid from the Purchase Price proceeds pro rata, subject
+       only to the Receiver’s Charge. If any valid and proven cure costs amounts are not
+       able to be satisfied, such contract counterparties are permitted to waive their share
+       of Purchase Price proceeds and terminate their agreement with the Company.
+
+[79] The Receiver’s Second Report, filed in support of the Revised RVO transaction, expressly
+flagged that the Receiver would seek approval of a claims process that would provide retained
+contract counterparties the right to prove claims to cure costs in the receivership, as follows:
+
+       38.     The Receiver intends to return to Court to seek approval of a claims process
+               to determine the security and priority of any claims that ResidualCo
+               creditors may have against the Purchase Price Funds and/or the ResidualCo
+               Funds. This process will include potential Other Cure Costs claimants who
+               may be owed amounts from the Purchase Price Funds. As stated in the
+               Revised RVO, if any valid and proven Other Cure Costs cannot be fully
+               satisfied, the corresponding contract counterparties will be entitled to
+               terminate their agreements with the Company.
+
+[80] As noted above, on November 14, 2025, Justice Bourque granted the Revised RVO.
+CNRL’s counsel attended and, in light of the change made with respect to cure costs, CNRL
+supported the granting of the Revised RVO and approval of the Share Transaction as proposed.
+
+[81] On November 19, 2025, the Share Transaction closed. Cleo was discharged from the
+receivership proceedings and replaced with ResidualCo.
+                                                               16
+
+
+[82] Under the Side Agreement, 269 Corp was obligated to pay the CNRL Cure Costs within
+30 days of closing. It did not do so, despite demands from CNRL.
+
+[83] On January 6, 2026, CNRL filed an application, returnable January 16, 2026, seeking an
+order requiring 269 Corp to pay, and granting judgment against 269 Corp, for the CNRL Cure
+Costs.
+
+[84] On January 16, 2026, the Court granted the Consent Order. After that, CNRL was focused
+on enforcing the Judgment against 269 Corp. It filed writs and served garnishee summons against
+269 Corp, although the timing of those efforts is not clear on the record before me. In any event,
+CNRL’s Judgment enforcement efforts have not resulted in any recovery to-date.
+
+[85] On February 2, 2026, the Receiver applied for approval of the Claims Procedure Order.
+CNRL and its counsel were served with that application. The Receiver’s application materials,
+including the Receiver’s Third Report, clearly set out that the claims process contemplated the
+proof of other cure costs, like the CNRL Cure Costs. The materials also provided the draft form of
+the claims package and clearly described the Claims Bar Date of March 31, 2026, which applied
+to cure costs claims.
+
+[86] According to CNRL, at that point it was focused on enforcing the Judgment against 269
+Corp and, as a matter of cost savings, neither it nor its counsel were actively monitoring
+developments in the receivership proceedings.
+
+[87] On February 10, 2026, Justice Feasby granted the Claims Procedure Order, which again
+provided the procedure for determining pre-receivership and “cure cost” claims against Cleo, the
+form of claims package, and the proof of claim form. CNRL’s counsel did not attend that
+application. On February 12, 2026, the Claims Procedure Order was posted on the Receiver’s
+website.
+
+[88] CNRL’s employee responsible for preparing and submitting proofs of claims had not seen
+a claims process for cure costs before, and was not monitoring for one. That employee deposed
+that it was her mistake that she missed the application and the Claims Procedure Order in CNRL’s
+“ongoing efforts to recover outstanding Pre-Filing Arrears in a cost-effective manner considering
+the fees already incurred” negotiating the Side Agreement, preparing and filing the CNRL
+application and pursuing enforcement of the Consent Order against 269 Corp. The CNRL
+employee deposed that she was not aware of the Claims Procedure Order until September 8, 2026.
+
+[89] Under the Claims Procedure Order, the Receiver was required to provide a claims package
+to known potential claimants within seven days of the Claims Procedure Order. The Receiver did
+not send a claims package to CNRL, apparently because it did not believe CNRL was a potential
+“Claimant” as defined under the Claims Procedure Order, as a result of the Side Agreement. 9
+
+[90]       CNRL did not file a proof of claim by the March 31, 2026 Claims Bar Date.
+
+[91] The Claims Procedure Order process resulted in secured pre-filing claims, unsecured pre-
+filing claims, a priority pre-filing claim, and four cure costs claims. A priority dispute arose
+
+9
+    Reply Brief of Receiver filed September 29, 2026, at paras 13, 30.
+                                                     17
+
+
+between the AER and the Municipalities. The Receiver facilitated negotiations between them, and
+they reached a settlement (Settlement).
+
+[92] On September 8, 2026, the Receiver served its application to, among other things, approve
+the Proposed Distribution. The Proposed Distribution incorporates the Settlement. It does not
+include any distribution to CNRL for the CNRL Cure Costs. CNRL’s employee reviewed the
+application and was “surprised to see the receivership was still ongoing”.
+
+[93] On September 11, 2026, CNRL submitted the poof of claim for the CNRL Claim for the
+CNRL Cure Costs in the amount of $88,233.15.
+
+[94] On September 11, 2026, the Receiver provided CNRL a notice of disallowance of the
+CNRL Claim on two grounds: (1) it was too late; and (2) the CNRL Claim relates to a claim against
+269 Corp pursuant to the Side Agreement and the Consent Order.
+
+[95] On September 16, 2026, I adjourned the Receiver’s application to allow the procedures
+under the Claims Procedure Order to run their course with respect to the CNRL Claim.
+
+[96] On September 22, 2026, CNRL provided its application, supporting affidavits, and bench
+brief seeking the Court to set aside the Receiver’s notice of disallowance and to declare that the
+CNRL Claim is a valid cure cost claim. There was no questioning on CNRL’s affidavits.
+
+[97] On September 25, 2026, the Receiver provided its brief opposing the CNRL application. 10
+On September 28, 2026, CNRL provided a further reply brief.
+
+                   2.       Legal Framework for Late Claims in Insolvency
+
+[98] The objective of a claims procedure order is to ensure all legitimate creditors come forward
+on a timely basis: Enron Canada Corp v National Oil-Well Canada Ltd, 2000 ABCA 285 [Blue
+Range] at para 10, leave to appeal refused [2000] SCCA No 648; Re: SemCanada Crude
+Company (Celtic Exploration Ltd #2), 2012 ABQB 489 [SemCanada] at para 62, leave to appeal
+refused 2012 ABCA 313; UBG Builders Inc (Re), 2016 ABQB 472 at para 46; BA Energy Inc
+(Re), 2010 ABQB 507 at para 41; Urbancorp Cumberland 2 GP Inc et al, 2023 ONSC 6747 at
+para 106.
+
+[99] Accordingly, and given the important role of the orderly discharge of a receiver’s duties
+under a receivership, the acceptance of a late claim should not be an automatic outcome: Pacer
+Construction Holdings Corporation v Pacer Promec Energy Corporation, 2018 ABCA 113 at
+para 147, citing SemCanada at paras 53 and 62.
+
+[100] Whether to extend the time to submit a proof of claim is a discretionary decision: West Bay
+SonShip Yachts Ltd (Re), 2009 BCCA 31 [West Bay CA] at para 43. The onus is on the claimant:
+Royal Bank of Canada v Cow Harbour Construction Ltd, 2011 ABQB 223 [Cow Harbour] at
+para 27. The test engages equitable considerations having regard to the specific circumstances of
+each case: Cow Harbour at para 27; BA Energy at para 34; UBG Builders at para 53. The applicant
+
+
+10
+     Filed September 29, 2026.
+                                                    18
+
+
+must provide “some explanation for the late filing”: Pacer at para 147; SemCanada at paras 62,
+73; Urbancorp at para 104.
+
+[101] The parties agree with the “appropriate criteria” courts apply to late claimants, from Blue
+Range (a CCAA case) at para 26. This test has also been applied in receivership context: Pacer.
+
+[102] The applicable criteria to apply is as follows:
+
+       1.      Was the delay caused by inadvertence and if so, did the claimant act in good
+               faith?
+
+       2.      What is the effect of permitting the claim in terms of the existence and
+               impact of any relevant prejudice caused by the delay?
+
+       3.      If relevant prejudice is found can it be alleviated by attaching appropriate
+               conditions to an order permitting late filing?
+
+       4.      If relevant prejudice is found which cannot be alleviated, are there any other
+               considerations which may nonetheless warrant an order permitting late
+               filing?
+
+[103] In this context, “inadvertent” includes “carelessness, negligence, accident, and is
+unintentional”: Blue Range at para 27; Cow Harbour at para 26; UBG Builders at para 26; BA
+Energy at para 35. This can include inadvertence of counsel: Cow Harbour at paras 32-33.
+However, a deliberate choice, particularly when represented by counsel, is not inadvertence:
+SemCanada at paras 52, 73; Arrangement relatif à 9323-7055 Québec inc (Aquadis
+International Inc), 2019 QCCS 1396 [Aquadis] at para 13. Poor strategic choices will rarely be
+grounds to file a proof of claim past the cut-off date: Montreal Maine & Atlantic Canada Co
+(Plan of arrangement), 2015 QCCS 5896 at para 34, citing SemCanada.
+
+[104] If there was nothing to be gained by the claimant’s delay, it may support a finding of
+inadvertence: Cow Harbour at para 29.
+
+[105] With respect to good faith, a simple assertion of good faith is not enough: Cow Harbour
+at para 32. Submitting a claim as soon as the claimant becomes aware of the situation will support
+a good faith finding: Pacer at para 157; Cow Harbour at para 32. On the other hand, attempting
+to gain an advantage by late filing, improper manipulation of the process, otherwise lying in the
+weeds, or delaying the application once the situation is known, will not: Blue Range at paras 18,
+39; Cow Harbour at para 32; SemCanada at para 58; UBG Builders at paras 26; BA Energy at
+para 42.
+
+[106] With respect to “relevant prejudice” criteria, this can include prejudice to other creditors,
+the debtor, other interested parties, or the court officer’s administration of the court-supervised
+process: Pacer at para 150; BA Energy at para 49.
+
+[107] Non-exhaustive considerations relevant to prejudice include:
+                                                     19
+
+
+       (a)     whether the late claimant’s claim was previously known: Blue Range at para 39;
+               Cow Harbour at para 39;
+
+       (b)     the length of the delay: Pacer at para 150; SemCanada at para 48; Urbancorp at
+               para 104;
+
+       (c)     the timing of the application within the court-supervised process: Blue Range at
+               para 36; Cow Harbour at para 39; SemCanada at para 66;
+
+       (d)     whether granting permission will cause further delay or expenditure of resources.
+               This can include a delay in the finalization of the claims process: Pacer at para 150,
+               citing West Bay SonShip Yachts Ltd, Re, 2007 BCSC 1553 at para 35 [West Bay
+               SC], aff’d West Bay CA;
+
+       (e)     whether a late claim causes another stakeholder to lose a realistic opportunity to do
+               something it might otherwise have done: Blue Range at para 40; SemCanada at
+               para 65; Target Canada Co (Re), 2017 ONSC 327 [Target Canada 2017] at paras
+               27, 32. This may relate to decisions made, agreements reached or positions taken
+               by stakeholders “on the basis of claims that had been filed as of the Claims Bar
+               Date”: Pacer at para 168 (cited para 218); SemCanada at paras 64-65; Cow
+               Harbour at para 39; BA Energy at paras 47, 51; Aquadis at para 22; Urbancorp at
+               para 105, citing Timminco Limited (Re), 2014 ONSC 3393 at paras 41-44; Target
+               Canada 2017 at para 41; West Bay SC at para 35; and
+
+       (f)     the materiality of the late claim: Blue Range at para 37; Cow Harbour at para 40;
+               SemCanada at para 67; BA Energy at para 46; West Bay SC at para 35. While the
+               fact that other creditors will receive less money if late claims or amended claims
+               are allowed is not, without more, relevant prejudice (Blue Range at paras 37, 40;
+               Cow Harbour at para 41), the magnitude of the dilution of their recovery can be
+               relevant to prejudice: Aquadis at para 22; Target Canada 2017 at para 31.
+
+[108] With respect to the “other considerations” criterion, the Court may balance the equities,
+including relevant prejudice suffered by the late claimant if the late claim is not allowed, versus
+the prejudice if it is: SemCanada at para 73; BA Energy at para 58. Also, in this context, the
+sufficiency or reasonableness of the reason for and the length of the delay are relevant
+considerations: SemCanada at para 73; UBG Builders at para 65.
+
+               3.      Inadvertence and Good Faith
+
+[109] CNRL argues that its late submission of its proof of claim was inadvertent and in good
+faith because it was focused on enforcing the Consent Order and Judgment against 269 Corp and
+so was not actively monitoring developments in the receivership proceeding. It argues that it was
+not focused on, or aware of the need to, dual-track its recovery efforts or maintain a watching brief
+in the receivership. It notes that cure costs are generally a purchaser obligation, it was actively
+enforcing against 269 Corp as the purchaser, and there was no reasonably foreseeable need to
+monitor the receivership for claims-related matters. As noted, the CNRL employee’s evidence was
+that she was not aware of the claims process for cure costs. CNRL also argues there was no
+                                                     20
+
+
+advantage to CNRL in late filing. Finally, CNRL points out that it was a known claimant and
+CNRL should have been provided a claims package, but was not.
+
+[110] The Receiver argues that CNRL’s failure to submit a timely claim was not inadvertent and
+unintentional, but was the result of a deliberate strategic decision by which CNRL elected to pursue
+an alternative recovery strategy against 269 Corp, which ostensibly provided it more certainty as
+to timing and quantum of recovery. The Receiver relies on SemCanada and UBG Builders.
+
+[111] In my view, this case highlights the important distinction between unintentional
+carelessness and deliberate choices. As noted in Aquadis at para 14 (footnotes omitted):
+
+       [14] The distinction between a party’s inadvertence, and its deliberate decision
+       not to file a timely proof of claim, is relevant to the Court’s appreciation of whether
+       the allowance of a late claim will adversely impact upon the “integrity and respect
+       for the court process and its orders”. Clearly, it is more difficult for a claimant who
+       has deliberately chosen not to file a timely proof of claim to demonstrate that it
+       should be relieved from its default and treated equally with other parties who have
+       respected the court process.
+
+[112] The distinction between can sometimes be difficult to make. Justice Yamauchi commented
+on this in Cow Harbour at para 26:
+
+       The description of “inadvertent” in Blue Range, says that the action is
+       “unintentional.” It is difficult to imagine a situation where carelessness, negligence
+       or accident could be “intentional” and still be inadvertent, unless the court in that
+       case was envisaging a situation where a claimant is wilfully blind or
+       procrastinating.
+
+[113] In my view, where a claimant is aware of its future right to make a claim, but then makes
+a deliberate economic choice to stop monitoring, to ignore or be wilfully blind to, the ongoing
+procedures in order to save money and pursue an alternative recovery strategy, the failure to submit
+a timely claim cannot be said to be unintentional or inadvertent. In those circumstances, missing
+the deadline to submit a claim is caused by a deliberate choice or strategy.
+
+[114] The Blue Range criteria were never meant to save late claimants from poor or careless
+decisions or strategies. Finding otherwise would significantly undermine the purpose of claims
+procedures “to ensure all legitimate creditors come forward on a timely basis”.
+
+[115] In this case, I find that CNRL was aware of its right to recover the CNRL Cure Costs from
+the Share Transaction purchase proceeds. CNRL’s counsel was served with the Receiver’s
+November 5, 2025 application for the approval of the Share Transaction, which included paragraph
+10.1 of the proposed form of order (set out above in its entirety). The Receiver’s Second Report
+also expressly flagged the Receiver’s intention to come back for approval of a claims process that
+“will include potential Other Cure Costs claimants who may be owed amounts from the Purchase
+                                                      21
+
+
+Price Funds”. 11 CNRL attended the November 14, 2025 application and supported the application
+because of the changed treatment for cure costs.
+
+[116] In my view, in these circumstances CNRL cannot reasonably argue it was not aware of its
+right to pursue a claim for the CNRL Cure Costs in a future claims process. The CNRL employee’s
+evidence that she was unaware of the specific approved claims process and the Claims Procedure
+Order until September 8, 2026, must be viewed in that context. In my view, her lack of knowledge
+of the status of the receivership, the Claims Procedure Order, and the Claims Bar Date, was the
+direct result, and the obvious and foreseeable outcome, of CNRL’s deliberate economic decision
+not to monitor the receivership while it pursued recovery against 269 Corp. CNRL must be taken
+to have known of the risk it would miss its opportunity to share in the proceeds of the Share
+Transaction.
+
+[117] In these circumstances, it cannot be said that CNRL’s delay was caused by inadvertence or
+was unintentional. It is only after CNRL’s decision to focus on recovering from the purchaser did
+not bear fruit, that it re-engaged with the receivership process, reviewed the Receiver’s application,
+and filed a late claim. CNRL’s approach is akin to one of wilful blindness or procrastination, as
+contemplated in Cow Harbour.
+
+[118] I have considered the fact that the Receiver failed to provide CNRL a claims package. I
+agree that CNRL was a “Known Claimant” (that is, one with a potential cure cost claim) and it
+should have been sent the claims package.
+
+[119] However, CNRL was served with the application to approve the Claims Procedure Order,
+and the Receiver’s Third Report provided in support of that application. Those materials included
+the proposed Claims Procedure Order (which in turn appended the claims package). These
+materials went unnoticed by CNRL because it decided not to monitor the proceedings. Given
+CNRL’s uncontradicted evidence that neither it nor its counsel were monitoring the receivership
+at this time, had the claims package been sent it is likely it too would have gone unnoticed. In those
+circumstances, the Receiver’s failure to provide the claims package does not change my decision
+because it did not cause or contribute to CNRL’s delay.
+
+[120] CNRL does not meet the first criterion.
+
+                    4.      Prejudice
+
+[121] CNRL argues that there is no prejudice to allowing its late claim. It points to the
+jurisprudence that a diluted monetary recovery of other creditors is insufficient to establish relevant
+prejudice. CNRL notes that the AER and the Municipalities’ priority is to ResidualCo’s funds, not
+directly from the Share Transaction proceeds, and that it is only excess Share Transaction proceeds
+(after payment of valid cure costs) that are paid to claimants of ResidualCo. Thus, CNRL argues
+that there is nothing that AER or the Municipalities could do to overcome CNRL’s priority and,
+therefore, they did not lose any realistic opportunity to do something different.
+
+[122] In response, the Receiver argues that the final Settlement between the AER and the
+Municipalities was reached without the knowledge of the CNRL Claim, that CNRL’s Cure Cost
+
+11
+     Receiver’s Second Report at para 38.
+                                                      22
+
+
+Claim is material, and that it is highly possible that the reduction of recovery caused by CNRL’s
+Cure Cost Claim would have led to a different result. In oral submissions, the AER and
+Municipalities supported this position and argued that allowing CNRL’s late claim would cause
+them prejudice. Counsel for the Municipalities advised that they proceeded on the understanding
+that the Proposed Distribution would be uncontested.
+
+[123] I find that there is relevant prejudice in these circumstances. As noted in SemCanada, at
+para 64, it can reasonably be inferred after a claims bar date elapses that stakeholders make
+decisions on the basis of the claims that had been filed as of the claims bar date. CNRL is a
+sophisticated party that had been actively participating in the receivership proceedings, had
+supported the Revised RVO, and had then publicly focused its recovery efforts by dealing directly
+with 269 Corp. While there is no evidence that CNRL ever expressly advised the Receiver it was
+foregoing its right to pursue cure costs in the receivership process, there is also no evidence that it
+advised the Receiver or anyone else that it was preserving or intended to pursue those rights. It can
+be reasonably inferred that the Receiver and other creditors proceeded on the basis that CNRL was
+satisfied with its efforts against 269 Corp and did not intend to participate in the receivership claims
+process.
+
+[124] It can also reasonably be inferred that the AER and the Municipalities agreed to the
+Settlement based on their understanding of the submitted claims, which did not include the CNRL
+Cure Costs.
+
+[125] The CNRL Cure Costs claim is material to the AER and Municipalities. If accepted, it
+would reduce the surplus Share Purchase proceeds available to ResidualCo creditors by about
+$88,000, from about $164,000 to about $76,000, which represents approximately a 24% reduction
+in the amount available to the AER/Municipalities.
+
+[126] The specific terms of the Settlement, other than the agreed sharing percentages, are not
+before me. I cannot determine whether the Settlement would be frustrated by acceptance of the
+CNRL Cure Costs claim, or whether the AER and the Municipalities would otherwise be entitled
+to revisit or unwind it.
+
+[127] If the Settlement stands, then the AER and Municipalities will have lost their ability to
+negotiate a settlement in light of the lower pool of funds available to them. I agree with the
+Receiver that the lower amount available may very well have materially changed the negotiation
+process or result as between these competing claimants. As per Aquadis at para 22, the decision
+of the AER and the Municipalities to agree to the Settlement “would have been taken under a
+misconception regarding its value to them, a prejudice that cannot now be alleviated”.
+
+[128] If the Settlement does not stand, it would unwind an agreement and undermine the integrity
+of the receivership process. There would be thrown away costs and a need for either new
+negotiations or a litigation process to resolve the priority dispute between the AER and the
+Municipalities. Both of these would delay the finalization of the receivership, increase costs of the
+AER, the Municipalities and the Receiver, and create uncertainty in the receivership. The
+receivership is otherwise ready to be finalized.
+                                                     23
+
+
+[129] In my view, whether the Settlement stands or falls, both scenarios create relevant prejudice.
+On the record before me, CNRL has not satisfied me that the prejudice can be alleviated by
+appropriate conditions.
+
+               5.      Other Considerations
+
+[130] As noted above, in deciding whether there are other considerations that warrant allowing
+the late claim, relevant factors include the equities, the relative prejudice, and the reason for the
+delay.
+
+[131] In my view, the validity or merit of a late claim may also be a relevant “other
+consideration”. The Receiver argues that the effect of the Side Agreement, the Consent Order and
+the Judgment demonstrate an election by CNRL to pursue 269 Corp, or a “commercially
+transferred liability”. Effectively, the Receiver argues that this acted as a release, and CNRL should
+not be able to pursue both 269 Corp and ResidualCo for the CNRL Cure Costs, as that would give
+it multiple avenues of recovery which would put it in a better position than other creditors. CNRL
+disputes this position.
+
+[132] The Receiver did not provide any legal authority for its position. In those circumstances,
+and based on the terms of the Side Agreement and the Consent Order, I am not prepared to find
+that CNRL released or made a binding election to forego its recovery of CNRL Cure Costs in the
+receivership. I proceed on the basis that the CNRL Claim is valid.
+
+[133] Notwithstanding that finding, I am not satisfied that there are other considerations that
+support granting CNRL permission to allow its late claim. CNRL continues to have recourse as
+against 269 Corp under the Judgment. Its decision to abandon monitoring the receivership has
+turned out to have been a poor decision. That is not a reasonable excuse or explanation for its
+delay. To preserve the integrity of the receivership process and the purpose of claims process
+orders, I find it more appropriate that CNRL bears the consequences of its decisions and associated
+delay. In my view, the prejudice to CNRL does not outweigh the prejudice to the Receiver, other
+creditors, and the integrity of the receivership process.
+
+               6.      Conclusion
+
+[134] The late CNRL Claim is not allowed.
+
+       C.      Other Relief Sought by the Receiver
+
+[135] The remaining relief sought by the Receiver was not objected to by any party.
+
+               1.      Approval of Receiver’s Actions, Activities and Conduct
+
+[136] The court has inherent jurisdiction to review and approve the activities of court-appointed
+receiver if the receiver meets the objective test of demonstrating that it has acted reasonably,
+prudently and not arbitrarily: Leslie & Irene Dube Foundation Inc v P218 Enterprises Ltd, 2014
+BCSC 1855 at para 54; Yukon (Government of) v BYG Natural Resources Inc, 2025 YKSC 59
+at para 21; Ramos v York Condominium Corp No 25, 2024 ONSC 6196 at para 30.
+                                                             24
+
+
+[137] I also incorporate the principles related to approval of a court-officer’s actions, activities
+and conduct as recently summarized in Canacol Energy Ltd (Re), 2026 ABKB 654 at paras 11-
+18.
+
+[138] There was no opposition to this relief. No concerns have been raised or identified. The
+Receiver’s Final Statement and Final Forecast appear reasonable. I am satisfied that the Receiver
+acted reasonably, prudently, honestly and in good faith. Approval thus follows.
+
+[139] Further, there were no disputed matters flagged which required special attention. However,
+given that the form of order seeks general approval of the Receiver’s actions, activities as disclosed
+and reported in the Receiver’s Fourth Report and “all other Reports filed in the within receivership
+proceedings”, the additional language from paragraphs 7 and 21 of Target Canada Co (Re), 2015
+ONSC 7574, as noted at para 17 of Canacol Energy, shall be included at para 8 of the proposed
+form of order. 12
+
+                 2.       Approval of Fees and Disbursements of the Receiver and its Legal
+                          Counsel
+
+[140] The onus is on a court officer to satisfy the court that the remuneration claimed is justified
+and reflects fair compensation for the services provided: Patel v Chief Medical Supplies Ltd, 2019
+ABQB 690 at para 32(a); Winalta Inc (Re), 2011 ABQB 399 at para 32; Piikani Nation v Piikani
+Energy Corporation, 2011 ABQB 450 at para 13, citing Re Omni Data Supply Ltd, 2002 BCSC
+1631 at paras 24-25 (in turn citing Re Hess (1977), 23 CBR (NS) 215). Insolvency professionals
+are expected to work efficiently and reasonably, and to charge fair amounts for the services
+provided.
+
+[141] The question is whether the fees are fair and reasonable in all the circumstances: Coast
+Automotive Group Inc (Re), 2026 ABKB 490 at para 72; Bank of Nova Scotia v Diemer, 2014
+ONCA 851 [Diemer] at paras 32-33, 45; Winalta at para 30; Hendley (Re), 2016 ABQB 721 at
+para 20. This is consistent with the Receivership Order, which follows the Alberta template
+receivership order in providing that “the Receiver and counsel to the Receiver shall be paid their
+reasonable fees and disbursements”.
+
+[142] Several cases provide non-exhaustive relevant factors that serve as a useful guide in
+determining whether the fees of a court-officer and its legal counsel are fair and reasonable. A
+combined non-exhaustive list from some of these cases includes:
+
+        (a)      the nature, extent and value of the assets;
+
+        (b)      the complications and difficulties encountered;
+
+        (c)      the degree of assistance provided by the parties or others;
+
+        (d)      time spent;
+
+
+12
+  Namely: “provided, however, that only the Receiver, in its personal capacity and only with respect to its own
+personal liability, shall be entitled to rely upon or utilize in any way such approval.”
+                                                      25
+
+
+       (e)     knowledge, experience and skill;
+
+       (f)     diligence and thoroughness;
+
+       (g)     responsibilities assumed;
+
+       (h)     results achieved;
+
+       (i)     cost of comparable services when performed in a prudent and economical matter;
+
+       (j)     agreements or contracts related to fees;
+
+       (k)     the views of creditors (or others potentially liable or at risk for the fees sought to
+               be approved); and
+
+       (l)     other material considerations.
+
+       See: Federal Business Development Bank v Belyea and Fowler, 1983 CanLII 4086 (NB
+       CA) at para 9; Confectionately Yours Inc (Re), 2002 CanLII 45059 (ON CA) at paras 35-
+       41; Diemer at para 33; Piikani Nation at para 13; Servus Credit Union Ltd v Trimove Inc,
+       2015 ABQB 745 at para 28.
+
+[143] As is common, in this case there was no objection raised to the approval of the accounts of
+the Receiver and its counsel. In my view, this factor supports an inference of fairness and
+reasonableness and weighs in favour of approval.
+
+[144] The Receiver provided summaries of accounts in the Receiver’s Fourth Report. It did not
+follow the practice, contemplated in Confectionately Yours, of providing an affidavit proving the
+accounts. Instead, the Receiver offered to provide the Court the accounts upon request if necessary.
+
+[145] In my view, where an impacted or potentially impacted party requests it, or objects to the
+fees of a court officer and its counsel, the court-officer is obligated to prove the fees and
+disbursements by way of affidavits including the detailed accounts: Confectionately Yours at paras
+38-41; Patel at para 32(c).
+
+[146] In those circumstances, the court officer may redact information, for example to protect
+privilege: Laurentian University of Sudbury, 2022 ONSC 5850 at para 5. However, if required
+redactions render the accounts misleading, incomprehensible, or insufficient to support the fee
+claim, or otherwise create unfairness, the better practice in a disputed case is to also provide an
+unredacted copy of the affidavit with the accounts to the Court and, if necessary, seek the sealing
+of that affidavit; otherwise the court-officer may not be able to discharge its onus: see, for example:
+Hanfeng Evergreen Inc, (Re), 2017 ONSC 7161 at paras 29-30; MBH v CKI, 2023 ABKB 284
+at para 42-43; Sunstrum Estate (Re), 2026 ABKB 491 at para 135; Patel v Chief Medical Supplies
+Ltd, 2021 ABQB 355 at para 130.
+
+[147] However, where the persons that are de facto at risk for or directly impacted (or potentially
+impacted) by the approval of the fees, are sophisticated insolvency participants, or are otherwise
+represented by counsel, and those persons do not request further information or object to the fees
+                                                     26
+
+
+and disbursements, as a matter of practicality and efficiency the court has discretion to accept more
+streamlined evidence. For example, in those circumstances a summary of accounts in a court
+officer’s report that also describes the work performed may suffice. Account summaries in court
+officer reports should generally include the invoice amounts charged, disbursements, together with
+the timekeeper identities, hourly rates and hours worked for the timeframe covered.
+
+[148] Having said that, courts retain the discretion to require further information, including the
+detailed accounts proven by way of affidavit, where it is necessary and appropriate to discharge
+their supervisory role and ensure that the amount charged is fair and reasonable. Court officers
+seeking to avoid disputes or surprise and associated delay might consider providing fee affidavits
+regardless of whether there is an objection.
+
+[149] In any event, anything provided to the Court for its consideration should be filed to provide
+a meaningful record for appellate review, if necessary.
+
+[150] I have reviewed the evidence of the fees and disbursements of the Receiver and its counsel,
+and the activities of the Receiver during the relevant period as reflected in the Receiver’s Reports.
+Noting no objection by any party, the quantum of the accounts, and the factors noted above, I find
+they are fair and reasonable and they are approved.
+
+               3.      Approval of Proposed Distribution
+
+[151] The Court has well-established authority to approve distributions: Realtrium Holdings
+Pickering Inc v Simpson, 2025 ONSC 5605 at para 31.
+
+[152] No party objected to the Proposed Distribution. It is reasonable and approved. This is
+subject to my comments noted above with respect to the Superpriority Amount. My approval of
+the Proposed Distribution is not a decision about the appropriate handling of the Superpriority
+Amount going forward. The Receiver, ESDC and the Former Employees should attempt to reach
+resolution of that question, failing which any party can seek the Court’s determination, if
+necessary. The form of order can be amended to reflect this paragraph.
+
+               4.      Discharge
+
+[153] The proposed discharge is not opposed and is reasonable in the circumstances. I am
+satisfied that the steps necessary to resolve the Superpriority Amount can be addressed as an
+administrative matter within the estimated future Receiver and counsel fees, as contemplated in
+the proposed form of order.
+
+IV.    Conclusion
+
+[154] The Court declines to consider or grant the proposed WEPPA Declarations. CNRL’s
+application seeking permission and acceptance of the late CNRL Claim is dismissed. The
+Receiver’s proposed form of order (other than paras 3-4) is approved and granted, with any
+amendments as may be required to implement my decisions above. The Receiver may seek my
+further directions if required to finalize the order.
+                                                   27
+
+
+Heard on the 16th day of September 2026, with further written submissions on the 22nd, 25th and
+28th days of September, 2026.
+
+Dated at the City of Calgary, Alberta this 23rd day of October, 2026.
+
+
+
+
+                                                    M.A. Marion
+                                                    J.C.K.B.A.
+Appearances:
+
+James W. Reid and Pavin Takhar
+      for the Receiver, Alvarez & Marsal Canada Inc.
+
+Daniel Segal
+       for His Majesty the King in Right of Canada, as represented by the Minister of
+       Employment and Social Development Canada
+
+Emily Paplawski
+       for Canadian Natural Resources Ltd.
+
+George Wong
+      for the Alberta Energy Regulator
+
+Gregory Plester and Dylan Sigurdson
+      for Municipal District of Wainwright No. 61, Municipal District of Provost No. 52,
+      Flagstaff County, County of Paintearth No. 18 and Vulcan County
+
