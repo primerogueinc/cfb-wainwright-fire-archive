@@ -2376,6 +2376,34 @@
     "version": "2.1URT",
     "first_seen_file": "data/firms/raw/VIIRS_NOAA20_NRT/2026-10-31_3d__fetched_20261102T214237Z.csv"
    }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.52382,
+     52.89973
+    ]
+   },
+   "properties": {
+    "acq_datetime_utc": "2026-11-02T20:50:00Z",
+    "acq_datetime_mdt": "2026-11-02 14:50 MDT",
+    "source": "VIIRS_NOAA20_NRT",
+    "satellite": "N20",
+    "instrument": "VIIRS",
+    "confidence": "n",
+    "frp": "5.85",
+    "daynight": "D",
+    "acq_date": "2026-11-02",
+    "acq_time": "2050",
+    "bright_ti4": "336.28",
+    "bright_ti5": "281.89",
+    "scan": "0.45",
+    "track": "0.47",
+    "version": "2.0NRT",
+    "first_seen_file": "data/firms/raw/VIIRS_NOAA20_NRT/2026-10-31_4d__fetched_20261103T064621Z.csv"
+   }
   }
  ]
 }
