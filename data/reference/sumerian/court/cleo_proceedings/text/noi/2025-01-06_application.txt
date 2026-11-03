@@ -1,0 +1,243 @@
+ COURT FILE NUMBER               B301-163430                                          Clerk's stamp
+
+ COURT                           COURT OF KING’S BENCH OF ALBERTA
+
+ JUDICIAL CENTRE                 CALGARY
+
+ MATTER                          IN THE MATTER OF THE BANKRUPTCY AND
+                                 INSOLVENCY ACT, R.S.C. 1985, c. B-3, AS
+                                 AMENDED,
+                                 AND IN THE MATTER OF THE NOTICE OF
+                                 INTENTION TO MAKE A PROPOSAL OF CLEO
+                                 ENERGY CORP.
+
+ APPLICANT                       TRAFIGURA CANADA LIMITED
+
+ RESPONDENT                      CLEO ENERGY CORP.
+
+ DOCUMENT                        APPLICATION
+
+ ADDRESS FOR SERVICE             STIKEMAN ELLIOTT LLP
+ AND CONTACT                     Barristers & Solicitors
+ INFORMATION OF                  4200 Bankers Hall West
+ PARTY FILING THIS               888-3rd Street SW
+ DOCUMENT                        Calgary, AB T2P 5C5
+
+                                 Karen Fellowes, K.C. / Eric Blay
+                                 Tel: (403) 724-9469 / (403) 724-9485
+                                 Fax: (403) 266-9034
+                                 Email: kfellowes@stikeman.com / eblay@stikeman.com
+
+                                 Lawyers for the Applicant,
+                                 Trafigura Canada Limited
+
+                                 File No.: 137093.1030
+
+NOTICE TO THE RESPONDENT
+This application is made against you. You are a respondent.
+
+You have the right to state your side of this matter before the Court.
+
+ To do so, you must be in Court when the application is heard as shown below:
+       Date:                January 6, 2025
+       Time:                2:00 pm
+       Where:               Calgary, Alberta
+       Before Whom:         The Honourable Justice M. Lema
+
+Go to the end of this document to see what you can do and when you must do it.
+                                                 -2-
+
+
+
+
+Purpose of Application:
+
+1.     The Applicant, Trafigura Canada Limited (“Trafigura”), in connection with Cleo Energy Corp.’s
+       (“Cleo”) proceedings under Division I of Part III of the Bankruptcy and Insolvency Act, RSC
+       1985, c B-3, as amended (the “BIA”, and such proceedings, the “Proposal Proceedings”),
+       commenced by notice of intention to make a proposal filed on December 8, 2024 (the “Filing
+       Date”, and such notice, the “NOI”), seeks an Order for the following relief:
+
+       (a)     abridging the time for service of notice of this Application, deeming service of notice of
+               this Application to be good and sufficient, and declaring that there is no other person
+               who ought to have been served with notice of this Application;
+
+       (b)     granting a declaration that certain obligations whereby Trafigura must pay Cleo the
+               purchase price for crude oil delivered by Cleo to Trafigura in a given month under the
+               Commercial Agreement (“Purchase Price”) which are calculated and become due after
+               the Filing Date according to the schedule agreed to therein are post-filing obligations
+               (“Trafigura Post-Filing Obligations”);
+
+       (c)     granting a declaration that certain obligations whereby Cleo must pay Trafigura
+               amounts arising from the Prepayment Agreement which become due after the Filing
+               Date according to the schedule agreed to therein are post-filing obligations (“Cleo Post-
+               Filing Obligations”);
+
+       (d)     granting a declaration that the outstanding balance of $750,000 paid by Trafigura to
+               Cleo pursuant to the Prepayment Agreement as a prepayment of the purchase price for
+               crude oil delivered under the Commercial Agreement (the “Purchase Price Advance”)
+               is a Cleo Post-Filing Obligation, as it becomes due on a monthly basis subsequent to
+               the Filing Date; and
+
+       (e)     authorizing Trafigura to exercise its right of set-off under the Prepayment Agreement
+               (as defined herein) pursuant to section 97(3) of the BIA, by allowing it to deduct Cleo
+               Post-Filing Obligations (including the Purchase Price Advance) against Trafigura Post-
+               Filing Obligations as they become due on a monthly basis;
+
+       (f)     in the alternative, granting a declaration pursuant to section 69.4 of the BIA that the
+               Stay of Proceedings should be lifted in order to allow Trafigura to exercise its right of
+               set-off with respect to the Purchase Price Advance and deduct it from Trafigura Post-
+               Filing Obligations as they become due on a monthly basis;
+                                                      -3-
+
+
+
+
+        (g)         in the further alternative, granting a charge in favour of Trafigura in the amount of the
+                    Purchase Price Advance, attaching to all of the assets and property of Cleo that shall
+                    rank in priority to all other charges, liens, mortgages, security interests and other
+                    encumbrances, except for any administrative charge in favour of the Proposal Trustee,
+                    its legal counsel and Cleo’s legal counsel in respect of their fees and disbursements
+                    and any charge in favour of a potential DIP lender, both of which shall rank in priority to
+                    the Trafigura Charge;
+
+
+        (h)         awarding costs of this Application to Trafigura; and
+
+        (i)         such further and other relief as counsel for Trafigura may advise.
+
+ Grounds for making this application:
+
+ Background
+
+2.      Trafigura has had a long-standing relationship with Cleo and has been purchasing and
+        marketing Cleo’s crude oil for many years.
+
+3.      In the spring of 2024, Cleo approached Trafigura to discuss, amongst other things, the entering
+        by the parties into sale and purchase arrangements whereby Trafigura would pay in advance
+        for the purchase price of crude oil to be delivered by Cleo under such arrangements.
+
+4.      As a result of these discussions, the parties signed two agreements:
+
+              i.    a prepayment agreement dated July 9, 2024 (the “Prepayment Agreement”), whereby
+                    Trafigura agreed to advance Cleo $1 million as a prepayment of the purchase price for
+                    crude oil under the Commercial Agreement (as defined below); and
+
+              ii.   a commercial agreement dated July 12, 2024 (the “Commercial Agreement”), whereby
+                    Trafigura agreed to purchase 100% of available marketable crude from Cleo’s existing
+                    assets for the duration of the term of the Commercial Agreement.
+
+        The Prepayment Agreement and Commercial Agreement contain set-off mechanisms allowing
+        for the Purchase Price Advance to be deducted from the Purchase Price in tranches of $83,000,
+        as they become due on a monthly basis.
+
+5.      The advance made under the Prepayment Agreement, and therefore the Purchase Price
+        Advance, is not a loan. Trafigura made an agreement to pre-pay for goods it purchased from
+        Cleo under the Commercial Agreement.             The Commercial Agreement and the Prepayment
+        Agreement work together to govern the relationship between the parties, which is not a creditor-
+                                                   -4-
+
+
+
+
+        debtor relationship based on a loan, but a commercial agreement which gives rise to ongoing
+        mutual obligations.
+
+6.      Cleo brought an emergency application on December 23, 2024 requesting that the Court order
+        Trafigura to pay the Purchase Price for the November 2024 deliveries to Cleo, as opposed to
+        setting off the full outstanding Purchase Price Advance against the same. The application was
+        considered and an endorsement delivered by Justice Hollins without oral argument on
+        December 26, 2024 (the “Endorsement”).
+
+7.      In her Endorsement, Justice Hollins granted Cleo’s application declaring that the stay of
+        proceedings under section 69 of the BIA prevented Trafigura from enforcing its set-off rights,
+        and ordered that $757,644.77, representing the estimated Purchase Price for the November
+        2024 deliveries, be paid by Trafigura to Cleo immediately. Trafigura complied with the Justice
+        Hollins’ Endorsement by payment directly to Cleo on December 27, 2024 of the Purchase Price
+        calculated for the November 2024 deliveries, adjusted for a previous GST payment.
+
+8.      Justice Hollins explicitly did not decide the issue of the ongoing monthly set-off of the Cleo Post-
+        Filing Obligations against Trafigura Post-Filing Obligations and adjourned determination of this
+        issue to a future hearing.
+
+ Trafigura’s Right of Set-Off
+
+ 9.     Pursuant to section 13.2 of the Prepayment Agreement, Trafigura may set off any matured
+        obligation due from Cleo against any matured obligations owed by Trafigura to Cleo. As such,
+        Trafigura is entitled to set-off Cleo Post-Filing Obligations against Trafigura Post-Filing
+        Obligations as they mature on a monthly basis.
+
+ 10.    In addition, the entire premise of the Prepayment Agreement and Commercial Agreement as
+        expressed several times in the Pre-Payment Agreement, is to allow Trafigura to deduct from
+        the Purchase Price the Purchase Price Advance in tranches agreed by the parties, so that
+        Trafigura is not required to pay twice for crude delivered under the Commercial Agreement.
+
+ 11.    Further, the Purchase Price Advance becomes due in tranches of $83,000 per month, and each
+        amount which matures subsequent to the Filing Date is a Cleo Post-Filing Obligation and can
+        therefore be set off against the Trafigura Post-Filing Obligation.
+                                                  -5-
+
+
+
+
+Prejudice to Trafigura
+
+12.    If Trafigura is denied its right to set-off the Cleo Post-Filing Obligations (including the Purchase
+       Price Advance) against the Trafigura Post-Filing Obligations, it will suffer irreparable prejudice
+       and defeat the purpose of these agreements, namely:
+
+          i.    Trafigura will be required to pay Cleo for the same product twice.
+
+          ii.   Trafigura will be deprived of rights which have been explicitly agreed to and
+                contemplated under the Prepayment Agreement and Commercial Agreement in
+                consideration of Trafigura making the Purchase Price Advance, to protect Trafigura’s
+                rights in case of Cleo filing an NOI or declaring bankruptcy, amongst other things.
+
+13.    Such further and other grounds as counsel may advise and this Honourable Court may permit.
+
+Material or evidence to be relied on:
+
+14.    All pleadings and proceedings filed in the within Action;
+
+15.    The Affidavit of Ethan Post, sworn on December 23, 2024;
+
+16.    The proposed form of Order; and
+
+17.    Such further and other material as counsel for Trafigura may advise and this Honourable Court
+       may permit.
+
+Applicable rules:
+
+18.    The Alberta Rules of Court, AR 124/2010, as amended; and
+
+19.    Such further and other Acts and regulations as counsel may advise and this Honourable Court
+       may permit.
+
+Applicable Acts and regulations:
+
+20.    The BIA; and
+
+21.    Such further and other acts and regulations as counsel may advise or this Honourable Court
+       may permit.
+
+Any Irregularity Complained of or Objection Relied on:
+
+22.    There are no irregularities complained of or objections relied on.
+                                                   -6-
+
+
+
+
+How the Application is Proposed to be Heard or Considered
+
+23.     Before the Honourable Justice M. Lema on January 6, 2025 at 2:00 p.m.
+
+
+ WARNING
+ If you do not come to Court either in person or by your lawyer, the Court may give the applicant
+ what they want in your absence. You will be bound by any order that the Court makes. If you
+ want to take part in this application, you or your lawyer must attend in Court on the date and at
+ the time shown at the beginning of this form. If you intend to rely on an affidavit or other evidence
+ when the application is heard or considered, you must reply by giving reasonable notice of the
+ material to the applicant.
+

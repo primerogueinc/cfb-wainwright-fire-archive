@@ -1,0 +1,804 @@
+                                                                               C10155   Form 7 Rule 3.8
+                                                                                         Clerk's Stamp
+
+                                                                                         FILED
+ COURT FILE NO.                      B301-163430                                        Jan 03, 2025
+
+ COURT                               COURT OF KING’S BENCH OF ALBERTA                    by Email
+ JUDICIAL CENTRE                     CALGARY                                                              COM
+                                                                                                          Jan 6, 2025
+                                     IN THE MATTER OF THE BANKRUPTCY AND INSOLVENCY ACT,
+                                     RSC 1985, C B-3, AS AMENDED
+                                     AND IN THE MATTER OF THE NOTICE OF INTENTION TO
+                                     MAKE A PROPOSAL OF CLEO ENERGY CORP.
+
+ APPLICANT                           CLEO ENERGY CORP.
+
+ DOCUMENT                            APPLICATION
+
+ ADDRESS FOR                         Gowling WLG (Canada) LLP
+ SERVICE AND                         1600, 421 – 7th Avenue S.W.
+ CONTACT                             Calgary, AB T2P 4K9
+ INFORMATION                         Telephone: (403) 298-1946 / (403) 298-1938
+ OF PARTY                            Facsimile: (403) 263-9193
+ FILING THIS                         Email: sam.gabor@gowlingwlg.com/ tom.cumming@gowlingwlg.com
+ DOCUMENT                            File No. G10010664
+                                     Attention: Sam Gabor/ Tom Cumming
+
+NOTICE TO THE RESPONDENTS
+
+This application is made against you.
+
+You have the right to state your side of this matter before the Justice.
+
+To do so, you must be in Court when the application is heard as shown below:
+
+               Date:                   January 6, 2025
+               Time:                   2:00 p.m. MST
+               Where:                  By Webex (see Webex details at Schedule “B”)
+               Before Whom:            The Honourable Justice Lema in Commercial Chambers
+                                       (Edmonton)
+
+Go to the end of this document to see what you can do and when you must do it.
+
+
+
+
+65745461\1
+LEGAL_CAL:16465367.1
+Rev. 2.02 (26-Jul-2013) AR140/2013
+                                                       -2-
+
+
+
+Remedy claimed or sought:
+
+1.         The applicant, Cleo Energy Corp. (“Cleo”), in connection with the proceedings under
+           Division I of Part III of the Bankruptcy and Insolvency Act, RSC 1985, c B-3, as amended
+           (the “BIA”, and such proceedings, the “Proposal Proceedings”), commenced by notice of
+           intention to make a proposal filed on December 8, 2024 (the “Filing Date”, and such
+           notice, the “NOI”) applies for an Order seeking, inter alia, the following relief, which
+           Order is substantially in the form attached hereto as Schedule “A”:
+
+           (a)         abridging the time for service of notice of this Application, deeming service of
+                       notice of this Application to be good and sufficient, and declaring that there is no
+                       other person who ought to have been served with notice of this Application;
+
+           (b)         extending the 30 day period, ending January 7, 2025, within which Cleo is required
+                       under section 50.4(8) of the BIA to file a proposal by an additional 45 days to
+                       February 21, 2025 (such period, as extended from time to time under section
+                       50.4(9) of the BIA, being the “Stay Period”, and the date on which the Stay Period
+                       expires being the “Expiry Date”);
+
+           (c)         declaring that during the Stay Period, all persons having oral or written agreements
+                       with Cleo or statutory or regulatory mandates for the supply of goods and/or
+                       services are hereby restrained until further Order of this Court from discontinuing,
+                       altering, interfering with or terminating the supply of such goods or services as may
+                       be required by Cleo, provided in each case that the normal prices or charges for
+                       such goods or services received after the date of this Order are paid by Cleo in
+                       accordance with normal payment practices of Cleo or other practices as may be
+                       agreed upon by the supplier or service provider and each of Cleo and the Proposal
+                       Trustee, or as may be ordered by this Honourable Court;
+
+           (d)         declaring that Cleo’s legal counsel, Gowling WLG (Canada) LLP (“Gowling”),
+                       Alvarez & Marsal Canada Inc. (“A&M”) in its capacity as Proposal Trustee of Cleo
+                       (the “Proposal Trustee”) and the Proposal Trustee’s legal counsel (collectively,
+                       the “Administrative Professionals”), shall have the benefit of a security and
+
+
+65745461\1
+LEGAL_CAL:16465367.1
+                                                        -3-
+
+
+
+                       charge (the “Administration Charge”) on all of Cleo’s present and after-acquired
+                       property (the “Property”) as security for their reasonable professional fees and
+                       disbursements incurred both before and after the granting of the requested Order,
+                       which Administrative Charge shall be in an amount not to exceed $350,000, and
+                       authorizing the payment to the Administrative Professionals of their reasonable fees
+                       and disbursements incurred in connection with the preparation for the herein
+                       proposal proceedings (the “Proposal Proceedings”);
+
+           (e)         approving a secured interim financing facility provided under a loan agreement (the
+                       “Interim Financing Agreement”) Cleo is seeking to enter into with an interim
+                       lender (the “Interim Lender”);
+
+           (f)         declaring that the Property is subject to a security and charge (the “Interim
+                       Lender’s Charge”) in favour of the Interim Lender to secure the payment and
+                       performance of the Interim Financing Facility and Cleo’s indebtedness, liabilities
+                       and obligations under the Interim Financing Agreement;
+
+           (g)         to the extent that any Emergency Advance (as defined herein) has been funded by
+                       advances under the Interim Financing Facility prior to the date of the Order being
+                       applied for hereunder, authorizing Cleo to repay such advances from any amounts
+                       received by Cleo subsequent to the Filing Date;
+
+           (h)         declaring that the Property is subject to a security and charge in favour of the
+                       directors and officers of Cleo (all such directors and officers being collectively
+                       referred to as the “Directors”) over the Property to indemnify the Directors against
+                       obligations and liabilities that they may incur as Directors of Cleo after the
+                       commencement of the Proposal Proceedings in an amount not to exceed $250,000
+                       (the “D&O Charge”), other than obligations and liabilities incurred as a result of
+                       their gross negligence or wilful misconduct;
+
+           (i)         declaring that the Administration Charge, Interim Financing Charge and D&O
+                       Charge (collectively, the “BIA Charges”) are priority charges that rank ahead of
+                       any and all charges, security interests, liens, trusts, deemed trusts and encumbrances
+
+
+65745461\1
+LEGAL_CAL:16465367.1
+                                                        -4-
+
+
+
+                       against the Property, including liens and trusts created by federal and provincial
+                       legislation, and that the BIA Charges rank, as between themselves, in the following
+                       order of priority:
+
+                       (i)     first, the Administration Charge;
+
+                       (ii)    second, the Interim Lender’s Charge; and
+
+                       (iii)   third, the D&O Charge;
+
+           (j)         authorizing Cleo to pay such amounts as it, and with the approval of the Proposal
+                       Trustee, deems necessary to Persons on account of debts that arose prior to the
+                       Filing Date, in order to operate, collect, realize and dispose of the Property in an
+                       orderly manner, provided that such payments are contemplated by the Cash Flow
+                       Forecast (as defined below) filed by the Proposal Trustee under section 50(6) of the
+                       BIA;
+
+           (k)         declaring that:
+
+                       (i)     in accordance with section 69(1) of the BIA, during the period between the
+                               Filing Date and the Expiry Date: (A) no creditor has any remedy against
+                               Cleo or the Property, or shall commence or continue any action, execution
+                               or other proceedings for the recovery of a claim provable in bankruptcy; (B)
+                               no provision of a security agreement between Cleo and a secured creditor
+                               that provides, in substance, that on Cleo’s insolvency, the default by Cleo
+                               of an obligation under the security agreement, or the filing by Cleo of the
+                               NOI, Cleo ceases to have rights to use or deal with Property secured under
+                               the security agreement as it would otherwise have, has any force or effect;
+                               and
+
+                       (ii)    in accordance with section 65.1(1) of the BIA but subject to section 65.1(4),
+                               no person may terminate or amend any agreement with Cleo or claim an
+                               accelerated payment, or a forfeiture of the term, under any agreement with
+                               Cleo by reason only that Cleo is insolvent or a NOI has been filed with
+                               respect to Cleo; and
+
+
+65745461\1
+LEGAL_CAL:16465367.1
+                                                       -5-
+
+
+
+           (l)         granting a stay of proceedings during the Stay Period of any claims against Chris
+                       Lewis (“Mr. Lewis”) as the sole director of Cleo, including arising from any
+                       guarantees granted by Mr. Lewis in his capacity as an officer and director of Cleo
+                       guaranteeing the indebtedness of Cleo and any new or outstanding legal
+                       proceedings as against Mr. Lewis;
+
+           (m)         requiring that any Person that has collected, realized, seized or taken possession of
+                       any money or other Property subsequent to the Filing Date without the consent of
+                       the Proposal Trustee or the leave of this Honourable Court promptly deliver or
+                       surrender to Cleo such money or other Property; and
+
+           (n)         such further and other relief as Cleo may request and this Honourable Court may
+                       grant.
+
+Grounds for making this application:
+
+Background
+
+1.         Cleo is a privately owned oil and gas operator of medium gravity oil based in Calgary,
+           Alberta with operations throughout East Central Alberta. Cleo has been operating since its
+           incorporation in 2016. Cleo’s shares are held entirely by its parent corporation Chimera
+           Management Group Ltd., a holding corporation. Cleo does not own shares in any other
+           corporation.
+
+2.         Cleo’s revenue is primarily linked to the productivity of its wells, as well as the market
+           price of oil.
+
+3.         Cleo has recently experienced a significant reduction in production levels due to several
+           factors, including: lack of repair and maintenance required at several of its main producing
+           fields causing shut ins of wells; shut downs of its oil producing assets following verbal
+           directives issued to Cleo by the Alberta Energy Regulator (“AER”); thefts and vandalism
+           at its oil and gas fields causing shutdowns over time and a recent complete shut down of
+           Cleo’s largest oil and gas field; and lower costs of oil and gas which Cleo produces.
+
+
+
+
+65745461\1
+LEGAL_CAL:16465367.1
+                                                        -6-
+
+
+
+4.         Cleo is unable to meet its obligations as they become due and its liabilities exceed its assets.
+
+5.         Cleo has total debts of approximately $24,102,898.00.
+
+6.         Cleo has several secured creditors. As of December 14, 2024, Cleo owed a total debt of
+           approximately $6.7 million to these parties.
+
+7.         On December 8, 2024, Cleo filed the NOI pursuant to subsection 50.4(1) of Division 1 of
+           Part III of the BIA with the Office of the Superintendent of Bankruptcy and appointed A&M
+           as Proposal Trustee.
+
+8.         As a result of the filing of the NOI, for a period of thirty (30) days subsequent to the filing
+           of the NOI:
+
+           (a)         No creditor has any remedy against Cleo or Cleo’s Property, or shall commence or
+                       continue any action, execution or other proceedings, for the recovery of a claim in
+                       bankruptcy;
+
+           (b)         No provision of a security agreement between Cleo and a secured creditor that
+                       provides, in substance, that on Cleo’s insolvency, the default by Cleo of an
+                       obligation under the security agreement, or the filing by Cleo of a NOI under
+                       section 50.4 of the BIA, the insolvent person ceases to have rights to use or deal
+                       with assets secured under the agreement as Cleo would otherwise have, has any
+                       force or effect; and
+
+           (c)         no person may commence or continue any action against a Director of Cleo on any
+                       claim against Directors that arose before the commencement of the Proposal
+                       Proceedings and relates to obligations of Cleo where Directors are under any law
+                       liable in their capacity as Directors for the payment of such obligations.
+
+9.         All proceedings against Cleo and the Property were automatically stayed for an initial
+           period of thirty (30) days.
+
+
+
+
+65745461\1
+LEGAL_CAL:16465367.1
+                                                        -7-
+
+
+
+Extension of the Stay Period for Cleo
+
+10.        The time to file a proposal for Cleo expires on January 7, 2025. Cleo requires an extension
+           of the Stay Period to continue the restructuring of its business and operations.
+
+11.        The extension of the Stay Period is appropriate for, inter alia, the following reasons:
+
+           (a)         Cleo has acted and continues to act in good faith and with due diligence;
+
+           (b)         no creditor will be materially prejudiced by the requested extension of the Stay
+                       Period; and
+
+           (c)         the extension of the Stay Period is necessary to allow Cleo sufficient time and
+                       opportunity to continue the restructuring of its business and affairs and pursue
+                       strategic alternatives.
+
+12.        The extension of the Stay Period would permit Cleo to, among other things:
+
+           (a)         continue operations during the Proposal Proceedings in order to carry out work,
+                       with the advice and consent of the Proposal Trustee, that will be economically
+                       beneficial to its estate and stakeholders;
+
+           (b)         preserve its assets and prevent environmental issues from arising during the winter
+                       months; and
+
+           (c)         take such actions as are necessary or desirable to preserve and enhance the value of
+                       Cleo’s business for the benefit of their creditors and other stakeholders.
+
+13.        The Proposal Trustee supports the requested extension of the Stay Period.
+
+Stay of Guarantor Claims and Legal Proceedings
+
+14.        Cleo will seek a stay during the Stay Period of the personal guarantees granted by Cleo’s
+           sole Director Chris Lewis for the indebtedness of Cleo, and all new and ongoing claims
+           against him. Such a stay is necessary as Mr. Lewis is crucial to Cleo successfully
+           restructuring. It is imperative that the sole Director focuses on Cleo’s restructuring efforts.
+
+
+65745461\1
+LEGAL_CAL:16465367.1
+                                                   -8-
+
+
+
+Administration Charge
+
+15.        Cleo requests that this Honourable Court grant the Administration Charge against the
+           Property in the maximum amount of $350,000 to secure the reasonable professional fees
+           and disbursements of the Administrative Professionals.
+
+16.        Cleo requires the expertise, knowledge and continuing participation of the Administrative
+           Professionals in order to complete a successful restructuring. There are many complex
+           legal, accounting, regulatory and technical issues which Cleo must navigate in these
+           Proposal Proceedings. The Administrative Professionals are integral to successfully
+           developing a viable restructuring, and in order to ensure their participation, the
+           Administration Charge is required to protect and secure their fees and disbursements.
+
+17.        The Administration Charge is reasonable and appropriate in the circumstances and the
+           Proposal Trustee is supportive of the proposed amount.
+
+Interim Financing
+
+18.        Cleo has prepared a 5-week cash flow forecast (the “Cash Flow Forecast”) in which the
+           estimated working capital requirements for general and administrative expenses,
+           operational expenses, payroll and benefit expenses, nominal royalty payments, and
+           restructuring costs, including the professional fees and disbursement will, without
+           additional funding, exceed Cleo’s estimated revenues. According to the Cash Flow
+           Forecast, Cleo will require an immediate cash injection and over the 5-week period.
+
+19.        Cleo is currently in discussions with various potential interim lenders to provide interim
+           financing. Cleo has not yet secured interim financing as of the date of this Application.
+
+20.        On the assumption that Cleo secures interim financing, an Interim Financing Facility and
+           Interim Lender’s Charge will be essential to provide Cleo with the financing it requires to
+           continue to operate its business and make a viable proposal to its creditors. The Court has
+           jurisdiction under section 50.6(3) of the BIA to order that an Interim Lender’s Charge rank
+           in priority over the claim of any creditor, including secured creditors. Section 60.6(3)
+           provides that “the court may order that the security or charge [granted in favour of the
+
+
+65745461\1
+LEGAL_CAL:16465367.1
+                                                    -9-
+
+
+
+           interim lender] rank in priority over the claim of any secured creditor of the debtor”. Case
+           law also supports that super priority charges have been granted in favour of an interim
+           lender.
+
+21.        An Interim Financing Facility would be contingent on this Honourable Court granting an
+           Order approving an Interim Financing Facility and Interim Financing Agreement and
+           declaring the Property to be subject to the Interim Lender’s Charge ranking in priority to
+           all other charges and security other than the Administration Charge.
+
+22.        Cleo may also receive emergency advances under an Interim Financing Agreement prior
+           to January 6, 2025 so Cleo has operating capital to continue operating until the January 6,
+           2025 extension hearing (the “Emergency Advance”). It is expected that an Interim
+           Financing Agreement will require that amounts received by Cleo from cash flows during
+           the NOI proceedings will be used to repay the Emergency Advance. Without any
+           Emergency Advance provided, it is expected Cleo will be unable to continue its operations
+           until the time it received an Interim Loan.
+
+23.        If Cleo repays all or a portion of the Emergency Advance prior to the hearing of the request
+           for the extension of the Stay Period, Cleo will seek an order that the Emergency Advance
+           could be repaid from the cash flows of Cleo.
+
+24.        Cleo will file and serve additional Court materials prior to January 6, 2025 regarding the
+           interim lender and interim financing.
+
+The D&O Charge
+
+25.        Cleo’s sole Director will play a critical role in these proceedings and has identified a need
+           for the granting of the D&O Charge as security for Cleo’s indemnification for possible
+           obligations and liabilities which they may incur in their capacity as sole Director.
+
+26.        The granting of the D&O Charge, in the amount of $200,000, is in line with prevailing
+           insolvency practices. While there is directors’ and officers’ liability insurance in place, the
+           sole Director remains concerned with respect to the many exclusions in that policy and the
+           willingness of insurers to deny or limit coverage.
+
+
+65745461\1
+LEGAL_CAL:16465367.1
+                                                    - 10 -
+
+
+
+27.        The quantum of the D&O Charge was developed with the assistance and support of the
+           Proposal Trustee.
+
+Material or evidence to be relied on:
+
+28.        The Affidavit of Chris Lewis sworn December 22, 2024, to be filed;
+
+29.        Bench Brief, to be filed;
+
+30.        The first report of the Proposal Trustee, to be filed; and
+
+31.        Such further and other material as counsel may advise and this Honourable Court may
+           permit.
+
+Applicable Acts and regulations:
+
+32.        Rules 1.2, 1.3, 3.2(2)(d), 3.8, 6.3(1), 6.9, 11.27 and 13.5 of the Alberta Rules of Court, Alta
+           Reg 124/2010;
+
+33.        The Bankruptcy and Insolvency Act, RSC 1985, c B-3, as amended; and
+
+34.        Such further and other Acts and regulations as counsel may advise and this Honourable
+           Court may permit.
+
+Any irregularity complained of or objection relied on:
+
+35.        None.
+
+How the application is proposed to be heard or considered:
+
+36.        Before the presiding Justice in Commercial Chambers via Webex.
+
+
+
+
+65745461\1
+LEGAL_CAL:16465367.1
+                                                  - 11 -
+
+
+
+           WARNING
+
+           If you do not come to Court either in person or by your lawyer, the Court may give
+           the applicant(s) what they want in your absence. You will be bound by any order
+           that the Court makes. If you want to take part in this application, you or your
+           lawyer must attend in Court on the date and time shown at the beginning of this
+           form. If you intend to give evidence in response to the application, you must reply
+           by filing an affidavit or other evidence with the Court and serving a copy of that
+           affidavit or other evidence on the applicant(s) a reasonable time before the
+           application is to be heard or considered.
+
+
+
+
+65745461\1
+LEGAL_CAL:16465367.1
+                           - 12 -
+
+
+
+                       Schedule “A”
+                       Draft Order
+
+
+
+
+65745461\1
+LEGAL_CAL:16465367.1
+                                             - 13 -
+
+
+                                                                             Clerk’s Stamp
+
+ COURT FILE NO.            B301-163430
+
+ COURT                     COURT OF KING’S BENCH OF ALBERTA
+
+ JUDICIAL CENTRE           CALGARY
+
+                           IN THE MATTER OF THE BANKRUPTCY AND INSOLVENCY ACT,
+                           RSC 1985, C B-3, AS AMENDED
+                           AND IN THE MATTER OF THE NOTICE OF INTENTION TO
+                           MAKE A PROPOSAL OF CLEO ENERGY CORP.
+
+ APPLICANT                 CLEO ENERGY CORP.
+
+ DOCUMENT                  ORDER (Stay Extension, Administration Charge, Interim
+                           Financing, Interim Financing Charge, D&O Charge and Other
+                           Relief)
+
+ ADDRESS     FOR           Gowling WLG (Canada) LLP
+ SERVICE    AND
+                           1600, 421 – 7th Avenue SW
+ CONTACT
+ INFORMATION OF            Calgary, AB T2P 4K9
+ PARTY    FILING
+ THIS DOCUMENT             Attn:    Sam Gabor/ Tom Cumming
+
+                           Phone:   403.298.1946/ 403.298.1938
+                           Fax:     403.263.9193
+                           Email:    sam.gabor@gowlingwlg.com/
+                                     tom.cumming@gowlingwlg.com
+                           File No.: G10010664
+
+DATE ON WHICH ORDER WAS PRONOUNCED:                      January 6, 2025
+
+LOCATION WHERE ORDER WAS PRONOUNCED: Calgary, Alberta
+JUSTICE WHO MADE THIS ORDER:                             The Honourable Justice Lema in
+                                                         Commercial Chambers
+
+                UPON THE APPLICATION of Cleo Energy Corp. (“Cleo” or, the “Applicant”)
+filed December 23, 2024; AND UPON reading the Affidavit of Chris Lewis, sworn December
+23, 2024 (the “Affidavit”) and the Affidavit of Service of Sherry Langley, sworn December
+●, 2024; AND UPON reading the First Report of Alvarez & Marsal Canada Inc. in its capacity
+
+
+
+65745461\1
+LEGAL_CAL:16465367.1
+                                                  - 14 -
+
+
+
+as proposal trustee of the Applicant (in such capacity, the “Proposal Trustee”), dated
+December ●, 2024; AND UPON hearing submissions by counsel for the Applicant, the
+Proposal Trustee, ● any other counsel or other interested parties present,
+
+ IT IS HEREBY ORDERED THAT:
+
+
+ SERVICE
+1.       The time for service of the notice of application for this order (the “Order”) is hereby
+         abridged and deemed good and sufficient and this application is properly returnable today,
+         and no other than those persons served is entitled to service of the notice of application.
+
+EXTENSION OF TIME TO FILE A PROPOSAL
+
+2.         The time within which Cleo is required to file a proposal to its creditors with the Official
+           Receiver, under section 50.4 of the Bankruptcy and Insolvency Act, RSC 1985, c B-3 (the
+           “BIA”) is hereby extended to February 21, 2025 (as extended from time to time, the “Stay
+           Period”).
+
+ADMINISTRATION CHARGE
+
+3.         Legal counsel to Cleo, the Proposal Trustee and legal counsel to the Proposal Trustee, as
+           security for their respective professional fees and disbursements incurred in preparing for
+           and during these proposal proceedings, and both before and after the granting of this Order,
+           shall be entitled to the benefit of, and are hereby granted, a security and charge (the
+           “Administration Charge”) on all of Cleo’s present and after-acquired assets, property and
+           undertakings (the “Property”), which charge shall not exceed $350,000.
+
+INTERIM FINANCING
+
+4.         Cleo is hereby authorized and empowered to obtain and borrow under an interim financing
+           facility (the “Interim Financing Facility”) pursuant to the interim financing facility
+           commitment letter dated ●, 2024 (the “Interim Financing Agreement”) between Cleo as
+           borrower and ● (the “Interim Lender”) as lender, provided that borrowings under the
+           Interim Financing Facility shall not exceed the principal amount of $● unless permitted by
+           further order of this Court and agreed to by the Interim Lender.
+
+
+
+65745461\1
+LEGAL_CAL:16465367.1
+                                                    - 15 -
+
+
+
+5.         The Interim Financing Facility shall be on the terms and subject to the conditions set forth
+           in the Interim Financing Agreement attached as Exhibit “n” to the Affidavit of Chris
+           Lewis, Sworn n, as such Interim Financing Agreement may be amended in accordance
+           with its terms.
+
+6.         The Interim Lender shall be entitled to the benefit of and are hereby granted a security and
+           charge on the Property (the “Interim Lender’s Charge”) as security for the payment and
+           performance of the indebtedness, liabilities and obligations of Cleo to the Interim Lender
+           under the Interim Financing Agreement and the Interim Financing Facility created thereby
+           in the principal amount of $● together with any interest accrued thereon or costs and
+           expenses incurred thereunder.
+
+D&O INDEMNIFICATION AND CHARGE
+
+7.         Cleo shall indemnify its director and officer against obligations and liabilities that he may
+           incur as director or officer after the Filing Date, except to the extent that, with respect to
+           any director or officer, the obligation or liability was incurred as a result of the director or
+           officer’s gross negligence or wilful misconduct.
+
+8.         The director and officer of Cleo shall be entitled to the benefit of and is hereby granted a
+           charge (the “D&O Charge”) on all of the Property, which shall not exceed an aggregate
+           amount of $200,000, as security for the indemnity provided in this Order.
+
+PRIORITY OF CHARGES
+
+9.         The filing, registration or perfection of the Administration Charge, the Interim Lender’s
+           Charge and the D&O Charge (collectively, the “BIA Charges”) shall not be required, and
+           the BIA Charges shall be enforceable for all purposes, including as against any right, title
+           or interest filed, registered, recorded or perfected subsequent to the Charges coming into
+           existence, notwithstanding any such failure to file, register, record or perfect.
+
+10.        The BIA Charges shall constitute a security and charge on the Property and such BIA
+           Charges shall rank in priority to all other security interests, trusts, liens, charges, deemed
+           trusts, encumbrances and claims of secured creditors, statutory or otherwise in favour of
+           any person, including liens and trusts created by federal and provincial legislation
+
+
+
+65745461\1
+LEGAL_CAL:16465367.1
+                                                        - 16 -
+
+
+
+           (collectively, the “Encumbrances”), provided, however, that the relative priority of the
+           BIA Charges and is subject to further order of the Court. The ranking as between the BIA
+           Charges shall be as follows:
+
+           (a)         first, the Administration Charge;
+
+           (b)         second, the Interim Lender’s Charge; and
+
+           (c)         third, the D&O Charge.
+
+11.        Except as otherwise provided herein, or as may be approved by this Honourable Court,
+           Cleo shall not grant any Encumbrances over the Property that rank in priority to, or pari
+           passu with, any of the BIA Charges, unless Cleo obtains the prior written consent of the
+           beneficiaries of the BIA Charges (the “Chargees”) or further order of this Court.
+
+12.        The BIA Charges shall not be rendered invalid or unenforceable and the rights and remedies
+           of the Chargees thereunder shall not otherwise be limited or impaired in any way by:
+
+           (a)         the pendency of these proceedings and the declarations of insolvency made in this
+                       Order;
+
+           (b)         any application(s) for bankruptcy order(s) issued pursuant to the BIA, or any
+                       bankruptcy order made pursuant to such applications;
+
+           (c)         the filing of any assignments for the general benefit of creditors made pursuant to
+                       the BIA;
+
+           (d)         the provisions of any federal or provincial statutes; or
+
+           (e)         any negative covenants, prohibitions or other similar provisions with respect to
+                       borrowings, incurring debt or the creation of Encumbrances, contained in any
+                       existing loan documents, lease, sublease, offer to lease or other agreement
+                       (collectively, an “Agreement”) that binds Cleo, and notwithstanding any provision
+                       to the contrary in any Agreement:
+
+                       (i)      neither the creation of the BIA Charges nor the execution, delivery,
+                                perfection, registration or performance of any documents in respect thereof,
+
+
+
+
+65745461\1
+LEGAL_CAL:16465367.1
+                                                       - 17 -
+
+
+
+                               shall create or be deemed to constitute a new breach by Cleo of any
+                               Agreement to which they, or any one of them, is a party;
+
+                       (ii)    none of the Chargees shall have any liability to any person whatsoever as a
+                               result of any breach of any Agreement caused by or resulting from the
+                               creation of the BIA Charges, or the execution, delivery or performance of
+                               the Interim Financing Facility; and
+
+                       (iii)   the payments made by Cleo pursuant to this Order and the granting of the
+                               BIA Charges, do not and will not constitute preferences, fraudulent
+                               conveyances, transfers at undervalue, oppressive conduct or other
+                               challengeable or voidable transactions under any applicable law.
+
+RESTATEMENT OF STAY AND CONTINUATION OF SERVICES
+
+13.        In accordance with section 69(1) of the BIA, during the period between December 8, 2024
+           (the “Filing Date”) and the date on which the Stay Period expires:
+
+                       (i)     no creditor has any remedy against Cleo or against any of the Property or
+                               shall commence or continue any action, execution or other proceedings for
+                               the recovery of a claim provable in bankruptcy; and
+
+                       (ii)    no provision of a security agreement between Cleo and a secured creditor
+                               that provides, in substance, that on Cleo’s insolvency, the default by Cleo
+                               of an obligation under the security agreement, or the filing by Cleo of the
+                               NOI, Cleo ceases to have rights to use or deal with Property secured under
+                               the security agreement as it would otherwise have, has any force or effect.
+
+14.        In accordance with section 65.1(1) of the BIA but subject to section 65.1(4) of the BIA, no
+           person may terminate or amend any agreement with Cleo or claim an accelerated payment,
+           or a forfeiture of the term, under any agreement with Cleo by reason only that Cleo is
+           insolvent or a NOI has been filed with respect to Cleo.
+
+15.        During the Stay Period, all persons having oral or written agreements with Cleo or statutory
+           or regulatory mandates for the supply of goods and/or services are hereby restrained until
+           further Order of this Court from discontinuing, altering, interfering with or terminating the
+
+
+65745461\1
+LEGAL_CAL:16465367.1
+                                                    - 18 -
+
+
+
+           supply of such goods or services as may be required by Cleo, provided in each case that
+           the normal prices or charges for such goods or services received after the date of this Order
+           are paid by Cleo in accordance with normal payment practices of Cleo or other practices
+           as may be agreed upon by the supplier or service provider and each of Cleo and the
+           Proposal Trustee, or as may be ordered by this Honourable Court.
+
+16.        In the event that the payment of any emergency advance which was made prior to the date
+           of this Order has been funded by an advance under the Interim Financing Facility (an
+           “Emergency Advance”), Cleo shall be entitled to repay such Emergency Advance(s) to
+           the Interim Lender from any amounts received by Cleo, subsequent to the Filing Date,
+           other than advances received by Cleo under the Interim Financing Facility or amounts to
+           be held in trust by Cleo, but including any amounts released from trust,. The Interim
+           Financer shall be treated as unaffected in any proposal filed by Cleo under the BIA with
+           respect to any Emergency Advances made.
+
+17.        Any Person (as such term is defined in the BIA) that has collected, realized, seized or taken
+           possession of any money or other Property subsequent to the Filing Date without the
+           consent of the Proposal Trustee or leave of this Honourable Court shall promptly deliver
+           or surrender to Cleo such money or other Property.
+
+18.        During the Stay Period, except with the written consent of Cleo and the Proposal Trustee,
+           or with leave of this Court, no Proceedings shall be commenced or continued against or in
+           respect of Chris Lewis (“Mr. Lewis”) or any of his respective current and future assets,
+           businesses, undertakings and properties of every nature and kind whatsoever, and wherever
+           situate including all proceedings thereof, arising upon or as a result of any default under
+           the terms of any document entered into in connection with any of Mr. Lewis’ guarantees
+           of any of the commitments or loans of Cleo or any claims or legal proceedings having been
+           previously commenced or may be commenced as against Mr. Lewis in his capacity as an
+           employee, officer or director of Cleo.
+
+
+
+
+65745461\1
+LEGAL_CAL:16465367.1
+                                                  - 19 -
+
+
+
+GENERAL
+
+19.        Service of this Order may be effected by facsimile, electronic mail, personal delivery or
+           courier to the service list (the “Service List”) in the proceedings. Service is deemed to be
+           effected the next business day following transmission or delivery of this Order.
+
+20.        This Order shall be posted on the Proposal Trustee’s website for these proceedings at:
+           https://www.alvarezandmarsal.com/CLEO
+
+
+
+
+                                                      J.C.K.B.A.
+
+
+
+
+65745461\1
+LEGAL_CAL:16465367.1
+                                                                                                    Clerk’s Stamp
+                                                   SCHEDULE “B”
+                                                                                                    Clerk's Stamp
+                                                 WEBEX DETAILS
+
+     Virtual Courtroom 60 has been assigned for the above noted matter:
+
+     Virtual Courtroom Link:
+
+     https://albertacourts.webex.com/meet/virtual.courtroom60
+
+     Instructions for Connecting to the Meeting
+
+           1. Click on the link above or open up Chrome or Firefox and cut and paste it into your browser
+                 address bar.
+           2. If you do not have the Cisco Webex application already installed on your device, the site will have
+              a button to install it. Follow installation instructions. Enter your full name and email address when
+              prompted
+           3. Click on the Open Cisco Webex Meeting.
+           4. You will see a preview screen. Click on Join Meeting.
+
+     Key considerations for those attending:
+
+1.   Please connect to the courtroom 15 minutes prior to the start of the hearing.
+
+2.   Please ensure that your microphone is muted and remains muted for the duration of the proceeding, unless
+     you are speaking. Ensure that you state your name each time you speak.
+
+3.   If bandwidth becomes an issue, some participants may be asked to turn off their video and participate by
+     audio only.
+
+4. Note: Recording or rebroadcasting of the video is prohibited.
+
+
+
+5.   Note: It is highly recommended you use headphones with a microphone or a headset when using
+     Webex. This prevents feedback.
+
+     For more information          relating to Webex       protocols and procedures, please                    visit:
+     https://www.albertacourts.ca/qb/court-operations-schedules/webex-remote-hearings-protocol
+
+     You can also join the meeting via the “Cisco Webex Meetings” App on your smartphone/tablet or other
+     smart device. You can download this via the App marketplace and join via the link provided above.
+
+
+
+
+     65745461\1
+     LEGAL_CAL:16465367.1
+     Rev. 2.02 (26-Jul-2013) AR140/2013
+

@@ -1,0 +1,886 @@
+                                                                        Clerk’s Stamp
+
+                                                                           FILED
+ COURT FILE NUMBER           B301-163430                                Jan 08, 2025
+
+ COURT                       COURT OF KING’S BENCH OF ALBERTA              by Email
+ JUDICIAL CENTRE             CALGARY
+                                                                                    C10350
+                             IN THE MATTER OF THE BANKRUPTCY AND
+                             INSOLVENCY ACT, RSC 1985, C B-3, AS AMENDED
+
+                             AND IN THE MATTER OF THE NOTICE OF INTENTION
+                             TO MAKE A PROPOSAL OF CLEO ENERGY CORP.
+
+ DOCUMENT                    BENCH BRIEF OF CLEO ENERGY CORP.
+
+ ADDRESS FOR SERVICE         GOWLING WLG (CANADA) LLP
+ AND CONTACT                 Suite 1600, 421 – 7th Avenue SW
+ INFORMATION OF              Calgary, AB T2P 4K9
+ PARTY FILING THIS
+ DOCUMENT                    Telephone:    403-298-1946/ 403-298-1938
+                             Fax:          403-263-9193
+                             Email:        sam.gabor@gowlingwlg.com /
+                                           tom.cumming@gowlingwlg.com
+                             File No.:     G10010664
+
+                             Attention:    Sam Gabor/ Tom Cumming
+
+
+
+                APPLICATION BEFORE THE HONOURABLE JUSTICE LEMA
+             JANUARY 6, 2025 AT 2:00 PM ON THE CALGARY COMMERCIAL LIST
+
+
+
+
+65791537\5
+                                                        Table of Contents
+
+                                                                                                                                      Page
+
+
+I.      INTRODUCTION............................................................................................................ 1
+
+II.     ISSUES .............................................................................................................................. 4
+
+III.    LAW AND ARGUMENT................................................................................................ 5
+
+        A.         Stay of Trafigura Canada Limited Set-off Claims ................................................. 5
+        B.         Extension of the Stay Period is Appropriate .......................................................... 9
+        C.         Battle River Claim against Chris Lewis............................................................... 12
+
+IV.     CONCLUSION AND RELIEF SOUGHT ................................................................... 18
+
+
+
+
+                                                                     i
+65791537\5
+I.      INTRODUCTION1
+
+1.      On December 8, 2024, the Applicant, Cleo Energy Corp. (“Cleo”) filed a Notice of
+        Intention to Make a Proposal (“NOI”) pursuant to subsection 50.4(1) of the Bankruptcy
+        and Insolvency Act RSC 1985, c. B-3 (“BIA”) with the assistance of its legal counsel,
+        Gowling WLG (Canada) LLP (“Gowling”) and appointed Alvarez & Marsal Canada Inc.
+        (“A&M”) as Proposal Trustee (the “Proposal Trustee”). The NOI was necessary to
+        provide stability to Cleo’s business and allow Cleo the chance to restructure.
+
+(a) Trafigura Set-off Claims
+
+2.      As a result of the filing of the NOI, all proceedings against Cleo and its property were
+        automatically stayed for an initial period of thirty (30) days (the “Stay Period”), including
+        the exercise of any rights of setoff any of Cleo’s creditors has against Cleo.
+
+3.      On Friday, December 20, 2024 at 3:30 PM, thirty minutes prior to the Court closing before
+        the two week holiday closure, Trafigura advised Cleo that it was accelerating all of Cleo’s
+        unsecured debt owing to Trafigura under the Prepayment Agreement and would
+        unilaterally setoff Cleo’s unsecured indebtedness owing to Trafigura as against almost all
+        of Cleo’s production revenues for the month of November, 2024. The set-off would have
+        jeopardized Cloe’s continuing operations.
+
+4.      On December 23, 2024, Cleo filed an emergency application (the “Emergency
+        Application”) seeking urgent relief to prevent Trafigura from setting-off all amounts
+        owing by it to Cleo under the Commercial Agreement against the obligations owing by
+        Cleo under the Prepayment Agreement2.
+
+5.      On December 26, 2024, the Emergency Application and written materials therefrom,
+        including a subsequent cross-application of Trafigura, was reviewed by Justice Hollins.
+        Justice Hollins ordered that Trafigura was not allowed to accelerate Cleo’s unsecured debt
+        under the Prepayment Agreement and was further not allowed to set-off the entire Advance
+
+
+1
+  Capitalized terms not defined herein have the meaning given to them in the Affidavit of Chris Lewis, sworn January
+5, 2025 (the “January 5 Affidavit”).
+2
+  January 5 Affidavit at para 18.
+
+
+65791537\5
+                                                    2
+
+
+         balance against its December Payment and that the entire December Payment was due
+         immediately. The issue of ongoing monthly set-off of scheduled monthly loan payments
+         under the Prepayment Agreement of approximately $91,000 (the “Scheduled Monthly
+         Payments”) was adjourned to the scheduled court appearance on January 6, 2025.3
+
+6.       Cleo’s primary cash receipts anticipated during the NOI proceedings are the amounts to be
+         paid by Trafigura to Cleo pursuant to the Commercial Agreement. A reduction of Cleo’s
+         oil production revenues during the Stay Period in the amount of the Scheduled Monthly
+         Payments will prejudice Cleo’s ability to pay the obligations incurred by it during these
+         NOI Proceedings that are contemplated by its 13-Week Cash Flow Forecast4. It will further
+         cause Cleo’s unsecured prefiling debt owing to Trafigura under the Prepayment Agreement
+         to be repaid in priority to other creditors. Trafigura will not be prejudiced if there is a
+         continued stay of the Scheduled Monthly Payments.
+
+(b) Interim Financing and Stay Extension
+
+7.       The Stay Period expires on January 7, 2025. Cleo is required to file a proposal within the
+         Stay Period unless Cleo obtains from this Honourable Court an Order extending the time
+         period for filing a proposal prior to the said expiration.
+
+8.       Cleo is seeking an extension of the time to file a proposal in these Proposal Proceedings to
+         February 21, 2025 (the “Stay Extension”).
+
+9.       The 13-week Cash Flow Forecast indicates that Cleo requires an Interim Financing Facility
+         from January 6, 2025 and onwards to ensure that it has the liquidity required to continue
+         with these Proposal Proceedings.5
+
+10.      Cleo has now entered into an Interim Financing Agreement which will provide the working
+         capital required in order to pay a significant portion of the obligations contemplated in the
+         13-week Cash Flow Forecast.6
+
+
+
+3
+  January 5 Affidavit at para 21.
+4
+  January 5 Affidavit at para 24.
+5
+  January 5 Affidavit at para 26.
+6
+  January 5 Affidavit at para 27.
+
+
+65791537\5
+                                                   3
+
+
+11.     Cleo previously made written submissions regarding the Stay Extension in its brief dated
+        December 23, 2024. Cleo provides these supplemental submissions in light of it recently
+        entering into an Interim Financing Agreement with uCapital - uLoan Solutions Inc (the
+        “Interim Lender”).
+
+(c) Stay of Proceedings for Chris Lewis
+
+12.     Battle River Energy Limited (“Battle River”) has filed a claim against Cleo and its
+        officers, for breach of trust while acting as officers of Cleo7.
+
+13.     Battle River is taking the position that the automatic Stay does not apply to the Directors
+        and Officers of Cleo.8
+
+14.     As a result of section 69.31(1) of the BIA, the Battle River’s Action is stayed as against the
+        Directors and Officers of Cleo. An application must be brought by Battle River to lift the
+        stay pursuant to section 69.4 of the BIA if its wishes to continue with the Action against
+        the Directors and Officers of Cleo during the stay period.
+
+Relief sought
+
+15.     This Bench Brief is submitted on behalf of Cleo in support of an Application seeking from
+        this Honourable Court an Order, among other things:
+
+        (a)      declaring that Trafigura’s right to effect set-off of post December 8, 2024 scheduled
+                 monthly payments under the Prepayment Agreement that will become owing by
+                 Cleo to Trafigura as against ongoing amounts that will become owing by Trafigura
+                 to Cleo under the Commercial Agreement for Cleo’s continuing production sales
+                 to Trafigura under the Commercial Agreement is stayed pursuant to section 69(1)
+                 of the BIA;
+
+        (b)      extending the 30 day period, ending January 7, 2025, within which Cleo is required
+                 under section 50.4(8) of the BIA to file a proposal by an additional 45 days to
+
+
+7
+January 5 Affidavit at para 34.
+8
+January 5 Affidavit at para 35.
+
+
+65791537\5
+                                                 4
+
+
+               February 21, 2025 (such period, as extended from time to time under section
+               50.4(9) of the BIA, being the “Stay Period”, and the date on which the Stay Period
+               expires being the “Expiry Date”);
+
+        (c)    a stay of proceedings during the Stay Period and any claims against Chris Lewis in
+               his capacity as a director of Cleo; and
+
+        (d)    such further and other relief as Cleo may request and this Honourable Court may
+               grant.
+
+16.     This application is supported by Affidavits sworn by Chris Lewis (“Mr. Lewis”), the sole
+        Director, Executive Chairman, and Chief Executive Officer of Cleo dated December 22,
+        2024, December 23, 2024, December 24, 2024 and January 5, 2025 (the “Lewis
+        Affidavits”).
+
+II.     ISSUES
+
+17.     This Brief addresses whether this Honourable Court should:
+
+        (a)    declare that Trafigura’s right to effect set-off of post December 8, 2024 scheduled
+               monthly payments under the Prepayment Agreement that will become owing by
+               Cleo to Trafigura as against ongoing amounts that will become owing by Trafigura
+               to Cleo under the Commercial Agreement for Cleo’s continuing production sales
+               to Trafigura under the Commercial Agreement is stayed pursuant to section 69(1)
+               of the BIA;
+
+        (b)    grant a stay of proceedings during the Stay Period and any claims against Chris
+               Lewis in his capacity as a director of Cleo; and
+
+        (b)    extend the time within which Cleo is required to file a proposal.
+
+
+
+
+65791537\5
+                                                     5
+
+
+III.    LAW AND ARGUMENT
+
+A.      Stay of Trafigura Canada Limited Set-off Claims
+
+18.     Pursuant to section 97(3) of the BIA, the law of set-off applies to all claims made against a
+        bankrupt’s estate as well as to all actions instituted by the trustee for the recovery of any
+        debts owed to the bankrupt:
+
+                Law of set-off or compensation
+
+                97(3) The law of set-off or compensation applies to all claims made against the
+                estate of the bankrupt and also to all actions instituted by the trustee for the recovery
+                of debts due to the bankrupt in the same manner and to the same extent as if the
+                bankrupt were plaintiff or defendant, as the case may be, except in so far as any
+                claim for set-off or compensation is affected by the provisions of this Act respecting
+                frauds or fraudulent preferences.9
+
+19.     Pursuant to Section 66(1) of the BIA, section 97(3) is applicable to a proposal proceeding.10
+
+20.     A similar set-off provision is explicitly provided for in section 21 of the Companies
+        Creditor Arrangement Act (“CCAA”):
+
+                Law of set-off or compensation to apply
+
+                The law of set-off or compensation applies to all claims made against a debtor
+                company and to all actions instituted by it for the recovery of debts due to the
+                company in the same manner and to the same extent as if the company were plaintiff
+                or defendant, as the case may be.11
+
+21.     While the BIA does not expressly restrict or abrogate the right to set-off debts of an
+        insolvent debtor during reorganization, a restriction on the exercise of set-off rights is
+        implied in section 69(1) of the BIA, which extends the stay of proceedings with respect to
+        the ability of creditors to, among other things, seek remedies for the recovery of property
+        of the debtor:
+
+
+
+
+9
+  BIA section 97(3) [TAB 1].
+10
+   BIA section 66(1) [TAB 1].
+11
+   Companies’ Creditor Arrangement Act, RSC 1985, c C-36 section 21 [TAB 2].
+
+
+65791537\5
+                                                        6
+
+
+                   Stay of proceedings — notice of intention
+
+                   69 (1) Subject to subsections (2) and (3) and sections
+                   69.4, 69.5 and 69.6, on the filing of a notice of intention
+                   under section 50.4 by an insolvent person,
+
+                           (a) no creditor has any remedy against the insolvent person
+                           or the insolvent person’s property, or shall commence or
+                           continue any action, execution or other proceedings, for the
+                           recovery of a claim provable in bankruptcy,
+
+                           (b) no provision of a security agreement between the
+                           insolvent person and a secured creditor that provides, in
+                           substance, that on
+
+                                    (i) the insolvent person’s insolvency,
+
+                                    (ii) the default by the insolvent person of an
+                                    obligation under the security agreement, or
+
+                                    (iii) the filing by the insolvent person of a notice of
+                                    intention under section 50.4,
+
+                   the insolvent person ceases to have such rights to use or deal with
+                   assets secured under the agreement as he would otherwise have, has
+                   any force or effect,12
+
+22.        In the case of North American Tungsten Corporation Ltd. (Re), North American Tungsten
+           Corporation (“NATC”) produced tungsten from a mine and sells it to Global Tungsten and
+           Powders Corp. (“GTP”) under a supply agreement, which included an annual supply of
+           tungsten concentrate. A loan agreement was also established, secured by property related
+           to the mine, with a debt exceeding $4 million. After filing of the initial order, GTP offset
+           loan amounts against payments for tungsten deliveries, prompting NATC to seek a court
+           declaration that GTP breached the stay provisions and to request an injunction to prevent
+           GTP from setting off payments. The British Columbia Supreme Court, affirmed later by
+           the Court of Appeal, noted that section 21 of the CCAA does not exempt set-off claims
+           from stays, even when it is acknowledged that those rights exist13.
+
+
+
+
+12
+     BIA section 69(1) [TAB 1].
+13
+     North American Tungsten Corporation Ltd. (Re), 2015 BCSC 1382 at para 28 [TAB 3].
+
+
+65791537\5
+                                                        7
+
+
+23.     In Re Just Energy Corp., Just Energy Group Inc. applied to prevent financial institutions
+        from exercising "sweep rights" under their agreements. The Ontario Superior Court of
+        Justice concluded that section 21 of the CCAA does not exempt set-off rights from a stay
+        of proceedings14. The court granted this application, noting that while section 21 preserves
+        set-off rights, their exercise can be deferred. The court reasoned that allowing banks to
+        claim set-off could deplete Just Energy's accounts, giving banks a preferred position over
+        other creditors and depriving Just Energy of working capital.
+
+24.     In the case of Montréal (Ville) c. Restructuration Deloitte Inc., a consulting engineering
+        firm (“CEF”) contracted with the City of Montréal (the “City”). After discovering
+        collusion by two former officers, the firm became insolvent. In August 2018, the Québec
+        Superior Court issued an initial order under the CCAA, staying the exercise of rights and
+        remedies against CEF. Despite CEF continuing to work for the City, the City refused
+        payment, attempting to offset its debt to CEF against two pre-order claims related to alleged
+        fraud by CEF. The first claim arose from a settlement between CEF and the Minister of
+        Justice, representing the City, under a voluntary reimbursement program. The second claim
+        involved the allegedly fraudulent installation of water meters in the city. The Supreme
+        Court of Canada held that section 21 of the CCAA does not grant creditors a right to pre-
+        post compensation that would be shielded from a supervising judge’s power to order a stay,
+        and concluded that the broad discretion conferred on a court allows it to stay creditors’
+        rights to effect pre-post compensation if the exercise of those rights could jeopardize the
+        restructuring process. 15
+
+25.     While the above cases were decided under the CCAA, the CCAA and BIA should be read
+        harmoniously,16 and Cleo respectfully submits that the same analysis applies to the stay of
+        proceedings and set-off provisions under the BIA.
+
+26.     The exercise of Trafigura’s set-off of the Scheduled Monthly Payments would jeopardize
+        Cleo’s restructuring process. Cleo’s primary cash receipts during the NOI proceedings will
+
+
+14
+   Re Just Energy Corp., 2021 ONSC 1793 (Ont. S.C.J. [Commercial List]) at para 102-103 [TAB 4].
+15
+   Montréal (Ville) c. Restructuration Deloitte Inc. 2021 SCC 53 at paras 54 and 62-63 [TAB 5].
+16
+   9354-9186 Québec inc. v. Callidus Capital Corp., 2020 SCC 10 at para 74 [TAB 6]; Century Services Inc. v. Canada
+(Attorney General), 2010 SCC 60 at para 24 [TAB 7].
+
+
+65791537\5
+                                                     8
+
+
+        be the amounts to be paid by Trafigura to Cleo pursuant to the Commercial Agreement. A
+        reduction of approximately $91,000 per month will significantly impact Cleo’s ability to
+        meet its cash flow obligations during the NOI proceedings.17 Cleo’s 13-week cash flow
+        does not contemplate setoff of the Scheduled Monthly Payments and its cash flow cannot
+        support such a setoff.18
+
+27.     If Trafigura is permitted to exercise set-off of the Scheduled Monthly Payments in light of
+        the Stay, according to the 13-Week Cash Flow Forecast, Cleo will not have the required
+        cash flow to maintain its operations during the NOI proceedings which will cause prejudice
+        to Cleo and Cleo’s other stakeholders. If the NOI Proceedings fail because Cleo doesn’t
+        have sufficient cash flow to meet its post NOI obligations, Cleo would automatically
+        become bankrupt. This would cause irreparable harm, loss and damage to Cleo and its
+        stakeholders.19
+
+28.     Furthermore, allowing Trafigura to set-off the Scheduled Monthly Payments will allow
+        Trafigura to reduce its pre-filing unsecured debt in priority to other creditors and
+        stakeholders, which it would otherwise not have priority over.
+
+29.     In ordering that Trafigura was not allowed to set-off the entire Advanced balance against
+        its December payment and that the entire December Payment was due immediately, Justice
+        Hollins stated:
+
+                [19] I appreciate the perception of unfairness to Trafigura in having extended a loan
+                to Cleo, substituting a right of set-off in place of actual security (likely not an option
+                at that point) and now being foreclosed from that contractual right. However, that
+                is akin to the perceived unfairness visited on all unsecured creditors whose rights
+                are suspended for the statutory objectives of BIA-sponsored reorganization.
+
+                [20] Those objectives, as concerns Cleo, must in my view take precedence over the
+                rights of one unsecured creditor, particularly where granting the relief sought by
+                Trafigura would not only mean the end of the company but would prejudice the
+                other creditors of Cleo, both in extinguishing the possibility of a proposal to all but
+                also in paying one creditor in preference to the others. [Emphasis added]20
+
+
+17
+   January 5 Affidavit at para 24.
+18
+   January 5 Affidavit at para 24.
+19
+   January 5 Affidavit at para 25.
+20
+   Cleo Energy Corp (Re), 2024 ABKB 773 at paras 19 and 20 [Tab 11].
+
+
+65791537\5
+                                                      9
+
+
+30.        Trafigura will not be prejudiced in the circumstances. Trafigura continues to benefit from
+           the Commercial Agreement through a fee deduction of US$0.95/bbl fee (the “Marketing
+           Fee”) from the base price of the oil it purchases from Cleo before paying revenue out to
+           Cleo.21
+
+31.        Trafigura further benefits from Cleo`s continued operations during the Proposal
+           Proceedings as it continues to purchase oil from Cleo and can realize profits from the resale
+           of Cleo’s oil products at higher rates than Trafigura paid to Cleo for the purchase of the
+           products.22
+
+B.         Extension of the Stay Period is Appropriate and Interim Financing
+
+32.        The Stay Period expires on January 7, 2025. Cleo is required to file a proposal within the
+           Stay Period unless Cleo obtains from this Honourable Court an Order extending the time
+           period for filing a proposal prior to the said expiration.
+
+33.        Cleo is seeking an extension to February 21, 2025, in these Proposal Proceedings (the
+           “Stay Extension”).
+
+34.        Cleo previously made written submissions regarding the Stay Extension in its brief dated
+           December 23, 2024. Cleo provides these supplemental submissions in light of it recently
+           entering into an Interim Financing Agreement with the Interim Lender.
+
+35.        Pursuant to section 50.4(9) of the BIA, a debtor in a proposal proceeding may apply to the
+           Court for an order extending the time to file a proposal by a maximum of 45 days and up
+           to the aggregate of five (5) months after the expiry of the 30-day period, provided that the
+           Court is satisfied that:
+
+                (a) The insolvent person has acted, and is acting, in good faith and with due diligence;
+
+                (b) The insolvent person would likely be able to make a viable proposal if the extension
+                     being applied for were granted and
+
+
+
+21
+     January 5 Affidavit at para 15(a).
+22
+     January 5 Affidavit at para 15(a).
+
+
+65791537\5
+                                                         10
+
+
+             (c) No creditor would be materially prejudiced if the extension be applied for were
+                  granted.23
+
+36.      The court may extend the time to make a proposal and during that time the court may
+         approve interim financing pursuant to s. 50.6 (1) of the BIA24. In making that decision and
+         in exercising its discretion, the court is mandated to consider all relevant factors including
+         the debtor’s cash-flow statement and those factors set out in subsection (5).
+
+37.      The 13-week Cash Flow Forecast indicates that Cleo requires interim financing from
+         January 6, 2025 and onwards to ensure that it has the liquidity required to meet its monetary
+         obligations within these Proposal Proceedings25. As illustrated in the Cash Flow Forecast,
+         Cleo will require additional funds to funds operations during the proposed proposal
+         extension date of February 21, 202526.
+
+38.      Cleo has entered into an Interim Financing Agreement27. The Interim Financing Agreement
+         includes the following terms28:
+
+          Amount of Loan:            $750,000.00
+
+          Maturity Date:             The earliest of :
+
+                                         a) May 8th, 2025, or such other date as agreed to between the
+                                            parties;
+
+                                         b) the termination of the BIA proceedings; or
+
+                                         c) the occurrence of an Event of Default (as defined in the
+                                            Term Sheet).
+
+          Security:                  A Court authorized first-ranking, valid, enforceable financing
+                                     charge with priority over all creditors of Cleo, in an amount to
+                                     match the anticipated draws required by Cleo from the Lender
+                                     from time to time as prescribed by the 13-week Cash Flow
+                                     Forecast, which shall not exceed $900,000.00 (the “DIP Charge”)
+                                     charging all the property, assets and undertakings of Cleo granted
+
+23
+   BIA section 50.4(9) [Tab 1].
+24
+   BIA section 50.6 (1) [Tab 1].
+25
+   January 5 Affidavit at para 26.
+26
+   January 5 Affidavit at para 25.
+27
+   January 5 Affidavit at para 27.
+28
+   January 5 Affidavit at para 28.
+
+
+65791537\5
+                                                        11
+
+
+                                     pursuant to the DIP Order (as defined in the Term Sheet) that
+                                     includes standard debtor-in-possession terms and conditions
+                                     satisfactory to the Interim Lender acting reasonably, pursuant to
+                                     section 50.6(1) of the BIA, as the case may be, subject only to an
+                                     administration charge not to exceed $700,000 (the
+                                     “Administration Charge”)
+
+            Conditions              Prior to any disbursement, Cleo is required to have obtained an
+            Precedent:              order made by the Court (the “DIP Order”) in form and content
+                                    satisfactory to the Interim Lender, which shall include, among
+                                    other things: (a) the approval of the Interim Financing Agreement
+                                    and all the terms and conditions thereof; (b) authorizing Cleo to
+                                    borrow on the terms and conditions outlined in the Term Sheet and
+                                    approving same; and (c) creating various court-ordered priority
+                                    charges including the granting of the DIP Charge.
+
+            Interest Rate:           Interest is payable monthly, at a rate of 3% per annum.
+
+            Fees:                    On payment in full of the DIP Loan, an additional $50,000 fee will
+                                     be earned and payable, in full.
+
+            Administration           Not to exceed $700,000.
+            Charge:
+
+
+
+39.        The 13-week Cash Flow Forecast indicate that Cleo will have drawn fully on the interim
+           financing by the week of February 7, 2025.
+
+40.        In Pacific Shores Resort & Spa Ltd., Re, a stay extension was granted in the CCAA
+           proceedings notwithstanding that the interim financing was less than what the cash flow
+           projections indicated was required for the debtor to meet the next stay extension.29
+
+41.        As the amount of the Interim Financing Agreement is insufficient to cover all obligations
+           until February 21, 2025, as anticipated by the 13-week Cash Flow Forecast, Cleo has
+           entered into negotiations with a potential purchaser regarding the sale of all of the
+           Sedgewick Fields in order to obtain additional funds to meet its obligations during the Stay
+
+
+
+
+29
+     Pacific Shores Resort & Spa Ltd., Re 2011 BCSC 1775 at para 45, 60 [TAB 8].
+
+
+65791537\5
+                                                     12
+
+
+           Period (the “Sedgwick Sale”).30 The Sedgwick Sale is anticipated to provide Cleo enough
+           operating capital to meet its obligations within the 13 week cash flow period.
+
+42.        Cleo anticipates that the Sedgwick Sale will close prior to February 21, 2025, in which case
+           Cleo will seek Court approval of the Sedgwick Sale prior to that date and approval that the
+           proceeds of sale may fund Cleo’s ongoing operations during the Proposal Proceedings,
+           including during the sales and investment solicitation process Cleo intends to immediately
+           commence following January 6, 2025.31
+
+43.        Cleo respectfully submits that the Stay Extension ought to be approved for, inter alia, the
+           following reasons:
+
+                (a) Cleo has acted and continues to act in good faith and with due diligence;
+                (b) No creditor will be materially prejudice by the requested extension of the stay
+                    period; and
+                (c) The extension of the Stay Period is necessary to allow Cleo sufficient time and
+                    opportunity to continue the restructuring of its business and pursue strategic
+                    alternatives.
+
+
+C.         Battle River Claim against Chris Lewis
+
+44.        Battle River Energy Limited (“Battle River”) has filed a claim against Cleo and its officers
+           for breach of trust while acting as officers of Cleo. Battle River has served a brief dated
+           January 3, 2025 taking the position that the automatic Stay does not apply to the Directors
+           and Officers of Cleo (the “Battle River Brief”).
+
+45.        The following are additional submissions on the Stay of Guarantees and Personal Claim,
+           supplementing those in the brief dated December 23, 2024.
+
+46.        Reproduced below are paragraphs 35-39 from Battle River’s statement of claim:
+
+
+
+
+30
+     January 5 Affidavit at para 30.
+31
+     January 5 Affidavit at para 30 and 33.
+
+
+65791537\5
+                                                  13
+
+
+        35. Battle River states that, at all material times, Cleo served as the trustee of a trust of
+        which Battle River was a beneficiary by operation of the Mont Lake COO.
+
+        36. Battle River reiterates paragraph 27 above and states that, in the event that Cleo
+        engaged in the Trust Misappropriations, the commission of such acts constituted fraudulent
+        or dishonest breaches of trust on behalf of Cleo.
+
+        37. Battle River states that, during the period in which they were officers of Cleo, each of
+        the Cleo Officers had actual knowledge, derived through subjective knowledge,
+        recklessness, or wilful blindness, of Cleo's breaches of trust by way of the Trust
+        Misappropriations.
+
+        38. Battle River further states that each of the Cleo Officers were responsible for managing
+        Cleo's financial affairs during their respective periods of officership. Accordingly, the Cleo
+        Officers each participated in or otherwise assisted Cleo in its commission of breaches of
+        trust obligations owed to Battle River.
+
+        39. Battle River, therefore, states that each of the Cleo Officers are personally liable to
+        Battle River for the tort of knowing assistance in breach of trust. Battle River states that it
+        is entitled to recover damages arsing from the tort of knowing assistance in breach of trust
+        from each of the Cleo Officers, on a joint and several basis with each other and with Cleo,
+        in an amount to be determined at trial corresponding to the aggregate value of the Trust
+        Misappropriations occurring during the period in which each of the Cleo Officers served
+        as officers of Cleo.
+
+47.     Subsections 69.31(1) and (2) of the BIA state:
+
+               69.31 (1) Where a notice of intention under subsection 50.4(1) has been filed or a
+               proposal has been made by an insolvent corporation, no person may commence or
+               continue any action against a director of the corporation on any claim against
+               directors that arose before the commencement of proceedings under this Act and
+               that relates to obligations of the corporation where directors are under any law liable
+               in their capacity as directors for the payment of such obligations, until the proposal,
+               if one has been filed, is approved by the court or the corporation becomes bankrupt.
+
+
+
+
+65791537\5
+                                                     14
+
+
+                    (2) Subsection (1) does not apply in respect of an action against a director on a
+                    guarantee given by the director relating to the corporation’s obligations or an action
+                    seeking injunctive relief against a director in relation to the corporation.32
+
+48.        Subsection 69.31(1) of the BIA must be interpreted broadly to fulfill its purpose of
+           providing a comprehensive protection during BIA proposal proceedings for directors from
+           legal claims and actions related to corporate obligations. The specific exceptions outlined
+           in subsection 69.31(2), namely claims on guarantees and injunctive relief, illustrate the
+           legislature’s specific intent for subsection (1) to apply widely to all other claims. This broad
+           application is essential to ensure directors can focus their time and efforts on effectively
+           managing the restructuring process, except in narrowly defined circumstances.
+
+49.        During the Proposal Proceedings, Chris Lewis, as Cleo’s sole director, will have to perform
+           the following tasks, among other tasks, for the benefit of Cleo’s stakeholders, which will
+           consume the majority of his time:
+
+                (a) work with Cleo’s employees and consultants, and maintain Cleo’s day-to-day
+                    operations;
+
+                (b) work with Cleo’s vendors and service providers;
+
+                (c) work with and correspond with stakeholders regarding the Proposal Proceedings;
+
+                (d) work towards the sale and closing of the Sedgwick Field;
+
+                (e) work with the AER regarding the sale of the Sedgwick Field;
+
+                (f) work with the Proposal Trustee regarding ongoing cash flows and payments in
+                    accordance with the 13-week Cash Flow Forecast; and
+
+                (g) work with his counsel, the Proposal Trustee and stakeholders with respect to a sales
+                    and investment solicitation process.33
+
+
+
+
+32
+     BIA, s. 69.31(1) (2) [TAB 1].
+33
+     January 5 Affidavit at para 48.
+
+
+65791537\5
+                                                       15
+
+
+50.        The Battle River litigation would divert significant resources and attention from Mr. Lewi’s
+           focus on this Proposal Proceeding. The Battle River litigation is complex and would require
+           substantial focus and attention from Chris Lewis in order to file a proper defence. It would
+           require, inter alia, additional review from an accounting perspective which will take
+           sufficient time and effort to perform.34
+
+51.        Section 69.31(1) of the BIA provides precisely the relief intended by the legislature in these
+           circumstances, which is to allow Chris Lewis and Cleo to concentrate all of its efforts on
+           this Proposal Proceeding, which is crucial for the benefit of all Cleo’s stakeholders.
+
+52.        Section 69.4 of the BIA further states that a creditor wishing to proceeding against a director
+           the subject of a stay under Section 69.31(1) of the BIA, must seek leave to lift the stay of
+           proceedings as against that director:
+
+                    69.4 A creditor who is affected by the operation of sections 69 to 69.31 or any other
+                    person affected by the operation of section 69.31 may apply to the court for a
+                    declaration that those sections no longer operate in respect of that creditor or
+                    person, and the court may make such a declaration, subject to any qualifications
+                    that the court considers proper, if it is satisfied
+
+                              (a) that the creditor or person is likely to be materially prejudiced by the
+                              continued operation of those sections; or
+
+                              (b) that it is equitable on other grounds to make such a declaration.35
+
+53.        In paragraphs 12-13 of the Battle River Brief, Battle River cites Bear Creek Contracting
+           Ltd. v. Pretium Exploration Inc. (“Bear Creek Contracting”) a case from the British
+           Columbia Supreme Court. In Bear Creek Contracting, an application was brought to
+           amend a claim including following the expiry of a governing limitation period to include
+           additional defendants, including past or current directors and officers, based on an alleged
+           requirement for the company to retain a holdback in favor of subcontractors under section
+           4 of the Builders Lien Act.
+
+54.        The Court’s statements in Bear Creek Contracting at paragraph 127, indicating that the
+           proposed new claims against the directors are not stayed, should be interpreted narrowly
+
+34
+     January 5 Affidavit at para 46.
+35
+     BIA, s. 69.4 [TAB 1].
+
+
+65791537\5
+                                                  16
+
+
+        within the context of the specific CCAA orders in that case and the specific factual context
+        in Bear Creek Contracting.
+
+55.     First, Battle River’s statement of claim states at paragraph 38 that “each of the Cleo
+        Officers were responsible for managing Cleo’s financial affairs during their respective
+        period of officership. Accordingly, the Cleo Officers each participated in or otherwise
+        assisted Cleo in its commission of breaches of trust obligations owed to Battle River.” Even
+        if these allegations were true, which Mr. Lewis denies, it is clear from the statement of
+        claim, that the allegations against Chris Lewis relate at all times to periods when he was
+        acting in his capacity as director and officer of Cleo and not in his personal capacity, unlike
+        the decision in Bear Creek Contracting.
+
+56.     Battle River further wishes to force Mr. Lewis to continue to actually move forward in the
+        litigation notwithstanding the stay of proceedings in his favour under section 69.31(1) of
+        the BIA, and does not seek to amend its own pleading to add Mr. Lewis as a defendant to
+        prevent prejudice. In this case, Battle River will not be prejudiced by allowing Mr. Lewis
+        to continue to focus his energy on the Proposal Proceedings. Once the Proposal
+        Proceedings ends and the Stay Period expires, Battle River will be entitled to move forward
+        with its claim as against Mr. Lewis.
+
+57.     Cleo relies on two authorities which do not follow reasoning in Bear Creek Contracting.
+
+58.     Firstly, the case of Nortel Networks Corp., Re involved two motions. The company brought
+        a motion for an order extending the stay contained in the initial order to the directors and
+        officers in an action centered on alleged breaches of fiduciary duties under the Employee
+        Retirement Income Security Act (the “Action”). Certain employees brought a motion to lift
+        the stay to pursue the Action, arguing that the directors and officers were being sued as
+        fiduciaries, and not as the company’s officers or directors. Justice Morawetz granted the
+        company’s motion, maintaining the stay, and dismissed the employees' motion. It
+        emphasized that the litigation would divert significant resources and attention from the
+        restructuring. Justice Morawetz found that the claims under the Action were intertwined
+
+
+
+
+65791537\5
+                                                       17
+
+
+        with the company's obligations, thus falling under the directors and officers stay.36 Further,
+        the Court specifically found no distinction between the directors as “fiduciaries” and as
+        directors of the company.
+
+59.     Secondly, in the case of Coopérative forestière Laterrière, Re, an employee of Coopérative
+        forestière Laterrière (“CFL”) served a motion to commence proceedings against CFL’s
+        directors for damages. At paragraph 22, the court stated that at the outset, pursuant to
+        subsection 69.31(1) of the BIA, the employee was stayed from bringing and continuing
+        such an action against the directors after the debtor company filed its the notice of intention
+        to make a proposal contemplated by subsection 50.4(1) of the BIA.37
+
+60.     Based on the foregoing, Cleo respectfully submits that pursuant to section 69.31(1) of the
+        BIA, Battle River’s action is stayed as against Chris Lewis as the sole director of Cleo. An
+        application must be brought by Battle River to lift the stay pursuant to section 69.4 of the
+        BIA if its wishes to continue with the Action against Chris Lewis as sole director of Cleo
+        during the stay period.
+
+61.     In the alternative, if the court finds that section 69.31(1) is not operative for the Directors
+        and Officers of Cleo, then Cleo submits that the Court should exercise its jurisdiction
+        pursuant to section 183(1) of the BIA and declare that the stay applies with respect to Chris
+        Lewis as the sole director of Cleo.38
+
+
+
+
+36
+   Nortel Networks Corp., Re 2009 CarswellOnt 4806 [TAB 9].
+37
+   Coopérative forestière Laterrière (Faillite), Re, 2004 CanLII 23702 (QC CS) [TAB 10].
+38
+   BIA, s. 183(1) [TAB 1].
+
+
+65791537\5
+                                               18
+
+
+IV.     CONCLUSION AND RELIEF SOUGHT
+
+62.     For the reasons above, Cleo requests the Orders sought be granted as they are fair,
+        necessary, and reasonable in the circumstances and necessary for the benefit of its estate
+        and its stakeholders.
+
+
+
+
+ALL OF WHICH IS RESPECTFULLY SUBMITTED this 5th day of January, 2025.
+
+                                            GOWLING WLG (CANADA) LLP
+
+
+                                            Per: ___________________________________
+                                                 Sam Gabor/Tom Cumming
+                                                 Counsel for Cleo Energy Corp.
+
+
+
+
+65791537\5
+                                             19
+
+
+                               TABLE OF AUTHORITIES
+
+
+ Tab         Authority
+
+ 1.          Bankruptcy and Insolvency Act, RSC 1985, c B-3
+
+ 2.          Companies’ Creditor Arrangement Act, RSC 1985, c C-36
+
+ 3.          North American Tungsten Corporation Ltd. (Re), 2015 BCSC 1382
+
+ 4.          Re Just Energy Corp., 2021 ONSC 1793
+
+ 5.          Montréal (Ville) c. Restructuration Deloitte Inc. 2021 SCC 53
+
+ 6.          9354-9186 Québec inc. v. Callidus Capital Corp., 2020 SCC 10
+
+ 7.          Century Services Inc. v. Canada (Attorney General), 2010 SCC 60
+
+ 8.          Pacific Shores Resort & Spa Ltd., Re 2011 BCSC 1775
+
+ 9.          Nortel Networks Corp., Re 2009 CarswellOnt 4806
+
+ 10.         Coopérative forestière Laterrière (Faillite), Re, 2004 CanLII 23702 (QC CS)
+
+ 11.         Cleo Energy Corp (Re), 2024 ABKB 773
+
+
+
+
+65791537\5
+

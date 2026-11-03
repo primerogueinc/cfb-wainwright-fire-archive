@@ -1,0 +1,381 @@
+COURT FILE NUMBER                  B301-163430
+
+COURT                              COURT OF KING’S BENCH OF ALBERTA
+
+JUDICIAL CENTRE                    CALGARY
+
+                                   IN THE MATTER OF THE BANKRUPTCY AND
+                                   INSOLVENCY ACT, RSC 1985, C B-3, AS AMENDED
+
+                                   AND IN THE MATTER OF THE NOTICE OF
+                                   INTENTION TO MAKE A PROPOSAL OF CLEO
+                                   ENERGY CORP.
+
+APPLICANT                          CLEO ENERGY CORP.
+
+
+                                 BENCH BRIEF OF THE RESPONDENT,
+                                    TRAFIGURA CANADA LIMITED
+
+                       FOR THE HEARING SCHEDULED IN JUDGE’S CHAMBERS
+                                 ON January 6, 2025, AT 2:00 PM
+
+
+STIKEMAN ELLIOTT LLP                                GOWLING WLG (CANADA) LLP
+Barristers & Solicitors                             1600, 421 – 7th Avenue SW
+4200 Bankers Hall West,                             Calgary, AB T2P 4K9
+888-3rd Street S.W.,
+Calgary, AB T2P 5C5
+
+Karen Fellowes K.C. / Eric Blay                     Sam Gabor / Tom Cumming
+KFellowes@stikeman.com /                            sam.gabor@gowlingwlg.com /
+eblay@stikeman.com                                  tom.cumming@gowlingwlg.com
+Tel: (403) 724 9496 / (403) 724 9485                Tel: (403) 571-1069
+Fax: (403) 266-9034
+                                                    Counsel for the Applicant, Cleo Energy Corp.
+Counsel for the Respondent, Trafigura Canada        File no. G10010664
+Limited
+File no.: 137093.1030
+                                                TABLE OF CONTENTS
+
+PART I – INTRODUCTION AND RELIEF SOUGHT ....................................................... 3
+
+PART II – FACTS ............................................................................................................ 4
+
+PART IV – LAW AND ARGUMENT................................................................................. 5
+
+PART V – CONCLUSION ............................................................................................. 10
+PART I – INTRODUCTION AND RELIEF SOUGHT
+
+1. Trafigura Canada Limited (“Trafigura”) submits this Brief in response to Cleo Energy Corp.’s (“Cleo”)
+    Application and in support of Trafigura’s Application, both scheduled to be heard concurrently on
+    January 6, 2025. In its Application, Trafigura, in connection with Cleo’s proceedings under Division I of
+    Part III of the Bankruptcy and Insolvency Act, RSC 1985, c B-3, as amended (the “BIA”, and such
+    proceedings, the “Proposal Proceedings”), commenced by notice of intention to make a proposal filed
+    on December 8, 2024 (the “Filing Date”, and such notice the “NOI”), seeks an Order for the following
+    relief:
+
+         (a) abridging the time for service of notice of this Application, deeming service of notice of this
+              Application to be good and sufficient, and declaring that there is no other person who ought to
+              have been served with notice of this Application;
+
+         (b) granting a declaration that certain obligations whereby Trafigura must pay Cleo the purchase
+              price for crude oil delivered by Cleo to Trafigura in a given month under the Commercial
+              Agreement (“Purchase Price”) which are calculated and become due after the Filing Date
+              according to the schedule agreed to therein are post-filing obligations (“Trafigura Post-Filing
+              Obligations”);
+
+         (c) granting a declaration that certain obligations whereby Cleo must pay Trafigura amounts
+              arising from the Prepayment Agreement which become due after the Filing Date according to
+              the schedule agreed to therein are post-filing obligations (“Cleo Post-Filing Obligations”);
+
+         (d) granting a declaration that the outstanding balance of $750,000 paid by Trafigura to Cleo
+              pursuant to the Prepayment Agreement as a prepayment of the purchase price for crude oil
+              delivered under the Commercial Agreement (the “Purchase Price Advance”) is a Cleo Post-
+              Filing Obligation, as it becomes due on a monthly basis subsequent to the Filing Date; and
+
+         (e) authorizing Trafigura to exercise its right of set-off under the Prepayment Agreement (as
+              defined herein) pursuant to section 97(3) of the BIA, by allowing it to deduct Cleo Post-Filing
+              Obligations (including the Purchase Price Advance) against Trafigura Post-Filing Obligations
+              as they become due on a monthly basis;
+
+         (f) in the alternative, granting a declaration pursuant to section 69.4 of the BIA that the Stay of
+              Proceedings should be lifted in order to allow Trafigura to exercise its right of set-off with
+              respect to the Purchase Price Advance and deduct it from Trafigura Post-Filing Obligations as
+              they become due on a monthly basis;
+        (g) in the further alternative, granting a charge in favour of Trafigura in the amount of the Purchase
+            Price Advance, attaching to all of the assets and property of Cleo (the “Trafigura Charge”) that
+            shall rank in priority to all other charges, liens, mortgages, security interests and other
+            encumbrances, except for any administrative charge in favour of the Proposal Trustee, its legal
+            counsel and Cleo’s legal counsel in respect of their fees and disbursements and any charge in
+            favour of a potential DIP lender, both of which shall rank in priority to the Trafigura Charge;
+
+
+        (h) awarding costs of this Application to Trafigura; and
+
+        (i) such further and other relief as counsel for Trafigura may advise.
+
+PART II – FACTS
+
+2. A statement of the facts can be found in the Affidavit of Ethan Post, sworn December 23, 2024.
+
+3. On July 12, 2024, Trafigura and Cleo entered into a commercial agreement (the “Commercial
+    Agreement” and together with the Prepayment Agreement, the “Agreements”) whereby Trafigura
+    agreed to market and sell Cleo’s oil product. Concurrently, Trafigura and Cleo entered into the
+    Prepayment Agreement wherein Trafigura agreed to make certain prepayments to Cleo which were to
+    be repaid by Cleo either by repayment with cash or by way of set-off against deliveries of oil product
+    by Trafigura to Cleo under the Commercial Agreement. In accordance therewith, Trafigura pre-paid
+    $1,000,000 to Cleo on August 1, 2024 (the “Prepayment Agreement”) of the purchase price for crude
+    oil. For three months, the Agreements worked as intended, and set off rights were applied each month
+    as contemplated.
+
+4. On December 8, 2024 (the “Filing Date”), and without any prior notice to Trafigura, Cleo filed a notice
+    of intention to file a proposal (the “NOI”) under the BIA. Trafigura notified Cleo of its intention to exercise
+    its set off rights as against the Purchase Price for the November production.
+
+5. Cleo brought an emergency application on December 23, 2024, seeking an Order that Trafigura pays
+    the Purchase Price for the November 2024 deliveries to Cleo, as opposed to setting off the full
+    outstanding Purchase Price Advance against the same. Trafigura brought a cross-application to allow
+    their set off rights. These applications were considered and an endorsement delivered by Justice
+    Hollins without oral argument on December 26, 2024 (the “Endorsement”).
+
+
+6. In her Endorsement, Justice Hollins granted Cleo’s application declaring that the stay of proceedings
+    under section 69 of the BIA prevented Trafigura from enforcing its set-off rights, and ordered that
+    $757,644.77, representing the estimated Purchase Price for the November 2024 deliveries, be paid by
+    Trafigura to Cleo immediately. Trafigura complied with the Justice Hollins’ Endorsement by payment
+    directly to Cleo on December 27, 2024, of the Purchase Price calculated for the November 2024
+    deliveries, adjusted for a previous GST payment.
+
+7. Justice Hollins explicitly did not decide the issue of the ongoing monthly set-off of the Cleo Post-Filing
+    Obligations against Trafigura Post-Filing Obligations and adjourned determination of this issue to a
+    future hearing.
+
+PART IV – LAW AND ARGUMENT
+
+8. Set off rights are specifically preserved in NOI proceedings under section 97(3) of the BIA. In order to
+    give meaning to this section, the Court must consider the nature of the set off rights and the extent to
+    which they are sought to be enforced.
+
+9. A bankrupt’s estate includes only the net amount of a debt owing to the bankrupt after proper
+    allowances for the recognized common law right of set-off. 1
+
+10. The leading case on set-off rights in an insolvency proceeding is the 2021 Supreme Court of Canada
+    decision in Montréal (City) v. Deloitte Restructuring Inc., 2 Pre-filing obligations can be set-off against
+    other pre-filing obligations but post-filing obligations cannot be set-off against pre-filing obligations.
+    Notably, it is still unsettled law whether post-filing obligations can be set off against other post-filing
+    obligations based on contracts entered into prior to the Filing Date.
+
+11. In the present case, Trafigura and Cleo entered into a Prepayment Agreement whereby Trafigura
+    agreed to pay Cleo in advance for the purchase price of crude oil to be delivered by Cleo pursuant to
+    the Agreements. The Prepayment Agreement allowed for prepayments of $1 million, up to a maximum
+    of $3 million, in exchange for 100% of the available marketable crude from Cleo’s existing assets for
+    the duration of the term of the Commercial Agreement (“Trafigura Post-Filing Obligations”). The
+    Trafigura Post-Filing Obligations vary from month to month based on the value of the marketable crude
+    produced by Cleo’s existing assets. As such, these monthly obligations are calculated and become due
+    after the Filing Date and are properly considered post-filing obligations.
+
+12. The Prepayment Agreement and Commercial Agreement contain set-off mechanisms allowing for the
+    Purchase Price Advance to be deducted from the Purchase Price from time to time, and specifically in
+    tranches of $83,000, as they become due on a monthly basis (“Cleo Post-Filing Obligations”).
+    Obligations arising from December production are post-filing obligations as they become due on a
+    monthly basis subsequent to the Filing Date.
+
+
+
+
+1 Husky Oil Operations Ltd v Minister of National Revenue (1993), 22 CBR (3d) 153, [1994] 1 WWR 629; affirmed
+[1995] 10 WWR 161, 128 DLR (4th) 1 (SCC).
+2 Montréal (City) v. Deloitte Restructuring Inc., 2021 SCC 53, [2021] 3 S.C.R. 736 at para 81 (“Deloitte Restructuring”).
+13. In order for a debt to be considered to exist at the Filing Date, it must be capable of being enforced. 3
+    As neither the Cleo Post Filing Obligations nor the Trafigura Post-Filing Obligations were capable of
+    being enforced prior to the Filing Date, they both constitute post-filing obligations.
+
+14. The prepayment made under the Prepayment Agreement, and therefore the Purchase Price Advance,
+    is not a loan. Trafigura made an agreement to pre-pay for goods it purchased from Cleo under the
+    Commercial Agreement. The Commercial Agreement and the Prepayment Agreement work together
+    to govern the relationship between the parties, which is not a creditor-debtor relationship based on a
+    loan, but a commercial agreement which gives rise to ongoing mutual obligations.
+
+15. Trafigura submits that it is common in the oil and gas industry to enter into different types of commercial
+    business arrangements and that it is the true nature of the relationship in contract that dictates the
+    characterization of such arrangements. 4 The nature of the relationship between Trafigura and Cleo in
+    the context of the Commercial Agreement and Prepayment Agreement is that of vendor-purchaser,
+    whereby Cleo supplies crude oil and Trafigura pays an agreed upon price for such crude oil. The
+    existence of repayment rights for amounts advanced is not enough to characterize the Prepayment
+    Agreement as a loan. 5 Even where certain provisions suggest characterizing an agreement as a loan
+    contract, it is the primary purpose of that agreement that dictates this characterization. 6
+
+16. The Prepayment Agreement sets out the terms under which Trafigura advanced payment of the
+    Purchase Price for crude oil purchased from Cleo under the Commercial Agreement. Trafigura
+    therefore submits that this is its primary purpose. The fundamental nature of the Commercial
+    Agreement and Prepayment Agreement is the purchasing by Trafigura of crude oil from Cleo and the
+    payment terms applicable to such purchase. Trafigura further submits that the fact that a contract allows
+    for pre-payment or prepayment facilities does not negate the fundamental nature of the transaction
+    being that of vendor-purchaser even if the effect of the availability of such prepayment facility is to
+    provide a mechanism of alleviating cash-flow issues. 7
+
+
+
+
+3 Endorsement at para 16.
+4 See e.g., Yukon Zinc Corp., Re, 2015 BCSC 836 at para 137 where the British Columbia Superior Court holds that a
+purchase agreement that allowed for pre-payment and prepayment facilities did not detract from the fundamental nature
+of the agreement, being an agreement to purchase zinc concentrate [Yukon Zinc].
+5 See e.g., Iberdrola Energy Projects Canada Corporation v. Factory Sales & Engineering Inc. d.b.a. FSE Energy, 2018
+BCCA 272 at para 53 where the British Columbia Court of Appeal holds that a payment agreement is not a loan merely
+because there exists the right to be repaid [Iberdrola].
+6 See e.g., Iberdrola at para 63.
+7 See e.g., Yukon Zinc at para 137 where the British Columbia Supreme Court holds that the existence of pre-payment
+provisions or advance payment facilities in the context of purchase agreements does not detract from the fundamental
+nature of the agreement, being that of a purchase agreement. This is true even where such pre-payment or advance
+payment facilities provide a mechanism of alleviating cash flow issues on the part of the party receiving such pre-
+payments or advanced payment appearing as a financial arrangement.
+17. Multiple provisions in the Prepayment Agreement explicitly contemplate repayment by way of set-off,
+    from time to time, in particular Recital B, section 2.1, section 5.3(b), and section 13.2 all of which are
+    reproduced below. 8
+
+         (B)      Subject to the terms of this Agreement, [Trafigura] has agreed to make Advances to [Cleo]
+                  in the manner set out in Section 5 (Advances), and the Advances shall be repaid by [Cleo]
+                  to [Trafigura] either by repayment with cash or by way of set-off against deliveries of
+                  Products by [Cleo] to [Trafigura] under the Commercial Contract.
+
+         (…)
+
+         2.1      The Prepayment Facility
+
+         Subject to the terms of this Agreement, [Trafigura] agrees to make Advances to [Cleo] in an
+         aggregate amount not to exceed the Maximum Amount as a prepayment of the purchase price for
+         the Products under the Commercial Contract. The Obligations may be repaid in whole or in part,
+         and from time to time, either by cash repayment by [Cleo] or by setting off amounts due to [Cleo]
+         from [Trafigura] as payment for deliveries by [Trafigura] of Products under the Commercial Contract
+         (or by a combination thereof, all as set forth in Section 5.3.
+
+         (…)
+
+         5.3      Scheduled Payments
+
+                  (…)
+
+                  (b)      [Trafigura] shall be entitled to deduct on the last day of each Delivery Period the
+                           Relevant Amount for each Advance for that Delivery Period plus any accrued
+                           interest and any other Unpaid Amounts from the purchase price for the Products
+                           delivered by the Borrower pursuant to the Commercial Contract. [Trafigura’s]
+                           obligation to pay for the Products under the Commercial Contract shall be satisfied
+                           and extinguished to the extent of such deductions.
+
+         13.2      [Trafigura] may set off any matured obligation due from [Cleo] against any matured
+                   obligations owed by [Trafigura] to [Cleo], regardless of the place of payment, booking
+                   branch or currency of either obligation. If the obligations are in different currencies,
+                   [Trafigura] may convert either obligation at a rate available to [Trafigura] in its usual
+                   course of business for the purpose of the set-off.
+
+
+
+8 Affidavit of Ethan Post, sworn on December 23, 2024 [Post Affidavit], Exhibit B at Preamble and ss 2.1, 5.3(b).
+18. Reading the Prepayment Agreement as a whole, including the provisions set out above, and in
+    conjunction with the Commercial Agreement (which is an ancillary agreement to the Prepayment
+    Agreement), it is clear that set-off rights underpin the entire repayment process. This is not a loan
+    where there is an extension of credit with defined repayment terms and which are not connected with
+    the sale and purchase. This was a facility which was designed by its very nature to be repaid by way
+    of deducting the Purchase Price Advance from the Purchase Price, as they become due , from time to
+    time.
+
+19. If the Court were to deny Trafigura its right of set-off in the circumstances, it would in effect require
+    Trafigura to pay for crude oil Trafigura purchases from Cleo under the Commercial Agreement twice
+    and allow Cleo to benefit from the Agreements, while denying Trafigura its negotiated rights arising
+    therefrom. This cannot be a reasonable outcome in the circumstances and would negatively impact
+    commercial agreements regarding payment of goods moving forward.
+
+20. An entitlement to the contractual right of set-off will be recognized where there is mutuality between the
+    liabilities owed, and where such contractual set-off is demonstrated to extend to the agreements
+    creating the liabilities sought to be set-off. 9 Determination of mutuality requires consideration of the
+    relationship and agreement between the parties. 10
+
+21. In SemCanada the Alberta Court of Queen’s Bench recognized the contractual right of set-off where it
+    is established that the set-off provisions are broad enough to extend to the agreements in question. 11
+    The Prepayment Agreement is supplemental to the Commercial Agreement and set-off against
+    amounts owed under the Commercial Contract is contemplated expressly in the terms of the
+    Prepayment Agreement.
+
+22. A contracting party’s entitlement to the contractual right of set-off has been recognized in the context
+    of commercial business arrangements entered into in the context of the mining and oil and gas
+    industries. In Trevali Mining Corporation (Re), 12 the British Columbia Supreme Court emphasized the
+    requirement for mutuality in upholding contractual set-off rights. The British Columbia Supreme Court
+    did not allow the claimant to assert set-off rights relating to certain HST liabilities on the basis that
+    collection of HST is done in the capacity as an agent for the Canada Revenue Agency. As such, there
+    was no mutual cross-obligations in existence among the parties as it related specifically to the HST
+
+
+9 See e.g., SemCanada Crude Co., Re, 2009 ABQB 397 at paras 26 and 29-30, leave to appeal to ABCA refused
+(Trilogy Energy LP v. SemCAMS ULC, 2009 ABCA 275) where the Alberta Court of Queen’s Bench holds that there
+was no entitlement to contractual set-off on the basis that the parties to the contracts in question contracted in different
+capacities under each agreement, thus there was no mutuality [SemCanada].
+10 See e.g., SemCanada at paras 44-56 where
+                                                 the Alberta Court of Queen’s Bench holds that the debts sought to be
+set-off did not arise from closely-related contracts or the same transaction and thus were not sufficiently related to
+establish set-off rights.
+11 SemCanada at para 26
+12 Trevali Mining Corporation (Re), 2024 BCSC 2252 at para 79 [Trevali].
+    liabilities. However, in coming to this conclusion, the British Columbia Supreme Court recognized the
+    validity of the set-off provision in question as it related to certain other liabilities where mutuality did
+    exist, and which were successfully set-off by the claimant. 13
+
+23. Trafigura submits that mutual cross-obligations exist under the Prepayment Agreement and the
+    Commercial Agreement and that such cross-obligations are owed from each party to the other in the
+    same right or capacity. Further, as both the Trafigura Post-Filing Obligation and Cleo Post-Filing
+    Obligation arose subsequent to the Filing Date, it would be unfair to require Trafigura to comply with its
+    post filing obligations while allowing Cleo to benefit from these obligations without being required to
+    comply with its own post-filing obligations. Trafigura submits that the appropriate outcome in the
+    circumstances is to allow Trafigura to set-off the Trafigura Post-Filing Obligations against the Cleo Post-
+    Filing Obligations on a go-forward basis.
+
+24. The Owed Amount was and is due and owing, regardless of whether it had matured, as, for the purpose
+    of set-off, a debt is payable regardless of whether it is payable now or at a future time. 14
+
+25. If required, Trafigura submits that, pursuant to section 69.4 of the BIA, this Honourable Court should
+    grant a declaration pursuant to section 69.4 of the BIA that the stay of proceedings in favour of Cleo
+    (the “Stay”) does not operate to bar Trafigura from exercising its right of set-off under the Prepayment
+    Agreement. Trafigura will be materially prejudiced if the Stay is not lifted, as the contractual rights it
+    bargained for will be stripped of all meaning, and it will be forced to pay for the same goods twice. 15
+
+26. In the further alternative, Trafigura submits that if this Honourable Court is unable to consider this issue
+    on the merits on January 6, 2025, ensure that Trafigura’s right to claim set-off at a later date is not
+    prejudiced, Trafigura submits that it should be granted the Trafigura Charge. The Trafigura Charge
+    should rank in priority to all other charges, mortgages, liens, security interests and other encumbrances,
+    except for any Administrative Charge or DIP Lender Charge, both of which shall rank in priority to the
+    Trafigura Charge. Without the Trafigura Charge, Trafigura’s right to argue set-off at a later date could
+    essentially be rendered moot if Cleo becomes bankrupt and its assets (which are oil and gas assets
+    encumbered by significant environmental obligations) are sold for less than Cleo’s roughly $24 million
+    in debt, especially if the assets are sold for less than the secured debt, in which case Cleo would see
+    no recovery and its ability to claim set-off would be entirely extinguished.
+
+
+
+
+13 Trevali at para 75.
+14 See e.g., Re North American Tungsten Corp, 2015 BCSC 1382 at paras 10-11, aff’d 2015 BCCA 390.
+15 See e.g., Montreal (Ville) c Restructuration Deloitte Inc, 2021 SCC 53 at paras 63-82 where the Supreme Court of
+Canada holds that pre-post set-off is prohibited (unless otherwise ordered by the Court) and that section 21 of the
+Companies Creditors’ Arrangement Act, RSC 1985, c C-36 (which is largely identical to section 97(3) of the BIA)
+authorizes pre-pre set-off.
+PART V – CONCLUSION
+
+27. Without the sought relief, Trafigura will be irreparably prejudiced, its contractually bargained for set-off
+     rights will be rendered moot and it will be required to pay for crude which it has already paid for.
+     Meanwhile, Cleo will receive all of the benefits under the Agreements, without having to answer to the
+     extensive set-off rights it promised to Trafigura in return. As a result, the relief sought by Trafigura is
+     reasonable and appropriate in the circumstances.
+
+ALL OF WHICH IS RESPECTFULLY SUBMITTED this 6th day of January, 2025.
+
+
+
+
+                                                            STIKEMAN ELLIOTT LLP
+
+
+
+
+                                                            Per: ______________________________
+                                                                 Karen Fellowes, K.C.
+                                                                Counsel     for   the   Respondent/Applicant,
+                                                                Trafigura Canada Limited
+
+
+
+
+120740269 v1
+                                    TABLE OF AUTHORITIES
+
+Tab No.   Description
+
+   1)     Re North American Tungsten Corp, 2015 BCSC 1382 at paras 10-11, aff’d 2015 BCCA 390
+
+   2)     Re 728835 Ontario Ltd. (1998), 111 OAC 155 (Gen Div)
+
+   3)     Husky Oil Operations Ltd v Minister of National Revenue (1993), 22 CBR (3d) 153, [1994]
+          1 WWR 629; affirmed [1995] 10 WWR 161, 128 DLR (4th) 1 (SCC)
+
+   4)     Montreal (Ville) c Restructuration Deloitte Inc, 2021 SCC 53
+
