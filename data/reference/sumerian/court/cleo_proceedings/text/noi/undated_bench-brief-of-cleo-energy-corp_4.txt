@@ -1,0 +1,291 @@
+                                                                Clerk’s Stamp
+
+
+
+ COURT FILE NUMBER
+
+ COURT                   COURT OF KING’S BENCH OF ALBERTA
+
+ JUDICIAL CENTRE         CALGARY
+
+                         IN THE MATTER OF THE BANKRUPTCY AND
+                         INSOLVENCY ACT, RSC 1985, C B-3, AS AMENDED
+
+                         AND IN THE MATTER OF THE NOTICE OF INTENTION
+                         TO MAKE A PROPOSAL OF CLEO ENERGY CORP.
+
+ DOCUMENT                BENCH BRIEF OF CLEO ENERGY CORP.
+
+ ADDRESS FOR SERVICE     GOWLING WLG (CANADA) LLP
+ AND CONTACT             Suite 1600, 421 – 7th Avenue SW
+ INFORMATION OF          Calgary, AB T2P 4K9
+ PARTY FILING THIS
+ DOCUMENT                Telephone:   403-298-1946 / 403-298-1938
+                         Fax:         403-263-9193
+                         Email:       sam.gabor@gowlingwlg.com /
+                                      tom.cumming@gowlingwlg.com
+                         File No.:    G10010664
+
+                         Attention:   Sam Gabor / Tom Cumming
+
+            APPLICATION BEFORE THE HONOURABLE JUSTICE BURNS
+         DECEMBER 13, 2024 AT 11:30 AM ON THE CALGARY COMMERCIAL LIST
+
+
+
+
+65559497\1
+                                                        Table of Contents
+
+                                                                                                                                      Page
+
+
+I.      INTRODUCTION............................................................................................................ 1
+
+II.     ISSUES .............................................................................................................................. 2
+
+III.    LAW AND ARGUMENT................................................................................................ 2
+
+        A.         The Garnished Funds Should be Returned to Cleo ................................................ 2
+
+IV.     CONCLUSION AND RELIEF SOUGHT ..................................................................... 5
+
+
+
+
+                                                                     i
+65559497\1
+I.      INTRODUCTION
+
+
+1.      On December 8, 2024 Cleo Energy Corp. (“Cleo”) filed a notice of intention to make a
+        proposal (the “NOI”) under section 50.4 of the Bankruptcy and Insolvency Act, RSC 1985,
+        c B-3 (the “BIA”), and Alvarez & Marsal Canada Inc.(“A&M”), a licensed insolvency
+        trustee, was named as the proposal trustee of Cleo (A&M, in such capacity, the “Proposal
+        Trustee”) (the “Proposal Proceedings”).
+
+2.      Cleo is insolvent and filed the NOI in order to protect Cleo’s assets, maintain the value of
+        its business and assets, protect itself and its stakeholders interests, and provide itself an
+        opportunity and breathing space to restructure.1
+
+3.      As a result of the filing of the NOI, all enforcement proceedings against Cleo and its
+        property were automatically stayed for an initial period of thirty (30) days (the “Stay”).
+        Further, no new enforcement proceedings may be commenced or continued as against Cleo
+        during the Stay, including the enforcement of garnishee summons.
+
+
+4.      Prior to the filing of the NOI, garnishee proceedings were initiated against Cleo by
+        Morganick Blending Services Corp. (“Morganick”). Also prior to the filing of the NOI,
+        Royal Bank of Canada (“RBC”) issued a cheque to the Court in accordance with
+        Morganick’s garnishee summons (the “Garnishee Summons”) in the amount of
+        $152,436.18 (the “Garnished Funds”).2 Cleo requires the return of the Garnished Funds
+        to meet its payroll obligations due on Friday, December 13, 2024 and to continue its
+        operations during the Proposal Proceedings.3
+
+5.      This Bench Brief is submitted on behalf of Cleo in support of an Application seeking from
+        this Honourable Court an Order, among other things:
+
+
+
+
+1
+  Affidavit of Chris Lewis, sworn December 11, 2024, at para 13 (the “Lewis Affidavit”).
+2
+  Lewis Affidavit at para 17.
+3
+  Lewis Affidavit at para 24.
+
+
+65559497\1
+                                                     2
+
+
+        (a)    authorizing and directing RBC to cancel any cheques it issued as a result of the
+               Garnishee Summons and to make available the Garnished Funds into Cleo’s bank
+               account with RBC ending in 041 (the “Account”); and
+
+        (b)    such further and other relief as Cleo may request and this Honourable Court may
+               grant.
+
+6.      This application is supported by an Affidavit sworn by Chris Lewis, a director of Cleo,
+        dated December 11, 2024 (the “Lewis Affidavit”). The further facts with respect to this
+        Application are more fully set out in the Lewis Affidavit.
+
+7.      All references to monetary amounts referenced herein are in Canadian dollars, unless
+        otherwise stated.
+
+II.     ISSUES
+
+8.      This Brief addresses whether this Honourable Court should order RBC to cancel any
+        cheques it issued as a result of the Garnishee Summons and to make available the
+        Garnished Funds in the Account.
+
+III.    LAW AND ARGUMENT
+
+A.      The Garnished Funds Should be Returned to Cleo
+
+9.      Sections 69(1) of the BIA provides for a stay of proceedings preventing creditors from
+        commencing or continuing any action, execution or other proceedings against a debtor for
+        the recovery of a claim provable in bankruptcy:
+
+               Stay of proceedings — notice of intention
+
+               69 (1) Subject to subsections (2) and (3) and sections 69.4, 69.5 and 69.6, on
+               the filing of a notice of intention under section 50.4 by an insolvent person,
+
+                        (a) no creditor has any remedy against the insolvent person or the
+                        insolvent person’s property, or shall commence or continue any
+                        action, execution or other proceedings, for the recovery of a claim
+                        provable in bankruptcy,
+
+                        (b) no provision of a security agreement between the insolvent person
+                        and a secured creditor that provides, in substance, that on
+
+
+
+
+65559497\1
+                                                        3
+
+                          (i) the insolvent person’s insolvency,
+
+                          (ii) the default by the insolvent person of an obligation under the
+                          security agreement, or
+
+                          (iii) the filing by the insolvent person of a notice of intention
+                          under section 50.4,
+
+                 the insolvent person ceases to have such rights to use or deal with assets
+                 secured under the agreement as he would otherwise have, has any force or
+                 effect,4
+
+10.     Courts have granted orders in insolvency proceedings pursuant to section 69(1) of the BIA
+        requiring that creditors return property to the debtor company when a remedy is enforced
+        upon by the creditor post filing of the insolvency proceeding on the basis of pre-filing claim
+        provable in bankruptcy. Courts have also determined that it is a violation of the stay to
+        exercise a remedy even if the creditor is not aware of the stay of proceedings and
+        accordingly, and any property received by the creditor by the exercise of a remedy must be
+        returned.5
+
+11.     In Chaulk Air Inc., Re6, the New Brunswick Court of Queen's Bench (as it then was)
+        granted an Order for the benefit of a debtor in an NOI proceeding declaring that the stay of
+        proceedings automatically imposed by section 69(1) of the BIA included actions under a
+        garnishing order and directed a garnishee to pay funds owed by the garnishee to the debtor
+        directly as it had been unwilling to do so without such an order.7
+
+12.     In Accel Energy Canada Limited Re8, garnished funds were held by the Court of King’s
+        Bench of Alberta when the NOI was filed. Those funds were subsequently ordered to be
+        returned to the debtor.9
+
+13.     In this case, the Garnishee Summons is stayed as a result of the filing of the NOI and
+        section 69(1) of the BIA.
+
+
+
+
+4
+  BIA section 69(1) [Tab 1]
+5
+  Startek Computer Inc. (Trustee of) v. Samtack Computer Inc., 2000 BCSC 1316 at paras 9 to 13 [Tab 2]
+6
+  Chaulk Air Inc., Re, 2012 CarswellNB 204 [Tab 3].
+7
+  Ibid at para 8-10 [Tab 3].
+8
+  Accel Energy Canada Limited (Re), 2020 ABQB 652 [Tab 4].
+9
+  Ibid at para 38 [Tab 4].
+
+
+65559497\1
+                                                   4
+
+
+14.      RBC sent the cheque to the Court representing the Garnished Funds prior to the filing of
+         the NOI and the cheque representing the Garnished Funds has not yet reached the Court.10
+
+15.      The Garnished Funds are needed by Cleo to meet its payroll obligations due this Friday,
+         December 13, 2024 and to maintain business operations during the Stay.11
+
+16.      Cleo has twelve employees and nine consultants which fall under its payroll calculations.
+         Cleo’s payroll obligations are approximately $132,000.12
+
+17.      RBC has requested that a court order be provided to it directing that it can cancel the cheque
+         representing the Garnished Funds and provide the amount of the Garnished Funds into
+         Cleo’s Account with RBC. RBC will follow a court order directing same.13
+
+18.      If Cleo is unable to meet its payroll obligations and continue its operations during the Stay,
+         its oil and gas assets will be placed into jeopardy creating potential environmental issues
+         and risk of significant loss to Cleo and its creditors which are owed in excess of
+         $23,000,000.14
+
+19.      Cleo currently has no other confirmed adequate sources of available funds this week to
+         meet its payroll obligations other than the Garnished Funds.15
+
+20.      Cleo needs to make payroll to be in a position to maintain its oil and gas assets, and needs
+         to continue carrying on business during the Stay to be able to proceed forward with the
+         NOI proceeding for the benefit of its stakeholders.16
+
+
+
+
+10
+   Lewis Affidavit at para 22.
+11
+   Lewis Affidavit at para 24.
+12
+   Lewis Affidavit at para 24.
+13
+   Lewis Affidavit at para 25.
+14
+   Lewis Affidavit at para 26.
+15
+   Lewis Affidavit at para 26.
+16
+   Lewis Affidavit at para 27.
+
+
+65559497\1
+                                                 5
+
+
+IV.     CONCLUSION AND RELIEF SOUGHT
+
+21.     For the reasons above, it is appropriate for this Honourable Court to Order that RBC cancel
+        any cheques it issued to the Court as a result of the Garnishee Summons and to thereafter
+        make available the Garnished Funds into Cleo’s Account with RBC.
+
+ALL OF WHICH IS RESPECTFULLY SUBMITTED this 11th day of December, 2024.
+
+                                            GOWLING WLG (CANADA) LLP
+
+
+                                            Per: ___________________________________
+                                                 Sam Gabor
+                                                 Counsel for Cleo Energy Corp.
+
+
+
+
+65559497\1
+                                            6
+
+
+                              TABLE OF AUTHORITIES
+
+
+ Tab         Authority
+
+ 1.          Bankruptcy and Insolvency Act, RSC 1985, c B-3
+
+ 2.          Startek Computer Inc. (Trustee of) v. Samtack Computer Inc., 2000 BCSC 1316
+
+ 3.          Chaulk Air Inc., Re, 2012 CarswellNB 204
+
+ 4.          Accel Energy Canada Limited (Re), 2020 ABQB 652
+
+
+
+
+65559497\1
+

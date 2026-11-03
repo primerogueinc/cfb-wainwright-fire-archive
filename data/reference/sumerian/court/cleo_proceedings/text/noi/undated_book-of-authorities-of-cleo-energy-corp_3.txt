@@ -1,0 +1,838 @@
+COURT FILE NO.
+
+COURT             COURT OF KING’S BENCH OF ALBERTA
+
+JUDICIAL CENTRE   CALGARY
+                  IN THE MATTER OF THE BANKRUPTCY AND INSOLVENCY ACT,
+                  RSC 1985, C B-3, AS AMENDED
+                  AND IN THE MATTER OF THE NOTICE OF INTENTION TO MAKE
+                  A PROPOSAL OF CLEO ENERGY CORP.
+
+APPLICANT         CLEO ENERGY CORP.
+
+DOCUMENT          BOOK OF AUTHORITIES OF CLEO ENERGY CORP.
+
+ADDRESS FOR       Gowling WLG (Canada) LLP
+SERVICE AND       1600, 421 – 7th Avenue S.W.
+CONTACT           Calgary, AB T2P 4K9
+INFORMATION       Telephone: (403) 298-1946 / (403) 298-1938
+OF PARTY          Facsimile: (403) 263-9193
+FILING THIS       Email: sam.gabor@gowlingwlg.com / tom.cumming@gowlingwlg.com
+DOCUMENT
+                  File No. G10010664
+
+
+                  Attention: Sam Gabor / Tom Cumming
+Tab
+
+
+1
+Bankruptcy and Insolvency Act, R.S.C. 1985, c. B-3, s. 69
+
+
+
+
+  Canada Federal Statutes
+    Bankruptcy and Insolvency Act
+      Part IV — Property of the Bankrupt (ss. 67-101.2)
+        Stay of Proceedings
+
+                                                             R.S.C. 1985, c. B-3, s. 69
+
+
+                                                                      s 69.
+
+                                                                    Currency
+
+
+69.
+69(1) Stay of proceedings — notice of intention
+Subject to subsections (2) and (3) and sections 69.4, 69.5 and 69.6, on the filing of a notice of intention under section 50.4
+by an insolvent person,
+
+     (a) no creditor has any remedy against the insolvent person or the insolvent person's property, or shall commence or
+     continue any action, execution or other proceedings, for the recovery of a claim provable in bankruptcy,
+
+     (b) no provision of a security agreement between the insolvent person and a secured creditor that provides, in substance,
+     that on
+
+          (i) the insolvent person's insolvency,
+
+          (ii) the default by the insolvent person of an obligation under the security agreement, or
+
+          (iii) the filing by the insolvent person of a notice of intention under section 50.4,
+
+     the insolvent person ceases to have such rights to use or deal with assets secured under the agreement as he would otherwise
+     have, has any force or effect,
+
+     (c) Her Majesty in right of Canada may not exercise Her rights under
+
+          (i) subsection 224(1.2) of the Income Tax Act, or
+
+          (ii) any provision of the Canada Pension Plan or of the Employment Insurance Act that
+
+               (A) refers to subsection 224(1.2) of the Income Tax Act, and
+
+               (B) provides for the collection of a contribution, as defined in the Canada Pension Plan, an employee's premium
+               or employer's premium, as defined in the Employment Insurance Act, or a premium under Part VII.1 of that Act,
+               and of any related interest, penalties or other amounts,
+
+     in respect of the insolvent person where the insolvent person is a tax debtor under that subsection or provision, and
+
+     (d) Her Majesty in right of a province may not exercise her rights under any provision of provincial legislation in respect of
+     the insolvent person where the insolvent person is a debtor under the provincial legislation and the provision has a similar
+     purpose to subsection 224(1.2) of the Income Tax Act, or refers to that subsection, to the extent that it provides for the
+     collection of a sum, and of any related interest, penalties or other amounts, where the sum
+
+
+
+
+                     Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.   1
+Bankruptcy and Insolvency Act, R.S.C. 1985, c. B-3, s. 69
+
+
+
+
+          (i) has been withheld or deducted by a person from a payment to another person and is in respect of a tax similar in
+          nature to the income tax imposed on individuals under the Income Tax Act, or
+
+          (ii) is of the same nature as a contribution under the Canada Pension Plan if the province is a "province providing a
+          comprehensive pension plan" as defined in subsection 3(1) of the Canada Pension Plan and the provincial legislation
+          establishes a "provincial pension plan" as defined in that subsection.
+
+until the filing of a proposal under subsection 62(1) in respect of the insolvent person or the bankruptcy of the insolvent person.
+
+69(2)Limitation
+The stays provided by subsection (1) do not apply
+
+     (a) to prevent a secured creditor who took possession of secured assets of the insolvent person for the purpose of realization
+     before the notice of intention under section 50.4 was filed from dealing with those assets;
+
+     (b) to prevent a secured creditor who gave notice of intention under subsection 244(1) to enforce that creditor's security
+     against the insolvent person more than ten days before the notice of intention under section 50.4 was filed, from enforcing
+     that security, unless the secured creditor consents to the stay;
+
+     (c) to prevent a secured creditor who gave notice of intention under subsection 244(1) to enforce that creditor's security
+     from enforcing the security if the insolvent person has, under subsection 244(2), consented to the enforcement action; or
+
+     (d) [Repealed 2012, c. 31, s. 416.]
+
+69(3)Limitation
+A stay provided by paragraph (1)(c) or (d) does not apply, or terminates, in respect of Her Majesty in right of Canada and
+every province if
+
+     (a) the insolvent person defaults on payment of any amount that becomes due to Her Majesty after the filing of the notice
+     of intention and could be subject to a demand under
+
+          (i) subsection 224(1.2) of the Income Tax Act,
+
+          (ii) any provision of the Canada Pension Plan or of the Employment Insurance Act that refers to subsection 224(1.2)
+          of the Income Tax Act and provides for the collection of a contribution, as defined in the Canada Pension Plan, an
+          employee's premium, or employer's premium, as defined in the Employment Insurance Act, or a premium under Part
+          VII.1 of that Act, and of any related interest, penalties or other amounts, or
+
+          (iii) any provision of provincial legislation that has a similar purpose to subsection 224(1.2) of the Income Tax Act,
+          or that refers to that subsection, to the extent that it provides for the collection of a sum, and of any related interest,
+          penalties or other amounts, where the sum
+
+               (A) has been withheld or deducted by a person from a payment to another person and is in respect of a tax similar
+               in nature to the income tax imposed on individuals under the Income Tax Act, or
+
+               (B) is of the same nature as a contribution under the Canada Pension Plan if the province is a "province providing
+               a comprehensive pension plan" as defined in subsection 3(1) of the Canada Pension Plan and the provincial
+               legislation establishes a "provincial pension plan" as defined in that subsection; or
+
+     (b) any other creditor is or becomes entitled to realize a security on any property that could be claimed by Her Majesty
+     in exercising Her rights under
+
+          (i) subsection 224(1.2) of the Income Tax Act,
+
+
+                      Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.   2
+Bankruptcy and Insolvency Act, R.S.C. 1985, c. B-3, s. 69
+
+
+
+
+          (ii) any provision of the Canada Pension Plan or of the Employment Insurance Act that refers to subsection 224(1.2)
+          of the Income Tax Act and provides for the collection of a contribution, as defined in the Canada Pension Plan, an
+          employee's premium, or employer's premium, as defined in the Employment Insurance Act, or a premium under Part
+          VII.1 of that Act, and of any related interest, penalties or other amounts, or
+
+          (iii) any provision of provincial legislation that has a similar purpose to subsection 224(1.2) of the Income Tax Act,
+          or that refers to that subsection, to the extent that it provides for the collection of a sum, and of any related interest,
+          penalties or other amounts, where the sum
+
+               (A) has been withheld or deducted by a person from a payment to another person and is in respect of a tax similar
+               in nature to the income tax imposed on individuals under the Income Tax Act, or
+
+               (B) is of the same nature as a contribution under the Canada Pension Plan if the province is a "province providing
+               a comprehensive pension plan" as defined in subsection 3(1) of the Canada Pension Plan and the provincial
+               legislation establishes a "provincial pension plan" as defined in that subsection.
+
+Note:
+
+S.C. 2000, c. 30, s. 145(3), provides as follows:
+
+     (3) Subsections (1) [which replaced s. 69(1)(c) and added s. 69(1)(d)] and (2) [which replaced s. 69(3)] are deemed to
+     have come into force on November 30, 1992 except that, before June 30, 1996, the references in subparagraphs 69(1)(c)
+     (ii) and (3)(a)(ii) and (b)(ii) of the Act, as enacted by subsections (1) and (2), to the Employment Insurance Act shall be
+     read as references to the Unemployment Insurance Act.
+
+Note:
+
+S.C. 1997, c. 12, s. 62(2), provides as follows:
+
+     (2) Application
+     Subsection (1) [S.C. 1997, c. 12, s. 62(1), which re-enacted s. 69(2)(b) and added (c)] applies to proceedings under Part
+     III that are commenced after that subsection comes into force [September 30, 1997].
+
+Amendment History
+1992, c. 27, s. 36(1); 1997, c. 12, s. 62(1); 2000, c. 30, s. 145; 2005, c. 3, s. 12; 2005, c. 47, s. 60; 2007, c. 36, s. 34; 2009,
+c. 33, s. 23; 2012, c. 31, s. 416
+
+
+Judicial Consideration (6)
+
+Currency
+Federal English Statutes reflect amendments current to July 3, 2024
+Federal English Regulations Current to Gazette Vol. 158:14 (July 3, 2024)
+
+
+
+End of Document             Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.
+
+
+
+
+                      Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.    3
+Tab
+
+
+2
+Startek Computer Inc. (Trustee of) v. Samtack Computer Inc., 2000 BCSC 1316, 2000...
+2000 BCSC 1316, 2000 CarswellBC 1802, [2000] B.C.W.L.D. 1297, 20 C.B.R. (4th) 166...
+
+
+
+                                                          2000 BCSC 1316
+                                            British Columbia Supreme Court [In Chambers]
+
+                                    Startek Computer Inc. (Trustee of) v. Samtack Computer Inc.
+
+      2000 CarswellBC 1802, 2000 BCSC 1316, [2000] B.C.W.L.D. 1297, 20 C.B.R. (4th) 166, 99 A.C.W.S. (3d) 209
+
+                     Campbell, Saunders Ltd., Trustee in Bankruptcy of the Estate of
+                 Startek Computer Inc., Plaintiff and Samtack Computer Inc., Defendant
+                                                                     Harvey J.
+
+                                                           Heard: August 30, 2000
+                                                        Judgment: September 1, 2000
+                                                        Docket: Vancouver S001120
+
+Counsel: C.L. Shaley, for Plaintiff.
+C. Tong, for Defendant.
+
+Subject: Insolvency
+Headnote
+Bankruptcy --- Proposal — Effect of proposal — As binding on creditors
+Bankrupt paid vendor for computer equipment by cheque — Cheque was returned for non-sufficient funds — Bankrupt provided
+replacement cheque for goods, which was negotiated by vendor — Bankrupt filed notice of intention to make proposal — Four
+days later, without knowledge or consent of bankrupt or its trustee, vendor renegotiated original cheque which was cleared by
+bankrupt's bank — Trustee in bankruptcy brought application for summary judgment against vendor — Application granted —
+Vendor liable to trustee on basis that renegotiating first cheque was remedy prohibited as result of stay of proceedings imposed
+by s. 69(1) of Bankruptcy and Insolvency Act — Cheques were issued to pay for same three invoices and not for additional
+goods sold to bankrupt — Knowledge of filing of notice of intention to make proposal is not necessary for stay to be effective
+as against creditor — Bankruptcy and Insolvency Act, R.S.C. 1985, c. B-3, s. 69(1).
+
+APPLICATION by trustee in bankruptcy for summary judgment against vendor.
+
+Harvey J. (In Chambers):
+
+1 The plaintiff applies for judgment pursuant to Rule 18A against the defendant Samtack Computer Inc. ("Samtack") in the
+amount of $20,098.88 plus interest and costs.
+
+2    Startek Computer Inc. ("Startek") paid the defendant for certain goods, computer equipment, sold by it to Startek with a
+cheque. That cheque was returned to the defendant for non-sufficient funds.
+
+3   Startek provided the defendant with a replacement cheque for the goods. The defendant negotiated the replacement cheque.
+
+4    On June 17 two events occurred. Startek filed a Notice of Intention to Make a Proposal pursuant to the Bankruptcy and
+Insolvency Act, R.S.C. 1985, c. B-3 and pursuant to s. 69(2) of the said statute a stay of proceedings was in effect as of June
+17, 1999.
+
+5     On or about June 21, 1999 without the knowledge or consent of Startek or the trustee, the defendant renegotiated the
+original cheque which was cleared by Startek's bank.
+
+6    The matter has a history.
+
+
+
+
+                      Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.   1
+Startek Computer Inc. (Trustee of) v. Samtack Computer Inc., 2000 BCSC 1316, 2000...
+2000 BCSC 1316, 2000 CarswellBC 1802, [2000] B.C.W.L.D. 1297, 20 C.B.R. (4th) 166...
+
+
+7     On July 6, 2000 the matter came on for hearing before Pitfield J. At that time Samtack claimed that the first cheque and
+the replacement cheque were not issued to pay for the same three invoices. Samtack claimed it had evidence that supported its
+position but that evidence was not before the court. As a result, Pitfield J. ordered Samtack to produce this evidence and the
+application was adjourned accordingly.
+
+8    In due course Samtack forwarded copies of the invoices it claims were paid by the first cheque and the replacement cheque.
+
+9    The issue is framed in counsel for the plaintiff's outline of argument as follows:
+
+     Is Samtack liable to the trustee in the amount of $20,098.88 for cashing both the first cheque and the replacement cheque
+     on the basis that renegotiating the first cheque was a remedy prohibited as a result of the stay of proceedings imposed
+     by section 69(1) of the BIA.
+
+10    The answer to this question is yes.
+
+11 The short answer to this application is that Samtack by renegotiating what has been referred to as the First Cheque on or
+about June 21, 1999, without the knowledge or consent of Startek or the trustee, exercised a remedy and violated the existing
+stay of proceedings. Further, upon a comparison of the invoices and particularly the further material ordered to be produced by
+Pitfield J. it is apparent the cheques were issued to pay for the same three invoices and not as alleged by Samtack invoices in
+relation to additional goods sold to Startek. In this perspective Samtack was paid twice for the same goods and the same invoices.
+
+12 I do not accept Samtack's assertion that it has some form of defence based upon the fact it was not aware of the filing and
+the stay of proceedings referred to supra. In this regard in Re Gene Moses Construction Ltd. (1999), 9 C.B.R. (4th) 275 (B.C.
+Master) the Court of Appeal confirms that knowledge of the filing of the Notice of Intention to make a proposal is not necessary
+for the stay to be effective. It follows that in this case pursuant to the relevant provision of the BIA a stay of proceedings was
+in effect as of June 17, 1999 and no creditor, including Samtack, had any remedy against it for a claim provable in bankruptcy.
+
+13    I grant the application for summary judgment in the amount as claimed together with interest and costs on Scale 3.
+                                                                                                        Application granted.
+
+
+
+End of Document            Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.
+
+
+
+
+                     Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.    2
+Tab
+
+
+3
+Chaulk Air Inc., Re, 2012 CarswellNB 204
+2012 CarswellNB 204, 215 A.C.W.S. (3d) 278
+
+
+
+                                                       2012 CarswellNB 204
+                                                New Brunswick Court of Queen's Bench
+
+                                                             Chaulk Air Inc., Re
+
+                                            2012 CarswellNB 204, 215 A.C.W.S. (3d) 278
+
+       In the Matter of: The Bankruptcy and Insolvency Act, R.S.C. 1985, c. B-3, as amended
+             In the Matter of: Chaulk Air Inc. a body corporate under the laws of the Province of Newfoundland
+
+                                                            Stephen J. McNally J.
+
+                                                       Heard: February 28, 2012
+                                                       Judgment: March 1, 2012
+                                               Docket: NB17916, Estate No. 51-1588758
+
+Counsel: Carl A. Holm, Q.C., for Chaulk Air Inc.
+Mel K. Norton, for Canada Steamship Lines
+No one for Xstrata Canada Corporation
+
+Subject: Civil Practice and Procedure; Insolvency
+Headnote
+Bankruptcy and insolvency --- Practice and procedure in courts — Stay of proceedings
+Motion by bankrupt under provisions of Bankruptcy and Insolvency Act for declaration that following filing of its notice of
+intention to make proposal to its creditors under provisions of Act, actions of its secured and unsecured creditors were stayed
+pursuant to s. 69(1) of Act — X. Corp. owned money to bankrupt — C. company obtained garnishment order requiring X.
+Corp. to pay any amounts due to bankrupt to C. company — None of garnisheed funds had been paid — Motion granted —
+Bankrupt would likely be unable to effectively pursue proposal process it adopted under Act if order was not granted, which
+would be significantly detrimental to bankrupt and to other unsecured creditors as well — C. company would be in no worse
+position as unsecured creditor than it presently was if requested order was granted.
+
+Stephen J. McNally J.:
+
+1 This is an application brought by Chaulk Air Inc. under the provisions of the Bankruptcy and Insolvency Act, R.S.C. 1985,
+c. B-3 (the BIA) in which it seeks a declaration that following the filing of its Notice of Intention to make a proposal to its
+creditors under the provisions of the act, all the actions of its secured and unsecured creditors are stayed pursuant to section
+69(1) of the BIA including a Garnishment Order issued out of the Federal Court on December 21, 2011.
+
+2 Chaulk Air Inc. provides global logistics and shipping services with its principal office located in Moncton, New Brunswick.
+Canada Steam Ship Lines (CSL) is a shipping company with headquarters in Montreal. On December 21, 2011, CSL obtained
+a garnishment order in the Federal Court of Canada, requiring Xstrata Canada Corporation (XCC) to pay any amounts due to
+Chaulk to CSL. XCC owed Chaulk $160,401.65 at the time of the garnishment order. XCC acknowledges that the debt is owed
+and has funds available to pay that amount to Chaulk.
+
+3 To date none of the garnisheed funds have been paid by XCC to CSL pursuant to the garnishment order and the funds are
+still being held by XCC. On February 8, 2012, Chaulk filed a Notice of Intention to make a Proposal (NOI) with the Official
+Receiver under the provisions of the BIA. XCC refuses to release the garnisheed funds to Chaulk without a court order despite
+the stay imposed on the garnishment order pursuant to section 69(1) of the BIA.
+
+4    By the present motion, Chaulk seeks an order of this court sitting in bankruptcy and insolvency, for an order:
+
+
+
+                     Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.   1
+Chaulk Air Inc., Re, 2012 CarswellNB 204
+2012 CarswellNB 204, 215 A.C.W.S. (3d) 278
+
+
+     a. [Abridging the time for service ... - already granted]
+
+     b. Declaring that pursuant to s. 69(1) of the Bankruptcy and Insolvency Act, all actions of secured and unsecured creditors
+     of Chaulk Air Inc. are stayed, including actions under the Garnishment Order issued December. 21, 2011 by Richard
+     Morneau, Protonotary in the Federal Court in Montreal Quebec;
+
+     c. Declaring that there is no impediment to Xstrata Canada Corporation paying amounts due to Chaulk Air Inc.
+     notwithstanding the Garnishment order or the claims of any other secured or unsecured creditors of Chaulk Air Inc.; and
+
+     d. Ordering Xstrata Canada Corporation to pay $160,401. 65 to Chaulk Air Inc.
+
+5 CSL opposes the granting of the requested order. CSL concedes that as a result of the filing of the notice of intention to file
+a proposal by Chaulk that CSL's remedies under the garnishment order issued out of the Federal Court are stayed pursuant to the
+provisions of section 69(1) of the BIA (see also Lindholm v. Hy-Wave Inc., [1996] B.C.W.L.D. 2514 (B.C. S.C. [In Chambers])
+[1996 CarswellBC 1896 (B.C. S.C. [In Chambers])]) CSL submits, however, that the requested order should not be issued as
+to do so would result in this Court exceeding its jurisdiction and improperly interfering with a valid order of the Federal Court.
+
+6 Counsel for CSL relies on the decision of the Supreme Court of Canada in Antwerp Bulkcarriers, N.V., Re, [2001] 3 S.C.R.
+951 (S.C.C.). In my view, that decision does not apply to the circumstances of this case. In Antwerp Bulkcarriers, N.V. the
+action was an action in rem where a Belgian registered ship had been seized and ordered sold by the Federal Court. In effect, the
+ship was the defendant in that case. The ship's owner was adjudged a bankrupt by the Belgian bankruptcy court and its trustee
+obtained an order out of the Quebec Superior Court recognizing the Belgian bankruptcy order. Notwithstanding this order, the
+Federal Court granted default judgment and proceeded to exercise its maritime jurisdiction to have the ship appraised and sold.
+The Supreme Court of Canada ruled that the Quebec Superior Court (the bankruptcy court) had no jurisdiction to enjoin the
+Federal Court in exercising its maritime law jurisdiction with respect to the ship.
+
+7 In the case at bar, the Federal Court's garnishment order is unenforceable and cannot be acted upon by CSL pursuant to the
+provisions of section 69(1) of the BIA upon the filing of the NOI by Chaulk. The issuance by this court of the requested order
+would not result in differing and competing orders from two different jurisdictions. Subsection 69(1)(a) of the BIA provides:
+
+     69. Subject to subsections (2) and (3) and sections 69.4, 69.5 and 69.6, on the filing of a notice of intention under section
+     50.4 by an insolvent person, (a) no creditor has any remedy against the insolvent person or the insolvent person's property, or
+     shall commence or continue any action, execution or other proceedings, for the recovery of a claim provable in bankruptcy.
+
+     [...]
+
+8     By virtue of this section, all actions of creditors of Chaulk, both secured and unsecured, are stayed. This would include
+actions under the garnishment order issued out of the Federal Court in favour of CSL. This state of affairs is due to the filing of
+the NOI and the staying provisions of section 69(1). The stay of the actions of creditors, including actions under a previously
+obtained but unexecuted garnishment order, is not instituted by any order or by the exercise of any discretion of this Court.
+The stay comes into effect by virtue of the statutory provisions that Parliament included in section 69(1) of the BIA which were
+triggered with the filing of the NOI by Chaulk. Consequently, the issuance of the order requested by Chaulk in this instance
+would not interfere in any way with the enforceability of or the effect of the Federal Court's garnishment order in favour of CSL.
+
+9 In such circumstances I am satisfied that the order requested by Chaulk can and should be issued. Again, there is no issue
+that the effect of Chaulk's filing the NOI together with the provisions of section 69 of the BIA stays all actions of CSL against
+Chaulk or its property, including any actions under the garnishment order. There is no disagreement on this point. Nor is there
+any issue as I understand it, that CSL is an unsecured creditor and is now in no better position than any other unsecured creditor
+of Chaulk. Normally with such circumstances one would expect that a declaratory order of the nature being sought by Chaulk
+would be neither necessary nor sought.
+
+
+
+
+                      Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.   2
+Chaulk Air Inc., Re, 2012 CarswellNB 204
+2012 CarswellNB 204, 215 A.C.W.S. (3d) 278
+
+
+10     In the particular circumstances of this case, however, CSL opposes the release of the funds from Xstrata to Chaulk and
+Xstrata is apparently unwilling to release the funds without some court acknowledgement of the staying provisions of section 69
+of the BIA. The purpose of the proposal sections of the BIA are to allow insolvent businesses to avoid bankruptcy by reorganizing
+their affairs such that payments may be made to creditors and the business can remain as a going concern. Obviously, there is
+a significant amount of money at stake and without it Chaulk will likely be unable to effectively pursue the proposal process it
+adopted under the BIA. This may be not only significantly detrimental to Chaulk but to other unsecured creditors as well. On
+the other hand CSL will be in no worse position as an unsecured creditor than it presently is if the requested order is granted.
+
+11    Accordingly, Chaulk's motion is granted and the requested order will issue.
+
+Stephen J. McNally J.:
+
+On the motion of Chaulk Air Inc., the following is ordered:
+
+     1) The time for service of the notice of motion and motion record is hereby abridged so that the motion is returnable on
+     February 28, 2012, and further service hereof is hereby dispensed with;
+
+     2) It is declared that pursuant to s.69(1) of the Bankruptcy and Insolvency Act, all actions of secured and unsecured creditors
+     of Chaulk Air Inc. are stayed, including actions under the Garnishment Order issued December 21, 2011 by Richard
+     Morneau, Prothonotary in the Federal Court in Montreal Quebec;
+
+     3) It is declared that there is no impediment to Xstrata Canada Corporation paying amounts due to Chaulk Air Inc.
+     notwithstanding the Garnishment Order or the claims of any other secured or unsecured creditors of Chaulk Air Inc.; and
+
+     4) It is ordered that Xstrata Canada Corporation to pay $160,401.65 to Chaulk Air Inc.
+
+
+
+End of Document             Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.
+
+
+
+
+                      Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.    3
+Tab
+
+
+4
+Accel Energy Canada Limited (Re), 2020 ABQB 652, 2020 CarswellAlta 1995
+2020 ABQB 652, 2020 CarswellAlta 1995, [2020] A.W.L.D. 3609, 21 Alta. L.R. (7th) 148...
+
+
+
+                                                            2020 ABQB 652
+                                                     Alberta Court of Queen's Bench
+
+                                                   Accel Energy Canada Limited (Re)
+
+     2020 CarswellAlta 1995, 2020 ABQB 652, [2020] A.W.L.D. 3609, 21 Alta. L.R. (7th) 148, 325 A.C.W.S. (3d) 164
+
+  In the Matter of the Companies' Creditors Arrangement Act, R.S.C. 1985, c. C-36, as amended
+                              In the Matter of the Compromise or Arrangement of ACCEL Energy
+                                 Canada Holdings Limited and ACCEL Energy Canada Limited
+
+ACCEL Energy Canada Limited and ACCEL Canada Holdings Limited, BP Canada Energy Group ULC, TransAlta Energy
+ Marketing Corp (Applicants) and TransAlta Energy Marketing Corp and BP Canada Energy Group ULC (Respondents)
+
+                                                                B.E. Romaine J.
+
+                                                       Judgment: October 27, 2020
+                                                       Docket: Calgary 1901-16581
+
+Counsel: Paul G. Chiswell, Kylan S. Kidd, for TransAlta Energy Marketing Corp.
+Blair Carbert, Michael Bokhaut, for ACCEL Energy Canada Holdings Limited and ACCEL Energy Canada Limited
+Matthew R. Lindsay, Q.C., Courtney C. Kachur, for BP Canada Energy Group ULC
+
+Subject: Insolvency
+Headnote
+Bankruptcy and insolvency --- Priorities of claims — Unsecured claims — Priority with respect to secured creditors
+Funds totalling $1,414,393.05 (Disputed Funds) were part of net proceeds payable by BP pursuant to contracts between BP
+and A Ltd. — Under irrevocable direction to pay (IDP) dated June 2019, A Ltd. directed BP to pay applicant T Ltd. any net
+funds owing to A Ltd. under contracts, after set-off, at various times between June 28 and September 30, 2019 — A Ltd.'s
+indebtedness to T Ltd. arose from March 2019 judgment for non-payment of charges for electricity for operation of A Ltd.'s oil
+and gas operations — Almost entire amount of judgment of $1,159,246.18, together with additional judgement claim in amount
+of $255,146.87, was collected by T Ltd., but T Ltd. claimed additional amount for further services supplied until March 2019 —
+September 2019 order required BP to pay A Ltd. all but $193,165.32 of funds that BP owed and was holding for A Ltd. — T Ltd.
+sought payment from BP under IDP of further amounts owed by A Ltd. — In November 2019, A Ltd. commenced Companies'
+Creditors Arrangement Act (CCAA) proceedings — Order was made directing BP to pay Disputed Funds to Monitor in trust
+— A Ltd. brought application for payment of funds held in trust and order that T Ltd. was unsecured creditor with no right
+of payment from BP; T Ltd. brought cross-application for order that BP was in breach of IDP and for payment of Disputed
+Funds — Application granted; cross-application dismissed — IDP was executed in accordance with concurrent payment plan to
+prevent T Ltd. from pursuing collection efforts — There was no language in IDP or in payment plan that referenced assignment
+of funds to T Ltd. and nothing in IDP and payment plan that gave T Ltd. priority over A Ltd.'s claim to Disputed Funds —
+Disputed Funds would become part of A Ltd.'s estate in insolvency, and be paid out in accordance with established priorities
+— T Ltd. was free to participate as unsecured creditor — T Ltd. had no independent right to payment from BP in respect of
+Disputed Funds or cause of action against BP in relation to IDP or Disputed Funds.
+
+APPLICATION by A Ltd. for payment of funds held in trust and order that T Ltd. was unsecured creditor with no right of
+payment from BP; CROSS-APPLICATION by T Ltd. for order that BP was in breach of irrevocable direction to pay and for
+payment of fund held in trust.
+
+B.E. Romaine J.:
+
+
+
+
+                     Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.   1
+Accel Energy Canada Limited (Re), 2020 ABQB 652, 2020 CarswellAlta 1995
+2020 ABQB 652, 2020 CarswellAlta 1995, [2020] A.W.L.D. 3609, 21 Alta. L.R. (7th) 148...
+
+
+I Introduction
+
+1     The essence of this application is a priority dispute between TransAlta Energy Marketing Limited and ACCEL Energy
+Canada Limited and its other creditors over funds totaling $1,414,393.05 (the "Disputed Funds"), currently held by the Monitor
+of ACCEL Energy Canada Limited, which is under the protection of the Companies Creditors Arrangements Act, RSC 1985
+c. c-36.
+
+II Relevant Facts
+
+2 The Disputed Funds are part of the net proceeds payable by BP Canada Energy Group ULC pursuant to contracts between
+BP and ACCEL Energy.
+
+3    At issue is an irrevocable direction to pay (the "IDP") dated June 12, 2019, pursuant to which ACCEL Energy directed
+BP to pay TransAlta any net funds owing to ACCEL Energy under the contracts, after set-off, at various times between June
+28 and September 30, 2019.
+
+4    ACCEL Energy's indebtedness to TransAlta arose from a judgement TransAlta obtained in March, 2019 relating to non-
+payment of charges incurred by reason of TransAlta supplying electricity to ACCEL Energy to enable it to operate its oil and gas
+operations. TransAlta agreed to stop enforcement proceedings against ACCEL Energy in exchange for ACCEL Energy issuing
+two irrevocable directions to pay, one dated March 27, 2019 and the other the IDP. Almost the entire amount of the judgement
+of $1,159,246.18, together with an additional judgement claim in the amount of $255,146.87, has been collected by TransAlta,
+but TransAlta claims an additional amount for further services supplied until March 12, 2019.
+
+5 BP complied with the IDP from June 2019 until it was advised on July 30, 2019, by ACCEL Energy by way of a reference to
+an email exchange between TransAlta and ACCEL Energy that the parties had agreed that the date of the July 30, 2019 payment
+that BP was to pay under the IDP would be extended to August 2, 2019, and that ACCEL Holdings would pay TransAlta directly
+the $1.25 million that was to be paid by BP on ACCEL's behalf. The new payment plan provided that TransAlta would not
+escalate enforcement steps against ACCEL Energy so long as ACCEL Energy paid in full and on time. Therefore, BP did not
+pay the July 30, 2019, payment specified by the IDP. The next payment under the IDP was to be made on August 30, 2019.
+
+6     During August, 2019, BP received conflicting payment instructions from ACCEL Energy and demands from ACCEL's
+other creditors. On August 26, 2019, BP paid the net July 2019 production proceeds it owed to ACCEL Energy, and left it to
+ACCEL Energy to deal with its creditors.
+
+7     On September 4, 2019, BP received an email from ACCEL Energy indicating that it considered all IDPs previously
+provided to BP to be suspended, and that BP should deem the email as a release by ACCEL Energy from performance of any
+previous IDPs. BP received no communication from TransAlta until September 30, 2019.
+
+8 On September 27, 2019, Grosse, J, ordered BP to pay ACCEL Energy all but $193,165.32 of the funds that BP owed and
+was holding for ACCEL Energy and BP did so. Pursuant to that Order, ACCEL Energy was at liberty to re-set for hearing its
+application for an order authorizing and directing release of these remaining funds.
+
+9 On October 1, TransAlta demanded payment from BP under the IDP. TransAlta's counsel was sent a copy of the September
+27 Order on October 4, 2019. TransAlta's counsel was also sent notice of ACCEL Energy's re-set application to be heard on
+October 8, 2019. On October 7, 2019 TransAlta responded that it intended to apply to set the September 27 Order aside but no
+materials were filed and no such application was made. ACCEL Energy did not pursue the re-set application.
+
+10 On October 21, 2019, ACCEL Energy filed a Notice of Intention to make a Proposal under the Bankruptcy and Insolvency
+Act, RSC 1985, c B-3.
+
+11     As of October 23, 2019, approximately 2/3 of the Disputed Funds were in the possession of BP. The remaining portion
+of the Disputed Funds were earned by ACCEL Energy after the commencement of these insolvency hearings.
+
+
+                     Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.   2
+Accel Energy Canada Limited (Re), 2020 ABQB 652, 2020 CarswellAlta 1995
+2020 ABQB 652, 2020 CarswellAlta 1995, [2020] A.W.L.D. 3609, 21 Alta. L.R. (7th) 148...
+
+
+12 On October 25, 2019, funds that BP held in trust for ACCEL Energy and ACCEL Holdings, without further off-set were
+paid to Deloitte Restructuring Inc. in trust pursuant to an order of Graesser, J., pending the determination of the priority dispute
+between claimants to the Disputed Funds.
+
+13    The Order provides that "BP shall not be liable to any person as a result of having complied with this Order". It also
+provides that the:
+
+     . . . funds to be held by Deloitte will stand in the place and stead of the funds previously held by BP, and the interests of
+     all parties will attach to those funds in the same regard and with the same priority as they did when the funds were held
+     by BP. This Order will be without prejudice to the substantive right of the parties.
+
+14     This Order was made responding to claims of other creditors of ACCEL Energy, and TransAlta was not a party to the
+application.
+
+15     On November 22, 2019, ACCEL Energy commenced proceedings under the CCAA. By order dated January 21, 2020,
+Horner, J., directed BP to deposit $1,414,393.06 with the Monitor in trust until further order of the Court. This Order provides
+that "[a]ny and all rights which BP may have to claim set-off in relation to [these funds] are hereby preserved". It also provides
+that:
+
+     BP's liability and obligations to Energy with respect to [the amount of $1,414,393.06] are satisfied as a result of payment of
+     the Amount to the Monitor. Any and all obligations which BP may have to TransAlta under the IDP are hereby preserved.
+
+16    ACCEL Energy seeks an order:
+
+     a) directing the Monitor to pay the Disputed Funds to ACCEL Energy, or any receiver or trustee appointed;
+
+     b) declaring that TransAlta's claim is that of an unsecured creditor, to be dealt with in accordance with any plan of
+     arrangement or distribution applied in these insolvency proceedings; and
+
+     c) declaring that TransAlta has no independent right to payment from BP in respect of the Disputed Funds under the IDP
+     or any payment plan.
+
+17    BP seeks an order declaring that:
+
+     a) the Disputed Funds form part of ACCEL Energy's estate, and are to be administered according to the Court's direction;
+     and
+
+     b) TransAlta has no cause of action against BP in relation to the IDP, the Disputed Funds or these proceedings.
+
+18    TransAlta seeks an order:
+
+     a) declaring that BP is liable to TransAlta for breaches of the IDP;
+
+     b) declaring that the IDP irrevocably assigned the August payments and the September payments to TransAlta;
+
+     c) directing that BP must pay TransAlta at least $1,414,393.05 and pre- and post- judgment interest under the Judgments
+     Interests Act, whether from the funds held by the Monitor or otherwise; and
+
+     d) alternatively, granting TransAlta permission to commence separate proceedings against BP for breach of the IDP.
+
+III Analysis
+
+A. Status of IDP and TransAlta's claim in the insolvency
+
+
+
+
+                      Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.   3
+Accel Energy Canada Limited (Re), 2020 ABQB 652, 2020 CarswellAlta 1995
+2020 ABQB 652, 2020 CarswellAlta 1995, [2020] A.W.L.D. 3609, 21 Alta. L.R. (7th) 148...
+
+
+19      Although TransAlta argues that insolvency issues are a red herring in this application, in that its claim is essentially to
+collect the amount of the Disputed Funds from BP, ACCEL Energy seeks to have the Disputed Funds paid for the benefit of the
+estate in these insolvency proceedings and a declaration that TransAlta's claim is that of an unsecured creditor. Therefore, the
+effect, if any, of the IDP on the Disputed Funds in the context of the insolvency is an issue.
+
+20     TransAlta has made it clear that it does not argue that the IDP creates a trust. It does, however, submit that the IDP
+irrevocably assigned the funds that make up the Disputed Funds to TransAlta, in the form of the payments that it says should
+have been made in August and September.
+
+21    The language of the IDP is relevant:
+
+     RE: Any amounts owing whatsoever from BP Canada to ACCEL Energy
+
+     You are hereby irrevocably authorized and directed to pay out any net funds owing now, or that may be owing in the future
+     to ACCEL Energy from BP Canada, netting any set-off and other rights and remedies available to BP Canada under any
+     currently existing agreement between BP Canada and Accel Energy or under law, as follows:
+
+          1. $1,250.000 to BD&P in trust for TransAlta by June 28. 2019;
+
+          2. $1,250,000, to BD&P in trust for TransAlta by July 30. 2019;
+
+          3. $1,250,000 to BD&P in trust for TransAlta by August 30, 2019;
+
+          4. $322,880 to BD&P in trust for TransAlta by September 30, 2019;
+
+     to satisfy the outstanding balance of TransAlta's writ of enforcement against Accel Energy; and
+
+          5. $32,886 to BD&P in trust for TransAlta by September 30, 2019.
+
+     to satisfy the outstanding balance of interest owed to TransAlta and TransAlta's legal fees and collection costs under the
+     Retail Electricity Services Agreement dated September 29, 2017 between ACCEL Energy and TransAlta;
+
+     with the balance to be paid to ACCEL Energy, and for so doing this shall be your full and irrevocable authority.
+
+22      It is signed by ACCEL Energy, but not by BP. The IDP was executed in accordance with a concurrent payment plan,
+which provided that, if the payments set out in the IDP were made, TransAlta would not pursue various collection efforts it had
+instigated, including garnishees and questioning of an ACCEL Energy officer. The June and July payments are not in issue.
+
+23      There is no language in the IDP or in the payment plan that references an assignment. As noted by ACCEL Energy,
+ACCEL Energy and TransAlta are sophisticated parties capable of using clear language to affect an assignment. This was, in
+fact, the second IDP that had been drafted by the parties. When payments were not made under the first IDP executed in March,
+TransAlta did not pursue BP on the basis that the IDP constituted an assignment, and did not change the language of the IDP that
+is the subject of this application to add assignment language. It is also relevant that TransAlta undertook additional enforcement
+efforts against ACCEL Energy after payments under the March IDP had been missed, which it would not have been able to
+do had that IDP been an assignment of property.
+
+24     TransAlta submits that the IDP creates an "irrevocable assignment" of the funds to TransAlta, and that the funds were
+thus TransAlta's property. It references cases where the instrument or instruments between the parties uses the term "assign
+irrevocably": Pythe Navis Adjusters Corp. v. Columbus Hotel Co. (1991) Ltd., 2014 BCCA 262 (B.C. C.A.). Gateway Mortgage
+Investment Corp. v. 1384125 Alberta Ltd., 2014 ABQB 45 (Alta. Q.B.) at appendix B and appendix C.
+
+25     It is noteworthy that the Court in Pythe Navis relies on the language of the contract as a whole, noting that it "includes
+clear language of irrevocable assignment": para 31. The issue in that case was whether the instrument transferred property to
+
+
+                      Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.   4
+Accel Energy Canada Limited (Re), 2020 ABQB 652, 2020 CarswellAlta 1995
+2020 ABQB 652, 2020 CarswellAlta 1995, [2020] A.W.L.D. 3609, 21 Alta. L.R. (7th) 148...
+
+the assignee, or only created a collateral security interest such that the bankrupt assignor retained some interest. In that context,
+the term "irrevocable" led to a decision in favour of the assignee.
+
+26    In Gateway Mortgage, the question was whether the recipient of a direction to pay (which did not include assignment
+language) and an assignment (which did) was liable to the assignee. The issue was whether holding funds under a mortgage
+were an "interest" capable of assignment.
+
+27 A secondary issue was whether the assignment was a legal assignment or an equitable one, which is where the significance
+of the word "irrevocable" was relevant. The comments made by the Court that are relied upon by TransAlta in this application,
+that if a recipient of an assignment "pays the assignor, he does so at his peril", and "[i]f the assignor does not account to the
+assignee for the money, the debtor will have to pay a second time" refer to an assignment, not a mere direction to pay: para 22.
+
+28 Clear and unambiguous wording is required in order for a direction to pay to qualify as an assignment of a debt: Colonial
+Bank v. Butec International Chemical Corp. (1986), 7 B.C.L.R. (2d) 381 (B.C. S.C.); Nicolson v. Trozzo, 2014 SKQB 182
+(Sask. Q.B.) at para 3.
+
+29    In order for a direction to pay to constitute an assignment:
+
+     It must expressly or implicitly record the fact of assignment, and must plainly indicate to the debtor that by virtue of the
+     assignment the assignee is entitled to receive the money.
+
+     If it merely indicates that on grounds of convenience payments should be made to a third party as agent for the creditor,
+     the debtor is not liable if he pays the creditor direct. (emphasis added):
+
+     Colonial Bank, at para 23, citing the Court of Appeal in England (James Talcott Ltd. v. John Willis & Co., [1940] 3 All
+     E.R. 592 (Eng. C.A.)).
+
+30     While the IDP uses the word "irrevocable", that is not sufficient to turn it into an assignment. As noted in Accel
+Canada Holdings Limited, Re, 2020 ABQB 204 (Alta. Q.B.), Horner, J. held that a substantially similar IDP, "created a simple
+commercial agreement" for funds to be paid from BP Canada directly to Third Eye Capital, instead of to Holdings: para 55.
+The same is true of the IDP of this case.
+
+31      TransAlta seeks to distinguish the decision in Accel Canada Holdings Limited, Re. It suggests that the IDP in that case
+did not involve BP other than a recipient, and by contrast BP had extensive involvement with the IDP in this case. This issue
+is discussed later in this decision. TransAlta notes that it is not arguing that the IDP created a trust, like TEC did in ACCEL;
+and that BP was not a party to the application, as it is here. None of these factors make the Court's ruling in Accel Canada
+Holdings Limited, Re distinguishable, as the important facts, the similarities of language used in both IDAs, and the absence of
+trust language make the findings in Accel Canada Holdings Limited, Re relevant and persuasive.
+
+32    Nor is the IDP an equitable assignment. As was the case with the direction in Frankel Structural Steel Ltd. v. Goden
+Holdings Ltd., [1969] 2 O.R. 221, 5 D.L.R. (3d) 15 (Ont. C.A.), affirmed [1971] S.C.R. 250, 16 D.L.R. (3d) 736 (S.C.C.).
+
+33    The IDP in this case has no subject matter that could be equitably assigned: Frankel trial, para 8. It is not couched in
+language of present operation but envisages future indebtedness as a precondition: para 11 and Frankel SC at para 14.
+
+34    The IDP does not constitute an assignment. ACCEL submits that, even if it did, it was replaced by a new payment plan
+entered into on July 30, 2019, referencing the email exchange of that date between ACCEL Energy and TransAlta.
+
+35 It is noteworthy that on August 20, 2019, TransAlta emailed ACCEL Energy inquiring: "if [ACCEL Energy] had clarity
+on where you expect this month's payments to be made from. Will they be paid through the IDP with BP for ACCEL Energy or
+do you expect to pay both payments directly through ACCEL Holdings — the same as last month?" Despite emails back and
+forth, ACCEL Energy had not answered the inquiry by August 29, 2019, the day before the payments were due. On September
+
+
+
+
+                      Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.   5
+Accel Energy Canada Limited (Re), 2020 ABQB 652, 2020 CarswellAlta 1995
+2020 ABQB 652, 2020 CarswellAlta 1995, [2020] A.W.L.D. 3609, 21 Alta. L.R. (7th) 148...
+
+4, 2019, ACCEL Energy emailed directions to BP to suspend all IDPs, indicating that "BP Canada should deem this note as a
+release by ACCEL Energy from performance of any and all IDPs.
+
+36    There is therefore nothing in the IDA and the payment plan that gives TransAlta priority over the estate's claim to the
+Disputed Funds. Section 70(1) of the BIA provides that every bankruptcy order takes precedence over "all judicial and other
+attachments, garnishments, certificates having the effect of judgments, judgments, certificates of judgment, legal hypothecs of
+judgment creditors, executions or other process against the property of a bankrupt, except those that have been completely
+executed by payment to the creditor or the creditor's representative, and except the rights of a secured creditor". [emphasis added]
+
+37 Section 70(1) applies to both judicial and non-judicial proceedings. The IDP is a non-judicial process against the property
+of the bankrupt, essentially a form of extra-judicial garnishment which was entered into in lieu of existing garnishees. Since it
+had not been completely executed by payment to the creditor, the ACCEL insolvency proceedings take precedence:
+
+     Stone Sapphire Ltd v Transglobal Communications Group Inc, 2008 ABQB 575 at paras 11,12,13,14,15 and 34.
+
+     VI International Holdings Ltd v Henbar Investments Ltd, [1982] AJ No 989, at paras 8, 11.
+
+38     A similar issue has already been decided in those proceedings in Action No. 1901-07043. A judgment creditor, ERM,
+obtained a judgment against ACCEL Holdings and issued a garnishee summons. Approximately $110,000 was paid into Court.
+The garnished funds were still held by the Court when the NOI was filed. Those funds were ordered retuned to ACCEL Holdings
+by Horner, J. on April 24, 2020.
+
+39      The IDP is not a form of security, whether the funds it refers to are payments on a judgement or money earned by
+ACCEL Energy after the commencement of these insolvency proceedings. TransAlta is an unsecured creditor. Payment of the
+Disputed Funds to TransAlta would violate the principle of equality among unsecured creditors, and would offend the priority
+scheme established by the BIA, which ought to be followed whether a distribution of the estate occurs under the BIA, the CCAA
+or a receivership: Nortel Networks Corp., Re, 2015 ONSC 2987 (Ont. S.C.J. [Commercial List]) at para 209, leave to appeal
+ref'd Nuspor Investments Partnership v. 1597180 Ontario Inc., 2016 ONSC 332 (Ont. S.C.J.); Lloyd W. Houlden, Geoffrey B.
+Morawetz, and Janis P. Sarra, The 2019-2020 Annotated Bankruptcy and Insolvency Act (Toronto; Thomson Reuters, 2019) at
+p. 825 citing Keele-Wilson Supermarkets Ltd., Re (1990), 78 C.B.R. (N.S.) 189 (Ont. S.C.).
+
+40       Interpreting the IDP to mean that TransAlta is paid ahead of the secured creditors or without sharing equally with
+unsecured creditors of ACCEL Energy also violates the fraud on the bankruptcy law principle, because it would alter the scheme
+of distribution of creditors. The IDP should not overturn established priorities: Capital Steel Inc v. Chandos Construction Ltd,
+2019 ABCA 32 (Alta. C.A.), at paras 19-22, affirmed Chandos Construction Ltd. v. Deloitte, 2020 SCC 25 (S.C.C.) at para 12.
+
+41     Given my decision on the status of the IDP in an insolvency, it is not necessary that I decide whether the IDP would
+constitute a fraudulent preference. The Disputed Funds will become part of ACCEL's estate in insolvency, and paid out in
+accordance with established priorities. TransAlta is free to participate as an unsecured creditor.
+
+B. Does TransAlta have a cause of action against BP in relation to the IDP, the Disputed Funds, or these proceedings?
+
+42 Both ACCEL Energy and BP submit that TransAlta has no independent obligation in relation to the IDP. They note that in
+Accel Canada Holdings Limited, Re, Horner, J. made the following comment at para 50 about TEC's claim that a substantially
+similar IDP created a trust:
+
+     If the August IDP constituted a trust arrangement and BP Canada failed to pay [TEC - a secured creditor], then TEC would
+     gain the unfair advantage of having recourse against both BP Canada as trustee and Holdings as debtor for the same funds.
+
+43 ACCEL Energy submits, and I agree, that TransAlta is attempting to do what the Court in Accel Canada Holdings Limited,
+Re said was unfair: pursue BP because it lost a priority dispute to the Disputed Funds.
+
+
+
+
+                      Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.   6
+

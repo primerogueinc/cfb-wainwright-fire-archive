@@ -1,0 +1,255 @@
+COURT FILE NUMBER              B301-163430                                          Clerk's stamp
+
+COURT                          COURT OF KING’S BENCH OF ALBERTA
+
+JUDICIAL CENTRE                CALGARY
+
+MATTER                         IN THE MATTER OF THE BANKRUPTCY AND
+                               INSOLVENCY ACT, R.S.C. 1985, c. B-3, AS
+                               AMENDED,
+                               AND IN THE MATTER OF THE NOTICE OF
+                               INTENTION TO MAKE A PROPOSAL OF CLEO
+                               ENERGY CORP.
+
+APPLICANT                      TRAFIGURA CANADA LIMITED
+
+RESPONDENT                     CLEO ENERGY CORP.
+
+DOCUMENT                       APPLICATION
+
+ADDRESS FOR SERVICE            STIKEMAN ELLIOTT LLP
+AND CONTACT                    Barristers & Solicitors
+INFORMATION OF                 4200 Bankers Hall West
+PARTY FILING THIS              888-3rd Street SW
+DOCUMENT                       Calgary, AB T2P 5C5
+
+                               Karen Fellowes, K.C. / Archer Bell
+                               Tel: (403) 724-9469 / (403) 724-9485
+                               Fax: (403) 266-9034
+                               Email: kfellowes@stikeman.com / abell@stikeman.com
+
+                               Lawyers for the Applicant,
+                               Trafigura Canada Limited
+
+                               File No.: 137093.1030
+
+NOTICE TO THE RESPONDENT
+This application is made against you. You are a respondent.
+
+You have the right to state your side of this matter before the Court.
+
+To do so, you must be in Court when the application is heard as shown below:
+        Date:              December 26, 2024
+        Time:              10:00 am
+        Where:             Calgary, Alberta
+        Before Whom:       The Honourable Justice M. Hollins
+
+Go to the end of this document to see what you can do and when you must do it.
+
+
+
+
+120712734 v3
+                                                     -2-
+
+
+
+Purpose of Application:
+
+1.         The Applicant, Trafigura Canada Limited (“Trafigura”), in connection with Cleo Energy Corp.’s
+           (“Cleo”) proceedings under Division I of Part III of the Bankruptcy and Insolvency Act, RSC
+           1985, c B-3, as amended (the “BIA”, and such proceedings, the “Proposal Proceedings”),
+           commenced by notice of intention to make a proposal filed on December 8, 2024 (the “Filing
+           Date”, and such notice, the “NOI”), seeks an Order for the following relief:
+
+           (a)     abridging the time for service of notice of this Application, deeming service of notice of
+                   this Application to be good and sufficient, and declaring that there is no other person
+                   who ought to have been served with notice of this Application;
+
+           (b)     granting a declaration that Cleo committed Termination Events (as that term is defined
+                   in a prepayment agreement dated July 9, 2024 (the “Prepayment Agreement”)) prior
+                   to the Filing Date and, therefore, the outstanding balance of $750,000 owing to
+                   Trafigura by Cleo (the “Owed Amount”) pursuant to the Prepayment Agreement,
+                   which was always due and owing, matured prior to the Filing Date;
+
+           (c)     authorizing Trafigura to exercise its right of set-off under the Prepayment Agreement
+                   with respect to the Owed Amount that arose prior to the Filing Date as, pursuant to
+                   section 97(3) of the Bankruptcy and Insolvency Act, RSC 1985, c B-3, as amended
+                   (the “BIA”), despite the filing of the Notice of Intention to Make a Proposal (the “NOI”)
+                   by Cleo;
+
+           (d)     in the alternative, granting a declaration pursuant to section 69.4 of the BIA that the
+                   Stay of Proceedings should be lifted in order to allow Trafigura to exercise its right of
+                   set-off with respect to the Owed Amount;
+
+           (e)     in the further alternative:
+
+
+                    (i)     a Court-ordered charge of $750,000 in favour of Trafigura attaching to all of
+                            the assets and property of Cleo that shall rank in priority to all other charges,
+                            mortgages, liens, security interests and other encumbrances (the “Trafigura
+                            Charge”), except for any administrative charge in favour of the Proposal
+                            Trustee, its legal counsel, and Cleo’s legal counsel in respect of their fees and
+                            disbursements (the “Administrative Charge”), and any charge in favour of a
+                            potential DIP lender (the “DIP Lender Charge”), both of which shall rank in
+                            priority to the Trafigura Charge; and
+
+
+
+
+120712734 v3
+                                                      -3-
+
+
+
+
+                    (ii)    granting a declaration that payment to Cleo of the November Oil Revenues
+                            (as defined herein) shall in no way prejudice Trafigura’s right to claim set-off
+                            against the Owed Amount at a future date;
+
+           (f)     awarding costs of this Application to Trafigura; and
+
+           (g)     such further and other relief as counsel for Trafigura may advise.
+
+Grounds for making this application:
+
+Background
+
+2.         Trafigura has had a long-standing relationship with Cleo and has been marketing Cleo’s crude
+           oil for many years. In the spring of 2024, Cleo approached Trafigura for financing and, as a
+           result, the parties signed two agreements:
+
+           (a)     a commercial agreement dated July 12, 2024 (the “Commercial Agreement”); and
+
+           (b)     the Prepayment Agreement whereby Trafigura agreed to advance Cleo $1 million and
+                   Cleo agreed, inter alia, to grant Trafigura set-off rights
+
+3.         Trafigura had no knowledge of Cleo’s pre-filing financial difficulties or issues with the Alberta
+           Energy Regulator, which events gave rise to Termination Events (as that term is defined in the
+           Prepayment Agreement), as such events were concealed from Trafigura by Cleo until after the
+           Filing Date.
+
+4.         At no point prior to the Filing Date was Trafigura given notice of the impending insolvency or
+           the events constituting Termination Events and willful breach of the Prepayment Agreement.
+           Had Trafigura been given such notice, it could have then worked with Cleo to find a solution
+           (as it had been working with Cleo over the past number of months to assist in managing its
+           cash flows).    However, given Cleo’s actions, Trafigura was not given the opportunity to
+           exercise its rights in the Prepayment Agreement (including set-off) until now.
+
+Trafigura’s Right of Set-Off
+
+5.         Pursuant to section 11.1 of the Prepayment Agreement, the occurrence of certain enumerated
+           events constitute a Termination Event.
+
+6.         Pursuant to section 11.2 of the Prepayment Agreement, upon the occurrence of a Termination
+           Event, Trafigura becomes entitled to take a number of different actions, including canceling all
+           advances made pursuant to the Prepayment Agreement, declaring any advances to be
+
+
+
+
+120712734 v3
+                                                        -4-
+
+
+
+           immediately due and payable by Cleo to Trafigura in cash and exercising any or all of its other
+           rights, remedies, powers or discretions under the Transaction Documents (as defined in the
+           Prepayment Agreement).
+
+7.         Prior to the Filing Date, had Cleo not concealed its financial difficulties and difficulties with the
+           AER (as detailed in the Affidavit of Chris Lewis, sworn December 22, 2024 and the Affidavit of
+           Chris Lewis, sworn December 23, 2024) which constitute Termination Events under the
+           Prepayment Agreement, Trafigura would have been in a position to demand repayment and
+           set-off the $754,644.77 in funds owing to Cleo for November 2024 oil sales (the “November
+           Oil Revenues”) against the Owed Amount.
+
+8.         Regardless, the Termination Events occurred before the Filing Date and the Owed Amount
+           therefore became due and owing before the Filing Date and constitutes a pre-filing debt. As a
+           pre-filing debt owed by Cleo, Trafigura is entitled to set-off against pre-filing debts owed to
+           Cleo pursuant to section 97(3) of the BIA. The November Oil Revenues is revenue on oil
+           sales accrued during the month of November 2024, prior to the Filing Date, and therefore
+           constitute a pre-filing debt.
+
+9.         Furthermore, the entire premise of the Prepayment Agreement was to allow for fulsome set-off
+           rights. The Owed Amount was due and owing, regardless of whether it had matured, as, for
+           the purpose of set-off, a debt is payable regardless of whether it is payable now or at a future
+           time.
+
+Prejudice to Trafigura
+
+10.        If Trafigura is forced to pay the Owed Amount to Cleo at this time, it will suffer irreparable
+           prejudice as it will lose the ability to claim its contractually bargained for set-off rights at a later
+           date as the Cleo will have spent the Owed Amount on various pending expenses within the
+           next three weeks and any further oil revenues collected by Trafigura will be post-filing and
+           therefore will not be eligible for set-off against pre-filing debts.
+
+11.        This prejudice could be partially mitigated by preserving Trafigura’s right to assert and argue
+           its set-off rights at a later date and protecting such right with the Trafigura Charge, though
+           some prejudice will still remain as such a charge will only preserve Trafigura’s right to the
+           extent that any funds in the estate ultimately exceed the Administrative Charge and any DIP
+           Lender Charge.
+
+12.        Such further and other grounds as counsel may advise and this Honourable Court may permit.
+
+
+
+
+120712734 v3
+                                                     -5-
+
+
+
+Material or evidence to be relied on:
+
+13.        All pleadings and proceedings filed in the within Action;
+
+14.        The Affidavit of Ethan Post, sworn on December 23, 2024;
+
+15.        The proposed form of Order; and
+
+16.        Such further and other material as counsel for Trafigura may advise and this Honourable
+           Court may permit.
+
+Applicable rules:
+
+17.        The Alberta Rules of Court, AR 124/2010, as amended; and
+
+18.        Such further and other Acts and regulations as counsel may advise and this Honourable Court
+           may permit.
+
+Applicable Acts and regulations:
+
+19.        The BIA; and
+
+20.        Such further and other acts and regulations as counsel for the Lenders may advise or this
+           Honourable Court may permit.
+
+Any Irregularity Complained of or Objection Relied on:
+
+21.        There are no irregularities complained of or objections relied on.
+
+How the Application is Proposed to be Heard or Considered
+
+22.        Before the Honourable Justice M. Hollins on December 26, 2024 at 10:00 a.m.
+
+
+WARNING
+If you do not come to Court either in person or by your lawyer, the Court may give the applicant
+what they want in your absence. You will be bound by any order that the Court makes. If you
+want to take part in this application, you or your lawyer must attend in Court on the date and at
+the time shown at the beginning of this form. If you intend to rely on an affidavit or other evidence
+when the application is heard or considered, you must reply by giving reasonable notice of the
+material to the applicant.
+
+
+
+
+120712734 v3
+               -6-
+
+
+
+
+120712734 v3
+
