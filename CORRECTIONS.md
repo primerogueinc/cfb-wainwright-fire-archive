@@ -2,6 +2,13 @@
 
 Prime Rogue corrects errors in this archive in new commits, so the history shows what changed and when. The working-model v4 material is also preserved exactly as published under the [`v4-published`](https://github.com/primerogueinc/cfb-wainwright-fire-archive/tree/v4-published) tag. Later work is in [part 2](https://github.com/primerogueinc/cfb-wainwright-fire-archive-2), which carries the same list.
 
+## Nov. 3, 2026
+
+| # | What we published | Correct figure | Where fixed |
+|---|---|---|---|
+| 1 | Sumerian holds about 363 km of operating gas pipeline (525 km total) within 12 km of the site | **About 166 km operating, 178 km total.** 363/525 km was the whole pipeline extract, not the 12 km area. | `data/reference/sumerian/SUMERIAN_HEADS_UP.md` |
+| 2 | "We have not confirmed how the licences passed from Cleo to Sumerian" | **Confirmed:** no transfer. Sumerian is Cleo Energy Corp. renamed (Nov. 24, 2025) after a share purchase by 2698902 Alberta Corp. under a reverse vesting order. | `data/reference/sumerian/SUMERIAN_HEADS_UP.md`; details in `OWNERSHIP_AND_RECEIVERSHIP.md` |
+
 ## Oct. 28, 2026
 
 | # | What we published | Correct figure | Where fixed |

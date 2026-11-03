@@ -24,14 +24,14 @@ Cleo's public record:
 - **Nov. 14, 2025.** The receiver's court page lists a later "Transaction Approval and RVO" order.
 - **Dec. 18, 2025.** The page also lists an "Order (Department of Justice)."
 
-We have **not** confirmed how the licences passed from Cleo to Sumerian. It could have been a transfer or a renamed company after a reverse-vesting sale.
+**Update, Nov. 3, 2026:** confirmed. The licences did not pass at all: Sumerian *is* Cleo, renamed on Nov. 24, 2025, after 2698902 Alberta Corp. bought all of Cleo's shares through a revised reverse-vesting order (approved Nov. 14, closed Nov. 19, 2025). Ownership, court records and open questions: `OWNERSHIP_AND_RECEIVERSHIP.md`.
 
 ## What our mapping shows (12 km around the site)
 
 - **Wells.** 418 licensed wells are within 12 km, and **152 (36%) are Sumerian's**:
   - 61 issued, 26 suspended, 7 amended, 52 abandoned, 3 reclamation-certified, 3 cancelled;
   - 12 are classed as single wells with some H2S (under 0.01 m3/s release rate); 32 are classed as sweet (0.00 mol/kmol H2S).
-- **Pipelines.** Every pipeline segment Sumerian holds in our area carries natural gas: about **363 km operating**, out of 525 km in total.
+- **Pipelines.** Every pipeline segment Sumerian holds in our area carries natural gas: about **166 km operating**, out of 178 km in total. (Corrected Nov. 3, 2026: we first published 363 km operating of 525 km, which was the whole pipeline extract, not the 12 km area. See `CORRECTIONS.md`.)
 - **Nearest well to Range 15.** It is Sumerian's: **licence 0223643**, issued (not abandoned), about **370 m** from Range 15 and about **95 m** outside the burn outline.
 - **Next nearest.** Sumerian **0271510** is issued and classed as a single well with H2S below 0.01 m3/s release rate. It is about **630 m** from Range 15 and about 290 m outside the burn.
 - **Wells inside the burn.** No Sumerian well is inside the burn outline. Six are within 500 m of it, nine within 1 km and 18 within 2 km.
