@@ -1,0 +1,859 @@
+                                                               C41402
+
+ COURT FILE NUMBER      25-3163430 / B301-163430
+                                                                         FILED
+                                                                         Clerk’s Stamp
+                                                                        Apr 24, 2025
+ COURT                  COURT OF KING’S BENCH OF ALBERTA
+
+ JUDICIAL CENTRE        CALGARY                                          by Email
+                        AND IN THE MATTER OF THE BANKRUPTCY AND                          COM
+                        INSOLVENCY ACT, RSC 1985, c B-3, AS AMENDED                      April 30, 2025
+
+
+ APPLICANTS             IN THE MATTER OF THE NOTICE OF INTENTION TO
+                        MAKE A PROPOSAL OF CLEO ENERGY CORP.
+
+ DOCUMENT               FIFTH REPORT OF ALVAREZ & MARSAL CANADA INC.
+                        IN ITS CAPACITY AS PROPOSAL TRUSTEE UNDER THE
+                        NOTICE OF INTENTION TO MAKE A PROPOSAL
+
+                        April 24, 2025
+
+ ADDRESS FOR SERVICE    PROPOSAL TRUSTEE
+ AND CONTACT            ALVAREZ & MARSAL CANADA INC.
+ INFORMATION OF PARTY   Bow Valley Square IV
+ FILING THIS DOCUMENT   Suite 1110, 250 – 6th Avenue SW
+                        Calgary, Alberta T2P 3H7
+                        Orest Konowalchuk / David Williams
+                        Telephone: (403) 538-4736/(403) 538-7536
+                        Email: okonowalchuk@alvarezandmarsal.com
+
+
+                        COUNSEL TO THE PROPOSAL TRUSTEE
+                        Miller Thomson LLP
+                        Barristers & Solicitors
+                        Eighth Avenue Place East
+                        525-8th Avenue S.W., 43rd Floor
+                        Calgary, Alberta T2P 1G1
+                        James Reid
+                        Telephone: (403) 298-2418
+                        Email: jwreid@millerthomson.com
+
+
+
+
+84384205.2
+67315298\1
+      TABLE OF CONTENTS OF THE FIFTH REPORT OF THE PROPOSAL
+                                                         TRUSTEE
+
+INTRODUCTION .............................................................................................................3
+
+PURPOSE ...........................................................................................................................7
+
+TERMS OF REFERENCE ...............................................................................................8
+
+LIMITATION IN SCOPE OF REVIEW ........................................................................9
+
+ACTIVITIES OF THE COMPANY AND THE PROPOSAL TRUSTEE ..................9
+
+UPDATE ON THE SSP ...................................................................................................11
+
+ACTUAL CASH FLOW RESULTS COMPARED TO FORECAST ........................12
+
+UPDATED CASH FLOW FORECAST ........................................................................14
+
+APPROVAL OF PROFESSIONAL FEES AND EXPENSES ....................................16
+
+SEALING ORDER ..........................................................................................................17
+
+APPLICATION TO EXTEND THE TIME TO FILE A PROPOSAL ......................18
+
+PROPOSAL TRUSTEE’S RECOMMENDATION .....................................................19
+
+
+
+    LISTING OF APPENDICES TO THE FIFTH REPORT OF THE PROPOSAL
+                             TRUSTEE
+
+APPENDIX A                                             Updated Cash Flow Forecast
+
+CONFIDENTIAL APPENDIX 1                               SSP Bid Summary
+
+
+
+
+                                                                 2
+INTRODUCTION
+
+1.    On December 8, 2024 (the “Filing Date”), Cleo Energy Corp. (“Cleo” or the
+      “Company”) filed a Notice of Intention to Make a Proposal (“NOI” or the
+      “Filing”) pursuant to subsection 50.4(1) of the Bankruptcy and Insolvency Act,
+      RSC 1985, c B-3, as amended (the “BIA”). Alvarez & Marsal Canada Inc.
+      consented to act as Trustee under the Proposal (“A&M” or the “Proposal
+      Trustee”) (the “NOI Proceedings”).
+
+2.    Pursuant to section 50.4(8) of the BIA, the initial NOI period during which the
+      Company is required to file a proposal under the NOI Proceedings is from
+      December 8, 2024 to January 7, 2025, or as further extended by order of this Court
+      (the “Initial NOI Period”).
+
+December 13 Application
+
+3.    On December 13, 2024, Cleo sought and obtained an order (the “Garnished Funds
+      Order”), which provided for certain relief, including:
+
+              a)   authorizing and directing RBC to issue an additional bank draft in the
+                   amount of $152,426, payable to the Government of Alberta (the
+                   “Duplicate Draft”), which the Court will not deposit; and
+
+              b) ordering that the Duplicate Draft be held by RBC and be deemed to
+                   have been returned by the Court or the Government of Alberta to RBC,
+                   thereby allowing RBC to return the Duplicate Draft to Cleo’s bank
+                   account (the “Garnished Funds”).
+
+4.    On January 15, 2025, an amended Garnished Fund Order was granted by the Court
+      to provide certain protections as against RBC in cancelling the Duplicate Draft and
+      re-issuing a new bank draft. Cleo received the Garnished Funds on February 4,
+      2025.
+
+
+
+
+                                           3
+January 6 Application
+
+5.    On January 6, 2024, the Company sought and obtained the following relief from
+      this Honourable Court:
+
+             a)     an extension of the Initial NOI Period within which the Company is
+                    required to file a proposal to its creditors to February 21, 2025 (the
+                    “Stay Period”);
+
+             b) approval of an interim financing facility (the “Interim Financing
+                    Facility”) provided by uCapital - uLoan Solutions Inc. (“uCapital” or
+                    the “Interim Lender”); and
+
+             c)     approval of the following charges over the assets, undertaking and
+                    property of Cleo (the “Property”), in the following relative priorities:
+
+                   i.   First – a charge in favour of the Proposal Trustee, its legal counsel
+                        and Cleo’s legal counsel in respect of their fees and disbursements
+                        to a maximum amount of $700,000 (the “Administration
+                        Charge”);
+
+                  ii.   Second – a charge in favour of the Interim Lender, in the amount
+                        of $900,000 for the Interim Financing Facility to be provided under
+                        the Interim Financing Term Sheet (the “Interim Lender’s
+                        Charge”); and
+
+               iii.     Third – a charge in favour of the Company’s directors and officers,
+                        securing the Company’s indemnification obligations to them, to a
+                        maximum amount of $250,000 (the “D&O Charge”).
+
+January 10 Application
+
+6.    On January 10, 2025, the Court rendered a decision dismissing the Company’s
+      request for a stay of proceedings during the Stay Period for any claims against Chris
+      Lewis in his capacity as a director and officer of Cleo.
+
+
+
+
+                                             4
+January 22 Application
+
+7.    On January 22, 2025, the Company sought and obtained the following relief from
+      this Honourable Court:
+
+             a)   a sales and solicitation process (“SSP”) under which the Property will
+                  be marketed and sold (the “Sales Process Order”); and
+
+             b) a stay of Trafigura’s right to effect set-off under the Prepayment
+                  Agreement of monthly payments owing by Cleo to Trafigura as against
+                  monthly payments by Trafigura to Cleo under the Commercial
+                  Agreement and dismissing Trafigura’s cross-application.
+
+February 19 Application
+
+8.    On February 19, 2025, the Company sought and obtained the following relief from
+      this Honourable Court:
+
+             a)   an extension of the Stay Period within which the Company is required
+                  to file a proposal to its creditors to April 4, 2025;
+
+             b) an amendment to the Interim Financing Facility (the “Amended
+                  Interim Financing Facility”), which increases the amount Cleo is
+                  authorized to borrow under the Interim Financing Facility from
+                  $750,000 to $1,000,000;
+
+             c)   an increase to the Interim Lender’s Charge, in favour of uCapital, from
+                  $900,000 to $1,000,000 (the “Amended Interim Lender’s Charge”),
+                  together with any interest accrued thereon or costs and expenses
+                  incurred thereunder; and
+
+             d) approval of the Proposal Trustee’s and its counsel’s fees and
+                  disbursements up to January 31, 2025.
+
+March 25 Application
+
+9.    On March 25, 2025, the Company sought and obtained the following relief from
+      this Honourable Court:
+
+
+
+                                             5
+              a)   an extension of the Stay Period within which the Company is required
+                   to file a proposal to its creditors to May 9, 2025;
+
+              b) approving the Asset Purchase Agreement between Cleo and IHH
+                   Energy Corp. ("IHH Energy") (the "IHH Energy APA") and the
+                   transaction contemplated therein (the “IHH Transaction”), and a
+                   corresponding sale approval and vesting order ("IHH Energy
+                   SAVO");
+
+              c)   approving the Asset Purchase Agreement between Cleo and Nuova
+                   Strada Ventures Ltd. ("Nuova Strada") (the "Nuova Strada APA")
+                   and the transaction contemplated therein (the “Nuova Strada
+                   Transaction”), and a corresponding sale approval and vesting order
+                   ("Nuova Strada SAVO");
+
+              d) approving the Asset Purchase Agreement between Cleo and Surge
+                   Energy Inc. ("Surge Energy") (the "Surge Energy APA") and the
+                   transaction contemplated therein (the “Surge Energy Transaction”),
+                   and a corresponding sale approval and vesting order ("Surge Energy
+                   SAVO”, with the IIH Energy SAVO, Nuova Strada SAVO and Surge
+                   Energy SAVO, the “SAVOs”); and
+
+              e)   the Proposal Trustee’s request for the approval of the professional fees
+                   and disbursements of the Proposal Trustee up to March 7, 2025 and the
+                   Proposal Trustee’s counsel up to February 28, 2025.
+
+April 30 Application
+
+10.    The Company has filed an application with this Honourable Court, returnable April
+       30, 2025 (the “April 30th Application”). The relief sought by the Company and the
+       Proposal Trustee at the April 30th Application includes:
+
+              a)   extending the Stay Period within which the Company is required to file
+                   its proposal to its creditors by an additional 30 days from May 9, 2025
+                   to June 8, 2025 (the “Stay Extension”);
+
+
+
+                                             6
+                 b) the Company’s request for an Order (the “Sealing Order”) temporarily
+                       sealing Confidential Appendix 1 to this Report;
+
+                 c)    the Proposal Trustee’s request for the approval of the professional fees
+                       and disbursements of the Proposal Trustee for the period of March 8,
+                       2025 to April 18, 2025 and the Proposal Trustee’s counsel for the
+                       period from March 1, 2025 to April 18, 2025;
+
+                 d) the Proposal Trustee’s request for the approval of the Proposal
+                       Trustee’s activities and conduct; and
+
+                 e)    such further and other relief as may be sought by the Company and this
+                       Honourable Court may deem appropriate in the NOI Proceedings.
+
+11.     Capitalized terms not otherwise defined in this Proposal Trustee’s Fifth Report (this
+        “Report” or the “Fifth Report”) have the meaning given to them in the Prior
+        Proposal Trustee Reports1, the Lewis Affidavits2 or such other materials filed by
+        Cleo and the Proposal Trustee in these NOI Proceedings. All materials filed on
+        these NOI Proceedings can be found on the Proposal Trustee’s website at:
+        https://www.alvarezandmarsal.com/CLEO.
+
+PURPOSE
+
+12.     The purpose of the Fifth Report is to provide the Court and the Company’s
+        stakeholders with information in respect of the following:
+
+                 a)    the activities of the Company and the Proposal Trustee since the Fourth
+                       Report dated March 19, 2025;
+
+
+
+
+1
+  The First Report of the Proposal Trustee dated January 6, 2025 (the “First Report”), the Second Report of
+the Proposal Truste dated January 20, 2025 (the “Second Report”), the Third Report of the Proposal Trustee
+dated February 12, 2025 (the “Third Report”) and the Fourth Report of the Proposal Trustee dated March
+19, 2025 (the “Fourth Report”).
+2
+  Includes the Affidavits of Chris Lewis sworn on December 11, 2024, December 22, 2024, December 23,
+2024, December 24, 2024, January 5, 2024, January 20, 2025, February 10, 2025, March 17, 2025 and April
+22, 2025.
+
+
+                                                    7
+             b) an update on the status of the IHH Energy Transaction, the Nuova
+                  Strada Transaction and the Surge Energy Transaction;
+
+             c)   an update on the SSP and the Company’s negotiations with the
+                  remaining Qualified Bidders;
+
+             d) the Company’s actual cash flow receipts and disbursements as
+                  compared to the cash flow forecast appended to the Fourth Report for
+                  the period of March 8, 2025 to April 18, 2025;
+
+             e)   the Company’s updated cash flow forecast through to June 8, 2025 (the
+                  “Updated CF Forecast”);
+
+             f)   the Proposal Trustee’s request for the approval of the professional fees
+                  and disbursements of the Proposal Trustee for the period of March 8,
+                  2025 to April 18, 2025 and Miller Thomson LLP (“Miller Thomson”
+                  or the “Proposal Trustee’s Counsel”) for the period from March 1,
+                  2025 to April 18, 2025;
+
+             g) the Proposal Trustee’s request for approval of the Proposal Trustee’s
+                  activities and conduct since the filing of the Fourth Report;
+
+             h) the reasons underlying the Company’s request for approval of the
+                  Sealing Order concerning Confidential Appendix 1; and
+
+             i)   the Proposal Trustee’s recommendations with respect to the above.
+
+TERMS OF REFERENCE
+
+13.   In preparing this Report, the Proposal Trustee has relied upon unaudited financial
+      information and other information provided by the Company and other third parties.
+      The Proposal Trustee has not performed an audit, review, or other verification of
+      such information. An examination of the financial forecast as outlined in the
+      Chartered Professional Accountants of Canada Handbook has not been performed.
+
+
+
+
+                                            8
+14.   Future oriented financial information relied upon in this Report is based on the
+      Company’s assumptions regarding future events and actual results achieved will
+      vary from this information and the variations may be material.
+
+15.   All references to dollars are in Canadian currency unless otherwise noted.
+
+LIMITATION IN SCOPE OF REVIEW
+
+16.   The Report has been prepared by the Proposal Trustee pursuant to the rules and
+      regulations set out in the BIA. The BIA provides that the Proposal Trustee shall
+      incur no liability for any act or omission pursuant to its appointment or fulfillment
+      of its duties, save and except for gross negligence or wilful misconduct on its part.
+
+17.   This Report is not and should not be construed or interpreted as an endorsement,
+      comment or recommendation to any creditor, prospective investor, or any persons
+      to advance credit and/or goods and services or to continue to provide credit and/or
+      goods and services or to lend monies to the Company during these proceedings
+      and/or at any other time.
+
+18.   The Proposal Trustee has not audited or reviewed the assets of the Company, and
+      with respect to such assets, has relied to a significant degree upon information
+      provided by the Company.
+
+19.   The Proposal Trustee is specifically not directed or empowered to take possession
+      of the assets of the Company or to manage any of the business and affairs of the
+      Company.
+
+ACTIVITIES OF THE COMPANY AND THE PROPOSAL TRUSTEE
+
+20.   The Proposal Trustee and Management’s activities since the filing of the Fourth
+      Report have included, among other things, the following:
+
+             a)   various discussions between Management, the Proposal Trustee, Miller
+                  Thomson (independent legal counsel to the Proposal Trustee) and the
+                  Company’s legal counsel (together with the Proposal Trustee and
+
+
+                                            9
+     Miller Thomson, the “NOI Professionals”) relating to matters relevant
+     to the NOI Proceedings;
+
+b) multiple communication and meetings between Sayer Energy Advisors
+     (“Sayer”) pertaining to the SSP;
+
+c)   assisting the Company and Sayer to close the IHH Energy Transaction,
+     Nuova Strada Transaction, and the Surge Energy Transaction;
+
+d) reviewing the offers received from Qualified Bidders on the Revised
+     Binding Bid Deadline (defined below) and assisting Sayer and the
+     Company with negotiations, as required;
+
+e)   providing an update to the Alberta Energy Regulator (“AER”) on the
+     status of the NOI Proceedings, the SSP and negotiations with the
+     Qualified Bidders who presented Qualified Bids on the Revised
+     Binding Bid Deadline;
+
+f)   reviewing and discussing weekly payables with the Company;
+
+g) continued monitoring of the Company’s actual cash flow results and
+     evaluating the cash flow needs of the Company;
+
+h) engaging in discussions with TransAlta regarding certain revised
+     prepayment arrangements for power;
+
+i)   assisting Management in preparing the Updated CF Forecast along with
+     assumptions, collectively attached as Appendix “A”; and
+
+j)   ongoing monitoring of the Company’s financial affairs and activities
+     by the Proposal Trustee.
+
+
+
+
+                               10
+UPDATE ON THE SSP3
+
+Surge, IHH and Nuova Strada Transactions
+
+21.     On March 31, 2025, the Company completed the Surge Transaction following the
+        satisfaction of all material conditions precedent to closing, as outlined in the Surge
+        APA, and the payment of the purchase price to the Proposal Trustee. This
+        Honourable Court previously granted the Surge SAVO, authorizing the sale of the
+        purchased assets to Surge.
+
+22.     On April 1, 2025, the Company completed the IHH Transaction following the
+        satisfaction of all material conditions precedent to closing, as outlined in the IHH
+        APA, and the payment of the purchase price to the Proposal Trustee. This
+        Honourable Court previously granted the IHH SAVO, authorizing the sale of the
+        purchased assets to IHH.
+
+23.     On April 4, 2025, the Company completed the Nuova Strada Transaction following
+        the satisfaction of all material conditions precedent to closing, as outlined in the
+        Nuova Strada APA, and the payment of the purchase price to the Proposal Trustee.
+        This Honourable Court previously granted the Nuova Strada SAVO, authorizing
+        the sale of the purchased assets to Nuova Strada.
+
+24.     As of the date of this Report, the Proposal Trustee has distributed the majority of
+        the funds received from the Surge, IHH, and Nuova Strada transactions (the
+        “Transaction Funds”) to pay outstanding professional fees secured by the
+        Administration Charge, including those of the Proposal Trustee up to March 28,
+        2025, the Proposal Trustee’s Counsel up to March 31, 2025, and the Company’s
+        counsel up to March 31, 2025, in accordance with the SAVOs granted on March
+        25, 2025. The remaining Transaction Funds will be used to pay the ongoing fees
+        and costs of the NOI Professionals secured by the Administration Charge.
+
+
+
+3
+  Capitalized terms used in this section and not otherwise defined shall have meanings ascribed to them in
+the SSP and the Sales Process Order.
+
+
+                                                   11
+SSP Negotiations
+
+25.   As discussed in the Fourth Report, the Proposal Trustee sent an email to the
+      remaining Qualified Bidders extending the Bid Submission Date to March 27, 2025
+      (the “Revised Binding Bid Deadline”). Multiple Qualified Bids were received by
+      the Revised Binding Bid Deadline and are included in the SSP Bid Summary
+      prepared by Sayer and attached as Confidential Appendix 1 to this Report.
+
+26.   The Company, with the assistance of the Proposal Trustee and Sayer, is in the
+      process of negotiating final purchase agreements with certain Qualified Bidders
+      who submitted Qualified Bids by the Revised Binding Bid Deadline. Further
+      updates on the status of these transactions will be provided in anticipated future
+      applications to this Honourable Court for approval of such transactions.
+
+ACTUAL CASH FLOW RESULTS COMPARED TO FORECAST
+
+27.   The Company’s actual cash receipts and disbursements as compared to the cash
+      flow forecast appended to the Fourth Report (the “Prior CF Forecast”) during the
+      period of March 8, 2025 to April 18, 2025 (the “Reporting Period”) is summarized
+      below:
+
+
+
+
+                                          12
+      Cleo Energy Corp.
+      6 Week Cash Flow Ending April 18, 2025
+      $CAD 000's                               Notes   Forecast      Actuals       Variance
+       Cash Receipts
+         Sales (production settlement)          a           775          725            (50)
+         Other receipts                         b               15         51               36
+       Total cash receipts                                  790          776            (14)
+
+
+       Cash Disbursements
+         Payroll and benefits                               263          264                (1)
+         Source Deductions                      c           199          175                24
+         Operating and transportation           d           144          169            (25)
+         Mineral & Surface Leases               e               90            51            39
+         Utilities                              f           275          135            140
+         Royalties                                          -                  1            (1)
+         General and administrative                             85            87            (2)
+         Professional fees                      g               95        -                 95
+         Sales Agent Fees                                   -                  6            (6)
+         Interim Financing Facility Interest                    35            30             5
+        Bank Fees                                           -              1                (1)
+       Total cash disbursements                           1,186          913            273
+       Net Cash Flow                                       (395)         (143)          287
+       Net Change in Cash
+         Beginning of period                                429          429            -
+         Net cash flow                                     (395)         (143)          252
+         Interim Financing                                  -             -             -
+       Ending of period                                         34       286            252
+
+
+
+During the Reporting Period, the primary variances include:
+
+       a)    a permanent negative variance relating to production receipts due to a
+             variance in actual commodity prices and production as compared to the
+             Prior CF Forecast;
+
+       b) a permanent positive variance in other receipts relating to revenue from
+             a crypto-currency mining arrangement that occurred prior to
+             expectations;
+
+       c)    a temporary positive timing variance driven by the Company paying
+             post-Filing source deductions over a longer timeframe than the Prior
+             CF Forecast initially contemplated;
+
+                                               13
+             d) a permanent negative variance attributable to higher than forecast
+                  operational expenditures to improve production;
+
+             e)   a temporary positive variance due to delays in payment of certain
+                  royalties;
+
+             f)   a temporary positive variance as a result of utilities pre-payments and
+                  actuals being less than the Prior CF Forecast; and
+
+             g) a temporary positive timing variance driven by delayed payments of
+                  fees to professionals as compared to the Prior CF Forecast.
+
+UPDATED CASH FLOW FORECAST
+
+28.   Management, with the assistance of the Proposal Trustee, has prepared the Updated
+      CF Forecast for the 7-week period from April 19, 2025 to June 8, 2025 (the
+      “Forecast Period”). The notes to the Updated CF Forecast are an integral part of,
+      and should be read in conjunction with, the Updated CF Forecast. The Updated CF
+      Forecast and notes are included in Appendix “A”.
+
+29.   A summary of the Updated CF Forecast is below:
+
+
+
+
+                                          14
+                  Cleo Energy Corp.
+                  7-Week Cash Flow Forecast ending June 8, 2025
+                  $CAD 000's                                      Notes   Forecast
+                  Cash Receipts
+                    Sales (production settlement)                  a         1,724
+                    Other receipts                                             -
+                  Total cash receipts                                        1,724
+                  Cash Disbursements
+                    Payroll and benefits                                       344
+                    Source Deductions                                          196
+                    Operating and transportation                               224
+                    Mineral & Surface Leases                                   110
+                    Utilities                                      b           285
+                    General and administrative                                 151
+                    Professional fees                                          335
+                    Sales Agent Fees                                           -
+                    Interim Financing Facility Interest             c           60
+                  Total cash disbursements                                   1,705
+                  Net Cash Flow                                                 19
+                  Net Change in Cash
+                    Beginning of period                                        286
+                    Net cash flow                                               19
+                    Interim Financing                               c          -
+                  Ending of period                                             304
+
+
+30.   The following notes and assumptions are an integral part of the Updated CF
+      Forecast:
+
+             a)   pricing is based on the forward strip for WTI as of March 28, 2025. The
+                  differentials (discount to WTI) are the actual for April and a projection
+                  from the Company’s marketer (both light and heavy differentials are
+                  handled this way). The forward exchange rate is used to convert to
+                  Canadian Dollars as at the last business day of each month. Proceeds
+                  from production are generally received on the 25th day of the following
+                  month (or the following business day). Receipts are shown net of any
+                  working partner interest and take-in-kind royalties and include
+                  collection of 5% GST.
+
+             b) utilities primarily consist of payments to TransAlta for the Company's
+                  monthly power consumption. The Company has agreed to make pre-
+
+                                                   15
+                        payment installments to TransAlta for the following month’s estimated
+                        power usage on the 25th of each month, when the Company collects its
+                        production revenues.
+
+                  c)    the Updated CF Forecast assumes interest will be paid to the Interim
+                        Lender on a monthly basis, based on the terms of the Interim Financing
+                        Term Sheet.
+
+31.     The Company forecasts that over the course of the proposed Stay Extension that
+        the Company will experience a surplus of approximately $19,000 without any
+        further SSP sales proceeds and with extremely lean operational and capital
+        spending and the payment of professional fees.
+
+APPROVAL OF PROFESSIONAL FEES AND EXPENSES
+
+32.     The Proposal Trustee seeks approval from this Honourable Court of the
+        professional fees and disbursements of the Proposal Trustee for the period of March
+        8, 2025 to April 18, 2025 (the “Proposal Trustee Interim Taxation Period”) and
+        Miller Thomson for the period from March 3, 2025 to April 18, 2025 (the “Miller
+        Thomson Interim Taxation Period”).
+
+33.     The total fees and expenses of the Proposal Trustee during the Proposal Trustee
+        Interim Taxation Period are $58,226 (exclusive of GST), a summary of which is
+        included below:
+
+                                               Cleo Energy Corp.
+                             Summary of the Proposal Trustee's Statements of Account
+                                  For the period Mar 8, 2025 to Apr 18, 2025
+ Invoice               Period                Fees      Disbursements       Subtotal    GST       Total
+Alvarez & Marsal Canada
+   7     Mar 8, 2025 to Mar 28, 2025            45,710            -           45,710     2,286     47,996
+   8     April 1, 2025 to April 18, 2025        12,516            -           12,516       626     13,142
+         Total                                  58,226            -           58,226     2,911     61,137
+
+
+34.     The total fees and expenses of the Proposal Trustee's Counsel during the Miller
+        Thomson Taxation Period are $43,167 (exclusive of GST), a summary of which is
+        included below:
+
+
+
+
+                                                     16
+                                             Cleo Energy Corp.
+                      Summary of the Proposal Trustee's Counsel's Statements of Account
+                                 For the period Mar 3, 2025 to Apr 18, 2025
+ Invoice             Period                Fees      Disbursements       Subtotal         GST       Total
+Miller Thomson LLP
+4110992 Mar 3, 2025 to Mar 31, 2025           34,503            100         34,602          1,730     36,332
+4120427 April 1, 2025 to April 18, 2025        8,565            -            8,565            428      8,993
+         Total                                43,067            100         43,167          2,158     45,325
+
+
+35.     The Proposal Trustee and Miller Thomson invoices (the “Invoices”) outline the
+        date of the work completed, the description of the work completed, the length of
+        time taken to complete the work and the name of the individual who completed the
+        work. Copies of the Invoices will be made available to the Court upon request (if
+        necessary).
+
+36.     In the Proposal Trustee’s respectful view, its fees and those of Miller Thomson are
+        fair and reasonable under the circumstances, and the Proposal Trustee therefore
+        respectfully requests the Court’s approval of these accounts.
+
+SEALING ORDER
+
+37.     The Company is seeking a Sealing Order temporarily sealing Confidential
+        Appendix 1, which includes a summary of Qualified Bids received by the Revised
+        Binding Bid Deadline, as well as copies of each Qualified Bid received, on the
+        Court record.
+
+38.     Confidential Appendix 1 includes sensitive market information. The sealing of this
+        type of sensitive market information is the common practice in insolvency
+        proceedings to avoid negative impacts to the SSP. Cleo and Sayer, with the
+        oversight of the Proposal Trustee, are continuing to negotiate sales of its remaining
+        properties, and if Confidential Appendix 1 were made publicly available, such
+        negotiations and realizations would be negatively impacted. This poses a serious
+        risk to an important public interest, namely maintaining the integrity of the public
+        interest, and the Sealing Order is necessary to prevent this risk. The Proposal
+        Trustee does not believe that any stakeholder will be prejudiced if the information
+
+
+
+
+                                                   17
+      is sealed or any public interest that will be served if the terms of Confidential
+      Appendix 1 is disclosed in full.
+
+39.   As such, the Proposal Trustee is respectfully of the view that it is appropriate for
+      this Honourable Court to seal Confidential Appendix 1 until (a) the Proposal
+      Trustee files a certificate terminating the SSP; or (b) further order of the Court, in
+      accordance with the proposed form of Sealing Order.
+
+APPLICATION TO EXTEND THE TIME TO FILE A PROPOSAL
+
+40.   Unless it is extended, the Stay Period will expire on May 9, 2025, and the Company
+      is seeking an extension of the period in which it is required to file a proposal to
+      June 8, 2025, pursuant to section 50.4 (9) of the BIA.
+
+41.   The Proposal Trustee considered the Stay Extension request of the Company and
+      the circumstances currently facing the Company and is supportive of a 30 day Stay
+      Extension from May 9, 2025 to June 8, 2025.
+
+42.   The Stay Extension should serve to provide the Company with the time required to,
+      among other things: (i) maintain its repair and maintenance program and continue
+      to stabilize its daily production, while maintaining the required cash flows to
+      facilitate adequate operational compliance; (ii) continue working with Sayer and
+      Proposal Trustee in the marketing of its properties and advancing the SSP; (iii)
+      complete one or more transactions with Qualified Bidders; (iv) enter into additional
+      APA’s with Successful Bidders and move forward with completing the SSP.
+
+43.   The Proposal Trustee considered the following factors regarding the Stay
+      Extension:
+
+             a)    the Company is acting in good faith and with due diligence;
+
+             b) the Company would likely be able to make a viable proposal if the Stay
+                   Period were to be extended; and
+
+             c)    no creditor in these proceedings will be materially prejudiced if the
+                   extension were to be granted.
+
+
+                                           18
+44.   It is the Proposal Trustee’s respectful view that, to date, Management has been
+      acting in good faith and with due diligence in this matter. The Company has been
+      made aware of the good faith and acting with due diligence obligations pursuant to
+      section 50.4(9) of the BIA.
+
+45.   The Proposal Trustee is of the view that an extension to June 8, 2025 is appropriate
+      and necessary for the Company to advance efforts to achieve a successful
+      restructuring, and that no stakeholder or creditor is likely to be materially
+      prejudiced if an extension is granted.
+
+46.   Without an extension to the stay of proceedings, the Company will not be able to
+      complete the SSP and restructure its affairs.
+
+PROPOSAL TRUSTEE’S RECOMMENDATION
+
+47.   The Proposal Trustee respectfully recommends that this Honourable Court approve
+      and grant the following:
+
+             a)   extending the Stay Period within which the Company is required to file
+                  a proposal to its creditors by an additional 30 days from May 9, 2025
+                  to June 8, 2025;
+
+             b) the professional fees and costs of the Proposal Trustee during the
+                  Proposal Trustee Interim Taxation Period and its counsel during the
+                  Miller Thomson Interim Taxation Period;
+
+             c)   the conduct and activities of the Proposal Trustee;
+
+             d) the Sealing Order; and
+
+             e)   such further and other relief sought by the Company or Proposal
+                  Trustee in connection with the April 30th Application.
+
+
+
+
+                                           19
+All of which is respectfully submitted this 24th day of April, 2025
+
+ALVAREZ & MARSAL CANADA INC.,
+in its capacity as Proposal Trustee of the Company
+and not in its personal or corporate capacity
+
+
+
+
+_____________________                                _____________________
+Orest Konowalchuk, CPA, CA, CIRP, LIT                David Williams, CPA, CIRP, LIT
+Senior Vice-President                                Manager
+
+
+
+
+                                            20
+APPENDIX A
+
+
+
+
+    21
+Cleo Energy Corp.                                                                                                            Forecast
+7-Week Cash Flow Forecast ending June 8, 2025     Notes           Week 1            Week 2             Week 3                Week 4              Week 5                Week 6              Week 7            7-week Total
+$CAD 000's                                      week ended       25-Apr-25         2-May-25           9-May-25              16-May-25           23-May-25             30-May-25           8-Jun-25              Total
+Cash Receipts
+   Sales (production settlement)                    1                        858               -                  -                      -                  -                     866                 -                1,724
+Total cash receipts                                                          858               -                  -                      -                  -                     866                 -                1,724
+Cash Disbursements
+   Payroll and benefits                             2                         16              100                 -                       85                -                     100                  43                   344
+   Source Deductions                                3                         42               21                  38                    -                  -                      38                  57                   196
+   Operating and transportation                     4                         55               20                  25                     20                 25                    54                  25                   224
+   Mineral & Surface Leases                         5                         11               10                  40                    -                  -                      50                 -                     110
+   Utilities                                        6                        194              -                   -                      -                  -                      90                 -                     285
+   General and administrative                       7                         76              -                   -                      -                  -                      75                 -                     151
+   Professional fees                                8                        -                125                 -                      -                  -                     210                 -                     335
+   Interim Financing Facility Interest              9                        -                 30                 -                      -                  -                      30                 -                      60
+Total cash disbursements                                                     394              306                103                     105                 25                   647                125               1,705
+
+Net Cash Flow                                                                463          (306)                  (103)                  (105)               (25)                  218                (125)                  19
+
+Net Change in Cash
+    Beginning of period                                                      286               749                443                    341                236                   211                 429                   286
+    Net cash flow                                                            463              (306)              (103)                  (105)               (25)                  218                (125)                   19
+    Interim Financing                                                        -                 -                  -                      -                  -                     -                   -                     -
+Ending of period                                                             749               443                341                    236                211                   429                 304                   304
+
+
+                                                                                                                             21-Apr-25
+                                                             Chris Lewis                                                 Date                                      Orest Konowalchuk, CPA, CA , CIRP, LIT
+                                                             Director                                                                                              Senior Vice President
+                                  In the Matter of the Notice of Intention
+                                          to make a Proposal of
+                                           CLEO Energy Corp.
+
+                    Notes to the Consolidated Statement of Cash Flow for the 7-
+                                  week period ending June 8, 2025
+
+
+Purpose and General Assumptions of the Cash Flow Statement
+
+       CLEO Energy Corp. (“CLEO” or the “Company”) has prepared this Cash Flow Statement and the
+       accompanying Notes to the Cash Flow Statement (collectively the “Cash Flow Statement”) in
+       support of the proposal proceedings that has been filed under the Bankruptcy and Insolvency Act
+       (“BIA”) on December 8th, 2024.
+
+       The Company has prepared the Cash Flow Statement based on probable and hypothetical
+       assumptions that reflect the Company’s planned course of action for the period from April 19, 2025
+       to June 8, 2025 (the “Cash Flow Period”). Management is of the opinion that, as at the date of
+       filing the Cash Flow Statement, the assumptions used to develop the projection represent the most
+       probable set of economic conditions facing the Company and that the assumptions used proved a
+       reasonable basis for and are consistent with the purpose of the Cash Flow Statement.
+
+       The information contained in the Cash Flow Statement is subject to changing assumptions and/or
+       receipt of new or additional information; actual results may vary. This Cash Flow Statement should
+       not be used for any other purpose, and creditors are cautioned that the information provided in the
+       Cash Flow Statement could vary based on changing future circumstances.
+
+       The projected cash flow statement is prepared in Canadian dollars.
+
+Hypothetical and Probable Assumptions of the Cash Flow Statement
+
+   1. Pricing is based on the forward strip for WTI as of March 31, 2025. The differentials (discount to
+      WTI) are the actuals for April and a projection from our Marketer. Both Light and Heavy
+      differentials are handled this way. The crude is received at delivery terminals where the crude is
+      equalized to the stream quality using density and sulfur as the main differentiators. The crude
+      quality is very consistent, so the equalization is static over a long period of time. Lastly, the forward
+      exchange rate is used to covert to Canadian dollars. Proceeds from production are generally
+      received on the 25th day of the following month (or the following business day). Receipts are
+      shown net of any working partner interest and take-in-kind royalties and include collection of 5%
+      GST.
+
+   2. Payroll and benefits include wages and benefits for thirteen (13) full time employees and six (6)
+      independent contractors. The employees and independent contractors are paid on a semi-monthly
+      basis.
+
+   3. Source deductions relate to CPP, EI, and Income Tax.
+
+   4. Operating and transportation expenses include payments for contract operators, consultants, and
+      other operating costs such as trucking, chemicals, and related services. These expenses were
+      estimated based on historical data.
+5. Mineral and Surface Lease payments relate to Crown and Freehold lease payments required under
+   existing arrangements.
+
+6. Utilities consist of payments to TransAlta for the Company's monthly power consumption. The
+   Company has negotiated a schedule of pre-payments of varying amounts to TransAlta on a periodic
+   basis.
+
+7. General and administrative costs include payments for the Company’s software subscriptions,
+   monthly rent for its Calgary-based head office, bank fees, and insurance coverage, which was
+   bound in August 2024, and is paid monthly.
+
+8. Professional fees include the fees and costs of counsel to CLEO, counsel to the Proposal Trustee,
+   and the Proposal Trustee.
+
+9. Interest costs on the interim financing facility.
+
