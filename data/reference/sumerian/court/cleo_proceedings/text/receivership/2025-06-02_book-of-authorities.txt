@@ -1,0 +1,2318 @@
+COURT / ESTATE FILE NUMBER       2501-09028
+
+COURT                            COURT OF KING’S BENCH OF ALBERTA
+
+JUDICIAL CENTRE                  CALGARY
+                                                                       FILED
+                                 IN THE MATTER OF THE BANKRUPTCY  DIGITALLYAND
+                                 INSOLVENCY ACT, RSC 1985, C B-3,2501
+                                                                  AS AMENDED
+                                                                      09028
+                                                             Oct 10, 2025OF
+                                 AND IN THE MATTER OF THE RECEIVERSHIP
+                                 CLEO ENERGY CORP.               1:25 PM
+
+
+APPLICANT                        UCAPITAL – ULOAN SOLUTIONS INC.
+
+RESPONDENT                       CLEO ENERGY CORP.
+
+DOCUMENT                         BOOK OF AUTHORITIES
+
+ADDRESS FOR SERVICE AND MILLER THOMSON LLP
+CONTACT INFORMATION OF PARTY Barristers and Solicitors
+FILING THIS DOCUMENT         525-8th Avenue SW, 43rd Floor
+                             Calgary, AB, Canada T2P 1G1
+
+                                 Attention:  James W. Reid / Pavin Takhar
+                                 Telephone: 403-298-2418 / 403-298-2432
+                                 Email:     jwreid@millerthomson.com/
+                                            ptakhar@millerthomson.com
+
+                                 File No.     0289127.0002
+                           TABLE OF AUTHORITIES
+
+Tab No.   Authority
+
+   1.     Bankruptcy and Insolvency Act, RSC 1985, c B-3, as amended
+
+   2.     Receivership Order pronounced June 2, 2025
+
+   3.     Royal Bank v Soundair Corp, 1991 CanLII 2727 (ONCA), [1991] OJ No 1137
+
+   4.     Sanjel Corp, Re, 2016 ABQB 257
+
+   5.     Peakhill Capital Inc v Southview Gardens Limited Partnership, 2023 BCSC 1476
+
+   6.     Harte Gold Corp (Re), 2022 ONSC 653
+
+   7.     Just Energy Group Inc et al v Morgan Stanley Capital Group Inc et al, 2022
+          ONSC 6354
+
+   8.     Lydian International Limited (Re), 2020 ONSC 4006
+
+   9.     Sherman Estate v Donovan, 2021 SCC 25
+
+   10.    Yukon (Government of) v Yukon Zinc Corporation, 2022 YKSC 2
+
+   11.    Leslie & Irene Dube Foundation Inc v P218 Enterprises Ltd, 2014 BCSC 1855
+
+   12.    Re Regal Constellation Hotel Ltd, [2004] OJ No 365, 128 ACWS (3d) 646
+          (ONCJ)
+
+   13.    Bank of Nova Scotia v Diemer, 2014 ONCA 851
+
+   14.    Belyea v Federal Business Development Bank, [1983] NBJ No. 41 (CA)
+TAB 1
+                                                             CANADA
+
+
+
+
+                   CONSOLIDATION                                                            CODIFICATION
+
+
+
+
+Bankruptcy and Insolvency Act                                         Loi sur la faillite et l’insolvabilité
+
+
+                  R.S.C., 1985, c. B-3                                                   L.R.C. (1985), ch. B-3
+
+
+
+
+           Current to September 15, 2025                                          À jour au 15 septembre 2025
+
+       Last amended on December 12, 2024                                 Dernière modification le 12 décembre 2024
+
+
+
+
+Published by the Minister of Justice at the following address:          Publié par le ministre de la Justice à l’adresse suivante :
+                http://laws-lois.justice.gc.ca                                         http://lois-laws.justice.gc.ca
+Bankruptcy and Insolvency                                                    Faillite et insolvabilité
+PART VI Bankrupts                                                            PARTIE VI Faillis
+Discharge of Bankrupts                                                       Libération des faillis
+Sections 181-183                                                             Articles 181-183
+
+
+
+
+Effect of annulment of bankruptcy                                            Effet d’annulation de la faillite
+(2) If an order is made under subsection (1), all sales,                     (2) Lorsqu’une ordonnance est rendue en vertu du para-
+dispositions of property, payments duly made and acts                        graphe (1), toutes les ventes et dispositions de biens, tous
+done before the making of the order by the trustee or                        les paiements dûment effectués et tous les actes faits an-
+other person acting under the trustee’s authority, or by                     térieurement par le syndic, par une autre personne agis-
+the court, are valid, but the property of the bankrupt                       sant sous son autorité ou par le tribunal sont valides;
+shall vest in any person that the court may appoint, or, in                  mais les biens du failli sont dévolus à la personne que le
+default of any appointment, revert to the bankrupt for all                   tribunal peut nommer, ou, à défaut de cette nomination,
+the estate, or interest or right of the trustee in the estate,               retournent au failli pour tout droit, domaine ou intérêt
+on any terms and subject to any conditions, if any, that                     du syndic, aux conditions, s’il en est, que le tribunal peut
+the court may order.                                                         ordonner.
+
+Final statement of receipts and disbursements                                État définitif des recettes et des débours
+(3) If an order is made under subsection (1), the trustee                    (3) Malgré l’annulation de la faillite, le syndic prépare
+shall, without delay, prepare the final statements of re-                    sans délai l’état définitif des recettes et des débours visé à
+ceipts and disbursements referred to in section 151.                         l’article 151.
+R.S., 1985, c. B-3, s. 181; 2004, c. 25, s. 86; 2005, c. 47, s. 109.         L.R. (1985), ch. B-3, art. 181; 2004, ch. 25, art. 86; 2005, ch. 47, art. 109.
+
+
+Stay on issue of order                                                       Suspension de l’émission de l’ordonnance
+182 (1) An order of discharge or annulment shall be                          182 (1) L’ordonnance de libération ou d’annulation
+dated on the day on which it is made, but it shall not be                    porte la date à laquelle elle est rendue, mais ne peut être
+issued or delivered until the expiration of the time al-                     émise ou délivrée avant l’expiration du délai accordé
+lowed for an appeal, and, if an appeal is entered, not until                 pour un appel ni, si appel est interjeté, avant que l’appel
+the appeal has been finally disposed of.                                     ait été finalement jugé.
+
+(2) [Repealed, 1992, c. 27, s. 65]                                           (2) [Abrogé, 1992, ch. 27, art. 65]
+R.S., 1985, c. B-3, s. 182; 1992, c. 27, s. 65.                              L.R. (1985), ch. B-3, art. 182; 1992, ch. 27, art. 65.
+
+
+
+
+PART VII                                                                     PARTIE VII
+
+Courts and Procedure                                                         Tribunaux et procédure
+Jurisdiction of Courts                                                       Compétence des tribunaux
+Courts vested with jurisdiction                                              Tribunaux compétents
+183 (1) The following courts are invested with such ju-                      183 (1) Les tribunaux suivants possèdent la compé-
+risdiction at law and in equity as will enable them to ex-                   tence en droit et en equity qui doit leur permettre d’exer-
+ercise original, auxiliary and ancillary jurisdiction in                     cer la juridiction de première instance, auxiliaire et su-
+bankruptcy and in other proceedings authorized by this                       bordonnée en matière de faillite et en d’autres
+Act during their respective terms, as they are now, or                       procédures autorisées par la présente loi durant leurs
+may be hereafter, held, and in vacation and in chambers:                     termes respectifs, tels que ces termes sont maintenant ou
+                                                                             peuvent par la suite être tenus, pendant une vacance ju-
+    (a) in the Province of Ontario, the Superior Court of                    diciaire et en chambre :
+    Justice;
+                                                                                 a) dans la province d’Ontario, la Cour supérieure de
+    (b) [Repealed, 2001, c. 4, s. 33]                                            justice;
+
+    (c) in the Provinces of Nova Scotia and British                              b) [Abrogé, 2001, ch. 4, art. 33]
+    Columbia, the Supreme Court;
+                                                                                 c) dans les provinces de la Nouvelle-Écosse et de la
+    (d) in the Provinces of New Brunswick and Alberta,                           Colombie-Britannique, la Cour suprême;
+    the Court of Queen’s Bench;
+
+
+
+
+Current to September 15, 2025                                          215                                                                    À jour au 15 septembre 2025
+Last amended on December 12, 2024                                                                                             Dernière modification le 12 décembre 2024
+Bankruptcy and Insolvency                                                                             Faillite et insolvabilité
+PART VII Courts and Procedure                                                                         PARTIE VII Tribunaux et procédure
+Jurisdiction of Courts                                                                                Compétence des tribunaux
+Section 183                                                                                           Article 183
+
+
+
+    (e) in the Province of Prince Edward Island, the                                                      d) dans les provinces du Nouveau-Brunswick et d’Al-
+    Supreme Court of the Province;                                                                        berta, la Cour du Banc de la Reine;
+
+    (f) in the Provinces of Manitoba and Saskatchewan,                                                    e) dans la province de l’Île-du-Prince-Édouard, la
+    the Court of Queen’s Bench;                                                                           Cour suprême;
+
+    (g) in the Province of Newfoundland and Labrador,                                                     f) dans les provinces du Manitoba et de la Saskatche-
+    the Trial Division of the Supreme Court; and                                                          wan, la Cour du Banc de la Reine;
+
+    (h) in Yukon, the Supreme Court of Yukon, in the                                                      g) dans la province de Terre-Neuve-et-Labrador, la
+    Northwest Territories, the Supreme Court of the                                                       Division de première instance de la Cour suprême;
+    Northwest Territories, and in Nunavut, the Nunavut
+    Court of Justice.                                                                                     h) au Yukon, la Cour suprême du Yukon, dans les Ter-
+                                                                                                          ritoires du Nord-Ouest, la Cour suprême des Terri-
+                                                                                                          toires du Nord-Ouest et, au Nunavut, la Cour de jus-
+                                                                                                          tice du Nunavut.
+
+Superior Court jurisdiction in the Province of Quebec                                                 Compétence de la Cour supérieure de la province de
+                                                                                                      Québec
+(1.1) In the Province of Quebec, the Superior Court is in-                                            (1.1) Dans la province de Québec, la Cour supérieure
+vested with the jurisdiction that will enable it to exercise                                          possède la compétence pour exercer la juridiction de pre-
+original, auxiliary and ancillary jurisdiction in bankrupt-                                           mière instance, auxiliaire et subordonnée en matière de
+cy and in other proceedings authorized by this Act during                                             faillite et en d’autres procédures autorisées par la pré-
+its term, as it is now, or may be hereafter, held, and in va-                                         sente loi durant son terme, tel que celui-ci est mainte-
+cation and in chambers.                                                                               nant ou peut par la suite être tenu, pendant une vacance
+                                                                                                      judiciaire et en chambre.
+
+Courts of appeal — common law provinces                                                               Cours d’appel — provinces de common law
+(2) Subject to subsection (2.1), the courts of appeal                                                 (2) Sous réserve du paragraphe (2.1), les cours d’appel
+throughout Canada, within their respective jurisdictions,                                             du Canada, dans les limites de leur compétence respec-
+are invested with power and jurisdiction at law and in eq-                                            tive, sont, en droit et en equity, conformément à leur pro-
+uity, according to their ordinary procedures, except as                                               cédure ordinaire, sauf divergences prévues par la pré-
+varied by this Act or the General Rules, to hear and de-                                              sente loi ou par les Règles générales, investies de la
+termine appeals from the courts vested with original ju-                                              compétence d’entendre et de juger les appels interjetés
+risdiction under this Act.                                                                            des tribunaux exerçant juridiction de première instance
+                                                                                                      en vertu de la présente loi.
+
+Court of Appeal of the Province of Quebec                                                             Cour d’appel de la province de Québec
+(2.1) In the Province of Quebec, the Court of Appeal,                                                 (2.1) Dans la province de Québec, la Cour d’appel, dans
+within its jurisdiction, is invested with power and juris-                                            les limites de sa compétence, est, conformément à sa pro-
+diction, according to its ordinary procedures, except as                                              cédure ordinaire, sauf divergences prévues par la pré-
+varied by this Act or the General Rules, to hear and de-                                              sente loi ou par les Règles générales, investie de la com-
+termine appeals from the Superior Court.                                                              pétence d’entendre et de juger les appels interjetés de la
+                                                                                                      Cour supérieure.
+
+Supreme Court of Canada                                                                               Cour suprême du Canada
+(3) The Supreme Court of Canada has jurisdiction to                                                   (3) La Cour suprême du Canada a compétence pour en-
+hear and to decide according to its ordinary procedure                                                tendre et décider, suivant sa procédure ordinaire, tout
+any appeal so permitted and to award costs.                                                           appel ainsi autorisé et pour adjuger les frais.
+R.S., 1985, c. B-3, s. 183; R.S., 1985, c. 27 (2nd Supp.), s. 10; 1990, c. 17, s. 3; 1998, c.         L.R. (1985), ch. B-3, art. 183; L.R. (1985), ch. 27 (2e suppl.), art. 10; 1990, ch. 17, art. 3;
+30, s. 14; 1999, c. 3, s. 15; 2001, c. 4, s. 33; 2002, c. 7, s. 83; 2015, c. 3, s. 9.                 1998, ch. 30, art. 14; 1999, ch. 3, art. 15; 2001, ch. 4, art. 33; 2002, ch. 7, art. 83; 2015, ch.
+                                                                                                      3, art. 9.
+
+
+
+
+Current to September 15, 2025                                                                   216                                                                    À jour au 15 septembre 2025
+Last amended on December 12, 2024                                                                                                                      Dernière modification le 12 décembre 2024
+Bankruptcy and Insolvency                                                  Faillite et insolvabilité
+PART X Orderly Payment of Debts                                            PARTIE X Paiement méthodique des dettes
+Sections 240-243                                                           Articles 240-243
+
+
+
+    (g) generally, for carrying into effect the purposes and                   f) changer ou prescrire, à l’égard de toute province,
+    provisions of this Part.                                                   les catégories de dettes auxquelles la présente partie
+R.S., 1985, c. B-3, s. 240; 1992, c. 27, s. 88.                                ne s’applique pas;
+
+                                                                               f.1) régir le renvoi des procédures dans une province
+                                                                               autre que celle où l’ordonnance de fusion a été rendue;
+
+                                                                               g) prendre toute autre mesure d’application de la pré-
+                                                                               sente partie.
+                                                                           L.R. (1985), ch. B-3, art. 240; 1992, ch. 27, art. 88.
+
+
+Audit of proceedings                                                       Vérification des comptes
+241 The accounts of every clerk that relate to proceed-                    241 Les comptes de chaque greffier, relatifs aux procé-
+ings under this Part are subject to audit in the same man-                 dures prévues par la présente partie, sont sujets à vérifi-
+ner as if the accounts were the accounts of a provincial                   cation de la même manière que s’ils étaient les comptes
+officer.                                                                   d’un fonctionnaire provincial.
+R.S., c. B-3, s. 212.                                                      S.R., ch. B-3, art. 212.
+
+
+Application of this Part                                                   Application
+242 (1) The Governor in Council shall, at the request of                   242 (1) À la demande du lieutenant-gouverneur en
+the lieutenant governor in council of a province, declare,                 conseil d’une province, le gouverneur en conseil déclare
+by order, that this Part applies or ceases to apply, as the                par décret que la présente partie commence à s’appliquer
+case may be, in respect of the province.                                   ou cesse de s’appliquer, selon le cas, dans la province en
+                                                                           question.
+
+Automatic application                                                      Application automatique
+(2) Subject to an order being made under subsection (1)                    (2) Sous réserve d’une éventuelle déclaration faite en
+declaring that this Part ceases to apply in respect of a                   vertu du paragraphe (1) indiquant qu’elle cesse de s’ap-
+province, if this Part is in force in the province immedi-                 pliquer à la province en cause, la présente partie s’ap-
+ately before that subsection comes into force, this Part                   plique à toute province dans laquelle elle était en vigueur
+applies in respect of the province.                                        à l’entrée en vigueur de ce paragraphe.
+R.S., 1985, c. B-3, s. 242; 2002, c. 7, s. 85; 2007, c. 36, s. 57.         L.R. (1985), ch. B-3, art. 242; 2002, ch. 7, art. 85; 2007, ch. 36, art. 57.
+
+
+
+
+PART XI                                                                    PARTIE XI
+
+Secured Creditors and                                                      Créanciers garantis et
+Receivers                                                                  séquestres
+Court may appoint receiver                                                 Nomination d’un séquestre
+243 (1) Subject to subsection (1.1), on application by a                   243 (1) Sous réserve du paragraphe (1.1), sur demande
+secured creditor, a court may appoint a receiver to do any                 d’un créancier garanti, le tribunal peut, s’il est convaincu
+or all of the following if it considers it to be just or conve-            que cela est juste ou opportun, nommer un séquestre
+nient to do so:                                                            qu’il habilite :
+
+    (a) take possession of all or substantially all of the in-                 a) à prendre possession de la totalité ou de la quasi-
+    ventory, accounts receivable or other property of an                       totalité des biens — notamment des stocks et comptes
+    insolvent person or bankrupt that was acquired for or                      à recevoir — qu’une personne insolvable ou un failli a
+    used in relation to a business carried on by the insol-                    acquis ou utilisés dans le cadre de ses affaires;
+    vent person or bankrupt;
+                                                                               b) à exercer sur ces biens ainsi que sur les affaires de
+    (b) exercise any control that the court considers advis-                   la personne insolvable ou du failli le degré de prise en
+    able over that property and over the insolvent person’s                    charge qu’il estime indiqué;
+    or bankrupt’s business; or
+
+
+
+Current to September 15, 2025                                        250                                                                    À jour au 15 septembre 2025
+Last amended on December 12, 2024                                                                                           Dernière modification le 12 décembre 2024
+Bankruptcy and Insolvency                                            Faillite et insolvabilité
+PART XI Secured Creditors and Receivers                              PARTIE XI Créanciers garantis et séquestres
+Section 243                                                          Article 243
+
+
+
+    (c) take any other action that the court considers ad-               c) à prendre toute autre mesure qu’il estime indiquée.
+    visable.
+
+Restriction on appointment of receiver                               Restriction relative à la nomination d’un séquestre
+(1.1) In the case of an insolvent person in respect of               (1.1) Dans le cas d’une personne insolvable dont les
+whose property a notice is to be sent under subsection               biens sont visés par le préavis qui doit être donné par le
+244(1), the court may not appoint a receiver under sub-              créancier garanti aux termes du paragraphe 244(1), le tri-
+section (1) before the expiry of 10 days after the day on            bunal ne peut faire la nomination avant l’expiration d’un
+which the secured creditor sends the notice unless                   délai de dix jours après l’envoi de ce préavis, à moins :
+
+    (a) the insolvent person consents to an earlier en-                  a) que la personne insolvable ne consente, aux termes
+    forcement under subsection 244(2); or                                du paragraphe 244(2), à l’exécution de la garantie à
+                                                                         une date plus rapprochée;
+    (b) the court considers it appropriate to appoint a re-
+    ceiver before then.                                                  b) qu’il soit indiqué, selon lui, de nommer un sé-
+                                                                         questre à une date plus rapprochée.
+
+Definition of receiver                                               Définition de séquestre
+(2) Subject to subsections (3) and (4), in this Part, re-            (2) Dans la présente partie, mais sous réserve des para-
+ceiver means a person who                                            graphes (3) et (4), séquestre s’entend de toute personne
+                                                                     qui :
+    (a) is appointed under subsection (1); or
+                                                                         a) soit est nommée en vertu du paragraphe (1);
+    (b) is appointed to take or takes possession or control
+    — of all or substantially all of the inventory, accounts             b) soit est nommément habilitée à prendre — ou a
+    receivable or other property of an insolvent person or               pris — en sa possession ou sous sa responsabilité, aux
+    bankrupt that was acquired for or used in relation to a              termes d’un contrat créant une garantie sur des biens,
+    business carried on by the insolvent person or                       appelé « contrat de garantie » dans la présente partie,
+    bankrupt — under                                                     ou aux termes d’une ordonnance rendue sous le ré-
+                                                                         gime de toute autre loi fédérale ou provinciale pré-
+        (i) an agreement under which property becomes                    voyant ou autorisant la nomination d’un séquestre ou
+        subject to a security (in this Part referred to as a             d’un séquestre-gérant, la totalité ou la quasi-totalité
+        “security agreement”), or                                        des biens — notamment des stocks et comptes à rece-
+                                                                         voir — qu’une personne insolvable ou un failli a acquis
+        (ii) a court order made under another Act of Parlia-             ou utilisés dans le cadre de ses affaires.
+        ment, or an Act of a legislature of a province, that
+        provides for or authorizes the appointment of a re-
+        ceiver or receiver-manager.
+
+Definition of receiver — subsection 248(2)                           Définition de séquestre — paragraphe 248(2)
+(3) For the purposes of subsection 248(2), the definition            (3) Pour l’application du paragraphe 248(2), la définition
+receiver in subsection (2) is to be read without reference           de séquestre, au paragraphe (2), s’interprète sans égard
+to paragraph (a) or subparagraph (b)(ii).                            à l’alinéa a) et aux mots « ou aux termes d’une ordon-
+                                                                     nance rendue sous le régime de toute autre loi fédérale
+                                                                     ou provinciale prévoyant ou autorisant la nomination
+                                                                     d’un séquestre ou d’un séquestre-gérant ».
+
+Trustee to be appointed                                              Syndic
+(4) Only a trustee may be appointed under subsection (1)             (4) Seul un syndic peut être nommé en vertu du para-
+or under an agreement or order referred to in paragraph              graphe (1) ou être habilité aux termes d’un contrat ou
+(2)(b).                                                              d’une ordonnance mentionné à l’alinéa (2)b).
+
+
+
+
+Current to September 15, 2025                                  251                                                              À jour au 15 septembre 2025
+Last amended on December 12, 2024                                                                                  Dernière modification le 12 décembre 2024
+Bankruptcy and Insolvency                                            Faillite et insolvabilité
+PART XI Secured Creditors and Receivers                              PARTIE XI Créanciers garantis et séquestres
+Sections 244-246                                                     Articles 244-246
+
+
+
+
+No advance consent                                                   Préavis
+(2.1) For the purposes of subsection (2), consent to earli-          (2.1) Pour l’application du paragraphe (2), le créancier
+er enforcement of a security may not be obtained by a se-            garanti ne peut obtenir le consentement visé par le para-
+cured creditor prior to the sending of the notice referred           graphe avant l’envoi du préavis visé au paragraphe (1).
+to in subsection (1).
+
+Exception                                                            Non-application du présent article
+(3) This section does not apply, or ceases to apply, in re-          (3) Le présent article ne s’applique pas, ou cesse de s’ap-
+spect of a secured creditor                                          pliquer, au créancier garanti dont le droit de réaliser sa
+                                                                     garantie ou d’effectuer toute autre opération, relative-
+    (a) whose right to realize or otherwise deal with his            ment à celle-ci est protégé aux termes du paragraphe
+    security is protected by subsection 69.1(5) or (6); or           69.1(5) ou (6), ou à l’égard de qui a été levée, aux termes
+                                                                     de l’article 69.4, la suspension prévue aux articles 69 à
+    (b) in respect of whom a stay under sections 69 to 69.2          69.2.
+    has been lifted pursuant to section 69.4.
+
+Idem                                                                 Idem
+(4) This section does not apply where there is a receiver            (4) Le présent article ne s’applique pas dans les cas où
+in respect of the insolvent person.                                  une personne agit, à titre de séquestre, à l’égard de la
+1992, c. 27, s. 89; 1994, c. 26, s. 9(E).                            personne insolvable.
+                                                                     1992, ch. 27, art. 89; 1994, ch. 26, art. 9(A).
+
+
+Receiver to give notice                                              Avis du séquestre
+245 (1) A receiver shall, as soon as possible and not lat-           245 (1) Le séquestre doit, dans les meilleurs délais et au
+er than ten days after becoming a receiver, by appoint-              plus tard dans les dix jours suivant la date où il devient,
+ment or otherwise, in respect of property of an insolvent            par nomination ou autrement, séquestre à l’égard de tout
+person or a bankrupt, send a notice of that fact, in the             ou partie des biens d’une personne insolvable ou d’un
+prescribed form and manner, to the Superintendent, ac-               failli, en donner avis, en la forme et de la manière pres-
+companied by the prescribed fee, and                                 crites, au surintendant — l’avis devant, dans ce cas, être
+                                                                     accompagné des droits prescrits — et :
+    (a) in the case of a bankrupt, to the trustee; or
+                                                                         a) s’agissant d’un failli, au syndic;
+    (b) in the case of an insolvent person, to the insolvent
+    person and to all creditors of the insolvent person that             b) s’agissant d’une personne insolvable, à celle-ci, à
+    the receiver, after making reasonable efforts, has as-               tous ceux de ses créanciers dont il a pu, en y allant de
+    certained.                                                           ses meilleurs efforts, dresser la liste.
+
+Idem                                                                 Idem
+(2) A receiver in respect of property of an insolvent per-           (2) Le séquestre de tout ou partie des biens d’une per-
+son shall forthwith send notice of his becoming a receiver           sonne insolvable est tenu de donner immédiatement avis
+to any creditor whose name and address he ascertains af-             de son entrée en fonctions à tout créancier dont il prend
+ter sending the notice referred to in subsection (1).                connaissance des nom et adresse après l’envoi de l’avis
+                                                                     visé au paragraphe (1).
+
+Names and addresses of creditors                                     Nom et adresse des créanciers
+(3) An insolvent person shall, forthwith after being noti-           (3) La personne insolvable doit, dès qu’elle est avisée de
+fied that there is a receiver in respect of any of his prop-         l’entrée en fonctions d’un séquestre à l’égard de tout ou
+erty, provide the receiver with the names and addresses              partie de ses biens, fournir à celui-ci la liste des noms et
+of all creditors.                                                    adresses de tous ses créanciers.
+1992, c. 27, s. 89.                                                  1992, ch. 27, art. 89.
+
+
+Receiver’s statement                                                 Déclaration
+246 (1) A receiver shall, forthwith after taking posses-             246 (1) Le séquestre doit, dès sa prise de possession ou,
+sion or control, whichever occurs first, of property of an           si elle survient plus tôt, sa prise de contrôle de tout ou
+
+
+
+Current to September 15, 2025                                  253                                                                  À jour au 15 septembre 2025
+Last amended on December 12, 2024                                                                                      Dernière modification le 12 décembre 2024
+Bankruptcy and Insolvency                                           Faillite et insolvabilité
+PART XI Secured Creditors and Receivers                             PARTIE XI Créanciers garantis et séquestres
+Sections 246-246.1                                                  Articles 246-246.1
+
+
+
+insolvent person or a bankrupt, prepare a statement con-            partie des biens d’une personne insolvable ou d’un failli,
+taining the prescribed information relating to the re-              établir une déclaration contenant les renseignements
+ceivership, and shall forthwith provide a copy thereof to           prescrits au sujet de l’exercice de ses attributions à
+the Superintendent and                                              l’égard de ces biens; il en transmet sans délai une copie
+                                                                    au surintendant et :
+    (a) to the insolvent person or the trustee (in the case
+    of a bankrupt); and                                                 a) à la personne insolvable ou, en cas de faillite, au
+                                                                        syndic;
+    (b) to any creditor of the insolvent person or the
+    bankrupt who requests a copy at any time up to six                  b) à tout créancier de la personne insolvable ou du
+    months after the end of the receivership.                           failli qui en fait la demande au plus tard six mois après
+                                                                        que le séquestre a complété l’exercice de ses attribu-
+                                                                        tions en l’espèce.
+
+Receiver’s interim reports                                          Rapports provisoires
+(2) A receiver shall, in accordance with the General                (2) Le séquestre doit, conformément aux Règles géné-
+Rules, prepare further interim reports relating to the re-          rales, établir des rapports provisoires supplémentaires
+ceivership, and shall provide copies thereof to the Super-          portant sur son mandat et en fournir un exemplaire au
+intendent and                                                       surintendant, à la personne insolvable ou, dans le cas
+                                                                    d’un failli, au syndic et à tout créancier de la personne in-
+    (a) to the insolvent person or the trustee (in the case         solvable ou du failli qui en demande un exemplaire dans
+    of a bankrupt); and                                             les six mois suivant la fin du mandat du séquestre.
+
+    (b) to any creditor of the insolvent person or the
+    bankrupt who requests a copy at any time up to six
+    months after the end of the receivership.
+
+Receiver’s final report and statement of accounts                   Rapport définitif et état de comptes
+(3) A receiver shall, forthwith after completion of duties          (3) Dès qu’il cesse d’occuper ses fonctions, le séquestre
+as receiver, prepare a final report and a statement of ac-          établit, en la forme prescrite, un rapport définitif et un
+counts, in the prescribed form and containing the pre-              état de comptes contenant les renseignements prescrits
+scribed information relating to the receivership, and shall         relativement à l’exercice de ses attributions; il en trans-
+forthwith provide a copy thereof to the Superintendent              met sans délai une copie au surintendant et :
+and
+                                                                        a) à la personne insolvable ou, en cas de faillite, au
+    (a) to the insolvent person or the trustee (in the case             syndic;
+    of a bankrupt); and
+                                                                        b) à tout créancier de la personne insolvable ou du
+    (b) to any creditor of the insolvent person or the                  failli qui en fait la demande au plus tard six mois après
+    bankrupt who requests a copy at any time up to six                  que le séquestre a complété l’exercice de ses attribu-
+    months after the end of the receivership.                           tions en l’espèce.
+1992, c. 27, s. 89.                                                 1992, ch. 27, art. 89.
+
+
+Intellectual property — sale or disposition                         Propriété intellectuelle — disposition
+246.1 (1) If the insolvent person or the bankrupt is a              246.1 (1) Si la personne insolvable ou le failli est partie
+party to an agreement that grants to another party a right          à un contrat qui autorise une autre partie à utiliser un
+to use intellectual property that is included in a sale or          droit de propriété intellectuelle qui est compris dans une
+disposition by the receiver, that sale or disposition does          disposition d’actifs par le séquestre, cette disposition
+not affect that other party’s right to use the intellectual         n’empêche pas l’autre partie d’utiliser le droit en ques-
+property — including the other party’s right to enforce an          tion ni d’en faire respecter l’utilisation exclusive, à condi-
+exclusive use — during the term of the agreement, in-               tion que cette autre partie respecte ses obligations
+cluding any period for which the other party extends the            contractuelles à l’égard de l’utilisation de ce droit, et ce,
+agreement as of right, as long as the other party contin-           pour la période prévue au contrat et pour toute prolonga-
+ues to perform its obligations under the agreement in re-           tion de celle-ci dont elle se prévaut de plein droit.
+lation to the use of the intellectual property.
+
+
+
+Current to September 15, 2025                                 254                                                              À jour au 15 septembre 2025
+Last amended on December 12, 2024                                                                                 Dernière modification le 12 décembre 2024
+TAB 2
+CERTIFIED
+by the Court Clerk as a true copy of
+the document digitally filed on Jun 3,
+2025
+
+
+
+
+                                            FILED
+                                          DIGITALLY
+                                         2503 10488
+                                         Jun 3, 2025
+                                            10:52 AM
+                                                      -2-
+
+
+          IT IS HEREBY ORDERED AND DECLARED THAT:
+
+Service
+
+1.        The time for service of the notice of application for this order (the “Order”) is hereby
+          abridged and deemed good and sufficient if applicable and this application is properly
+          returnable today.
+
+Appointment
+
+2.        Pursuant to section 243(1) of the Bankruptcy and Insolvency Act, RSC 1985 c B-3 (the
+          “BIA”) and section 13(2) of the Judicature Act, RSA 2000, c.J-2, as at 12:01 on June 3,
+          2025, Alvarez and Marsal Canada Inc. (the “Receiver”) is hereby appointed Receiver,
+          without security, of all of the Debtor's current and future assets, undertakings and
+          properties of every nature and kind whatsoever, and wherever situate, including all
+          proceeds thereof (the “Property”).
+
+Receiver’s Powers
+
+3.        The Receiver is hereby empowered and authorized, but not obligated, to act at once in
+          respect of the Property and, without in any way limiting the generality of the foregoing, the
+          Receiver is hereby expressly empowered and authorized to do any of the following where
+          the Receiver considers it necessary or desirable:
+
+          (a)       to take possession of and exercise control over the Property and any and all
+                    proceeds, receipts and disbursements arising out of or from the Property, which
+                    shall include the Receiver’s ability:
+
+                    i.         to abandon, dispose of, or otherwise release any interest in any of the
+                               Debtor’s real or personal property, or any right in any immoveable; and
+
+                    ii.        upon further order of the Court, to abandon, dispose of, or otherwise
+                               release any license or authorization issued by the Alberta Energy
+                               Regulator, or any other similar government authority;
+
+          (b)       to receive, preserve and protect the Property, or any part or parts thereof,
+                    including, but not limited to, the changing of locks and security codes, the
+                    relocating of Property to safeguard it, the engaging of independent security
+                    personnel, the taking of physical inventories and the placement of such insurance
+                    coverage as may be necessary or desirable;
+
+
+
+840117.182617.AET.27765306.3
+                                                     -3-
+
+
+          (c)       to manage, operate and carry on the business of the Debtor, including the powers
+                    to enter into any agreements, incur any obligations in the ordinary course of
+                    business, cease to carry on all or any part of the business, or cease to perform any
+                    contracts of the Debtor;
+
+          (d)       to engage consultants, appraisers, agents, experts, auditors, accountants,
+                    managers, counsel and such other persons from time to time and on whatever
+                    basis, including on a temporary basis, to assist with the exercise of the Receiver’s
+                    powers and duties, including without limitation those conferred by this Order;
+
+          (e)       to purchase or lease machinery, equipment, inventories, supplies, premises or
+                    other assets to continue the business of the Debtor or any part or parts thereof;
+
+          (f)       to receive and collect all monies and accounts now owed or hereafter owing to the
+                    Debtor and to exercise all remedies of the Debtor in collecting such monies,
+                    including, without limitation, to enforce any security held by the Debtor;
+
+          (g)       to settle, extend or compromise any indebtedness owing to or by the Debtor;
+
+          (h)       to execute, assign, issue and endorse documents of whatever nature in respect of
+                    any of the Property, whether in the Receiver's name or in the name and on behalf
+                    of the Debtor, for any purpose pursuant to this Order;
+
+          (i)       to undertake environmental or workers' health and safety assessments of the
+                    Property and operations of the Debtor;
+
+          (j)       to initiate, prosecute and continue the prosecution of any and all proceedings and
+                    to defend all proceedings now pending or hereafter instituted with respect to the
+                    Debtor, the Property or the Receiver, and to settle or compromise any such
+                    proceedings. The authority hereby conveyed shall extend to such appeals or
+                    applications for judicial review in respect of any order or judgment pronounced in
+                    any such proceeding, and provided further that nothing in this Order shall authorize
+                    the Receiver to defend or settle the action in which this Order is made unless
+                    otherwise directed by this Court;
+
+          (k)       to market any or all the Property, including advertising and soliciting offers in
+                    respect of the Property or any part or parts thereof and negotiating such terms and
+                    conditions of sale as the Receiver in its discretion may deem appropriate;
+
+
+
+840117.182617.AET.27765306.3
+                                                      -4-
+
+
+          (l)       to sell, convey, transfer, lease or assign the Property or any part or parts thereof
+                    out of the ordinary course of business:
+
+                    i.         without the approval of this Court in respect of any transaction not
+                               exceeding $250,000, provided that the aggregate consideration for all
+                               such transactions does not exceed $1,000,000; and
+
+                    ii.        with the approval of this Court in respect of any transaction in which the
+                               purchase price or the aggregate purchase price exceeds the applicable
+                               amount set out in the preceding clause;
+
+                    and in each such case notice under subsection 60(8) of the Personal Property
+                    Security Act, RSA 2000, c. P-7 or any other similar legislation in any other province
+                    or territory shall not be required.
+
+          (m)       to apply for any vesting order or other orders (including, without limitation,
+                    confidentiality or sealing orders) necessary to convey the Property or any part or
+                    parts thereof to a purchaser or purchasers thereof, free and clear of any liens or
+                    encumbrances affecting such Property;
+
+          (n)       to report to, meet with and discuss with such affected Persons (as defined below)
+                    as the Receiver deems appropriate all matters relating to the Property and the
+                    receivership, and to share information, subject to such terms as to confidentiality
+                    as the Receiver deems advisable;
+
+          (o)       to register a copy of this Order and any other orders in respect of the Property
+                    against title to any of the Property, and when submitted by the Receiver for
+                    registration this Order shall be immediately registered by the Registrar of Land
+                    Titles of Alberta, or any other similar government authority, notwithstanding section
+                    191 of the Land Titles Act, RSA 2000, c. L-4, or the provisions of any other similar
+                    legislation in any other province or territory, and notwithstanding that the appeal
+                    period in respect of this Order has not elapsed and the Registrar of Land Titles,
+                    shall accept all Affidavits of Corporate Signing Authority submitted by the Receiver
+                    in its capacity as Receiver of the Debtor and not in its personal capacity;
+
+
+
+
+840117.182617.AET.27765306.3
+                                                      -5-
+
+
+          (p)       to apply for any permits, licences, approvals or permissions as may be required by
+                    any governmental authority and any renewals thereof for and on behalf of and, if
+                    thought desirable by the Receiver, in the name of the Debtor;
+
+          (q)       to enter into agreements with any trustee in bankruptcy appointed in respect of the
+                    Debtor, including, without limiting the generality of the foregoing, the ability to enter
+                    into occupation agreements for any property owned or leased by the Debtor;
+
+          (r)       to exercise any shareholder, partnership, joint venture or other rights which the
+                    Debtor may have;
+
+          (s)       to take any steps reasonably incidental to the exercise of these powers or the
+                    performance of any statutory obligations; and
+
+          (t)       to seek to assign the Debtor into bankruptcy with leave of the Court;
+
+          and in each case where the Receiver takes any such actions or steps, it shall be
+          exclusively authorized and empowered to do so, to the exclusion of all other Persons,
+          including the Debtor, and without interference from any other Person (as defined below).
+
+Duty to Provide Access and Co-operations to the Receiver
+
+4.        (i) The Debtor, (ii) all of its current and former directors, officers, employees, agents,
+          accountants, legal counsel and shareholders, and all other persons acting on its
+          instructions or behalf, and (iii) all other individuals, firms, corporations, governmental
+          bodies or agencies, or other entities having notice of this Order (all of the foregoing,
+          collectively, being “Persons” and each being a “Person”) shall forthwith advise the
+          Receiver of the existence of any Property in such Person’s possession or control, shall
+          grant immediate and continued access to the Property to the Receiver, and shall deliver
+          all such Property (excluding Property subject to liens the validity of which is dependent on
+          maintaining possession) to the Receiver upon the Receiver’s request.
+
+5.        All Persons shall forthwith advise the Receiver of the existence of any books, documents,
+          securities, contracts, orders, corporate and accounting records, and any other papers,
+          records and information of any kind related to the business or affairs of the Debtor, and
+          any computer programs, computer tapes, computer disks or other data storage media
+          containing any such information (the foregoing, collectively, the “Records”) in that
+          Person’s possession or control, and shall provide to the Receiver or permit the Receiver
+
+
+
+
+840117.182617.AET.27765306.3
+TAB 3
+                                                     1991 CarswellOnt 205
+                                                    Ontario Court of Appeal
+
+                                                 Royal Bank v. Soundair Corp.
+
+                            1991 CarswellOnt 205, [1991] O.J. No. 1137, 27 A.C.W.S. (3d) 1178,
+                              46 O.A.C. 321, 4 O.R. (3d) 1, 7 C.B.R. (3d) 1, 83 D.L.R. (4th) 76
+
+        ROYAL BANK OF CANADA (plaintiff/respondent) v. SOUNDAIR CORPORATION
+            (respondent), CANADIAN PENSION CAPITAL LIMITED (appellant)
+            and CANADIAN INSURERS' CAPITAL CORPORATION (appellant)
+                                            Goodman, McKinlay and Galligan JJ.A.
+
+                                              Heard: June 11, 12, 13 and 14, 1991
+                                                    Judgment: July 3, 1991
+                                                   Docket: Doc. CA 318/91
+
+Counsel: J. B. Berkow and S. H. Goldman , for appellants Canadian Pension Capital Limited and Canadian Insurers' Capital
+Corporation.
+J. T. Morin, Q.C. , for Air Canada.
+L.A.J. Barnes and L.E. Ritchie , for plaintiff/respondent Royal Bank of Canada.
+S.F. Dunphy and G.K. Ketcheson , for Ernst & Young Inc., receiver of respondent Soundair Corporation.
+W.G. Horton , for Ontario Express Limited.
+N.J. Spies , for Frontier Air Limited.
+
+Table of Authorities
+Cases considered:
+     Beauty Counsellors of Canada Ltd., Re (1986), 58 C.B.R. (N.S.) 237 (Ont. S.C.) — referred to
+     British Columbia Development Corp. v. Spun Cast Industries Ltd. (1977), 26 C.B.R. (N.S.) 28, 5 B.C.L.R. 94 (S.C.) —
+     referred to
+     Cameron v. Bank of Nova Scotia (1981), 38 C.B.R. (N.S.) 1, 45 N.S.R. (2d) 303, 86 A.P.R. 303 (C.A.) — referred to
+     Crown Trust Co. v. Rosenburg (1986), 67 C.B.R. (N.S.) 320n, 60 O.R. (2d) 87, 22 C.P.C. (2d) 131, 39 D.L.R. (4th) 526
+     (H.C.) — applied
+     Salima Investments Ltd. v. Bank of Montreal (1985), 59 C.B.R. (N.S.) 242, 41 Alta. L.R. (2d) 58, 65 A.R. 372 , 21 D.L.R.
+     (4th) (C.A.) — referred to
+     Selkirk, Re (1986), 58 C.B.R. (N.S.) 245 (Ont. S.C.) — referred to
+     Selkirk, Re (1987), 64 C.B.R. (N.S.) 140 (Ont. S.C.) — referred to
+Statutes considered:
+     Employment Standards Act, R.S.O. 1980, c. 137.
+
+     Environmental Protection Act, R.S.O. 1980, c. 141.
+
+Galligan J.A. :
+
+1 This is an appeal from the order of Rosenberg J. made on May 1, 1991. By that order, he approved the sale of Air Toronto
+to Ontario Express Limited and Frontier Air Limited, and he dismissed a motion to approve an offer to purchase Air Toronto
+by 922246 Ontario Limited.
+
+2    It is necessary at the outset to give some background to the dispute. Soundair Corporation ("Soundair") is a corporation
+engaged in the air transport business. It has three divisions. One of them is Air Toronto. Air Toronto operates a scheduled airline
+
+
+                                                                                                                                1
+10      The first 922 offer contained a condition which was unacceptable to the receiver. I will refer to that condition in more
+detail later. The receiver declined the 922 offer and on March 8, 1991, accepted the OEL offer. Subsequently, 922 obtained
+an order allowing it to make a second offer. It then submitted an offer which was virtually identical to that of March 7, 1991,
+except that the unacceptable condition had been removed.
+
+11      The proceedings before Rosenberg J. then followed. He approved the sale to OEL and dismissed a motion for the
+acceptance of the 922 offer. Before Rosenberg J., and in this court, both CCFL and the Royal Bank supported the acceptance
+of the second 922 offer.
+
+12    There are only two issues which must be resolved in this appeal. They are:
+
+     (1) Did the receiver act properly when it entered into an agreement to sell Air Toronto to OEL?
+
+     (2) What effect does the support of the 922 offer by the secured creditors have on the result?
+
+13    I will deal with the two issues separately.
+
+1. Did the Receiver Act Properly in Agreeing to Sell to OEL?
+
+14 Before dealing with that issue, there are three general observations which I think I should make. The first is that the sale
+of an airline as a going concern is a very complex process. The best method of selling an airline at the best price is something
+far removed from the expertise of a court. When a court appoints a receiver to use its commercial expertise to sell an airline, it
+is inescapable that it intends to rely upon the receiver's expertise and not upon its own. Therefore, the court must place a great
+deal of confidence in the actions taken and in the opinions formed by the receiver. It should also assume that the receiver is
+acting properly unless the contrary is clearly shown. The second observation is that the court should be reluctant to second-
+guess, with the benefit of hindsight, the considered business decisions made by its receiver. The third observation which I wish
+to make is that the conduct of the receiver should be reviewed in the light of the specific mandate given to him by the court.
+
+15     The order of O'Brien J. provided that if the receiver could not complete the sale to Air Canada that it was "to negotiate
+and sell Air Toronto to another person." The court did not say how the receiver was to negotiate the sale. It did not say it was
+to call for bids or conduct an auction. It told the receiver to negotiate and sell. It obviously intended, because of the unusual
+nature of the asset being sold, to leave the method of sale substantially in the discretion of the receiver. I think, therefore, that
+the court should not review minutely the process of the sale when, broadly speaking, it appears to the court to be a just process.
+
+16     As did Rosenberg J., I adopt as correct the statement made by Anderson J. in Crown Trust Co. v. Rosenberg (1986), 60
+O.R. (2d) 87, 67 C.B.R. (N.S.) 320n, 22 C.P.C. (2d) 131, 39 D.L.R. (4th) 526 (H.C.) , at pp. 92-94 [O.R.], of the duties which
+a court must perform when deciding whether a receiver who has sold a property acted properly. When he set out the court's
+duties, he did not put them in any order of priority, nor do I. I summarize those duties as follows:
+
+     1. It should consider whether the receiver has made a sufficient effort to get the best price and has not acted improvidently.
+
+     2. It should consider the interests of all parties.
+
+     3. It should consider the efficacy and integrity of the process by which offers are obtained.
+
+     4. It should consider whether there has been unfairness in the working out of the process.
+
+17    I intend to discuss the performance of those duties separately.
+
+1. Did the Receiver make a sufficient effort to get the best price and did it act providently?
+
+18 Having regard to the fact that it was highly unlikely that a commercially viable sale could be made to anyone but the two
+national airlines, or to someone supported by either of them, it is my view that the receiver acted wisely and reasonably when it
+
+
+                                                                                                                                  3
+negotiated only with Air Canada and Canadian Airlines International. Furthermore, when Air Canada said that it would submit
+no further offers and gave the impression that it would not participate further in the receiver's efforts to sell, the only course
+reasonably open to the receiver was to negotiate with Canadian Airlines International. Realistically, there was nowhere else to
+go but to Canadian Airlines International. In do ing so, it is my opinion that the receiver made sufficient efforts to sell the airline.
+
+19      When the receiver got the OEL offer on March 6, 1991, it was over 10 months since it had been charged with the
+responsibility of selling Air Toronto. Until then, the receiver had not received one offer which it thought was acceptable. After
+substantial efforts to sell the airline over that period, I find it difficult to think that the receiver acted improvidently in accepting
+the only acceptable offer which it had.
+
+20     On March 8, 1991, the date when the receiver accepted the OEL offer, it had only two offers, the OEL offer, which
+was acceptable, and the 922 offer, which contained an unacceptable condition. I cannot see how the receiver, assuming for the
+moment that the price was reasonable, could have done anything but accept the OEL offer.
+
+21 When deciding whether a receiver had acted providently, the court should examine the conduct of the receiver in light of
+the information the receiver had when it agreed to accept an offer. In this case, the court should look at the receiver's conduct
+in the light of the information it had when it made its decision on March 8, 1991. The court should be very cautious before
+deciding that the receiver's conduct was improvident based upon information which has come to light after it made its decision.
+To do so, in my view, would derogate from the mandate to sell given to the receiver by the order of O'Brien J. I agree with and
+adopt what was said by Anderson J. in Crown Trust Co. v. Rosenberg , supra, at p. 112 [O.R.]:
+
+     Its decision was made as a matter of business judgment on the elements then available to it . It is of the very essence
+     of a receiver's function to make such judgments and in the making of them to act seriously and responsibly so as to be
+     prepared to stand behind them.
+
+     If the court were to reject the recommendation of the Receiver in any but the most exceptional circumstances, it would
+     materially diminish and weaken the role and function of the Receiver both in the perception of receivers and in the
+     perception of any others who might have occasion to deal with them. It would lead to the conclusion that the decision of
+     the Receiver was of little weight and that the real decision was always made upon the motion for approval. That would be
+     a consequence susceptible of immensely damaging results to the disposition of assets by court-appointed receivers.
+
+[Emphasis added.]
+
+22 I also agree with and adopt what was said by Macdonald J.A. in Cameron v. Bank of Nova Scotia (1981), 38 C.B.R. (N.S.)
+1, 45 N.S.R. (2d) 303, 86 A.P.R. 303 (C.A.) , at p. 11 [C.B.R.]:
+
+     In my opinion if the decision of the receiver to enter into an agreement of sale, subject to court approval, with respect to
+     certain assets is reasonable and sound under the circumstances at the time existing it should not be set aside simply because
+     a later and higher bid is made. To do so would literally create chaos in the commercial world and receivers and purchasers
+     would never be sure they had a binding agreement.
+
+[Emphasis added.]
+
+23 On March 8, 1991, the receiver had two offers. One was the OEL offer, which it considered satisfactory but which could be
+withdrawn by OEL at any time before it was accepted. The receiver also had the 922 offer, which contained a condition that was
+totally unacceptable. It had no other offers. It was faced with the dilemma of whether it should decline to accept the OEL offer
+and run the risk of it being withdrawn, in the hope that an acceptable offer would be forthcoming from 922. An affidavit filed by
+the president of the receiver describes the dilemma which the receiver faced, and the judgment made in the light of that dilemma:
+
+     24. An asset purchase agreement was received by Ernst & Young on March 7, 1991 which was dated March 6, 1991. This
+     agreement was received from CCFL in respect of their offer to purchase the assets and undertaking of Air Toronto. Apart
+     from financial considerations, which will be considered in a subsequent affidavit, the Receiver determined that it would not
+
+
+
+                                                                                                                                      4
+     While every proper effort must always be made to assure maximum recovery consistent with the limitations inherent in the
+     process, no method has yet been devised to entirely eliminate those limitations or to avoid their consequences. Certainly
+     it is not to be found in loosening the entire foundation of the system. Thus to compare the results of the process in this case
+     with what might have been recovered in some other set of circumstances is neither logical nor practical .
+
+[Emphasis added.]
+
+46 It is my opinion that the court must exercise extreme caution before it interferes with the process adopted by a receiver to
+sell an unusual asset. It is important that prospective purchasers know that, if they are acting in good faith, bargain seriously with
+a receiver and enter into an agreement with it, a court will not lightly interfere with the commercial judgment of the receiver
+to sell the asset to them.
+
+47 Before this court, counsel for those opposing the confirmation of the sale to OEL suggested many different ways in which
+the receiver could have conducted the process other than the way which he did. However, the evidence does not convince me
+that the receiver used an improper method of attempting to sell the airline. The answer to those submissions is found in the
+comment of Anderson J. in Crown Trust Co. v. Rosenberg , supra, at p. 109 [O.R.]:
+
+     The court ought not to sit as on appeal from the decision of the Receiver, reviewing in minute detail every element of the
+     process by which the decision is reached. To do so would be a futile and duplicitous exercise.
+
+48     It would be a futile and duplicitous exercise for this court to examine in minute detail all of circumstances leading up
+to the acceptance of the OEL offer. Having considered the process adopted by the receiver, it is my opinion that the process
+adopted was a reasonable and prudent one.
+
+4. Was there unfairness in the process?
+
+49 As a general rule, I do not think it appropriate for the court to go into the minutia of the process or of the selling strategy
+adopted by the receiver. However, the court has a responsibility to decide whether the process was fair. The only part of this
+process which I could find that might give even a superficial impression of unfairness is the failure of the receiver to give an
+offering memorandum to those who expressed an interest in the purchase of Air Toronto.
+
+50 I will outline the circumstances which relate to the allegation that the receiver was unfair in failing to provide an offering
+memorandum. In the latter part of 1990, as part of its selling strategy, the receiver was in the process of preparing an offering
+memorandum to give to persons who expressed an interest in the purchase of Air Toronto. The offering memorandum got as
+far as draft form, but was never released to anyone, although a copy of the draft eventually got into the hands of CCFL before
+it submitted the first 922 offer on March 7, 1991. A copy of the offering memorandum forms part of the record, and it seems
+to me to be little more than puffery, without any hard information which a sophisticated purchaser would require in or der to
+make a serious bid.
+
+51 The offering memorandum had not been completed by February11, 1991. On that date, the receiver entered into the letter of
+intent to negotiate with OEL. The letter of intent contained a provision that during its currency the receiver would not negotiate
+with any other party. The letter of intent was renewed from time to time until the OEL offer was received on March 6, 1991.
+
+52      The receiver did not proceed with the offering memorandum because to do so would violate the spirit, if not the letter,
+of its letter of intent with OEL.
+
+53     I do not think that the conduct of the receiver shows any unfairness towards 922. When I speak of 922, I do so in the
+context that Air Canada and CCFL are identified with it. I start by saying that the receiver acted reasonably when it entered into
+exclusive negotiations with OEL. I find it strange that a company, with which Air Canada is closely and intimately involved,
+would say that it was unfair for the receiver to enter into a time-limited agreement to negotiate exclusively with OEL. That is
+precisely the arrangement which Air Canada insisted upon when it negotiated with the receiver in the spring and summer of
+1990. If it was not unfair for Air Canada to have such an agreement, I do not understand why it was unfair for OEL to have a
+
+
+                                                                                                                                   8
+TAB 4
+                        Court of Queen=s Bench of Alberta
+
+Citation: Sanjel Corporation (Re), 2016 ABQB 257
+
+                                                                                 Date: 05162016
+
+
+
+
+                                                                                                     2016 ABQB 257 (CanLII)
+                                                                              Docket: 1601 03143
+                                                                                Registry: Calgary
+
+
+
+     In the matter of the Companies’ Creditors Arrangement Act, R.S.C. 1985, c. C-36,
+                                      as amended
+
+   And in the matter of the Compromise or Arrangement of Sanjel Corporation, Sanjel
+ Canada Ltd., Terracor Group Ltd., Suretech Group Ltd., Suretech Completions Canada
+ Ltd., Sanjel Energy Services (USA) Inc., Sanjel (USA) Inc., Suretech Completions (USA)
+  Inc., Sanjel Capital (USA) Inc., Terracor (USA) Inc., Terracor Resources (USA) Inc.,
+Terracor Logistics (USA) Inc., Sanjel Middle East Ltd., Sanjel Latin America Limited and
+                             Sanjel Energy Services DMCC
+
+
+
+
+              _______________________________________________________
+
+                                 Reasons for Decision
+                                       of the
+                        Honourable Madam Justice B.E. Romaine
+              _______________________________________________________
+I.     Introduction
+[1]     The Sanjel debtors seek orders approving certain sales of assets generated through a SISP
+that was conducted prior to the debtors filing under the Companies’ Creditors Arrangement Act.
+The proceeds of the sales will be insufficient to fully payout the secured creditor, and will
+generate no return to unsecured creditors, including the holders of unsecured Bonds.
+[2]     The Trustee of the Bonds challenged the process under which the SISP was conducted,
+and the use of what he characterized as a liquidating CCAA in this situation. He alleged that the
+use of the CCAA to effect a pre-packaged sale of the debtors’ assets for the benefit of the
+secured creditor was an abuse of the letter and spirit of the CCAA. He also alleged that bad faith
+and collusion tainted the integrity of the SISP.
+[3]    After reviewing extensive evidence and hearing submissions from interested parties, I
+decided to allow the application to approve the sales, and dismiss the application of the Trustee.
+These are my reasons.
+                                               Page: 16
+
+
+negotiations with respect to potential sales or other transactions. It was only on March 14, 2016
+that the Ad Hoc Bondholders requested third party bid information.
+[111] The Ad Hoc Bondholders were not improperly denied access to information, and would
+not have been entitled to know details of the third party bids.
+V.      Conclusion
+
+
+
+
+                                                                                                        2016 ABQB 257 (CanLII)
+[112] I am satisfied by the evidence before me that the factors set out in section 36(3) of the
+CCAA and Soundair favour the approval of the proposed sales. Specifically:
+     (a) the process, while not conducted under the CCAA, was nevertheless reasonable in the
+         circumstances, as established by the evidence. It was brief, but not unreasonably brief,
+         given the previous BAML process, current economic climate and the deteriorating
+         financial position of the Sanjel Group;
+     (b) while the Monitor was not directly involved and did not actively participate in the SISP
+         process prior to February 24, 2016, the Monitor has reviewed the process and is of the
+         opinion that the SISP was a robust process run fairly and reasonably, and that sufficient
+         efforts were made to obtain the best price possible for the Sanjel Group’s assets in that
+         process. I agree with the Monitor’s assessment from my review of the evidence.
+        It is the Monitor’s view, based on (i) the advice of CS and PJT, (ii) the nature of the
+        Sanjel Group’s operations and assets, (iii) the market conditions over the past year, (iv)
+        the proposals received in the context of the SISP and from the Ad Hoc Bondholders, (v)
+        the current ongoing depressed condition of the market and (vi) the underlying value of
+        the Sanjel Group’s assets, it is highly improbably that another post-filing sales process
+        would yield offers for the Canadian and U.S. operations materially in excess of the values
+        contained in the STEP and Liberty APAs.
+        I accept the Monitor’s opinion in that regard, and nothing in my review of the evidence
+        and the submissions of interested parties causes me to doubt that opinion.
+     (c) The Monitor has provided an opinion that the proposed sales are more beneficial to
+         creditors than a sale or disposition under bankruptcy.
+     (d) Creditors, other than trade creditors, were consulted and involved in the process.
+     (e) While the sales provide no return to any creditor other than the Syndicate, I am satisfied
+         that all other viable or reasonable options were considered. While there is no guarantee of
+         further employment arising from the sale, there is the prospect that since the business will
+         continue to operate until the sale, there will be an opportunity for employment for Sanjel
+         employees with the new enterprises, and an opportunity for suppliers to continue to
+         supply them.
+     (f) I am satisfied from the evidence that the consideration to be received for the assets is
+         reasonable and fair.
+I therefore approve the sale approval and vesting orders sought by the Sanjel Group.
+TAB 5
+      IN THE SUPREME COURT OF BRITISH COLUMBIA
+
+Citation:      Peakhill Capital Inc. v. Southview Gardens
+               Limited Partnership,
+               2023 BCSC 1476
+
+
+
+
+                                                                                     2023 BCSC 1476 (CanLII)
+                                                                 Date: 20230825
+                                                               Docket: S-231065
+                                                              Registry: Vancouver
+
+Between:
+                                Peakhill Capital Inc.
+                                                                        Petitioner
+
+And
+
+    Southview Gardens Limited Partnership, Southview Gardens BT Ltd.,
+Southview Gardens Properties Ltd., Zhen Yu Zhong, Junchao Mo, Coromandel
+  Properties (2016) Ltd., Baystone Properties (2016) Ltd., and Coromandel
+                                Holdings Ltd.
+                                                                  Respondents
+
+
+
+                      Before: The Honourable Justice K. Loo
+
+
+                              Reasons for Judgment
+
+Counsel for the Petitioner:                                            E. Laskin
+
+Counsel for the Receiver, KSV                                           V. Tickle
+Restructuring Inc.:
+
+Counsel for Cenyard Pacific Developments                               J. Schultz
+Inc.:                                                                E. Newbery
+
+Counsel for His Majesty the King in right of                           O. James
+the Province of British Columbia:                                      R. Power
+
+Counsel for Cenyard Southview Gardens                               A. Teasdale
+Ltd.:
+
+Place and Date of Hearing:                                      Vancouver, B.C.
+                                                                 August 4, 2023
+Peakhill Capital Inc. v. Southview Gardens Limited Partnership                        Page 7
+
+[21]   In PaySlate #1, Justice Walker held:
+
+       [84]    Although many of the case authorities discussing the circumstances in
+       which RVOs may be issued are in the context of the CCAA, RVOs are
+       available tools in other insolvency cases as well. Similar considerations apply
+       in the context of the BIA.
+
+
+
+
+                                                                                               2023 BCSC 1476 (CanLII)
+       [85]   In the BIA, s. 183 confers jurisdiction in accordance with legal and
+       equitable principles to give effect to its purpose: Re Olympia & York
+       Developments Ltd., [1997] O.J. No. 591 at paras. 7, 10 (Gen. Div., in
+       Bankruptcy); Re Residential Warranty Company of Canada Inc.
+       (Bankrupt), 2006 ABQB 236 at para. 26. Those purposes include those
+       applying to proposals such as s. 65.13(4).
+       [86]     In addition to Blackrock Metals, Harte Gold, and Quest, there are
+       other case authorities finding jurisdiction to order RVOs, including a notice of
+       intention to make a proposal under the BIA (case name is underlined), and
+       receivership proceedings, such as: Plasco Energy (July 17, 2015), Toronto
+       CV-15-10869-00 (Ont. S.C.J. [Comm. List]); Stornoway Diamond
+       Corporation (October 7, 2019), Montreal 500-11-057094-191 (Q.C.S.C.
+       [Comm. Div.]); Wayland Group Corp. (April 21, 2020), Toronto CV-19-
+       00632079-00CL (Ont. S.C.J. [Comm. List]); Comark Holdings Inc. (July 13,
+       2020), Toronto CV-20-00642013-00CL (Ont. S.C.J. [Comm. List]); Beleave
+       Inc. (September 18, 2020), Toronto, CV-20-642097 (Ont. S.C.J. [Comm.
+       List]); JMB Crushing Systems Inc. (October 16, 2020), Calgary 2001-05482
+       (A.B.K.B.); Arrangement relatif à Nemaska Lithium Inc., 2020 QCCS 3218,
+       leave to appeal refused, 2020 QCCA 1488; In the Matter of a Plan of
+       Compromise or Arrangement of Clearbeach Resources Inc. and Forbes
+       Resources Corp., 2021 ONSC 5564; In the Matter of the Notice of Intention to
+       Make a Proposal of Junction Craft Brewing Inc. (November 8 and December
+       20, 2021, Toronto, CV-31-2774500 (Ont. S.C.J. [Comm. List]; Port Capital
+       Development (EV) Inc. (Re), 2022 BCSC 1464, leave to appeal ref'd 1296371
+       B.C. Ltd. v. Domain Mortgage Corp., 2022 BCCA 331; In the Matter of
+       CannaPiece Group Inc., 2023 ONSC 841; In the Matter of CannaPiece Group
+       Inc. (February 10, 2023), Toronto CV-22-689631-00CL (Ont. S.C.J. [Comm.
+       List]); Credit Suisse AG, Cayman Islands Branch v. Southern Pacific
+       Resource Corp. et. al. (May 13, 2022), Calgary 1501-05908 (A.B.K.B.).
+
+[22]   In my view, the issue of whether this Court has jurisdiction to grant RVOs in
+proceedings under the BIA was raised squarely and decided in PaySlate #1. In my
+respectful view, the decision of Justice Walker was both correct and determinative of
+the issue.
+
+[23]   The Province raises two arguments regarding jurisdiction.
+
+[24]   First, it argues that the words of s. 183 of the BIA (or s. 243 which deals with
+receiverships) are insufficient to ground jurisdiction to grant an RVO.
+Peakhill Capital Inc. v. Southview Gardens Limited Partnership                                Page 8
+
+[25]   In my view, this argument is met by PaySlate #1. As stated, Justice Walker
+has decided that the general words of s. 183 are sufficient to ground jurisdiction.
+
+[26]   Second, the Province argues that even if s. 183 provides this Court with
+
+
+
+
+                                                                                                       2023 BCSC 1476 (CanLII)
+jurisdiction generally to grant an RVO, it does not do so in the context of this case. It
+says that that the BIA must be interpreted with regard to the PTTA, and it cites s.
+72(1) of the BIA which states:
+
+       72 (1) The provisions of this Act shall not be deemed to abrogate or
+       supersede the substantive provisions of any other law or statute relating to
+       property and civil rights that are not in conflict with this Act, and the trustee is
+       entitled to avail himself of all rights and remedies provided by that law or
+       statute as supplementary to and in addition to the rights and remedies
+       provided by this Act.
+
+[27]   In my view, this submission is not one which relates to this Court’s
+jurisdiction. Rather, it questions whether the granting of an RVO is appropriate in the
+particular circumstances of this case. The interplay between the RVO sought and
+the provisions of the PTTA will be addressed in detail below.
+
+[28]   As stated above, the Applicants also argue that this Court has jurisdiction to
+grant an RVO under s. 39 of the LEA. Given my conclusion that it has jurisdiction
+under the BIA, it is not necessary for me to decide whether the LEA provides an
+additional basis for this Court’s jurisdiction to grant an RVO and I decline to do so.
+
+Appropriateness
+
+[29]   This case, insofar as I am aware, is unique in the sense that there is no
+reported decision of a Canadian court in a contested proceeding that has addressed
+whether an RVO may be granted solely for the purpose of achieving a tax benefit.
+
+[30]   In order to determine this issue, I will review the principles regarding the
+granting of RVOs, I will address the Province’s argument that an RVO in this case
+would abrogate or supersede the provisions of the PTTA, and I will address the
+Province’s argument that an RVO ought not to be granted in the face of reservations
+expressed by the Receiver about the Transaction proceeding by way of RVO.
+TAB 6
+                                         CITATION: Harte Gold Corp. (Re), 2022 ONSC 653
+                                               COURT FILE NO.: CV-21-00673304-00CL
+                                                                      DATE: 2022-02-04
+
+SUPERIOR COURT OF JUSTICE – ONTARIO (COMMERCIAL LIST)
+
+
+
+
+                                                                                                    2022 ONSC 653 (CanLII)
+RE:          THE COMPANIES’ CREDITORS ARRANGEMENT ACT, R.S.C. 1985, c. C-
+             36, AS AMENDED, Applicant
+
+             AND:
+
+             A PLAN OF COMPROMISE OR ARRANGEMENT OF HARTE GOLD
+             CORP., Applicant
+
+BEFORE:      Penny J.
+
+COUNSEL: Guy P. Martel, Danny Duy Vu, Lee Nicholson, William Rodler Dumais for the
+         Applicant
+
+             Joseph Pasquariello, Chris Armstrong, Andrew Harmes for the Court appointed
+             Monitor
+
+             Leanne M. Williams for the Board of Directors of the Applicant
+
+             Marc Wasserman, Kathryn Esaw, Dave Rosenblat, Justin Kanji for 1000025833
+             Ontario Inc.
+
+             Stuart Brotman and Daniel Richer for BNP Paribas
+
+             Sean Collins, Walker W. MacLeod and Natasha Rambaran for Appian Capital
+             Advisory LLP, 2729992 Ontario Corp., ANR Investments B.V. and AHG (Jersey)
+             Limited
+
+             David Bish for OMF Fund II SO Ltd., Orion Resource Partners (USA) LP and
+             their affiliates
+
+             Orlando M. Rosa and Gordon P. Acton for Netmizaaggamig Nishnaabeg First
+             Nation (Pic Mobert First Nation)
+
+             Timothy Jones for the Attorney General of Ontario
+
+HEARD:       January 28, 2022
+
+
+                                     ENDORSEMENT
+
+[1]   This is a motion by Harte Gold for an approval and reverse vesting order involving the sale
+      of Harte Gold’s mining enterprise to a strategic purchaser (that is, an entity in the gold
+                                               Page: 7
+
+
+              Whether sufficient efforts to get the best price have been made and whether the
+               parties acted providently
+
+              The efficacy and integrity of the process followed
+
+              The interests of the parties, and
+
+
+
+
+                                                                                                       2022 ONSC 653 (CanLII)
+              Whether any unfairness resulted from the process.
+
+       Gouin J. considered that these criteria had been met and found the issuance of the RVO
+       to be a valid exercise of his discretion, concluding that it would serve to maximize
+       creditor recoveries while maintaining the debtor companies as a going concern and
+       allowing an efficient transfer of the necessary permits, licences and authorizations to the
+       purchaser.
+
+[28]   In denying leave to appeal, the Quebec Court of Appeal noted that the CCAA judge found
+       that “the terms ‘sell or otherwise dispose of assets outside the ordinary course of business’
+       under subsection 36(1) of the CCAA should be broadly interpreted to allow a CCAA judge
+       to grant innovative solutions such as RVOs on a case by case basis, in accordance with the
+       wide discretionary powers afforded the supervising judge pursuant to section 11 CCAA,
+       as recognized by the Supreme Court in Callidus”: Nemaska QCCA at para 19.
+
+[29]   Similarly, in Quest University Canada (Re), 2020 BCSC 1883, Justice Fitzpatrick of the
+       British Columbia Supreme Court extensively reviewed the caselaw related to a CCAA
+       court’s authority to grant a reverse vesting order. Fitzpatrick J. found that the CCAA
+       provided sufficient authority to grant the reverse vesting order being sought, which was
+       consistent “with the remedial purposes of the CCAA” and consistent with the Supreme
+       Court of Canada’s ruling on CCAA jurisdiction in 9354-9186 Québec Inc. v. Callidus
+       Capital Corp., 2020 SCC 10. She found, therefore, that the issue in each case is not whether
+       the court has sufficient jurisdiction but whether the relief is “appropriate” in the
+       circumstances and stakeholders are treated as fairly and reasonably as the circumstances
+       permit.
+
+[30]   In Quest, the debtor was in the process of putting forward a plan of compromise under the
+       CCAA. It encountered resistance from an unsecured creditor whose vote could potentially
+       have prevented the necessary creditor approval of the plan. The debtor revised its approach,
+       deleting all conditions precedent requiring creditor and court approval and proceeded with
+       a motion for the approval of an RVO to achieve what it was really after; that is, a sale of
+       certain assets to a new owner with Quest continuing as a going concern academic
+       institution.
+
+[31]   Fitzpatrick J. relied on Callidus to the effect that:
+
+              Courts have long recognized that s. 11 of the CCAA signals legislative endorsement
+               of the “broad reading of CCAA authority developed by the jurisprudence”. On the
+               plain wording of the provision, the jurisdiction granted by s. 11 is constrained only
+                                              Page: 9
+
+
+[35]   It is worthy of note that, in both Nemaska and Quest, the bona fides of the objectors were
+       front and centre in the judicial analysis and, in both cases, the motivations and objectives
+       of the objectors were found suspect and inadequate.
+
+[36]   The jurisdiction of the court to issue an RVO is frequently said to arise from s. 11 and s.
+       36(1) of the CCAA. However, the structure of the transaction employing an RVO typically
+
+
+
+
+                                                                                                         2022 ONSC 653 (CanLII)
+       does not involve the debtor ‘selling or otherwise disposing of assets outside the ordinary
+       course of business’, as provided in s. 36(1). This is because the RVO structure is really a
+       purchase of shares of the debtor and “vesting out” from the debtor to a new company, of
+       unwanted assets, obligations and liabilities.
+
+[37]   I am, therefore, not sure I agree with the analysis which founds jurisdiction to issue an
+       RVO in s. 36(1). But that can be left for another day because I am wholeheartedly in
+       agreement that s. 11, as broadly interpreted in the jurisprudence including, most recently,
+       Callidus, clearly provides the court with jurisdiction to issue such an order, provided the
+       discretion available under s. 11 is exercised in accordance with the objects and purposes of
+       the CCAA. And it is for this reason that I also wholeheartedly agree that the analytical
+       framework of s. 36(3) for considering an asset sale transaction, even though s. 36 may not
+       support a standalone basis for jurisdiction in an RVO situation, should be applied, with
+       necessary modifications, to an RVO transaction.
+
+[38]   Given this context, however, I think it would be wrong to regard employment of the RVO
+       structure in an insolvency situation as the “norm” or something that is routine or ordinary
+       course. Neither the BIA nor the CCAA deal specifically with the use or application of an
+       RVO structure. The judicial authorities approving this approach, while there are now quite
+       a few, do not generally provide much guidance on the positive and negative implications
+       of this restructuring technique or what to look out for. Broader-based commentary and
+       discussion is only now just now starting to emerge. This suggests to me that the RVO
+       should continue to be regarded as an unusual or extraordinary measure; not an approach
+       appropriate in any case merely because it may be more convenient or beneficial for the
+       purchaser. Approval of the use of an RVO structure should, therefore, involve close
+       scrutiny. The Monitor and the court must be diligent in ensuring that the restructuring is
+       fair and reasonable to all parties having regard to the objectives and statutory constraints
+       of the CCAA. This is particularly the case where there is no party with a significant stake
+       in the outcome opposing the use of an RVO structure. The debtor, the purchaser and
+       especially the Monitor, as the court appointed officer overseeing the process and
+       answerable to the court (and in addition to all the usual enquiries and reporting obligations),
+       must be prepared to answer questions such as:
+
+       (a)    Why is the RVO necessary in this case?
+
+       (b)    Does the RVO structure produce an economic result at least as favourable as any
+              other viable alternative?
+
+       (c)    Is any stakeholder worse off under the RVO structure than they would have been
+              under any other viable alternative? and
+TAB 7
+ CITATION: Just Energy Group Inc. et. al. v. Morgan Stanley Capital Group Inc. et. al., 2022
+                                                                              ONSC 6354
+                                              COURT FILE NO.: CV-21-00658423-00CL
+                                                                        DATE: 20221114
+
+                                       ONTARIO
+
+
+
+
+                                                                                               2022 ONSC 6354 (CanLII)
+                          SUPERIOR COURT OF JUSTICE
+BETWEEN:                              )
+                                      )
+IN THE MATTER OF THE COMPANIES’ ) Jeremy Dacks and Marc Wasserman,
+CREDITORS ARRANGEMENT ACT,            ) Counsel to the Just Energy Group
+R.S.C. 1985, c. C-36, AS AMENDED      )
+                                      ) Tim Pinos, Ryan Jacobs and Alan Merskey,
+– and –                               ) Canadian Counsel to LVS III SPE XV LP,
+                                      ) TOCU XVII LLC, HVS XVI LLC, OC II
+IN THE MATTER OF A PLAN OF            ) LVS XIV LP, OC III LFE I LP and CBHT
+COMPROMISE OR ARRANGEMENT OF ) Energy I LLC
+JUST ENERGY GROUP INC., JUST          )
+ENERGY CORP., ONTARIO ENERGY          ) David H. Botter and Sarah Link Schultz,
+COMMODITIES INC., UNIVERSALE          ) U.S. Counsel to LVS III SPE XV LP, TOCU
+ENERGY CORPORATION, JUST              ) XVII LLC, HVS XVI LLC, OC II LVS XIV
+ENERGY FINANCE CANDA ULC,             ) LP, OC III LFE I LP and CBHT Energy I
+HUDSON ENERGY CANADA CORP.,           ) LLC
+JUST MANAGEMENT CORP., JUST           )
+ENERGY FINANCE HOLDING INC.,          ) Heather L. Meredith and James D. Gage,
+11929747 CANADA INC., 12175592        ) Canadian Counsel to the Agent and the
+CANADA INC., JE SERVICES HOLDCO ) Credit Facility Lenders
+I INC., JE SERVICES HOLDCO II INC.,   )
+8704104 CANADA INC., JUST ENERGY      ) Howard A. Gorman and Ryan E. Manns,
+ADVANCED SOLUTIONS CORP., JUST        ) Counsel for Shell Energy North American
+ENERGY (U.S.) CORP., JUST ENERGY      ) (Canada) Inc. and Shell Energy North
+ILLINOIS CORP., JUST ENERGY           ) America (U.S.)
+INDIANA CORP., JUST ENERGY            )
+MASSACHUSETTS CORP., JUST             ) Danielle Glatt, Counsel to U.S. Counsel for
+ENERGY NEW YORK CORP., JUST           ) Fira Donin and Inna Golovan, in their
+ENERGY TEXAS I CORP., JUST            ) capacity as proposed class representatives in
+ENERGY, LLC, JUST ENERGY              ) Donin et al. v. Just Energy Group Inc. et al.
+PENNSYLVANIA CORP., JUST              ) and Counsel to U.S. Counsel for Trevor
+ENERGY MICHIGAN CORP., JUST           ) Jordet, in his capacity as proposed class
+ENERGY SOLUTIONS INC., HUDSON         ) representative in Jordet v. Just Energy
+ENERGY SERVICES LLC, HUDSON           ) Solutions Inc.
+ENERGY CORP., INTERACTIVE             )
+ENERGY GROUP LLC , HUDSON             ) David Rosenfeld and James Harnum,
+PARENT HOLDINGS LLC, DRAG             ) Counsel for Haidar Omarali in his capacity
+                                             Page: 2
+
+
+
+ MARKETING LLC JUST ENERGY        )                 as Representative Plaintiff in Omarali v. Just
+ ADVANCED SOLUTIONS LLC,          )                 Energy
+ FULCRUM RETAIL ENERGY LLC,       )
+ FULCRUM RETAIL HOLDINGS LLC,     )                 Robert Kennedy, Counsel for BP Energy
+
+
+
+
+                                                                                                     2022 ONSC 6354 (CanLII)
+ TARA ENERGY, LLC, JUST ENERGY    )                 Company and certain of its affiliates
+ MARKETING CORP., JUST ENERGY     )
+ CONNECTICUT CORP., JUST ENERGY   )                 Jessica MacKinnon, Counsel for Macquarie
+ LIMITED, JUST SOLAR HOLDINGS     )                 Energy LLC and Macquarie Energy Canada
+ CORP. and JUST ENERGY (FINANCE)  )                 Ltd.
+ HUNGARY ZRT.                     )
+                                  )                 Bevan Brooksbank, Counsel for Chubb
+                       Applicants )                 Insurance Co. of Canada
+                                  )
+ – and –                          )                 Alexandra McCawley, Counsel for Counsel
+                                  )                 to Fortis BC Energy Inc.
+ MORGAN STANLEY CAPITAL GROUP     )
+ INC.                             )                 Robert I. Thornton, Rebecca Kennedy,
+                                  )                 Rachel B. Nicholson and Puya Fesharaki,
+                      Respondents )                 Counsel to FTI Consulting Canada Inc., as
+                                  )                 Monitor
+                                  )
+                                  )                 John F. Higgins, U.S. Counsel to FTI
+                                  )                 Consulting Canada Inc., as Monitor
+                                  )
+                                  )                 Ganesh Yadav, self-represented
+                                  )
+                                  )                 Mohammad Jaafari, self-represented
+                                  )
+                                  )                 HEARD: November 2, 2022
+
+
+
+
+                                       ENDORSEMENT
+
+MCEWEN J.
+
+[1]     The Applicants (collectively the “Just Energy Entities”) bring a motion seeking approval
+of a going-concern sale transaction (the “Transaction”) for their business. They seek to implement
+the Transaction through a proposed draft reverse vesting order (the “RVO”) and other related
+relief.
+
+[2]     The Just Energy Entities provided the court with two draft orders in furtherance of their
+position. The first is the RVO for the Transaction. The second is an order (the “Monitor’s Order”)
+                                               Page: 7
+
+
+
+               (d)    the extent to which the creditors were consulted;
+
+               (e)     the effects of the proposed sale or disposition on the creditors and other
+               interested parties; and
+
+
+
+
+                                                                                                      2022 ONSC 6354 (CanLII)
+               (f)      whether the consideration to be received for the assets is reasonable and
+               fair, taking into account their market value.
+
+[32] In Harte Gold Corp. (Re), 2022 ONSC 653, Penny J. held that the s. 36(3) criteria largely
+correspond to the principles articulated in Royal Bank of Canada v. Soundair Corp (1991), 4 O.R.
+(3d) 1 (C.A) for the approval of the sale of assets in an insolvency. They are as follows:
+
+                      whether sufficient effort has been made to obtain the best price and that
+                       the debtor has not acted improvidently;
+
+                      the interests of all parties;
+
+                      the efficacy and integrity of the process by which offers have been
+                       obtained; and
+
+                      whether there has been unfairness in the working out of the process.
+
+[33] Reverse vesting orders are relatively new structures. I agree that reverse vesting orders
+should not be the “norm” and that a court should carefully consider whether a reverse vesting order
+is warranted in the circumstances: see Harte Gold Corp. (Re), at para. 38; Black Rock Metals Inc.,
+at para. 99. That said, reverse vesting orders have been deemed appropriate in a number of cases:
+see Quest University (Re), at para. 168, Harte Gold Corp. (Re), at para. 77 and Black Rock Metals
+Inc., at para. 114.
+
+[34]   The aforementioned cases approved reverse vesting orders in circumstances where:
+
+                      The debtor operated in a highly-regulated environment in which its
+                       existing permits, licenses or other rights were difficult or impossible to
+                       reassign to a purchaser.
+
+                      The debtor is a party to certain key agreements that would be similarly
+                       difficult or impossible to assign to a purchaser.
+
+                      Where maintaining the existing legal entities would preserve certain tax
+                       attributes that would otherwise be lost in a traditional vesting order
+                       transaction.
+
+[35] Given the supporting jurisprudence, I will now discuss why the RVO should be granted
+and why the Transaction should be approved.
+TAB 8
+                           CITATION: Lydian International Limited (Re), 2020 ONSC 4006
+                                           COURT FILE NO.: CV-19-00633392-00CL
+                                                                     DATE: 2020-07-10
+SUPERIOR COURT OF JUSTICE - ONTARIO
+(COMMERCIAL LIST)
+
+
+
+
+                                                                                           2020 ONSC 4006 (CanLII)
+RE:   IN THE MATTER OF THE COMPANIES’ CREDITORS ARRANGEMENT ACT, R.S.C.
+      1985, c. C-36, AS AMENDED
+
+      AND IN THE MATTER OF A PLAN OF COMPROMISE OR ARRANGEMENT OF
+      LYDIAN INTERNATIONAL LIMITED, LYDIAN CANADA VENTURES
+      CORPORATION AND LYDIAN U.K. CORPORATION LIMITED
+
+BEFORE:      Chief Justice G.B. Morawetz
+
+COUNSEL: Elizabeth Pillon, Maria Konyukhova, Sanja Sopic, and Nicholas Avis, for the
+         Applicants
+
+             D. J. Miller and Rachel Bergino, for Alvarez & Marsal Inc.
+
+             Robert Mason and Virginie Gauthier, for Osisko Bermuda Limited
+
+             Pamela Huff and Chris Burr, for Resource Capital Fund VI L.P.
+
+             David Bish and Michael Pickersgill, for Orion Capital Management
+
+             Alexander Steele, for Caterpillar Financial Services (UK) Limited
+
+             Bruce Darlington, for ING Bank N.V./Abs Svensk Exportkredit (publ)
+
+             John LeRoux, Hasan Ciftehan, Mehmet Ali Ekingen and Atilla Bozkay, each in
+             their capacity as a Shareholders of Lydian International Limited
+
+HEARD by ZOOM Hearing
+and DECIDED:                       June 29, 2020
+
+REASONS RELEASED:                  July 10, 2020
+
+
+                                    ENDORSEMENT
+
+[1]   Lydian International Limited, Lydian Canada Ventures Corporation and Lydian U.K.
+Corporation Limited (the “Applicants”) bring this motion for an order (the “Sanction and
+Implementation Order”), among other things:
+                                          - Page 10 -
+
+
+at para 92 (CanLII) CCAA at s. 5(1); Re Metcalfe & Mansfield Alternative Investments II Corp.,
+2008 ONCA 587 at paras 61 and 70 (CanLII); Re Canwest Global Communications Corp, 2010
+ONSC 4209 at para 28-30 (CanLII); and Re Kitchener Frame Ltd, 2012 ONSC 234 at paras 85-
+88 (CanLII).
+
+[54] The Applicants submit that in considering whether to approve releases in favour of third
+
+
+
+
+                                                                                                   2020 ONSC 4006 (CanLII)
+parties, courts will consider the particular circumstances of the case and the objectives of the
+CCAA. While no single factor will be determinative, the courts have considered the following
+factors:
+
+           a) Whether the parties to be released from claims were necessary and
+              essential to the restructuring of the debtor;
+
+           b) Whether the claims to be released were rationally connected to the
+              purpose of the plan and necessary for it;
+
+           c) Whether the plan could succeed without the releases;
+
+           d) Whether the parties being released were contributing to the plan; and
+
+           e) Whether the release benefitted the debtors as well as the creditors
+              generally.
+
+[55] The Applicants submit that the releases were critical components of the decision-making
+process for the Applicants’ directors and officers and Senior Lenders’ participation in these
+CCAA Proceedings in proposing the Plan and the Applicants submit that they would not have
+brought forward the Plan absent the inclusion of the releases.
+
+[56] The Applicants also submit that the support of the Senior Lenders is essential to the
+Plan’s viability. Without such support, which is conditional on the releases, the Plan would not
+succeed.
+
+[57] The Applicants submit that the Released Parties made significant contributions to the
+Applicants’ restructuring, both prior to and throughout these CCAA Proceedings. The extensive
+efforts of the Applicants’ directors and officers and the Senior Lenders and Monitor resulted in
+the negotiation of the Plan, which forms the foundation for the completion of these CCAA
+Proceedings. The Senior Lenders financial contributions through forbearances, additional
+advances and DIP and Exit Financing were instrumental.
+
+[58] The Applicants also submit that the releases are an integral part of the CCAA Plan which
+provides an orderly and effective alternative to uncoordinated and disruptive secured lender
+enforcement proceedings. The Plan permits unsecured creditors future potential recovery in the
+Restructured Lydian Group, which may not exist in bankruptcy (Re Metcalfe &Mansfield
+Alternative Investments II Corp., 2008 ONCA 587 at paras 71 (CanLII); and Re Kitchener Frame
+Ltd, 2012 ONSC 234 at paras 80-82 (CanLII).
+TAB 9
+[2021] 2 R.C.S.                           SHERMAN (SUCCESSION) c. DONOVAN                                        75
+
+
+Estate of Bernard Sherman and                               Succession de Bernard Sherman et
+Trustees of the Estate and                                  fiduciaires de la succession et
+Estate of Honey Sherman and                                 Succession de Honey Sherman et
+Trustees of the Estate Appellants                           fiduciaires de la succession Appelants
+
+v.                                                          c.
+
+
+
+
+                                                                                                                       2021 SCC 25 (CanLII)
+Kevin Donovan and                                           Kevin Donovan et
+Toronto Star Newspapers Ltd. Respondents                    Toronto Star Newspapers Ltd. Intimés
+
+and                                                         et
+
+Attorney General of Ontario,                                Procureur général de l’Ontario,
+Attorney General of British Columbia,                       procureur général de la Colombie-
+Canadian Civil Liberties Association,                       Britannique,
+Income Security Advocacy Centre,                            Association canadienne des libertés civiles,
+Ad IDEM/Canadian Media Lawyers                              Centre d’action pour la sécurité du revenu,
+Association,                                                Ad IDEM/Canadian Media Lawyers
+Postmedia Network Inc., CTV, a Division                     Association,
+of Bell Media Inc.,                                         Postmedia Network Inc., CTV, une division
+Global News, a division of Corus Television                 de Bell Média inc.,
+Limited Partnership,                                        Global News, a division of Corus Television
+The Globe and Mail Inc.,                                    Limited Partnership,
+Citytv, a division of Rogers Media Inc.,                    The Globe and Mail Inc.,
+British Columbia Civil Liberties Association,               Citytv, a division of Rogers Media Inc.,
+HIV & AIDS Legal Clinic Ontario,                            British Columbia Civil Liberties Association,
+HIV Legal Network and                                       HIV & AIDS Legal Clinic Ontario, Réseau
+Mental Health Legal Committee Interveners                   juridique VIH et
+                                                            Mental Health Legal Committee Intervenants
+
+Indexed as: Sherman Estate v. Donovan                       Répertorié : Sherman (Succession) c.
+                                                            Donovan
+2021 SCC 25                                                 2021 CSC 25
+File No.: 38695.                                            No du greffe : 38695.
+2020: October 6; 2021: June 11.                             2020 : 6 octobre; 2021 : 11 juin.
+Present: Wagner C.J. and Moldaver, Karakatsanis,            Présents : Le juge en chef Wagner et les juges Moldaver,
+Brown, Rowe, Martin and Kasirer JJ.                         Karakatsanis, Brown, Rowe, Martin et Kasirer.
+
+ON APPEAL FROM THE COURT OF APPEAL FOR                      EN APPEL DE LA COUR D’APPEL DE L’ONTARIO
+ONTARIO
+   Courts — Open court principle — Sealing orders —            Tribunaux — Principe de la publicité des débats judi-
+Discretionary limits on court openness — Important public   ciaires — Ordonnances de mise sous scellés — Limites
+[2021] 2 R.C.S.                 SHERMAN (SUCCESSION) c. DONOVAN          Le juge Kasirer                        97
+
+
+dignity dimension of their privacy is at “serious risk”.   qu’il y a un « risque sérieux » pour cette dimension
+For the purposes of the test for discretionary limits      de sa vie privée liée à sa dignité. Pour l’application
+on court openness, this requires the applicant to show     du test des limites discrétionnaires à la publicité des
+that the information in the court file is sufficiently     débats judiciaire, le demandeur doit donc démontrer
+sensitive such that it can be said to strike at the bio-   que les renseignements contenus dans le dossier
+graphical core of the individual and, in the broader       judiciaire sont suffisamment sensibles pour que l’on
+circumstances, that there is a serious risk that, with-    puisse dire qu’ils touchent au cœur même des ren-
+
+
+
+
+                                                                                                                      2021 SCC 25 (CanLII)
+out an exceptional order, the affected individual will     seignements biographiques de la personne et, dans
+suffer an affront to their dignity.                        un contexte plus large, qu’il existe un risque sérieux
+                                                           d’atteinte à la dignité de la personne concernée si une
+                                                           ordonnance exceptionnelle n’est pas rendue.
+
+[36] In the present case, the information in the           [36] En l’espèce, les renseignements contenus dans
+court files was not of this highly sensitive character     les dossiers judiciaires ne revêtent pas ce caractère
+that it could be said to strike at the core identity       si sensible qu’on pourrait dire qu’ils touchent à
+of the affected persons; the Trustees have failed to       l’identité fondamentale des personnes concernées;
+show how the lifting of the sealing orders engages         les fiduciaires n’ont pas démontré en quoi la levée
+the dignity of the affected individuals. I am therefore    des ordonnances de mise sous scellés met en jeu la
+not convinced that the intrusion on their privacy          dignité des personnes touchées. Je ne suis donc pas
+raises a serious risk to an important public interest as   convaincu que l’atteinte à leur vie privée soulève
+required by Sierra Club. Moreover, as I shall endeav-      un risque sérieux pour un intérêt public important,
+our to explain, there was no serious risk of physical      comme l’exige Sierra Club. De plus, comme je ten-
+harm to the affected individuals by lifting the sealing    terai de l’expliquer, il n’y avait pas de risque sérieux
+orders. Accordingly, this is not an appropriate case in    que les personnes visées subissent un préjudice phy-
+which to make sealing orders, or any order limiting        sique en raison de la levée des ordonnances de mise
+access to these court files. In the circumstances, the     sous scellés. Par conséquent, la présente affaire n’est
+admissibility of the Toronto Star’s new evidence is        pas un cas où il convient de rendre des ordonnances
+moot. I propose to dismiss the appeal.                     de mise sous scellés ni aucune ordonnance limi-
+                                                           tant l’accès aux dossiers judiciaires en cause. Dans
+                                                           les circonstances, la question de l’admissibilité des
+                                                           nouveaux éléments de preuve du Toronto Star est
+                                                           théorique. Je suis d’avis de rejeter le pourvoi.
+
+A. The Test for Discretionary Limits on Court              A. Le test des limites discrétionnaires à la publicité
+   Openness                                                   des débats judiciaires
+
+[37] Court proceedings are presumptively open              [37] Les procédures judiciaires sont présumées
+to the public (MacIntyre, at p. 189; A.B. v. Bragg         accessibles au public (MacIntyre, p. 189; A.B. c.
+Communications Inc., 2012 SCC 46, [2012] 2 S.C.R.          Bragg Communications Inc., 2012 CSC 46, [2012]
+567, at para. 11).                                         2 R.C.S. 567, par. 11).
+
+[38] The test for discretionary limits on presump-         [38] Le test des limites discrétionnaires à la pu-
+tive court openness has been expressed as a two-step       blicité présumée des débats judiciaires a été décrit
+inquiry involving the necessity and proportionality        comme une analyse en deux étapes, soit l’étape de
+of the proposed order (Sierra Club, at para. 53).          la nécessité et celle de la proportionnalité de l’or-
+Upon examination, however, this test rests upon three      donnance proposée (Sierra Club, par. 53). Après un
+core prerequisites that a person seeking such a limit      examen, cependant, je constate que ce test repose sur
+must show. Recasting the test around these three           trois conditions préalables fondamentales dont une
+98                          SHERMAN ESTATE v. DONOVAN        Kasirer J.                          [2021] 2 S.C.R.
+
+
+prerequisites, without altering its essence, helps to     personne cherchant à faire établir une telle limite
+clarify the burden on an applicant seeking an excep-      doit démontrer le respect. La reformulation du test
+tion to the open court principle. In order to succeed,    autour de ces trois conditions préalables, sans en
+the person asking a court to exercise discretion in       modifier l’essence, aide à clarifier le fardeau auquel
+a way that limits the open court presumption must         doit satisfaire la personne qui sollicite une exception
+establish that:                                           au principe de la publicité des débats judiciaires.
+                                                          Pour obtenir gain de cause, la personne qui demande
+
+
+
+
+                                                                                                                     2021 SCC 25 (CanLII)
+                                                          au tribunal d’exercer son pouvoir discrétionnaire
+                                                          de façon à limiter la présomption de publicité doit
+                                                          établir que :
+(1) court openness poses a serious risk to an impor-      (1) la publicité des débats judiciaires pose un risque
+    tant public interest;                                     sérieux pour un intérêt public important;
+(2) the order sought is necessary to prevent this         (2) l’ordonnance sollicitée est nécessaire pour
+    serious risk to the identified interest because           écarter ce risque sérieux pour l’intérêt mis en
+    reasonably alternative measures will not prevent          évidence, car d’autres mesures raisonnables ne
+    this risk; and,                                           permettront pas d’écarter ce risque; et
+(3) as a matter of proportionality, the benefits of the   (3) du point de vue de la proportionnalité, les avan-
+    order outweigh its negative effects.                      tages de l’ordonnance l’emportent sur ses effets
+                                                              négatifs.
+
+Only where all three of these prerequisites have been     Ce n’est que lorsque ces trois conditions préalables
+met can a discretionary limit on openness — for           sont remplies qu’une ordonnance discrétionnaire
+example, a sealing order, a publication ban, an order     ayant pour effet de limiter la publicité des débats
+excluding the public from a hearing, or a redaction       judiciaires — par exemple une ordonnance de mise
+order — properly be ordered. This test applies to         sous scellés, une interdiction de publication, une
+all discretionary limits on court openness, subject       ordonnance excluant le public d’une audience ou
+only to valid legislative enactments (Toronto Star        une ordonnance de caviardage — pourra dûment être
+Newspapers Ltd. v. Ontario, 2005 SCC 41, [2005] 2         rendue. Ce test s’applique à toutes les limites discré-
+S.C.R. 188, at paras. 7 and 22).                          tionnaires à la publicité des débats judiciaires, sous
+                                                          réserve uniquement d’une loi valide (Toronto Star
+                                                          Newspapers Ltd. c. Ontario, 2005 CSC 41, [2005] 2
+                                                          R.C.S. 188, par. 7 et 22).
+
+[39] The discretion is structured and controlled in       [39] Le pouvoir discrétionnaire est ainsi structuré
+this way to protect the open court principle, which       et contrôlé de manière à protéger le principe de la
+is understood to be constitutionalized under the right    publicité des débats judiciaires, qui est considéré
+to freedom of expression at s. 2(b) of the Charter        comme étant constitutionnalisé sous le régime du
+(New Brunswick, at para. 23). Sustained by freedom        droit à la liberté d’expression garanti par l’al. 2b) de
+of expression, the open court principle is one of         la Charte (Nouveau-Brunswick, par. 23). Reposant
+the foundations of a free press given that access to      sur la liberté d’expression, le principe de la publi-
+courts is fundamental to newsgathering. This Court        cité des débats judiciaires est l’un des fondements
+has often highlighted the importance of open judi-        de la liberté de la presse étant donné que l’accès
+cial proceedings to maintaining the independence          aux tribunaux est un élément essentiel de la collecte
+and impartiality of the courts, public confidence         d’information. Notre Cour a souvent souligné l’im-
+and understanding of their work and ultimately the        portance de la publicité pour maintenir l’indépen-
+legitimacy of the process (see, e.g., Vancouver Sun,      dance et l’impartialité des tribunaux, la confiance du
+TAB 10
+                       SUPREME COURT OF YUKON
+
+Citation: Yukon (Government of) v                                      Date: 20220121
+          Yukon Zinc Corporation,                                   S.C. No. 19-A0067
+          2022 YKSC 2                                              Registry: Whitehorse
+
+
+
+
+                                                                                           2022 YKSC 2 (CanLII)
+BETWEEN:
+
+                              GOVERNMENT OF YUKON
+                   as represented by the Minister of the Department of
+                             Energy, Mines and Resources
+
+
+                                                                           PETITIONER
+
+AND
+
+                             YUKON ZINC CORPORATION
+
+
+
+                                                                         RESPONDENT
+
+Before Chief Justice S.M. Duncan
+
+
+Counsel for the Petitioner                                          John T. Porter and
+                                                               Kimberly Sova (by video)
+
+No one appearing                                                Yukon Zinc Corporation
+
+Counsel for Welichem Research                                    H. Lance Williams and
+General Partnership                                              Forrest Finn (by video)
+
+Counsel for                                                        Tevia Jeffries and
+PricewaterhouseCoopers Inc.                                  Emma Newbery (by video)
+
+                              REASONS FOR DECISION
+
+
+Introduction
+
+[1]   The court-appointed Receiver, PricewaterhouseCoopers Inc., brings two
+
+applications: one for Orders approving the sale of certain mineral claims and related
+Yukon (Government of) v
+Yukon Zinc Corporation, 2022 YKSC 2                                                   Page 13
+
+bidders’ withdrawal or rejection would affect the possibility of free and open negotiation
+
+in any future sale process.
+
+[37]   The two-part test for a sealing order was set out in Sierra Club of Canada v
+
+Canada (Minister of Finance), 2002 SCC 41 (“Sierra Club”) at 543-44:
+
+
+
+
+                                                                                                2022 YKSC 2 (CanLII)
+              (a)    such an order is necessary in order to prevent a
+                     serious risk to an important interest, including a
+                     commercial interest, in the context of litigation
+                     because reasonably alternative measures will not
+                     prevent the risk; and
+
+              (b)    the salutary effects of the [sealing] order including the
+                     effects on the right of civil litigants to a fair trial,
+                     outweigh its deleterious effects, including the effects
+                     on the right to free expression, which in this context
+                     includes the public interest in open and accessible
+                     court proceedings.
+
+[38]   The recent Supreme Court of Canada decision of Sherman Estate v Donovan,
+
+2021 SCC 25 (“Sherman Estate”) confirmed the test set out in Sierra Club continues to
+
+be an appropriate guide for judicial discretion (at para.43), and added the following
+
+three core prerequisites to be met before the imposition of a sealing order at para. 38:
+
+              (1)    court openness poses a serious risk to an important
+                     public interest;
+
+              (2)    the order sought is necessary to prevent this serious
+                     risk to the identified interest because reasonably
+                     alternative measures will not prevent this risk; and,
+
+              (3)    as a matter of proportionality, the benefits of the order
+                     outweigh its negative effects.
+
+[39]   In the insolvency context, especially where there is a sale process, it is a
+
+standard practice to keep all aspects of the bidding or sales process confidential.
+
+Courts have found this appropriately meets the Sierra Club test as modified by Sherman
+
+Estate, as sealing this information ensures the integrity of the sales and marketing
+Yukon (Government of) v
+Yukon Zinc Corporation, 2022 YKSC 2                                                 Page 14
+
+process and avoids misuse of information by bidders in a subsequent process to obtain
+
+an unfair advantage. The important public interest at stake is described as the
+
+commercial interests of the Receiver, bidders, creditors and stakeholders in ensuring a
+
+
+
+
+                                                                                              2022 YKSC 2 (CanLII)
+fair sales and marketing process is carried out, with all bidders on a level playing field.
+
+[40]   This requirement for confidentiality no longer exists when the sale process is
+
+completed and as a result any sealing order is generally lifted at that time. As noted by
+
+the court in the insolvency proceeding of GE Canada Real Estate Financing Business
+
+Property Co v 1262354 Ontario Inc, 2014 ONSC 1173 at paras. 33-34:
+
+              The purpose of granting such a sealing order is to protect
+              the integrity and fairness of the sales process by ensuring
+              that competitors or potential bidders do not obtain an unfair
+              advantage by obtaining sensitive commercial information
+              about the asset up for sale while others have to rely on their
+              own resources to place a value on the asset when preparing
+              their bids.
+
+              To achieve that purpose a sealing order typically
+              remains in place until the closing of the proposed sales
+              transaction. If the transaction closes, then the need for
+              confidentiality disappears and the sealed materials can
+              become part of the public court file. If the transaction
+              proposed by the receiver does not close for some
+              reason, then the materials remain sealed so that the
+              confidential information about the asset under sale does
+              not become available to potential bidders in the next
+              round of bidding, thereby preventing them from gaining
+              an unfair advantage in their subsequent bids. The
+              integrity of the sale process necessitates keeping all
+              bids confidential until a final sale of the assets has
+              taken place. [emphasis added].
+
+[41]   Look Communications Inc v Look Mobile Corp (2009), 183 ACWS (3d) 736 (Ont
+
+Sup Ct) (“Look”) was decided not in the insolvency context but in the context of a court-
+
+approved sales process requiring the appointment of a monitor, and a plan of
+
+arrangement under the Business Corporations Act, R.S.C. 1985, c. C.44. The facts
+TAB 11
+       IN THE SUPREME COURT OF BRITISH COLUMBIA
+
+Citation:       Leslie & Irene Dube Foundation Inc. v.
+                P218 Enterprises Ltd.,
+                2014 BCSC 1855
+
+
+
+
+                                                                                        2014 BCSC 1855 (CanLII)
+                                                                   Date: 20141002
+                                                                 Docket: S-139627
+                                                                Registry: Vancouver
+
+Between:
+            Leslie & Irene Dube Foundation Inc. and 1076586 Alberta Ltd.
+                                                                       Petitioners
+
+And
+
+                 P218 Enterprises Ltd., Wayne Holdings Ltd.,
+ Okanagan Valley Asset Management Corporation, Willow Green Estates Inc.,
+         BMK 112 Holdings Inc., 0720609 B.C. Ltd., 0757736 B.C. Ltd.,
+0748768 B.C. Ltd., Dr. T. O’Farrell Inc., Pinloco Holdings Inc., 602033 B.C. Ltd.,
+       Andrian W. Bak, MD, FRCPC, Inc., Interior Savings Credit Union,
+ Valiant Trust Company, Mara Lumber (Kelowna) (2007) Ltd., Rona Revy Inc.,
+     Rocky Point Engineering Ltd., Mitsubishi Electric Sales Canada Inc.,
+         BFI Canada Inc., John Byrson & Partners, Winn Rentals Ltd.,
+     0964502 B.C. Ltd., Denby Land Surveying Limited, Mega Cranes Ltd.,
+ Weq Britco LP, Roynat Inc., Mcap Leasing Inc., Bodkin Leasing Corporation,
+                  HSBC Bank Canada, and Bank of Montreal
+                                                                      Respondents
+
+
+
+                  Before: The Honourable Mr. Justice G.C. Weatherill
+
+
+
+                               Reasons for Judgment
+
+Counsel for the Receiver, Ernest & Young Inc.:                           J.D. Schultz
+                                                                       J.R. Sandrelli
+
+Counsel for the Petitioners:                                            D.E. Gruber
+
+Counsel for Valiant Trust Company:                                      J.D. Shields
+
+Counsel for 0964502 B.C. Ltd.:                                         C.K. Wendell
+Leslie & Irene Dube Foundation Inc. v. P218 Enterprises Ltd.                    Page 14
+
+
+       e) engagement of Colliers for SH Process:                    $50,000
+
+       f) other consulting fees:                                    $75,000
+
+       g) office, utility and operating expenses:                   $52,500
+
+
+
+
+                                                                                           2014 BCSC 1855 (CanLII)
+       h) contingency:                                              $55,000
+
+                  TOTAL                                          $1,357,500
+
+
+[49]    The Receiver seeks to amend the Receivership Order pronounced
+January 27, 2014, as amended February 6, 2014 such that its permitted borrowing
+charge is increased from $2.5 million to $3.5 million.
+
+[50]    The Bond Holders and the Lien Claimants oppose the increase on the basis
+that there is no evidence as to where the increase in financing will come from or
+what the rate will be and that no particulars have been provided as to who the
+money will be paid to or why.
+
+[51]    I agree that approval of an increase in the borrowing charge in a vacuum is
+not desirable. However, I understand that negotiations are underway with the
+lender. I am satisfied that there is a need for the Receiver’s borrowing charge to be
+increased, particularly given that more work will be required regarding the valuation
+and marketing of the Development.
+
+[52]    I am prepared to allow the increase on the condition that the financial terms
+for the increase are no less favourable to the creditors than the current terms of the
+Receiver’s borrowing charge.
+
+        Approval of the Receiver’s Activities to Date
+
+[53]    The Receiver seeks approval of its activities as set out in its first and second
+reports to the Court dated January 30 and August 14, 2014, respectively.
+
+[54]    The court has inherent jurisdiction to review and approve or disapprove the
+activities of a court appointed receiver. If the receiver has met the objective test of
+demonstrating that it has acted reasonably, prudently and not arbitrarily, the court
+Leslie & Irene Dube Foundation Inc. v. P218 Enterprises Ltd.                     Page 15
+
+
+may approve the activities set out in its report to the court: Bank of America Canada
+v. Willann Investments Ltd., [1993] O.J. No. 1647 (Ct. J.) at paras. 3-5, aff’d [1996]
+O.J. No. 2806 (C.A.); Lang Michener v. American Bullion Minerals Ltd., 2005 BCSC
+684 at para. 21.
+
+
+
+
+                                                                                            2014 BCSC 1855 (CanLII)
+[55]     I accept that the Receiver has essentially fulfilled its mandate with respect to
+completion of Phase 1. Its activities as set out in its first report are approved.
+
+[56]     After completion of Phase 1, the Receiver commenced on a sale process in
+an attempt to maximize the return for the creditors. It may well be that the Receiver
+will be able to demonstrate that the steps it took in this regard were objectively
+reasonable. However, given my previous comments, I am not satisfied that the
+Receiver has shown that the stalking horse bid process it entered into was done
+prudently. It is premature to approve its activities in this regard.
+
+         Sealing Order
+
+[57]     Given my ruling on the SH Agreement and my comments that the Altus
+Group’s appraisal dated March 3, 2014 is outdated, there is no need to consider this
+issue.
+
+Conclusion
+
+[58]     The Receiver’s applications for a Bidding Procedures Order and a Conditional
+Vesting Order approving the stalking horse bid subject to the procedures set out in
+the Bidding Procedures Order is dismissed.
+
+[59]     The Receiver’s application for an order approving the SL 6 Purchase
+Agreement is granted.
+
+[60]     The Receiver’s application for an order amending Paragraphs 19 and 20(c) of
+the Receivership Order pronounced January 27, 2014, as amended February 6,
+2014, such that the term “$2.5 million” is changed to “$3.5 million” is allowed on the
+condition that the terms of such increase will not be less favourable than the existing
+terms of the Receiver’s borrowing charge.
+TAB 12
+                                                        COURT FILE NO.: 03-CL-5044
+                                                                   DATE: 20040115
+
+SUPERIOR COURT OF JUSTICE - ONTARIO
+(COMMERCIAL LIST)
+
+
+
+
+                                                                                              2004 CanLII 13502 (ON SC)
+RE:            IN THE MATTER OF the Receivership of Regal Constellation Hotel
+               Limited, of The City of Toronto, In the Province of Ontario
+
+               AND IN THE MATTER OF s. 41 of the Mortgages Act, R.S.O. 1990 c.
+               M.40
+
+BEFORE:        Justice Farley
+
+COUNSEL: John J. Pirie, for Deloitte & Touche Inc., Court Appointed Receiver and
+         Manager, and for HSBC Bank Canada
+
+               Mahesh Uttamchandani, for the Interim Receiver, Deloitte & Touche Inc.
+
+               Robert Rueter, for the Debtor, Regal Pacific (Holdings) Limited
+
+HEARD:         January 15, 2004
+
+
+                                ENDORSEMENT
+
+
+
+[1]     Mr. Rueter, counsel for Regal Pacific (Holdings) Limited (“Holdings”) asked for
+an adjournment of the Receiver’s (Deloitte & Touche Inc.) motion for various approvals,
+but specifically the approval of the Receiver’s activities as reflected in their various
+reports (5 plus a supplemental to the 1st which was sealed until the closing of the sale to
+2031903 Ontario Inc. (“203”)). He wanted a 4-week adjournment indicating that he had
+just determined that principals involved in 203 were also involved in Hospitality
+Investors Group LLC (“HIG”) as per the Toronto Star article of January 10, 2004. A
+corporate profile report on 203 was obtained on January 13, 2004 afternoon. I asked Mr.
+Rueter to put his concerns in writing and he did so as per the attached, which I have
+marked Appendix A.
+
+[2]     I appreciate that Holdings, faced with a shortfall on the hotel realization by the
+Receiver of some $9 million, would wish to reopen the whole matter and as Mr. Rueter
+stated, have a new Receiver appointed who would conduct a new sales process – all with
+the hope that there would/might be a better result which either would generate a surplus
+or perhaps minimize the amount of the shortfall.
+                                          Page: 3
+
+(apples to apples, converting at appropriate rates various other fruit into apples)
+comparison and conclusion on which to base a recommendation to the court. As outlined
+in the Receiver’s reports, certain of the higher value offers received (13 in total, as a
+result of the approved marketing campaign) were eliminated in favour of the 203 one for
+$25 million because of riskier conditions or the question of having to obtain financing.
+
+
+
+
+                                                                                                2004 CanLII 13502 (ON SC)
+The HIG offer was withdrawn on September 2, 2003. While the 203 deal for $25 million
+did not close (while it was unconditional and no mention was made with regard to the
+need for financing, and with it being understood that the person involved (presented as
+being the principal of 203) had no funding problem because of past knowledge as to this
+person), it would not appear that the failure to close can be laid at the door of the
+Receiver. If the Receiver had not recommended 203’s $25 million deal, then it would
+have had to go further down the ladder (on a risk/reward analysis) which would mean
+that in “present value” money terms (i.e. at the time of the recommendation after
+discounting for risk), the proceeds would have been less than $25 million.
+
+[8]    Indeed when 203 was unable to close on the specified closing date, the Receiver
+conducted another analysis and determined that it would likely maximize the proceeds by
+doing another deal with 203, albeit at $24 million, but keeping in mind the forfeit deposit
+and the obtaining of a further non-refundable deposit.
+
+[9]    While Mr. Rueter alludes to “the sales process was manipulated”, I do not see that
+anything that the Receiver did was in aid of, or assisted such (as alleged). The identity of
+who the principals were was not in issue so long as a deal could be closed without a
+vendor take back mortgage.
+
+[10] Mr. Rueter points out the Cocov (one of the principals) affidavit of June 25, 2003
+that the property had an “as is” value of $30.65 million. However, this fails to take into
+account that not only was this affidavit before the receivership commenced (July 4,
+2003), but it was in fact in an effort to convince the court that a receiver need not be
+appointed because there was sufficient value to cover the Bank indebtedness. Affidavits
+of this nature must be taken with a grain of salt regarding puffery. I note as well that
+receivership sales are believed generally to generate lower amounts than a sale in the
+ordinary course of a non-pressed vendor.
+
+[11] It seems to me that the Receiver acted properly and within the mandate given it
+from time to time by the court. It fulfilled its prime purpose of obtaining as high a value
+it could for the hotel after an approved marketing campaign. Vis-à-vis the Receiver and
+that duty, it does not appear to me that the identity of the principals, but more importantly
+that there was overlap regarding the aborted purchaser from Holdings prior to the
+receivership, HIG and 203, is of any moment.
+
+[12] Holdings, of course, is free to make whatever allegations it feels appropriate
+against these entities and their principals and pursue whatever remedies it feels that it
+may have against them; the approval of the Receiver’s activities is not intended in any
+way to have any impact or in any way to act as a shield for them.
+TAB 13
+                    COURT OF APPEAL FOR ONTARIO
+
+                          CITATION: Bank of Nova Scotia v. Diemer, 2014 ONCA 851
+                                                                   DATE: 20141201
+                                                                 DOCKET: C58381
+
+
+
+
+                                                                                          2014 ONCA 851 (CanLII)
+                          Hoy A.C.J.O., Cronk and Pepall JJ.A.
+
+BETWEEN
+
+                                The Bank of Nova Scotia
+
+                                                                 Plaintiff (Respondent)
+
+                                          and
+
+                     Daniel A. Diemer o/a Cornacre Cattle Co.
+
+                                                           Defendant (Respondent)
+
+Peter H. Griffin, for the appellant PricewaterhouseCoopers Inc.
+
+James H. Cooke, for the respondent Daniel A. Diemer
+
+No one appearing for the respondent The Bank of Nova Scotia
+
+Heard: June 10, 2014
+
+On appeal from the order of Justice Andrew J. Goodman of the Superior Court of
+Justice, dated January 22, 2014, with reasons reported at 2014 ONSC 365.
+
+Pepall J.A.:
+
+[1]   The public nature of an insolvency which juxtaposes a debtor’s financial
+
+hardship with a claim for significant legal compensation focuses attention on the
+
+cost of legal services.
+                                      Page: 13
+
+
+             The accounts should be in a form that can be easily
+             understood by those affected by the receivership (or by
+             the judicial officer required to assess the accounts) so
+             that such person can determine the amount of time
+             spent by the receiver’s employees (and others that the
+
+
+
+
+                                                                                    2014 ONCA 851 (CanLII)
+             receiver may have hired) in respect to the various
+             discrete aspects of the receivership.
+
+[33]   The court endorsed the factors applicable to receiver’s compensation
+
+described by the New Brunswick Court of Appeal in Belyea: Bakemates, at para.
+
+51. In Belyea, at para. 9, Stratton J.A. listed the following factors:
+
+                 the nature, extent and value of the assets;
+
+                 the complications and difficulties encountered;
+
+                 the degree of assistance provided by the debtor;
+
+                 the time spent;
+
+                 the receiver’s knowledge, experience and skill;
+
+                 the diligence and thoroughness displayed;
+
+                 the responsibilities assumed;
+
+                 the results of the receiver’s efforts; and
+
+                 the cost of comparable services when performed
+                  in a prudent and economical manner.
+
+These factors constitute a useful guideline but are not exhaustive: Bakemates, at
+
+para. 51.
+
+[34]   In Canada, very little has been written on professional fees in insolvency
+
+proceedings: see Stephanie Ben-Ishai and Virginia Torrie, “A ‘Cost’ Benefit
+TAB 14
+                                                   1983 CarswellNB 27
+                                               New Brunswick Court of Appeal
+
+                                        Belyea v. Federal Business Development Bank
+
+1983 CarswellNB 27, [1983] N.B.J. No. 41, 116 A.P.R. 248, 18 A.C.W.S. (2d) 19, 44 N.B.R. (2d) 248, 46 C.B.R. (N.S.) 244
+
+             BELYEA and FOWLER v. FEDERAL BUSINESS DEVELOPMENT BANK
+                                           Hughes C.J.N.B., Ryan and Stratton JJ.A
+
+                                                 Judgment: January 18, 1983
+                                                   Docket: No. 31/82/CA
+
+Table of Authorities
+Cases considered:
+Considered by majority:
+     Amalg. Syndicates, Re, [1901] 2 Ch. 181, 17 T.L.R. 486 — referred to
+     Campbell v. Arndt (1915), 8 Sask. L.R. 320, 9 W.W.R. 57, 24 D.L.R. 699 (S.C.) — referred to
+     Cowie (J.W.) Enrg. Ltd. v. Allen (1982), 26 C.P.C. 241, 52 N.S.R. (2d) 321 (C.A.) — referred to
+     Eastern Trust Co. v. N.S. Steel & Coal Co. Ltd. (1938), 13 M.P.R. 237 (N.S.C.A.) — referred to
+     Hall v. Slipp (1894), 1 N.B. Eq. 37 — referred to
+     Ibar Devs. Ltd. v. Mount Citadel Ltd. (1978), 26 C.B.R. (N.S.) 17 (Ont. S.C.) — referred to
+     Indust. Dev. Bank v. Garden Tractor & Equipment Co. Ltd., [1951] O.W.N. 47 (H.C.) — referred to
+Considered in dissent:
+     Lister (Ronald Elwyn) Ltd. v. Dunlop Can. Ltd., [1982] 1 S.C.R. 726, 41 C.B.R. (N.S.) 272, 18 B.L.R. 1, 135 D.L.R. (3d)
+     1, 65 C.P.R. (2d) 1, 42 N.R. 181 — referred to
+Statutes considered:
+     Evidence Act, R.S.N.B. 1973, c. E-11, s. 49.
+Authorities considered:
+
+75 C.J.S. 1067.
+
+Williston on Contracts, 3rd ed. (1967), vol. 10, pp. 928-29.
+
+Stratton J.A. (Hughes C.J.N.B. concurring):
+
+1    I have had the benefit of reading the judgment prepared by my brother Ryan and regret that I am unable to agree in all
+respects with his proposed disposition of this appeal [from 40 C.B.R. (N.S.) 157, 38 N.B.R. (2d) 162, 100 A.P.R. 162 ].
+
+2     In his factum counsel for Messrs. Belyea and Fowler raises two grounds of appeal, namely, the reasonableness of the
+refusal by the Federal Business Development Bank to accept an offer made by Mr. Sam Gamblin to purchase the inventory of
+Chase Camera & Supply Limited for $40,000, and the reasonableness of the receiver's account of $11,730. I agree with Ryan
+J.A. that the refusal by the bank to accept the Gamblin offer was not, in the circumstances, unreasonable. However, I do not
+agree that the receiver satisfactorily established that its account for services was fair and reasonable.
+
+3     There is no fixed rate or settled scale for determining the amount of compensation to be paid a receiver. He is usually
+allowed either a percentage upon his receipts or a lump sum based upon the time, trouble and degree of responsibility involved.
+The governing principle appears to be that the compensation allowed a receiver should be measured by the fair and reasonable
+value of his services and while sufficient fees should be paid to induce competent persons to serve as receivers, receiverships
+
+
+
+
+                                                                                                                            1
+should be administered as economically as reasonably possible. Thus, allowances for services performed must be just, but
+nevertheless moderate rather than generous.
+
+4 The principles applicable in fixing the remuneration to be allowed a receiver have been discussed in a number of decisions.
+In the frequently quoted case of Campbell v. Arndt (1915), 8 Sask. L.R. 320, 9 W.W.R. 57, 24 D.L.R. 699 (S.C.) , it was pointed
+out that a receiver is generally paid by a commission on the gross amount of his receipts, the rate of which varies from 2 to 5 per
+cent in proportion to the care and trouble involved. The court in that case concluded that, although the receiver must have spent
+considerable time and experienced a good deal of trouble, there did not appear to have been any very exceptional difficulties
+entitling him to exceptionally larger fees and, accordingly, he was awarded as a fair remuneration a commission of 5 per cent
+of the funds coming into his hands.
+
+5     A lump sum was awarded to receivers by the Nova Scotia Court of Appeal in Eastern Trust Co. v. N.S. Steel & Coal Co.
+Ltd. (1938), 13 M.P.R. 237 . In making their award, the court said at p. 240:
+
+     As we view it, we are entitled, in order to fix the remuneration of both receivers and liquidators, to survey the entire
+     operations under their charge since their appointment, to take into consideration the time each of them gave to the work and
+     the responsibilities resting on them as receivers and liquidators, and to determine what the work necessarily done should
+     cost, if conducted prudently and economically.
+
+6   A lump sum was also awarded a receiver as fair compensation for his services in Indust. Dev. Bank v. Garden Tractor &
+Equipment Co. Ltd., [1951] O.W.N. 47 (H.C.) . In that case, Marriott, Master, said at p. 48:
+
+     In fixing the compensation of a receiver, the Court always has had complete jurisdiction to allow what is fair and reasonable
+     under all the circumstances, but a receiver has no prima facie right to any fixed rate as a trustee in bankruptcy has under The
+     Bankruptcy Act. In Kerr on Receivers, 11th ed. 1946, at p. 279, it is stated: "In the case of receivers and managers there is no
+     fixed scale. They are sometimes allowed 5 per cent on the receipts: in other cases their remuneration is fixed at a lump sum
+     or regulated by the time employed by the receiver, his partners and clerks." In Re Fleming (1886), 11 P.R. 426 , Chancellor
+     Boyd stated: "Five per cent commission may be a reasonable allowance in many cases, but where the estate is large and
+     the services rendered are of short duration and involving no very serious responsibility, such a rate may be excessive."
+
+7    In fixing a lump sum rather than a percentage fee for a receiver's compensation in Ibar Devs. Ltd. v. Mount Citadel Ltd.
+(1978), 26 C.B.R. (N.S.) 17 (Ont. S.C.) , Saunders, Master, concluded that remuneration on a 5 per cent basis was just too
+high. He held that the receiver was entitled to a fair fee on the basis of a quantum meruit according to the time, trouble and
+degree of responsibility involved.
+
+8 It should perhaps be noted that there is American authority for the proposition that where the duties of the receiver consist
+in liquidating assets, a commission on the fund is a more appropriate method of compensation than that based on a fair price for
+the labour and time employed, and is the one commonly used. Where the compensation is so computed, 5 per cent is the usual
+and customary rate in ordinary cases. However, the rate varies according to the degree of difficulty or facility in the collection
+of different receipts: see 75 C.J.S. 1067.
+
+9        The considerations applicable in determining the reasonable remuneration to be paid to a receiver should, in my
+opinion, include the nature, extent and value of the assets handled, the complications and difficulties encountered, the degree
+of assistance provided by the company, its officers or its employees, the time spent, the receiver's knowledge, experience and
+skill, the diligence and thoroughness displayed, the responsibilities assumed, the results of the receiver's efforts, and the cost of
+comparable services when performed in a prudent and economical manner.
+
+10     Experienced counsel know that it can be a matter of some difficulty to prove that an account for services is fair and
+reasonable. In many cases, counsel attempt to establish this fact by calling as witnesses persons who are engaged in the same
+profession or calling to testify that the charges made by the plaintiff are the usual and normal charges for similar services made
+by members of that particular profession or calling in their locality. In the present case, where the receiver was a chartered
+accountant, no evidence was tendered by any member of the accounting profession as to the usual and normal charges made
+
+
+                                                                                                                                  2
+

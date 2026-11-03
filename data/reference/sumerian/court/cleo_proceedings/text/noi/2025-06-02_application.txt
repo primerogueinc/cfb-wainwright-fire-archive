@@ -1,0 +1,3522 @@
+                                                                                      Form 7 Rule 3.8
+                                                                                   Clerk's Stamp
+
+
+ COURT FILE NO.             B301-163430
+
+ COURT                      COURT OF KING’S BENCH OF ALBERTA
+
+ JUDICIAL CENTRE            CALGARY
+                            IN THE MATTER OF THE BANKRUPTCY AND INSOLVENCY ACT, RSC
+                            1985, C B-3, AS AMENDED
+                            AND IN THE MATTER OF THE NOTICE OF INTENTION TO MAKE A
+                            PROPOSAL OF CLEO ENERGY CORP.
+
+ APPLICANT                  CLEO ENERGY CORP.
+
+ DOCUMENT                   APPLICATION
+
+ ADDRESS FOR                Gowling WLG (Canada) LLP
+ SERVICE AND                1600, 421 – 7th Avenue S.W.
+ CONTACT                    Calgary, AB T2P 4K9
+ INFORMATION                Attention: Sam Gabor / Tom Cumming
+ OF PARTY                   Telephone: (403) 298-1946 / (403) 298-1938
+ FILING THIS                Facsimile: (403) 263-9193
+ DOCUMENT                   Email:       sam.gabor@gowlingwlg.com / tom.cumming@gowlingwlg.com
+                            File No.     G10010664
+
+
+NOTICE TO THE RESPONDENTS
+
+This application is made against you.
+
+You have the right to state your side of this matter before the Justice.
+
+To do so, you must be in Court when the application is heard as shown below:
+
+             Date:              June 2, 2025
+             Time:              2:00 p.m. MST
+             Where:             By Webex (see Webex details at Appendix “A”)
+             Before Whom:       The Honourable Justice Burns in Commercial Chambers
+                                (Edmonton Chambers)
+
+Go to the end of this document to see what you can do and when you must do it.
+
+Remedy claimed or sought:
+
+1.      The applicant, CLEO Energy Corp. (“CLEO”), in connection with the proceedings under Division
+        I of Part III of the Bankruptcy and Insolvency Act, RSC 1985, c B-3, as amended (the “BIA”, and
+68525530\1
+                                                   2
+
+        such proceedings, the “Proposal Proceedings”), commenced by notice of intention to make a
+        proposal filed on December 8, 2024 (the “Filing Date”, and such notice, the “NOI”), applies for
+        the following Orders:
+
+        (a)    an Order (the “Sealing Order”) substantially in the form set out in Schedule “A”:
+
+               (i)     sealing the confidential supplement (the “Confidential Supplement”) to the sixth
+                       report of Alvarez & Marsal Canada Inc. (“A&M”) in its capacity as proposal
+                       trustee of Cleo (in such capacity, the “Proposal Trustee”, and such report, the
+                       “Sixth Report”);
+
+               (ii)    amending the Order of the Honourable Justice M.H. Bourque pronounced March
+                       25, 2025 (the “March 25 Sealing Order”) sealing a confidential supplement to
+                       the fourth report of the Proposal Trustee which provided confidential information
+                       relating to the economic terms of the transactions contemplated the Surge APA,
+                       IHH APA and Nuova I APA and Bids received in the (as such terms are defined
+                       the Sale and Solicitation Process (the “SSP”) approved by the Order of the
+                       Honourable Justice J.T. Nielson pronounced January 22, 2025) to allow A&M in
+                       its capacity as Receiver of Cleo to file the Proposal Trustee’s SSP Termination
+                       Certificate as provided for under the March 25 Sealing Order; and
+
+               (iii)   amending the Order of the Honourable Justice Armstrong pronounced April 30,
+                       2025 (the “April 30 Sealing Order” with the March 25 Sealing Order, the “Prior
+                       Sealing Orders”) sealing a confidential supplement to the fifth report of the
+                       Proposal Trustee which provided confidential information relating to the Bids
+                       received in the SSP (as such terms are defined below) to allow A&M in its capacity
+                       as Receiver of Cleo to file the Proposal Trustee’s SSP Termination Certificate as
+                       provided for under the April 30 Sealing Order;
+
+        (b)    an Order:
+
+               (i)     approving the asset purchase agreement dated as of May 26, 2025 (the “Fire Creek
+                       APA”) between Cleo and Rise Energy SPV Ltd. (“Rise”) which appoints Fire
+                       Creek Resources Ltd. (“Fire Creek”) as Rise’s nominee to take title to the assets
+                       subject to the Fire Creek APA, and declaring that the Fire Creek APA is the
+                       Successful Bid (as such term is defined in the Sale and Solicitation Process (the
+                       “SSP”) approved by the Order of the Honourable Justice J.T. Nielson);
+
+68525530\1
+                                                     3
+
+              (ii)    approving the asset purchase agreement dated as of May 21, 2025 (the “Prospera
+                      APA”) between Cleo and Prospera Energy Inc. (“Prospera”), and declaring that
+                      the Prospera APA is a Back-up Bidder (as defined in the SSP) to the Fire Creek
+                      APA;
+
+              (iii)   declaring that upon A&M, in its capacity as receiver of the undertaking, property
+                      and assets of Cleo (in such capacity, the “Receiver”), filing with this Court:
+
+                      (A)      a certificate in the form attached to the Fire Creek APA stating that all the
+                               conditions precedent to completing the purchase and sale transaction
+                               contemplated by the Fire Creek APA (the “Fire Creek Transaction”)
+                               have been satisfied or waived, the Fire Creek Transaction and Fire Creek
+                               SAVO (as defined below) shall become effective (the “Fire Creek
+                               Closing Certificate”); or
+
+                      (B)      a certificate stating that the Fire Creek Transaction and Fire Creek APA
+                               have been terminated (the “Fire Creek Termination Certificate”), the
+                               Prospera APA shall be deemed to be a Successful Bid;
+
+        (c)   an Order substantially in the form set out in Schedule “B” (the “Fire Creek SAVO”)
+              vesting all of the right, title and interest of Cleo in and to the Fire Creek Assets, free and
+              clear of any and all caveats, security interests, hypothecs, pledges, mortgages, liens, trusts
+              or deemed trusts, reservations of ownership, royalties, options, rights of pre-emption,
+              privileges, interests, assignments, actions, judgements, executions, levies, taxes, writs of
+              enforcement, charges, or other claims, whether contractual, statutory, financial, monetary
+              or otherwise, whether or not they have attached or been perfected, registered or filed and
+              whether secured, unsecured or otherwise (collectively, “Encumbrances”), effective upon
+              the Receiver filing with this Court the Fire Creek Closing Certificate, provided that if the
+              Fire Creek Termination Certificate is filed with this Court, the Fire Creek SAVO shall be
+              of no further force or effect;
+
+        (d)   an Order substantially in the form set out in Schedule “C” (the “Prospera SAVO”) vesting
+              all of the right, title and interest of Cleo in and to the Prospera Assets, free and clear of any
+              and all Encumbrances, which shall only become effective upon the Receiver filing with
+              this Court the Fire Creek Termination Certificate and a certificate stating that all of the
+              conditions precedent to the completion of the purchase and sale transaction contemplated
+              by the Prospera APA (the “Prospera Transaction”) have been satisfied or waived,
+
+68525530\1
+                                                       4
+
+                provided that if the Fire Creek Closing Certificate is filed with this Court, the Prospera
+                SAVO shall be of no further force or effect;
+
+        (e)     an Order substantially in the form set out in Schedule “D” (the “Nuova II SAVO”)
+                approving the sale of certain assets (the “Nuova II Assets”) pursuant to an asset purchase
+                agreement dated as of April 16, 2025 (the “Nuova II APA”) between Cleo and Nuova
+                Strada Ventures Ltd. (“Nuova”) and vesting all of the right, title and interest of Cleo in and
+                to the Nuova II Assets, free and clear of any and all Encumbrances, effective upon the
+                Receiver filing with the Court a certificate stating that all the conditions precedent to
+                completing the purchase and sale transaction contemplated by the Nuova II APA (the
+                “Nuova II Transaction”) have been satisfied or waived; and
+
+        (f)     such other relief as this Honourable Court deems appropriate.
+
+Grounds for making this application:
+
+Background
+
+2.      Cleo was incorporated and is existing under the laws of Alberta in 2016 and carries on business as
+        a producer of oil, natural gas liquids and natural gas in central Alberta. Cleo’s head office is located
+        in Calgary.
+
+3.      Cleo experienced significant reductions in production since the beginning of 2024, which together
+        with lower market prices for oil and gas, resulted in serious working capital shortages. Cleo had
+        insufficient revenue to pay its liabilities in the ordinary course.
+
+4.      In order to address its financial difficulties, Cleo filed the NOI on December 8, 2025 pursuant to
+        Division I of Part III of the BIA, commencing the Proposal Proceedings. A&M was appointed as
+        Proposal Trustee. Under the BIA, Cleo had 6 months from the commencement of the Proposal
+        Proceedings until June 8, 2025 to file a proposal for the benefit of its creditors. Cleo will be deemed
+        bankrupt pursuant to the BIA on June 9, 2025.
+
+5.      The initial 30-day Filing Period expired on January 7, 2025 (as extended from time to time, the
+        “Filing Period”). The Filing Period was extended by the following Orders:
+
+        (a)     an Order of the Honourable Justice Lema pronounced January 6, 2025 (the “January 6
+                Order”), extending the Filing Period to February 21, 2025;
+
+
+
+68525530\1
+                                                      5
+
+        (b)     an Order of the Honourable Justice Lema pronounced February 19, 2025 (the “February
+                19 Order”), extending the Filing Period to April 4, 2025;
+
+        (c)     an Order of the Honourable Justice M.H. Bourque pronounced March 25, 2025, extending
+                the Filing Period to May 9, 2025; and
+
+        (d)     an Order of the Honourable Justice Armstrong pronounced April 30, 2025, extending the
+                Filing Period to June 8, 2025.
+
+6.      The January 6 Order also approved the Interim Facility, created the Administration Charge, the
+        Interim Lender’s Charge and D&O Charge (as such terms are defined in the January 6 Order, and
+        collectively, the “BIA Charges”), and declared the BIA Charges rank in priority to any other
+        Encumbrances (as defined in the January 6 Order) and as between the BIA Charges, the
+        Administration Charge ranks first in priority, the Interim Lender’s Charge ranks second in priority
+        and the D&O Charge ranks third in priority. Under the February 19 Order, the maximum principal
+        amount of the Interim Facility and the amount secured by the Interim Lender’s Charge were
+        increased.
+
+SSP
+
+7.      On January 21, 2025, the Honourable Justice Nielson pronounced an Order (the “Sale Process
+        Order”) approving a sale and solicitation process (the “SSP”), under which Cleo has sought to
+        market and sell its property and assets in consultation with, and with the assistance of, the Proposal
+        Trustee and Sayer Energy Advisors, as sale agent (the “Sale Agent”). The SSP contemplated two
+        phases. In the first phase, which was launched on January 22, 2025, the Sale Agent marketed the
+        undertaking, property and assets of Cleo (collectively, the “Properties”), potential bidders who
+        executed non-disclosure agreements were given access to a confidential data room, and bidders
+        were required to submit non-binding letters of intent (each a “Phase I LOI”) by no later than
+        February 27, 2025 (the “Phase I Bid Deadline”). In the second phase, bidders could carry out
+        additional due diligence and were required to submit binding bids (each, a “Bid”) by no later than
+        March 13, 2025 (the “Binding Bid Deadline”). Under the SSP, the Proposal Trustee determines,
+        in consultation with Cleo and the Sale Agent, which bidders submitting Non-Binding LOIs were
+        entitled to participate in the second phase, and which Bids satisfy the criteria required under the
+        SSP, and which Bids are to be accepted by Cleo (each a “Successful Bid”). Sale transactions under
+        the SSP are to be on an “as is, where is” basis and must be approved by this Honourable Court.
+
+8.      The Sale Agent distributed a marketing teaser describing Cleo’s business and Properties to
+        approximately 2,250 parties by email, and placed advertisements in the BOE Report, Daily Oil
+68525530\1
+                                                       6
+
+        Bulletin and the Sale Agent’s Canadian Oil Industry Asset Sale Listing, and with A&D Watch,
+        Energy Advisors Group. Sixty (60) parties executed non-disclosure agreements and accessed the
+        data room, and twenty-two (22) parties submitted twenty-six (26) Phase I LOIs by the Phase I Bid
+        Deadline. On March 7, 2025, the Proposal Trustee sent emails advising ten (10) parties that they
+        were qualified to participate in the second phase and twelve (12) parties that they had not qualified.
+
+9.      The Proposal Trustee has designated the Bids submitted by Nuova Strada and Rise, as Successful
+        Bids for the specific assets that they are purchasing and in consultation with Cleo and the Sale
+        Agent negotiated the terms of the APAs. Certain assets of Cleo remain unsold following the SSP.
+
+10.     The Proposal Trustee has designated the Bid of Prospera as a Back-up Bid to the Successful Bid of
+        Rise. In the event the Fire Creek Transaction fails to close and terminates, A&M shall be required
+        to file a certificate with the court confirming same, the Prospera APA shall be deemed Successful
+        Bids.
+
+11.     The purchase and sale transactions (the “Transactions”) contemplated by the Fire Creek APA, and
+        Nuova II APA, and the Prospera APA if the Fire Creek APA terminates (collectively the “APAs”)
+        satisfy the criteria for approval by this Honourable Court under section 65.13 of the BIA. All
+        secured creditors having interests in the Properties subject to the APAs are on the service list for
+        these Proposal Proceedings and will be given notice of this Application. The SSP was prepared in
+        consultation with the Proposal Trustee and the Sale Agent. The Proposal Trustee recommended
+        that this Honourable Court approve the SSP and the SSP was approved by pursuant to the Sale
+        Process Order. It is anticipated that in the Sixth Report, the Proposal Trustee will opine that the
+        Transactions are more beneficial to the creditors than sales under a bankruptcy. Given the scope
+        of the marketing efforts pursuant to the SSP, the consideration to be received for the Properties
+        pursuant to the APAs is reasonable and fair.
+
+12.     Further, the common law criteria for approving sales during insolvency proceedings has been
+        satisfied. Sufficient efforts have been made to obtain the best prices, and no party has acted
+        improvidently. In recommending the approval of the Transactions pursuant to the APAs, the
+        Proposal Trustee considered the interests of all parties. Finally, the SSP is being carried out
+        professionally and in a reasonable manner by the Sale Agent and the integrity of the SSP is being
+        ensured by the Proposal Trustee determining which parties submitting Phase I LOIs were qualified
+        to participate in the second phase, and which Bids were Successful Bids, and that there was no
+        unfairness in the working out of the SSP.
+
+
+
+
+68525530\1
+                                                      7
+
+13.     The net proceeds from the Transactions will be held in an interest bearing account by A&M and be
+        used to pay amounts owing for professional fees secured by the Administration Charge and to repay
+        amounts owing under the Interim Facility. Remaining amounts will continue to be held in trust by
+        A&M and be subject to priority environmental/regulatory claims, security and other claims vested
+        out by the SAVOs.
+
+Sealing Order
+
+14.     Cleo seeks the sealing of the Confidential Supplement pursuant to the Sealing Order. The
+        Confidential Supplement attaches unredacted copies of the APAs, and contains the Proposal
+        Trustee’s recommendations to approve the APAs and Transactions.
+
+15.     If the Confidential Supplement was publicly available, the SSP would be negatively impacted. If
+        the Transactions fail to close, efforts to re-market the Properties subject thereto would be
+        prejudiced. This poses a serious risk to an important public interest, namely maintaining the
+        integrity of the public interest, and the Sealing Order is necessary to prevent this risk. The benefits
+        of the order outweigh its negative effects and there are no reasonable alternative measures that
+        would protect these interests. The Sealing Order is time limited.
+
+16.     The Prior Sealing Orders sealed the same or similar information as set out in the Confidential
+        Supplement. It is anticipated that the assets, undertaking and property of Cleo will be placed into
+        receivership by Cleo’s interim lender, resulting in a receivership where A&M as Receiver will take
+        control of Cleo’s remaining assets and attempt to sell or convey them. It is thus necessary to amend
+        the Prior Sealing Orders so they remain subject to the receivership proceedings.
+
+Material or evidence to be relied on:
+
+17.     The Affidavit of Chris Lewis sworn May 26, 2025, to be filed;
+
+18.     Bench Brief, to be filed;
+
+19.     The Sixth Report of the Proposal Trustee, to be filed;
+
+20.     The Confidential Supplement to the Sixth Report, to be filed on a sealed basis; and
+
+21.     Such further and other material as counsel may advise and this Honourable Court may permit.
+
+
+
+
+68525530\1
+                                                    8
+
+Applicable Acts and regulations:
+
+22.     Rules 1.2, 1.3, 3.2(2)(d), 3.8, 6.3(1), 6.9, 11.27 and 13.5 of the Alberta Rules of Court, Alta Reg
+        124/2010;
+
+23.     The Bankruptcy and Insolvency Act, RSC 1985, c B-3, as amended; and
+
+24.     Such further and other Acts and regulations as counsel may advise and this Honourable Court may
+        permit.
+
+Any irregularity complained of or objection relied on:
+
+25.     None.
+
+How the application is proposed to be heard or considered:
+
+26.     Before the presiding Justice in Commercial Chambers via Webex.
+
+ WARNING
+
+ If you do not come to Court either in person or by your lawyer, the Court may give the
+ applicant(s) what they want in your absence. You will be bound by any order that the Court
+ makes. If you want to take part in this application, you or your lawyer must attend in Court on
+ the date and time shown at the beginning of this form. If you intend to give evidence in response
+ to the application, you must reply by filing an affidavit or other evidence with the Court and
+ serving a copy of that affidavit or other evidence on the applicant(s) a reasonable time before
+ the application is to be heard or considered.
+
+
+
+
+68525530\1
+                                                  Appendix “A”:
+                                                   WebEx Details
+
+     Virtual Courtroom 86 has been assigned for the above noted matter:
+
+     Virtual Courtroom Link:
+
+     https://albertacourts.webex.com/meet/virtual.courtroom86
+
+     Instructions for Connecting to the Meeting
+
+         1. Click on the link above or open up Chrome or Firefox and cut and paste it into your browser
+            address bar.
+         2. If you do not have the Cisco Webex application already installed on your device, the site will
+            have a button to install it. Follow installation instructions. Enter your full name and email address
+            when prompted
+         3. Click on the Open Cisco Webex Meeting.
+         4. You will see a preview screen. Click on Join Meeting.
+
+     Key considerations for those attending:
+
+1.    Please connect to the courtroom 15 minutes prior to the start of the hearing.
+
+2.    Please ensure that your microphone is muted and remains muted for the duration of the proceeding, unless
+     you are speaking. Ensure that you state your name each time you speak.
+
+3.    If bandwidth becomes an issue, some participants may be asked to turn off their video and participate by
+     audio only.
+
+4.   Note: Recording or rebroadcasting of the video is prohibited.
+
+
+5.    Note: It is highly recommended you use headphones with a microphone or a headset when using
+     Webex. This prevents feedback.
+
+     For more information relating to Webex protocols and procedures, please                                visit:
+     https://www.albertacourts.ca/qb/court-operations-schedules/webex-remote-hearings-protocol
+
+     You can also join the meeting via the “Cisco Webex Meetings” App on your smartphone/tablet or other
+     smart device. You can download this via the App marketplace and join via the link provided above.
+
+
+
+
+     68525530\1
+                            -2-
+
+
+
+                       SCHEDULE “A”
+                       SEALING ORDER
+
+
+
+
+68518126\1
+
+LEGAL_CAL:16465367.1
+ COURT FILE NO.           B301-163430
+
+ COURT                    COURT OF KING’S BENCH OF ALBERTA
+ JUDICIAL CENTRE          CALGARY
+                          IN THE MATTER OF THE BANKRUPTCY AND INSOLVENCY ACT,
+                          RSC 1985, C B-3, AS AMENDED
+                          AND IN THE MATTER OF THE NOTICE OF INTENTION TO
+                          MAKE A PROPOSAL OF CLEO ENERGY CORP.
+
+ APPLICANT                CLEO ENERGY CORP.
+
+ DOCUMENT                 SEALING ORDER
+
+ ADDRESS FOR              Gowling WLG (Canada) LLP
+ SERVICE AND              1600, 421 – 7th Avenue SW
+ CONTACT                  Calgary, AB T2P 4K9
+ INFORMATION OF           Attn: Sam Gabor / Tom Cumming
+ PARTY FILING             Phone: 403.298.1946/403.298.1938
+ THIS DOCUMENT            Email: sam.gabor@gowlingwlg.com / tom.cumming@gowlingwlg.com
+                          Fax:     403.263.9193
+                          File No.: G10010664
+
+ DATE ON WHICH ORDER WAS                                June 2, 2025
+ PRONOUNCED:
+
+ LOCATION WHERE ORDER WAS                               Calgary, Alberta
+ PRONOUNCED:
+
+ JUSTICE WHO MADE THIS ORDER:                           The Honourable Justice Burns in
+                                                        Commercial Chambers (Edmonton)
+
+
+        UPON THE APPLICATION of Cleo Energy Corp. (“Cleo”) filed May 26, 2025 (the
+“Application”), for an Order sealing the Confidential Appendices (as defined below);
+
+        AND UPON reading the Affidavit of Chris Lewis sworn May 26, 2025 (the “Affidavit”), the
+Affidavit of Service of Sherry Langley, sworn May ●, 2025, the Sixth Report of Alvarez & Marsal
+Canada Inc. (“A&M”) in its capacity as proposal trustee of Cleo (in such capacity, the “Proposal
+Trustee”) dated May ●, 2025 (the “Sixth Report”) and the confidential appendices to the Sixth Report
+(the “Confidential Appendices”);
+
+        AND UPON noting that the required notice to the media has been filed, and hearing submissions
+by counsel for Cleo, the Proposal Trustee, counsel for the Proposal Trustee and any other counsel or
+other interested parties present,
+
+ACTIVE_CA\68517735\2
+                                                   -2-
+IT IS HEREBY ORDERED THAT:
+
+
+1.      The time for service of the notice of application for this sealing order (the “Order”) is hereby
+        abridged and deemed good and sufficient and the Application is properly returnable today, and
+        no person other than those persons served is entitled to service of the notice of the Application.
+
+2.      The Confidential Appendices shall be sealed and kept confidential until A&M as in its capacity
+        as Receiver of Cleo has filed with the Court a certificate substantially in the form attached as
+        Schedule “A” hereto (such certificate, the “SSP Termination Certificate”) confirming that all
+        sales of properties of Cleo pursuant to the sale solicitation process (the “SSP”) approved by the
+        Order of the Honourable Justice J.T. Nielson pronounced January 22, 2025 have been completed
+        and the SSP has been terminated, or until further Order of this Court, to be shown only to a Justice
+        of the Court of King’s Bench of Alberta, and accordingly, shall be filed with the Clerk of the
+        Court who shall keep the Confidential Appendix in a sealed envelope, which shall be clearly
+        marked:
+
+                “SEALED PURSUANT TO THE ORDER OF THE HONOURABLE JUSTICE
+                ARMSTRONG DATED JUNE 2, 2025. TO REMAIN SEALED UNTIL THE
+                RECEIVER’S SSP TERMINATION CERTIFICATE AS SCHEDULED TO
+                THE SEALING ORDER OF JUSTICE BURNS DATED JUNE 2, 2025 UNDER
+                COURT FILE NO. ● IS FILED WITH THE COURT OR UNTIL FURTHER
+                ORDER OF THE COURT.”
+
+3.      Service of this Order shall be deemed to be achieved by posting a copy of this Order on the
+        Proposal Trustee’s website created and maintained for the within proceeding and by delivering a
+        copy of this Order to those parties listed on the Service List prepared by counsel to the Applicant.
+
+4.      A&M in its capacity Receiver of Cleo shall be entitled to file the Proposal Trustee’s SSP
+        Termination Certificate as provided for under the Order of the Honourable Justice M.H. Bourque
+        pronounced March 25, 2025 (the “March 25 Sealing Order”) sealing a confidential supplement
+        to the fourth report of the Proposal Trustee with such modifications as are necessary to the
+        Proposal Trustee’s SSP Termination Certificate appended to the March 25 Sealing Order.
+
+5.      A&M in its capacity Receiver of Cleo shall be entitled to file the Proposal Trustee’s SSP
+        Termination Certificate as provided for under the Order of the Honourable Honourable Justice
+        Armstrong pronounced April 30, 2025 (the “April 30 Sealing Order”) sealing a confidential
+
+
+ACTIVE_CA\68517735\2
+                                                   -3-
+        supplement to the fifth report of the Proposal Trustee with such modifications as are necessary to
+        the Proposal Trustee’s SSP Termination Certificate appended to the April 30 Sealing Order.
+
+                                                             __________________________
+                                                             J.C.K.B.A
+
+
+
+
+ACTIVE_CA\68517735\2
+                                                       -4-
+                                               SCHEDULE “A”                                     Clerk’s Stamp
+
+                                         PROPOSAL TRUSTEE’S
+                                    SSP TERMINATION CERTIFICATE
+
+ COURT FILE NO.
+
+ COURT                      COURT OF KING’S BENCH OF ALBERTA
+
+ JUDICIAL CENTRE            CALGARY
+
+                            IN THE MATTER OF THE BANKRUPTCY AND INSOLVENCY ACT, RSC
+                            1985, C B-3, AS AMENDED
+                            AND IN THE MATTER OF THE RECEIVERSHIP OF CLEO ENERGY
+                            CORP.
+
+ APPLICANT                  UCAPITAL-ULOAN SOLUTIONS INC.
+
+ RESPONDENT                 CLEO ENERGY CORP.
+
+ DOCUMENT                   RECEIVER’S SSP TERMINATION CERTIFICATE
+
+ ADDRESS FOR                Miller Thomson LLP
+ SERVICE AND                525-8th Avenue SW, 43rd Floor
+ CONTACT                    Calgary, AB, Canada T2P 1G1
+ INFORMATION OF
+                            Attn:        James W. Reid
+ PARTY FILING THIS
+                            Phone:       403-298-2418
+ DOCUMENT
+                            Email:      jwreid@millerthomson.com
+                            File No.:    0289127.0002
+
+
+RECITALS:
+
+A.      Cleo Energy Corp. (“CLEO”) filed a notice of intention to make a proposal under Division I of Part III
+of the Bankruptcy and Insolvency Act, RSC 1985, c B-3, as amended (the “BIA”) on December 8, 2024 and
+Alvarez & Marsal Canada Inc. (“A&M”) in its capacity as proposal trustee of CLEO (in such capacity, the
+“Proposal Trustee”).
+
+
+B.      Pursuant to an Order of Honourable Justice J.T. Nielson pronounced January 22, 2025, a sale and
+solicitation process (the “SSP”) for the undertaking, properties and assets of Cleo was approved.
+
+
+C.      Pursuant to an Order of the Honourable Justice Burns of the Court of King’s Bench of Alberta (the
+“Court”) dated June 2, 2025, the Court ordered that the confidential appendices to the sixth report of the Proposal
+Trustee dated May ●, 2025 be sealed until A&M in its capacity as Receiver of Cleo has filed with the Court a
+certificate stating that all sales of properties of Cleo pursuant to the SSP have been completed and the SSP has
+been terminated.
+
+ACTIVE_CA\68517735\2
+                                                      -5-
+
+
+
+THE RECEIVER CERTIFIES that all sales of properties pursuant to the SSP have been completed and the SSP
+has been terminated.
+
+This Certificate was delivered by the Receiver at [Time] on [Date].
+
+                                                Alvarez & Marsal Canada Inc. in its capacity as receiver, and
+                                                not in its personal capacity
+                                                By:
+
+                                                ____________________________
+                                                Name:
+                                                Title:
+
+
+
+
+ACTIVE_CA\68517735\2
+              SCHEDULE “B”
+             FIRE CREEK SAVO
+
+
+
+
+68518126\1
+                                                                                           Clerk’s Stamp
+
+ COURT FILE NO.           B301-163430
+
+ COURT                    COURT OF KING’S BENCH OF ALBERTA
+
+ JUDICIAL CENTRE          CALGARY
+
+                          IN THE MATTER OF THE BANKRUPTCY AND INSOLVENCY ACT, RSC
+                          1985, C B-3, AS AMENDED
+                          AND IN THE MATTER OF THE NOTICE OF INTENTION TO MAKE A
+                          PROPOSAL OF CLEO ENERGY CORP.
+
+ APPLICANT                CLEO ENERGY CORP.
+
+ DOCUMENT                 ORDER (Sale Approval and Vesting – Rise Energy SVP Ltd.)
+
+ ADDRESS FOR              Gowling WLG (Canada) LLP
+ SERVICE AND              1600, 421 – 7th Avenue SW
+ CONTACT                  Calgary, AB T2P 4K9
+ INFORMATION OF
+                          Attn:       Sam Gabor / Tom Cumming
+ PARTY FILING THIS
+ DOCUMENT                 Phone:      403.298.1946 / 403.298.1938
+                          Fax:        403.263.9193
+                          Email:      sam.gabor@gowlingwlg.com / tom.cumming@gowlingwlg.com
+                          File No.:   G10010664
+
+DATE ON WHICH ORDER WAS PRONOUNCED:                            June 2, 2025
+
+LOCATION WHERE ORDER WAS PRONOUNCED:                           Edmonton, Alberta
+
+JUSTICE WHO MADE THIS ORDER:                                   The Honourable Justice Burns in Commercial
+                                                               Chambers
+
+             UPON THE APPLICATION of Cleo Energy Corp. (“Cleo”) filed May 26, 2025 for an order
+approving the sale transaction (the “Transaction”) contemplated by a purchase and sale agreement dated as
+of May 26, 2025, (the “Sale Agreement”) between Cleo and Rise Energy SPV Ltd. (the “Purchaser”) and
+vesting all of Cleo’s right, title and interest in and to the assets described in the Sale Agreement (the
+“Purchased Assets”);
+
+             AND UPON having read the Affidavit of Chris Lewis sworn May 26, 2025 (the “Affidavit”),
+the Affidavit of Service of Sherry Langley, sworn ●, 2025, and the Sixth Report of Alvarez & Marsal Canada
+Inc. (“A&M”) in its capacity as proposal trustee of Cleo (in such capacity, the “Proposal Trustee” , and in
+its capacity as receiver of the undertaking, property and assets of Cleo, the “Receiver”) dated ●, 2025 and
+the confidential appendices thereto; AND UPON hearing submissions by counsel for Cleo, the Proposal
+Trustee, counsel for the Proposal Trustee and any other counsel or other interested parties present,
+
+
+
+68510167\2
+                                                          -2-
+
+
+IT IS HEREBY ORDERED AND DECLARED THAT:
+
+SERVICE
+
+1.      Service of notice of this application and supporting materials is hereby declared to be good and sufficient,
+        no other person is required to have been served with notice of this application and time for service of this
+        application is abridged to that actually given.
+
+APPROVAL OF TRANSACTION
+
+2.      The Transaction is deemed a Successful Bid pursuant to the Order (Sales Process) of the Honourable
+        Justice Neilsen dated January 22, 2025 in these proceedings.
+
+3.      The Transaction is hereby approved and the execution of the Sale Agreement by Cleo is hereby authorized
+        and approved, with such minor amendments as Cleo may deem necessary. Cleo is hereby authorized and
+        directed to take such additional steps and execute such additional documents as may be necessary or
+        desirable for completion of the Transaction and conveyance of the Purchased Assets to the Purchaser.
+
+EVENT OF TERMINATION OF TRANSACTION
+
+4.      If the Transaction and Sale Agreement are terminated, then the Receiver is authorized and directed to file
+        the certificate substantially in the form set out in Schedule “A” hereto (the “Fire Creek Termination
+        Certificate”) and serve the service list in this proceeding with the Fire Creek Termination Certificate.
+
+5.      Upon the Fire Creek Termination Certificate being filed by the Receiver with the Court, this Order shall
+        be of no force and effect.
+
+VESTING OF PROPERTY
+
+6.      Subject only to approval by the Alberta Energy Regulator (“Energy Regulator”) of transfer of any
+        applicable licenses, permits and approvals pursuant to section 24 of the Oil and Gas Conservation Act
+        (Alberta) and section 18 of the Pipeline Act (Alberta), upon delivery by the Receiver of the closing
+        certificate to the Purchaser substantially in the form set out in Schedule “B” hereto (the “Closing
+        Certificate”), all of Cleo’s right, title and interest in and to the Purchased Assets listed in Schedule “C”
+        hereto shall vest absolutely in the name of the Purchaser, free and clear of and from any and all caveats,
+        security interests, hypothecs, pledges, mortgages, liens, trusts or deemed trusts, reservations of ownership,
+        royalties, options, rights of pre-emption, privileges, interests, assignments, actions, judgements,
+        executions, levies, taxes, writs of enforcement, charges, or other claims, whether contractual, statutory,
+        financial, monetary or otherwise, whether or not they have attached or been perfected, registered or filed
+
+
+68510167\2
+                                                       -3-
+        and whether secured, unsecured or otherwise (collectively, “Claims”) including, without limiting the
+        generality of the foregoing:
+
+        (a)     the Administration Charge (“Administration Charge”), Interim Lender’s Charge (“Interim
+                Lender’s Charge”) and D&O Charge created pursuant to, and having the meanings given to them
+                in, the Order (Stay Extension, Administration Charge, Interim Financing, Interim Financing
+                Charge, D&O Charge and Other Relief) of the Honourable Justice M.J. Lema in these proceedings
+                pronounced January 6, 2025, as amended by his Order (Stay Extension, Interim Financing, Interim
+                Financing Charge and Other Relief) pronounced February 19, 2025;
+
+        (b)     any charges, security interests or claims evidenced by registrations pursuant to the Personal
+                Property Security Act (Alberta) or any other personal property registry system;
+
+        (c)     any liens or claims of lien under the Builders’ Lien Act (Alberta); and
+
+        (d)     those Claims listed in Schedule “D” hereto (all of which are collectively referred to as the
+                “Encumbrances”, which term shall not include the permitted encumbrances, caveats, interests,
+                easements, and restrictive covenants listed in Schedule “E” (collectively, “Permitted
+                Encumbrances”))
+
+        and for greater certainty, this Court orders that all Claims including Encumbrances other than Permitted
+        Encumbrances, affecting or relating to the Purchased Assets are hereby expunged, discharged and
+        terminated as against the Purchased Assets.
+
+7.      Upon delivery of the Closing Certificate, and upon filing of a certified copy of this Order, together with
+        any applicable registration fees, all governmental authorities and or regulatory bodies including those
+        referred to below in this paragraph (collectively, “Governmental Authorities”) are hereby authorized,
+        requested and directed to accept delivery of the Closing Certificate and certified copy of this Order as
+        though they were originals and to register such transfers, interest authorizations, discharges and discharge
+        statements of conveyance as may be required to convey to the Purchaser clear title to the Purchased Assets
+        subject only to Permitted Encumbrances. Without limiting the foregoing:
+
+        (a)     Alberta Energy (“Energy Ministry”) shall and is hereby authorized, requested and directed to
+                forthwith:
+
+                (i)     cancel and discharge those Claims including builders’ liens, security notices, assignments
+                        under section 426 (formerly section 177) of the Bank Act (Canada) and other
+                        Encumbrances (but excluding Permitted Encumbrances) registered (whether before or
+
+68510167\2
+                                                        -4-
+                        after the date of this Order) against the estate or interest of Cleo in and to any of the
+                        Purchased Assets located in the Province of Alberta; and
+
+                (ii)    transfer all Crown leases listed in Schedule “C” to this Order standing in the name of Cleo
+                        to the Purchaser free and clear of all Claims including Encumbrances but excluding
+                        Permitted Encumbrances;
+
+        (b)     the Registrar of the Alberta Personal Property Registry (the “PPR Registrar”) shall and is hereby
+                directed to forthwith cancel and discharge any registrations at the Alberta Personal Property
+                Registry (whether made before or after the date of this Order) claiming security interests (other
+                than Permitted Encumbrances) in the estate or interest of Cleo in any of the Purchased Assets
+                which are of a kind prescribed by applicable regulations as serial-number goods.
+
+8.      In order to effect the transfers and discharges described above, this Court directs each of the Governmental
+        Authorities to take such steps as are necessary to give effect to the terms of this Order and the Sale
+        Agreement. Presentment of this Order and the Closing Certificate shall be the sole and sufficient authority
+        for the Governmental Authorities to make and register transfers of title or interest and cancel and discharge
+        registrations against any of the Purchased Assets of any Claims including Encumbrances but excluding
+        Permitted Encumbrances.
+
+9.      No authorization, approval or other action by and no notice to or filing with any Governmental Authority
+        exercising jurisdiction over the Purchased Assets is required for the due execution, delivery and
+        performance of the Sale Agreement, other than any required approval by the Energy Regulator referenced
+        in paragraph 3 above.
+
+10.     For the purposes of determining the nature and priority of Claims, net proceeds from sale of the Purchased
+        Assets (to be held in an interest bearing trust account by the Proposal Trustee or the Receiver) shall stand
+        in the place and stead of the Purchased Assets from and after delivery of the Closing Certificate and all
+        Claims including Encumbrances (but excluding Permitted Encumbrances) shall not attach to, encumber
+        or otherwise form a charge, security interest, lien, or other Claim against the Purchased Assets and may
+        be asserted against the net proceeds from sale of the Purchased Assets with the same priority as they had
+        with respect to the Purchased Assets immediately prior to the sale, as if the Purchased Assets had not been
+        sold and remained in the possession or control of the person having that possession or control immediately
+        prior to the sale. Unless otherwise ordered (whether before or after the date of this Order), the Proposal
+        Trustee or the Receiver shall not make any distributions to creditors of net proceeds from sale of the
+        Purchased Assets without further order of this Court, provided however the Proposal Trustee or the
+        Receiver may apply any part of such net proceeds to pay amounts owing as secured by the Administration
+        Charge and repay any amounts Cleo has borrowed as secured by the Interim Lender’s Charge.
+68510167\2
+                                                         -5-
+
+11.     Except as expressly provided for by section 5 of the Alberta Employment Standards Code, the Purchaser
+        shall not, by completion of the Transaction, have liability of any kind whatsoever in respect of any Claims
+        against Cleo.
+
+12.     Upon completion of the Transaction, Cleo and all persons who claim by, through or under Cleo in respect
+        of the Purchased Assets, and all persons or entities having any Claims of any kind whatsoever in respect
+        of the Purchased Assets, save and except for persons entitled to the benefit of the Permitted Encumbrances,
+        shall stand absolutely and forever barred, estopped and foreclosed from and permanently enjoined from
+        pursuing, asserting or claiming any and all right, title, estate, interest, royalty, rental, equity of redemption
+        or other Claim whatsoever in respect of or to the Purchased Assets, and to the extent that any such persons
+        or entities remain in the possession or control of any of the Purchased Assets, or any artifacts, certificates,
+        instruments or other indicia of title representing or evidencing any right, title, estate, or interest in and to
+        the Purchased Assets, they shall forthwith deliver possession thereof to the Purchaser.
+
+13.     The Purchaser shall be entitled to enter into and upon, hold and enjoy the Purchased Assets for its own
+        use and benefit without any interference of or by Cleo, or any person claiming by, through or against Cleo.
+
+14.     Immediately upon closing of the Transaction, holders of Permitted Encumbrances shall have no claim
+        whatsoever against Cleo.
+
+MISCELLANEOUS MATTERS
+
+15.     Notwithstanding:
+
+        (a)     the pendency of these proceedings and any declaration of insolvency made herein;
+
+        (b)     the pendency of any applications for a bankruptcy order now or hereafter issued pursuant to the
+                Bankruptcy and Insolvency Act, R.S.C. 1985, c.B-3, as amended (the “BIA”), in respect of Cleo,
+                and any bankruptcy order issued pursuant to any such applications;
+
+        (c)     any assignment in bankruptcy made in respect of Cleo; and
+
+        (d)     the provisions of any federal or provincial statute:
+
+        the vesting of the Purchased Assets in the Purchaser pursuant to this Order shall be binding on any trustee
+        in bankruptcy that may be appointed in respect of Cleo and shall not be void or voidable by creditors of
+        Cleo, nor shall it constitute nor be deemed to be a transfer at undervalue, settlement, fraudulent preference,
+        assignment, fraudulent conveyance, or other reviewable transaction under the BIA or any other applicable
+
+
+
+68510167\2
+                                                        -6-
+        federal or provincial legislation, nor shall it constitute oppressive or unfairly prejudicial conduct pursuant
+        to any applicable federal or provincial legislation.
+
+16.     Cleo, the Proposal Trustee, the Receiver, the Purchaser and any other interested party, shall be at liberty
+        to apply for further advice, assistance and direction as may be necessary in order to give full force and
+        effect to the terms of this Order and to assist and aid the parties in closing the Transaction.
+
+17.     This Honourable Court hereby requests the aid and recognition of any court, tribunal, regulatory or
+        administrative body having jurisdiction in Canada or in any of its provinces or territories or in any foreign
+        jurisdiction, to act in aid of and to be complimentary to this Court in carrying out the terms of this Order,
+        to give effect to this Order and to assist the Proposal Trustee and its agents in carrying out the terms of
+        this Order. All courts, tribunals, regulatory and administrative bodies are hereby respectfully requested
+        to make such order and to provide such assistance to the Proposal Trustee and the Receiver, as an officer
+        of the Court, as may be necessary or desirable to give effect to this Order or to assist the Proposal Trustee
+        and its agents in carrying out the terms of this Order.
+
+GENERAL
+
+18.     Service of this Order may be effected by facsimile, electronic mail, personal delivery or courier to the
+        service list (the “Service List”) in the proceedings. Service is deemed to be effected the next business day
+        following transmission or delivery of this Order.
+
+19.     This Order shall be posted on the Proposal Trustee’s website for these proceedings at:
+        https://www.alvarezandmarsal.com/CLEO.
+
+
+
+
+                                                        J.C.K.B.A.
+
+
+
+
+68510167\2
+                                                      -7-
+                                               SCHEDULE “A”                                  Clerk’s Stamp
+
+                              FIRE CREEK TERMINATION CERTIFICATE
+
+
+ COURT FILE NO.
+
+ COURT                     COURT OF KING’S BENCH OF ALBERTA
+
+ JUDICIAL CENTRE           CALGARY
+
+                           IN THE MATTER OF THE BANKRUPTCY AND INSOLVENCY ACT, RSC
+                           1985, C B-3, AS AMENDED
+                           AND IN THE MATTER OF THE RECEIVERSHIP OF CLEO ENERGY
+                           CORP.
+
+ APPLICANT                 UCAPITAL-ULOAN SOLUTIONS INC.
+
+ RESPONDENT                CLEO ENERGY CORP.
+
+ DOCUMENT                  CLOSING CERTIFICATE
+
+ ADDRESS FOR               Miller Thomson LLP
+ SERVICE AND               525-8th Avenue SW, 43rd Floor
+ CONTACT                   Calgary, AB, Canada T2P 1G1
+ INFORMATION OF
+                           Attn:        James W. Reid
+ PARTY FILING THIS
+                           Phone:       403-298-2418
+ DOCUMENT
+                           Email:      jwreid@millerthomson.com
+                           File No.:    0289127.0002
+
+RECITALS:
+
+    A. Cleo Energy Corp. (“Cleo”) filed a notice of intention to make a proposal under Division I of Part III of
+        the Bankruptcy and Insolvency Act, RSC 1985, c B-3, as amended (the “BIA”) on December 8, 2024 with
+        Alvarez & Marsal Canada Inc. (“A&M”) acting in its capacity as proposal trustee of Cleo.
+
+
+    B. Pursuant to an Order of the Honourable Justice Burns of the Court of King’s Bench of Alberta (the
+        “Court”) dated June 2, 2025 A&M was appointed as receiver over the assets, undertaking and property
+        of Cleo effective as of June 3, 2025 (the “Receiver”).
+
+    C. Pursuant to an Order (Sale Approval and Vesting – Rise Energy SVP Ltd.) of the Honourable Justice
+        Burns of the Court dated June 2, 2025 in Court File No. B301-16430 (the “June 2 Order”), the Court
+        approved the sale agreement made as of May 26, 2025 between Cleo and Rise Energy SPV Ltd. (the “Fire
+        Creek APA”) and the transaction contemplated therein (the “Fire Creek Transaction”). Pursuant to the
+        June 2 Order, in the event the Fire Creek Transaction and Fire Creek APA are terminated, the Receiver is
+
+
+
+68510167\2
+                                                       -8-
+         authorized and directed to file this certificate with the Court confirming that the Fire Creek Transaction
+         and Fire Creek APA were terminated.
+
+THE RECEIVER CERTIFIES the following:
+
+    1.       The Fire Creek Transaction and Fire Creek APA have been terminated.
+
+
+This Certificate was delivered by the Receiver at [Time] on [Date].
+
+                                                  Alvarez & Marsal Canada Inc. in its capacity as receiver, and
+                                                  not in its personal capacity
+                                                  By:
+
+                                                  Name:
+                                                  Title:
+
+
+
+
+68510167\2
+                                                      -9-
+                                                                                               Clerk’s Stamp
+
+                                               SCHEDULE “B”
+
+                                         CLOSING CERTIFICATE
+
+
+ COURT FILE NO.
+
+ COURT                     COURT OF KING’S BENCH OF ALBERTA
+
+ JUDICIAL CENTRE           CALGARY
+
+                           IN THE MATTER OF THE BANKRUPTCY AND INSOLVENCY ACT, RSC
+                           1985, C B-3, AS AMENDED
+                           AND IN THE MATTER OF THE RECEIVERSHIP OF CLEO ENERGY
+                           CORP.
+
+ APPLICANT                 UCAPITAL-ULOAN SOLUTIONS INC.
+
+ RESPONDENT                CLEO ENERGY CORP.
+
+ DOCUMENT                  CLOSING CERTIFICATE
+
+ ADDRESS FOR               Miller Thomson LLP
+ SERVICE AND               525-8th Avenue SW, 43rd Floor
+ CONTACT                   Calgary, AB, Canada T2P 1G1
+ INFORMATION OF
+                           Attn:        James W. Reid
+ PARTY FILING THIS
+                           Phone:       403-298-2418
+ DOCUMENT
+                           Email:      jwreid@millerthomson.com
+                           File No.:    0289127.0002
+
+RECITALS:
+
+    A. Cleo Energy Corp. (“Cleo”) filed a notice of intention to make a proposal under Division I of Part III of
+        the Bankruptcy and Insolvency Act, RSC 1985, c B-3, as amended (the “BIA”) on December 8, 2024 with
+        Alvarez & Marsal Canada Inc. (“A&M”) acting in its capacity as proposal trustee of Cleo.
+
+
+    B. Pursuant to an Order of the Honourable Justice Burns of the Court of King’s Bench of Alberta (the
+        “Court”) dated June 2, 2025 A&M was appointed as receiver over the assets, undertaking and property
+        of Cleo (the “Receiver”).
+
+    C. Pursuant to an Order (Sale Approval and Vesting – Rise Energy SVP Ltd.) of the Honourable Justice
+        Burns of the Court dated June 2, 2025 under Court File No. B301-16430, the Court approved the
+        agreement of purchase and sale made as of May 26, 2025 (the “Sale Agreement”) between Cleo and Rise
+        Energy SPV Ltd. (the “Purchaser”) and provided for the vesting in the Purchaser of Cleo’s right, title and
+        interest in and to the Purchased Assets, which vesting is to be effective with respect to the Purchased
+68510167\2
+                                                          - 10 -
+         Assets upon the delivery to the Purchaser of a closing certificate confirming (i) the payment by the
+         Purchaser of the Purchase Price for the Purchased Assets; (ii) that the conditions to Closing as set out in
+         sections 3.2 to 3.4 of the Sale Agreement have been satisfied or waived; and (iii) the Transaction has been
+         completed to the satisfaction of the Receiver.
+
+    D. Unless otherwise indicated herein, capitalized terms have the meanings set out in the Sale Agreement.
+
+THE RECEIVER CERTIFIES the following:
+
+    1.       The Purchaser has paid and the Receiver has received the Purchase Price for the Purchased Assets
+             payable on the Closing Date pursuant to the Sale Agreement;
+
+
+    2.       The conditions to Closing as set out in sections 3.2 to 3.4 of the Sale Agreement have been satisfied
+             or waived by the Receiver and the Purchaser; and
+
+
+    3.       The Transaction has been completed to the satisfaction of the Receiver.
+
+
+This Certificate was delivered by the Receiver at [Time] on [Date].
+
+                                                  Alvarez & Marsal Canada Inc. in its capacity as receiver, and
+                                                  not in its personal capacity
+                                                  By:
+
+                                                  Name:
+                                                  Title:
+
+
+
+
+68510167\2
+                                                                                                                                      - 11 -
+                                                                                                                   SCHEDULE “C”
+
+SILVER HEIGHTS AREA
+
+                                                                  R10W4
+
+
+                                                                                                                            ,.. - .
+                                20               21                                 22        '""""-"                                                   19             20
+                                                                                                                                 >-
+
+ T39
+        ----------                                                +                          ~~~~~
+                                                                                                ,J ,; ·
+                                                                                                                                                                                 T39
+
+                    18          17                   16
+                                                              -"             ..
+                                                                            • -¢-
+                                                                                                                                           13           18             17
+
+
+                                                              +                          +
+
+                                                                      ·:·\ 0 .
+                                                                                 •
+                                                                                                               +
+                                                                                                           '----,,*
+                                                                                                                                      . . ....
+                                                                                                                                           ~
+                    7           8                    9
+
+                                                                              .
+                                                                                             ·D
+                                                                                                         ♦
+                                                                                                                   ,I                 -                  7             8
+
+
+
+
+                                                                              .. .
+                                                                      o *                     p
+
+                                                                                              ~
+
+                                                                                             •
+                    6           5                    4                              3         +                •· -                            1        6              5
+
+                ,.......
+                                                                                                      ,..___
+                l
+                                                                                  I
+       ,6                  31        32
+
+
+                                                                  I
+
+                                                                              R10W4
+                                                                                                                            35                     36
+
+
+
+                                                                                                                                                             ,.,   L
+NEUTRAL HILLS NORTH AREA
+
+                                              R7                                                                                                                            R6W4
+
+
+T37                                                                                                                                                                               T37
+
+
+            17                  16                                                           14                                  -¢- 13                 18                  17
+
+
+
+
+            8                   9
+                                          I
+                                          , ,.
+                                                 ✓j'
+                                                 ♦
+
+
+                                              ~ -♦-- tt
+                                                          +   -               j
+
+
+                                                                              r
+                                                                                             r        ~
+                                                                                                        r-
+                                                                                                                                      12                7                   8
+
+                                              .t&~)'!"--: -f . :. !f.
+                                                                          \~::tr· ..
+            5                   4                             3                                                                       1                 6                    5
+
+
+                                                                      ~           ~                   -~ \ +
+                                                                                                  t                     t
+            32                  33                        34
+                                                                                         l .. _J                                                        31                  32
+
+
+
+
+T36                                                                                                                                                                            T36
+                                              R7                                                                                                                            R6W4
+
+
+
+
+68510167\2
+                                             - 12 -
+
+
+
+                    LANDS AND PETROLEUM AND NATURAL GAS RIGHTS
+
+             PDF Attached labelled “FIRECREEK SCHEDULE A-2” to the Sale Agreement
+
+
+
+
+68510167\2
+                               - 13 -
+                             Well List
+
+Silver Heights
+
+                  License
+ UWI              Number    Area
+ 100/01-15-039-
+ 10W4/00          149302    Silver Heights
+ 100/01-16-039-
+ 10W4/00          163399    Silver Heights
+ 100/01-23-039-
+ 10W4/00          150604    Silver Heights
+ 100/02-15-039-
+ 10W4/00          140464    Silver Heights
+ 100/02-23-039-
+ 10W4/00          151751    Silver Heights
+ 100/03-14-039-
+ 10W4/00          332059    Silver Heights
+ 100/03-15-039-
+ 10W4/00          149173    Silver Heights
+ 100/03-23-039-
+ 10W4/00          154211    Silver Heights
+ 100/04-10-039-
+ 10W4/00          149097    Silver Heights
+ 100/04-11-039-
+ 10W4/00          141281    Silver Heights
+ 100/04-14-039-
+ 10W4/00          149629    Silver Heights
+ 100/04-23-039-
+ 10W4/00          138705    Silver Heights
+ 100/04-24-039-
+ 10W4/00          151964    Silver Heights
+ 100/05-02-039-
+ 10W4/00          144799    Silver Heights
+ 100/05-10-039-
+ 10W4/00          148196    Silver Heights
+ 100/06-10-039-
+ 10W4/02          144002    Silver Heights
+ 100/06-11-039-
+ 10W4/00          133718    Silver Heights
+ 100/06-15-039-
+ 10W4/00          383654    Silver Heights
+ 100/07-11-039-
+ 10W4/00          282739    Silver Heights
+ 100/08-16-039-
+ 10W4/00          140829    Silver Heights
+ 100/08-16-039-
+ 10W4/02          140829    Silver Heights
+ 100/09-10-039-
+ 10W4/00          141429    Silver Heights
+ 100/09-12-039-
+ 10W4/00          398125    Silver Heights
+ 100/09-23-039-
+ 10W4/00          383960    Silver Heights
+68510167\2
+                              - 14 -
+ 100/10-12-039-
+ 10W4/00          145275   Silver Heights
+ 100/10-12-039-
+ 10W4/02          145275   Silver Heights
+ 100/11-02-039-
+ 10W4/00          151439   Silver Heights
+ 100/11-10-039-
+ 10W4/00          144002   Silver Heights
+ 100/11-11-039-
+ 10W4/00          144798   Silver Heights
+ 100/11-12-039-
+ 10W4/00          383273   Silver Heights
+ 100/11-14-039-
+ 10W4/03          135608   Silver Heights
+ 100/12-02-039-
+ 10W4/00          141282   Silver Heights
+ 100/12-10-039-
+ 10W4/00          147505   Silver Heights
+ 100/12-11-039-
+ 10W4/00          141414   Silver Heights
+ 100/12-12-039-
+ 10W4/00          398429   Silver Heights
+ 100/12-24-039-
+ 10W4/00          400367   Silver Heights
+ 100/13-02-039-
+ 10W4/00          151067   Silver Heights
+ 100/13-10-039-
+ 10W4/00          143991   Silver Heights
+ 100/13-12-039-
+ 10W4/00          398430   Silver Heights
+ 100/14-02-039-
+ 10W4/00          136589   Silver Heights
+ 100/14-10-039-
+ 10W4/00          139678   Silver Heights
+ 100/14-11-039-
+ 10W4/00          136497   Silver Heights
+ 100/14-14-039-
+ 10W4/00          134852   Silver Heights
+ 100/14-24-039-
+ 10W4/00          400301   Silver Heights
+ 100/15-10-039-
+ 10W4/00          141368   Silver Heights
+ 100/15-11-039-
+ 10W4/00          332524   Silver Heights
+ 100/15-14-039-
+ 10W4/02          135608   Silver Heights
+ 100/16-10-039-
+ 10W4/00          138628   Silver Heights
+ 100/16-11-039-
+ 10W4/00          130246   Silver Heights
+ 100/16-11-039-
+ 10W4/02          130246   Silver Heights
+ 100/16-14-039-
+ 10W4/00          156557   Silver Heights
+68510167\2
+                              - 15 -
+ 100/16-14-039-
+ 10W4/02          156557   Silver Heights
+ 100/16-15-039-
+ 10W4/00          156062   Silver Heights
+ 102/01-23-039-
+ 10W4/00          151796   Silver Heights
+ 102/04-10-039-
+ 10W4/00          315597   Silver Heights
+ 102/04-14-039-
+ 10W4/00          285986   Silver Heights
+ 102/06-11-039-
+ 10W4/00          211404   Silver Heights
+ 102/09-10-039-
+ 10W4/00          282742   Silver Heights
+ 102/09-14-039-
+ 10W4/00          201668   Silver Heights
+ 102/10-10-039-
+ 10W4/00          141430   Silver Heights
+ 102/10-12-039-
+ 10W4/00          383276   Silver Heights
+ 102/10-12-039-
+ 10W4/02          383276   Silver Heights
+ 102/10-14-039-
+ 10W4/00          135608   Silver Heights
+ 102/13-10-039-
+ 10W4/00          282740   Silver Heights
+ 102/14-02-039-
+ 10W4/00          154415   Silver Heights
+ 102/14-10-039-
+ 10W4/00          211250   Silver Heights
+ 102/14-11-039-
+ 10W4/00          285990   Silver Heights
+ 102/15-14-039-
+ 10W4/00          148083   Silver Heights
+ 102/16-16-039-
+ 10W4/00          154345   Silver Heights
+ 103/01-23-039-
+ 10W4/00          383346   Silver Heights
+ 103/06-02-039-
+ 10W4/00          139472   Silver Heights
+ 103/14-14-039-
+ 10W4/00          139790   Silver Heights
+ 103/14-14-039-
+ 10W4/02          139790   Silver Heights
+ 103/16-14-039-
+ 10W4/00          189648   Silver Heights
+ 104/16-14-039-
+ 10W4/00          189647   Silver Heights
+ 105/16-14-039-
+ 10W4/00          383272   Silver Heights
+ 1A0/03-23-039-
+ 10W4/00          152331   Silver Heights
+ 1B2/13-14-039-
+ 10W4/00          143730   Silver Heights
+68510167\2
+                                         - 16 -
+ 1C0/13-14-039-
+ 10W4/00                 143502       Silver Heights
+ 1C0/14-14-039-
+ 10W4/02                 143730       Silver Heights
+ 1D0/13-14-039-
+ 10W4/02                 138705       Silver Heights
+ 100/10-34-038-
+ 10W4/00                 57278        Silver Heights
+ 102/03-10-039-
+ 10W4/00                 148739       Silver Heights
+ 102/04-24-039-
+ 10W4/00                 153180       Silver Heights
+ 100/01-31-038-
+ 09W4/00                 467547       Silver Heights
+ 102/11-31-038-
+ 09W4/00                 446911       Silver Heights
+ 103/11-31-038-
+ 09W4/00                 467548       Silver Heights
+ 103/15-27-038-
+ 10W4/00                 454684       Silver Heights
+ 102/16-33-038-
+ 10W4/00                 435355       Silver Heights
+ 100/16-35-038-
+ 10W4/00                 434956       Silver Heights
+ 100/08-19-039-
+ 10W4/00                 428038       Silver Heights
+
+
+Neutral Hills
+
+                            License
+ UWI                        Number    Area
+ 100/01-11-037-07W4/00      121626    Neutral Hills
+ 100/01-25-037-07W4/00      165434    Neutral Hills
+ 100/02-02-037-07W4/00      33169     Neutral Hills
+ 100/02-25-037-07W4/00      166222    Neutral Hills
+ 100/03-12-037-07W4/00      127107    Neutral Hills
+ 100/05-02-037-07W4/00      124183    Neutral Hills
+ 100/05-10-037-07W4/00      161340    Neutral Hills
+ 100/05-11-037-07W4/00      149280    Neutral Hills
+ 100/05-12-037-07W4/00      126351    Neutral Hills
+ 100/05-25-037-07W4/00      165015    Neutral Hills
+ 100/06-02-037-07W4/00      123317    Neutral Hills
+ 100/06-12-037-07W4/00      123172    Neutral Hills
+ 100/07-02-037-07W4/02      124305    Neutral Hills
+ 100/07-35-036-07W4/00      154673    Neutral Hills
+ 100/08-10-037-07W4/00      143860    Neutral Hills
+ 100/08-11-037-07W4/00      127803    Neutral Hills
+ 100/09-02-037-07W4/00      122869    Neutral Hills
+ 100/09-10-037-07W4/00      142603    Neutral Hills
+ 100/10-30-036-06W4/00      149566    Neutral Hills
+68510167\2
+                                     - 17 -
+
+ 100/11-02-037-07W4/02   123317   Neutral Hills
+ 100/11-25-037-07W4/00   165014   Neutral Hills
+ 100/13-11-037-07W4/00   157990   Neutral Hills
+ 100/13-25-037-07W4/00   166495   Neutral Hills
+ 100/14-02-037-07W4/00   122870   Neutral Hills
+ 100/15-02-037-07W4/00   122782   Neutral Hills
+ 100/15-35-036-07W4/00   156347   Neutral Hills
+ 100/16-03-037-07W4/00   122135   Neutral Hills
+ 100/16-11-037-07W4/00   118251   Neutral Hills
+ 102/01-10-037-07W4/00   180801   Neutral Hills
+ 102/01-11-037-07W4/00   125808   Neutral Hills
+ 102/03-12-037-07W4/00   127720   Neutral Hills
+ 102/04-01-037-07W4/00   151291   Neutral Hills
+ 102/04-12-037-07W4/00   122317   Neutral Hills
+ 102/05-02-037-07W4/00   131487   Neutral Hills
+ 102/05-25-037-07W4/00   165785   Neutral Hills
+ 102/06-13-037-07W4/00   281836   Neutral Hills
+ 102/06-15-037-07W4/02   143394   Neutral Hills
+ 102/06-35-036-07W4/00   154672   Neutral Hills
+ 102/07-25-037-07W4/00   166220   Neutral Hills
+ 102/08-03-037-07W4/00   133512   Neutral Hills
+ 102/08-10-037-07W4/00   304500   Neutral Hills
+ 102/08-11-037-07W4/00   127921   Neutral Hills
+ 102/09-35-036-07W4/00   156346   Neutral Hills
+ 102/10-02-037-07W4/00   122735   Neutral Hills
+ 102/10-11-037-07W4/00   148824   Neutral Hills
+ 102/10-35-036-07W4/00   156348   Neutral Hills
+ 102/11-02-037-07W4/00   126006   Neutral Hills
+ 102/11-11-037-07W4/00   166507   Neutral Hills
+ 102/11-25-037-07W4/00   165786   Neutral Hills
+ 102/11-35-036-07W4/00   154674   Neutral Hills
+ 102/12-10-037-07W4/00   145188   Neutral Hills
+ 102/12-11-037-07W4/00   147435   Neutral Hills
+ 102/12-25-037-07W4/00   164695   Neutral Hills
+ 102/16-02-037-07W4/02   122869   Neutral Hills
+ 102/16-11-037-07W4/00   191577   Neutral Hills
+ 103/01-11-037-07W4/00   304037   Neutral Hills
+ 103/05-12-037-07W4/00   299321   Neutral Hills
+ 103/10-11-037-07W4/00   181018   Neutral Hills
+ 103/10-35-036-07W4/00   156349   Neutral Hills
+ 103/11-02-037-07W4/00   134845   Neutral Hills
+ 103/11-02-037-07W4/02   134845   Neutral Hills
+ 103/11-25-037-07W4/00   165823   Neutral Hills
+ 103/12-11-037-07W4/00   157989   Neutral Hills
+ 103/12-25-037-07W4/00   165016   Neutral Hills
+ 103/13-11-037-07W4/00   181060   Neutral Hills
+ 103/16-02-037-07W4/00   134849   Neutral Hills
+68510167\2
+                                     - 18 -
+
+ 103/16-11-037-07W4/00   198556   Neutral Hills
+ 104/12-02-037-07W4/00   131654   Neutral Hills
+ 104/12-11-037-07W4/00   161342   Neutral Hills
+ 104/12-25-037-07W4/02   165785   Neutral Hills
+ 104/13-11-037-07W4/00   190892   Neutral Hills
+ 105/12-25-037-07W4/00   165788   Neutral Hills
+ 106/12-25-037-07W4/00   206064   Neutral Hills
+ 1A0/01-02-037-07W4/00   153029   Neutral Hills
+ 1A0/02-02-037-07W4/00   148885   Neutral Hills
+ 1A0/02-11-037-07W4/00   127998   Neutral Hills
+ 1A0/04-11-037-07W4/00   187575   Neutral Hills
+ 1A0/04-12-037-07W4/00   126816   Neutral Hills
+ 1A0/05-01-037-07W4/00   152479   Neutral Hills
+ 1A0/05-11-037-07W4/00   153718   Neutral Hills
+ 1A0/06-11-037-07W4/00   152571   Neutral Hills
+ 1A0/08-02-037-07W4/00   152260   Neutral Hills
+ 1A0/08-10-037-07W4/00   155952   Neutral Hills
+ 1A0/09-10-037-07W4/00   149035   Neutral Hills
+ 1A0/11-10-037-07W4/00   190727   Neutral Hills
+ 1A0/12-10-037-07W4/00   181016   Neutral Hills
+ 1A0/13-10-037-07W4/00   157992   Neutral Hills
+ 1A0/15-10-037-07W4/00   153720   Neutral Hills
+ 1A2/02-02-037-07W4/00   159163   Neutral Hills
+ 1A2/04-15-037-07W4/00   152206   Neutral Hills
+ 1A2/06-11-037-07W4/00   178995   Neutral Hills
+ 1B0/01-02-037-07W4/00   149653   Neutral Hills
+ 1B0/01-11-037-07W4/00   132641   Neutral Hills
+ 1B0/02-02-037-07W4/00   160219   Neutral Hills
+ 1B0/02-11-037-07W4/00   133679   Neutral Hills
+ 1B0/04-01-037-07W4/00   152480   Neutral Hills
+ 1B0/04-11-037-07W4/00   184112   Neutral Hills
+ 1B0/04-12-037-07W4/00   126350   Neutral Hills
+ 1B0/05-11-037-07W4/00   150157   Neutral Hills
+ 1B0/07-11-037-07W4/00   153235   Neutral Hills
+ 1B0/08-02-037-07W4/00   153729   Neutral Hills
+ 1B0/08-10-037-07W4/00   150448   Neutral Hills
+ 1B0/08-11-037-07W4/00   132421   Neutral Hills
+ 1B0/09-10-037-07W4/00   196850   Neutral Hills
+ 1B0/10-35-036-07W4/00   153099   Neutral Hills
+ 1B0/11-10-037-07W4/00   184075   Neutral Hills
+ 1B0/14-10-037-07W4/00   154796   Neutral Hills
+ 1B0/15-02-037-07W4/00   134286   Neutral Hills
+ 1B0/15-10-037-07W4/00   155953   Neutral Hills
+ 1B0/16-02-037-07W4/00   132642   Neutral Hills
+ 1B2/01-02-037-07W4/00   159162   Neutral Hills
+ 1B2/02-15-037-07W4/00   152057   Neutral Hills
+ 1B2/02-15-037-07W4/02   152057   Neutral Hills
+68510167\2
+                                     - 19 -
+
+ 1B2/02-15-037-07W4/03   152057   Neutral Hills
+ 1B2/03-11-037-07W4/00   152570   Neutral Hills
+ 1B2/05-11-037-07W4/00   196848   Neutral Hills
+ 1B2/05-12-037-07W4/00   153899   Neutral Hills
+ 1B2/14-02-037-07W4/00   157988   Neutral Hills
+ 1B3/03-11-037-07W4/00   186935   Neutral Hills
+ 1C0/01-02-037-07W4/00   150352   Neutral Hills
+ 1C0/01-10-037-07W4/00   186936   Neutral Hills
+ 1C0/05-01-037-07W4/00   153077   Neutral Hills
+ 1C0/05-02-037-07W4/00   161341   Neutral Hills
+ 1C0/05-10-037-07W4/00   184109   Neutral Hills
+ 1C0/05-11-037-07W4/00   150158   Neutral Hills
+ 1C0/05-12-037-07W4/00   137259   Neutral Hills
+ 1C0/06-10-037-07W4/00   184076   Neutral Hills
+ 1C0/06-11-037-07W4/00   154454   Neutral Hills
+ 1C0/07-11-037-07W4/00   153719   Neutral Hills
+ 1C0/08-03-037-07W4/00   136465   Neutral Hills
+ 1C0/10-02-037-07W4/00   132260   Neutral Hills
+ 1C0/10-35-036-07W4/00   154675   Neutral Hills
+ 1C0/11-02-037-07W4/00   178815   Neutral Hills
+ 1C0/13-11-037-07W4/00   159846   Neutral Hills
+ 1C0/14-02-037-07W4/00   156290   Neutral Hills
+ 1C2/03-15-037-07W4/00   147185   Neutral Hills
+ 1D0/01-02-037-07W4/00   151508   Neutral Hills
+ 1D0/01-10-037-07W4/00   186055   Neutral Hills
+ 1D0/02-10-037-07W4/00   161343   Neutral Hills
+ 1D0/03-10-037-07W4/02   186936   Neutral Hills
+ 1D0/03-11-037-07W4/00   152089   Neutral Hills
+ 1D0/03-15-037-07W4/00   146446   Neutral Hills
+ 1D0/04-12-037-07W4/00   127610   Neutral Hills
+ 1D0/05-11-037-07W4/00   180984   Neutral Hills
+ 1D0/05-12-037-07W4/00   126864   Neutral Hills
+ 1D0/06-10-037-07W4/00   186288   Neutral Hills
+ 1D0/06-11-037-07W4/00   154548   Neutral Hills
+ 1D0/07-10-037-07W4/00   159444   Neutral Hills
+ 1D0/08-10-037-07W4/00   150249   Neutral Hills
+ 1D0/09-10-037-07W4/00   149034   Neutral Hills
+ 1D0/09-10-037-07W4/02   149034   Neutral Hills
+ 1D0/09-35-036-07W4/00   153100   Neutral Hills
+ 1D0/13-10-037-07W4/00   151707   Neutral Hills
+ 1D0/14-10-037-07W4/00   152715   Neutral Hills
+ 1D0/15-35-036-07W4/00   153084   Neutral Hills
+ 1D0/16-02-037-07W4/00   178817   Neutral Hills
+ 1D2/02-10-037-07W4/00   181070   Neutral Hills
+ 1D2/04-15-037-07W4/00   152207   Neutral Hills
+ 1D2/08-10-037-07W4/02   150158   Neutral Hills
+ 1D2/09-10-037-07W4/00   196851   Neutral Hills
+68510167\2
+                                     - 20 -
+
+ 1F1/15-02-037-07W4/00   125921   Neutral Hills
+ 1F1/15-02-037-07W4/02   125921   Neutral Hills
+
+
+
+
+68510167\2
+                                             - 21 -
+                                          Pipeline List
+
+ Province ApprovalNumber LineNumber       Licensee
+                                          A7BY - CLEO ENERGY
+ AB               50033               9   CORP.
+                                          A7BY - CLEO ENERGY
+ AB               50033               8   CORP.
+                                          A7BY - CLEO ENERGY
+ AB               50033               7   CORP.
+                                          A7BY - CLEO ENERGY
+ AB               50033               6   CORP.
+                                          A7BY - CLEO ENERGY
+ AB               50033               5   CORP.
+                                          A7BY - CLEO ENERGY
+ AB               50033               4   CORP.
+                                          A7BY - CLEO ENERGY
+ AB               50033               3   CORP.
+                                          A7BY - CLEO ENERGY
+ AB               50033           28      CORP.
+                                          A7BY - CLEO ENERGY
+ AB               50033           27      CORP.
+                                          A7BY - CLEO ENERGY
+ AB               50033           26      CORP.
+                                          A7BY - CLEO ENERGY
+ AB               50033           25      CORP.
+                                          A7BY - CLEO ENERGY
+ AB               50033           24      CORP.
+                                          A7BY - CLEO ENERGY
+ AB               50033           23      CORP.
+                                          A7BY - CLEO ENERGY
+ AB               50033           22      CORP.
+                                          A7BY - CLEO ENERGY
+ AB               50033           21      CORP.
+                                          A7BY - CLEO ENERGY
+ AB               50033           20      CORP.
+                                          A7BY - CLEO ENERGY
+ AB               50033               2   CORP.
+                                          A7BY - CLEO ENERGY
+ AB               50033           19      CORP.
+                                          A7BY - CLEO ENERGY
+ AB               50033           18      CORP.
+                                          A7BY - CLEO ENERGY
+ AB               50033           17      CORP.
+                                          A7BY - CLEO ENERGY
+ AB               50033           16      CORP.
+                                          A7BY - CLEO ENERGY
+ AB               50033           15      CORP.
+                                          A7BY - CLEO ENERGY
+ AB               50033           14      CORP.
+
+68510167\2
+                            - 22 -
+                          A7BY - CLEO ENERGY
+ AB          50033   13   CORP.
+                          A7BY - CLEO ENERGY
+ AB          50033   12   CORP.
+                          A7BY - CLEO ENERGY
+ AB          50033   11   CORP.
+                          A7BY - CLEO ENERGY
+ AB          50033   10   CORP.
+                          A7BY - CLEO ENERGY
+ AB          50033    1   CORP.
+                          A7BY - CLEO ENERGY
+ AB          38133    1   CORP.
+                          A7BY - CLEO ENERGY
+ AB          34561    1   CORP.
+                          A7BY - CLEO ENERGY
+ AB          24852    1   CORP.
+                          A7BY - CLEO ENERGY
+ AB          24234    9   CORP.
+                          A7BY - CLEO ENERGY
+ AB          24234   28   CORP.
+                          A7BY - CLEO ENERGY
+ AB          24156    9   CORP.
+                          A7BY - CLEO ENERGY
+ AB          24156    8   CORP.
+                          A7BY - CLEO ENERGY
+ AB          24156    6   CORP.
+                          A7BY - CLEO ENERGY
+ AB          24156    5   CORP.
+                          A7BY - CLEO ENERGY
+ AB          24156    4   CORP.
+                          A7BY - CLEO ENERGY
+ AB          24156   36   CORP.
+                          A7BY - CLEO ENERGY
+ AB          24156   35   CORP.
+                          A7BY - CLEO ENERGY
+ AB          24156   34   CORP.
+                          A7BY - CLEO ENERGY
+ AB          24156   33   CORP.
+                          A7BY - CLEO ENERGY
+ AB          24156   32   CORP.
+                          A7BY - CLEO ENERGY
+ AB          24156   31   CORP.
+                          A7BY - CLEO ENERGY
+ AB          24156   30   CORP.
+                          A7BY - CLEO ENERGY
+ AB          24156    2   CORP.
+                          A7BY - CLEO ENERGY
+ AB          24156   17   CORP.
+                          A7BY - CLEO ENERGY
+ AB          24156   16   CORP.
+68510167\2
+                            - 23 -
+                          A7BY - CLEO ENERGY
+ AB          24156   15   CORP.
+                          A7BY - CLEO ENERGY
+ AB          24156   14   CORP.
+                          A7BY - CLEO ENERGY
+ AB          24156   12   CORP.
+                          A7BY - CLEO ENERGY
+ AB          24156   11   CORP.
+                          A7BY - CLEO ENERGY
+ AB          24156   10   CORP.
+                          A7BY - CLEO ENERGY
+ AB          24156    1   CORP.
+                          A7BY - CLEO ENERGY
+ AB          24155    2   CORP.
+                          A7BY - CLEO ENERGY
+ AB          27608   12   CORP.
+                          A7BY - CLEO ENERGY
+ AB          27608   11   CORP.
+                          A7BY - CLEO ENERGY
+ AB          27608    1   CORP.
+                          A7BY - CLEO ENERGY
+ AB          26743    1   CORP.
+                          A7BY - CLEO ENERGY
+ AB          29012    4   CORP.
+                          A7BY - CLEO ENERGY
+ AB          27608    8   CORP.
+                          A7BY - CLEO ENERGY
+ AB          27608    7   CORP.
+                          A7BY - CLEO ENERGY
+ AB          27608    6   CORP.
+                          A7BY - CLEO ENERGY
+ AB          27608    5   CORP.
+                          A7BY - CLEO ENERGY
+ AB          27608    4   CORP.
+                          A7BY - CLEO ENERGY
+ AB          27608    3   CORP.
+                          A7BY - CLEO ENERGY
+ AB          27608    2   CORP.
+                          A7BY - CLEO ENERGY
+ AB          27608   15   CORP.
+                          A7BY - CLEO ENERGY
+ AB          27608   14   CORP.
+                          A7BY - CLEO ENERGY
+ AB          27608   13   CORP.
+                          A7BY - CLEO ENERGY
+ AB          62778    2   CORP.
+                          A7BY - CLEO ENERGY
+ AB          62778    1   CORP.
+                          A7BY - CLEO ENERGY
+ AB          62774    5   CORP.
+68510167\2
+                            - 24 -
+                          A7BY - CLEO ENERGY
+ AB          62774    4   CORP.
+                          A7BY - CLEO ENERGY
+ AB          62774    3   CORP.
+                          A7BY - CLEO ENERGY
+ AB          62774    2   CORP.
+                          A7BY - CLEO ENERGY
+ AB          62774    1   CORP.
+                          A7BY - CLEO ENERGY
+ AB          60622    1   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58346    9   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58346    8   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58346    7   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58346    6   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58346    5   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58346    4   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58346   31   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58346   30   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58346    3   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58346   29   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58346   28   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58346   27   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58346   26   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58346   25   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58346   24   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58346   23   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58346   22   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58346   21   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58346   20   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58346    2   CORP.
+68510167\2
+                            - 25 -
+                          A7BY - CLEO ENERGY
+ AB          58346   19   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58346   18   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58346   17   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58346   16   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58346   15   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58346   14   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58346   13   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58346   12   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58346   11   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58346   10   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58346    1   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58345   44   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58345   21   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58345   19   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58345   18   CORP.
+                          A7BY - CLEO ENERGY
+ AB          44979    6   CORP.
+                          A7BY - CLEO ENERGY
+ AB          44979    5   CORP.
+                          A7BY - CLEO ENERGY
+ AB          44979    4   CORP.
+                          A7BY - CLEO ENERGY
+ AB          44979    3   CORP.
+                          A7BY - CLEO ENERGY
+ AB          44979    2   CORP.
+                          A7BY - CLEO ENERGY
+ AB          44979    1   CORP.
+                          A7BY - CLEO ENERGY
+ AB          39115    4   CORP.
+                          A7BY - CLEO ENERGY
+ AB          39115    3   CORP.
+                          A7BY - CLEO ENERGY
+ AB          39115    2   CORP.
+                          A7BY - CLEO ENERGY
+ AB          39115    1   CORP.
+68510167\2
+                            - 26 -
+                          A7BY - CLEO ENERGY
+ AB          38107    2   CORP.
+                          A7BY - CLEO ENERGY
+ AB          38107    1   CORP.
+                          A7BY - CLEO ENERGY
+ AB          36572   86   CORP.
+                          A7BY - CLEO ENERGY
+ AB          33599    1   CORP.
+                          A7BY - CLEO ENERGY
+ AB          25416   17   CORP.
+                          A7BY - CLEO ENERGY
+ AB          25416   13   CORP.
+                          A7BY - CLEO ENERGY
+ AB          25416   11   CORP.
+                          A7BY - CLEO ENERGY
+ AB          23905    1   CORP.
+                          A7BY - CLEO ENERGY
+ AB          22859    9   CORP.
+                          A7BY - CLEO ENERGY
+ AB          22859    8   CORP.
+                          A7BY - CLEO ENERGY
+ AB          22859    7   CORP.
+                          A7BY - CLEO ENERGY
+ AB          22859    6   CORP.
+                          A7BY - CLEO ENERGY
+ AB          22859    5   CORP.
+                          A7BY - CLEO ENERGY
+ AB          22859    4   CORP.
+                          A7BY - CLEO ENERGY
+ AB          22859    3   CORP.
+                          A7BY - CLEO ENERGY
+ AB          22859    2   CORP.
+                          A7BY - CLEO ENERGY
+ AB          22859   16   CORP.
+                          A7BY - CLEO ENERGY
+ AB          22859   15   CORP.
+                          A7BY - CLEO ENERGY
+ AB          22859   14   CORP.
+                          A7BY - CLEO ENERGY
+ AB          22859   11   CORP.
+                          A7BY - CLEO ENERGY
+ AB          22859   10   CORP.
+                          A7BY - CLEO ENERGY
+ AB          22859    1   CORP.
+                          A7BY - CLEO ENERGY
+ AB          22819    1   CORP.
+                          A7BY - CLEO ENERGY
+ AB          26798    3   CORP.
+                          A7BY - CLEO ENERGY
+ AB          26798    2   CORP.
+68510167\2
+                            - 27 -
+                          A7BY - CLEO ENERGY
+ AB          26798    1   CORP.
+                          A7BY - CLEO ENERGY
+ AB          26411    9   CORP.
+                          A7BY - CLEO ENERGY
+ AB          26411    8   CORP.
+                          A7BY - CLEO ENERGY
+ AB          26411    7   CORP.
+                          A7BY - CLEO ENERGY
+ AB          26411    6   CORP.
+                          A7BY - CLEO ENERGY
+ AB          26411    5   CORP.
+                          A7BY - CLEO ENERGY
+ AB          26411    4   CORP.
+                          A7BY - CLEO ENERGY
+ AB          26411    3   CORP.
+                          A7BY - CLEO ENERGY
+ AB          26411    2   CORP.
+                          A7BY - CLEO ENERGY
+ AB          26411   10   CORP.
+                          A7BY - CLEO ENERGY
+ AB          26411    1   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58336    2   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58336    1   CORP.
+                          A7BY - CLEO ENERGY
+ AB          61168    1   CORP.
+                          A7BY - CLEO ENERGY
+ AB          60621    7   CORP.
+                          A7BY - CLEO ENERGY
+ AB          60621    6   CORP.
+                          A7BY - CLEO ENERGY
+ AB          60621    5   CORP.
+                          A7BY - CLEO ENERGY
+ AB          60621    4   CORP.
+                          A7BY - CLEO ENERGY
+ AB          60621    3   CORP.
+                          A7BY - CLEO ENERGY
+ AB          60621    2   CORP.
+                          A7BY - CLEO ENERGY
+ AB          60621    1   CORP.
+                          A7BY - CLEO ENERGY
+ AB          59568    1   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58345    9   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58345    8   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58345    7   CORP.
+68510167\2
+                            - 28 -
+                          A7BY - CLEO ENERGY
+ AB          58345    6   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58345   51   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58345   50   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58345    5   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58345   49   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58345   48   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58345   47   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58345   46   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58345   45   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58345   43   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58345   42   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58345   41   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58345   40   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58345    4   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58345   39   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58345   38   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58345   37   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58345   36   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58345   35   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58345   34   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58345   33   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58345   32   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58345   31   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58345   30   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58345    3   CORP.
+68510167\2
+                            - 29 -
+                          A7BY - CLEO ENERGY
+ AB          58345   29   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58345   28   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58345   27   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58345   26   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58345   25   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58345   24   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58345   23   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58345   22   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58345   20   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58345    2   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58345   17   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58345   16   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58345   15   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58345   14   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58345   13   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58345   12   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58345   11   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58345   10   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58345    1   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58343    4   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58343    3   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58343    2   CORP.
+                          A7BY - CLEO ENERGY
+ AB          58343    1   CORP.
+
+
+
+
+68510167\2
+                                         - 30 -
+                                     Facilities List
+
+    Licence
+    Number        Surface Location            Area
+ F22807       00/09-35-036-07W4      Neutral Hills North
+ F27410       02/04-16-038-05W4      Neutral Hills North
+ F5906        00/01-02-037-07W4      Neutral Hills North
+ F5909        00/06-02-037-07W4      Neutral Hills North
+ F5912        00/13-02-037-07W4      Neutral Hills North
+ F5913        00/15-02-037-07W4      Neutral Hills North
+ F5917        00/08-03-037-07W4      Neutral Hills North
+ F5929        00/09-10-037-07W4      Neutral Hills North
+ F5934        00/14-10-037-07W4      Neutral Hills North
+ F5939        00/02-11-037-07W4      Neutral Hills North
+ F5940        00/03-11-037-07W4      Neutral Hills North
+ F5941        00/05-11-037-07W4      Neutral Hills North
+ F5942        00/07-11-037-07W4      Neutral Hills North
+ F5947        00/16-11-037-07W4      Neutral Hills North
+ F5948        00/04-12-037-07W4      Neutral Hills North
+ F5949        00/05-12-037-07W4      Neutral Hills North
+ F5955        00/02-15-037-07W4      Neutral Hills North
+ F5960        00/03-15-037-07W4      Neutral Hills North
+ F5992        00/02-25-037-07W4      Neutral Hills North
+ F5993        00/12-25-037-07W4      Neutral Hills North
+ F22769       00/08-16-039-10W4      Silver Heights
+ F39080       00/10-12-039-10W4      Silver Heights
+ F7060        00/14-02-039-10W4      Silver Heights
+ F7092        00/11-10-039-10W4      Silver Heights
+ F7093        00/16-10-039-10W4      Silver Heights
+ F7094        00/06-11-039-10W4      Silver Heights
+ F7101        00/14-14-039-10W4      Silver Heights
+ F7103        00/03-15-039-10W4      Silver Heights
+ F7104        00/01-16-039-10W4      Silver Heights
+ F7111        00/01-23-039-10W4      Silver Heights
+ F7113        00/04-23-039-10W4      Silver Heights
+ F7114        00/04-24-039-10W4      Silver Heights
+
+
+
+
+68510167\2
+                                          - 31 -
+                                    SCHEDULE “D”
+
+                                    ENCUMBRANCES
+
+      Creditor                       Alberta PPR    Type of Registration
+                                     Registration
+                                     Number
+
+      Arundel Capital Corporation    18061928493    Security Agreement
+
+      Arundel Capital Corporation    22092933905    Security Agreement
+
+      Arundel Capital Corporation    22092934052    Security Agreement
+
+      Arundel Capital Corporation    23050907741    Security Agreement
+
+      Savanna Well Servicing Inc.    23041225735    Writ of Enforcement
+
+      1992169 Alberta Ltd.           23062929662    Security Agreement
+
+      Oxygen Working Capital Corp
+
+      Stephen Ballard                23080419988    Security Agreement
+
+      2416924 ALBERTA LTD. O/A       23081025798    Security Agreement
+      STRIDE CAPITAL
+
+      SAVANNA WELL SERVICING INC     23102732847    Writ of Enforcement
+
+      FORT MCKAY-SAVANNA             23112427384    Security Agreement
+      ENERGY SERVICES LIMITED
+      PARTNERSHIP
+
+      MORGANICK BLENDING             24072922827    Writ of Enforcement
+      SERVICES CORP
+
+      STARTEC REFRIGERATION          24082929766    Writ of Enforcement
+      SERVICES LTD
+
+      VERTEX PROFESSIONAL            24103032735    Writ of Enforcement
+      SERVICES LTD
+
+      Marco Simonelli                24120616078    Security Agreement
+
+      MARSHAL RAE HOLDINGS           24120616149    Security Agreement
+
+      MANTL CANADA INC.              24120616201    Security Agreement
+
+      NEWCART CONTRACTING (1993)     25011623746    Writ of Enforcement
+      LTD.
+
+
+
+
+68510167\2
+                                                           - 32 -
+                                               SCHEDULE “E”
+                                         PERMITTED ENCUMBRANCES
+
+(i)      all encumbrances, overriding royalties, net profits interests and other burdens identified in Schedule “A-2”;
+
+(ii)     any Right of First Refusal or any similar restriction applicable to any of the Assets;
+
+(iii)    the terms and conditions of the Title Documents, including, without limitation, the requirement to pay any
+         rentals or royalties to the grantor thereof to maintain the Title Documents in good standing and any royalty or
+         other burden reserved to the grantor thereof or any gross royalty trusts applicable to the grantor’s interest in
+         any of the Title Documents;
+
+(iv)     the right reserved to or vested in any grantor, Governmental Authority or other public authority by the terms
+         of any Title Document or by Applicable Law to terminate any Title Document;
+
+(v)      easements, right of way, servitudes or other similar rights in land, including, without in any way limiting the
+         generality of the foregoing, rights of way and servitudes for highways, railways, sewers, drains, gas and oil
+         pipelines, gas and water mains, electric light, power, telephone or cable television conduits, poles, wires or
+         cables;
+
+(vi)     taxes on Petroleum Substances or the income or revenue therefrom, unless specifically excluded and
+         governmental restrictions on production rates from the Wells or on operations being conducted on the Lands
+         or otherwise affecting the value of any of the Assets;
+
+(vii)    agreements for the sale, processing, transmission or transportation of Petroleum Substances, which are
+         terminable on not more than thirty (30) days’ notice (without an early termination penalty or other cost);
+
+(viii)   any obligation of Vendor to hold any portion of its interest in and to any of the Assets in trust for Third Parties;
+
+(ix)     the right reserved to or vested in any municipality, Governmental Authority or other public authority to control
+         or regulate any of the Assets in any manner, including any directives or notices received from any municipality,
+         Governmental Authority or other public authority pertaining to the Assets;
+
+(x)      liens incurred or created as security in favour of any Person with respect to the development or operation of
+         any of the Assets, as regards Vendor’s share of the costs and expenses thereof which are not due or delinquent
+         as of the date hereof or, if then due or delinquent are being contested in good faith by Vendor;
+
+(xi)     the reservations, limitations, provisos and conditions in any grants or transfers from the Crown of any of the
+         Lands or interests therein, and statutory exceptions to title;
+
+(xii)    agreements and plans relating to pooling or unitization of any of the Petroleum and Natural Gas Rights;
+
+(xiii)   agreements respecting the operation of Wells by contract field operators;
+
+(xiv)    provisions for penalties and forfeitures under agreements as a consequence of non-participation in operations;
+
+(xv)     liens granted in the ordinary course of business to a public utility, municipality or Governmental Authority
+         with respect to operations pertaining to any of the Assets; and
+
+(xvi)    all overriding royalties or similar interests in the Lands which are not capable of being vested out by the
+         Approval Order under Applicable Law,
+
+(with capitalized terms having the meanings given to them in the Sale Agreement).
+
+
+
+
+68510167\2
+             SCHEDULE “C”
+             PROSPERA SAVO
+
+
+
+
+68518126\1
+                                                - A-1 -
+
+                                                                                        Clerk’s Stamp
+
+ COURT FILE NO.           B301-163430
+
+ COURT                    COURT OF KING’S BENCH OF ALBERTA
+
+ JUDICIAL CENTRE          CALGARY
+
+                          IN THE MATTER OF THE BANKRUPTCY AND INSOLVENCY ACT, RSC
+                          1985, C B-3, AS AMENDED
+                          AND IN THE MATTER OF THE NOTICE OF INTENTION TO MAKE A
+                          PROPOSAL OF CLEO ENERGY CORP.
+
+ APPLICANT                CLEO ENERGY CORP.
+
+ DOCUMENT                 ORDER (Sale Approval and Vesting – Prospera Energy Inc.)
+
+ ADDRESS FOR              Gowling WLG (Canada) LLP
+ SERVICE AND              1600, 421 – 7th Avenue SW
+ CONTACT                  Calgary, AB T2P 4K9
+ INFORMATION OF
+                          Attn:       Sam Gabor / Tom Cumming
+ PARTY FILING THIS
+ DOCUMENT                 Phone:      403.298.1946 / 403.298.1938
+                          Fax:        403.263.9193
+                          Email:      sam.gabor@gowlingwlg.com / tom.cumming@gowlingwlg.com
+                          File No.:   G10010664
+
+DATE ON WHICH ORDER WAS PRONOUNCED:                            June 2, 2025
+
+LOCATION WHERE ORDER WAS PRONOUNCED:                          Edmonton, Alberta
+
+JUSTICE WHO MADE THIS ORDER:                                   The Honourable Justice Burns in
+                                                               Commercial Chambers
+
+             UPON THE APPLICATION of Cleo Energy Corp. (“Cleo”) filed May 26, 2025 for an
+order approving the sale transaction (the “Transaction”) contemplated by a purchase and sale
+agreement dated as of May 9, 2025 (the “Sale Agreement”) between Cleo and Prospera Energy Inc.
+(the “Purchaser”) and vesting all of Cleo’s right, title and interest in and to the assets described in
+the Sale Agreement (the “Purchased Assets”);
+
+             AND UPON having read the Affidavit of Chris Lewis sworn May 26, 2025 (the
+“Affidavit”), the Affidavit of Service of Sherry Langley, sworn May ●, 2025, and the Sixth Report
+of Alvarez & Marsal Canada Inc. (“A&M”) in its capacity as proposal trustee of Cleo (in such
+capacity, the “Proposal Trustee”, and in its capacity as receiver of the undertaking, property and
+assets of Cleo, the “Receiver”) dated May ●, 2025 and the confidential appendices thereto; AND
+
+
+82056677.1
+68497512\2
+                                                         - A-2 -
+
+
+UPON hearing submissions by counsel for Cleo, the Proposal Trustee, counsel for the Proposal
+Trustee and any other counsel or other interested parties present,
+
+ IT IS HEREBY ORDERED AND DECLARED THAT:
+
+ SERVICE
+1.           Service of notice of this application and supporting materials is hereby declared to be good and
+             sufficient, no other person is required to have been served with notice of this application and time
+             for service of this application is abridged to that actually given.
+
+APPROVAL OF TRANSACTION
+
+2.           The Transaction is deemed a Back-Up Bid pursuant to the Order (Sales Process) of the Honourable
+             Justice Neilsen dated January 22, 2025 in these proceedings (the “SSP Order”).
+
+3.           Upon the filing by A&M of the termination certificate set out in Schedule “A” to the Order (Sale
+             Approval and Vesting Rise Energy SPV Ltd.) dated June 2, 2025 in this proceeding (the “Fire
+             Creek Termination Certificate”), the Transaction shall be deemed to be a Successful Bid pursuant
+             to SSP Order and the Transaction shall be approved and the execution of the Sale Agreement by
+             Cleo shall be hereby authorized and approved, with such minor amendments as Cleo may deem
+             necessary, and thereafter Cleo is hereby authorized and directed to take such additional steps and
+             execute such additional documents as may be necessary or desirable for completion of the
+             Transaction and conveyance of the Purchased Assets to the Purchaser.
+
+4.           Upon the Closing Certificate set out in Schedule “B” in the Order (Sale Approval and Vesting Rise
+             Energy SPV Ltd.) dated June 2, 2025 in this proceeding being filed with the Court, this Order shall
+             be of no further force or effect.
+
+VESTING OF PROPERTY
+
+5.           Subject only to approval by the Alberta Energy Regulator (“Energy Regulator”) of transfer of any
+             applicable licenses, permits and approvals pursuant to section 24 of the Oil and Gas Conservation
+             Act (Alberta) and section 18 of the Pipeline Act (Alberta), upon delivery by A&M of the closing
+             certificate to the Purchaser substantially in the form set out in Schedule “A” hereto (the “Closing
+             Certificate”) all of Cleo’s right, title and interest in and to the Purchased Assets listed in Schedule
+             “B” hereto shall vest absolutely in the name of the Purchaser, free and clear of and from any and
+             all caveats, security interests, hypothecs, pledges, mortgages, liens, trusts or deemed trusts,
+             reservations of ownership, royalties, options, rights of pre-emption, privileges, interests,
+82056677.1
+68497512\2
+                                                       - A-3 -
+
+
+             assignments, actions, judgements, executions, levies, taxes, writs of enforcement, charges, or other
+             claims, whether contractual, statutory, financial, monetary or otherwise, whether or not they have
+             attached or been perfected, registered or filed and whether secured, unsecured or otherwise
+             (collectively, “Claims”) including, without limiting the generality of the foregoing:
+
+             (a)     the Administration Charge (“Administration Charge”), Interim Lender’s Charge
+                     (“Interim Lender’s Charge”) and D&O Charge created pursuant to, and having the
+                     meanings given to them in, the Order (Stay Extension, Administration Charge, Interim
+                     Financing, Interim Financing Charge, D&O Charge and Other Relief) of the Honourable
+                     Justice M.J. Lema in these proceedings pronounced January 6, 2025, as amended by his
+                     Order (Stay Extension, Interim Financing, Interim Financing Charge and Other Relief)
+                     pronounced February 19, 2025;
+
+             (b)     any charges, security interests or claims evidenced by registrations pursuant to the Personal
+                     Property Security Act (Alberta) or any other personal property registry system;
+
+             (c)     any liens or claims of lien under the Builders’ Lien Act (Alberta); and
+
+             (d)     those Claims listed in Schedule “C” hereto (all of which are collectively referred to as the
+                     “Encumbrances”, which term shall not include the permitted encumbrances, caveats,
+                     interests, easements, and restrictive covenants listed in Schedule “D” (collectively,
+                     “Permitted Encumbrances”))
+
+             and for greater certainty, this Court orders that all Claims including Encumbrances other than
+             Permitted Encumbrances, affecting or relating to the Purchased Assets are hereby expunged,
+             discharged and terminated as against the Purchased Assets.
+
+6.           Upon delivery of the Closing Certificate, and upon filing of a certified copy of this Order, together
+             with any applicable registration fees, all governmental authorities and or regulatory bodies
+             including those referred to below in this paragraph (collectively, “Governmental Authorities”)
+             are hereby authorized, requested and directed to accept delivery of the Closing Certificate and
+             certified copy of this Order as though they were originals and to register such transfers, interest
+             authorizations, discharges and discharge statements of conveyance as may be required to convey
+             to the Purchaser clear title to the Purchased Assets subject only to Permitted Encumbrances.
+             Without limiting the foregoing:
+
+
+
+82056677.1
+68497512\2
+                                                        - A-4 -
+
+
+             (a)     Alberta Energy (“Energy Ministry”) shall and is hereby authorized, requested and
+                     directed to forthwith:
+
+                     (i)      cancel and discharge those Claims including builders’ liens, security notices,
+                              assignments under section 426 (formerly section 177) of the Bank Act (Canada)
+                              and other Encumbrances (but excluding Permitted Encumbrances) registered
+                              (whether before or after the date of this Order) against the estate or interest of Cleo
+                              in and to any of the Purchased Assets located in the Province of Alberta; and
+
+                     (ii)     transfer all Crown leases listed in Schedule “B” to this Order standing in the name
+                              of Cleo to the Purchaser free and clear of all Claims including Encumbrances but
+                              excluding Permitted Encumbrances;
+
+             (b)     the Registrar of the Alberta Personal Property Registry (the “PPR Registrar”) shall and is
+                     hereby directed to forthwith cancel and discharge any registrations at the Alberta Personal
+                     Property Registry (whether made before or after the date of this Order) claiming security
+                     interests (other than Permitted Encumbrances) in the estate or interest of Cleo in any of the
+                     Purchased Assets which are of a kind prescribed by applicable regulations as serial-number
+                     goods.
+
+7.           In order to effect the transfers and discharges described above, this Court directs each of the
+             Governmental Authorities to take such steps as are necessary to give effect to the terms of this
+             Order and the Sale Agreement. Presentment of this Order and the Closing Certificate shall be the
+             sole and sufficient authority for the Governmental Authorities to make and register transfers of title
+             or interest and cancel and discharge registrations against any of the Purchased Assets of any Claims
+             including Encumbrances but excluding Permitted Encumbrances.
+
+8.           No authorization, approval or other action by and no notice to or filing with any Governmental
+             Authority exercising jurisdiction over the Purchased Assets is required for the due execution,
+             delivery and performance of the Sale Agreement, other than any required approval by the Energy
+             Regulator referenced in paragraph 3 above.
+
+9.           For the purposes of determining the nature and priority of Claims, net proceeds from sale of the
+             Purchased Assets (to be held in an interest bearing trust account by the Proposal Trustee or the
+             Receiver) shall stand in the place and stead of the Purchased Assets from and after delivery of the
+             Closing Certificate and all Claims including Encumbrances (but excluding Permitted
+             Encumbrances) shall not attach to, encumber or otherwise form a charge, security interest, lien, or
+82056677.1
+68497512\2
+                                                        - A-5 -
+
+
+             other Claim against the Purchased Assets and may be asserted against the net proceeds from sale
+             of the Purchased Assets with the same priority as they had with respect to the Purchased Assets
+             immediately prior to the sale, as if the Purchased Assets had not been sold and remained in the
+             possession or control of the person having that possession or control immediately prior to the sale.
+             Unless otherwise ordered (whether before or after the date of this Order), the Proposal Trustee or
+             the Receiver shall not make any distributions to creditors of net proceeds from sale of the Purchased
+             Assets without further order of this Court, provided however the Proposal Trustee or the Receiver
+             may apply any part of such net proceeds to pay amounts owing as secured by the Administration
+             Charge and repay any amounts Cleo has borrowed as secured by the Interim Lender’s Charge.
+
+10.          Except as expressly provided for by section 5 of the Alberta Employment Standards Code, the
+             Purchaser shall not, by completion of the Transaction, have liability of any kind whatsoever in
+             respect of any Claims against Cleo.
+
+11.          Upon completion of the Transaction, Cleo and all persons who claim by, through or under Cleo in
+             respect of the Purchased Assets, and all persons or entities having any Claims of any kind
+             whatsoever in respect of the Purchased Assets, save and except for persons entitled to the benefit
+             of the Permitted Encumbrances, shall stand absolutely and forever barred, estopped and foreclosed
+             from and permanently enjoined from pursuing, asserting or claiming any and all right, title, estate,
+             interest, royalty, rental, equity of redemption or other Claim whatsoever in respect of or to the
+             Purchased Assets, and to the extent that any such persons or entities remain in the possession or
+             control of any of the Purchased Assets, or any artifacts, certificates, instruments or other indicia of
+             title representing or evidencing any right, title, estate, or interest in and to the Purchased Assets,
+             they shall forthwith deliver possession thereof to the Purchaser.
+
+12.          The Purchaser shall be entitled to enter into and upon, hold and enjoy the Purchased Assets for its
+             own use and benefit without any interference of or by Cleo, or any person claiming by, through or
+             against Cleo.
+
+13.          Immediately upon closing of the Transaction, holders of Permitted Encumbrances shall have no
+             claim whatsoever against Cleo.
+
+MISCELLANEOUS MATTERS
+
+14.          Notwithstanding:
+
+             (a)     the pendency of these proceedings and any declaration of insolvency made herein;
+
+82056677.1
+68497512\2
+                                                         - A-6 -
+
+
+             (b)     the pendency of any applications for a bankruptcy order now or hereafter issued pursuant
+                     to the Bankruptcy and Insolvency Act, R.S.C. 1985, c.B-3, as amended (the “BIA”), in
+                     respect of Cleo, and any bankruptcy order issued pursuant to any such applications;
+
+             (c)     any assignment in bankruptcy made in respect of Cleo; and
+
+             (d)     the provisions of any federal or provincial statute:
+
+             the vesting of the Purchased Assets in the Purchaser pursuant to this Order shall be binding on any
+             trustee in bankruptcy that may be appointed in respect of Cleo and shall not be void or voidable by
+             creditors of Cleo, nor shall it constitute nor be deemed to be a transfer at undervalue, settlement,
+             fraudulent preference, assignment, fraudulent conveyance, or other reviewable transaction under
+             the BIA or any other applicable federal or provincial legislation, nor shall it constitute oppressive
+             or unfairly prejudicial conduct pursuant to any applicable federal or provincial legislation.
+
+15.          Cleo, the Proposal Trustee, the Receiver, the Purchaser and any other interested party, shall be at
+             liberty to apply for further advice, assistance and direction as may be necessary in order to give full
+             force and effect to the terms of this Order and to assist and aid the parties in closing the Transaction.
+
+16.          This Honourable Court hereby requests the aid and recognition of any court, tribunal, regulatory or
+             administrative body having jurisdiction in Canada or in any of its provinces or territories or in any
+             foreign jurisdiction, to act in aid of and to be complimentary to this Court in carrying out the terms
+             of this Order, to give effect to this Order and to assist the Proposal Trustee and its agents in carrying
+             out the terms of this Order. All courts, tribunals, regulatory and administrative bodies are hereby
+             respectfully requested to make such order and to provide such assistance to the Proposal Trustee
+             and or the Receiver, as an officer of the Court, as may be necessary or desirable to give effect to
+             this Order or to assist the Proposal Trustee and its agents in carrying out the terms of this Order.
+
+GENERAL
+
+17.          Service of this Order may be effected by facsimile, electronic mail, personal delivery or courier to
+             the service list (the “Service List”) in the proceedings. Service is deemed to be effected the next
+             business day following transmission or delivery of this Order.
+
+18.          This Order shall be posted on the Proposal Trustee’s website for these proceedings at:
+             https://www.alvarezandmarsal.com/CLEO.
+
+                                                              J.C.K.B.A.
+
+
+
+
+82056677.1
+68497512\2
+                                                     - A-7 -
+
+
+                                                  SCHEDULE “A”                               Clerk’s Stamp
+
+                                            CLOSING CERTIFICATE
+
+
+ COURT FILE NO.
+
+ COURT                          COURT OF KING’S BENCH OF ALBERTA
+
+ JUDICIAL CENTRE                CALGARY
+
+                                IN THE MATTER OF THE BANKRUPTCY AND INSOLVENCY ACT, RSC
+                                1985, C B-3, AS AMENDED
+                                AND IN THE MATTER OF THE RECEIVERSHIP OF CLEO ENERGY
+                                CORP.
+
+ APPLICANT                      UCAPITAL-ULOAN SOLUTIONS INC.
+
+ RESPONDENT                     CLEO ENERGY CORP.
+
+ DOCUMENT                       CLOSING CERTIFICATE
+
+ ADDRESS FOR                    Miller Thomson LLP
+ SERVICE AND                    525-8th Avenue SW, 43rd Floor
+ CONTACT                        Calgary, AB, Canada T2P 1G1
+ INFORMATION OF
+                                Attn:        James W. Reid
+ PARTY FILING THIS
+                                Phone:       403-298-2418
+ DOCUMENT
+                                Email:      jwreid@millerthomson.com
+                                File No.:    0289127.0002
+
+RECITALS:
+
+      A. Cleo Energy Corp. (“Cleo”) filed a notice of intention to make a proposal under Division I of Part
+             III of the Bankruptcy and Insolvency Act, RSC 1985, c B-3, as amended (the “BIA”) on December
+             8, 2024 with Alvarez & Marsal Canada Inc. (“A&M”) acting in its capacity as proposal trustee of
+             Cleo.
+
+
+      B. Pursuant to an Order of the Honourable Justice Burns of the Court of King’s Bench of Alberta (the
+             “Court”) dated June 2, 2025 A&M was appointed as receiver over the assets, undertaking and
+             property of Cleo (the “Receiver”).
+
+      C. Pursuant to an Order (Sale Approval and Vesting – Prospera Energy Inc.) of the Honourable Justice
+             Burns of the Court dated June 2, 2025 under court file no. B301-163430, the Court approved the
+             agreement of purchase and sale made as of May , 2025 (the “Sale Agreement”) between Cleo and
+             Prospera Energy Inc. (the “Purchaser”) and provided for the vesting in the Purchaser of Cleo’s
+
+82056677.1
+68497512\2
+                                                        - A-8 -
+
+
+             right, title and interest in and to the Purchased Assets, which vesting is to be effective with respect
+             to the Purchased Assets upon the delivery to the Purchaser of a closing certificate confirming (i)
+             the payment by the Purchaser of the Purchase Price for the Purchased Assets; (ii) that the conditions
+             to Closing as set out in sections 3.2 to 3.4 of the Sale Agreement have been satisfied or waived;
+             and (iii) the Transaction has been completed to the satisfaction of the Receiver.
+
+      D. Unless otherwise indicated herein, capitalized terms have the meanings set out in the Sale
+             Agreement.
+
+THE RECEIVER CERTIFIES the following:
+
+      1.         The Purchaser has paid and the Receiver has received the Purchase Price for the Purchased
+                 Assets payable on the Closing Date pursuant to the Sale Agreement;
+
+
+      2.         The conditions to Closing as set out in sections 3.2 to 3.4 of the Sale Agreement have been
+                 satisfied or waived by the Receiver and the Purchaser; and
+
+
+      3.         The Transaction has been completed to the satisfaction of the Receiver.
+
+
+This Certificate was delivered by the Receiver at [Time] on [Date].
+
+                                                       Alvarez & Marsal Canada Inc. in its capacity as
+                                                       receiver, and not in its personal capacity
+                                                       By:
+
+                                                       Name:
+                                                       Title:
+
+
+
+
+82056677.1
+68497512\2
+                                               - A-9 -
+
+
+                                        SCHEDULE “B”
+                                      PURCHASED ASSETS
+
+                                      WHITE MAP AREA
+
+                                       Silver Heights Assets
+
+                                       R10W4
+
+
+
+
+             36   31          32       3                   35      36         32
+
+
+
+
+                                           R10W4
+
+
+
+
+                  LANDS AND PETROLEUM AND NATURAL GAS RIGHTS
+
+                       All Silver Heights Surface, P&NG & Associated Rights
+
+
+
+
+82056677.1
+68497512\2
+                                                  - B-1 -
+
+
+                                      WELLS AND FACILITIES
+
+                                                   Wells
+
+                                          All Silver Heights Wells
+
+ Well #           Well UWI:
+              1   100/01-23-039-10W4/00
+              2   100/01-31-038-09W4/00
+              3   100/02-15-039-10W4/00
+              4   100/02-23-039-10W4/00
+              5   100/03-15-039-10W4/00
+              6   100/03-23-039-10W4/00
+              7   100/04-10-039-10W4/00
+              8   100/04-11-039-10W4/00
+              9   100/04-14-039-10W4/00
+             10   100/04-23-039-10W4/00
+             11   100/04-24-039-10W4/00
+             12   100/05-10-039-10W4/00
+             13   100/06-10-039-10W4/02
+             14   100/06-11-039-10W4/00
+             15   100/08-16-039-10W4/00
+             16   100/08-16-039-10W4/02
+             17   100/08-19-039-10W4/00
+             18   100/09-10-039-10W4/00
+             19   100/09-12-039-10W4/00
+             20   100/11-10-039-10W4/00
+             21   100/11-11-039-10W4/00
+             22   100/11-12-039-10W4/00
+             23   100/11-14-039-10W4/03
+             24   100/12-02-039-10W4/00
+             25   100/12-10-039-10W4/00
+             26   100/12-11-039-10W4/00
+             27   100/12-12-039-10W4/00
+             28   100/12-24-039-10W4/00
+             29   100/13-10-039-10W4/00
+             30   100/13-12-039-10W4/00
+             31   100/14-02-039-10W4/00
+             32   100/14-10-039-10W4/00
+             33   100/14-11-039-10W4/00
+             34   100/14-14-039-10W4/00
+
+82056677.1
+68497512\2
+                                          - B-2 -
+
+
+             35 100/14-24-039-10W4/00
+             36 100/15-10-039-10W4/00
+             37 100/15-11-039-10W4/00
+             38 100/15-14-039-10W4/02
+             39 100/16-10-039-10W4/00
+             40 100/16-11-039-10W4/02
+             41 100/16-14-039-10W4/00
+             42 100/16-14-039-10W4/02
+             43 100/16-15-039-10W4/00
+             44 100/16-35-038-10W4/00
+             45 102/01-23-039-10W4/00
+             46   102/04-10-039-10W4/00
+             47   102/09-10-039-10W4/00
+             48   102/10-10-039-10W4/00
+             49   102/10-10-039-10W4/02
+             50   102/10-12-039-10W4/00
+             51   102/10-14-039-10W4/00
+             52   102/11-31-038-09W4/00
+             53   102/13-10-039-10W4/00
+             54   102/14-02-039-10W4/00
+             55   102/14-10-039-10W4/00
+             56   102/14-11-039-10W4/00
+             57   102/15-14-039-10W4/00
+             58   102/16-33-038-10W4/00
+             59   103/01-23-039-10W4/00
+             60   103/11-31-038-09W4/00
+             61   103/14-14-039-10W4/00
+             62   103/14-14-039-10W4/02
+             63   103/15-27-038-10W4/00
+             64   103/16-14-039-10W4/00
+             65   104/16-14-039-10W4/00
+             66   1B2/13-14-039-10W4/00
+             67   1C0/13-14-039-10W4/00
+             68   1C0/14-14-039-10W4/02
+             69   1D0/13-14-039-10W4/02
+
+
+
+
+82056677.1
+68497512\2
+                                             - B-3 -
+
+
+                                           Facilities
+
+                                  All Silver Heights Facilities
+
+
+  Facilities
+     &
+ Equipment
+     #              Facility
+            1       ABBT0123218
+            2       ABBT0118961
+            3       ABBT0130936
+            4       ABBT0134411
+            5       ABBT0118779
+            6       ABIF0008389
+            7       ABBT7500967
+            8       ABBT0114472
+
+Incinerator located at Kessler
+
+
+ PL #             Pipeline:
+              1   AB-58346-17
+              2   AB-50033-26
+              3   AB-50033-1
+              4   AB-27608-14
+              5   AB-24156-8
+              6   AB-24155-2
+              7   AB-24156-14
+              8   AB-27608-11
+              9   AB-24156-17
+             10   AB-27608-8
+             11   AB-24156-31
+             12   AB-58346-24
+             13   AB-58346-11
+             14   AB-58346-19
+             15   AB-24156-16
+             16   AB-24156-11
+             17   AB-58346-13
+             18   AB-24156-35
+             19   AB-26743-1
+             20   AB-50033-18
+             21   AB-24155-2
+             22   AB-24156-1
+82056677.1
+68497512\2
+                                - B-4 -
+
+
+             23 AB-24156-10
+             24 AB-24156-11
+             25 AB-24156-16
+             26 AB-24156-35
+             27 AB-24156-36
+             28 AB-24156-4
+             29 AB-24156-6
+             30 AB-24156-8
+             31 AB-24234-28
+             32 AB-24234-9
+             33 AB-27608-12
+             34   AB-27608-13
+             35   AB-27608-7
+             36   AB-27608-8
+             37   AB-29012-4
+             38   AB-50033-19
+             39   AB-50033-21
+             40   AB-58346-1
+             41   AB-58346-10
+             42   AB-58346-11
+             43   AB-58346-12
+             44   AB-58346-14
+             45   AB-58346-15
+             46   AB-58346-16
+             47   AB-58346-17
+             48   AB-58346-18
+             49   AB-58346-24
+             50   AB-58346-6
+             51   AB-58346-7
+
+
+
+
+82056677.1
+68497512\2
+                                                    SCHEDULE “C”
+
+                                                    ENCUMBRANCES
+
+                      Creditor                       Alberta PPR    Type of Registration
+                                                     Registration
+                                                     Number
+
+                      Arundel Capital Corporation    18061928493    Security Agreement
+
+                      Arundel Capital Corporation    22092933905    Security Agreement
+
+                      Arundel Capital Corporation    22092934052    Security Agreement
+
+                      Arundel Capital Corporation    23050907741    Security Agreement
+
+                      Savanna Well Servicing Inc.    23041225735    Writ of Enforcement
+
+                      1992169 Alberta Ltd.           23062929662    Security Agreement
+
+                      Oxygen Working Capital Corp
+
+                      Stephen Ballard                23080419988    Security Agreement
+
+                      2416924 ALBERTA LTD. O/A       23081025798    Security Agreement
+                      STRIDE CAPITAL
+Draft & Privileged
+
+
+
+
+                      SAVANNA WELL SERVICING INC     23102732847    Writ of Enforcement
+
+                      FORT MCKAY-SAVANNA             23112427384    Security Agreement
+                      ENERGY SERVICES LIMITED
+                      PARTNERSHIP
+
+                      MORGANICK BLENDING             24072922827    Writ of Enforcement
+                      SERVICES CORP
+
+                      STARTEC REFRIGERATION          24082929766    Writ of Enforcement
+                      SERVICES LTD
+
+                      VERTEX PROFESSIONAL            24103032735    Writ of Enforcement
+                      SERVICES LTD
+
+                      Marco Simonelli                24120616078    Security Agreement
+
+                      MARSHAL RAE HOLDINGS           24120616149    Security Agreement
+
+                      MANTL CANADA INC.              24120616201    Security Agreement
+
+                      NEWCART CONTRACTING (1993)     25011623746    Writ of Enforcement
+                      LTD.
+
+
+
+                68497512\2
+                                                              -2-
+
+
+
+                                                 SCHEDULE “D”
+                                           PERMITTED ENCUMBRANCES
+
+(i)      all encumbrances, overriding royalties, net profits interests and other burdens identified in Schedule “A-2”;
+
+(ii)     any Right of First Refusal or any similar restriction applicable to any of the Assets;
+
+(iii)    the terms and conditions of the Title Documents, including, without limitation, the requirement to pay any rentals or
+         royalties to the grantor thereof to maintain the Title Documents in good standing and any royalty or other burden
+         reserved to the grantor thereof or any gross royalty trusts applicable to the grantor’s interest in any of the Title
+         Documents;
+
+(iv)     the right reserved to or vested in any grantor, Governmental Authority or other public authority by the terms of any
+         Title Document or by Applicable Law to terminate any Title Document;
+
+(v)      easements, right of way, servitudes or other similar rights in land, including, without in any way limiting the
+         generality of the foregoing, rights of way and servitudes for highways, railways, sewers, drains, gas and oil pipelines,
+         gas and water mains, electric light, power, telephone or cable television conduits, poles, wires or cables;
+
+(vi)     taxes on Petroleum Substances or the income or revenue therefrom, unless specifically excluded and governmental
+         restrictions on production rates from the Wells or on operations being conducted on the Lands or otherwise affecting
+         the value of any of the Assets;
+
+(vii)    agreements for the sale, processing, transmission or transportation of Petroleum Substances, which are terminable
+         on not more than thirty (30) days’ notice (without an early termination penalty or other cost);
+
+(viii)   any obligation of Vendor to hold any portion of its interest in and to any of the Assets in trust for Third Parties;
+
+(ix)     the right reserved to or vested in any municipality, Governmental Authority or other public authority to control or
+         regulate any of the Assets in any manner, including any directives or notices received from any municipality,
+         Governmental Authority or other public authority pertaining to the Assets;
+
+(x)      liens incurred or created as security in favour of any Person with respect to the development or operation of any of
+         the Assets, as regards Vendor’s share of the costs and expenses thereof which are not due or delinquent as of the date
+         hereof or, if then due or delinquent are being contested in good faith by Vendor;
+
+(xi)     the reservations, limitations, provisos and conditions in any grants or transfers from the Crown of any of the Lands
+         or interests therein, and statutory exceptions to title;
+
+(xii)    agreements and plans relating to pooling or unitization of any of the Petroleum and Natural Gas Rights;
+
+(xiii)   agreements respecting the operation of Wells by contract field operators;
+
+(xiv)    provisions for penalties and forfeitures under agreements as a consequence of non-participation in operations;
+
+(xv)     liens granted in the ordinary course of business to a public utility, municipality or Governmental Authority with
+         respect to operations pertaining to any of the Assets; and
+
+(xvi)    all overriding royalties or similar interests in the Lands which are not capable of being vested out by the Approval
+         Order under Applicable Law,
+
+(with capitalized terms having the meanings given to them in the Sale Agreement).
+
+
+
+
+68497512\2
+                            -3-
+
+
+
+                       SCHEDULE “D”
+                       NUOVA II SAVO
+
+
+
+
+68518126\1
+
+LEGAL_CAL:16465367.1
+                                                                                           Clerk’s Stamp
+
+ COURT FILE NO.           B301-163430
+
+ COURT                    COURT OF KING’S BENCH OF ALBERTA
+
+ JUDICIAL CENTRE          CALGARY
+
+                          IN THE MATTER OF THE BANKRUPTCY AND INSOLVENCY ACT, RSC
+                          1985, C B-3, AS AMENDED
+                          AND IN THE MATTER OF THE NOTICE OF INTENTION TO MAKE A
+                          PROPOSAL OF CLEO ENERGY CORP.
+
+ APPLICANT                CLEO ENERGY CORP.
+
+ DOCUMENT                 ORDER (Sale Approval and Vesting – Nuova Strada Ventures Ltd.)
+
+ ADDRESS FOR              Gowling WLG (Canada) LLP
+ SERVICE AND              1600, 421 – 7th Avenue SW
+ CONTACT                  Calgary, AB T2P 4K9
+ INFORMATION OF
+                          Attn:       Sam Gabor / Tom Cumming
+ PARTY FILING THIS
+ DOCUMENT                 Phone:      403.298.1946 / 403.298.1938
+                          Fax:        403.263.9193
+                          Email:      sam.gabor@gowlingwlg.com / tom.cumming@gowlingwlg.com
+                          File No.:   G10010664
+
+DATE ON WHICH ORDER WAS PRONOUNCED:                            June 2, 2025
+
+LOCATION WHERE ORDER WAS PRONOUNCED:                           Edmonton, Alberta
+
+JUSTICE WHO MADE THIS ORDER:                                   The Honourable Justice Burns in Commercial
+                                                               Chambers
+
+             UPON THE APPLICATION of Cleo Energy Corp. (“Cleo”) filed May 26, 2025 for an order
+approving the sale transaction (the “Transaction”) contemplated by a purchase and sale agreement dated as
+of April 16, 2025, (the “Sale Agreement”) between Cleo and Nuova Strada Ventures Ltd. (the “Purchaser”)
+and vesting all of Cleo’s right, title and interest in and to the assets described in the Sale Agreement (the
+“Purchased Assets”);
+
+             AND UPON having read the Affidavit of Chris Lewis sworn May 26, 2025 (the “Affidavit”),
+the Affidavit of Service of Sherry Langley, sworn ●, 2025, and the Sixth Report of Alvarez & Marsal Canada
+Inc. (“A&M”) in its capacity as proposal trustee of Cleo (in such capacity, the “Proposal Trustee”, and in
+its capacity as receiver of the undertaking, property and assets of Cleo, the “Receiver”) dated ●, 2025 and
+the confidential appendices thereto; AND UPON hearing submissions by counsel for Cleo, the Proposal
+Trustee, counsel for the Proposal Trustee and any other counsel or other interested parties present,
+
+
+
+68496802\2
+                                                          -2-
+
+
+IT IS HEREBY ORDERED AND DECLARED THAT:
+
+SERVICE
+1.      Service of notice of this application and supporting materials is hereby declared to be good and sufficient,
+        no other person is required to have been served with notice of this application and time for service of this
+        application is abridged to that actually given.
+
+APPROVAL OF TRANSACTION
+
+2.      The Transaction is hereby approved and the execution of the Sale Agreement by Cleo is hereby authorized
+        and approved, with such minor amendments as Cleo may deem necessary. Cleo is hereby authorized and
+        directed to take such additional steps and execute such additional documents as may be necessary or
+        desirable for completion of the Transaction and conveyance of the Purchased Assets to the Purchaser.
+
+VESTING OF PROPERTY
+
+3.      Subject only to approval by the Alberta Energy Regulator (“Energy Regulator”) of transfer of any
+        applicable licenses, permits and approvals pursuant to section 24 of the Oil and Gas Conservation Act
+        (Alberta) and section 18 of the Pipeline Act (Alberta), upon delivery by the Receiver of the closing
+        certificate to the Purchaser substantially in the form set out in Schedule “A” hereto (the “Closing
+        Certificate”), all of Cleo’s right, title and interest in and to the Purchased Assets listed in Schedule “B”
+        hereto shall vest absolutely in the name of the Purchaser, free and clear of and from any and all caveats,
+        security interests, hypothecs, pledges, mortgages, liens, trusts or deemed trusts, reservations of ownership,
+        royalties, options, rights of pre-emption, privileges, interests, assignments, actions, judgements,
+        executions, levies, taxes, writs of enforcement, charges, or other claims, whether contractual, statutory,
+        financial, monetary or otherwise, whether or not they have attached or been perfected, registered or filed
+        and whether secured, unsecured or otherwise (collectively, “Claims”) including, without limiting the
+        generality of the foregoing:
+
+        (a)     the Administration Charge (“Administration Charge”), Interim Lender’s Charge (“Interim
+                Lender’s Charge”) and D&O Charge created pursuant to, and having the meanings given to them
+                in, the Order (Stay Extension, Administration Charge, Interim Financing, Interim Financing
+                Charge, D&O Charge and Other Relief) of the Honourable Justice M.J. Lema in these proceedings
+                pronounced January 6, 2025, as amended by his Order (Stay Extension, Interim Financing, Interim
+                Financing Charge and Other Relief) pronounced February 19, 2025;
+
+        (b)     any charges, security interests or claims evidenced by registrations pursuant to the Personal
+                Property Security Act (Alberta) or any other personal property registry system;
+
+68496802\2
+                                                       -3-
+
+        (c)     any liens or claims of lien under the Builders’ Lien Act (Alberta); and
+
+        (d)     those Claims listed in Schedule “C” hereto (all of which are collectively referred to as the
+                “Encumbrances”, which term shall not include the permitted encumbrances, caveats, interests,
+                easements, and restrictive covenants listed in Schedule “D” (collectively, “Permitted
+                Encumbrances”))
+
+        and for greater certainty, this Court orders that all Claims including Encumbrances other than Permitted
+        Encumbrances, affecting or relating to the Purchased Assets are hereby expunged, discharged and
+        terminated as against the Purchased Assets.
+
+4.      Upon delivery of the Closing Certificate, and upon filing of a certified copy of this Order, together with
+        any applicable registration fees, all governmental authorities and or regulatory bodies including those
+        referred to below in this paragraph (collectively, “Governmental Authorities”) are hereby authorized,
+        requested and directed to accept delivery of the Closing Certificate and certified copy of this Order as
+        though they were originals and to register such transfers, interest authorizations, discharges and discharge
+        statements of conveyance as may be required to convey to the Purchaser clear title to the Purchased Assets
+        subject only to Permitted Encumbrances. Without limiting the foregoing:
+
+        (a)     Alberta Energy (“Energy Ministry”) shall and is hereby authorized, requested and directed to
+                forthwith:
+
+                (i)     cancel and discharge those Claims including builders’ liens, security notices, assignments
+                        under section 426 (formerly section 177) of the Bank Act (Canada) and other
+                        Encumbrances (but excluding Permitted Encumbrances) registered (whether before or
+                        after the date of this Order) against the estate or interest of Cleo in and to any of the
+                        Purchased Assets located in the Province of Alberta; and
+
+                (ii)    transfer all Crown leases listed in Schedule “B” to this Order standing in the name of Cleo
+                        to the Purchaser free and clear of all Claims including Encumbrances but excluding
+                        Permitted Encumbrances;
+
+        (b)     the Registrar of the Alberta Personal Property Registry (the “PPR Registrar”) shall and is hereby
+                directed to forthwith cancel and discharge any registrations at the Alberta Personal Property
+                Registry (whether made before or after the date of this Order) claiming security interests (other
+                than Permitted Encumbrances) in the estate or interest of Cleo in any of the Purchased Assets
+                which are of a kind prescribed by applicable regulations as serial-number goods.
+
+
+
+68496802\2
+                                                         -4-
+
+5.      In order to effect the transfers and discharges described above, this Court directs each of the Governmental
+        Authorities to take such steps as are necessary to give effect to the terms of this Order and the Sale
+        Agreement. Presentment of this Order and the Closing Certificate shall be the sole and sufficient authority
+        for the Governmental Authorities to make and register transfers of title or interest and cancel and discharge
+        registrations against any of the Purchased Assets of any Claims including Encumbrances but excluding
+        Permitted Encumbrances.
+
+6.      No authorization, approval or other action by and no notice to or filing with any Governmental Authority
+        exercising jurisdiction over the Purchased Assets is required for the due execution, delivery and
+        performance of the Sale Agreement, other than any required approval by the Energy Regulator referenced
+        in paragraph 3 above.
+
+7.      For the purposes of determining the nature and priority of Claims, net proceeds from sale of the Purchased
+        Assets (to be held in an interest bearing trust account by the Proposal Trustee or the Receiver) shall stand
+        in the place and stead of the Purchased Assets from and after delivery of the Closing Certificate and all
+        Claims including Encumbrances (but excluding Permitted Encumbrances) shall not attach to, encumber
+        or otherwise form a charge, security interest, lien, or other Claim against the Purchased Assets and may
+        be asserted against the net proceeds from sale of the Purchased Assets with the same priority as they had
+        with respect to the Purchased Assets immediately prior to the sale, as if the Purchased Assets had not been
+        sold and remained in the possession or control of the person having that possession or control immediately
+        prior to the sale. Unless otherwise ordered (whether before or after the date of this Order), the Proposal
+        Trustee or the Receiver shall not make any distributions to creditors of net proceeds from sale of the
+        Purchased Assets without further order of this Court, provided however the Proposal Trustee or the
+        Receiver may apply any part of such net proceeds to pay amounts owing as secured by the Administration
+        Charge and repay any amounts Cleo has borrowed as secured by the Interim Lender’s Charge.
+
+8.      Except as expressly provided for by section 5 of the Alberta Employment Standards Code, the Purchaser
+        shall not, by completion of the Transaction, have liability of any kind whatsoever in respect of any Claims
+        against Cleo.
+
+9.      Upon completion of the Transaction, Cleo and all persons who claim by, through or under Cleo in respect
+        of the Purchased Assets, and all persons or entities having any Claims of any kind whatsoever in respect
+        of the Purchased Assets, save and except for persons entitled to the benefit of the Permitted Encumbrances,
+        shall stand absolutely and forever barred, estopped and foreclosed from and permanently enjoined from
+        pursuing, asserting or claiming any and all right, title, estate, interest, royalty, rental, equity of redemption
+        or other Claim whatsoever in respect of or to the Purchased Assets, and to the extent that any such persons
+        or entities remain in the possession or control of any of the Purchased Assets, or any artifacts, certificates,
+
+68496802\2
+                                                         -5-
+        instruments or other indicia of title representing or evidencing any right, title, estate, or interest in and to
+        the Purchased Assets, they shall forthwith deliver possession thereof to the Purchaser.
+
+10.     The Purchaser shall be entitled to enter into and upon, hold and enjoy the Purchased Assets for its own
+        use and benefit without any interference of or by Cleo, or any person claiming by, through or against Cleo.
+
+11.     Immediately upon closing of the Transaction, holders of Permitted Encumbrances shall have no claim
+        whatsoever against Cleo.
+
+MISCELLANEOUS MATTERS
+
+12.     Notwithstanding:
+
+        (a)     the pendency of these proceedings and any declaration of insolvency made herein;
+
+        (b)     the pendency of any applications for a bankruptcy order now or hereafter issued pursuant to the
+                Bankruptcy and Insolvency Act, R.S.C. 1985, c.B-3, as amended (the “BIA”), in respect of Cleo,
+                and any bankruptcy order issued pursuant to any such applications;
+
+        (c)     any assignment in bankruptcy made in respect of Cleo; and
+
+        (d)     the provisions of any federal or provincial statute:
+
+        the vesting of the Purchased Assets in the Purchaser pursuant to this Order shall be binding on any trustee
+        in bankruptcy that may be appointed in respect of Cleo and shall not be void or voidable by creditors of
+        Cleo, nor shall it constitute nor be deemed to be a transfer at undervalue, settlement, fraudulent preference,
+        assignment, fraudulent conveyance, or other reviewable transaction under the BIA or any other applicable
+        federal or provincial legislation, nor shall it constitute oppressive or unfairly prejudicial conduct pursuant
+        to any applicable federal or provincial legislation.
+
+13.     Cleo, the Proposal Trustee, the Receiver, the Purchaser and any other interested party, shall be at liberty
+        to apply for further advice, assistance and direction as may be necessary in order to give full force and
+        effect to the terms of this Order and to assist and aid the parties in closing the Transaction.
+
+14.     This Honourable Court hereby requests the aid and recognition of any court, tribunal, regulatory or
+        administrative body having jurisdiction in Canada or in any of its provinces or territories or in any foreign
+        jurisdiction, to act in aid of and to be complimentary to this Court in carrying out the terms of this Order,
+        to give effect to this Order and to assist the Proposal Trustee and its agents in carrying out the terms of
+        this Order. All courts, tribunals, regulatory and administrative bodies are hereby respectfully requested
+        to make such order and to provide such assistance to the Proposal Trustee and the Receiver, as an officer
+68496802\2
+                                                        -6-
+        of the Court, as may be necessary or desirable to give effect to this Order or to assist the Proposal Trustee
+        and its agents in carrying out the terms of this Order.
+
+GENERAL
+
+15.     Service of this Order may be effected by facsimile, electronic mail, personal delivery or courier to the
+        service list (the “Service List”) in the proceedings. Service is deemed to be effected the next business day
+        following transmission or delivery of this Order.
+
+16.     This Order shall be posted on the Proposal Trustee’s website for these proceedings at:
+        https://www.alvarezandmarsal.com/CLEO.
+
+
+
+
+                                                        J.C.K.B.A.
+
+
+
+
+68496802\2
+                                                        -7-
+                                                SCHEDULE “A”                                      Clerk’s Stamp
+
+                                           CLOSING CERTIFICATE
+
+
+ COURT FILE NO.
+
+ COURT                      COURT OF KING’S BENCH OF ALBERTA
+
+ JUDICIAL CENTRE            CALGARY
+
+                            IN THE MATTER OF THE BANKRUPTCY AND INSOLVENCY ACT, RSC
+                            1985, C B-3, AS AMENDED
+                            AND IN THE MATTER OF THE RECEIVERSHIP OF CLEO ENERGY
+                            CORP.
+
+ APPLICANT                  UCAPITAL-ULOAN SOLUTIONS INC.
+
+ RESPONDENT                 CLEO ENERGY CORP.
+
+ DOCUMENT                   CLOSING CERTIFICATE
+
+ ADDRESS FOR                Miller Thomson LLP
+ SERVICE AND                525-8th Avenue SW, 43rd Floor
+ CONTACT                    Calgary, AB, Canada T2P 1G1
+ INFORMATION OF
+                            Attn:        James W. Reid
+ PARTY FILING THIS
+                            Phone:       403-298-2418
+ DOCUMENT
+                            Email:      jwreid@millerthomson.com
+                            File No.:    0289127.0002
+
+RECITALS:
+
+    A. Cleo Energy Corp. (“Cleo”) filed a notice of intention to make a proposal under Division I of Part III of
+        the Bankruptcy and Insolvency Act, RSC 1985, c B-3, as amended (the “BIA”) on December 8, 2024 with
+        Alvarez & Marsal Canada Inc. (“A&M”) acting in its capacity as proposal trustee of Cleo.
+
+
+    B. Pursuant to an Order of the Honourable Justice Burns of the Court of King’s Bench of Alberta (the
+        “Court”) dated June 2, 2025 A&M was appointed as receiver over the assets, undertaking and property
+        of Cleo (the “Receiver”).
+
+    C. Pursuant to an Order (Sale Approval and Vesting – Nuova Strada Ventures Ltd.) of the Honourable Justice
+        Burns of the Court dated June 2, 2025 under Court file no. B301-163430, the Court approved the
+        agreement of purchase and sale made as of April 16, 2025 (the “Sale Agreement”) between Cleo and
+        Nuova Strada Ventures Ltd. (the “Purchaser”) and provided for the vesting in the Purchaser of Cleo’s
+        right, title and interest in and to the Purchased Assets, which vesting is to be effective with respect to the
+        Purchased Assets upon the delivery to the Purchaser of a closing certificate confirming (i) the payment by
+
+68496802\2
+                                                        -8-
+         the Purchaser of the Purchase Price for the Purchased Assets; (ii) that the conditions to Closing as set out
+         in sections 3.2 to 3.4 of the Sale Agreement have been satisfied or waived; and (iii) the Transaction has
+         been completed to the satisfaction of the Receiver.
+
+    D. Unless otherwise indicated herein, capitalized terms have the meanings set out in the Sale Agreement.
+
+THE RECEIVER CERTIFIES the following:
+
+    1.       The Purchaser has paid and the Receiver has received the Purchase Price for the Purchased Assets
+             payable on the Closing Date pursuant to the Sale Agreement;
+
+
+    2.       The conditions to Closing as set out in sections 3.2 to 3.4 of the Sale Agreement have been satisfied
+             or waived by the Receiver and the Purchaser; and
+
+
+    3.       The Transaction has been completed to the satisfaction of the Receiver.
+
+
+This Certificate was delivered by the Receiver at [Time] on [Date].
+
+                                                   Alvarez & Marsal Canada Inc. in its capacity as receiver, and
+                                                   not in its personal capacity
+                                                   By:
+
+                                                   Name:
+                                                   Title:
+
+
+
+
+68496802\2
+                                                                                                                                  -9-
+                                                                                                                SCHEDULE “B”
+
+                                                                                                        WHITE MAP AREA
+
+     R13                                                                                                               R12                                                                                                                    R11W4
+
+ T42                                                                                                                                                                                                                                                  T42
+        ·•!-         ....... : .. ••• ..:·····":········ ·······';'·······: .. ·····-:-·"'''"
+                             :        ;         :                         :
+
+               .. ·······~·····•1~•·····1·· .. ··· ....... +......1~•·····1··· ... ·.                                                                                                                        ······••i••··••:113--••••i••·····
+                             ..       ..        ..                                                                                                                                                                   .         ..        ..
+                                                                          :       :        :
+
+
+
+        .·r .. ..... .... ···~· ...... -~··· ....,...... .                .       '        .
+                                                             ....... ~ ........ ~···••ooi••oo••·· ........
+                                                                                                            .         .          .
+                                                                                                            :"·······~-······r·······                                                                        ........ ,....... ,........,...... ..,
+
+
+                                                                                                                                                                                                             ........ j .......1;2......./ ...... .
+                                                                                                                                                                                                                      ...             ...
+                                                                                                                                                                                                                      ;       .
+                                                                                                                                                                                                             ........ r·· ... f ......!........ .
+                                                                                                                                                                                                                                         ;
+
+
+
+
+                                                                                                                                                 ·······t..... :...............( ..... ( ... .. .. ......... ,..!, ...... ~--· .....; ......... .
+                                                                                                                                                                                                                      .                  .
+                                                                                                                                                         ..... -r ............. ,······-r--···· ............... ]:...... +: ......:/ ...... .
+                                                                                                                                                                                                                .. .. ..
+                                                                                                                                                        =-··· ···y··--··· ········~ ••• ·:                      . . .
+                                                                                                                                                                                                        ········.·····••:••·····.·······
+
+
+                                                             ·······=······;·······:.···············                  .          _               ·······I•·••···1········ ·······-r·······1·······t···•·•• ········~·-··· .. t.. ······t·······
+                     ............. ;i~ ...... : .... .
+                                                             ·······l······~--···+···"'·--~ - ,,__•••f ...... j....... ·······t·····-r-·····j-······· ·······}······¥······}--····· ········)······$······1·······
+                                                             .   ......   · ................ · ...................   · r · ..   ·-r-··-- ··--··r·· .. ·i······-r--·· .. ······r--··r--.. r--.............t····-r--··--r--···
+ T41 i-.---1--+----+-.:.___--+-----'--+-___:.__4-----'-----'-'=                                                                      --+--------'-----'-+-___:._-.;-..-+-~-....;._---'--.;-..--1-1 r 41
+   R13                                                                                                                                    R12                                                                                                 R11W4
+Map TIiie                                                                                                                            Dall.m: NAD63 ProJeCIJon: Stereogr"l)h,c DI.S Versm AB ATS 4.1. BC· PRB 2 O. SK STS 2.5. MB: MLI07
+
+
+
+
+68496802\2
+                                                - 10 -
+
+
+
+                       EXCLUDING PREVIOUSLY ABANDONED PIPELINES
+
+
+  Pipeline   Segment        From Location                    To Location        Segment Status
+  License    Number
+
+    29814       1        00/11-34-041-12W4/00            00/13-34-041-12W4/00     Abandoned
+
+    29814       2        00/11-34-041-12W4/00            00/07-34-041-12W4/00     Abandoned
+
+    30374       3        00/09-04-042-12W4/00            00/16-04-042-12W4/00     Abandoned
+
+    30374       6        00/12-03-042-12W4/00            00/11-03-042-12W4/00     Abandoned
+
+    63034       3        00/03-33-041-12W4/00            00/02-33-041-12W4/00     Abandoned
+
+    7509       10        00/06-08-042-12W4/00            00/07-08-042-12W4/00     Abandoned
+
+    7509       11        00/15-09-042-12W4/00            00/02-16-042-12W4/00     Abandoned
+
+    7509       12        00/14-11-042-12W4/00            00/15-09-042-12W4/00     Abandoned
+
+    7509       13        00/08-11-042-12W4/00            00/14-11-042-12W4/00     Abandoned
+
+    7509       16        00/05-18-042-11W4/00            00/15-12-042-12W4/00     Abandoned
+
+    7509       17        00/11-08-042-12W4/00            00/06-08-042-12W4/00     Abandoned
+
+    7509        6        00/07-08-042-12W4/00            00/02-16-042-12W4/00     Abandoned
+
+    7509        7        00/11-16-042-12W4/00            00/02-16-042-12W4/00     Abandoned
+
+    7509        8        00/07-07-042-12W4/00            00/06-08-042-12W4/00     Abandoned
+
+
+
+
+68496802\2
+                                               - 11 -
+
+
+
+                      LANDS AND PETROLEUM AND NATURAL GAS RIGHTS
+
+
+Mineral Property Report dated April 26, 2025
+
+
+
+
+68496802\2
+                                        - 12 -
+                                        Wells
+
+    License #           UWI                         Status        CLEO WI%
+
+    0243079     100/13-34-041-12W4/00                 Oil           100%
+
+    0008457     100/04-10-042-12W4/00            Abandoned Zn      92.238%
+
+    0009670     100/07-08-042-12W4/04             Abandoned         100%
+
+    0012680     100/11-16-042-12W4/00             Abandoned         100%
+
+    0107836     100/16-04-042-12W4/00            Suspended Oil      100%
+
+    0107836     100/16-04-042-12W4/02            Drilled & Case     100%
+
+    0193441     100/09-04-042-12W4/00                 Oil           100%
+
+    0193445     102/16-04-042-12W4/00            Abandoned Zn       100%
+
+    0193445     102/16-04-042-12W4/02            Abandoned Zn       100%
+
+    0193445     102/16-04-042-12W4/03             Abandoned         100%
+
+    0199445     100/12-03-042-12W4/00                 Oil           100%
+
+    0199561     102/11-03-042-12W4/00             Abandoned         100%
+
+    0199563     100/08-04-042-12W4/00             Abandoned         100%
+
+    0199563     100/08-04-042-12W4/02                 Inj           100%
+
+    0199564     100/05-03-042-12W4/00                 Oil           100%
+
+    0199988     100/04-03-042-12W4/00            Suspended Inj      100%
+
+    0199990     100/06-03-042-12W4/00                 Oil           100%
+
+    0200116     100/01-04-042-12W4/00                 Oil           100%
+
+    0200277     100/02-04-042-12W4/00                 Oil           100%
+
+    0200648     100/13-03-042-12W4/00            Suspended Oil      100%
+
+    0200749     100/14-04-042-12W4/00                 Oil           100%
+
+    0201219     100/07-04-042-12W4/00            Suspended Oil      100%
+
+    0202433     100/11-04-042-12W4/00                 Oil           100%
+
+
+68496802\2
+                                      - 13 -
+    0206312   100/13-04-042-12W4/00             Drilled & Case   100%
+
+    0206312   100/13-04-042-12W4/02                  Oil         100%
+
+    0331440   102/02-04-042-12W4/00             Drilled & Case   100%
+
+    0424407   100/15-05-042-12W4/00             Suspended Oil    100%
+
+    0426431   100/08-07-042-12W4/00            NO PNG RIGHTS     100%
+
+    0432529   100/14-05-042-12W4/00             Abandoned Zn     100%
+
+    0432529   100/14-05-042-12W4/02                  Oil         100%
+
+    0458724   102/15-05-042-12W4/00                  Oil         100%
+
+        31
+
+
+
+
+68496802\2
+                                           - 14 -
+                                          Pipelines
+
+ Pipeline    Seg   From Location             To Location            Priority Substance
+ License
+ 29814       3     00/09-04-042-12W4/00      00/09-04-042-12W4/00     Oil-Well Effluent
+ 29814       4     00/04-03-042-12W4/00      00/04-03-042-12W4/00     Oil-Well Effluent
+ 29814       5     00/05-03-042-12W4/00      00/05-03-042-12W4/00     Oil-Well Effluent
+ 29814       6     00/06-03-042-12W4/00      00/05-03-042-12W4/00     Oil-Well Effluent
+ 29814       7     00/11-03-042-12W4/00      00/05-03-042-12W4/00       Discontinued
+ 29814       8     00/12-03-042-12W4/00      00/05-03-042-12W4/00     Oil-Well Effluent
+ 29814       10    00/01-04-042-12W4/00      00/05-03-042-12W4/00     Oil-Well Effluent
+ 29814       11    00/05-03-042-12W4/00      00/05-03-042-12W4/00     Oil-Well Effluent
+ 29814       12    00/05-03-042-12W4/00      00/05-03-042-12W4/00     Oil-Well Effluent
+ 29814       13    00/09-04-042-12W4/00      00/16-04-042-12W4/00     Oil-Well Effluent
+ 29814       14    00/14-04-042-12W4/00      00/16-04-042-12W4/00     Oil-Well Effluent
+ 29814       15    00/11-04-042-12W4/00      00/14-04-042-12W4/00     Oil-Well Effluent
+ 29814       16    00/13-04-042-12W4/00      00/14-04-042-12W4/00     Oil-Well Effluent
+ 29814       17    00/02-04-042-12W4/00      00/01-04-042-12W4/00     Oil-Well Effluent
+ 29814       19    00/13-34-041-12W4/00      00/04-03-042-12W4/00     Oil-Well Effluent
+ 29814       20    00/04-03-042-12W4/00      00/05-03-042-12W4/00     Oil-Well Effluent
+ 29814       21    00/05-03-042-12W4/00      00/09-04-042-12W4/00     Oil-Well Effluent
+ 29814       22    00/09-04-042-12W4/00      00/16-04-042-12W4/00     Oil-Well Effluent
+ 30374       1     00/16-04-042-12W4/00      00/08-04-042-12W4/00        Salt Water
+ 30374       5     00/10-33-041-12W4/00      00/08-04-042-12W4/00       Discontinued
+ 30906       1     00/16-04-042-12W4/00      00/02-33-041-12W4/00        Natural Gas
+ 62775       1     00/09-32-041-12W4/00      00/11-33-041-12W4/00     Oil-Well Effluent
+ 62775       2     00/11-33-041-12W4/00      00/03-33-041-12W4/00     Oil-Well Effluent
+ 62775       3     00/11-33-041-12W4/00      00/03-33-041-12W4/00     Oil-Well Effluent
+ 62775       4     00/15-05-042-12W4/00      00/02-05-042-12W4/00     Oil-Well Effluent
+
+
+
+
+68496802\2
+                              - 15 -
+                            Facilities
+
+      License    Status   Surface Location   Liability Cost ($)
+
+      F27275     Issued   08-04-042-12W4         $442,500
+
+      F28668     Issued   14-04-042-12W4         $88,500
+
+      F40762     Issued   05-03-042-12W4         $88,500
+
+       F8933    Amended   16-04-042-12W4         $221,250
+
+
+
+
+68496802\2
+                                          - 16 -
+
+
+
+                                    SCHEDULE “C”
+
+                                    ENCUMBRANCES
+
+      Creditor                       Alberta PPR    Type of Registration
+                                     Registration
+                                     Number
+
+      Arundel Capital Corporation    18061928493    Security Agreement
+
+      Arundel Capital Corporation    22092933905    Security Agreement
+
+      Arundel Capital Corporation    22092934052    Security Agreement
+
+      Arundel Capital Corporation    23050907741    Security Agreement
+
+      Savanna Well Servicing Inc.    23041225735    Writ of Enforcement
+
+      1992169 Alberta Ltd.           23062929662    Security Agreement
+
+      Oxygen Working Capital Corp
+
+      Stephen Ballard                23080419988    Security Agreement
+
+      2416924 ALBERTA LTD. O/A       23081025798    Security Agreement
+      STRIDE CAPITAL
+
+      SAVANNA WELL SERVICING INC     23102732847    Writ of Enforcement
+
+      FORT MCKAY-SAVANNA             23112427384    Security Agreement
+      ENERGY SERVICES LIMITED
+      PARTNERSHIP
+
+      MORGANICK BLENDING             24072922827    Writ of Enforcement
+      SERVICES CORP
+
+      STARTEC REFRIGERATION          24082929766    Writ of Enforcement
+      SERVICES LTD
+
+      VERTEX PROFESSIONAL            24103032735    Writ of Enforcement
+      SERVICES LTD
+
+      Marco Simonelli                24120616078    Security Agreement
+
+      MARSHAL RAE HOLDINGS           24120616149    Security Agreement
+
+      MANTL CANADA INC.              24120616201    Security Agreement
+
+      NEWCART CONTRACTING (1993)     25011623746    Writ of Enforcement
+      LTD.
+
+
+
+68496802\2
+                                                         - 17 -
+                                                SCHEDULE “D”
+                                          PERMITTED ENCUMBRANCES
+
+(i)      all encumbrances, overriding royalties, net profits interests and other burdens identified in Schedule “A-
+         2”;
+
+(ii)     any Right of First Refusal or any similar restriction applicable to any of the Assets;
+
+(iii)    the terms and conditions of the Title Documents, including, without limitation, the requirement to pay any
+         rentals or royalties to the grantor thereof to maintain the Title Documents in good standing and any royalty
+         or other burden reserved to the grantor thereof or any gross royalty trusts applicable to the grantor’s interest
+         in any of the Title Documents;
+
+(iv)     the right reserved to or vested in any grantor, Governmental Authority or other public authority by the
+         terms of any Title Document or by Applicable Law to terminate any Title Document;
+
+(v)      easements, right of way, servitudes or other similar rights in land, including, without in any way limiting
+         the generality of the foregoing, rights of way and servitudes for highways, railways, sewers, drains, gas
+         and oil pipelines, gas and water mains, electric light, power, telephone or cable television conduits, poles,
+         wires or cables;
+
+(vi)     taxes on Petroleum Substances or the income or revenue therefrom, unless specifically excluded and
+         governmental restrictions on production rates from the Wells or on operations being conducted on the
+         Lands or otherwise affecting the value of any of the Assets;
+
+(vii)    agreements for the sale, processing, transmission or transportation of Petroleum Substances, which are
+         terminable on not more than thirty (30) days’ notice (without an early termination penalty or other cost);
+
+(viii)   any obligation of Vendor to hold any portion of its interest in and to any of the Assets in trust for Third
+         Parties;
+
+(ix)     the right reserved to or vested in any municipality, Governmental Authority or other public authority to
+         control or regulate any of the Assets in any manner, including any directives or notices received from any
+         municipality, Governmental Authority or other public authority pertaining to the Assets;
+
+(x)      liens incurred or created as security in favour of any Person with respect to the development or operation
+         of any of the Assets, as regards Vendor’s share of the costs and expenses thereof which are not due or
+         delinquent as of the date hereof or, if then due or delinquent are being contested in good faith by Vendor;
+
+(xi)     the reservations, limitations, provisos and conditions in any grants or transfers from the Crown of any of
+         the Lands or interests therein, and statutory exceptions to title;
+
+(xii)    agreements and plans relating to pooling or unitization of any of the Petroleum and Natural Gas Rights;
+
+(xiii)   agreements respecting the operation of Wells by contract field operators;
+
+(xiv)    provisions for penalties and forfeitures under agreements as a consequence of non-participation in
+         operations;
+
+(xv)     liens granted in the ordinary course of business to a public utility, municipality or Governmental Authority
+         with respect to operations pertaining to any of the Assets; and
+
+(xvi)    all overriding royalties or similar interests in the Lands which are not capable of being vested out by the
+         Approval Order under Applicable Law,
+
+68496802\2
+                                                    - 18 -
+(with capitalized terms having the meanings given to them in the Sale Agreement).
+
+
+
+
+68496802\2
+

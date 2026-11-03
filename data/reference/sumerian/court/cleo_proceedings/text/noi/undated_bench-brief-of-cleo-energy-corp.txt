@@ -1,0 +1,862 @@
+                                                                       Clerk’s Stamp
+
+
+
+ COURT FILE NUMBER         B301-163430
+
+ COURT                     COURT OF KING’S BENCH OF ALBERTA
+
+ JUDICIAL CENTRE           CALGARY
+
+                           IN THE MATTER OF THE BANKRUPTCY AND INSOLVENCY
+                           ACT, RSC 1985, C B-3, AS AMENDED
+
+                           AND IN THE MATTER OF THE NOTICE OF INTENTION TO
+                           MAKE A PROPOSAL OF CLEO ENERGY CORP.
+
+ DOCUMENT                  BENCH BRIEF OF CLEO ENERGY CORP.
+
+ ADDRESS FOR SERVICE       GOWLING WLG (CANADA) LLP
+ AND CONTACT               Suite 1600, 421 – 7th Avenue SW
+ INFORMATION OF PARTY      Calgary, AB T2P 4K9
+ FILING THIS DOCUMENT
+                           Telephone:    403-298-1946 / 403-298-1938
+                           Fax:          403-263-9193
+                           Email:        sam.gabor@gowlingwlg.com /
+                                         tom.cumming@gowlingwlg.com
+                           File No.:     G10010664
+
+                           Attention:    Sam Gabor/ Tom Cumming
+
+               APPLICATION BEFORE THE HONOURABLE JUSTICE BURNS
+             JUNE 2, 2025 AT 2:00 PM ON THE EDMONTON COMMERCIAL LIST
+
+
+
+
+68238803\3
+                                                        Table of Contents
+
+                                                                                                                                      Page
+
+
+PART 1             INTRODUCTION................................................................................................ 1
+
+         Background to the Application .......................................................................................... 4
+         Marketing and Sale of Properties pursuant to the SSP ...................................................... 5
+               First Phase .............................................................................................................. 5
+               Second Phase ......................................................................................................... 6
+
+PART 2             ISSUES .................................................................................................................. 7
+
+PART 3             LAW AND ARGUMENT.................................................................................... 7
+
+         A.        The SAVOs ............................................................................................................ 7
+                   Notice to Secured Creditors affected by Transactions (65.13(3)) ....................... 10
+                   Whether SSP is reasonable in the circumstances and was approved by the
+                           Proposal Trustee (65.13(4)(a) and (b)) .................................................... 10
+                   Proposal Trustee opines that a sale is more beneficial to creditors than a
+                           sale under a bankruptcy (65.13(4)(c)) ...................................................... 11
+                   Extent to which creditors were consulted (65.13(4)(d)) ...................................... 11
+                   Efficacy and integrity of the process by which offers have been obtained
+                           and whether there has been unfairness in the working out of the
+                           process (Soundair) ................................................................................... 11
+                   Whether sufficient effort has been made to obtain the best price
+                           (Soundair) ................................................................................................ 11
+                   Whether the consideration to be received for the assets is reasonable and
+                           fair, taking into account their market value (65.13(4)(f)) , and
+                           effects of Transactions on creditors and other interested parties
+                           (65.13(4)(e)) ............................................................................................. 12
+                   Form of SAVOs ................................................................................................... 13
+                   Other issues under 65.13 ...................................................................................... 13
+         B.        Sealing Order ....................................................................................................... 14
+
+PART 4             CONCLUSION AND RELIEF SOUGHT ....................................................... 16
+
+TABLE OF AUTHORITIES .................................................................................................... 17
+
+
+
+
+                                                                     i
+68238803\3
+PART 1          INTRODUCTION
+
+1.      Cleo is a private Alberta corporation formed in 2016 and carries on the business of producing
+        medium gravity based oil and gas with operated and non-operated working interests in the Alliance,
+        Atlee, Enchant/Taber, Fabyan, Hayter, Kessler, Neutral Hills, Sedgewick, Shorncliffe and Silver
+        Heights areas of Alberta. Cleo’s head office is located in Calgary, Alberta and has a field office in
+        Shorncliffe, Alberta.
+
+2.      Since early in 2024, Cleo has been experiencing serious financial difficulties and therefore on
+        December 8, 2024, filed a notice of intention to make a proposal pursuant to section 50.4(1) of the
+        Bankruptcy and Insolvency Act, RSC 1985, c B-3, as amended (the “BIA”, and the proceedings
+        initiated thereby, the “Proposal Proceedings”) designating Alvarez & Marsal Canada Inc.
+        (“A&M”) as its proposal trustee (in such capacity, the “Proposal Trustee”).
+
+3.      The initial 30-day time period within which a proposal was required to be filed under section
+        50.4(8) of the BIA ended on January 7, 2025 and was extended to February 21, 2025 pursuant to an
+        Order of the Honourable Justice Lema pronounced January 6, 2025 (the “January 6 Order”), to
+        April 4, 2025 pursuant to a second Order of Justice Lema pronounced February 19, 2025 (the
+        “February 19 Order”), to May 9, 2025 pursuant to an Order of the Honourable Justice M.H.
+        Bourque pronounced March 25, 2025, and to June 8, 2025 pursuant to an Order of the Honourable
+        Justice Armstrong pronounced April 30, 2025. The six (6) month period for Cleo to file a proposal
+        within the Proposal Proceedings pursuant to the BIA expires on June 8, 2025.
+
+4.      This Bench Brief is submitted on behalf of Cleo in support of an application (the “Application”)
+        for the following Orders:
+
+        (a)     an Order (the “Sealing Order”):
+
+                (i)     sealing the confidential supplement (the “Confidential Supplement”) to the sixth
+                        report of Alvarez & Marsal Canada Inc. (“A&M”) in its capacity as proposal
+                        trustee of Cleo (in such capacity, the “Proposal Trustee”, and such report, the
+                        “Sixth Report”);
+
+                (ii)    amending the Order of the Honourable Justice M.H. Bourque pronounced March
+                        25, 2025 (the “March 25 Sealing Order”) sealing a confidential supplement to
+                        the fourth report of the Proposal Trustee which provided confidential information
+
+
+
+68238803\3
+                                                  2
+
+                      relating to the economic terms of the transactions contemplated the Surge APA,
+                      IHH APA and Nuova I APA and Bids received in the (as such terms are defined
+                      the Sale and Solicitation Process (the “SSP”) approved by the Order of the
+                      Honourable Justice J.T. Nielson pronounced January 22, 2025); and
+
+              (iii)   amending the Order of the Honourable Justice Armstrong pronounced April 30,
+                      2025 (the “April 30 Sealing Order” with the March 25 Sealing Order, the “Prior
+                      Sealing Orders”) sealing a confidential supplement to the fifth report of the
+                      Proposal Trustee which provided confidential information relating to the Bids
+                      received in the SSP (as such terms are defined below);
+
+        (b)   an Order:
+
+              (i)     approving the asset purchase agreement dated as of May 26, 2025 (the “Fire Creek
+                      APA”) between Cleo and Rise Energy SPV Ltd. (“Rise”) which appoints Fire
+                      Creek Resources Ltd. (“Fire Creek”) as Rise’s nominee to take title to the assets
+                      subject to the Fire Creek APA, and declaring that the Fire Creek APA is the
+                      Successful Bid (as such term is defined in the Sale and Solicitation Process (the
+                      “SSP”) approved by the Order of the Honourable Justice J.T. Nielson);
+
+              (ii)    approving the asset purchase agreement dated as of May 21, 2025 (the “Prospera
+                      APA”) between Cleo and Prospera Energy Inc. (“Prospera”) and declaring that
+                      the Prospera APA is a Back-up Bidder (as defined in the SSP) to the Fire Creek
+                      APA;
+
+              (iii)   declaring that upon A&M, in its capacity as receiver of the undertaking, property
+                      and assets of Cleo (in such capacity, the “Receiver”), filing with this Court:
+
+                      (A)     a certificate in the form attached to the Fire Creek APA stating that all the
+                              conditions precedent to completing the purchase and sale transaction
+                              contemplated by the Fire Creek APA (the “Fire Creek Transaction”)
+                              have been satisfied or waived, the Fire Creek Transaction and Fire Creek
+                              SAVO (as defined below) shall become effective (the “Fire Creek
+                              Closing Certificate”); or
+
+
+
+
+68238803\3
+                                                      3
+
+                         (B)     a certificate stating that the Fire Creek Transaction and Fire Creek APA
+                                 have been terminated (the “Fire Creek Termination Certificate”), the
+                                 Prospera APA shall be deemed to be a Successful Bid;
+
+        (c)     an Order (the “Fire Creek SAVO”) vesting all of the right, title and interest of Cleo in and
+                to the Fire Creek Assets, free and clear of any and all caveats, security interests, hypothecs,
+                pledges, mortgages, liens, trusts or deemed trusts, reservations of ownership, royalties,
+                options, rights of pre-emption, privileges, interests, assignments, actions, judgements,
+                executions, levies, taxes, writs of enforcement, charges, or other claims, whether
+                contractual, statutory, financial, monetary or otherwise, whether or not they have attached
+                or been perfected, registered or filed and whether secured, unsecured or otherwise
+                (collectively, “Encumbrances”), effective upon the Receiver filing with this Court the Fire
+                Creek Closing Certificate, provided that if the Fire Creek Termination Certificate is filed
+                with this Court, the Fire Creek SAVO shall be of no further force or effect;
+
+        (d)     an Order (the “Prospera SAVO”) vesting all of the right, title and interest of Cleo in and
+                to the Prospera Assets, free and clear of any and all Encumbrances, which shall only
+                become effective upon the Receiver filing with this Court the Fire Creek Termination
+                Certificate and a certificate stating that all of the conditions precedent to the completion of
+                the purchase and sale transaction contemplated by the Prospera APA (the “Prospera
+                Transaction”) have been satisfied or waived, provided that if the Fire Creek Closing
+                Certificate is filed with this Court, the Prospera SAVO shall be of no further force or effect;
+
+        (e)     an Order (the “Nuova II SAVO”) approving the sale of certain assets (the “Nuova II
+                Assets”) pursuant to an asset purchase agreement dated as of April 16, 2025 (the “Nuova
+                II APA”) between Cleo and Nuova Strada Ventures Ltd. (“Nuova”) and vesting all of the
+                right, title and interest of Cleo in and to the Nuova II Assets, free and clear of any and all
+                Encumbrances, effective upon the Receiver filing with the Court a certificate stating that
+                all the conditions precedent to completing the purchase and sale transaction contemplated
+                by the Nuova II APA (the “Nuova II Transaction”) have been satisfied or waived; and
+
+        (f)     such other relief as this Honourable Court deems appropriate.
+
+5.      This Application is supported by an Affidavit sworn on May 26, 2025 by Chris Lewis, the sole
+        Director, Executive Chairman, and Chief Executive Officer of Cleo (the “May 26 Affidavit”). The
+        further facts with respect to the Application are more fully set out in, and this Brief will rely upon:
+
+
+68238803\3
+                                                    4
+
+        (a)     the May 26 Affidavit;
+
+        (b)     the first report of the Proposal Trustee dated January 6, 2025 (the “First Report”);
+
+        (c)     the second report of the Proposal Trustee dated January 20, 2025 (the “Second Report”);
+
+        (d)     the Sixth Report; and
+
+        (e)     the Confidential Supplement.
+
+6.      All references to monetary amounts referenced herein are in Canadian dollars, unless otherwise
+        stated and capitalized terms not defined herein have the meanings given to them in the May 26
+        Affidavit.
+
+Background to the Application
+
+7.      Under the January 6, 2025 Order, Justice Lema created an administration charge (the
+        “Administration Charge”) against the undertaking, properties and assets (the “Properties”)
+        securing the professional fees and expenses of the Proposal Trustee and its counsel and counsel to
+        Cleo in the maximum amount of $700,000, approved a non-revolving interim financing facility in
+        the maximum principal amount of $750,000 (the “Interim Facility”) and created a charge (the
+        “Interim Financing Charge”) against the Properties securing the indebtedness, liabilities and
+        obligations of Cleo to the interim lender under the Interim Facility, created charge (the “D&O
+        Charge”, and together with the Administration Charge and the Interim Financing Charge, the “BIA
+        Charges”) against the Properties securing Cleo’s obligation to indemnify its director and officer
+        against obligations and liabilities incurred after the commencement of the Proposal Proceedings,
+        declared that the BIA Charges rank in priority to any other Encumbrances, and declared that as
+        between the BIA Charges, the Administration Charge ranks first in priority, the Interim Financing
+        Charge ranks second in priority, and the D&O Charge ranks third in priority.
+
+8.      Pursuant to an Order of the Honourable Justice J.T. Nielson pronounced January 22, 2025 (the
+        “Sale Process Order”), the Court approved a sale and solicitation process (the “SSP”) that
+        provided for the marketing of the business and Properties of Cleo and the manner in which bids to
+        purchase Properties or invest in Cleo are to be made and assessed, and approved Cleo’s engagement
+        of Sayer Energy Advisors as a financial advisor and sale agent (the “Sale Agent”).
+
+
+
+
+68238803\3
+                                                         5
+
+9.      The February 19 Order amended the January 6 Order to approve the increase in the principal
+        amount of the Interim Facility to $1,000,000 and increase the maximum principal amount secured
+        by of the Interim Financing Charge to $1,000,000 together with any interest accrued thereon or
+        costs and expenses incurred thereunder.
+
+Marketing and Sale of Properties pursuant to the SSP
+
+10.     The SSP was launched immediately after the Sale Process Order was pronounced on January 20,
+        2025. The SSP provided for a two phase sale and marketing process under which:
+
+        First Phase
+
+        (a)      In the first phase, the Sale Agent widely marketed the Properties, set up a physical and
+                 electronic Data Room containing confidential information relating to the business of Cleo
+                 and the Properties, to which Potential Bidders were able to gain access by executing non-
+                 disclosure agreements.1
+
+        (b)      Potential Bidders were required to submit Non-Binding LOIs which complied with
+                 paragraph 23 of the SSP by the Non-Binding Bid Submission Date, which was February
+                 27, 2025.2
+
+        (c)      Under paragraph 24 of the SSP, the Proposal Trustee was required, in consultation with
+                 Cleo and the Sale Agent, to determine whether a Potential Bidder had complied with
+                 paragraph 23, had a bona fide interest in concluding a transaction, and had the financial
+                 wherewithal to conclude a transaction, whereupon it was designated as a “Qualified
+                 Bidder” for the purposes of participating in the second phase.3
+
+        (d)      Under paragraph 25 of the SSP, the Proposal Trustee, upon making the determinations in
+                 paragraph 24, was required to notify Potential Bidders whether or not they had been
+                 designated as Qualified Bidders.
+
+
+
+
+1
+  Affidavit of Chris Lewis, sworn May 26, 2025 (the “May 26 Affidavit”), paras 14 (a)(i) – 14(a)(ii).
+2
+  May 26 Affidavit, para 14(a)(iv).
+3
+  May 26 Affidavit, para 14(a)(v).
+
+
+68238803\3
+                                                         6
+
+           Second Phase
+
+           (e)      In the second phase, Qualified Bidders could carry out additional due diligence and were
+                    required to submit a binding bid (a “Bid”) which complied with the requirements of
+                    paragraph 28 of the SSP together with a deposit by the Binding Bid Submission Date.
+
+           (f)      Under paragraph 28 of the SSP, in order to be considered a Binding Bid, a Bid had to
+                    satisfy a number of criteria, including that it was based upon a template asset purchase
+                    agreement found in the Data Room, it had to clearly set forth the purchase price, it must be
+                    irrevocable until closing, it must identify the entities sponsoring the Bid, it must be
+                    accompanied by a 15% deposit, and it must be accompanied by evidence of financial
+                    wherewithal to complete the Transaction.
+
+           (g)      The Proposal Trustee, in consultation with Cleo and the Sale Agent, has the authority under
+                    paragraph 30 of the SSP to determine which Bids were Qualified Bids based on the
+                    considerations set out in paragraph 29 of the SSP, including the purchase price and net
+                    value (including assumed liabilities), whether there is a firm, irrevocable commitment for
+                    financing the transaction, the counterparties to the transaction, the terms of the transaction
+                    documents, closing conditions and other factors affecting the speed, certainty and value of
+                    the transaction, the planned treatment of stakeholders, the assets or liabilities included or
+                    excluded from the Bid, the compliance with the Alberta Energy Regulator’s requirements,
+                    any restructuring costs that would arise from the Bid, the likelihood and timing of
+                    consummating the transaction.
+
+           (h)      The Proposal Trustee, in consultation with Cleo and the Sale Agent, is authorized to
+                    negotiate the terms of Qualified Bids and may, but is not obligated to, select the highest or
+                    best Qualified Bid or Qualified Bids received during the SSP as “Successful Bids”, and is
+                    entitled to designate “Back Up Bids”.4
+
+11.        In emails sent on March 7, 2025, the Proposal Trustee advised 10 parties who submitted Non-
+           Binding LOIs, including the [Successful Bidders,] that they were Qualified Bidders and could
+           participate in the second phase, and 12 parties that they were not Qualified Bidders. 5
+
+
+
+
+4
+    May 26 Affidavit, Exhibit “A”, SSP, paras 33.
+5
+    May 26 Affidavit, para 16.
+
+
+68238803\3
+                                                     7
+
+12.     The Successful Bidders submitted Binding Bids and entered into the APAs in April and May, 2025
+        with Cleo.6
+
+PART 2          ISSUES
+
+13.     This Bench Brief addresses whether this Honourable Court should make the following Orders:
+
+        (a)     the SAVOs; and
+
+        (b)     the Sealing Order.
+
+PART 3          LAW AND ARGUMENT
+
+A.      The SAVOs
+
+14.     The purchase and sale transactions contemplated by the Fire Creek APA, and Nuova II APA,
+        (collectively also referred to as the “APAs”, and such transactions, the “Transactions”) are
+        described in detail in the May 26 Affidavit and in the Sixth Report.
+
+15.     The Proposal Trustee has designated the Bids submitted by Nuova Strada, and Rise/Fire Creek as
+        Successful Bids for the specific assets that they are purchasing and in consultation with Cleo and
+        the Sale Agent negotiated the terms of those APAs, and those Transactions will proceed forward
+        to closing.7
+
+16.     The Proposal Trustee has designated the Bids of Prospera as a Back-up Bid. In the event the Fire
+        Creek APA fails to close and terminates, and A&M files a certificate with the court confirming
+        same, the Prospera APA shall be deemed a Successful Bid and can proceed to close.8
+
+17.     Cleo respectfully submits that the Transactions should be approved, as they are in the best interest
+        of Cleo’s estate and its stakeholders and satisfy the statutory and common law tests for approving
+        sale transactions set out in section 65.13 of the BIA and in the decision of the Ontario Court of
+        Appeal in Royal Bank v Soundair Corp (“Soundair”).9
+
+
+
+
+6
+  May 26 Affidavit, paras 19-21.
+7
+  May 26 Affidavit, paras 26-27.
+8
+  May 26 Affidavit, para 26.
+9
+  Royal Bank v Soundair Corp, 1991 CanLII 2727 [Soundair] [Tab 1]
+
+
+68238803\3
+                                                          8
+
+18.     uCapital, Cleo’s interim lender will be seeking the appointment of A&M as Receiver to close the
+        Transactions and if so appointed, the Receiver will proceed to close the Transactions.
+
+19.     Subsections 65.13(1) and (3) of the BIA confers this Honourable Court with the jurisdiction to
+        approve a sale outside the ordinary course of business:
+
+                 “65.13 (1) An insolvent person in respect of whom a notice of intention is filed
+                 under section 50.4 or a proposal is filed under subsection 62(1) may not sell or
+                 otherwise dispose of assets outside the ordinary course of business unless
+                 authorized to do so by a court. Despite any requirement for shareholder approval,
+                 including one under federal or provincial law, the court may authorize the sale or
+                 disposition even if shareholder approval was not obtained.
+
+                 (3) An insolvent person who applies to the court for an authorization shall give
+                 notice of the application to the secured creditors who are likely to be affected by
+                 the proposed sale or disposition.”10
+
+20.     Section 65.13(4) of the BIA sets out a non-exclusive list of factors to be considered by the Court
+        in determining whether or not to approve a sale:
+
+                 “(4) In deciding whether to grant the authorization, the court is to consider, among
+                 other things,
+
+                          (a) whether the process leading to the proposed sale or disposition was
+                          reasonable in the circumstances;
+
+                          (b) whether the trustee approved the process leading to the proposed sale
+                          or disposition;
+
+                          (c) whether the trustee filed with the court a report stating that in their
+                          opinion the sale or disposition would be more beneficial to the creditors
+                          than a sale or disposition under a bankruptcy;
+
+                          (d) the extent to which the creditors were consulted;
+
+                          (e) the effects of the proposed sale or disposition on the creditors and
+                          other interested parties; and
+
+                          (f) whether the consideration to be received for the assets is reasonable
+                          and fair, taking into account their market value.”11
+
+21.     Sections 65.13 of the BIA and 36 of the Companies’ Creditors Arrangement Act (the “CCAA”) are
+        virtually identical and therefore courts have taken a similar approach in applying these provisions. 12
+        Courts have observed that the criteria in section 36(3) of the CCAA (the equivalent of section
+
+
+
+10
+   Bankruptcy and Insolvency Act, RSC 1985, c B-3, section 65.13 [BIA] [Tab 2].
+11
+   Ibid.
+12
+   Re Komtech Inc, 2011 ONSC 3230 at paras 21-23 [Tab 3].
+
+
+68238803\3
+                                                       9
+
+        65.13(4) of the BIA) largely correspond to the criteria set out in Soundair for approving sales during
+        insolvency processes,13 namely:
+
+        (a)      whether the receiver has made a sufficient effort to obtain the best price and has not acted
+                 improvidently;
+
+        (b)      the interests of all parties;
+
+        (c)      the efficacy and integrity of the process by which offers have been obtained; and
+
+        (d)      whether there has been unfairness in the working out of the process.14
+
+22.     In Soundair, the Court reviewed a sale by a receiver but its comments are generally applicable to
+        sales made during insolvency proceedings by or with the support of its court-appointed officer.
+        The court noted that (a) the court officer’s expertise in arranging a sale is far removed from the
+        Court’s own expertise, (b) the court must place a great deal of confidence in the court officer’s
+        actions and opinions formed by the receiver, (c) the court should assume that the court officer is
+        acting properly unless the contrary is clearly shown, (d) the court should be reluctant to second-
+        guess, with the benefit of hindsight, the considered business decisions made by the court officer,
+        and (e) the conduct of the court officer should be reviewed in the light of the specific mandate given
+        to it by the Court.15 Courts have observed that in applying these principles, the Court is not engaged
+        in a perfunctory, rubberstamp exercise, but nor should it reject a court officer’s recommendation
+        on a sale absent special circumstances, but rather that advice should be given significant weight. 16
+        The Soundair principles have been applied by courts in Alberta.17
+
+23.     Courts also give effect to the business judgment rule, which affords deference to the exercise of the
+        commercial and business judgment of the debtor company in the context of an asset sale where the
+        marketing and sale process was fair, reasonable, transparent and efficient.18
+
+24.     For the reasons set out below, Cleo submits that the Transactions satisfy the criteria set out in
+        section 65.13 and in Soundair.
+
+
+13
+   Harte Gold Corp. (Re), 2022 ONSC 653 at para 21 [Tab 4]; Just Energy Group Inc et al v Morgan Stanley Capital
+Group Inc et al, 2022 ONSC 6354 at para 62 [Tab 5].
+14
+   Soundair at para 16 [Tab 1].
+15
+   Soundair at para 14 [Tab 1].
+16
+   1705221 Alberta Ltd. v Three M Mortgages Inc., 2021 ABCA 144 at para 22 [Three M] [Tab 6].
+17
+   PricewaterhouseCoopers Inc v 1905393 Alberta Ltd, 2019 ABCA 433 at paras 10-12 [Tab 7]; Three M at para 2.
+18
+   Re Bloom Lake, 2015 QCCS 1920 at para 28 [Tab 8]
+
+
+68238803\3
+                                                          10
+
+         Notice to Secured Creditors affected by Transactions (65.13(3))
+
+25.      As required under section 65.13(3) of the BIA, all secured creditors with an interest in the Properties
+         subject to the Transactions are being provided with notice of the Application and the relief being
+         sought.19
+
+         Whether SSP is reasonable in the circumstances and was approved by the Proposal Trustee
+         (65.13(4)(a) and (b))
+
+26.      Both the Proposal Trustee and Sale Agent participated in the preparation of the SSP and in the
+         Second Report, the Proposal Trustee stated that it believed that the implementation of the SSP by
+         Cleo in consultation with the Proposal Trustee and Sale Agent was appropriate in the
+         circumstances. The SSP provides a fair and transparent process which will be conducted in such a
+         manner as to give prospective bidders equal opportunity to express their interest in making a bid.
+         The SSP further provided for an approximate four-week marketing process to sufficiently expose
+         the opportunity to the market and includes an additional two weeks for due diligence. Cleo, the
+         Proposal Trustee and the Sale Agent have continued to negotiate with bidders following this period
+         in order to maximize the sale values for the Properties. The Proposal Trustee also noted in the
+         Second Report that the Sale Advisor recommended the timelines in the SSP.20 The Court approved
+         the SSP in the Sale Process Order.21
+
+27.      As noted by the Proposal Trustee, the Sale Agent was familiar with Cleo’s business and Properties,
+         and as noted by the Proposal Trustee, has significant experience in marketing distressed companies
+         in these types of circumstances.22
+
+28.      Cleo therefore respectfully submits that the criteria set out in subsections 65.13(4)(a) and (b) are
+         satisfied.
+
+
+
+
+19
+   Those secured parties are listed in paragraph 28 of the First Report and are on the Service List.
+20
+   Second Report, para 33(c).
+21
+   May 26 Affidavit, para 13.
+22
+   Second Report, para 33(c).
+
+
+68238803\3
+                                                         11
+
+         Proposal Trustee opines that a sale is more beneficial to creditors than a sale under a
+         bankruptcy (65.13(4)(c))
+
+29.      Cleo anticipates that the Proposal Trustee will state in the Sixth Report that in its opinion, the
+         Transactions are more beneficial to the creditors than sales or dispositions under a bankruptcy.
+
+         Extent to which creditors were consulted (65.13(4)(d))
+
+30.      Cleo has kept its principal secured creditors advised of the progress of the SSP and of the
+         Transactions, and none of them have objected.23
+
+         Efficacy and integrity of the process by which offers have been obtained and whether there
+         has been unfairness in the working out of the process (Soundair)
+
+31.      The SSP has been designed to ensure that the marketing and sale process is carried out with integrity
+         and in a fair and reasonable manner. Under the SSP, the Proposal Trustee is empowered, in
+         consultation with the Sale Agent and Cleo, to determine whether a Non-Binding LOI was a
+         Qualified LOI and the party submitting it was a Qualified Bidder,24 whether a binding Bid was a
+         Qualified Bid for the purposes of paragraph 28 of the SSP,25 and determine whether or not Qualified
+         Bids are Successful Bids or Backup Bids.26 Hence, the Proposal Trustee has been and continues to
+         be closely involved in the SSP and will make the ultimate determination of whether or not a
+         Qualified Bid is a Successful Bid whose approval will be sought from this Honourable Court. As
+         a court officer with a duty to all stakeholders of Cleo, the Proposal Trustee’s participation ensures
+         the integrity of the SSP.
+
+32.      There is no evidence of any unfairness in how the SSP has worked out.
+
+         Whether sufficient effort has been made to obtain the best price (Soundair)
+
+33.      The marketing and sale of the Properties subject to the Transactions has been carried out in
+         accordance with the SSP and the SSP has been professionally administered by the Sale Agent in a
+         commercially reasonable manner. The marketing of the Properties was carried out over a four week
+         period, during which the Sale Agent distributed the Teaser to approximately 2,250 parties by email
+
+
+
+23
+   May 26 Affidavit, paras 34, 35.
+24
+   May 26 Affidavit, para 14 (a)(v), Exhibit “A”, SSP, para 24.
+25
+   May 26 Affidavit, para 14(b), Exhibit “A”, SSP, para 29-30.
+26
+   May 26 Affidavit, para 14 (b), Exhibit “A”, SSP, paras 29-30, 33.
+
+
+68238803\3
+                                                        12
+
+           and 400 parties by mail and placed advertisements in the BOE Report, Daily Oil Bulletin, the Sale
+           Agent’s Canadian Oil Industry Asset Sale Listing and with A&D Watch and Energy Advisors
+           Group. The Data Room was available throughout the first phase to parties who executed NDA and
+           management of Cleo was available to answer questions arising from their due diligence.
+           Ultimately, 22 Bidders submitted 26 Phase I LOIs by the Phase I Bid Deadline. 27
+
+34.        Based on the report of the Sale Agent, a copy of which is attached to the Confidential Supplement,
+           Cleo submits that the Sale Agent’s marketing process has been comprehensive and has broadly
+           canvassed a wide network of potential purchasers.
+
+           Whether the consideration to be received for the assets is reasonable and fair, taking into
+           account their market value (65.13(4)(f)) , and effects of Transactions on creditors and other
+           interested parties (65.13(4)(e))
+
+35.        It is anticipated that the Proposal Trustee in the Confidential Supplement will confirm that the
+           consideration to be received under the APAs is reasonable and fair in the circumstances, taking into
+           account the fair market value of the Properties subject to the APAs.
+
+36.        Because the consideration to be received under the APAs is reasonable, the highest available
+           realization for the Properties subject thereto in the circumstances, and the principal secured
+           creditors are supportive of the Transactions, Cleo respectfully submits that the Transactions are in
+           the best interests of the creditors and other stakeholders.
+
+37.        It is anticipated in the Sixth Report that the Proposal Trustee will:
+
+           (a)      advise this Honourable Court that the SSP was carried out in a fair and reasonable manner;
+
+           (b)      confirm to this Honourable Court that the Proposal Trustee participated in the preparation
+                    of and approved the form of the SSP;
+
+           (c)      state that in its opinion the sales pursuant to the Transactions are more beneficial to the
+                    creditors of Cleo than a sale or disposition under a bankruptcy; and
+
+           (d)      recommend to this Honourable that it approve the Transactions and grant the SAVOs.
+
+
+
+
+27
+     May 26 Affidavit, para 15(h).
+
+
+68238803\3
+                                                           13
+
+        Form of SAVOs
+
+38.     Under paragraph 7 of each of the SAVOs, the Properties subject thereto will be conveyed free and
+        clear of any Encumbrances. Under section 65.13(7) of the BIA, this Honourable Court has the
+        discretion to make this order provided that either the proceeds of sale are subject to a security or
+        charge in favour of a creditor whose security is affected thereby, or alternative security is provided.
+
+                 “(7) The court may authorize a sale or disposition free and clear of any security,
+                 charge or other restriction and, if it does, it shall also order that other assets of the
+                 insolvent person or the proceeds of the sale or disposition be subject to a security,
+                 charge or other restriction in favour of the creditor whose security, charge or other
+                 restriction is to be affected by the order.”28
+
+39.     Each of the APAs are conditional on the Properties subject thereto being vested free and clear of
+        any Encumbrances. The proceeds of sale under paragraph 7 of the SAVOs will be paid to the
+        Proposal Trustee and will be applied to pay necessary professional fees secured by the
+        Administration Charge and amounts payable to Cleo’s interim lender as secured by the Interim
+        Financing Charge, which are the first ranking security interests against the Properties. Proceeds in
+        excess thereof will be held in trust by the Proposal Trustee and pursuant to paragraph 7 of the
+        SAVOs will be subject to any environmental/regulatory change, and security, charges or other
+        restrictions discharged as against the Properties by the SAVOs.
+
+        Other issues under 65.13
+
+40.     Under section 65.13(8) of the BIA, a court may only authorize a sale under section 65.13 if the court
+        is satisfied that the insolvent person can and will make the payments that would have been required
+        under sections 60(1.3)(a) and 60(1.5)(a) of the BIA, which in the first case are payments to
+        employees and former employees that they would be entitled to under section 136(1)(d) of the BIA,
+        and in the second case any arrears of pension contributions. Cleo has confirmed that no arrears are
+        owing to any employees or former employees and it does not participate in a pension plan.29
+
+41.     Finally, the Successful Bidders are not persons related to Cleo for the purposes of sections 65.13(5)
+        and (6) of the BIA.30
+
+
+
+
+28
+   BIA section 65.13(7) [Tab 2].
+29
+   May 26 Affidavit, para 30.
+30
+   May 26 Affidavit, para 31.
+
+
+68238803\3
+                                                           14
+
+42.        For forgoing reasons, Cleo respectfully submits that the SAVOs should be approved and are
+           necessary and appropriate in the circumstances.
+
+B.         Sealing Order
+
+43.        Cleo requests a sealing order with respect to the Confidential Supplement, until the filing by the
+           Receiver of a certificate confirming that no further sales under the SSP are pending or further order
+           of the court.
+
+44.        The notice to the media that Cleo was seeking the Sealing Order was given on March 17, 2025.
+
+45.        Part 6 of Division 4 of the Alberta Rules of Court and in particular Rules 6.28 to 6.30, provide that
+           the Court may order that a document filed in a civil proceeding is confidential, may sealed and not
+           form part of the public record of the proceedings.
+
+46.        The test to obtain a sealing order was set out by the Supreme Court of Canada in Sierra Club of
+           Canada v Canada (Minister of Finance)31 and revised by the Supreme Court in Sherman Estate v
+           Donovan:
+
+                   “The test for discretionary limits on presumptive court openness has been expressed as a
+                   two-step inquiry involving the necessity and proportionality of the proposed order (Sierra
+                   Club, at para. 53). Upon examination, however, this test rests upon three core prerequisites
+                   that a person seeking such a limit must show. Recasting the test around these three
+                   prerequisites, without altering its essence, helps to clarify the burden on an applicant
+                   seeking an exception to the open court principle. In order to succeed, the person asking a
+                   court to exercise discretion in a way that limits the open court presumption must establish
+                   that:
+
+                   (1)      court openness poses a serious risk to an important public interest;
+
+                   (2)      the order sought is necessary to prevent this serious risk to the identified interest
+                            because reasonably alternative measures will not prevent this risk; and,
+
+                   (3)      as a matter of proportionality, the benefits of the order outweigh its negative
+                            effects.
+
+                   Only where all three of these prerequisites have been met can a discretionary limit on
+                   openness — for example, a sealing order, a publication ban, an order excluding the public
+                   from a hearing, or a redaction order — properly be ordered. This test applies to all
+                   discretionary limits on court openness, subject only to valid legislative enactments.” 32
+
+47.        The Confidential Supplement attaches unredacted copies of the APAs, a copy of the Confidential
+           Sales Agent Report (that contains the Sale Agent’s analysis of the Phase I LOIs and attaches copies
+
+31
+     Sierra Club of Canada v Canada (Minister of Finance), 2002 SCC 41, at para 53 [Tab 15].
+32
+     Sherman Estate v Donovan, 2021 SCC 25, at para 38 [Tab 16].
+
+
+68238803\3
+                                                       15
+
+        thereof) and provides an analysis of the economic terms of the Transactions and other confidential
+        information relating to Cleo and the SSP.
+
+48.     The disclosure to the public of the Confidential Supplement or the Confidential Sale Agent Report
+        would be highly prejudicial to the SSP and Cleo’s ability to maximize the value of its Properties.
+        The reasons, which are outlined in the March 17 Affidavit, include that:
+
+        (a)     the economic terms of the Transactions are confidential and extremely sensitive because
+                their disclosure would hamper the ability of the Sale Agent, Cleo and the Proposal Trustee
+                to re-market the Properties subject to the APAs if they fail to close;
+
+        (b)     the economic terms of the Transactions and proposed by the Bidders were provided on a
+                confidential basis and if disclosed, would undermine the integrity of the sale process and
+                be a “chill” on the willingness of parties to submit further bids.33
+
+49.     One of the fundamental purposes of the BIA is to achieve the equitable distribution of assets,34 and
+        an important mechanism for achieving an equitable distribution through maximizing the value of a
+        debtor’s estate in sales out of the ordinary course of business under section 65.13 of the BIA.
+        Maintaining the confidentiality of the bidding process, and of information on the value of a debtor’s
+        assets, protects the integrity of a sale process.
+
+50.     It is submitted that the integrity of a sale process contemplated by section 65.13 is an important
+        public interest which is put at risk by the Confidential Supplement being on the public record.
+        Further, the only reasonable way to protect that interest is pursuant to the Sealing Order, which for
+        a limited period of time keeps the Confidential Supplement sealed.
+
+51.     There are no reasonable alternative measures that would protect these sensitive commercial
+        interests of Cleo and its stakeholders, and yet still permit the Confidential Supplement to be
+        available to this Honourable Court for its review in connection with the Application for the SAVOs.
+        Further, during insolvency proceedings, similar limits on sensitive economic data is typically
+        subject to time limited sealing orders while sale processes play out.
+
+52.     The Prior Sealing Orders sealed the same or similar information as set out in the Confidential
+        Supplement. It is anticipated that the assets, undertaking and property of Cleo will be placed into
+
+33
+ May 26 Affidavit, para 39(c).
+34
+ Orphan Well Association v Grant Thornton Ltd, 2019 SCC 5, at para 67 [Tab 17]; Alberta (Attorney General) v
+Moloney, 2015 SCC 51, at para 33 [Tab 18].
+
+
+68238803\3
+                                                       16
+
+
+
+        receivership by Cleo’s interim lender, resulting in a receivership where A&M as Receiver will lake
+        control of Cleo’s remaining assets and attempt to sell or convey them. It is thus necessary to amend
+        the Prior Sealing Orders so they remain subject to the receivership proceedings.
+
+53.     Once A&M as Receiver files a certificate stating that all sales under the SSP have been completed
+        and the SSP has been terminated, or a further Order of this Honourable Court is made, the
+
+        Confidential Supplement will no longer be sealed. Hence, the limit on the open court principle
+        posed by the Sealing Order is limited in duration.
+
+54.     Cleo submits that the salutary effects of the Sealing Order outweigh any negative the temporary
+        limits on any public access to that information pursuant to the open court principle.
+
+PART 4          CONCLUSION AND RELIEF SOUGHT
+
+
+55.     For the reasons above, Cleo requests the Orders sought be granted as they are fair, necessary and
+        reasonable in the circumstances.
+
+
+
+ALL OF WHICH IS RESPECTFULLY SUBMITTED this 26th day of May, 2025.
+
+                                                COWLING W.              A           -LR
+
+
+
+
+                                                PeT:
+                                                        Sam Gabor/Tom Cumming
+                                                        Counsel for Cleo Energy Corp.
+
+
+
+
+68238803\3
+                                             17
+
+
+                               TABLE OF AUTHORITIES
+
+
+
+ Tab         Authority
+
+ 1.          Royal Bank of Canada v. Soundair Corp., 1991 CanLII 2727 (ON CA)
+
+ 2.          Bankruptcy and Insolvency Act, RSC 1985, c B-3
+
+ 3.          Re Komtech Inc., 2011 ONSC 3230
+
+ 4.          Harte Gold Corp. (Re), 2022 ONSC 653
+ 5.          Just Energy Group Inc et al v Morgan Stanley Capital Group Inc et al, 2022
+             ONSC 6354
+
+ 6.          1705221 Alberta Ltd v Three M Mortgages Inc, 2021 ABCA 144
+ 7.          Pricewaterhousecoopers Inc. v 1905393 Alberta Ltd., 2019 ABCA 433
+ 8.          Re Bloom Lake, 2015 QCCS 1920
+ 9.          Re Heritage Flooring Ltd., 2004 NBQB 168
+ 10.         Re Scotian Distribution Services Limited, 2020 NSSC 131
+
+ 11.         Re T & C Steel Ltd, 2022 SKKB 236
+ 12.         Nautican v Dumont, 2020 PESC 15
+ 13.         Baldwin Valley Investors Inc., Re, 1994 CarswellOnt 254
+
+ 14.         Re Colossus Minerals, 2014 ONSC 514
+
+ 15.         Sierra Club of Canada v Cafnada (Minister of Finance), 2002 SCC 41
+
+ 16.         Sherman Estate v Donovan, 2021 SCC 25
+
+ 17.         Orphan Well Association v Grant Thornton Ltd, 2019 SCC 5
+
+ 18.         Alberta (Attorney General) v Moloney, 2015 SCC 51
+
+
+
+
+68238803\3
+
