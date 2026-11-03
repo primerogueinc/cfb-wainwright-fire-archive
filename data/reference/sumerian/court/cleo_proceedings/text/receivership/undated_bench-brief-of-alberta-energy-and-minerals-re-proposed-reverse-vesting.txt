@@ -1,0 +1,448 @@
+                                                                                     Clerk’s Stamp
+
+
+            COURT FILE NUMBER:    2501-09028
+
+            COURT                 COURT OF KING’S BENCH OF ALBERTA
+                                                                                FILED
+                                                                              DIGITALLY
+            JUDICIAL CENTRE       CALGARY
+                                                                     2501 09028
+                                                                     Oct
+                                  IN THE MATTER OF THE RECEIVERSHIP OF   22, 2025
+                                                                       CLEO
+                                                                                1:42 PM
+                                  ENERGY CORP.
+
+            APPLICANT             UCAPITAL – ULOAN SOLUTIONS INC.
+
+            RESPONDENT            CLEO ENERGY CORP.
+
+            DOCUMENT              Bench Brief of Alberta Energy and Minerals
+                                  (re Proposed Reverse Vesting Order and Share Purchase
+                                  Transaction)
+
+            ADDRESS FOR SERVICE   Alberta Justice, Legal Services Division
+            AND CONTRACT          1710, 639 5th Avenue SW
+            INFORMATION OF        Calgary, Alberta T2P 0M9
+            PARTY FILING THIS
+            DOCUMENT              Attention: Melissa N. Burkett
+                                  Telephone: (403) 297-2001
+                                  Facsimile: (403) 662-3824
+                                  Email: melissa.burkett@gov.ab.ca
+
+
+
+
+Classification: Protected A
+                                                                     Table of Contents
+            PART I:          Facts ............................................................................................................................. 1
+                1. Overview of the Application ................................................................................................. 1
+                2. Statement of Facts ................................................................................................................. 1
+                   (a) CLEO Energy’s Crown Liabilities ................................................................................. 1
+                   (b) The CLEO RVO ............................................................................................................. 2
+            PART II: Issues ........................................................................................................................... 2
+            PART III: Argument .................................................................................................................... 3
+                1. Harte Gold factors ................................................................................................................. 3
+                   (a) Alberta Energy is worse off under the CLEO RVO ....................................................... 3
+            PART IV: Conclusion and Relief Sought ................................................................................... 5
+            Appendix “A” - Relevant Excerpts of CLEO RVO and CLEO SPA ...................................... 6
+            Table of Authorities ...................................................................................................................... 8
+
+
+
+
+                                                                                     i
+Classification: Protected A
+                                                                                       Brief of Alberta Energy and Minerals
+
+
+
+            PART I:           Facts
+
+            1.     Overview of the Application
+
+            [1]    The proposed Reverse Vesting Order (the “CLEO RVO”) aims to vest pre-receivership
+            Crown Liabilities (defined below) in “ResidualCo”, a shell corporation, while Mineral Leases
+            (defined below) remain in the name of the debtor, CLEO Energy Ltd. (“CLEO Energy”). As
+            structured, the CLEO RVO allows CLEO Energy to retain the benefits of the Mineral Leases
+            while eschewing previously accumulated royalties owed to the public.
+
+            [2]    Reverse vesting orders are intended to be used rarely and extraordinarily. There is nothing
+            rare or extraordinary about the CLEO receivership. The proposed CLEO RVO is a blatant
+            attempt to circumvent the Crown in right of Alberta’s (the “Alberta Crown”) ability to recover
+            its cure costs and manage public resources.
+
+            [3]    The Minister of Energy and Minerals (through the Alberta Department of Energy and
+            Minerals (“Alberta Energy”)) opposes any relief sought in the CLEO RVO, or otherwise, that
+            seeks to saddle the public with CLEO Energy’s liabilities while allowing CLEO Energy to retain
+            Mineral Leases.
+
+            2.      Statement of Facts
+
+            [4]    The facts set out below are relevant for the purposes of this Application.
+
+                  (a) CLEO Energy’s Crown Liabilities
+
+            [5]    The Alberta Crown owns 81% of the province’s mineral rights. 1 Alberta Energy
+            administers, manages, and regulates these resources on behalf of the citizens of the Province. 2
+
+            [6]     The Alberta Crown offers its petroleum and natural gas (“Crown PNG”) mineral rights
+            for bid by industry. Successful bidders obtain a Crown PNG Lease (a “Mineral Lease”), which
+            grants the lessee the right to drill for, and recover, Crown PNG within the lease area. 3
+
+
+            1
+              Affidavit of Tracy Wadson, sworn October 22, 2025 (the “Wadson Affidavit”), para. 3.
+            2
+              Wadson Affidavit, para. 3.
+            3
+              Wadson Affidavit, paras. 5-6.
+
+
+
+
+                                                                   1
+Classification: Protected A
+                                                                                       Brief of Alberta Energy and Minerals
+
+
+            [7]    The Mineral Lease does not grant mineral ownership to the lessee; ownership remains with
+            the Alberta Crown. The PNG minerals are publicly owned and the lessee must pay for each unit
+            produced, whether oil or natural gas. This payment is a “royalty”. A royalty is not a tax, rather it
+            is a payment to the public for the use of its minerals. 4
+
+            [8]    Mineral Leases for Crown PNG minerals identify two lessee obligations to the Alberta
+            Crown (“Crown Liabilities”): (1) an ongoing obligation to pay royalties to the Alberta Crown
+            for all minerals produced; and (2) an ongoing obligation to pay for the right to win, work, and
+            recover minerals on Alberta Crown land. 5
+
+            [9]    Currently, CLEO Energy holds Mineral Leases and has Crown Liabilities totalling
+            $240,000.00, of which $150,000.00 consists of pre-receivership Crown Liabilities. While the
+            Receiver in this matter appears to have confirmed that the $90,000.00 in post-filing Crown
+            Liabilities will be paid by either it or the Purchaser, there is no such guarantee for the pre-filing
+            Crown Liabilities. 6
+
+                  (b) The CLEO RVO
+
+            [10] Under the CLEO RVO and the proposed Share Purchase Agreement (“CLEO SPA”), the
+            pre-receivership Crown Liabilities are proposed to be vested to “ResidualCo.”, a shell
+            corporation, while the operating entity, CLEO Energy, retains the assets (in this case, the Mineral
+            Leases) and continues operations. The purchaser would acquire CLEO Energy’s shares, not its
+            assets: 7
+
+
+            PART II:            Issues
+
+            [11] The following issue arises in this Application:
+
+                        Issue #1:   Should the Court approve the Share Purchase transaction and grant the
+                                    CLEO RVO?
+
+            4
+              Wadson Affidavit, paras. 6-7.
+            5
+              Wadson Affidavit, para. 8.
+            6
+              Wadson Affidavit, paras. 24-25.
+            7
+              Sections 10(a)-(c) of the CLEO RVO; Sections 2.1, 3.1, and Schedule “B” of Share Purchase Agreement,
+              Appendix “A” to the First Report of the Receiver.
+
+
+
+
+                                                                   2
+Classification: Protected A
+                                                                                     Brief of Alberta Energy and Minerals
+
+
+
+            PART III: Argument
+
+            1.       Harte Gold factors
+
+            [12] As Justice Penny noted in Harte Gold, the use of RVO structures “should continue to be
+            regarded as an unusual or extraordinary measure; not an approach appropriate in any case merely
+            because it may be more convenient or beneficial for the purchaser”. 8
+
+            [13] In the decision, the Court articulated the factors to be considered in respect of a proposed
+            reverse vesting transaction:
+
+                 •    Why is the reverse vesting order necessary in this case?
+
+                 •    Does the reverse vesting structure produce an economic result at least as favourable as
+                      any other viable alternative?
+
+                 •    Is any stakeholder worse off under the reverse vesting structure than they would have
+                      been under any other viable alternative?
+
+                 •    Does the consideration being paid for the debtor’s business reflect the importance and
+                      value of assets being preserved under the reverse vesting structure? 9
+
+                 (a) Alberta Energy is worse off under the CLEO RVO
+
+            [14] Alberta Energy is detrimentally impacted under the proposed CLEO RVO.
+
+            [15] Section 18(2) of the Mines and Minerals Act provides the Minister with discretion to refuse
+            the transfer of a Crown mineral agreement. 10 This provision grants the Minister broad discretion
+            to assess the suitability of any proposed transferee of a Crown agreement. The discretion is
+            rooted in public policy considerations, including the financial and operational capacity of the
+            transferee to fulfill obligations under the agreement, such as royalty payments.
+
+
+
+            8
+              Harte Gold Corp. (Re), 2022 ONSC 653 (“Hart Gold”), para. 38.
+            9
+              Harte Gold, para. 38.
+            10
+               Mines and Minerals Act, RSA 2000, c. M-17 (“MMA”), s. 18(2); Crown Minerals Registration Regulation, AR
+               264/1997, s. 5(1)(g).
+
+
+
+
+                                                                 3
+Classification: Protected A
+                                                                                  Brief of Alberta Energy and Minerals
+
+
+            [16] In this case, under a traditional asset purchase arrangement, Alberta Energy would have the
+            ability to require the payment of cure costs (i.e., the Crown Liabilities – the monetary defaults
+            under the Mineral Leases) before agreeing to transfer the Mineral Leases to the Purchaser (the
+            “Transfer Requirement”). 11
+
+            [17] The CLEO RVO circumvents that discretion as the Mineral Leases would remain in
+            CLEO’s name. In other words, there would be no transfer of assets.
+
+            [18] The Transfer Requirement is public knowledge and is routinely enforced by Alberta
+            Energy in insolvency asset transactions. 12 Both industry and receivers/trustees are aware of the
+            Transfer Requirement. 13
+
+            [19] The Alberta Crown has a vested interest in ensuring that mineral resources are developed
+            responsibly and that royalty obligations are met.
+
+            [20] The Purchaser’s refusal to address all cure costs raises serious questions regarding its
+            intention, financial capacity, and operational capacity to fulfill its obligations under the Mineral
+            Leases going forward because:
+
+                 •   No information has been provided about the entity that is proposed to purchase CLEO
+                     Energy’s shares; 14 and
+
+                 •   The CLEO RVO is intentionally structured to allow the debtor to shed its Crown
+                     Liabilities, circumvent the Transfer Requirement, and still keep the Mineral Leases.
+
+            [21] These concerns are only heightened when considering that the information provided by the
+            Receiver to date strongly suggests that ResidualCo. will have little ability to satisfy the Crown
+            Liabilities, Transferring liabilities to a shell entity with no assets or operational capacity
+            frustrates the Alberta Crown’s ability to enforce compliance, collect royalties, or hold entities
+
+
+
+            11
+               Wadson Affidavit, para. 16.
+            12
+               Wadson Affidavit, paras. 19-23.
+            13
+               Wadson Affidavit, paras. 17-18.
+            14
+               Wadson Affidavit, para. 28.
+
+
+
+
+                                                               4
+Classification: Protected A
+                                                                                  Brief of Alberta Energy and Minerals
+
+
+            accountable. Similarly, Alberta Energy also loses its ability to properly manage the Mineral
+            Leases on a go-forward basis.
+
+
+            PART IV:             Conclusion and Relief Sought
+
+            [22] The Applicants have not established that a reverse vesting order is appropriate in the
+            circumstances. Rather, this transaction appears to be advanced simply because it is “more
+            convenient or beneficial for the purchaser”.
+
+            [23] The Court should be wary of the proliferation of the use of reverse vesting orders to
+            extinguish public debts without compensation. These types of transactions should be closely
+            scrutinized to discourage the use of this type of structure to avoid paying royalties, dump the
+            liability on a shell entity, while maintaining the ability to work public resources. 15
+
+            [24] Those portions of the application of the CLEO RVO that deal with the pre-receivership
+            Crown Liabilities, should be dismissed. In the alternative, if the Court does find the CLEO RVO
+            and CLEO SPA to be appropriate, the Court should direct that all of the Crown Liabilities be
+            cured.
+
+            All of which is respectfully submitted this 22nd day of October, 2025.
+                                                                   Alberta Justice, Legal Services Division
+
+
+
+                                                                   ________________________________
+                                                                   Melissa N. Burkett
+                                                                   Counsel for Alberta Energy and Minerals
+
+
+
+
+            15
+                 Wadson Affidavit, paras. 29-30.
+
+
+
+
+                                                               5
+Classification: Protected A
+                                                                                                                Brief of Alberta Energy and Minerals
+
+
+
+            Appendix “A” - Relevant Excerpts of CLEO RVO and CLEO SPA
+
+            CLEO RVO:
+
+                              VESTING OF ASSETS AND LIABILITIES
+
+                              ·10 .   Subj ect to the terms of the SPA, upon delivery o f the Receiver's certificate to t he
+                              Purchaser s ubsta ntia lly in the form set out in Schedu le "A" hereto (the "Receiver's Certificate "),
+                              the fo llowing s ha ll occur and be deemed to occur commencing at the time of del ivery of the
+                              Rece iver' s Certifi cate (the "Closing Time") in the following sequence:
+
+                                      (a)     a ll rig ht, title and inte rest of the Company in and to the Excluded Assets , Excluded
+                                              Liabilit ies a nd Excluded Contracts shall be transferred to and s hall vest absolu te ly
+                                              and    exclus ively ,   w ithout   recourse,   in   Residua!Co    a nd     a ll   Losses   and
+                                              Encumbra nces attached to the Excluded Assets , Excluded Liabilities and
+                                              Excluded Con tracts (other than the Reta ined Liabilities) sha ll continue to attach to
+
+
+                                       t h e Excluded Assets , E xcluded Liab ilit ies a n d Excluded Contracts with the same
+                                       nat ure a n d priority as t hey had immed iately prior to th e ir t ra n sf er.
+
+                              ( b)     a ll Losses and E n cumbrances in respect o f the Company ( in c ludi n g the "Exc luded
+                                       Liabilit ies" as defi n ed in Schedu le "B'' to t h e SPA) , o t her than the Retain ed
+                                       Liabilit ies, sha ll b e tra n sf erred to and assumed by and sha ll vest absolu te ly a n d
+                                       exclusively w ithou t recou rse in the name o f Res idua lCo and s h all no lo n ger b e
+                                       liabilities o f t he Company , a n d ( i ) such Losses and E ncumbrances ( includ ing the
+                                       Excluded Li abilities) sha ll continue to attach to the Excluded Assets and Excluded
+                                       Contracts w itll tile same natu re a n d priority as they llad immed ia te ly p r ior to tile
+                                       C losing T ime , as if the Excluded Assets and E xcluded Contracts h ad not been
+                                       co n veyed and llad rema ined in th e pos sess ion or co n trol of the per son llaving tllat
+                                       possessio n or co ntro l immed iate ly p r io r to t h e t ra n sf er; ( ii) s u ch Losses a n d
+                                       Encumbra n ces equa l to t he fa ir market va lue o f the Excluded Assets and Excluded
+                                       Contracts sllall be tra n s ferred to and assumed by Residua lCo in consideration for
+                                       t h e transfe r o f the Excl u ded Assets a n d E xcluded Contracts ; and ( iii) the remaining
+                                       Losses a n d E ncumbrances sha ll be transferred to and assumed by R esidua!Co
+                                       for n o con s ideratio n as part o f , and to f acilitate , t he implemen ta tion o f tile
+                                       Transaction ;
+
+                              ( c)     a ll E xcluded Liabilit ies sha ll be novated and become ob ligat ions of Residua l Co and
+                                       not obligatio n s of tile Company , and tile Compa ny , tile P u rc h aser a n d tile
+                                       Reta ined Assets and Ret a ined Contr acts sha ll be fo rever released f rom such
+                                       Excluded L iabi lities, wh icll slla ll be irrevocably expu n ged and d ischarged as
+                                       aga in st tile Company, t he Pu rchaser, t ile Reta ined Assets, and the R etain ed
+                                       Contracts ;
+
+
+
+
+            CLEO SPA:
+                                                                       ART ICLE 2
+                                                             PURCHASE OF PURCHASED SHARES
+
+                              2.1     Purchase of the Purchased Shares
+
+                              Subj ect to the provis io n s of th is Agreement and the Reverse Vesti ng O rder, on the Closing D ate ,
+                              the Purchaser s hall subscribe for and purc h ase from the Rece iver, a nd the Receiver shall issue
+                              to the Purchaser the P urchased Shares free a nd clear o f a ll Encumbra nces .
+
+
+
+
+                                                                                    6
+Classification: Protected A
+                                                                                                                 Brief of Alberta Energy and Minerals
+
+
+                                                                              ARTICLE 3
+                                                                            ADJUSTMENTS
+
+                              3.1         Assumption of Obligations
+
+                                          The Purchaser confirms that it will assume the Retained Assets and Retained Liabilities,
+                                          includ ing without limitation the payment of any and all amounts, interest and penalties in
+                                          respect thereof, including without limitation: (i) all property taxes, including any municipal
+                                          property taxes; (ii) all mineral lease royalties and rentals; (iii) surface lease rentals; and
+                                          (iv) any other obligation related to the Retained Assets and the Reta ined Liabilities or
+                                          arising from ownership or assumption thereof which shall be adjusted for in accordance
+                                          w ith th is Article 3.
+
+
+                                                                            SCHEDULE "B"
+
+                                 EXCLUDED ASSETS, EXC LU DED LIABILITIES, EXCLUDED CONTRACTS, RETAINED
+                                        ASSETS, RETAINED LIABILITIES AND RETAINED CONTRACTS
+
+                              Exc luded L iab ilit ies
+
+                                    ·1.        All debts, obligations , Liabilities, Claims, indebted ness , con tracts, leases,
+                                               agreements , undertakings, rights and entitlements of any kind or na ture
+                                               wha tsoever (whether direct or ind irect, known or unknown , absolute or contingent,
+                                               accrued or unaccrued, liquidated or unliquidated , matured or unmatured or due or
+                                               not yet due, in law or in equity and whether ba sed in statute or otherwise) of or
+                                               aga inst the Company other than the Retained Liabilities or those in re lation to or
+                                               arising out of the Retained Contracts .
+
+                              Reta ined Assets
+
+                                    1.         All of the assets, property, and undertakings , of every kind o r nature , owned by
+                                               the Company on the date of th is Agreement, including without li mitation , the
+                                               Retained Contracts, the Title and Operating Documents, Petro leum and Natura l
+                                               Gas Rights , the Tangibles, the Miscellaneous Interests, and Books and Records,
+                                               other than the Exc luded Assets and the Excluded Contracts. For greater certa inty,
+                                               revenues, proceeds , and other entitlements relating to the Retained Assets
+                                               rece ived by the Receive r or the Com pany after the Effective Time which , pursua nt
+                                               to Section 3.2 , shall be for the benefit of the Purchaser, shall be a Retained Asset
+
+                              Reta ined Li ab ilities
+
+                                    1.         All Liabilities in relation to or arising out of the Reta ined Contracts.
+
+                                    2.         All Liabilities arising out of events or circumstances and wh ich become due and
+                                               owing after the Effective Time, which are not adjusted for pursuant to Article 3 prior
+                                               to Closing.
+
+                                    3.         All Liabilities arising from the possession, ownership or use of the Retained Assets
+                                               following Closing (including for greater certainty any municipal taxes, property taxes,
+                                               surface use payments, bonuses, fees , roya lties, overriding royalties, land use fees ,
+                                               license fees, easemen t payments and similar obligations and Liabilities that accrue
+                                               on or after the Closing Date).
+
+                                    4.         All Abandonment and Reclamation Obliga tions.
+
+                                    5.         All Environmental Liabilities.
+
+
+
+
+                                                                                     7
+Classification: Protected A
+                                                                                    Brief of Alberta Energy and Minerals
+
+
+
+            Table of Authorities
+
+                Tab 1.        Mines and Minerals Act, RSA 2000, c. M-17
+                Tab 2.        Crown Minerals Registration Regulation, AR 264/1997
+                Tab 3.        Harte Gold Corp. (Re), 2022 ONSC 653
+
+
+
+
+                                                               8
+Classification: Protected A
+

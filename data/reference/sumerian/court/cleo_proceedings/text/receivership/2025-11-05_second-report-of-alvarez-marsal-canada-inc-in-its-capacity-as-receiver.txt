@@ -1,0 +1,1521 @@
+ COURT FILE NUMBER         2501-09028                               Clerk’s Stamp
+
+
+ COURT                     COURT OF KING’S BENCH
+                           OF ALBERTA
+
+
+ JUDICIAL CENTRE           CALGARY
+
+
+ APPLICANT                 UCAPITAL – ULOAN SOLUTIONS INC.
+
+ RESPONDENT                CLEO ENERGY CORP.
+
+                           IN THE MATTER OF THE RECEIVERSHIP OF
+                           CLEO ENERGY CORP.
+
+
+ DOCUMENT                  SECOND REPORT OF ALVAREZ & MARSAL
+                           CANADA INC., IN ITS CAPACITY AS RECEIVER
+                           AND MANAGER OF CLEO ENERGY CORP.
+
+                           November 5, 2025
+
+ ADDRESS FOR SERVICE AND   RECEIVER
+ CONTACT INFORMATION OF    Alvarez & Marsal Canada Inc.
+ PARTY FILING THIS         Bow Valley Square IV
+ DOCUMENT                  Suite 1110, 250 - 6th Avenue SW
+                           Calgary, Alberta T2P 3H7
+                           Orest Konowalchuk / David Williams
+                           Telephone: (403) 538-4736 / (403) 538-7536
+                           Email: okonowalchuk@alvarezandmarsal.com
+                                  david.williams@alvarezandmarsal.com
+
+
+                           COUNSEL TO RECEIVER
+                           Miller Thomson LLP
+                           525 – 8th Avenue S.W. 43rd Floor
+                           Eighth Avenue Place East
+                           James Reid
+                           Telephone: (403) 298 - 2418
+                           Email: jwreid@millerthomson.com
+
+
+
+
+88714108.2
+                                           TABLE OF CONTENTS
+
+INTRODUCTION .............................................................................................................3
+
+BACKGROUND AND OVERVIEW ...............................................................................6
+
+TERMS OF REFERENCE ...............................................................................................7
+
+SUMMARY OF REASONS FOR DECISION ...............................................................7
+
+INTERIM STATEMENT OF RECEIPTS AND DISBURSEMENTS .........................9
+
+SHARE PURCHASE AGREEMENT ...........................................................................11
+
+REVISED REVERSE VESTING ORDER ...................................................................14
+
+PROPOSED RELEASES ................................................................................................25
+
+APPROVAL OF PROFESSIONAL FEES AND EXPENSES ....................................26
+
+RECEIVER’S CONCLUSIONS AND RECOMMENDATIONS ...............................27
+
+
+
+ LISTING OF APPENDICES TO THE SECOND REPORT OF THE RECEIVER
+
+APPENDIX A                    Reasons for Decision
+
+
+
+
+                                                            2
+INTRODUCTION
+
+1.    On June 2, 2025, the Court of King’s Bench of Alberta (the “Court”) granted a
+      receivership order (the “Receivership Order”), whereby, effective June 3, 2025
+      (the “Receivership Date”), Alvarez & Marsal Canada Inc. (“A&M”) was
+      appointed receiver and manager (the “Receiver”), without security, of all the
+      current and future assets, undertakings and properties of every nature and kind
+      whatsoever, and wherever situate, including all proceeds thereof (collectively, the
+      “Property”) of CLEO Energy Corp. (“Cleo” or the “Company”), pursuant to
+      section 243(1) of the Bankruptcy and Insolvency Act, RSC 1985, c B-3 (the “BIA”)
+      and section 13(2) of the Judicature Act, RSA 2000 c J-2 (the “Receivership
+      Proceedings”).
+
+2.    Prior to the granting of the Receivership Order, on December 8, 2024, the Company
+      filed a Notice of Intention to Make a Proposal pursuant to section 50.4(1) of the
+      BIA (the “NOI Proceedings”). A&M acted as Trustee under the Proposal (in such
+      capacity the “Proposal Trustee”) during the NOI Proceedings.
+
+3.    The Receivership Order empowers and authorizes, but does not obligate, the
+      Receiver to, among other things, manage, operate and carry on the business of the
+      Company and to take possession and control of the Property (as defined in the
+      Receivership Order) and any and all proceeds, receipts and disbursements arising
+      out of or from the Company, and to sell, convey, transfer, lease or assign the
+      Property or any part or parts thereof out of the ordinary course of business.
+
+October 17th Application
+
+4.    On October 6, 2025, the Receiver filed an application returnable October 17, 2025
+      (the “October 17th Application”) and filed its First Report in support of the
+      application. At the October 17th Application, the Receiver sought Orders from this
+      Honourable Court granting, among other things:
+
+             a)   the ancillary relief Order (the “Ancillary Order”):
+
+
+                                           3
+                i.   approving the Receiver’s actions, activities and conduct, and those
+                     of its legal counsel since the Receivership Date, including the
+                     Interim Statement of Receipts and Disbursements, as set out in the
+                     First Report;
+
+               ii.   temporarily sealing the confidential appendices to the First Report
+                     on the Court record; and
+
+              iii.   approving the fees and disbursements of the Receiver and its
+                     counsel, as set out in the First Report; and
+
+            b) the reverse vesting order (“RVO”):
+
+                i.   approving the SPA and the proposed transaction contemplated
+                     therein;
+
+               ii.   granting the Releases in favour of the Released Parties; and
+
+              iii.   upon filing of the Receiver’s Certificate, discharging Cleo and
+                     adding ResidualCo to these Receivership Proceedings.
+
+5.   The Court granted the Ancillary Order at the October 17th Application but reserved
+     its decision on the RVO pending written arguments to be presented by: (i) counsel
+     for the Government of Alberta, Department of Energy and Minerals (“Alberta
+     Energy”) regarding alleged unpaid pre-filing mineral lease and royalty arrears (the
+     “Alberta Crown Arrears”), payable to the Crown in right of Alberta (the “Alberta
+     Crown”); and (ii) Department of Justice Canada (“DOJ”), appearing on behalf of
+     Employment and Social Development Canada (“ESDC”), regarding the potential
+     impact of the RVO on claims paid to former employees of Cleo under the Wage
+     Earner Protection Program Act (“WEPPA”).
+
+6.   On October 22, 2025, Alberta Energy filed its written submissions with the Court
+     in the form of an affidavit and a bench brief, while the DOJ submitted its written
+     arguments the same day by way of a letter to the Court. In response, the Receiver
+
+
+                                           4
+     filed a supplement to its First Report, along with reply briefs addressing the
+     arguments advanced by Alberta Energy and the DOJ, on October 24, 2025.
+
+7.   On October 28, 2025, after considering the written submissions of the Receiver,
+     Alberta Energy, and the DOJ, the Court issued its reasons for decision (the
+     “Reasons for Decision”), attached to this Report as Appendix “A”. In the Reasons
+     for Decision, the Court dismissed the Receiver’s application for the RVO, without
+     prejudice to the Receiver’s ability to reapply for approval of the proposed
+     transaction with additional supporting materials and/or a restructured transaction.
+
+PURPOSE OF THIS REPORT
+
+8.   The purpose of this Second Report of the Receiver (the “Second Report” or this
+     “Report”) is to provide this Honourable Court with information in respect of the
+     following:
+
+            a)    a brief summary of the Reasons for Decision regarding the proposed
+                  RVO and the potential clawback of Wage Earner Protection Program
+                  (“WEPP”) payments;
+
+            b) the Receiver’s Interim Statement of Receipts and Disbursements (as
+                  defined below) from October 4, 2025 to October 31, 2025 (the
+                  “Reporting Period”);
+
+            c)    a summary of the proposed reverse vesting transaction contemplated in
+                  the Share Purchase Agreement (the “SPA”) between Cleo and 2698902
+                  Alberta Corporation (“269” or the “Purchaser”) dated October 6, 2025
+                  (the “Transaction”);
+
+            d) the Receiver’s recommendation on the SPA and the revised reverse
+                  vesting order (“Revised RVO”); and
+
+            e)    the Receiver’s conclusions and recommendations with respect to the
+                  above.
+
+
+                                          5
+9.      The Receiver is requesting orders from this Honourable Court granting the
+        following relief at the Application scheduled for November 14, 2025:
+
+                 a)   approving the Receiver’s actions, activities and conduct since the First
+                      Report,    including     the    Interim    Statement      of   Receipts     and
+                      Disbursements;
+
+                 b) approving the Receiver’s fees and disbursements, and those of its legal
+                      counsel, Miller Thomson LLP (“Miller Thomson” or “Receiver’s
+                      Counsel”) over the Reporting Period; and
+
+                 c)   authorizing and approving the Receiver to complete the Transaction
+                      contemplated by the SPA and granting the Revised RVO in respect of
+                      the Transaction.
+
+10.     Capitalized words or terms not otherwise defined in this Report shall have the
+        meaning ascribed in the Receivership Order or the reports filed by the Receiver in
+        these proceedings. 1
+
+BACKGROUND AND OVERVIEW
+
+11.     Cleo was incorporated under the laws of Alberta in 2016 and is a privately-owned
+        oil and gas operator specializing in medium-gravity oil. Based in Calgary, Alberta,
+        Cleo operates throughout East Central Alberta. As discussed in the First Report, a
+        significant number of Cleo’s producing assets were sold in the NOI Proceedings,
+        and its only remaining producing oil and gas wells are located in the Shorncliffe
+        and Fabyan fields.
+
+12.     Cleo’s shares are held entirely by its parent corporation Chimera Management
+        Group Ltd., a holding corporation. Cleo does not own shares in any other
+        corporation.
+
+
+1
+  The First Report of the Receiver dated October 6, 2025 (the “First Report”) and the Supplement to the
+First Report of the Receiver dated October 24, 2025 (the “Supplemental Report”).
+
+
+                                                  6
+13.   Further background regarding the Company and its financial circumstances is
+      contained in the materials filed in support of and relating to the Receivership Order.
+      These documents and other relevant information, including all publicly available
+      information pertaining to the NOI Proceedings and Receivership Proceedings, have
+      been posted on the Receiver’s website at www.alvarezandmarsal.com/CLEO
+      (the “Website”).
+
+TERMS OF REFERENCE
+
+14.   In preparing this Report, the Receiver has relied upon: (i) the representations of
+      certain former management and other key stakeholders of the Company; (ii)
+      financial and other information contained in the Company’s books and records,
+      which were produced and maintained principally by the Company; and (iii)
+      information obtained by the Proposal Trustee prior to the Receivership
+      Proceedings.
+
+15.   The Receiver has not performed an audit, review or otherwise attempted to verify
+      the accuracy or completeness of the Company’s financial information that would
+      wholly or partially comply with Canadian Auditing Standards (“CASs”) pursuant
+      to the Chartered Professional Accountants Canada Handbook, and accordingly,
+      the Receiver expresses no opinion or other form of assurance contemplated under
+      CASs in respect of the financial information.
+
+16.   All references to dollars are in Canadian currency unless otherwise noted.
+
+SUMMARY OF REASONS FOR DECISION
+
+RVO Application
+
+17.   In the Reasons for Decision, the Court dismissed the Receiver’s application for an
+      RVO for, among other things, the following reasons:
+
+             a)   The Court found there was insufficient evidence demonstrating that the
+                  proposed RVO structure was necessary in the circumstances,
+                  specifically with respect to:
+                                            7
+      i.   why the burden associated with transferring the licences subject to
+           the proposed transaction from the Alberta Energy Regulator
+           (“AER”) necessitated an RVO structure to avoid potential delays,
+           costs, and risks;
+
+     ii.   why the proposed transaction could not be completed through a
+           Companies’ Creditors Arrangement Act, R.S.C. 1985, c. C-36
+           (“CCAA”) plan of arrangement and/or compromise (“CCAA
+           Plan”) rather than through an RVO; and
+
+ iii.      what inherent corporate attributes might be preserved under an
+           RVO structure that, if unavailable, would cause the Purchaser to
+           abandon the transaction rather than negotiate a reduced purchase
+           price to reflect a change in the structure of the proposed transaction.
+
+b) The Court further found there was insufficient evidence to determine
+        whether any stakeholder would be worse off under the original RVO
+        structure than under any other viable alternative, specifically with
+        respect to:
+
+      i.   whether a viable alternative to the proposed transaction exists that
+           would satisfy Alberta Energy’s requirement to be paid alleged cure
+           costs for pre-filing debt, comprising approximately $150,000 in
+           unpaid royalties and leases (the “Alberta Crown Cure Costs”), as
+           more particularly described in the Supplemental Report, while
+           maintaining the RVO structure; and
+
+     ii.   why alternatives to the proposed RVO structure would result in
+           material   environmental      liabilities   and   abandonment      and
+           reclamation obligations being transferred to the Orphan Well
+           Association (the “OWA”).
+
+c)     The Court also noted in its Reasons for Decision that the proposed RVO
+       does not provide for the payment of the Alberta Crown Cure Costs,
+
+                                 8
+                 notwithstanding that the Purchaser would receive the ongoing value of
+                 the mineral leases being acquired pursuant to the proposed transaction.
+
+Potential Clawback of WEPP Payments
+
+18.   At the October 17 Application and in its written submission, the DOJ on behalf of
+      ESDC had advised the Court a reverse vesting order transaction could have an
+      impact on employees who received WEPP payments as part of their employment
+      termination in these proceedings.
+
+19.   The Court addressed this in the Reasons for Decision at paragraphs 40 to 46.
+
+20.   The DOJ has been provided a copy of the Revised RVO in advance of filing the
+      Receiver’s application and we understand that ESDC takes no position at the
+      application for the Revised RVO.
+
+INTERIM STATEMENT OF RECEIPTS AND DISBURSEMENTS
+
+21.   The table below presents the Receiver’s interim statement of receipts and
+      disbursements (“Interim Statement of Receipts and Disbursements”) from
+      October 4, 2025 to October 31, 2025:
+
+
+
+
+                                          9
+Cleo Energy Corp. In Receivership
+Interim Statement of Receipts and Disbursements             First Report      Reporting Period          Total
+                                                           Jun 3/25 to Oct     Oct 4/25 to Oct     Jun 3/25 to Oct
+June 3, 2025 to October 31, 2025
+                                                                3/25                31/25               31/25
+Opening Cash Balance                                                281,630             990,788             281,630
+Receipts
+ Oil & Gas Revenue1                                               1,193,341             162,858           1,356,199
+ Sales Proceeds2                                                  2,139,830                 -             2,139,830
+ Other Income                                                        43,501               1,116              44,617
+Total Receipts                                                    3,376,672             163,974           3,540,646
+Operating Disbursements
+ Field Operating Costs                                              122,420              44,665             167,084
+ Utilities                                                           63,802              11,634              75,436
+ Contractors                                                        439,200              97,147             536,346
+ Insurance                                                           25,836                 -                25,836
+ Crown Mineral & Surface Leases                                     117,501                 -               117,501
+ General & Administrative                                            41,011               8,023              49,034
+Total Operating Disbursements                                       809,769             161,468             971,237
+Non-Operating Disbursements
+ Priority Payment for Source Deductions3                             70,347                 -                70,347
+ Company Counsel's Fees                                             101,391                  84             101,474
+ Receiver's Fees                                                    312,377             112,548             424,925
+ Proposal Trustee's Fees                                             89,076                 -                89,076
+ Receiver's Counsel's Fees                                          126,115              89,267             215,382
+ Proposal Trustee's Counsel's Fees                                   25,968                 -                25,968
+ Interim Financing Facility Repayment                             1,078,907                 -             1,078,907
+ Sales Agent Fees                                                    53,564                 -                53,564
+Total Non-Operating Disbursements                                 1,857,744             201,899           2,059,643
+Total Disbursements                                               2,667,513             363,367           3,030,880
+Net Cash Flow                                                       709,159            (199,393)            509,766
+Ending Cash Balance                                                 990,788             791,396             791,396
+
+(1) For the First Report period, includes pre-Receivership related revenues from May production, which settled on
+June 25, 2025.
+(2) Comprised of the amounts collected from the June 2025 Transactions.
+(3) Relates to source deductions assessed as owing in the NOI period, paid in the Receivership.
+
+
+
+22.     There was approximately $990,788 of opening cash available at the start of the
+        Reporting Period.
+
+23.     The Receiver collected approximately $163,974 during the Reporting Period,
+        relating primarily to Oil and Gas receipts.
+
+24.     The Receiver has made disbursements of approximately $363,367 during the
+        Reporting Period, relating primarily to:
+
+
+
+
+                                                        10
+                  a)   Field Operating Costs of $44,665 consisting primarily of payments to
+                       third parties for services such as trucking, maintenance, and fuel;
+
+                  b) Contractor costs of $97,147 for continued labour needs of the
+                       operations;
+
+                  c)   Utility payments of $11,634 for gas and electricity; and
+
+                  d) Payment of professional fees to the Receiver and the Receiver’s
+                       Counsel in the amount of $112,548 and $89,267, respectively;
+
+25.      The total ending cash available as at October 31, 2025 is $791,396.
+
+SHARE PURCHASE AGREEMENT 2
+
+Overview
+
+26.      The Transaction contemplated in the SPA is a “reverse vesting” transaction which
+         involves the Purchaser’s purchase and subscription, and the Receiver’s sale, of the
+         common shares in Cleo. A redacted copy of the SPA is attached as Appendix “A”
+         to the First Report, and an unredacted copy of the SPA has been provided to the
+         Court as Confidential Appendix “C” to the First Report.
+
+27.      Confidential Appendix “C” is temporarily sealed on the Court record pursuant to
+         the Ancillary Order.
+
+28.      The contemplated SPA has not been amended since it was entered into between the
+         Receiver and 269 (as outlined in the First Report). The key terms of the SPA are
+         as follows:
+
+                  a)   the total cash consideration payable by the Purchaser for the
+                       Transaction is the Purchase Price, adjusted by the net amount of
+                       production revenues earned and associated costs incurred by the
+
+2
+  In this section of the Second Report, capitalized terms not otherwise defined have the meanings ascribed to
+them in the SPA.
+
+
+                                                    11
+                  Receiver from the Effective Date up to and including the Closing Date
+                  (the “Adjusted Purchase Price”);
+
+             b) additional consideration includes Cleo’s retention of the Retained
+                  Assets, Retained Liabilities, and Retained Contracts;
+
+             c)   Miller Thomson is in possession of the Deposit, which represents 100%
+                  of the Purchase Price, the amount of which is disclosed in Confidential
+                  Appendix “C” to the First Report;
+
+             d) the Adjusted Purchase Price will be paid at Closing, first by applying
+                  the Deposit, with the balance of the Adjusted Purchase Price to be paid
+                  by wire transfer of immediately available funds, either by the Purchaser
+                  to the Receiver or by the Receiver to the Purchaser, depending on the
+                  Adjusted Purchase Price;
+
+             e)   the Purchaser will purchase and subscribe to 200,000,000 Common
+                  Shares of Cleo, for a subscription amount equal to the Purchase Price;
+
+             f)   the Purchaser’s purchase of the Common Shares, the Retained Assets,
+                  Retained Liabilities and Retained Contracts is on an “as is, where is”
+                  basis;
+
+             g) the Transaction is expected to close on or before November 20, 2025;
+                  and
+
+             h) the SPA is conditional upon Court approval of the Revised RVO.
+
+Receiver’s Recommendation on the SPA
+
+29.   The Receiver is of the view that the SPA is commercially reasonable in the
+      circumstances for the following reasons:
+
+             a)   the Receiver is authorized by this Court, pursuant to the Receivership
+                  Order, to market and sell the Common Shares;
+
+
+                                          12
+b) the SPA resulted from an extensive marketing process conducted by
+     the Company and its sale advisor Sayer in the NOI Proceedings,
+     followed by the Remarketing Process conducted by the Receiver;
+
+c)   the Receiver has determined that the SPA represents the highest and
+     best offer for the assets being sold and ensures that all environmental
+     liabilities and abandonment and reclamation obligations will be
+     retained by the Purchaser, thereby preventing their transfer to the
+     OWA;
+
+d) Should the SPA not be approved by this Honourable Court, there are
+     no further parties that have expressed an interest or placed an offer in
+     the Remarketing Process to assume all the remaining assets and
+     abandonment and reclamation obligations of Cleo. In this scenario, the
+     Receiver’s next step will likely be to shut-in current operations on
+     existing production, as the monthly burn rate to operate Cleo is
+     approximately $170,000 (before professional fees and costs), and is
+     now considered unsustainable. Following the shut-in of operations, the
+     Receiver would look to transfer approximately $38 million (as
+     discussed below) in estimated deemed liabilities (asset retirement
+     obligations) to the OWA, representing approximately 1,100 wells, over
+     1,000 kilometres of pipelines and approximately 75 facilities to be
+     decommissioned and paid by industry and the Province;
+
+e)   the Receiver or its counsel have engaged with counsel to the OWA, the
+     AER, Alberta Energy, the DOJ, and several municipal tax claimants to
+     discuss the Transaction and to seek their input on the Revised RVO and
+     these stakeholders either supported or took no position on the changes;
+     and
+
+f)   the SPA was negotiated between the Receiver and the Purchaser at
+     arm’s length and in good faith.
+
+
+
+                             13
+30.      On September 19, 2025, the Receiver was advised by the AER that it did not object
+         to the transaction contemplated in the SPA, provided that the Purchaser fulfilled its
+         obligations to the AER with respect to field non-compliances, mandatory closure
+         spend quotas, the orphan fund levy, the administration fund levy, and other
+         applicable regulatory requirements. The Receiver has been advised that the
+         Purchaser has met with the AER, is aware of these obligations, and is prepared to
+         comply with the AER’s requirements.
+
+31.      At the October 17th Application, the OWA advised the Court that it was supportive
+         of the Receiver pursuing the Transaction, as it results in all environmental liabilities
+         and abandonment and reclamation obligations being retained by the Purchaser,
+         unlike any of the other offers received by the Receiver during the Remarketing
+         Process.
+
+32.      A summary of the Non-Binding Bids received in the Remarketing Process is
+         attached Confidential Appendix “B” to the First Report.
+
+33.      For the reasons above, the Receiver recommends that the Court approve the SPA.
+
+REVISED REVERSE VESTING ORDER 3
+
+Overview
+
+34.      Following the issuance of the Reasons for Decision, the Receiver engaged in
+         discussions with the Purchaser and Alberta Energy to address both the Alberta
+         Crown Cure Costs and any potential cure costs owing in respect of the Retained
+         Assets (the “Other Cure Costs”).
+
+35.      Counsel to Alberta Energy advised it was its preference for the Alberta Crown Cure
+         Costs to be satisfied from the Purchase Price proceeds as opposed to these cure
+         costs being retained by the Purchaser. As a result, the Receiver, the Purchaser and
+
+
+3
+  In this section of the Second Report, capitalized terms not otherwise defined have the meanings ascribed to
+them in the SPA or the Revised RVO.
+
+
+                                                    14
+      counsel to Alberta Energy have agreed to the provisions in the Revised RVO, and
+      specifically the new sections 10(i) and 10.1.
+
+36.   The Revised RVO contemplates the following:
+
+             a)   the creation of a residual company, 2755857 Alberta Ltd.
+                  (“ResidualCo”), where the Excluded Assets, Excluded Liabilities and
+                  Excluded Contracts will be transferred to, assumed by, and vested in
+                  absolutely and exclusively;
+
+             b) Cleo will retain all of the non-cash assets owned by it on the Closing
+                  Date, including, without limitation, the Retained Contracts, the Title
+                  and Operating Documents, Petroleum and Natural Gas Rights, the
+                  Tangibles, the Miscellaneous Interests, and Books and Records, except
+                  any Excluded Assets, Excluded Liabilities, or Excluded Contracts;
+
+             c)   ResidualCo will replace Cleo as the respondent party in these
+                  Receivership Proceedings;
+
+             d) Cleo will cease to be a party in these Receivership Proceedings, and
+                  will be deemed to be released from the purview of the Receivership
+                  Order and all other Orders of the Court granted in respect of these
+                  Receivership Proceedings, save and except for the Revised RVO,
+                  which shall continue to apply in all respects;
+
+             e)   the Purchaser will be the sole legal and beneficial shareholder of Cleo;
+
+             f)   the Purchase Price proceeds will be used to satisfy any valid and proven
+                  amounts owing in respect of the Alberta Crown Cure Costs; and
+
+             g) if any valid and proven Other Cure Costs cannot be fully satisfied from
+                  the Purchase Price Proceeds, the corresponding contract counterparties
+                  will be permitted to terminate their agreements with the Company.
+
+
+
+
+                                           15
+Proposed Post-Closing Claims Process
+
+37.   Should this Honourable Court approve the Transaction, the Receiver proposes to
+      retain two pools of funds: (i) the Purchase Price (the “Purchase Price Funds”),
+      and (ii) the cash on hand to be transferred from Cleo to ResidualCo upon closing
+      (the “ResidualCo Funds”). These proceeds will be segregated to allow for
+      distribution following a Court-approved claims process to determine creditors’
+      priorities with respect to each pool of funds.
+
+38.   The Receiver intends to return to Court to seek approval of a claims process to
+      determine the security and priority of any claims that ResidualCo creditors may
+      have against the Purchase Price Funds and/or the ResidualCo Funds. This process
+      will include potential Other Cure Costs claimants who may be owed amounts from
+      the Purchase Price Funds. As stated in the Revised RVO, if any valid and proven
+      Other Cure Costs cannot be fully satisfied, the corresponding contract
+      counterparties will be entitled to terminate their agreements with the Company.
+
+39.   Once the claims have been determined, the Receiver will seek an order authorizing
+      the distribution of the Purchase Price Funds and the ResidualCo Funds in
+      accordance with priorities following the approved claims process.
+
+Receiver’s Views on the Appropriateness of the Revised RVO
+
+40.   The Receiver considered the following four guidelines as set out in Harte Gold
+      (Re), 2022 ONSC 653, in determining that the Revised RVO is appropriate in the
+      circumstances:
+
+             a)   Is the Revised RVO structure necessary?
+
+             b) Does the Revised RVO structure produce an economic result at least as
+                  favourable as any other viable alternative?
+
+             c)   Is any stakeholder worse off under the Revised RVO structure than they
+                  would have been under another viable structure?
+
+
+                                           16
+              d) Does the consideration being paid for Cleo’s business reflect the
+                      importance and value of the intangible assets being preserved under the
+                      Revised RVO structure?
+
+41.   In considering the four accepted guidelines used in determining the appropriateness
+      of a court approving an RVO, the Receiver contemplated additional information to
+      address the specific additional concerns of this Honourable Court raised in the
+      Reasons for the Decisions, as summarized above in paragraph 16. The below
+      further considerations should be read in conjunction with the Receiver’s further
+      reasoning/comments on the four guidelines as noted in the First Report.
+
+The Revised RVO is Necessary
+
+AER License Transfer
+
+42.   The Revised RVO structure eliminates the need to seek AER approval for
+      approximately 1,100 licence transfers, a process that, based on the Company’s
+      experience and the Receiver’s experience in insolvency proceedings, could
+      otherwise take between one to four months to complete. Requiring such approvals
+      would introduce regulatory risk, potentially delay closing, increase transaction
+      costs (as discussed below), and deplete the remaining cash available for distribution
+      to creditors.
+
+43.   In particular, implementing the Revised RVO structure provides the following
+      advantages:
+
+              a)      No requirement for a BA Code: The Purchaser does not currently
+                      have a Business Associate (“BA”) code. Under a conventional share
+                      purchase or asset transfer, obtaining a BA code would be a prerequisite
+                      to holding AER licences, resulting in a delay to the closing of the
+                      Transaction. The Receiver understands in its communication with the
+                      AER that the estimated timeline for an operator to seek a new BA code
+                      could take approximately 4 weeks, if approved;
+
+
+                                              17
+b) Regulatory efficiency: The Revised RVO structure allows the
+     Purchaser to continue operations under Cleo’s existing licences without
+     disruption and the need for various temporary operating agreements
+     between the Purchaser and the Receiver to be entered into while the
+     licenses are transferred, ensuring ongoing regulatory compliance with
+     AER directives and avoid risking further potential liabilities that could
+     be incurred to the estate;
+
+c)   Cost savings: Avoiding the licence transfer process reduces
+     administrative and legal costs that would otherwise be incurred by the
+     estate to prepare AER applications and associated title transfer
+     documentation. The Receiver estimates these costs could total up to
+     $125,000, including estimated professional fees, given the number of
+     licences involved and the need for continued engagement with
+     administrative contractors during the transition.
+
+     For instance, the Receiver is currently completing its closing
+     requirements on an asset sale this Court approved on June 2, 2025 with
+     Rise, which includes a transfer of over 300 wells. Although the
+     transaction closed on June 6, 2025, the Receiver and its contractors
+     (i.e., landman) are still in the process of completing the various
+     assignment    and    novation   agreements,    Special   Areas    Board
+     assignments, facility assignments and transfers of surface caveats. As
+     such, the contemplated Transaction, if sold through a traditional sale
+     approval and vesting order (no RVO), would likely result in a longer
+     timeframe to close; and
+
+d) Preservation of existing AER security deposit: Cleo currently
+     maintains an approximately $850,000 security deposit with the AER in
+     respect of its existing licences. Through the Revised RVO structure, the
+     Purchaser will assume Cleo’s BA code and the benefit of this existing
+     security deposit. In contrast, under a conventional transaction involving
+
+
+                               18
+                   licence transfers, the Purchaser would not receive the benefit of Cleo’s
+                   existing deposit and would be required to post a substantially larger
+                   new deposit as a condition of AER approval. By enabling the
+                   assumption of Cleo’s licences and existing security, the Revised RVO
+                   structure   materially   reduces    the    Purchaser’s   initial   funding
+                   requirements and preserves value for Cleo’s creditors. This in turn
+                   allows the Purchaser to apply its cash resources to operations and
+                   compliance with AER obligations. Further, if there was a requirement
+                   to fund a further security deposit upfront, the Receiver is advised by
+                   the Purchaser that the Purchaser Price would be reduced further to
+                   address the security deposit requirement, resulting in less funds
+                   available for distribution to creditors.
+
+No Other Viable Transaction Alternatives
+
+44.    Completing a transaction through a CCAA Plan would be cost-prohibitive and
+       would introduce additional risk, delay, and uncertainty to the estate. It should be
+       noted that Cleo, with the assistance of the Sales Agent and Proposal Trustee,
+       undertook an extensive SISP with a view of exploring all available options to the
+       Company, including restructuring its affairs and presenting a plan to its creditors
+       and stakeholders. As a result of the SISP and limited options available, the NOI
+       Proceedings culminated in the sale of specific oil and gas assets rather than a
+       restructuring of the Company’s operations and business.
+
+45.    In the Receiver’s view, commencing proceedings under the CCAA (similar to the
+       NOI Proceedings that Cleo was previously part of) would not be appropriate in the
+       circumstances for the following reasons:
+
+              a)   Cost of a CCAA proceeding: Commencing a new, separate
+                   insolvency proceeding under the CCAA would require the appointment
+                   of a Monitor, the preparation and negotiation of a detailed CCAA Plan
+                   with Cleo’s creditors and stakeholders, and multiple court attendances.
+                   These steps would result in significant professional fees and costs that
+
+                                             19
+     may be in the range of        $400,000 to $500,000 or higher, which is
+     disproportionate to the size of this estate, that has approximately
+     $791,000 in remaining funds, as outlined in the Interim Statement of
+     Receipts and Disbursements;
+
+b) Extended timelines: Developing and implementing a CCAA Plan
+     would likely take several months to structure, negotiate, and obtain
+     both creditor and Court approval, delaying the completion of the
+     transaction and increasing the estate’s carrying costs with respect to
+     Cleo’s producing assets.       The Receiver estimates that operational
+     monthly burn of approximately $170,000, combined with the estimated
+     professional fees ranging from approximately $400,000 to $500,000,
+     or higher, would render this option not feasible and would drain any
+     remaining funds in the estate. In addition, the “Monitor” would likely
+     require interim financing, which the Receiver believes it would likely
+     not obtain given the scenario and the value of the oil and gas assets.
+
+c)   Uncertainty of approval: There is no assurance that creditors would
+     vote in favour of a plan of arrangement or that the Court would sanction
+     it, particularly given the limited recoveries expected after accounting
+     for the costs of a CCAA proceeding. Pursuing that process would result
+     in substantial additional cost and delay without any guarantee of a
+     successful outcome, and the resulting uncertainty would, in all
+     likelihood, cause the Purchaser to withdraw from the transaction. As a
+     result, a potential CCAA Plan in this scenario may be “doomed to fail”
+     out the gate;
+
+d) No willing transaction parties: The Purchaser has advised it is not
+     willing to extend the Transaction beyond the Outside Date of
+     November 20, 2025, to negotiate and complete and alternative form of
+     transaction. As previously stated, there are no further offers or
+     interested parties that are present to purchase all of the remaining
+
+
+                              20
+                  liabilities and assets of Cleo and no party has expressed an interest or
+                  desire that they wish to complete a transaction through a CCAA Plan
+                  (only potential small asset sales not requiring an approval and vesting
+                  order from this Honourable Court). Further it is uncertain the OWA
+                  and AER will permit the Receiver to maintain care and custody of the
+                  Remaining Assets to pursue an alternative form of transaction if one
+                  were available; and
+
+             e)   Preservation of value: The Revised RVO structure achieves
+                  substantially the same commercial outcome as a Plan of Arrangement,
+                  namely, facilitating the transfer of Cleo’s non-asset attributes to the
+                  Purchaser, while avoiding the cost, delay, and uncertainty associated
+                  with a separate insolvency proceeding. The Receiver is of the view that
+                  the Revised RVO is the most practical and cost-effective manner to
+                  complete the Transaction, in the circumstances. The Transaction has
+                  the support of the OWA, and Alberta Energy, with the DOJ and the
+                  AER taking no position. The Receiver has not been advised of any
+                  secured creditor or priority secured creditor opposing the relief sought
+                  by the Receiver.
+
+Other Key Considerations
+
+46.   The Purchaser has advised the Receiver that it is willing to proceed only by way of
+      a reverse vesting transaction, rather than through a traditional asset purchase or
+      other restructuring alternative. Should this Honourable Court not approve the
+      Revised RVO structure, the Purchaser has confirmed that it would not proceed with
+      the Transaction, as the loss of the benefits afforded by this structure would
+      materially diminish the economic rationale for the transaction and remove the basis
+      on which the Purchaser is prepared to proceed.
+
+47.   As a result of the Transaction, Cleo will continue its operations with the Purchaser
+      as the new sole shareholder, gaining ownership of the Retained Assets, Retained
+      Liabilities, and Retained Contracts. The Revised RVO ensures that the Purchaser
+
+                                          21
+      has the resources necessary to continue operations seamlessly post-closing, without
+      disruption, while maintaining production and revenue streams and ensuring that
+      regulatory and compliance obligations are appropriately managed. In addition,
+      Cleo will be able to employ contractors, employees and provide further work for
+      suppliers and the industry versus being shut-in and delivered to the OWA, which
+      in essence, is the goal of restructuring in an NOI Proceeding or CCAA Proceeding,
+      without the added costs, risks and concerns as contemplated by the Receiver above.
+
+The RVO Structure Produces an Economic Result at Least as Favourable as Any
+Other Viable Alternative
+
+48.   As described above, the SPA represents the highest and best offer for the assets
+      being sold and provides the most favourable economic result for Cleo’s
+      stakeholders in the circumstances. The Transaction ensures that all environmental
+      liabilities and abandonment and reclamation obligations (collectively, the
+      “Environmental Liabilities”) remain with Cleo and are not transferred to the
+      OWA. In contrast, based on the results of the sales processes run to date, any
+      alternative sale to other Bidders through a traditional asset purchase agreement or
+      otherwise, will result in the transfer of substantial Environmental Liabilities to the
+      OWA and no recoveries to any creditors.
+
+49.   As summarized in Confidential Appendix “B” of the First Report, the Purchaser’s
+      offer is by far the most advantageous when considering both the cash component
+      and the scope of Environmental Liabilities being assumed.
+
+50.   The Purchaser is assuming estimated environmental liabilities of approximately
+      $38 million associated with Cleo’s remaining wells and facilities, while also
+      providing a significant cash component to fund the Alberta Crown Cure Costs and
+      any Other Cure Costs, if applicable.
+
+51.   In contrast, all other offers from the Remarketing Process reflected either nominal
+      liability assumptions, minimal cash consideration, or both. If the Receiver were
+      required to dispose of Cleo’s remaining assets through traditional asset sale to other
+
+
+                                             22
+      Bidders, it is estimated that a significant portion of these Environmental Liabilities,
+      in excess of $38 million, would need to be disclaimed and directed to the care and
+      control of the OWA. Accordingly, the Revised RVO structure and the Purchaser’s
+      offer together provide the only commercially reasonable path to complete the sale,
+      mitigate environmental exposure, and preserve value for Cleo’s creditors.
+
+No Stakeholder is Worse Off under the RVO Structure than They Would Have Been
+Under Another Viable Structure
+
+52.   The Receiver is not aware of any stakeholders who would be prejudiced by the
+      Revised RVO structure. As noted above, the Revised RVO structure contemplated
+      in the Transaction ensures, among other things, that all Environmental Liabilities
+      are assumed by the Purchaser and that the Alberta Crown Cure Costs and Other
+      Cure Costs are paid from the Purchase Price proceeds to satisfy any valid and
+      proven amounts owing. If any valid and proven Other Cure Costs cannot be fully
+      satisfied, the corresponding contract counterparties will be permitted to terminate
+      their agreements with the Company.
+
+53.   The other Non-Binding Bids received as part of the Remarketing Process, whether
+      considered individually or in combination would result in material Environmental
+      Liabilities being transferred to the OWA and no recoveries to the remaining
+      creditors, including those claiming for cure costs. This outcome would arise
+      because the OWA holds a super-priority ranking in respect of abandonment and
+      reclamation obligations and, given the magnitude of the Environmental Liabilities
+      remaining with the estate, would have priority over all or substantially all of the
+      remaining estate funds.
+
+54.   The Receiver has shared the Revised RVO with key stakeholders who were in
+      attendance and made submissions at the October 17th Application, including
+      counsel to Alberta Energy, counsel to the AER, counsel to the OWA, the DOJ, and
+      counsel to various municipalities. The Receiver is not aware of any of these parties
+      objecting to the Revised RVO.
+
+
+
+                                            23
+The Consideration Being Paid for Cleo’s Business Reflects the Importance and Value
+of the Intangible Assets Being Preserved under the RVO Structure
+
+55.   In the Receiver’s view, the Revised RVO highlights the significance and value of
+      preserving Cleo’s intangible assets. As previously indicated, the Revised RVO
+      maintains Cleo as a legal entity, thereby preserving certain attributes that would
+      otherwise be lost in a traditional asset sale transaction. The loss of these attributes
+      would likely cause the Purchaser to withdraw from the transaction rather than
+      renegotiate a reduced Purchase Price. These preserved attributes include:
+
+             a)   AER security deposit: Cleo’s existing $850,000 security deposit with
+                  the AER is preserved under the Revised RVO structure, thereby
+                  reducing the additional security that would otherwise be required in
+                  respect of the approximately $38 million of Environmental Liabilities
+                  being assumed by the Purchaser;
+
+             b) Tax attributes: Cleo’s non-capital loss carry forward of approximately
+                  $6.8 million, as reflected in its most recent filed tax return (2022), is
+                  preserved as a tax attribute that may be applied against future taxable
+                  income. This, including other tax losses, such as COGPE and CEC
+                  totaling approximately $240,000 are also considered “assets” of the
+                  estate that would be available to the Purchaser; and
+
+             c)   Operational systems and software: Other intangible assets, including
+                  essential oil and gas accounting software, field data systems, and
+                  related back-office programs, are preserved under the Revised RVO
+                  structure. In a traditional asset transaction, these systems would need
+                  to be re-established, requiring time, effort, and additional cost.
+
+56.   As the Revised RVO is a required condition to the SPA, the Receiver considers the
+      Purchase Price being paid and the assumption of the Environmental Liabilities to
+      reflect: (i) the importance and value of the time it would take to undertake the
+      additional steps required by the AER under a traditional asset sale/vesting order
+
+
+                                            24
+      transaction; and (ii) the value attributable to Cleo’s intangible assets being
+      preserved. As such, the Receiver believe the Purchaser Price in this Transaction is
+      reasonable and supportable in the circumstances, especially given the results of the
+      Remarking Process.
+
+PROPOSED RELEASES
+
+57.   The Revised RVO includes releases (the “Releases”) in favour of the Released
+      Parties from any and all present and future claims that any person may have or be
+      entitled to assert against the Released Parties arising from the Transaction and the
+      granting of the Revised RVO in respect of the Company.
+
+58.   Specifically, the Released Parties are defined to include:
+
+             a)   Chris Lewis, in his capacity as the former director of the Company;
+
+             b) the Receiver and the Receiver’s Counsel; and
+
+             c)   Chris Lewis, in his capacity as director of ResidualCo.;
+
+                  (collectively, the “Released Parties”).
+
+59.   The full scope of the release provisions is set out at paragraphs 17 and 18 of the
+      Revised RVO and should be read in conjunction with this Report.
+
+Receiver’s Views on the Appropriateness of the Proposed Releases
+
+60.   The Receiver considered the following guidelines in concluding that the proposed
+      Releases are appropriate in the circumstances:
+
+             a)   whether the Releases are rationally connected to the purpose of the
+                  SPA;
+
+             b) whether the Transaction can succeed without the Releases;
+
+             c)   whether the Released Parties contributed to the SPA and the entire
+                  Receivership Proceedings;
+
+                                           25
+             d) whether the Releases benefit the Company as well as its creditors
+                  generally;
+
+             e)   whether the Company’s creditors have knowledge of the nature and the
+                  effect of the Releases; and
+
+             f)   whether the Releases are fair, reasonable, and not overly broad.
+
+61.   The Receiver is of the view that the proposed Releases should be approved by this
+      Honourable Court on the basis that:
+
+             a)   they are expressly connected to the Transaction;
+
+             b) approval of the Revised RVO by this Honourable Court, which
+                  includes the releases, is a condition precedent to the SPA;
+
+             c)   each of the Released Parties have made important critical contributions
+                  to the Receivership Proceedings, the negotiations of the SPA, the
+                  implementation of the Remarketing Process, and the services and
+                  expertise of the Released Parties were and are necessary for the
+                  ultimate success of the Transaction;
+
+             d) the Transaction will advance, preserve and protect the business
+                  operations of the Company and provide a greater recovery to the
+                  stakeholders than would not otherwise be available to them; and
+
+             e)   the release provisions have been fully disclosed to the service list.
+
+APPROVAL OF PROFESSIONAL FEES AND EXPENSES
+
+62.   The Receiver and its legal counsel have rendered their invoices for their respective
+      fees and disbursements for services in connection with the Receivership
+      Proceedings and are seeking the approval of this Honourable Court.
+
+63.   The Receiver seeks approval from this Honourable Court of: (i) its professional fees
+      and disbursements for the period of September 27, 2025 to October 24, 2025 (the
+
+                                            26
+           “Receiver Taxation Period”); and (ii) Miller Thomson’s professional fees and
+           disbursements for the period of September 15, 2025 to October 31, 2025 (the
+           “Miller Thomson Taxation Period”).
+
+64.        The total fees and expenses of the Receiver during the Receiver Taxation Period
+           are $107,189 (exclusive of GST), a summary of which is included below:
+
+                                                     Cleo Energy Corp.
+                                      Summary of the Receiver's Statements of Account
+                                    For the period September 27, 2025 to October 31, 2025
+ Invoice                   Period                        Fees       Disbursements       Subtotal     GST       Total
+Alvarez & Marsal Canada
+   5       September 27, 2025 to October 24, 2025         107,129               60         107,189     5,359    112,548
+         Total                                            107,129               60         107,189     5,359    112,548
+
+
+
+65.        The total fees and expenses of the Receiver’s Counsel during the Miller Thomson
+           Taxation Period total $85,033 (exclusive of GST), a summary of which is included
+           below:
+
+                                                    Cleo Energy Corp.
+                                 Summary of the Receiver's Counsel's Statements of Account
+                                   For the period September 15, 2025 to October 31, 2025
+ Invoice                   Period                       Fees       Disbursements       Subtotal      GST       Total
+Miller Thomson LLP
+4181898 September 15, 2025 to October 31, 2025             84,551              482          85,033     4,234     89,267
+         Total                                             84,551              482          85,033     4,234     89,267
+
+
+
+66.        The Receiver and Miller Thomson’s invoices outline the date of the work
+           completed, the description of the work completed, the length of time taken to
+           complete the work and the name of the individual who completed the work in
+           question. Copies of the invoices will be made available to the Court at its direction,
+           if necessary.
+
+67.        The Receiver respectfully submits that its professional fees and disbursements and
+           those of its legal counsel are fair and reasonable in the circumstances, given the
+           substantive tasks required to be performed by the Receiver and its legal counsel in
+           connection with the Receivership Proceedings.
+
+RECEIVER’S CONCLUSIONS AND RECOMMENDATIONS
+
+68.        The Receiver recommends that this Honourable Court grant the following:
+
+                                                               27
+              a)      the conduct and fees approval Order:
+
+                    i.   approving the Receiver’s actions, activities and conduct, and those
+                         of its legal counsel since the First Report, including the Interim
+                         Statement of Receipts and Disbursements, as set out in this Report;
+                         and
+
+                   ii.   approving the fees and disbursements of the Receiver and its
+                         counsel, as set out in this Report; and
+
+              b) the Revised RVO:
+
+                    i.   approving the SPA and the Transaction contemplated therein;
+
+                   ii.   granting the Releases in favour of the Released Parties; and
+
+                iii.     upon filing of the Receiver’s Certificate, discharging Cleo and
+                         adding ResidualCo to these Receivership Proceedings.
+
+
+All of which is respectfully submitted this 5th day of November, 2025.
+
+ALVAREZ & MARSAL CANADA INC.,
+in its capacity as the Court-appointed Receiver of
+CLEO Energy Corp. and not its
+personal or corporate capacity
+
+
+
+
+Orest Konowalchuk, CPA, CA, CIRP, LIT        David Williams, CPA, CIRP, LIT
+Senior Vice President                        Vice President
+
+
+
+
+                                              28
+APPENDIX A
+
+
+
+
+    29
+                                                                                                       FILED
+                             Court of King’s Bench of Alberta                                     OCT 28 2025
+
+Citation: Cleo Energy Corp (Re), 2025 ABKB 621
+
+
+
+                                                                                                     Date:
+                                                                                       Docket: B301 163430
+                                                                                          Registry: Calgary
+
+                IN THE MATTER OF THE BANKRUPTCY AND INSOLVENCY
+                           ACT, RSC 1985, C B-3, AS AMENDED
+                 AND IN THE MATTER OF THE NOTICE OF INTENTION TO
+                      MAKE A PROPOSAL OF CLEO ENERGY CORP.
+                _______________________________________________________
+
+                                   Reasons for Decision
+                                         of the
+                           Honourable Justice Colin C.J. Feasby
+                _______________________________________________________
+
+
+    I.       Introduction
+[1]     Reverse Vesting Orders (“RVOs”) burst on to the scene in 2019. Since then, RVOs have
+gone from “extraordinary to ordinary.” 1 The present application by the Receiver of Cleo Energy
+Corp. (“Cleo”) for approval of an RVO involves what before 2019 would likely have been a
+standard oil and gas transaction implemented through a Companies’ Creditors Arrangement,
+RSC 1985, c C-36 (“CCAA”) plan or a traditional approval and vesting order (“AVO”). The
+present application raises two questions relevant to insolvency and restructuring practice in the
+oil and gas industry and a third question of broader application.
+[2]     The first question that must be decided is if the RVO structure is necessary in the present
+case. Harte Gold (Re), 2022 ONSC 653, the leading RVO case, held that an RVO must be
+necessary. The Receiver asserts that the proposed RVO transaction is necessary because it is
+more efficient than alternative transaction structures and it is required by the purchaser. The
+second question that must be decided is whether the RVO structure may be used to shed liability
+for cure costs relating to unpaid royalties owing pursuant to Crown petroleum and natural gas
+leases. The third question, raised by Employment and Social Development Canada
+(“Employment Canada”), concerns potential adverse consequences for employees who made
+Wage Earner Protection Program (“WEPP”) claims because of use of the RVO structure.
+
+
+
+
+1
+ Victor Olusegun, “The Journey of Reverse Vesting Orders from ‘Extraordinary’ to Ordinary: Is it Time for
+Parliamentary Intervention?” (2024) 22 Annual Review of Insolvency Law 16.
+                                                       2
+
+
+   II.     The Cleo Energy Corp. Receivership Proposal
+[3]     Cleo is a private oil and gas company that owned and operated assets in East Central
+Alberta. Cleo filed a Notice of Intention to Make a Proposal (“NOI”) pursuant to section 50.4(1)
+of the Bankruptcy and Insolvency Act, RSC 1985, c B-3 (“BIA”) on December 8, 2024. During
+the NOI proceedings, some of Cleo’s assets were sold through a sales and investment solicitation
+process. However, not all Cleo’s assets were sold within six months of Cleo filing the NOI. So,
+to avoid a deemed bankruptcy pursuant to s 50.4(8) of the BIA, uCapital – uLoan Solutions Inc.
+(the “Interim Financier”) applied for and was granted a receivership order on June 2, 2025.
+Alvarez & Marsal Canada Inc. was appointed as receiver (the “Receiver”).
+[4]     The Receiver conducted what it called a remarketing process to sell the Cleo assets that
+were not sold in the sales and investment solicitation process conducted during the NOI
+proceedings. The remarketing process engaged with 37 potential interested parties of which 11
+signed non-disclosure agreements to gain access to the virtual data room. Eight non-binding bids
+resulted from the remarketing process. The receiver selected 2698902 Alberta Corporation (the
+“Purchaser”) as the successful bidder.
+[5]     The Receiver proposes that the transaction be effected by way of an RVO. The proposed
+RVO contemplates the creation of ResidualCo that will take on assets, liabilities, and contracts
+that the Purchaser does not want. Cleo, which will be acquired by the Purchaser, will retain,
+among other things, “the Retained Contracts, the Title and Operating Documents, Petroleum and
+Natural Gas Rights....”
+[6]     The Receiver stated in its First Report that the RVO structure is “essential to maximize
+value....” The Receiver explained that “[b]y using an RVO, the Purchaser can avoid seeking
+AER approval for multiple licence transfers, a process that could be lengthy and introduce
+additional risk and cost to the Transaction and deplete the remaining cash on hand for
+distribution to creditors.” Further, the Receiver reported that “[t]he Purchaser has advised the
+Receiver that it is only prepared to proceed with a reverse vesting transaction, rather than a
+traditional asset purchase, as this structure allows for the efficient transfer of applicable licences
+and contracts.” The Receiver stated that it “considers the Purchase Price being paid to reflect:
+           (i) the importance and value of the time it would take to undertake the
+               additional steps required by the AER under a traditional asset sale/vesting
+               order transaction; and
+           (ii) the value attributable to certain of Cleo’s attributes which may be
+                preserved.
+[7]     Despite offering this opinion, the Receiver gave no estimate of the time it would take to
+complete AER licence transfers or any explanation of what “attributes” of Cleo that would be
+preserved or why such attributes might have value sufficient to justify proceeding by way of
+RVO. Presumably, if the Receiver is prepared to offer an opinion to the Court concerning the
+purchase price and the “value of time” required to effect licence transfers, it must have
+conducted some analysis to support that opinion. There is no support for the Receiver’s opinion
+to be found in either its First Report or Supplement to the First Report.
+[8]     The Receiver asserts that alternatives to the proposed RVO “would in all likelihood result
+in material environmental liabilities and abandonment and reclamation obligations being
+transferred to the OWA.” Again, no evidence or analysis was offered to substantiate this claim
+                                                      3
+
+
+other than to point out that other bids contemplated environmental liabilities being assumed by
+the OWA.
+[9]      The proposed RVO provides that Cleo will retain Crown mineral leases with the
+liabilities for unpaid royalties and rent being transferred to ResidualCo. As I will explain, this is
+a departure from the usual insolvency and restructuring treatment of executory contracts.
+
+   III.    Reverse Vesting Orders (“RVOs”)
+[10] Courts often say that a RVO is an “extraordinary” remedy: see, for example, British
+Columbia v Peakhill Capital Inc, 2024 BCCA 246 at para 32. Courts also say this about
+injunctions: see, for example, Unifor, Local 707A v Suncor Energy Inc, 2018 ABCA 75 at para
+8. This is not helpful and needs to stop. Using the adjective “extraordinary” to describe
+something indicates it is unusual or remarkable. A conclusion that something is extraordinary is
+a product of observation, not legal analysis. As I said in R v TGB, 2023 ABKB 526 at para 5,
+“[e]mphasizing the extraordinary nature of a remedy, its rarity, or that it is a last resort says
+nothing about the legal test to be applied; instead, it encourages the trial judge to close her mind
+to the availability of the remedy.” A bigger problem with saying that RVOs are extraordinary is
+that it is not true. RVOs are now a common way for insolvency and restructuring matters to be
+resolved. I refuse to subscribe to the polite fiction that RVOs are extraordinary in 2025.
+[11] Justice Penny’s framework in Harte Gold at para 38 for analyzing if an RVO should be
+granted has been adopted widely, including by the Alberta Court of King’s Bench: see, for
+example, Delta 9 Cannabis Inc (Re), 2025 ABKB 52 at para 61and Long Run Exploration Ltd
+(Re), 2024 ABKB 710 at para 18. Justice Penny in Harte Gold explained that before an RVO is
+granted, a court must consider four questions:
+           (a) Why is the RVO necessary in this case?
+           (b) Does the RVO structure produce an economic result at least as favourable
+               as any other viable alternative?
+           (c) Is any stakeholder worse off under the RVO structure than they would
+               have been under any other viable alternative? and
+           (d) Does the consideration being paid for the debtor’s business reflect the
+               importance and value of the licences and permits (or other intangible
+               assets) being preserved under the RVO structure?
+[12] Penny J in Harte Gold at para 38 also observed that an RVO should not be approved just
+because “it may be more convenient or beneficial for the purchaser.”
+[13] Justice Marion in Delta 9 at paras 61-62 explained other criteria that may be considered
+by a court before granting an RVO, but for the present case I will focus on the Harte Gold
+factors as that is how all the interested parties framed their submissions. And, further, I will
+address only the two Harte Gold factors that were disputed by the parties.
+                                                     4
+
+
+   IV.      Should the Receiver’s Application to Approve the Cleo RVO be Granted?
+         A. Is the RVO Structure Necessary in this Case?
+[14] An important preliminary question is whether the necessity criterion should be taken
+seriously. The RVO criteria from Harte Gold are a recent judicial invention; the ink is not yet
+dry. Outside the cannabis industry, which is arguably a special case, RVOs are often used in
+restructurings where previously CCAA plans or AVOs would have been used. Though the RVO
+cases have repeatedly affirmed the necessity criterion, the proliferation of RVOs and what courts
+have found to constitute necessity suggests that a lower standard is being applied. The analysis
+that follows takes the caselaw at face value and proceeds on the basis that necessary means
+necessary. With that said, appellate guidance on the question of whether an RVO must be
+necessary before it may be approved would be of great assistance to lower courts and insolvency
+and restructuring professionals.
+[15] Justice Simard, shortly before his appointment to the bench, and his co-authors compared
+AVO transactions with RVO transactions with a focus on the oil and gas industry in Chris
+Simard, et al, “Restructuring and Insolvency Deals in the Oil Patch: Recent Trends and
+Developments” (2022) 60 Alberta Law Review 363 at 388-92. An AVO, they explained,
+“allows for the removal of the assets from the debtor’s insolvent estate.” A shortcoming of a
+standard AVO is that it does not “allow for the purchase and sale of attributes of the debtor
+company that are not assets.”
+[16] The traditional way for non-asset attributes to be conveyed in insolvency proceedings is
+via a plan under the CCAA or a proposal pursuant to the BIA. Both CCAA plans and BIA
+proposals provide creditors the right to vote and a claims process. Justice Simard explained at
+389, “a court-approved Plan can, in essence, deliver to a third party the ownership of a debtor
+company that has been ‘cleansed’ of all creditor claims but that still retains all its assets, along
+with all inherent corporate attributes that are not assets (such as tax attributes and regulatory
+licences).” An RVO delivers the benefits of a CCAA plan or BIA proposal without the messiness
+and expense associated with creditor democracy: see, Daniel Alievsky, “Reverse Vesting Orders:
+Did We Forget About Creditor Democracy?” (2023) 12:7 IIC-ART 143 at 149.
+[17] The Receiver has identified one reason why an RVO structure must be used in the present
+case – to avoid the transfer of licences issued by the Alberta Energy Regulator (“AER”). The
+Receiver asserts that the transfer of licences will take time and cost money which, in turn, will
+create more risk and reduce the return to Cleo creditors. The Receiver also states that the
+Purchaser made proceeding by RVO a condition of its offer. I agree with Mr. Alievsky who
+contends at 152 that “courts should compel parties to explain why and on what evidentiary basis
+they assert the RVO is not just economically advantageous to its stakeholders, but also better
+than any alternative.” Where it is claimed that there is an obstacle to proceeding using
+alternative structures such as the cost, risk, and delay of licence transfers, that must be
+substantiated.
+[18] The proposed transaction could be completed by way of a CCAA plan. Proceeding by
+way of a CCAA plan would allow Cleo to avoid the licence transfer problem that it has identified.
+But proceeding by way of a CCAA plan would mean that Cleo would have to deal with the
+inconvenience and expense of affording creditors their statutory rights under the CCAA when
+there will be no recovery for most creditors. I note that neither the Receiver’s First Report nor
+its Supplement to the First Report offers any reasons why a CCAA plan is not feasible.
+                                                     5
+
+
+Nevertheless, I will consider the Receiver’s contention that the transfer of licences necessitates
+use of an RVO structure.
+[19] The cost, delay, and risk associated with the transfer of licences has been found to justify
+the use of an RVO structure. For example, the non-transferability of licences in the cannabis
+industry has been a significant factor driving the increased use of RVOs: Atlas Global Brands
+Inc, 2024 ONSC 5570 at para 36; Delta 9 at para 69. But the transfer of licences has also been
+used to justify RVOs in the mining industry and the oil and gas industry where licences are
+transferrable: see, for example, Harte Gold and Razor Energy Corp, Razor Holdings GP Corp,
+and Blade Energy Services Corp (Re), 2025 ABKB 30 at para 32. Justice Penny in Harte Gold
+at para 71 explained:
+       The principal objective and benefit of employing the RVO approach in this case is
+       the preservation of Harte Gold’s many permits and licences necessary to conduct
+       operations at the Sugar Loaf Mine. Under a traditional asset sale and AVO
+       structure, the purchaser would have to apply to the various agencies and
+       regulatory authorities for transfers of existing licences and permits or, if transfers
+       are not possible, for new licences and permits. This is a process that would
+       necessarily involve risk, delay, and cost. The RVO sought in this case achieves
+       the timely and efficient preservation of the necessary licences and permits
+       necessary for the operations of the Mine.
+[20] Justice Penny later noted at para 73 that these were “material risks, delays, and costs”
+[emphasis added]. Presumably the applicant provided him with evidence to substantiate the
+materiality of risks, delays, and costs associated with the licence transfers.
+[21] The problem in the present case is that delays, risks, and costs associated with the transfer
+of AER licences are asserted but not proved. Sometimes in Commercial List matters, the Court
+will accept assertions made by insolvency and restructuring professionals who serve as Monitors,
+Trustees, and Receivers. But I cannot do so here because the claim runs contrary to common
+sense.
+[22] Oil and gas licence transfers are an everyday part of business in the oilpatch. Part of the
+AER’s job is to process licence transfers. While it is true that parties sometimes structure
+transactions as share deals or, in the context of insolvency, use CCAA plans to avoid the hassle
+and expense of licence transfers that does not mean that avoidance of licence transfers is always
+necessary. If the Receiver claims that the burdens associated with licence transfers necessitate
+that this transaction use an RVO structure, those claims must be substantiated.
+[23] To be clear, I am not saying that the Court requires sworn testimony from the Receiver.
+Rather, I mean that the Receiver’s report should show that the Receiver has done the work to
+determine what the delays, risks, and costs associated with licence transfers are likely to be. For
+example, instead of asserting that there will be delays, costs, and risks associated with the licence
+transfers, the Receiver should specify what delays, costs, and risks are apprehended and why the
+Receiver believes those concerns to be genuine and material. Put differently, the Receiver must
+provide backup to justify its conclusion respecting the materiality of the risks, delays, and costs
+associated with the required licence transfers.
+[24] I accept that it is possible that the cost of AER licence transfers may be material to the
+proposed transaction given that much of the deal consideration is comprised of assumed
+                                                     6
+
+
+liabilities that would otherwise be transferred to the Orphan Well Association (“OWA”). But for
+me to reach such a conclusion, the Receiver must provide an estimate of the costs associated
+with the AER licence transfers and a reasoned explanation why the estimated amount is material
+to the proposed transaction.
+[25] The fact that the Purchaser requires that the proposed transaction proceed by way of an
+RVO does not move me. Purchasers always demand what is most favourable from their
+perspective. The Purchaser has agreed to acquire Cleo’s assets for a substantial consideration
+which includes cash and assumed environmental liabilities. The Court must assume that the
+Purchaser will behave rationally. Under the circumstances, if an RVO is not available as a deal
+structure, the economically rational thing for the Purchaser to do is not to walk away but to
+negotiate a reduction of the purchase price by the amount that it estimates it will have to pay to
+effect the licence transfers. Perhaps there are other factors, such as tax, that might affect the
+price the Purchaser is prepared to pay but that is not clear from anything before the Court. The
+bottom line is that there is no cogent explanation offered by the Receiver as to what the financial
+impact is of using structures other than the proposed RVO. Assertions that the transaction must
+be an RVO are not enough to establish that it is necessary.
+       B. Is Any Stakeholder Worse Off Under the RVO Structure?
+               i.      Viable Alternative?
+[26] Harte Gold requires the Court to consider if any stakeholder is worse off under the RVO
+structure than they would have been under any other viable alternative. The Receiver submits
+that there are no viable alternatives to the proposed transaction. The Receiver says that the
+proposed transaction is the only bid received in the remarketing process that would not result in
+properties being transferred to the OWA. The Receiver further submits that “[a]ny proceeds
+derived from these hypothetical alternative transactions would not result in proceeds going to
+satisfy Alberta Energy’s alleged cure costs. Instead, the proceeds would be paid to the OWA....”
+[27] The Receiver’s argument attacks a straw man. The viable alternative is not one of the
+seven rejected bids; it is a differently structured transaction with the successful bidder. As I
+noted before, the Court must assume that the Purchaser will act in an economically rational way.
+The viable alternative to the current RVO structure that absolves the Purchaser of responsibility
+for paying Alberta Energy cure costs is an RVO where the Purchaser is required to pay cure
+costs. That means that the Purchaser would take on a liability of $150,000 that it is not under the
+current structure. A rational economic actor would not walk away; it would reduce the purchase
+price by a corresponding amount. I note that even with a $150,000 reduction in purchase price,
+the Purchaser would still have the highest bid.
+[28] Since I have found that the Receiver has not established that an RVO is necessary, it is
+appropriate to also consider if there is a non-RVO viable alternative. The difficulty with this is
+that the Receiver has constructed a binary choice between the proposed RVO and the seven
+unsuccessful bids. Given value that the Purchaser has offered under the proposed RVO
+structure, it is possible, that a restructured version of the transaction without using the RVO
+mechanism would still be preferable to the seven other bids. The failure of the Receiver to
+engage with this possibility leaves the Court unable to assess whether there is a non-RVO viable
+alternative.
+                                                     7
+
+
+               ii.     Crown Lease Cure Costs
+[29] Cleo owes Alberta $170,000 in unpaid royalties and $70,000 in unpaid rent in respect of
+its Mineral Leases. Of the total $240,000 owing by Cleo to Alberta, $90,000 is post-filing debt
+which the Receiver has confirmed will be paid. The RVO contemplates that “Crown Liabilities,”
+which is the $150,000 pre-filing debt for unpaid royalties and rent, will be vested in ResidualCo
+while the Mineral Leases will remain in Cleo. The RVO allows Cleo to retain the Mineral
+Leases without paying the arrears to Alberta.
+[30] Most oil and gas rights in the province are owned by Alberta. From time to time, Alberta
+conducts public sale processes where oil and gas companies may bid for Crown oil and gas
+rights. After a sale, Alberta Energy will issue the successful bidder a petroleum and natural gas
+lease which is sometimes called a PNG Lease or Mineral Lease. A Mineral Lease grants the
+lessee the right to drill for, and recover, oil and gas within the leased area. A Mineral Lease does
+not grant mineral ownership to the lessee; Alberta remains the owner. In exchange, the lessee is
+required to pay royalties and rent to Alberta.
+[31] Tracy Wadson, Alberta’s Director, Royalty Operations swore an affidavit describing how
+Alberta Energy approaches the transfer of Mineral Leases in insolvency matters as follows:
+       Upon sale of an insolvent’s Mineral Leases (in an asset sale, not a share purchase
+       arrangement), the receiver or trustee requests that Alberta Energy transfer those
+       Mineral Leases to the name of the purchaser.
+       Under s 18(2) of the [Mines and Minerals] Act [RSA 2000, c M-17], and, in
+       particular, s 5(1)(g) of the Crown Minerals Registration Regulation, AR 264/1997
+       (the Regulation”), the Minister (through Alberta Energy) is authorized to refuse
+       the transfer of a Crown agreement.
+       Alberta Energy requires payment of cure costs (i.e. the Crown Liabilities – the
+       monetary defaults under the Mineral Lease) before it will transfer Mineral Leases
+       to the purchaser (the “Transfer Requirement”).
+       Alberta Energy routinely enforces the Transfer Requirement in insolvency asset
+       transactions and, based on my experience, both industry and receivers/trustees are
+       aware of the Transfer Requirement.
+[32] Ms. Wadson’s affidavit did not speak to Alberta Energy’s approach when a debtor is
+restructured pursuant to a CCAA plan. She did, however, explain that Alberta Energy’s standard
+approach when royalties and rent are not paid is to issue a Notice of Default as a first step toward
+cancelling the relevant Mineral Lease. Presumably this means that where a debtor retains
+Mineral Leases under a CCAA plan, Alberta Energy requires payment of royalty and rental
+arrears to maintain the Mineral Leases going forward.
+[33] Cleo’s Mineral Leases are what are sometimes called executory contracts because there
+are ongoing obligations: Kary Investment Corporation v. Tremblay, 2005 ABCA 273 at paras
+19-20. Receivers have the power to adopt or reject executory contracts: Frank Bennett, Bennett
+on Receiverships, 4th ed, (Toronto: Thomson Reuters, 2021) at 557-65; Spyglass Resources Corp
+v Bonavista Energy Corporation, 2017 ABQB 504 at para 67. Executory contracts that are
+rejected give rise to claims that may be proved in the receivership process: Bellatrix Exploration
+Ltd (Re), 2021 ABCA 85 at para 44. Receivers adopt executory contracts when they help to
+maximize value for creditors. This occurs when the executory contract is advantageous or
+                                                      8
+
+
+essential to a restructuring business and will make the business more attractive to a potential
+purchaser. When a receiver adopts an executory contract, monetary defaults in respect the
+executory contract must be cured: Simard et al, “Restructuring and Insolvency Deals in the Oil
+Patch” at 373. Put differently, if a receiver decides to keep a contract, it must keep both the
+benefits and the burdens of the contract.
+[34] The treatment of executory contracts in the CCAA context is similar. Where a debtor
+company is restructured and an executory contract is retained, the counterparty may demand
+payment of cure costs as a condition of ongoing performance. Where a CCAA plan calls for the
+assignment of an executory contract, CCAA s 11.3(4) precludes a court from making an
+assignment order “unless it is satisfied that all monetary defaults in relation to the agreement ...
+will be remedied on or before the day fixed by the Court.”
+[35] I must pause here to address the question of fairness. Is the payment of cure costs to
+Alberta Energy fair to the Purchaser and to creditors of Cleo? Yes, it is. The reason that the
+Purchaser is buying Cleo is because it has Crown oil and gas rights and, in turn, that is why
+consideration is flowing to creditors. The only reason that Cleo has oil and gas rights is because
+it has the Mineral Leases. There is nothing unfair about requiring the Purchaser to pay cure costs
+to maintain the Mineral Leases.
+[36] The present application is the second time in the last two months before this Court where
+a restructuring entity sought to retain the benefit of an executory contract while absolving itself
+of the responsibility to remedy monetary defaults through the device of an RVO. In AlphaBow
+Energy Ltd (Re), 2025 ABKB 550, many months after the approval of an RVO, the applicant
+sought to amend the RVO to retain a contract with a third party for the purchase of carbon
+dioxide while shedding liabilities associated with the contract. Justice Johnston observed at para
+52 that that the applicant had disclaimed the contract in the first instance because it hoped to
+negotiate a new contract that would avoid payment of cure costs. Justice Johnston declined to
+exercise her discretion to permit the amendment of the RVO to permit the applicant to retain the
+contract while shedding the associated liabilities.
+[37] Though the Receiver did not provide any cases where courts have approved RVOs where
+the receiver or purchaser is not required to pay cure costs for retained contracts, I note that it has
+occurred: see, for example, Acerus Pharmaceuticals Corporation (Re), 2023 ONSC 3314 at
+para 31. The language used by Justice Penny in Acerus suggests, however, that parties whose
+contracts were retained in that case were allowed to choose to perform or terminate the contracts
+where cure costs are not paid. He explains at para 31 that the RVO “does not require FGC to
+cure pre-filing arrears under the Retained Contracts,” and that such parties “have the opportunity
+to continue supplying goods and services to the applicants post-CCAA proceedings if they
+choose to do so.” This is quite different than what is proposed in the present case. I also note
+that despite the precedent in Acerus, RVOs continue to require the payment of cure costs: see,
+for example, Razor Energy Corp at para 60.
+[38] I remain open to the possibility that there may be cases where an RVO that provides for
+the retaining contracts without a corresponding obligation to pay cure costs can be justified, but
+this is not one of them. The payment of cure costs to Alberta Energy is a reasonable price for the
+Purchaser to pay to get the ongoing value of the Mineral Leases and it will cause a justified
+decrease in the value to be received by the creditors of Cleo on their claims.
+                                                    9
+
+
+[39] The use of RVOs to allow contracts to be retained without payment of cure costs alters
+the incentive structure around insolvency. Moreover, allowing contracts to be retained without
+payment of cure costs is a curtailment of the principle of freedom of contract beyond what is
+normal in insolvency proceedings. These are matters that demand consideration by appellate
+courts and legislators.
+               iii.   Potential Clawback of WEPP Payments
+[40] Employment Canada appeared at the application to advise the Court of potential adverse
+consequences of the RVO for former employees. Employment Canada, however, maintained
+that it was not taking a position on the appropriateness of the RVO.
+[41] Employment Canada advised the Court that pursuant to the Wage Earner Protection
+Payment Act, S.C. 2005, c. 47 (“WEPPA”) former employees of Cleo who had received
+payments pursuant to WEPP could have their payments clawed back if the RVO is approved.
+[42] WEPPA s 5 outlines the eligibility criteria for employees whose former employer is in
+receivership. The key requirements are that “the former employer is subject to a receivership”
+and that “the individual is owed eligible wages by the former employer.”
+[43]   Employment Canada submits:
+       Should the RVO be granted, the liabilities related to unpaid wages of the former
+       employees of Cleo would be transferred to ResidualCo. Equally, Cleo would
+       emerge from the receivership proceedings and continue to carry on its business
+       operations as a viable corporation.
+       Following the issuance of the RVO, the eligibility criteria under s. 5(1)(b)(ii) and
+       5(1)(c) of the WEPPA would no longer be met and, the objective of the WEPP
+       would equally be undermined. As a result, this would likely affect the former
+       employees’ entitlement to WEPP benefits and lead to an overpayment of program
+       benefits, which would be subject to recovery.
+[44] Employment Canada further states that whether the conditions for eligibility are met is
+within the exclusive discretion of the Minister responsible for WEPPA, subject to an appeal
+before the Canada Industrial Relations Board, which, in turn, is subject to judicial review under
+the exclusive jurisdiction of the Federal Court of Appeal.
+[45] Employment Canada’s submission is, in essence, a warning that following the approval
+of the Cleo RVO, payments to former employees of Cleo may be clawed back followed by a
+warning that this Court has no say in the matter. I beg to differ. Justice Collier in Arrangement
+relatif à Former Gestion Inc, 2024 QCCS 3645 at para 34 dispensed with a similar argument by
+Employment Canada as follows:
+       [T]he relevant time for determining when WEPPA applies is the moment at which
+       all an insolvent entity’s employees are terminated due to a bankruptcy or
+       restructuring. That is when the employee’s entitlement to compensation arises
+       and neither the Act nor the regulations indicate that circumstances arising after the
+       termination are relevant.
+[46] I agree. WEPP exists to protect employees from the adverse consequences of the
+insolvency of their employer. Terminated employees have no control over how insolvency and
+restructuring transactions are structured after their termination. Terminated employees who have
+                                                   10
+
+
+received WEPPs payment and have no inkling of the possibility of a clawback may have used the
+money to pay for groceries or rent. A choice to clawback payments made to terminated
+employees of an insolvent corporation because of subsequent events beyond their control would
+be to the immense discredit of the Minister and, I would hope, be swiftly reversed by the Canada
+Industrial Relations Board or the Federal Court of Appeal.
+
+   V.      Conclusion
+[47] The Receiver’s application is dismissed without prejudice to its ability to apply again for
+approval of the proposed transaction with additional supporting material and/or for a restructured
+transaction.
+
+
+Heard on the 17th day of October, 2025 with additional written submissions received on the 22nd
+and 24th of October.
+Dated at the City of Calgary, Alberta this 28th day of October, 2025.
+
+
+
+
+                                                    Colin C.J. Feasby
+                                                    J.C.K.B.A.
+
+
+
+
+Appearances:
+
+
+Sam Gabor and Tom Cumming, Gowling WLG (Canada) LLP
+      for Cleo Energy Corp.
+
+James Reid and Pavin Takhar, Miller Thomson LLP
+      for the Proposal Trustee, Alvarez & Marsal
+
+Melissa N. Burkett, Alberta Justice
+       for Alberta Energy
+
+Daniel Segal, Department of Justice Canada
+       for Employment and Social Development Canada
+
+George Wong,
+      for the Alberta Energy Regulator
+
+Ryan Zahara, MLT Aikins,
+                                                  11
+
+
+           for the Orphan Well Association
+
+Aaron Dow and Alexis Teasdale, Lawson Lundell LLP,
+      for the Interim Financer, uCapital – uLoan Solutions Inc.
+

@@ -1,0 +1,365 @@
+COURT FILE NUMBER   2501-09028
+                                                                         FILED
+COURT               COURT OF KING’S BENCH OF                           DIGITALLY
+                    ALBERTA                                          2501 09028
+JUDICIAL CENTRE     CALGARY                                          Nov 7, 2025
+                                                                         4:29 PM
+
+                    IN THE MATTER OF THE BANKRUPTCY
+                    AND INSOLVENCY ACT, RSC 1985, C B-3, AS
+                    AMENDED
+
+                    AND IN THE MATTER OF THE
+                    RECEIVERSHIP OF CLEO ENERGY CORP.
+
+APPLICANT           UCAPITAL – ULOANS SOLUTIONS INC.
+
+RESPONDENT          CLEO ENERGY CORP.
+
+DOCUMENT            BENCH BRIEF OF LAW OF HIS MAJESTY THE KING IN RIGHT
+                    OF CANADA AS REPRESENTED BY THE MINISTER OF
+                    NATIONAL REVENUE, CREDITOR
+
+ADDRESS FOR         Department of Justice Canada
+SERVICE AND         444, 7th Ave SW, 10th Floor
+CONTACT             Calgary, Alberta T2P 0X8
+INFORMATION OF      Attention: Amy Reperto / Tristen Cones
+PARTY FILING THIS   Tel.: (403) 390-2672 / 403-461-4723
+DOCUMENT            Fax: (403) 299-3507
+                    Email: amy.reperto@justice.gc.ca / tristen.cones@justice.gc.ca
+                    File No.: LEX-500224254
+                                     TABLE OF CONTENTS
+
+PART I – INTRODUCTION AND RELIEF SOUGHT --------------------------------------------- 3
+
+PART II – FACTS ------------------------------------------------------------------------------------------- 3
+
+PART III – ISSUE ------------------------------------------------------------------------------------------- 3
+
+PART IV – LAW AND ARGUMENT ------------------------------------------------------------------- 4
+
+PART V – CONCLUSION-------------------------------------------------------------------------------- 10
+
+TABLE OF AUTHORITIES ----------------------------------------------------------------------------- 11
+                                                                                   Page 3 of 11
+
+
+PART I – INTRODUCTION AND RELIEF SOUGHT
+
+  1. This Bench Brief of Law is filed in support of the application of the Minister of National
+     Revenue (the Minister or Crown) as represented by the Canada Revenue Agency
+     (CRA) for an Order allocating the Receiver’s Charge and Receiver’s Borrowings Charge
+     amongst the various assets comprising the Property; and directing the Receiver to
+     forthwith pay to the Receiver General of Canada $899,907.51 to be applied to the deemed
+     trust portion of Cleo’s GST account.
+
+PART II – FACTS
+
+  2. Cleo is a GST registrant.
+
+  3. From the GST period ending July 31, 2022 to the period ending December 8, 2024, Cleo
+     collected GST from third parties and failed to remit it to the Minister as and when
+     required.
+
+  4. The CRA filed a $1,355,296.64 GST claim with the Receiver, of which $899,907.51 is
+     subject to a deemed trust. CRA also filed a claim for the payroll debt of Cleo of which
+     $70,347 was subject to the deemed trust in respect of unremitted employee source
+     deductions.
+
+  5. The Receiver has already paid CRA’s payroll deemed trust claim pursuant to subsection
+     227(4.1) of the Income Tax Act, RSC 1985 c 1 (5th Supp).
+
+  6. The Receiver’s First Report filed within this proceeding did not address payment of the
+     CRA’s GST deemed trust, nor have they paid it.
+
+PART III – ISSUE
+
+  7. Is the CRA is entitled to be paid their GST deemed trust claim in the amount of
+     $899,907.51 from the Sale Proceeds of Cleo’s assets?
+                                                                                     Page 4 of 11
+
+
+PART IV – LAW AND ARGUMENT
+
+  8. Parliament enacted legislation concerning GST registrants who fail to remit GST
+     collected on behalf of the Crown.
+
+
+  9. Pursuant to the legislative scheme, GST registrants must collect GST in trust for the
+     Crown and remit it to the Crown as required by law. If that does not happen, the statute
+     extends the trust over all property of the registrant, up to the amount of GST collected,
+     and required that proceeds from the sale of that property be remitted in priority to all
+     other security interests.
+
+
+  10. Subsections 222(1) to (3) of the Excise Tax Act, RSC 1985, c E-15, state:
+
+
+     Trust for amounts collected
+     222(1) Subject to subsection (1.1), every person who collects an amount as or on account
+     of tax under Division II is deemed, for all purposes and despite any security interest in
+     the amount, to hold the amount in trust for Her Majesty in right of Canada, separate and
+     apart from the property of the person and from property held by any secured creditor of
+     the person that, but for a security interest, would be property of the person, until the
+     amount is remitted to the Receiver General or withdrawn under subsection (2).
+
+
+     Amounts collected before bankruptcy
+     (1.1) Subsection (1) does not apply, at or after the time a person becomes a bankrupt
+     (within the meaning of the Bankruptcy and Insolvency Act), to any amounts that, before that
+     time, were collected or became collectible by the person as or on account of tax under
+     Division II.
+
+
+     Withdrawal from trust
+     (2) A person who holds tax or amounts in trust by reason of subsection (1) may withdraw
+     from the aggregate of the moneys so held in trust
+                                                                                   Page 5 of 11
+
+
+           (a) the amount of any input tax credit claimed by the person in a return under this
+           Division filed by the person in respect of a reporting period of the person, and
+           (b) any amount that may be deducted by the person in determining the net tax of
+           the person for a reporting period of the person,
+   as and when the return under this Division for the reporting period in which the input tax
+   credit is claimed or the deduction is made is filed with the Minister.
+
+
+   Extension of trust
+   (3) Despite any other provision of this Act (except subsection (4)), any other enactment of
+   Canada (except the Bankruptcy and Insolvency Act), any enactment of a province or any
+   other law, if at any time an amount deemed by subsection (1) to be held by a person in
+   trust for Her Majesty is not remitted to the Receiver General or withdrawn in the manner
+   and at the time provided under this Part, property of the person and property held by any
+   secured creditor of the person that, but for a security interest, would be property of the
+   person, equal in value to the amount so deemed to be held in trust, is deemed
+
+       (a) to be held, from the time the amount was collected by the person, in trust for Her
+       Majesty, separate and apart from the property of the person, whether or not the
+       property is subject to a security interest, and
+
+       (b) to form no part of the estate or property of the person from the time the amount
+       was collected, whether or not the property has in fact been kept separate and apart
+       from the estate or property of the person and whether or not the property is subject to
+       a security interest
+
+   and is property beneficially owned by Her Majesty in right of Canada despite any
+   security interest in the property or in the proceeds thereof and the proceeds of the
+   property shall be paid to the Receiver General in priority to all security interests.
+   [emphasis added]
+
+
+11. Similar legislation protects CRA’s payroll deemed trust claim, which the Receiver has
+   already paid pursuant to subsections 227(4) and (4.1) of the Income Tax Act, RSC 1985 c
+   1 (5th Supp):
+                                                                        Page 6 of 11
+
+
+
+
+Trust for moneys deducted
+(4) Every person who deducts or withholds an amount under this Act is deemed,
+notwithstanding any security interest (as defined in subsection 224(1.3)) in the
+amount so deducted or withheld, to hold the amount separate and apart from the
+property of the person and from property held by any secured creditor (as defined
+in subsection 224(1.3)) of that person that but for the security interest would be
+property of the person, in trust for Her Majesty and for payment to Her Majesty in
+the manner and at the time provided under this Act.
+Extension of trust
+(4.1) Notwithstanding any other provision of this Act, the Bankruptcy and
+Insolvency Act (except sections 81.1 and 81.2 of that Act), any other enactment of
+Canada, any enactment of a province or any other law, where at any time an
+amount deemed by subsection 227(4) to be held by a person in trust for Her
+Majesty is not paid to Her Majesty in the manner and at the time provided under
+this Act, property of the person and property held by any secured creditor (as
+defined in subsection 224(1.3)) of that person that but for a security interest (as
+defined in subsection 224(1.3)) would be property of the person, equal in value to
+the amount so deemed to be held in trust is deemed
+
+
+       (a) to be held, from the time the amount was deducted or withheld by the
+       person, separate and apart from the property of the person, in trust for
+       Her Majesty whether or not the property is subject to such a security
+       interest, and
+
+
+       (b) to form no part of the estate or property of the person from the time the
+       amount was so deducted or withheld, whether or not the property has in
+       fact been kept separate and apart from the estate or property of the person
+       and whether or not the property is subject to such a security interest
+                                                                                                Page 7 of 11
+
+
+                and is property beneficially owned by Her Majesty notwithstanding any security
+                interest in such property and in the proceeds thereof, and the proceeds of such
+                property shall be paid to the Receiver General in priority to all such security
+                interests.
+
+
+    12. CRA’s priority to the proceeds of sale of the assets of Cleo in respect of the GST deemed
+        trust is equivalent in terms of priority as that of the payroll deemed trust.
+
+
+    13. In Toronto-Dominion Bank v Canada, the Federal Court found, and the Federal Court of
+        Appeal confirmed, CRA’s super-priority over secured creditors for unremitted GST, even
+        without notice1.
+
+
+    14. Parliament’s intention in enacting subsections 222(1) and (3) of the Excise Tax Act was to
+        prioritize the deemed trust in respect of property that is also subject to a security interest,
+        regardless of when the security interest arose in relation to the time the GST was
+        collected. This flows from Parliament’s use of the phrase “despite any security interest in
+        the amount” in subsection 222(1) and (3).2
+
+    15. More recently, the Federal Court in Canada v Toronto-Dominion Bank also addressed the
+        CRA’s deemed trust powers under section 227 of the Income Tax Act and section 222 of
+        the Excise Tax Act,3 reinforcing the CRA’s ability to collect unremitted taxes by
+        asserting deemed trust over funds. It underscored the super-priority of CRA’s deemed
+        trust claims, which can override even secured or unsecured creditor claims if tax
+        obligations are unmet.
+
+    16. The deemed trust survives and applies in receivership proceedings until the debtor
+        becomes bankrupt (per s. 222(1.1) of the Excise Tax Act).
+
+
+
+
+1
+  Toronto-Dominion Bank v Canada, 2020 FCA 80, paras. 16, 33, 39-40, leave to appeal to SCC ref’d 2021 CanLII
+98077 (SCC).
+2
+  Idem, para. 33.
+3
+  Canada v Toronto-Dominion Bank, 2024 FC 441, paras. 61-62.
+                                                                                          Page 8 of 11
+
+
+      17. The Supreme Court of Canada in Canada v Callidus Capital Corporation confirmed that
+           a deemed trust is extinguished only upon bankruptcy, even if the secured creditor
+           received proceeds before the bankruptcy.4
+
+
+      18. Cleo is not bankrupt; therefore, the GST deemed trust remains operative.
+
+      19. Moreover, section 270 of the Excise Tax Act obliges receivers (both privately appointed
+           and court appointed) to obtain a clearance certificate from the Minister confirming
+           payment of all amounts payable for the current period and any previous period have been
+           paid (or that security for those amounts has been accepted by the Minister).
+
+      20. The Receivership Order imposes a stay of collection actions on the creditors of
+           CLEO. However, the stay of those creditor-initiated actions does not relieve the Receiver
+           of its statutory obligation to remit to the Receiver General proceeds from the sale of
+           Cleo’s assets as mandated by ss. 222(3) of the ETA (and ss. 227(4) of the ITA). The
+           Receivership Order specifically preserves the Receiver’s ability (and obligation) to take
+           steps to meet statutory obligations.
+
+      21. On that basis, the CRA is entitled to be paid by the Receiver its GST deemed trust
+           amount of $899,907.51 from the Sale Proceeds of the Respondent’s assets.
+
+Allocation of Receiver’s Charge and Receiver’s Borrowings Charge
+
+      22. The Minister seeks an Order allocating the Receiver’s Charge and Receiver’s Borrowings
+           Charge amongst the various assets comprising the Property such that any other net assets
+           of Cleo are exhausted prior to depleting the Sale Proceeds.
+
+      23. According to paragraph 21 of the First Report of the Receiver, the June 2025
+           Transactions generated approximately $2.1 million in sales proceeds (the Sale Proceeds).
+
+      24. The First Report of the Receiver indicates that the Receiver paid the court ordered
+           charges from the Sale Proceeds even while there were other lines of assets available. In
+
+
+4
+    Canada v Callidus Capital Corporation, 2018 SCC 47, para. 2.
+                                                                                  Page 9 of 11
+
+
+   paragraph 25, the Receiver indicates that they made the following payments (the Priority
+   Payments) from the Sale Proceeds:
+
+   a. $101,391 to the Company’s counsel, in full satisfaction of the amounts secured by the
+       Administration Charge;
+
+   b. $89,076 to the Proposal Trustee, in full satisfaction of the amounts secured by the
+       Administration Charge;
+
+   c. $25,968 to the Proposal Trustee’s counsel, in full satisfaction of the amounts secured
+       by the Administration Charge; and
+
+   d. $1,078,907 to uCapital, in repayment of all amounts borrowed under the Interim
+       Financing Facility, together with accrued interest and costs, as secured by the Interim
+       Lender’s Charge. For certainty, uCapital was repaid in full on June 9, 2025, and no
+       amounts remain outstanding under the Interim Financing Facility.
+
+25. The Priority Payments total $1,295,342, leaving approximately $804,658 in Sale
+   Proceeds unallocated.
+
+26. In addition to the Sale Proceeds, the Receiver also received $1,193,341 of Oil & Gas
+   Revenue and $43,501 of other income (the Other Proceeds).
+
+27. As of the First Report of the Receiver, the Receiver had an ending cash balance of
+   $990,788. After accounting for the Sale Proceeds not explicitly allocated, the Receiver
+   retained $186,130 of the Other Proceeds.
+
+28. As of the Second Report of the Receiver’s, the Receiver retained an ending cash balance
+   of $791,396 as of October 31, 2025.
+
+29. If the Revised RVO transaction closes, the Receiver will also have the Purchase Price
+   paid by the purchaser (the Purchase Proceeds), the amount of which is currently in the
+   confidential Appendix C to the First Report of the Receiver.
+                                                                                       Page 10 of 11
+
+
+     30. The Receiver’s choice to make the Priority Payments from the Sale Proceeds, rather than
+        exhausting the Other Proceeds first and then turning to the Purchase Proceeds limits the
+        amount available to satisfy the CRA’s GST deemed trust claim, while increasing the
+        amount that will be available to transfer to ResidualCo. for the benefit of the unsecured
+        creditors. Given the nature of CRA’s GST deemed trust claim and its priority over
+        unsecured creditors, the Minister requests that this Court allocate the Priority Payments to
+        be made first from the Other Proceeds and then from the Purchase Proceeds before
+        turning to the Sale Proceeds such that the Minister’s GST deemed trust is remitted to the
+        Receiver General as required by law prior to any funds being transferred to ResidualCo.
+
+ PARTI V – CONCLUSION
+
+     31. The Minister respectfully requests that this Court:
+
+        (a)     Order that the Receiver’s Charge and Receiver’s Borrowings Charge shall be
+                reallocated first to the Other Proceeds, second to the Purchase Proceeds and then
+                to the Sale Proceeds; and
+
+        (b)     Order that the Receiver pay to the Receiver General of Canada $899,907.51, in
+                satisfaction of Cleo’s outstanding unremitted GST collected by Cleo and held in
+                trust for the Minister, prior to the transfer of any assets of Cleo to ResidualCo.
+
+ ALL OF WHICH IS RESPECTFULLY SUBMITTED THIS 7TH DAY OF NOVEMBER,
+ 2025.
+
+                                               Per:
+
+
+
+
+Estimated time for argument: 30 minutes         ATTORNEY GENERAL OF CANADA
+                                                Per: Amy Reperto and Tristen Cones
+                                                Department of Justice Canada
+                                                Prairie Regional Office (Calgary)
+                                                444 – 7th Ave. SW, 10th Floor
+                                                Calgary, Alberta, T2P 0X8
+                                                                           Page 11 of 11
+
+
+                       TABLE OF AUTHORITIES
+
+
+
+1.   Excise Tax Act, RSC 1985, c E-15., ss. 222(1), (1.1), (2), (3), 270
+
+2.   Income Tax Act, RSC 1985 c 1 (5th Supp), s. 227(4)
+
+3.   Toronto-Dominion Bank v Canada, 2020 FCA 80
+
+4.   Canada v Toronto-Dominion Bank, 2024 FC 441
+
+5.   Canada v Callidus Capital Corporation, 2018 SCC 47
+

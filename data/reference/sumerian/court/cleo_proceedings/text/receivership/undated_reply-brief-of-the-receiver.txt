@@ -1,0 +1,541 @@
+COURT / ESTATE FILE NUMBER     2501-09028
+
+COURT                          COURT OF KING’S BENCH OF ALBERTA
+
+JUDICIAL CENTRE                CALGARY
+                                                                     FILED
+                               IN THE MATTER OF THE BANKRUPTCY          AND
+                                                                DIGITALLY
+                               INSOLVENCY ACT, RSC 1985, C B-3, AS AMENDED
+                                                             2501 09028
+                               AND IN THE MATTER OF THE RECEIVERSHIP
+                                                          Sep 29, 2026OF
+                               2755857 ALBERTA LTD.           3:30 PM
+
+
+APPLICANT                      UCAPITAL – ULOAN SOLUTIONS INC.
+
+RESPONDENT                     2755857 ALBERTA LTD.
+
+DOCUMENT                       REPLY BRIEF OF THE RECEIVER
+
+ADDRESS FOR SERVICE AND        MILLER THOMSON LLP
+CONTACT INFORMATION OF PARTY   Barristers and Solicitors
+FILING THIS DOCUMENT           525-8th Avenue SW, 43rd Floor
+                               Calgary, AB, Canada T2P 1G1
+
+                               Attention:  James W. Reid / Pavin Takhar
+                               Telephone: 403-298-2418 / 403-298-2432
+                               Email:     jwreid@millerthomson.com/
+                                          ptakhar@millerthomson.com
+                               File No.   0289127.0002
+
+
+
+
+95604996.2
+                                                     TABLE OF CONTENTS
+
+I.     INTRODUCTION .................................................................................................................1
+II.    FACTS ................................................................................................................................2
+III.   ISSUE .................................................................................................................................3
+IV. LAW AND ARGUMENT.......................................................................................................3
+       A.     The CNRL Claim Should Not Be Allowed .....................................................................3
+V.     CONCLUSION ..................................................................................................................10
+TABLE OF AUTHORITIES……………………………………………………………………..……..11
+
+
+
+
+95604996.2
+                                                -1-
+
+
+I.      INTRODUCTION
+
+1.      This Reply Brief of Law is submitted by Alvarez & Marsal Canada Inc. (“A&M”), in its
+        capacity as Court-appointed receiver and manager (the “Receiver”) of the undertakings,
+        properties and assets of 2755857 Alberta Ltd. (“ResidualCo”) is filed in response to the
+        Application of Canadian Natural Resources Limited (“CNRL”) filed September 23, 2026
+        (the “Application”) and CNRL’s Bench Brief of Law filed September 23, 2026 (the “CNRL
+        Brief”).
+
+2.      CNRL asks the Court to excuse its failure to comply with a Court-ordered Claims
+        Procedure (defined herein) and permit a claim filed more than five months after the Claims
+        Bar Date (defined herein).
+
+3.      This is not a case of an unsophisticated creditor who lacked notice or inadvertently missed
+        a deadline. CNRL is one of Canada's largest and most sophisticated commercial entities.
+        At all times throughout the receivership proceedings it was represented by counsel and
+        actively participated in matters relating to cure costs. CNRL ultimately negotiated directly
+        with 269 Corp (defined herein) regarding those cure costs and pursued a consent
+        judgment against 269 Corp. for payment of those cure costs. In doing so, CNRL elected
+        not to monitor the receivership proceedings and it did not take any steps to preserve a
+        contingent claim or make a placeholder claim through the Claims Procedure.
+
+4.      CNRL's failure to make a contingent or placeholder claim was not the product of mistake
+        or inadvertence. Rather, it was the result of a deliberate commercial decision to pursue
+        recovery from 269 Corp. instead of preserving its rights through the Court-approved
+        Claims Procedure.
+
+5.      Having pursued that strategy and to date having failed to recover from 269 Corp., which
+        is an operating, going-concern entity, CNRL now seeks to shift the consequences of its
+        decision onto the receivership estate and the stakeholders who complied with the Claims
+        Procedure Order. The law does not support such relief.
+
+6.      The equitable considerations articulated in the jurisprudence overwhelmingly favour
+        finality, certainty, and the enforcement of Court-ordered claims processes.
+
+7.      The Receiver has, in accordance with the Claims Procedure Order, provided a Notice of
+        Disallowance regarding the CNRL claim, as it was submitted past the Claims Bar Date
+        and the claim of CNRL is with 269 Corp., not ResidualCo or its estate.
+95604996.2
+                                                        -2-
+
+
+II.      FACTS
+
+8.       The factual background is set out in the Fourth Report of the Receiver, dated September
+         8, 2026 (the “Fourth Report”) and the Supplemental Report to the Fourth Report of the
+         Receiver, dated September 15, 2026 (the “Supplemental Report together with the Fourth
+         Report, the “Reports”).
+
+9.       Any capitalized terms otherwise not defined herein shall have the meaning ascribed to
+         them in the Fourth Report. A summary of the relevant facts is described below.
+
+10.      On June 2, 2025, the Court of King’s Bench of Alberta granted a receivership order
+         whereby, effective June 3, 2025, the Receiver was appointed receiver and manager of
+         CLEO Energy Corp. (“Cleo”). 1
+
+11.      On November 14, 2025, the Receiver obtained an Order authorizing and approving the
+         Receiver to complete the Transaction contemplated by the SPA and granting the Revised
+         RVO in respect of the Transaction. 2 The Application for the Revised RVO was served on
+         CNRL and its counsel on November 5, 2025. 3
+
+12.      On February 10, 2026, the Receiver obtained an Order (the “Claims Procedure Order”)
+         approving a claims procedure to determine the claims of creditors and establishing a
+         claims bar date to prove such claims (the “Claims Procedure”). The Application for
+         Claims Procedure Order, which included a draft form of the claims package was served
+         on CNRL and its counsel on February 2, 2026, and February 3, 2026. 4
+
+13.      On February 12, 2026, the Receiver commenced the Claims Procedure by sending notice
+         to all Claimants. 5 The Receiver did not send a Claim Package to CNRL as they were not
+         a Known Claimant pursuant to a Settlement Agreement entered into between CNRL and
+         the purchaser of Cleo, 2698902 Alberta Corp. (the “269 Corp.”).
+
+14.      The Claims Bar Date under the Claims Procedure was 5:00 pm on March 31, 2026. 6
+
+
+
+
+1 Fourth Report at para 1.
+2 Fourth Report at para 5.
+3 Affidavit of Marica Ceko, sworn November 12, 2025 at paras 3 and 5.
+4 Affidavit of Marica Cekos, sworn February 5, 2025 at paras 2 and 4.
+5 Fourth Report at the Receiver at para 33.
+6 Claims Procedure Order at para 2(f).
+
+
+95604996.2
+                                                        -3-
+
+
+15.      On September 11, 2026, CNRL submitted a proof of claim to the Receiver (the “CNRL
+         Claim”). 7
+
+16.      CNRL did not submit a proof of claim to the Receiver prior to the Claims Bar Date because
+         the Pre-Filing Balance was to be satisfied by 269 Corp. rather than through the Claims
+         Procedure. 8
+
+17.      CNRL informed the Receiver that it submitted the CNRL Claim 164 days after the Claims
+         Bar Date because 269 Corp. failed to comply with its obligations under both the Settlement
+         Agreement and the Consent Order, and CNRL’s efforts at enforcing the Settlement
+         Agreement to date have been unsuccessful. 9
+
+18.      On September 11, 2026, the Receiver issued a notice of disallowance to CNRL
+         (the “Notice of Disallowance”). 10 The Notice of Disallowance disallowed the CNRL Claim
+         on the basis that: (i) it was submitted to the Receiver on September 11, 2026, which is
+         164 days after the Claims Bar Date; and (ii) it relates to amounts owed to CNRL by 269
+         Corp., and not ResidualCo, pursuant to the Settlement Agreement and the Consent Order.
+
+19.      On September 17, 2026, CNRL served the Receiver with a Notice of Dispute to the Notice
+         of Disallowance. 11
+
+III.     ISSUE
+
+20.      The issue to be addressed is whether the CNRL Claim should be admitted as a valid claim
+         in the Claims Procedure notwithstanding it was filed after the Claims Bar Date.
+
+IV.      LAW AND ARGUMENT
+
+A.       The CNRL Claim Should Not Be Allowed
+
+21.      The Court possesses discretion to permit a late-filed claim. However, that discretion is
+         equitable in nature and must be exercised judicially having regard to the circumstances of
+         the case.
+
+
+
+
+7 Supplement to the Fourth Report at para 7.
+8 Supplement to the Fourth Report at para 7a.
+9 Supplement to the Fourth Report at para 9.
+10 Supplement to the Fourth Report at para 10 and Appendix C.
+11 Affidavit of Jelena Molnar, sworn September 22, 2026 (“Molnar Affidavit”) at para 24 and Exhibit R.
+
+95604996.2
+                                                     -4-
+
+
+22.     In Blue Range, the Court of Appeal of Alberta identified the relevant considerations for
+        admitting a late filed claim, including:
+
+        (a)     was the delay caused by inadvertence and if so, did the claimant act in good faith;
+
+        (b)     what is the effect of permitting the claim in terms of the existence and impact of
+                any relevant prejudice caused by the delay;
+
+        (c)     if relevant prejudice is found, can it be alleviated by attaching appropriate
+                conditions to an order permitting late filing; and
+
+        (d)     if relevant prejudice is found which cannot be alleviated, are there any other
+                considerations which may nonetheless warrant an order permitting late filing. 12
+
+23.     The Court’s discretion must also be informed by the fundamental insolvency principles of
+        certainty, finality, and the orderly administration of estates. Court-approved claims
+        procedures are not merely administrative conveniences. They are essential tools that
+        permit receivers, creditors, regulators, and other stakeholders to ascertain liabilities,
+        negotiate resolutions, and distribute estate assets with confidence and transparency to all
+        creditors and stakeholders.
+
+24.     If sophisticated creditors are permitted to disregard claims bar dates and seek relief only
+        after alternative recovery efforts prove unsuccessful, the integrity of claims procedures in
+        insolvency proceedings would be materially undermined.
+
+Inadvertence and Good Faith
+
+25.     When reviewing the first Blue Range criterion, “inadvertent” includes carelessness,
+        negligence, accident, and is unintentional. It does not support a creditor “lying in the
+        weeds” and seeking to secure some advantage by late filing. 13
+
+26.     CNRL characterizes its failure to file the CNRL Claim as inadvertent, however the
+        evidence demonstrates otherwise.
+
+27.     CNRL’s failure to file its CNRL Claim before the Claims Bar Date was a deliberate strategic
+        decision rather than inadvertence. As recognized in SemCanada, a creditor who
+        knowingly elects to pursue an alternative recovery strategy cannot later characterize that
+
+
+12 Re Blue Range Resource Corp, 2000 ABCA 285 (“Blue Range”) at para 41.
+13 Re UBG Builders Inc, 2016 ABQB 472 (“UBG”) at para 26.
+
+95604996.2
+                                                   -5-
+
+
+         decision as inadvertence merely because the strategy failed. 14 CNRL pursued recovery
+         from 269 Corp. for all cure costs related to Cleo. 15
+
+28.      Similarly, the Court in UBG declined to permit a late claim when the creditor knew of its
+         claim but did not file within the claim period as it instead took a different strategic step.
+         This Court in UBG found that the creditor’s failure to file a contingent claim might have
+         been careless or negligent; but nonetheless, the failure was not inadvertent or
+         unintentional. 16 This Court found that if the creditor knew or could have known that it may
+         not be able to make arrangements with the new purchaser and the creditor still did not file
+         a proof of claim, the failure could not have been unintentional or inadvertent. 17
+
+29.      In UBG, when the creditor was unable to make a deal with the new purchaser, the creditor
+         later sought to file a claim in the insolvency proceedings. The Monitor opposed the
+         creditor’s position and argued that the creditor took a calculated risk. 18 Similar to situation
+         in UBG, CNRL elected to pursue a business arrangement with 269 Corp. It’s arrangement
+         with 269 Corp. has not proved successful to date and it is now pivoting in its strategy by
+         filing a late claim.
+
+30.      CNRL made a strategic choice that recovery from 269 Corp. was preferable to
+         participating in the Claims Procedure. Further, it made a bargain with 269 Corp. that
+         satisfied the Pre-Filing Balance for the purposes of the Claims Procedure. That strategy
+         may have appeared commercially sensible at the time given that CNRL was to receive
+         100% of its claim in a shorter period, and there was uncertainty in the timing and amount
+         of distributions for cure costs recoveries at the time of entering into the Settlement
+         Agreement. The fact that the strategy to date has been unsuccessful does not transform
+         that choice into inadvertence.
+
+31.      The equitable relief recognized in Blue Range is intended to address genuine mistakes,
+         oversights, and circumstances beyond a creditor's control. It is not intended to relieve
+         sophisticated parties from the consequences of deliberate commercial decisions.
+
+32.      CNRL advises that the prospect of recovery as against 269 Corp. is remote. 19 It is inferred
+         that this is why CNRL now files the CNRL Claim. CNRL now knows if it had submitted a
+
+14 Re SemCanada Crude Company (Celtic Exploration Ltd. #2), 2012 ABQB 489 (“SemCanada”) para 52.
+15 Molnar Affidavit at paras 12-14.
+16 UBG at para 40.
+17 UBG at para 44.
+18 UBG at para 31.
+19 Molnar Affidavit at paras 18 to 20.
+
+95604996.2
+                                                     -6-
+
+
+         claim within the time period established by the Claims Bar Date it may have received 100%
+         of its claim. This situation is like BA Energy where a creditor changed the nature of its
+         claim after the Claims Bar Date when it realized it could do better as an unsecured
+         creditor. 20 This Court in BA Energy again found this hindsight outcome cannot be
+         considered an inadvertence.
+
+33.      CNRL acknowledges that it was no longer actively monitoring developments in the
+         Receivership Proceedings after entering the Settlement Agreement. 21
+
+34.      CNRL was still served with the application for Claims Procedure Order and the filed form
+         of Order, which included a creditor package. CNRL’s choice to not participle in the Claims
+         Procedure is not inadvertence, it was a business decision.
+
+35.      Notwithstanding that the Receiver may have known about the Pre-Filing Balance of CNRL
+         prior to the Revised RVO, that claim was dealt with by the Settlement Agreement. The
+         Receiver had no knowledge that CNRL wished to participate in the Claims Procedure. It
+         is normal course in insolvency proceedings that a party will submit a placeholder claim
+         giving notice of its contingent or unknown claim. The failure of CNRL to do the same
+         cannot be excused.
+
+36.      CNRL submits that the Receiver has been aware of the arrears due and owing and cannot
+         be considered to have been lying in the weeds. This is not correct. The Receiver knew
+         that CNRL had made an arrangement directly with 269 Corp. to satisfy the Pre-Filing
+         Balance. The Receiver then worked extensively with the other creditors as there was no
+         reason for the Receiver to believe that CNRL had any further interest in the receivership
+         estate.
+
+37.      The actions of CNRL cannot be considered an inadvertence. Accordingly, the first
+         discretionary factor weighs against the Court overturning the Notice of Disallowance and
+         accepting the late filed CNRL Claim.
+
+Prejudice
+
+38.      The timing of the late claim with respect to the stage in the proceedings is a key element
+         in determining whether any prejudice will be suffered by parties. 22
+
+
+20 Re BA Energy Inc, 2010 ABQB 507 at para 31.
+21 Molnar Affidavit at para 15.
+22 Re BA Energy Inc, 2010 ABQB 507 at para 49, Blue Range at para 36.
+
+95604996.2
+                                                         -7-
+
+
+39.      Materiality of a claim 23 and making stakeholders aware of any late claims are also factors
+         a Court will consider on whether prejudice will be found. 24
+
+40.      Consideration of prejudice is not restricted to prejudice to other creditors, but also requires
+         consideration of prejudice to the debtor company or other interested parties. 25
+
+41.      There is prejudice to the Receiver, ResidualCo, the AER and the Municipalities.
+
+42.      On the eve of an Order seeking, among other things, a final distribution to creditors,
+         approval of the Final Statement of Receipts and Disbursements, and discharge of the
+         Receiver, CNRL filed the CNRL Claim. This late filed claim arises after months of difficult
+         negotiations between the Receiver, the AER and the Municipalities regarding priority and
+         entitlements to the remaining funds in the estate. 26 There was finality reached between
+         these priority creditors for a distribution.
+
+43.      The British Columbia Supreme Court in West Bay found prejudice is not inconsequential
+         when it may disrupt delicate negotiations which had been undertaken, and the matter was
+         at a long final end but for the late claim.
+
+                    [35]    There is, in my view, prejudice in the sense that this has been a long
+                    process and we are finally at the point, but for this claim, where the process may
+                    be brought to an end. So there is an issue of delay. In addition, this is a disputed
+                    claim and the very substantial claims of the owners were settled on the basis of
+                    representations with respect to the financial state of affairs as they existed. Dealing
+                    with this claim would change that state of affairs. This is a claim in the order of
+                    possibly $100,000, I am advised. That is before one looks at the professional fees
+                    in relation to dealing with it, and while that may be de minimus in the sense of the
+                    overall magnitude of all of the claims put together, it is not inconsequential in the
+                    sense of the delicate negotiations that have gone on to bring us to the place where
+                    we are today with the settlement of the other claims.
+
+                    [36]    So, in my view, there is prejudice, and it is not a prejudice that I can see
+                    any reasonable way of alleviating. In addition, this is delay that is substantial. I may
+                    have had a very different view with respect to the exercise of discretion if we were
+                    dealing with this matter last September. That would have been before the
+                    settlement of the claims and very shortly after the situation had arisen, but we are
+
+
+23 Blue Range, supra note at para 37.
+24 BR at para 39.
+25 Re BA Energy Inc, 2010 ABQB 507 at para 49, citing Blue Range Resources at para 36.
+26 Fourth Report at para 43.
+
+95604996.2
+                                                       -8-
+
+
+                 now many months down the river and so I have concluded that I am not going to
+                 exercise my discretion to permit a late filing with respect to this claim. 27
+
+44.     In respect of materiality, if accepted, the CNRL Claim would reduce the payments to the
+        AER and Municipalities by 24%. The fact that creditors may receive less money if a late
+        claim is accepted in and of itself is not prejudice, 28 however given the CNRL Claim is so
+        large in comparison to the remaining estate funds available for distribution, these
+        represent such a change in the bargain developed in the settlement among the AER and
+        the Municipalities that the late CNRL Claim is material and prejudicial. Should the CNRL
+        Claim be allowed, it is unclear whether there will still be an agreed upon distribution, which
+        may extend these receivership proceedings further.
+
+45.     When assessing prejudice, Court look to the question of whether a creditor by reason of
+        the late filings lose a realistic opportunity to do anything that they otherwise might have
+        done. 29 The settlement was reached between the AER and Municipalities without the
+        knowledge of CNRL’s claim. It is highly possible that the significant reduction in funds
+        would have resulted in an entirely different arrangement. This is not similar to Blue Range
+        where creditors were fully informed about the potential for late filed claims. 30 There was
+        no similar understanding with regard to the CNRL Claim.
+
+46.     The prejudice factor weighs against the Court overturning the Notice of Disallowance and
+        accepting the late filed CNRL Claim.
+
+The Prejudice Cannot Be Alleviated by Conditions on Any Late Filing Order
+
+47.     The prejudice described above cannot be alleviated by applying terms to any order
+        permitting the acceptance of the late filed claim.
+
+48.     Significant time, costs and efforts have been undertaken to administer the Claims
+        Procedure and ultimately arrive at the proposed distribution of remaining estate funds. The
+        Receiver, the AER and the Municipalities had extensive negotiations over several months
+        to get to an agreement for the proposed distribution.
+
+49.     The effect of any allowance of the CNRL Claim is that there is uncertainty in the
+        Receivership Proceedings, including whether or not there is agreement on any final
+
+
+27 Re West Bay Sonship Yachts Ltd., 2007 BCSC 1553 at paras 34-35.
+28 Blue Range Resource Corp at para 40,
+29 Blue Range Resource Corp. 2000 ABCA 285 (“Blue Range or BR”), at para 40.
+30 Blue Range at para 40.
+
+95604996.2
+                                                 -9-
+
+
+        distribution and thus whether the Receiver may be discharged. This cannot be dealt with
+        by any Order overturning the Notice of Disallowance.
+
+Other Considerations
+
+50.     It is neither fair nor equitable to set aside the Notice of Disallowance and approve the late
+        filed claim of CNRL.
+
+51.     To allow a creditor with full knowledge of the Claims Procedure to ignore the Claims Bar
+        Date and file a significant, late claim, disrupts a negotiated settlement and may
+        unnecessarily extend these Receivership Proceedings.
+
+52.     CNRL has no good or satisfactory reason to offer as to why it failed to file a contingent
+        claim except that it was no longer monitoring the Receivership Proceedings.
+
+53.     The policy reasons that emphasize the need for certainty and finality in an approved claims
+        procedure and fair treatment to all creditors outweigh the prejudice to CNRL of disallowing
+        a late claim.
+
+The Settlement Agreement and Consent Order released ResidualCo
+
+54.     CNRL argues that neither the Settlement Agreement nor the Consent Order expressly
+        released ResidualCo. That submission misses the point.
+
+55.     The Receiver does not contend that the Settlement Agreement contains an express
+        release of ResidualCo. Rather, the significance of the Settlement Agreement and the
+        Consent Order is that they demonstrate CNRL’s election to pursue the collection of the
+        Pre-Filing Balance from 269 Corp instead of participating in the Claims Procedure.
+
+56.     CNRL contends that “cure costs” must be paid current by the purchaser of contractual
+        assignment. 31 CNRL negotiated a direct contractual obligation from 269 Corp. to satisfy
+        the Pre-Filing Balance, which aligns with the requirement of a purchaser to pay cure costs.
+        CNRL negotiated this with 269 Corp. It is unclear to the Receiver how this commercially
+        transferred liability would jointly remain with ResidualCo.
+
+
+
+
+31 CNRL Brief at para 29.
+
+95604996.2
+                                                -10-
+
+
+57.     In this case the payment of cure costs to facilitate the assignment of a contract was an
+        obligation taken on by 269 Corp. The liability did not transfer to ResidualCo. If there is an
+        agreed assignment of the obligation, then the claim of CNRL is with 269 Corp.
+
+58.     The converse would place CNRL in a materially better position than other creditors. Under
+        CNRL’s approach, it would retain the benefit of a direct contractual payment obligation
+        from 269 Corp. and still preserve a full claim against the ResidualCo estate for the same
+        indebtedness, as if the estate is a guarantor of the arrangement between CNRL and 269
+        Corp. That would afford CNRL multiple avenues of recovery unavailable to other creditors
+        and effectively allow CNRL to improve its position through private arrangements
+        negotiated without the Receiver being party.
+
+59.     CNRL seeks to preserve multiple recovery sources for the same debt, while other creditors
+        are required to look solely to the Claims Procedure and the ResidualCo estate. Permitting
+        this would undermine the fairness, finality, and certainty that the Claims Procedure Order.
+
+60.     The Settlement Agreement and Consent Order may not contain an express release of
+        ResidualCo for the CNRL Claim, however, by the nature of the agreements they act as a
+        release of ResidualCo. The CNRL Claim is not with ResidualCo but is with 269 Corp.
+
+V.      CONCLUSION
+
+61.     The Receiver requests that this Honourable Court dismiss the Application to overturn the
+        Notice of Disallowance and confirm the late claim filed by CNRL is barred in accordance
+        with the Claims Bar Date established by the Claims Procedure Order.
+
+
+
+
+95604996.2
+                                   -11-
+
+
+ALL OF WHICH IS RESPECTFULLY SUBMITTED THIS 25th DAY OF SEPTEMBER 2026.
+
+
+                                          MILLER THOMSON LLP
+
+
+
+
+                                          Per:
+
+
+
+
+                                                 James W. Reid / Pavin Takhar
+                                                 Counsel for the Respondent,
+                                                 Alvarez & Marsal Canada Inc., in
+                                                 its capacity as Receiver of
+                                                 2755857 Alberta Ltd. and not in its
+                                                 personal or corporate capacity
+
+
+
+
+95604996.2
+                                        -12-
+
+
+                             TABLE OF AUTHORITIES
+
+ Tab No.     Authority
+
+     1.      Re Blue Range Resource Corp, 2000 ABCA 285
+
+     2.      Re UBG Builders Inc, 2016 ABQB 472
+
+     3.      Re SemCanada Crude Company (Celtic Exploration Ltd. #2), 2012 ABQB 489
+
+     4.      Re BA Energy Inc, 2010 ABQB 507
+
+     5.      Re West Bay Sonship Yachts Ltd., 2007 BCSC 1553
+
+
+
+
+95604996.2
+

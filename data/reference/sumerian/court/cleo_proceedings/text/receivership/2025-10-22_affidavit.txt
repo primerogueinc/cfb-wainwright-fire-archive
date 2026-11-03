@@ -1,0 +1,2441 @@
+                                                                                                           001
+
+
+
+            COURT FILE NUMBER            2501-09028
+
+            COURT                        COURT OF KING'S BENCH OF ALBERTA
+
+            JUDICIAL CENTRE              CALGARY
+                                                                                                FILED
+                                                                                              DIGITALLY
+                                         IN THE MATTER OF THE RECEIVERSHIP OF
+                                         CLEO ENERGY CORP.                    2501 09028
+                                                                                            Oct 22, 2025
+            APPLICANT                    UCAPIT AL - ULOAN SOLUTIONS INC.                        1:42 PM
+
+
+            RESPONDENT                   CLEO ENERGY CORP.
+
+            DOCUMENT                     AFFIDAVIT
+
+            ADDRESS FOR                  Alberta Justice, Legal Services Division
+            SERVICE AND                  Suite 1710, 639 - 5th Avenue SW
+            CONTACT                      Calgary, Alberta T2P 0M9
+            INFORMATION OF
+            PARTY FILING THIS            Attention: Melissa N. Burkett
+            DOCUMENT                     Telephone: (403) 297-2001
+                                         Facsimile: (403) 662-3824
+                                         Email: mel issa.burkett@gov.ab.ca
+
+
+
+                                        AFFIDAVIT OF TRACY W ADSON
+                                             Sworn on October 22, 2025
+
+                I, Tracy Wadson, of the City of Edmonton, in the Province of Alberta, MAKE OATH
+           AND SWEAR THAT:
+
+           I.     I am the Executive Director, Royalty Operations, with the Government of Alberta,
+           Department of Energy and Minerals. I have personal knowledge of the facts and matters in this
+           Affidavit, except those made on information and belief, in which case I believe them to be true.
+
+           2.      In my role as Executive Director, Royalty Operations, I am responsible for management
+           of the leasing of Alberta Crown petroleum and natural gas ("Crown PNG") mineral rights,
+           including administration of the rental and royalty collection processes for Alberta Crown mineral
+           leases.
+
+           Public Offering of PNG rights
+
+           3.     The Crown in right of Alberta (the "Alberta Crown") owns 81 % of the province's
+           mineral rights. The Minister of Energy and Minerals (through the Alberta Department of Energy
+
+
+                                                                                                     Page I of5
+
+
+Classification: Protected A
+                                                                                                             002
+
+
+
+           and Minerals ("Alberta Energy")) administers, manages, and regulates these resources on
+           behalf of the citizens of the Province.
+
+           4.     The Alberta Crown no longer develops its own petroleum and natural gas ("PNG")
+           minerals. Instead, industry develops public PNG minerals.
+
+           5.      The Alberta Crown offers its Crown PNG mineral rights primarily through public
+           offering: industry can bid for Crown PNG mineral rights. Alberta Energy issues a PNG Lease (a
+           "Mineral Lease") to the successful bidder.
+
+           6.      A Mineral Lease grants the lessee the right to drill for, and recover, Crown PNG within
+           the leased area. However, a Mineral Lease does not grant mineral ownership to the lessee; the
+           Alberta Crown remains the owner of the Crown PNG. A sample Mineral Lease is attached as
+           Exhibit" A".
+
+           Crown Liabilities
+
+           7.      Crown PNG minerals are publicly owned and, therefore, the lessee must pay for each unit
+           produced, whether oil or natural gas. This payment is called a "royalty". A royalty is not a tax; it
+           is a payment to the public for the use of its minerals.
+
+           8.    Mineral Leases for Crown PNG minerals identify two lessee obligations to the Alberta
+           Crown ("Crown Liabilities"):
+
+                   (a)        An ongoing obligation to pay royalties to the Alberta Crown for all minerals
+                              produced; and
+
+                   (b)        an ongoing obligation to pay rent for the right to win, work and recover minerals
+                              on Alberta Crown land.
+
+           Collection of Crown Liabilities in Insolvency Proceedings
+
+           9.     The use of Crown PNG minerals is regulated by the Mines and Minerals Act, RSA 2000,
+           c M-17 (the "Act"). Under s. 20 of the Act, all lessees are jointly and severally liable for the
+           debts accrued under a Mineral Lease. If multiple lessees are listed alongside an insolvent lessee,
+           Alberta Energy can collect the Crown Liabilities from solvent co-lessees.
+
+           I 0.    In response to unpaid royalties, Alberta Energy sends a leaseholder default letter
+           ("Default Letter") that outlines the remedies and actions that it may pursue against a delinquent
+           lessee. A sample of Alberta Energy's standard Default Letter is attached as Exhibit "B".
+
+            I I.    A separate but similar process and letter exists for rental arrears.
+
+            12.    Alberta Energy does not pursue remedial action against assets protected by an insolvency
+           stay of proceedings, specifically, the insolvent's lease interest.
+
+
+                                                                                                        Page 2 of5
+
+
+Classification: Protected A
+                                                                                                                    003
+
+
+
+            13.    If, the insolvent lessee holds a 100% lease interest, the stay of proceedings prevents any
+           remedial action. In this circumstance, Alberta Energy awaits completion of a sale transaction
+           (usually an asset sale of the insolvent's Mineral Leases).
+
+            14.    Upon sale of an insolvent's Mineral Leases (in an asset sale, not a share purchase
+           arrangement), the receiver or trustee requests that Alberta Energy transfer those Mineral Leases
+           to the name of the purchaser.
+
+           15.    Under s. 18(2) of the Act, and, in particular, s. 5( 1)(g) of the Crm11n Minerals
+           Registration Regulation, AR 264/1997 (the "Regulation"), the Minister (through Alberta
+           Energy) is authorized to refuse the transfer of a Crown agreement.
+
+           16.     Alberta Energy requires payment of cure costs (i.e., the Crown Liabilities - the monetary
+           defaults under the Mineral Lease) before it will transfer Mineral Leases to the purchaser (the
+           "Transfer Requirement").
+
+           17.     Alberta Energy routinely enforces the Transfer Requirement in insolvency asset
+           transactions and, based on my experience, both industry and receivers/trustees are aware of the
+           Transfer Requirement.
+
+            18.     For example, the following information is publicly available:
+
+                       a.     Guide for          It is the transferor's responsibility to disclose    Exhibit "C"
+                              Transfers          [outstanding agreement debts] to any potential
+                                                 buyer smce any debts associated with the
+                                                 agreement are transferred along with agreement
+                                                 ownership .
+                                                 . . . the agreement must be in good standing for a
+                                                 [transfer] to proceed.
+
+                       b.     Indebtedness       If a company is in debt to the Crown, [Energy]       Exhibit "D"
+                              Guide              may ... [remove] a company's ability to transfer
+                                                 an agreement.
+
+                       C.     IL 2024-32:        [Energy] will process agreement transfer Exhibit "E"
+                              Obligations of     requests only when agreements are in good
+                              Receiver to        standing... [Energy] requires full payment of
+                              Crown during       any rental, royalty, and debt obligations prior to
+                              Insolvencies       approving transfer of mineral agreements.
+
+                       d.     IL 2024-11: ETS    Remedies [for Crown Liabilities] may                 Exhibit "F"
+                              Permission         include ... the suspension of a company's ability
+                              Suspension for     to ... transfer mineral agreements.
+                              Leaseholder Debt
+
+
+
+
+                                                                                                             Page 3 ofS
+
+
+Classification: Protected A
+                                                                                                         004
+
+
+
+           Assumption of Cure Costs
+
+           19.     In my experience, the Transfer Requirement is often reflected in the terms of asset
+           purchase transactions which, following approval from the Court, are submitted to Alberta Energy
+           for review and transfer upon payment of Crown Liabilities.
+
+           20.     The Revitalize Energy Inc. receivership is a recent example where a Sale Approval and
+           Vesting Order was granted transferring the debtor's assets to the purchaser (the "Baytex
+           SAVO"). A Mineral Lease was one of the assets transferred. Under the asset purchase agreement
+           approved by the Court (the "Baytex APA"), the Crown Liabilities (including cure costs) were
+           transferred to the purchaser. Excerpts of the Baytex SAVO and the redacted Baytex AP A are
+           attached as Exhibits "G" and "H".
+
+           21.    In my experience, both the Baytex SA VO and the Baytex APA employed the standard
+           approach to addressing Crown Liabilities.
+
+           22.     In the Alphabow Energy Ltd. ("Alphabow") insolvency, the Court approved a reverse
+           vesting order for the purchase of all of Alphabow's outstanding shares. That reverse vesting
+           order did not assign Crown Liabilities to "ResidualCo." for settlement by the transaction
+           proceeds, which would effectively extinguish those Crown Liabilities. Instead, Alphabow retains
+           responsibility for Crown Liabilities under the retained Mineral Leases, with specific inclusion of
+           cure costs.
+
+           23.    Excerpts of the redacted Alphabow Subscription Agreement and the Alphabow RVO are
+           attached as Exhibits "I" and "J".
+
+           Alberta Energy's concerns regarding the proposed CLEO Energy transaction
+
+           24.     To date, CLEO Energy Ltd.'s ("CLEO Energy") Crown Liabilities total $240,000.00.
+           This consists of $170,000.00 in royalties and $70,000 in unpaid rental payments, all of which
+           derive from CLEO's Mineral Leases.
+
+           25.      It is my understanding that $150,000 of the Crown Liabilities consists of pre-filing debt
+           (i.e., pre-receivership). I am advised by Emmett Larsen, solicitor with the Alberta Justice Energy
+           Law Team, and do believe, that the Receiver has confirmed that the Purchaser or the Receiver
+           will pay the post-filing Crown Liabilities in the amount of $90,000.00.
+
+           26.     I have reviewed the share purchase agreement ("CLEO SP A") transaction and reverse
+           vesting order ("CLEO RVO") proposed in this receivership and note that, as structured, the
+           transaction vests pre-receivership Crown Liabilities in "ResidualCo.", while Mineral Leases
+           remains in the name of CLEO Energy. The CLEO RVO allows CLEO Energy to retain its
+           Mineral Leases without satisfying its accrued pre-receivership Crown Liabilities.
+
+
+
+
+                                                                                                     Page 4 of5
+
+
+Classification: Protected A
+                                                                                                         005
+
+
+
+           27.    Because of this proposed arrangement, Alberta Energy is unable to use the Transfer
+           Requirement to enforce its entitlement to the pre-existing Crown Liabilities. However, CLEO
+           Energy will continue to hold the Mineral Leases and benefit from the publicly owned Crown
+           PNG minerals without satisfying the cure costs.
+
+           28.     Alberta Energy has no information about the entity that is proposed to purchase CLEO
+           Energy's shares. Without detailed information regarding the purchaser of CLEO Energy, Alberta
+           Energy cannot assess the likelihood of future financial trouble (i.e., does the purchaser have
+           sufficient productive assets or balances to mitigate risk from assuming CLEO Energy's assets?)
+
+           29.     Alberta Energy is concerned that this new entity will accumulate further Crown
+           Liabilities and then subsequently be placed into receivership. Alberta Energy is aware of a recent
+           RVO transaction in which the successor entity was placed into receivership within six months.
+
+           30.       Alberta Energy wants to avoid situations which simultaneously undermine the public's
+           resources and wealth while allowing companies to benefit from public resources without
+           fulfilling their obligations.
+
+           31.    I make this Affidavit in opposition to the application for the Reverse Vesting Order in the
+           form proposed.
+
+
+
+            SWORN BEFORE ME at the City of
+            Edmonton, in the Province of Alberta,
+            this 22 nd day of October, 20 .
+                  £:               lf3t!L-
+            A Commissioner of Oaths in and for
+            the Province of Alberta
+
+                    Kenneth M. Whitelaw
+           Barrister and Solicitor, Notary Public and
+          A Commissioner for Oaths in and for Alberta
+
+
+
+
+                                                                                                     Page 5 of5
+
+
+Classification: Protected A
+                                                  006
+
+
+
+
+               This is Exhibit "A"
+ referred to in the Affidavit of Tracy Wadson
+Sworn before me this 22 nd day of October, 2025
+
+
+
+           A Commissioner of Oaths
+       in and for the Province of Alberta
+
+           Kenneth M. Whitelaw
+   Barrister and Solicitor, Notary Public and
+  A Commissioner for Oaths in and for Alberta
+                                                007
+
+
+
+
+      Governnrnnt
+
+
+
+
+              PETROLEUM AND NATURAL GAS LEASE
+
+                            NO.
+
+
+
+Term Commencement Date:
+
+
+Lessee:
+                                                                                                       008
+
+                                                    • 2.
+                                                                                            PNGLSE 22/09/08
+
+
+        WHEREAS His .Majesty is the owner of the minerals in respect of which rights are granted under
+this Lease;
+
+        THEREFORE, subject to the terms and conditions of this Lease, His Majesty grants to the
+Lessee, insofar as His Majesty has the right to grant the same, the exclusive right to drill for and recover
+the Leased Substances within the Location, together with the right to remove from the Location any
+Leased Substances recovered, for the term of five years computed from the Term Commencement Date
+and, subject to the Mines and Minerals Act, for so long after the expiration of that term as this Lease is
+permitted to continue under that Act.
+
+        RESERVING AND PAYING to His Majesty,
+
+        (a)     in respect of each year during which this Lease remains in effect, a clear yearly rental
+                computed at the rate prescribed by, and payable in accordance with , the Mines and
+                Minerals Act, and
+
+        (b)     the royalty on all Leased Substances recovered pursuant to this Lease, that is now or
+                may hereafter from time to time be prescribed by, and that is payable in accordance with,
+                the Mines and Minerals Act, such royalty to be calculated free of any deductions except
+                those that are permitted under the Mines and Minerals Act.
+
+1(1)    In this Lease, a reference to the Mines and Minerals Act or to any other Act of the Legislature of
+        Alberta referred to in section 2(2)(b) of this Lease shall be construed as a reference to
+
+        (a)     that Act, as amended from time to time,
+
+        (b)     any replacement of all or part of that Act from time to time enacted by the Legislature, as
+                amended from time to time, and
+
+        (c)     any regulations, orders, directives or other subordinate legislation from time to time made
+                under any enactment referred to in clause (a) or (b), as amended from time to time.
+
+  (2)   In this Lease,
+
+        (a)     "His Majesty" means His Majesty in right of Alberta, as represented by the Minister of
+                Energy of the Province of Alberta;
+
+        (b)      "Leased Substances" means the minerals described under the heading "Description of
+                 Location and Leased Substances" in the Appendix to this Lease;
+
+        (c)      "Location" means the subsurface area or areas underlying the surface area of the Tract
+                 and described in the Appendix to this Lease under the heading "Description of Location
+                 and Leased Substances";
+                                                                                                         009
+
+
+                                                    -3-
+                                                                                              PNGLSE 22/09/08
+
+
+        (d)     "Oil Sands Area" means an oil sands deposit designated by the Alberta Energy and
+                Utilities Board under section 7 of the Oil Sands Conservation Act, c. 0-5.5;
+
+        (e)     "Term Commencement Date" means the date shown on the first page of this Lease as
+                the Term Commencement Date;
+
+        (f)     "Tract" means the tract or tracts of land described under the heading "Description of
+                Location and Leased Substances" in the Appendix to this Lease.
+
+2. This Lease is granted upon the following conditions:
+
+  (1)   The Lessee shall pay to His Majesty the rental and royalty reserved under this Lease.
+
+  (2)   The Lessee shall comply with the provisions of
+
+        (a)     the Mines and Minerals Act, and
+
+        (b)     any other Acts of the Legislature of Alberta that prescribe, apply to or affect the rights and
+                obligations of a lessee of petroleum and natural gas rights that are the property of His
+                Majesty, or that relate to, apply to or affect the Lessee in the conduct of its operations or
+                activities under this Lease.
+
+  (3)   The provisions of the Acts referred to in subsection (2) of this section are deemed to be
+        incorporated in this Lease.
+
+  (4)   In the event of conflict between a provision of this Lease and a provision referred to in subsection
+        (2) of this section, the latter provision prevails.
+
+  (5)   The Lessee shall not claim or purport to exercise any rights, prerogatives, privileges or
+        immunities that would otherwise exempt the Lessee from compliance with any of the provisions of
+        the Mines and Minerals Act or of any other Act of the Legislature of Alberta referred to in
+        subsection (2)(b) of this section.
+
+  (6)   Natural gas produced pursuant to this Lease shall be used within Alberta unless the consent of
+        the Lieutenant Governor in Council to its use elsewhere is previously obtained.
+
+  (7)   The Lessee shall keep His Majesty indemnified against
+
+        (a)     all actions, claims and demands brought or made against His Majesty by reason of
+                anything done or omitted to be done, whether negligently or otherwise, by the Lessee or
+                any other person in the exercise or purported exercise of the rights granted and duties
+                imposed under this Lease, and
+
+        (b)      all losses, damages, costs, charges and expenses that His Majesty sustains or incurs in
+                 connection with any action, claim or demand referred to in clause (a).
+                                                                                                    010
+
+
+                                                -4-
+                                                                                         PNGLSE 22/09/08
+
+
+
+(8)   The use in this Lease of the word "Lessee", "Lease", "Leased Substances" or "rental," or of any
+      other word or expression,
+
+      (a)    does not create any implied covenant or implied liability on the part of His Majesty, and
+
+      (b)    does not create the relationship of landlord and tenant between His Majesty and the
+             Lessee for any purpose.
+
+(9)   This Lease is also subject to the special provisions, if any, contained in the Appendix to this
+      Lease.
+                                                            011
+
+
+                                      -5-
+
+                                   APPENDIX
+
+                                      TO
+
+                      PETROLEUM AND NATURAL GAS LEASE NO.
+
+
+
+
+TERM COMMENCEMENT DATE:
+
+
+
+
+AGGREGATE AREA:
+
+
+
+
+DESCRIPTION OF LOCATION AND LEASED SUBSTANCES:
+
+
+
+
+PETROLEUM AND NATURAL GAS
+
+
+SPECIAL PROVISIONS:
+
+NIL
+                                                  012
+
+
+
+
+               This is Exhibit "B"
+ referred to in the Affidavit of Tracy Wadson
+Sworn before me this 22 nd day of October, 2025
+
+
+
+           A Commissioner of Oaths
+       in and for the Province of Alberta
+             Kenneth M. Whitelaw
+     Barrister and Solicitor, Notary Public and
+    A Commissioner for Oaths in and for Alberta
+                                                                                                       013
+
+
+
+                                                                            EC/Royalty Operations Branch
+                                                                            7th Floor, North Petroleum Plaza
+                                                                            9945 - 108 Street
+                                                                            Edmonton, Alberta T5K 2G6
+                                                                            Canada
+                                                                            Telephone: 780-427-8050
+                                                                            www.alberta.ca
+
+
+
+
+      Insert date                                                                 File No: Company name.
+                                                                                        BA ID, G94 Account
+
+
+      Insert to whom the letter is for
+      Company name
+      Company address
+
+
+                          Gas Royalty Arrears: Leaseholder Default Letter
+
+      To date, [company name]'s Gas Royalty Account G94 [account number] has an
+      outstanding balance of $[amount due), including interest calculated to [due date].
+      Despite our requests to have the account brought to current status, the account remains
+      in arrears. If an agreement's royalty obligations remain unsatisfied, the Crown may
+      pursue all available recourse to remedy these arrears.
+
+      This recourse includes pursuing payment from all current leaseholders.
+
+         I.    Notice of Default
+      This letter constitutes notice of default under MMA 1 section 45(2). Alberta Energy and
+      Minerals (Alberta Energy) requires full payment of the arrears within 30 days of the date
+      of this letter. If payment is not made Alberta Energy may, without further notice, cancel
+      Petroleum and Natural Gas Mineral agreements associated with this debt.
+
+        II.    Remedies - Potential Crown Action
+      All lessees are jointly responsible for the full amount of this royalty debt, regardless of
+      their proportion of interest in a lease. 2 Full payment is required or Alberta Energy may
+      pursue remedies against your company until the debt is satisfied, including but not
+      limited to:
+
+          1.   Refusing to issue new agreements.
+          2.   Cancellation of affected leases.
+          3.   Set-off of arrears against credits owing to the company from the Crown.
+          4.   Suspension of electronic transfer systems privileges, including:
+               (a) posting lands for sale;
+               (b) bidding on lands posted for sale;
+               (c) registration of mineral agreement transfers; and
+
+1 Mines and Minerals Act, RSA 2000, c M-17   [MMA].
+2 MMA, s 20(2 .1).
+
+                                                      -1-
+                                                                                                    014
+
+                 (d)   requests to obtain search products.
+
+In connection with the above remedies, we reference the following statutory authority.
+
+    MMA, s 18(2)                   The Minister may refuse to issue an agreement to a person
+                                   who is indebted to the Crown.
+                                   Where 2 or more parties are recorded as lessees to an
+    MMA, s 20(2.1)
+                                   agreement, all co-lessees are responsible for its obligations
+                                   and liabilities.
+
+    CMRR, 3 s                      The Minister may refuse to register lease transfers to or from
+    5(1)(g)                        persons owing money to the Crown.
+
+    MMA, s45                       The Minister may cancel an agreement if there is a breach of
+                                   any condition in the agreement.
+
+    MMA, s 46(4)                   The Minister may recover any debt owed to the Crown by way
+                                   of set-off.
+
+
+Payment is required in full on each lease, including accrued interest, by [due date].
+Liability is not apportioned by leaseholder responsibility. Each lessee is responsible for
+the full amount accrued under a lease, and lessees must resolve severality of arrears
+among themselves . Partial payment will not prevent further collections action.
+
+    Ill.         Remedial Exception: Insolvency Proceedings & Vested Assets
+Alberta Energy will not act in a manner contravening a court order or proceeding,
+where:
+           (1)     An insolvent co-lessee is subject to insolvency proceedings, protected by a
+                   stay of proceedings ; or
+           (2)     A party has obtained an interest in an agreement via court order discharging
+                   their liability for these debts.
+The insolvency of one lessee under an agreement does not absolve any co-
+lessees of their joint and several responsibilities for agreement arrears arising prior
+to the co-lessee's insolvency. Co-lessees must prove they are no longer
+responsible for prior arrears by providing documents absolving them of the liability.
+Documents must specify both the agreements and the parties who are absolved
+from liability. Absolution of one co-lessee does not absolve any others , except as
+expressly stated in a court order.
+
+    IV.          Royalty Regime - Statutory Authority
+Alberta Energy relies on the following sections of the NGRR 2017 4 in pursuing the
+arrears:
+    NGRR 2017, s                   Interest is payable to the Crown on a royalty under an
+    37(2):                         agreement from the due date to the actual date of payment.
+
+3 Crown Minerals Registration Regulation, AR 264/1997 [CMRR].
+4   Natural Gas Royalty Regulation, 2017, A.R. 221/2008 [NGRR 2017]
+
+
+                                                      -2-
+                                                                                      015
+
+
+ NGRR 2017, s             Rate of interest is the regular prime rate plus 1%.
+ 37(4)(c)
+
+ NGRR 2017, s             Establishes that lessees are ultimately liable for paying
+ 2                        royalty to the Crown .
+
+
+Please make the payment necessary to eliminate this debt.
+
+If payment has been made, please contact us to ensure your payment has been
+correctly allocated to your gas royalty account and any agreements associated
+with the outstanding amount.
+
+If you have any questions, you can contact us at:
+Energy.GasRoyaltyCollections@gov.ab.ca
+
+
+Sincerely,
+
+[Analyst name].
+Gas Royalty Collections
+
+cc:
+(Insert affected leaseholder's company names)
+
+
+
+
+                                              -3-
+                                                  016
+
+
+
+
+               This is Exhibit "C"
+ referred to in the Affidavit of Tracy Wadson
+Sworn before me this 22 nd day of October, 2025
+
+
+
+           A Commissioner of Oaths
+       in and for the Province of Alberta
+          Kenneth M. Whitelaw
+  Barrister and Solicitor, Notary Public and
+ A Commissioner for Oaths in and for Alberta
+                                                                                                                    017
+
+
+
+
+        Guide for Transfers
+       This general guide has been created to outline the
+       responsibilities and the various options available to Alberta's
+       Petroleum and Natural Gas (PNG), Oil Sands and Coal and
+       Mineral Development and Geothermal Industry as it pertains to
+       the transfer of ownership of a mineral agreement between
+       Alberta registered companies.
+
+       This includes full transfers of ownership, partial location
+       transfers, divisions and consolidations of mineral agreements
+       contemplated under section 12 of the Mines and Minerals
+       Administration Regulation (MMAR) .
+
+                                                                         agreements (original and new) remain the
+        Types of Transfers                                               property of the same company .
+
+           Full ownership transfer - Where an Alberta                    Consolidation of Agreements - Where two or
+           Registered Company (the transferor) transfers                 more PNG mineral agreements, that meet the
+           100% of its interest in a mineral agreement to                distancing criteria of no more than one
+           one or more other Alberta Registered companies                intervening section , are consolidated into one
+           (the Transferee) . These transfers include :                  agreement.
+
+             •    Prorate Transferor and Transferee                      Nonresponsive Designated Representative -
+                  Percentage                                             occurs when the current designated
+             •    Set Transferor and Transferee Percentage               representative of an agreement is deemed
+             •    Variable Transferor and Transferee                     nonresponsive in accordance with section 20(5)
+                  Percentage                                             of the Mines and Minerals Act and may be
+             •    Designated Representative Change Only                  replaced by a new representative . For further
+                                                                         details please refer to Information Letter 2021-44.
+
+            Partial Land Transfer - Where some land in an
+            existing Mineral Agreement is transferred as
+                                                                        How to submit a Transfer:
+            directed by the transferor to a resulting new                Requests to divide or consolidate agreements or
+            agreement held by a Transferee who is another                request a Nonresponsive Designated
+            Alberta Registered company .                                 Representative change must be submitted to
+                                                                         Alberta Energy via letter. For specifics related to
+           Division- Where a Transferor who holds an                     the change of a nonresponsive designated
+           Alberta Registered company chooses to divide                  representative , please refer to 18 2022-01 .
+           an existing Mineral Agreement and all
+
+
+
+
+        ©2020 Alberta Government I Updated November 20221 Page 1 of 3
+
+Classification: Public
+                                                                                                                        018
+
+           All other transfer requests must be submitted
+           through the Electronic Transfer System (ETS) for
+                                                                         Other Considerations:
+           review by Alberta Energy. If your company does
+           not have ETS permission's it requires to submit a               Alberta Energy cannot accept a partial transfer,
+           transfer, contact Crown Land Data at                            division or a consolidation of any agreements in
+           780-644-2300 or email                                           their initial term as outlined in section 12(4) of the
+           CrownLandDataSupport@gov.ab.ca to submit a                      MMAR.
+           request to have your permissions updated.
+                                                                           Alberta Energy does not transfer specific zonal
+                                                                           rights from one company to another. The
+       Cost:                                                               transfer must be for lands and include all zones
+                                                                           associated with those lands.
+           As per the Schedule in the MMAR, there is a
+           $625 fee for a partial land transfer or division and            Alberta Energy in accordance with Section 9( 1) of
+           a $25 fee for the transfer of a Soldier Settlement              the MMAR may refuse to issue an agreement if
+           Agreement. There is no charge for the                           any of the lessees would hold less than a 1%
+           registration of a standard transfer with Alberta                undivided interest in the agreement.
+           Energy.
+                                                                           In some circumstances, full ownership transfers
+           Please note that the fee will be billed to the                  are processed automatically following an
+           appropriate agreement once the transfer is                      electronic screening. This electronic screening
+           completed.                                                      does not include a review of outstanding rentals
+                                                                           or other debts associated with a mineral
+        Processing Times:                                                  agreement. It is the transferor's responsibility to
+                                                                           disclose this information to any potential buyer
+           Standard Ownership Transfers:                                   since any debts associated with the agreement
+                                                                           are transferred along with agreement ownership .
+           Once all parties to a transfer have concurred with
+           the transfer, and barring any administrative                    All rentals must be paid and the agreement must
+           issues surrounding the proposed transfer, it will               be in good standing for a Partial Land Transfer,
+           be registered within 48 hours.                                  Division , Consolidation or a Nonresponsive
+                                                                           Designated Representative change to proceed .
+           Administrative examples that may prolong the
+           response time are:                                              All builders' liens or security notices that are
+                                                                           registered against an agreement are transferred
+           •     The agreement falls within the Canadian                   with the agreement. Therefore, it is the
+                 Forces base and a fully executed Surface                  responsibility of the companies to work together
+                 Access Agreement is required prior to                     to have any encumbrances discharged (if
+                 transfer completion.                                      required) prior to requesting a transfer.
+           •     One of the companies is tied to a
+                 Bankruptcy/Receivership or Credit Protection               The transfer of any agreement that resides within
+                 action by the Court of Alberta.                            a Canadian Forces Base within the Province of
+                                                                            Alberta requires the full execution of a Surface
+                                                                            Access Agreement with the Base Commander
+            Part Land Transfers
+                                                                            and your company. If this is not in place, Alberta
+                                                                            Energy may reject your transfer. The transfer will
+            Partial Land Transfers are processed within 3                   need to be re-submitted at a later date and
+            months.                                                         Alberta Energy advised that the proper Surface
+                                                                            Access Agreement has been obtained and
+                                                                            registered in our records.
+            Nonresponsive Designated Representative
+            change requests are processed within two
+            weeks.
+                                                                         General Information
+                                                                         Alberta Energy has created training modules to
+        These timelines may be extended due to complexity                assist companies requesting a transfer through
+        of the requests .                                                Alberta Energy.
+
+
+
+
+        ©2020 Alberta Government I Updated November 2022 I Page 2 of 3
+
+Classification: Public
+                                                                                                                     019
+
+       The modules can be accessed at: on-line training .                locate the ETS Request (e.g., Work in Progress,
+                                                                         Authorization or Request Status) .
+       Alberta Energy Tenure Operation also provides a
+       help desk that can be accessed between 8:15 AM                    Note: Email notifications should not be relied on to
+       and 4:30 PM Monday-Friday at 780-644-2300 or by                   track Transfer submissions in ETS. Best practise is
+       email at transfers .energy@gov .ab.ca for any                     for clients to monitor their requests on a regular
+       questions that you may have.                                      basis. Users can search the status of a request any
+                                                                         time in the Work in Progress screen by ETS Request
+        Alberta Energy is obligated under the Excise Tax Act             number or agreement number. Requests can also
+        to charge GST on all new agreements. If we do not                be searched and sorted by the status of the request.
+        have your GST number registered , please provide it
+        to Alberta Energy, Crown Land Data at
+        780-644-2300 or through email at
+        Crown Land DataSu pport@gov.ab.ca
+
+        Submitting a payment:
+        Alberta Energy requires payment of $625 when a
+        new agreement is created (Partial Land Transfer or
+        Division). If you are currently unable to make
+        payments electronically, payments can be made in
+        person or by Canada post to one of the following
+        locations:
+           Calgary office - AMEC Place
+           #300 801 - 6th Ave SW
+           Telephone: 403-297-8955
+           Or
+           Edmonton Office - North Petroleum Plaza
+           Main Reception 2nd Floor, 9945 - 108 Street.
+           Telephone: 780-427 -8050
+
+           Cheques must be made payable to the
+           Government of Alberta .
+
+           Or a payment may be made via credit card by
+           emailing AEP .AqriPymt.mailbox@qov.ab.ca and
+           include the following information
+
+                 •    Leaseholder name/Company name.
+                 •    Activity ID/disposition number - (please
+                      include the region identifier 004, 005 , or
+                      006 etc plus the agreement number).
+                 •    Amount of Payment$ .
+                 •    E-Mail address of the person the
+                      payment request is to go to.
+
+        Notification Emails for Clients'
+        ETS sends Transfer notification emails to the ETS
+        application contact as a courtesy to notify your
+        company that documents are available for review
+        and/or action . Ensure contact information is current
+        so all notification emails are sent to the appropriate
+        person . The email includes information on where to
+
+
+
+
+        ©2020 Alberta Government I Updated November 2022 I Page 3 of 3
+
+Classification : Public
+                                                  020
+
+
+
+
+               This is Exhibit "D"
+ referred to in the Affidavit of Tracy Wadson
+Sworn before me this 22 nd day of October, 2025
+
+
+
+           A Commissioner of Oaths
+       in and for the Province of Alberta
+            Kenneth M. Whitelaw
+    Barrister and Solicitor, Notary Public and
+   A Commissioner for Oaths in and for Alberta
+                                                                                                                021
+
+
+
+
+        Indebtedness Guide
+       This guide has been created to outline the responsibilities and
+       the various options available to Alberta's Petroleum and
+       Natural Gas (PNG) and Geothermal Industries as it pertains to
+       any outstanding rental or royalty owing to the Alberta Crown.
+
+       Annual rental must be paid in full each year to keep an
+       agreement in good standing.
+
+
+        Rental Default                                            •   If the royalty remains outstanding the mineral
+                                                                      agreement may result in the agreement
+       •    The deemed due date for annual rental for PNG             cancellation.
+            agreements and Geothermal Leases is the 15th of
+            the expiry term month, or the first business day      •   An agreement cancellation letter is sent through
+            thereafter.                                               the Electronic Transfer System (ETS) to the
+                                                                      designated representative, all registered
+                                                                      participants of the Petroleum and Natural Gas
+       •    If the rent due is not paid in full by the deemed         (PNG) agreement, the Gas Royalty client and the
+            due date, interest will be applied to the account         well operator(s).
+            and an overdue invoice will be mailed through
+            Canada Post to the designated representative          Please note: Royalties for Geothermal Leases are
+            and confidential rental payor, if applicable.         not being calculated at this time
+
+        •   Payments, as outlined in section 23(1) of the         Debt Collection
+            Mines and Minerals Administration Regulation
+            (MMAR), are applied to fees, rentals and interest     •   All debts owed to the Crown for rent, royalty,
+            owing before being applied to rent. If there is an        interest and/or other charges remain owing after
+            outstanding rental amount, the agreement is in            an agreement is cancelled. Pursuant to section
+            default and may be cancelled.                             20(2.1) of the MMAR, all lessees are jointly liable
+                                                                      for the outstanding debt.
+        PNG Royalty Defaults
+                                                                  •   Alberta Energy and Minerals will accept payment
+        •   Alberta Energy and Minerals is responsible for            from any party wishing to pay the debt owing on
+            the assessment, levy and collection of royalties          a PNG agreement or Geothermal lease to bring it
+            for oil, natural gas and by-products.                     into good standing .
+
+        •   If royalties for natural gas or by-products are not   •   If a company is in debt to the Crown, Alberta
+            paid, a Royalty default notice may be issued. For         Energy and Minerals may use one or more
+            more information, please refer to Gas Royalty             remedies to collect monies owed in accordance
+            Operations Information Bulletin April 2023.               with Section 46 of the Mines and Minerals Act.
+                                                                      Remedies that may be used include:
+
+
+
+
+        ©2018 Alberta Government I Published July 2023
+
+Classification: Public
+                                                                                                               022
+
+                                                                Or the cheque can be dropped off at the Calgary
+            • Cancelling the PNG mineral agreement or           office:
+              Geothermal lease                                  AMEC Place #300 801 - 6th Ave SW
+            • Removal of the following permissions within the   Telephone: 403-297 -8955
+              Electronic Transfer System as applicable:
+                  Ability to post mineral rights or bid and
+                  obtain new PNG agreements through the         Please ensure that payment instructions are include
+                  Mineral Land Sale.                            along with your payment to ensure correct
+                  Remove ability to obtain new Geothermal       allocation.
+                  leases.
+                  Removal of a company's ability to transfer
+                  an agreement.                                 Payments by credit card, must be directed to:
+                  Removal of a Company's ability to obtain a    AEP .AgriPymt.mailbox@gov.ab.ca and please
+                  Crown Mineral Authorization .                 include the following information:
+                  Removal of a company's ability to obtain          •   Leaseholder name/Company name -
+                  searches.                                         •   Activity ID/disposition number - (if there
+                  Removal of a company's ability to                     are multiple agreements, please itemize
+                  participate in the Site Rehabilitation                and provide specific allocation
+                  Program.                                              instructions for each agreement to assist
+                                                                        the department in allocation of payment.)
+        Please note: Unpaid debts, may be referred to the           •   Amount of Payment - i.e., $000,000.00
+        Treasury Board and Finance the Crown Debt
+                                                                    •   Provide E-mail address of the person the
+        Collections unit which will result in a court filed
+                                                                        payment request is to be directed to.
+        action against your company.
+
+        General Information                                     Payment can also be made by EFT. Please contact
+        Goods and Services Tax (GST)                            CARS .HelpDesk@gov.ab.ca for EFT assistance.
+
+        •   If we do not have your GST number registered ,
+            please provide it to Alberta Energy and Minerals,
+            Crown Land Data at 780-780-644-2300 option 4
+                                                                Notification Emails for Clients
+            or through email at                                 ETS sends default notification emails to the ETS
+            CrownLandDataSupport@gov.ab.ca .                    submission contact as a courtesy to notify your
+                                                                company that documents are available for review
+        •   Otherwise, Alberta Energy and Minerals is
+            obligated under the Excise Tax Act to assess and    and/or action. Ensure contact information is current
+            collect GST.                                        so all notification emails are sent to the appropriate
+                                                                person. The email includes information on where to
+                                                                locate the ETS Request (e.g., Work in Progress,
+        Submitting a payment                                    Authorization or Request Status). Note: Email
+        Payments can be made by Cheque, Credit Card or          notifications should not be relied on . Best practise is
+        Electronic Funds Transfer (EFT) .                       for clients to monitor ETS on a regular basis. Users
+                                                                can check for default notices that have been sent by
+        If you are making payment by cheque, make it            going into Request Status.
+        payable to the Government of Alberta.
+
+        If you are planning to mail the cheque, send to:
+        Alberta Energy and Minerals
+        9945 108 St NW
+        Edmonton AB T5K 2G6
+
+
+
+
+        ©2018 Alberta Government I Published· July 2023
+
+Classification : Public
+                                                  023
+
+
+
+
+               This is Exhibit "E"
+ referred to in the Affidavit of Tracy Wadson
+Sworn before me this 22 nd day of October, 2025
+
+
+
+           A Commissioner of Oaths
+       in and for the Province of Alberta
+
+            Kenneth M. Whitelaw
+    Barrister and Solicitor, Notary Public and
+   A Commissioner for Oaths in and for Alberta
+                                                                                                         024
+
+
+
+                                                                                Energy Operations
+                                                                                PNG Tenure Operations
+                                                                                Petroleum Plaza - North Tower
+                                                                                9945 - 108 Street
+                                                                                Edmonton, Alberta
+                                                                                Canada TSK 2G6
+                                                                                www.alberta .ca
+
+
+
+
+           September 26, 2024
+
+           INFORMATION LETTER 2024-32
+
+           Subject: Obligations of a Receiver to the Alberta Crown During Insolvencies
+
+           This information letter reinforces that receivers, monitors, or trustees (the "receiver") must
+           ensure that all agreements are in good standing (i.e ., all rental and royalty balances are
+           satisfied, and outstanding debts are paid) before the Department of Energy and Minerals
+           ("Energy and Minerals") will consider approving agreement transfers.
+
+           During insolvency proceedings, the Court assigns a receiver to act on behalf of the
+           insolvent corporation. The receiver's duties include managing the insolvent corporation's
+           Crown mineral rights and royalty obligations until the insolvent party is fully discharged by
+           the Court. As part of its role in managing Crown minerals on behalf of Albertans, Energy
+           and Minerals freezes all Crown assets subject to insolvency actions.
+
+           During insolvencies, Energy and Minerals works with the receiver to appropriately manage
+           Crown mineral assets and financial accounts. This process includes regular
+           correspondence with the receiver in the receiver's capacity as the representative of the
+           lessees and royalty clients. Energy and Minerals expects that the receiver is responsive to
+           communications respecting the insolvent party's tenure and royalty obligations.
+
+           Note, Energy and Minerals will process agreement transfer requests only when
+           agreements are in good standing . If, during the insolvency proceedings, the receiver
+           considers selling and transferring active mineral agreements to a purchaser, Energy and
+           Minerals requires full payment of any outstanding rental, royalty, and debt obligations prior
+           to approving the transfer of any mineral agreements.
+
+           Any interested parties considering the acquisition of Crown mineral agreements forming
+           part of an insolvency proceeding are advised to solicit information from the receiver
+           regarding outstanding royalty and rental debts prior to finalizing any purchase agreements .
+           This information will help avoid unexpected delays in transferring mineral agreements and
+           clarify purchaser obligations respecting existing agreement arrears.
+
+
+
+
+                                                                                                                1 of 2
+Classification: Protected A
+                                                                                             025
+
+
+
+           For further information please contact:
+
+
+
+           Director,Crown Agreement Management            Director, Coal and Mineral
+           PNG Tenure Operations                          Development
+           transfers.energy@gov.ab.ca .                   Oil Sands, Coal and Mineral Operations
+                                                          cmd.energy@gov.ab.ca
+
+           Director, Gas Royalty Operations               Director, Oil Royalty Operations
+           Royalty Operations                             Royalty Operations
+           Energy.GasRoyaltyCollections@gov.ab.ca         oil.gas.royalty@gov.ab.ca
+
+           Director, Oil Sands Royalty and Tenure
+           Oil Sands, Coal and Mineral Operations
+           Oil Sands Royalty: OSReport@gov.ab.ca
+           Oil Sands Tenure: OSTenure@gov.ab.ca
+
+
+           Authorized by: Doug Lammie
+
+                              Assistant Deputy Minister
+                              Energy Operations
+
+
+
+
+                                                                                              2 of 2
+Classification: Protected A
+                                                  026
+
+
+
+
+               This is Exhibit "F"
+ referred to in the Affidavit of Tracy Wadson
+Sworn before me this 22 nd day of October, 2025
+
+
+
+           A Commissioner of Oaths
+       in and for the Province of Alberta
+             Kenneth M. Whitelaw
+     Barrister and Solicitor, Notary Public and
+    A Commissioner for Oaths in and for Alberta
+                                                                                                      027
+
+                                                                          Energy Operations
+                                                                          9945 - 108 Street
+                                                                          Edmonton AB TSK 2G6
+                                                                          www.alberta .ca
+
+
+
+
+            April 11, 2024
+
+            INFORMATION LETTER 2024-11
+
+            Subject: ETS Permission Suspension for Outstanding Leaseholder Debt
+
+
+            Energy Operations is standardizing its collection processes on outstanding debts owed
+            by Alberta's energy sector to Alberta Energy and Minerals. Supplementing Information
+            Bulletin (IB) 2018-02 , effective immediately, the following will be applied to all lessees
+            on an agreement.
+
+            All parties jointly holding an agreement with the Crown are responsible for all obligations
+            and liabilities that arise under the agreement(s) as indicated in section 20(2.1 )(a) of the
+            Mines and Minerals Act.
+
+            At its discretion, the Crown may use one or more of the available remedies to collect
+            any outstanding debts owed and may apply those remedies to all registered lessees on
+            an agreement. Remedies may include, but are not limited to, cancellation of an
+            agreement, the suspension of a company's ability within the Electronic Transfer System
+            (ETS) to post or bid in a public land sale, transfer mineral agreements, conduct mineral
+            land searches, obtain a Geothermal or Carbon Capture lease agreement, Crown
+            Mineral Authorizations, or be granted any agreement extensions.
+
+            Energy and Minerals is expanding the application of these remedies to include non-
+            payment of unpaid royalties or any outstanding fees . Suspension of ETS permissions
+            will be applied consistently across all commodity areas to ensure companies meet their
+            financial obligations . The suspension of ETS permissions, once imposed, will remain in
+            effect until all outstanding debts are paid .
+
+            Alberta's energy sector is encouraged to work with its partners to review and pay any
+            outstanding debt owed to the Crown to avoid any remedies being applied against their
+            company.
+            Additionally, please be aware that the cancellation of any mineral agreement occurring
+            as a result of outstanding debt, will not relieve the lessees' obligations to pay that debt,
+            including applicable accruing interest owed to the Crown, until the debt is satisfied .
+
+
+
+
+                                                                                                    1 of 2
+Classification : Protected A
+                                                                                                       028
+            For further information please contact:
+
+             Natural Gas Royalty:                          Metallic and Industrial Minerals, Coal,
+                                                           Ammonite Shell :
+             Richard Stokl                                 Micheal Moroskat
+             Director                                      Director
+             Gas Royalty Operations                        Coal and Mineral Development
+             Energy Operations                             Energy Operations
+             Phone: (780) 422-9247                         Phone: (780) 638-4034
+
+
+             Petroleum and Natural Gas Tenure :            Oil Sands:
+
+             Mahendra Samaroo                              Luis Serpa
+             Director                                      Director
+             Crown Agreement Management                    Royalty & Tenure - Oil Sands
+             Energy Operations                             Energy Operations
+             Phone: (780) 422-9480                         Phone: (780) 422-1729
+
+             Oil Royalty:
+
+             Perry Zyla
+             Director
+             Oil Royalty Operations
+             Energy Operations
+             Phone: (780)415-2112
+
+
+
+
+             Authorized by:    Doug Lammie
+                               Assistant Deputy Minister
+                               Energy Operations
+
+
+
+
+                                                                                                     2 of 2
+Classification : Protected A
+                                                  029
+
+
+
+
+               This is Exhibit "G"
+ referred to in the Affidavit of Tracy Wadson
+Sworn before me this 22 nd day of October, 2025
+
+
+
+           A Commissioner of Oaths
+       in and for the Province of Alberta
+             Kenneth M. Whltelaw
+     Barrister and Solicitor, Notary Public and
+    A Commissioner for Oaths in and for Alberta
+                                                                                                030
+
+
+
+COURT FILE NUMBER            2501-00481
+
+COURT                        COURT OF KING'S BENCH OF ALBERTA
+
+JUDICIAL CENTRE              CALGARY
+
+APPLICANTS                   ORPHAN WELL ASSOCIATION
+                                                                                            1cc
+
+RESPONDENT                   REVITALIZE ENERGY INC.
+
+DOCUMENT                     SALE APPROVAL AND VESTING ORDER
+
+ADDRESS FOR                  Fasken Martineau DuMoulin LLP I hereby certify this to be a true copy of
+SERVICE AND                  Barristers and Solicitors     the original     order
+CONTACT                      3400 First Canadian centre                 ---------
+INFORMATION OF               350 _ 7th Avenue SW           Dated this --1..§!_ day of September
+PARTY FILING THIS
+DOCUMENT
+                             Calgary, AB, T2P 3N9                                   {~tJA
+                                                                                 for Clerk of the cburt
+                             Attention: Robyn Gurofsky / Tiffany Bennett
+                             Telephone: (403) 261-9469 I (403) 261-5355
+                             Email: rgurofsky ti ,fasken.com I tbenett(@fasken.com
+
+                             File No.: 277219.00023
+
+
+  DATE ON WHICH ORDER WAS PRONOUNCED:                       September 17, 2025
+
+  LOCATION OF HEARING:                                      Edmonton Law Courts
+
+  NAME OF JUSTICE WHO MADE THIS ORDER:                      The Honourable Justice J. T. Neilson
+
+
+UPON THE APPLICATION of PricewaterhouseCoopers Inc. LIT in its capacity as the Court-
+appointed receiver and manager ("Receiver") of the undertakings, properties, and assets of
+Revitalize Energy Inc. (the "Debtor") for an order, inter ctlia, (a) approving the sale transaction
+(the "Transaction") contemplated by an agreement of purchase and sale between the Receiver
+and Baytex Energy Ltd. (the "Purchaser") dated August 18, 2025 (the "Sale Agreement") and
+appended in redacted form as Appendix "B-1" to the Receiver's First Report, dated September 8,
+2025, filed (the "First Report") and in unredacted form as Appendix "A-1" to the Confidential
+Supplement to the First Report, dated September 8, 2025 and (b) vesting in the Purchaser all of
+the Debtor's right, title and interest in and to the Assets (as defined in the Sale Agreement) (the
+"Purchased Assets");
+                                                                                                   031
+                                                -2-
+
+
+AND UPON HAVING READ the Receivership Order, dated January 20, 2025 (the
+"Receivership Order"), the First Report, the Affidavit of Service of Kim Picard, filed, and all
+other material and evidence filed to date in the within proceedings; AND UPON HEARING the
+submissions of counsel for the Receiver, the Purchaser, and any other interested parties appearing
+at the hearing of this Application,
+
+IT IS HEREBY ORDERED AND DECLARED THAT:
+
+SERVICE
+
+I.     Service of notice of this Application and supporting materials is hereby declared to be good
+       and sufficient, and no other person is required to have been served with notice of this
+       Application, and time for service of this Application is abridged to that actually given.
+
+DEFINED TERMS
+
+2.     Unless otherwise defined herein, all capitalized terms shall have the meanings ascribed
+       thereto in the Sale Agreement.
+
+APPROVAL OF THE TRANSACTION
+
+3.     The Transaction is hereby approved and the execution of the Sale Agreement by the
+        Receiver is hereby authorized, ratified and approved, with such minor amendments as the
+        Receiver may deem necessary. The Receiver is hereby authorized to take such additional
+        steps and execute such additional documents as may be necessary or desirable for
+        completion of the Transaction and conveyance of the Purchased Assets to the Purchaser.
+
+VESTING OF PROPERTY
+
+4.      Subject only to approval by the Alberta Energy Regulator (the "AER") of the transfers of
+        any applicable licenses, permits and approvals pursuant to section 24 of the Oil and Gas
+        Conservation Act (Alberta) and section 18 of the Pipeline Act (Alberta), upon delivery of
+        a Receiver's certificate to the Purchaser substantially in the form set out in Schedule "A"
+        hereto (the "Receiver's Closing Certificate"), all of the Debtor's right, title and interest
+        in and to the Purchased Assets listed in Schedule "B" hereto, shall vest absolutely in the
+                                                                                             032
+                                                 -3-
+
+
+     name of the Purchaser, free and clear of and from any and all caveats, security interests,
+     hypothecs, pledges, mortgages, liens, trusts or deemed trusts, reservations of ownership,
+     royalties, options, rights of pre-emption, privileges, interests, assignments, actions,
+     judgements, executions, levies, taxes, fees, writs of enforcement, charges, or other claims,
+     whether contractual, statutory, financial, monetary or otherwise, whether or not they have
+     attached or been perfected, registered or filed and whether secured, unsecured or otherwise,
+     and whether by payment, set off or otherwise (collectively, "Claims"), including, without
+     limiting the generality of the foregoing:
+
+     (a)    any encumbrances or charges created by the Receivership Order;
+
+     (b)    all charges, security interests or claims against the Purchased Assets, whether or
+            not evidenced by registrations pursuant to the Personal Property Security Act
+            (Alberta) or any other personal property registry system;
+
+     (c)    any liens or claims under the Prompt Payment and Construction Lien Act (Alberta)
+            or its predecessor statute, the Builders' Lien Act (Alberta);
+
+     (d)    any outstanding amounts owing to the AER, including in respect of the AER
+             Orphan Fund Levy and the AER Administration Fees; and
+
+     (e)     those Claims listed in Schedule "C" hereto,
+
+     (all of which are collectively referred to as the "Encumbrances", which term shall not
+     include the permitted encumbrances, caveats, interests, easements, and restrictive
+     covenants listed in Schedule "D" (collectively, the "Permitted Encumbrances")). For
+     greater certainty, this Court orders that all Claims including the Encumbrances affecting or
+     relating to the Purchased Assets and all charges, security interests or Claims evidenced by
+     registrations under any personal property registry system or otherwise where any Cla_im of
+     any kind may be registered or recorded are hereby expunged, ordered removed and
+     otherwise unconditionally discharged and terminated as against the Purchased Assets.
+
+5.   Upon delivery of the Receiver's Closing Certificate, and upon filing a certified copy of this
+     Order, together with any applicable registration fees, all governmental authorities including
+                                                                                                 033
+                                                   -13-
+
+
+                                           SCHEDULE "8"
+
+                                        PURCHASED ASSETS
+
+  The Purchased Assets mean:
+
+
+TITLE DOCUMENTS            LANDS/RIGHTS             VENDOR'S                ENCUMBRANCES
+                                                    WORKI NG
+                                                    INTEREST
+Ptn. Alberta Crown        Twp 049 Rge 0 1           100%                    Crown Sliding Scale Royalty
+PNG Lease 0400090434      W4M: Ptn. NE9
+dated September 14,                                                         5% non-convertible
+2000                       PN G to base General                             overriding royalty (no
+                           Petroleum                                        deductions) payable to
+                                                                            Baytex Energy Ltd. 100% by
+                                                                            Vendor 100%
+
+   For greater certainty, the Purchased Assets exclude the following:
+
+          100/09-09-049-01 W4/02 - license 0389352
+          100/09-09-041-01 W4/03 - license 0389352
+          and any related surface rights, pipelines and facilities relating thereto
+                                                             034
+
+
+
+
+               This is Exhibit "I I"
+ referred to in the Affidavit of Tracy Wadson
+Sworn before me this 22 nd day of October, 2025
+
+
+
+           A Commissioner of Oaths
+       in and for the Province of Alberta
+               Kenneth M. Whitelaw
+    Barrister :· •,cl S<:~ici1 -:i r, N:,,,\J"y Public and
+   A Commiss1~:,,..:, : ur vc.111::.- rn and for Alberta
+                                                             035
+
+
+
+
+ PRICEW ATERHOUSECOOPERS INC. LIT SOLELY IN ITS CAPACITY AS THE
+RECEIVER AND MANAGER OF THE ASSETS, PROPERTY AND UNDERTAKING
+OF REVITALIZE ENERGY INC. AND NOT IN ITS PERSONAL OR CORPORA TE
+                           CAPACITY
+
+                              -and-
+
+                      BA YTEX ENERGY LTD.
+
+
+
+
+             ASSET PURCHASE AND SALE AGREEMENT
+
+                         AUGUST 18, 2025
+                                                                                              036
+
+
+
+                        AGREEMENT OF PURCHASE AND SALE
+
+THIS AGREEMENT OF PURCHASE AND SALE dated as of August 18, 2025,
+
+BETWEEN:
+
+              REVITALIZE ENERGY INC. (the "Debtor") by and through
+              PRICEWATERHOUSECOOPERS INC. LIT, solely in its capacity as the
+              receiver and manager of the assets, property and undertaking of the Debtor
+              (excluding any licensed oil and gas assts of the Debtor located in the province of
+              Saskatchewan), and not in its personal or corporate capacity (herein referred to as
+              the "Vendor")
+
+                                              - and-
+
+              BA YTEX ENERGY LTD., a corporation existing under the laws of Alberta
+              (herein referred to as the "Purchaser")
+
+WHEREAS:
+
+A.     pursuant to the Receivership Order, the Vendor was appointed as receiver and manager of
+       all of the Debtor's current and future assets, undertakings and properties of every nature
+       and kind whatsoever, (including all proceeds thereof, but excluding any of the licensed oil
+       and gas assets of the Debtor located in the Province of Saskatchewan); and
+
+B.     the Purchaser has agreed to purchase and acquire and the Vendor has agreed to sell, transfer
+       and assign to the Purchaser, all of the Debtor's interest in and to the Assets, on the terms
+       and conditions set forth herein.
+
+NOW THEREFORE, this Agreement witnesses that in consideration of the mutual covenants
+and agreements contained herein, and for other good and valuable consideration, the receipt and
+adequacy of which are acknowledged by each Party to the other, the Parties covenant and agree as
+follows:
+
+                                        ARTICLE 1
+                                     INTERPRETATION
+
+1.1    Definitions
+
+       In this Agreement:
+
+       (a)    "Abandonment and Reclamation Obligations" means all past, present and future
+              obligations to:
+
+              (i)     abandon, shut-in, close, decommission, dismantle or remove any and all
+                      wells and Tangibles, including all structures, foundations, buildings,
+                      pipelines, equipment and other facilities forming part of the wells and
+                      Tangibles or otherwise located on the Lands or used or previously used in
+                                                                                       037
+                                       -7-
+
+
+      order to be substantially in the form attached hereto as SCHEDULE "B" together
+      with such modifications and amendments to such form as may be approved by both
+      the Vendor and the Purchaser, acting reasonably;
+
+(g)   "Assets" means the Petroleum and Natural Gas Rights, and the Miscellaneous
+      Interests, however in all cases excludes the Excluded Assets;
+
+(h)   "Assumed Contracts" means the contracts referenced in subsection (ii)(i) of the
+      definition of Miscellaneous Interests, which contracts shall be assigned by the
+      Vendor for and on behalf of the Debtor and assumed by the Purchaser in accordance
+      with the terms of this Agreement, the relevant contracts and/or the Approval and
+      Vesting Order, and/or other order of the Court in form and substance satisfactory
+      to the Parties;
+
+(i)   "Assumed Liabilities" means, collectively, all liabilities and obligations arising
+      from the possession, ownership and/or use of the Assets following Closing
+      (including for greater certainty, any municipal or property taxes that accrue
+      commencing on the Closing Date), along with Environmental Liabilities,
+      Abandonment and Reclamation Obligations, costs relating to the Municipal Tax
+      Liabilities and Cure Costs;
+
+G)    "Business Day" means any day other than a Saturday, Sunday or a statutory
+      holiday in the City of Calgary in the Province of Alberta;
+
+(k)   "Claim" means any caveats, security interests, hypothecs, pledges, mortgages,
+      liens, trusts or deemed trusts, reservations of ownership, royalties, options, rights
+      of pre-emption, privileges, interests, assignments, actions, judgments, executions,
+      levies, taxes, writs of enforcement, charges, or other claims, whether contractual,
+      statutory, financial, monetary or otherwise, whether or not they have attached or
+      been perfected, registered or filed and whether secured, unsecured or otherwise,
+      including, without limiting the generality of the foregoing:
+
+      (i)     any encumbrances or charges created by the Receivership Order;
+
+      (ii)    any charges, security interests or claims evidenced by registrations pursuant
+              to the Personal Property Security Act (Alberta) or any other personal
+              property registry system;
+
+      (iii)   any liens or claims oflien under the Prompt Payment and Construction Lien
+              Act (Alberta); and
+
+      (iv)    those claims which may be specifically identified SCHEDULE "C" in the
+              Approval and Vesting Order, as applicable;
+
+(1)   "Closing" means the completion of the purchase by the Purchaser, and sale by the
+      Vendor, of the Debtor's interest in and to the Assets and the completion of all other
+      transactions contemplated by this Agreement that are to occur contemporaneously
+                                                                                        038
+                                       -8-
+
+
+      with such purchase and sale, all subject to and in accordance with the terms and
+      conditions of this Agreement;
+
+(m)   "Closing Date" means the date on which Closing occurs, being the date which is
+      two Business Days following the date upon which all conditions in Sections 12.1,
+      12.2 and 12.3 have been satisfied or waived (other than such conditions which are
+      to be satisfied on the Closing Date), or such other date as the Parties may agree in
+      writing, provided, however, that the Closing Date shall not be later than the Outside
+      Date;
+
+(n)   "Confidentiality Agreement" means the confidentiality agreement between
+      Vendor and Purchaser in respect of the evaluation by the Purchaser of potential
+      transactions involving the assets of the Debtor, dated May 9, 2025;
+
+(o)   "Consequential Damages" has the meaning ascribed to that term in Section 15.5;
+
+(p)   "Court" means the Court of King's Bench of Alberta, Jud id al Centre of Calgary;
+
+(q)   "Cure Costs" means, in respect of any Assumed Contracts, all amounts, required
+      to be paid to remedy all of the Vendor's or the Debtor's monetary defaults under
+      such Assumed Contracts or required to secure a counterparty's or any other
+      necessary Person's consent to the assignment of such Assumed Contracts pursuant
+      to its terms (including any deposits or other forms of security required by any
+      Governmental Authority) or as may be required pursuant to the Approval and
+      Vesting Order, and includes any other fees and expenses required to be paid to a
+      counterpmty or any other Person in connection with the assignment of the Assumed
+      Contracts pursuant to its terms or Applicable Laws;
+
+(r)   "Deposit" has the meaning ascribed to that tenn in Section 3.3(a)(i);
+
+(s)   "Due Diligence Information" means all information made available (by the
+      Vendor, the Debtor or otherwise) for the Purchaser's review in paper or electronic
+      form in relation to the Debtor, its Affiliates and/or the Assets;
+
+(t)   "Effective Time" means 12:01 a.m. on the Closing Date;
+
+(u)   "Environment" means the components of the earth and includes the air, the surface
+      and subsurface of the earth, bodies of water (including rivers, streams, lakes and
+      aquifers) and plant and animal life (including humans);
+
+(v)   "Environmental Laws" means all Applicable Laws relating to pollution or
+      protection of human health or the Environment (including ambient air, water,
+      surface water, groundwater, land surface, soil, or subsurface) or natural resources,
+      including Applicable Laws relating to the storage, transfer, transportation,
+      investigation, cleanup, treatment, or use of, or release or threatened release into the
+      Environment of, any Hazardous Substances;
+                                                                                          039
+                                        -10-
+
+
+       judicial, regulatory or administrative functions of, or pertaining to, government,
+       having jurisdiction over a Party, the Assets or this Transaction;
+
+(bb)   "GST" means taxes, interest, penalties and other additions thereto imposed under
+       Part IX of the Excise Tax Act (Canada) and the regulations made thereunder; and
+       "GST Legislation" means such act and regulations collectively;
+
+(cc)   "Hazardous Substances" means any substance, material or waste defined,
+       regulated, listed or prohibited by Environmental Laws, including pollutants,
+       contaminants, chemicals, deleterious substances, dangerous goods, hazardous or
+       industrial toxic wastes or substances, radioactive materials, flammable substances,
+       explosives, Petroleum Substances and products of Petroleum Substances,
+       polychlorinated biphenyls, chlorinated solvents and asbestos;
+
+(dd)   "Interim Statement of Adjustments" has the meaning set forth and defined in
+       Section 9.2(a);
+
+(ee)   "Lands" means the lands set out and described in SCHEDULE "A" under the
+       heading entitled "Assets", and the Petroleum Substances within, upon or under such
+       lands (subject to the restrictions and exclusions identified in the Title and Operating
+       Documents as to Petroleum Substances and geological formations);
+
+(ff)   "Leased Substances" means all Petroleum Substances, rights to or in respect of
+       which are granted, reserved or otherwise conferred by or under the Title and
+       Operating Documents (but only to the extent that the Title and Operating
+       Documents pertain to the Lands);
+
+(gg)    "Legal Proceeding" means any litigation, action, suit, investigation, hearing,
+       claim, complaint, grievance, arbitration proceeding or other proceeding and
+       includes any appeal or review or retrial of any of the foregoing and any application
+       for same;
+
+(hh)   "Losses and Liabilities" means any and all assessments, charges, costs, damages,
+       debts, expenses, fines, liabilities, losses, obligations and penalties, whether accrued
+       or fixed, absolute or contingent, matured or unmatured or determined or
+       determinable, including those arising under any Applicable Law, Claim by any
+       Governmental Authority or any order, writ, judgment, injunction, decree,
+       stipulation, determination or award entered by or with any Governmental
+       Authority, and those arising under any contract, agreement, arrangement,
+       commitment or undertaking and costs and expenses of any Legal Proceeding,
+       assessment, judgment, settlement or compromise relating thereto, and all interest,
+       fines and penalties and reasonable legal fees and expenses incurred in connection
+       therewith (on a full indemnity basis);
+
+(ii)   "Miscellaneous Interests" means, subject to any and all limitations and exclusions
+       provided for in this definition, the Debtor's interest in and to all property, assets,
+       interests and rights pertaining to the Petroleum and Natural Gas Rights (other than
+       the Petroleum and Natural Gas Rights), but only to the extent that such property,
+                                                                                          040
+                                        -11-
+
+
+       assets, interests and rights pertain to the Petroleum and Natural Gas Rights,
+       including any and all of the following:
+
+       (i)     all contracts relating to the Petroleum and Natural Gas Rights (including the
+               Title and Operating Documents);
+
+       (ii)    all warranties, guarantees and similar rights relating to the Petroleum and
+               Natural Gas Rights, including warranties and guarantees made by suppliers,
+               manufacturers and contractors under the Assets, and claims against other
+               Third Patiies in connection with the contracts relating to the Petroleum and
+               Natural Gas Rights;
+
+       (iii)   all subsisting rights to carry out operations relating to the Lands;
+
+       (iv)    rights to enter upon, use, occupy and enjoy the surface of any lands which
+               are used or may be used to gain access to or otherwise use the Petroleum
+               and Natural Gas Rights; and
+
+       (v)     all records, books, documents, licences, reports and data which relate to the
+               Petroleum and Natural Gas Rights, including any of the foregoing that
+               pertain to geological or geophysical matters and, including plans, surveys,
+               maps, cross-sections, production records, electric logs, cuttings, cores, core
+               data, pressure data, decline and production curves, well files, and related
+               matters, division of interest records, lease files, title opinions, abstracts of
+               title, title curative documents, lease operating statements and all other
+               accounting information, marketing reports, statements, gas balancing
+               information, and all other documents relating to customers, sales
+               information, supplier lists, records, literature and correspondence, physical
+               maps, geologic or geophysical interpretation, electronic and physical
+               project files,
+
+       provided that unless otherwise agreed in writing by the Parti~s, the Miscellaneous
+       Interests shall not include any documents or data to the extent that they are owned
+       or licensed by Third Parties with restrictions on their deliverability or disclosure by
+       the Vendor or the Debtor to an assignee;
+
+(jj)   "Municipal Tax Liabilities" has the meaning given in Section 2.4(b );
+
+(kk)   "Notice Period" has the meaning ascribed to that term in Section 8.2(b);
+
+(11)   "Order" means any order, writ, judgment, injunction, decree, stipulation,
+       determination, decision, verdict, ruling, subpoena, or award entered by or with any
+       Governmental Authority (whether temporary, preliminary, or permanent);
+
+(mm) "Outside Date" means the date which occurs 90 days following the date of
+     execution of this Agreement, or such other date as the Parties may agree;
+
+(nn)   "Outstanding ROFR Assets" has the meaning set forth in Section 11.2(e)(ii);
+                                                                                               041
+                                               -16-
+
+
+                                       ARTICLE 2
+                                   PURCHASE AND SALE
+
+2.1    Agreement of Purchase and Sale
+
+        Subject to the terms and conditions of this Agreement, and in consideration of the Purchase
+Price, the Vendor hereby agrees to sell, assign and transfer to the Purchaser, and the Purchaser
+agrees to purchase, accept and receive from the Vendor, the Debtor's interest in and to the Assets.
+
+2.2    Transfer of Property and Assumption of Liabilities
+
+        Provided that Closing occurs and subject to the terms and conditions of this Agreement,
+possession, risk, and legal and beneficial ownership of the Assets shall transfer from the Vendor
+or the Debtor, as applicable, to the Purchaser on the Closing Date, and the Purchaser agrees to
+assume, discharge, perform and fulfill all Assumed Liabilities. Without limiting the provisions of
+this Agreement relating to the General Conveyance, Assignment and Assumption Agreement (and
+such agreement itself), or any other provisions of this Agreement relating to sale, transfer,
+assignment, conveyance or delivery, the Assets shall be sold, assigned, transferred, conveyed, and
+delivered by the Vendor on behalf of the Debtor to the Purchaser by way of the Specific
+Conveyances and other appropriate instruments of transfer, bills of sale, endorsements,
+assignments, and deeds, in recordable form, or by way of an Order of the Court, as appropriate,
+and free and clear of any and all Claims other than Permitted Encumbrances, as applicable.
+
+2.3    Specific Conveyances
+
+       (a)     Within a reasonable time following its receipt of the Title and Operating
+               Documents from Vendor, Purchaser shall prepare and provide for the Vendor's
+               review all Specific Conveyances. None of the Specific Conveyances shall confer
+               or impose upon either Party any greater right or obligation than as contemplated in
+               this Agreement. Promptly after Closing, the Purchaser shall register and/or
+               distribute (as applicable), all such Specific Conveyances and shall bear all costs
+               incurred therewith and in preparing and registering any further assurances required
+               to convey the Assets to the Purchaser.
+
+       (b)     As soon as practicable following Closing, the Vendor shall deliver or cause to be
+               delivered to the Purchaser such original copies of the Title and Operating
+               Documents and any other agreements and documents to which the Assets are
+               subject and such original copies of contracts, agreements, records, books,
+               documents, licenses, reports and data comprising Miscellaneous Interests which are
+               now in the possession or control of the Vendor or of which the Vendor gains
+               possession or control of prior to Closing.
+
+        (c)    Notwithstanding Sections 2.3(a) and 2.3(b), requests for the transfers from the
+               Vendor to the Purchaser of registered Crown leases or licences and any other Title
+               and Operating Documents which are administered by a Governmental Authority
+               shall be submitted by the Vendor and accepted by the Purchaser as soon as is
+               practicable after Closing.
+                                                                                                 042
+                                                 -17-
+
+
+2.4    Assumed Liabilities
+
+         Provided that Closing occurs, Purchaser agrees to assume, pay, discharge, perform and
+fulfill all liabilities and obligations of the Vendor or the Debtor arising on or after the Effective
+Time and which relate to the Assets, excluding any liabilities or obligations relating to the
+Excluded Assets. For greater certainty, the Purchaser shall assume, without limitation:
+
+       (a)     all Abandonment and Reclamation Liabilities and Environmental Liabilities in
+               respect of the Assets however and whenever arising or occurring;
+
+       (b)     all municipal property tax liabilities associated with the Assets owed by the Debtor
+               to the County of Vermilion River (the "Municipal Tax Liabilities"); and
+
+       (c)     all Cure Costs in respect of the Assets.
+
+                                          ARTICLE3
+                                       PURCHASE PRICE
+
+3.1    Purchase Price
+
+        The consideration payable by the Purchaser for the Assets shall be the sum of-
+(the "Purchase Price"). The Purchase Price shall be satisfied in accordance with Section 3.3(b)
+subject to any adjustments in accordance with Article 9. The Purchaser and the Vendor
+acknowledge and agree that the Purchase Price reflects the fair market value of the Assets as of
+the Closing Date, having due regard to the Environmental Liabilities connected to and embedded
+in the Assets that depress the value of the Assets.
+
+3.2     Allocation of Purchase Price
+
+        The Purchase Price shall be allocated among the Assets as follows:
+
+        (a)    to the Petroleum and Natural Gas Rights,                      ; and
+
+        (b)    to the Miscellaneous Interests-          .
+
+3.3     Deposit and Satisfaction of Purchase Price
+
+        (a)    The Parties acknowledge that:
+
+                (i)     on the date hereof, the Purchaser paid the amount equal to
+                        of the Purchase Price (the "Deposit") to the Vendor;
+
+                (ii)    the Deposit has been delivered to and shall be held in trust by the Vendor;
+                        and
+
+                (iii)   the Deposit shall be held and administered by the Vendor in accordance
+                        with the terms and conditions of this Agreement (including this Section
+                        3.3).
+                                                  043
+
+
+
+
+               This is Exhibit "I"
+ referred to in the Affidavit of Tracy Wadson
+Sworn before me this 22 nd day of October, 2025
+
+
+
+           A Commissioner of Oaths
+       in and for the Province of Alberta
+
+            Kenneth M. Whitelaw
+    Barrister and Solicitor, Notary Public and
+   A Commissioner for Oaths in and for Alberta
+                                               044
+
+
+
+
+AMENDED AND REST ATED SUBSCRIPTION AGREEMENT
+
+                  BETWEEN:
+
+           ALPHABOW ENERGY LTD.
+
+                     - and -
+
+             2628071 ALBERT A LTD.
+
+                     Dated:
+
+               December Q. 16, 2024
+                                                                                                    045
+
+
+
+
+                 AMENDED AND RESTATED SUBSCRIPTION AGREEMENT
+
+THIS AMENDED AND RESTATED SUBSCRIPTION AGREEMENT made as of December 41.2,
+2024:
+
+BETWEEN:
+
+                          ALPHABOW ENERGY LTD. (the "Company")
+
+                                                  - and -
+
+                             2628071 ALBERTA LTD. (the "Purchaser")
+
+
+WHEREAS:
+
+A.     the Company commenced proceedings (the "CCAA Proceedings") in the Court of King's Bench
+       of Alberta in the Judicial District of Calgary, Alberta (the "Court") under the Companies'
+       Creditors Arrangement Act, RSC 1985, c. C-36 (the "CCAA") and on April 26, 2024, the
+       Company was granted creditor protection pursuant to an initial order granted by the Court under
+       the CCAA (the "Initial Order");
+
+B.     pursuant to the Initial Order, among other things, KSV Restructuring Inc. ("KSV") was
+       appointed as monitor of the Company;
+
+C.     on April 26, 2024, the Court granted an amended and restated order (the "ARIO");
+
+D.     all licensed assets and properties of the Company are currently subject to a suspension order and
+       have been under the care and maintenance of the Orphan Well Association since September 6,
+       2023;
+
+E.     pursuant to an order of the Court dated April 26, 2024 (the "SISP Order"), the Court approved a
+       sale and investment solicitation process in connection with the CCAA Proceedings;
+
+F.     further to the SISP Order, the Company and the Purchaser entered into negotiations for the
+       subscription for and purchase of the Purchased Shares by the Purchaser, to bt? completed through
+       a series of transactions between the Company and the Purchaser to proceed by way of the
+       Reverse Vesting Order;
+
+
+
+
+I I.   This Agreement amends and restates, in its entirety. the Subscri )tion A 0 1~ce)!1ent:
+
+I.     G-:-the Company wishes to issue to the Purchaser, and the Purchaser has agreed to subscribe for
+       and purchase from the Company, the Purchased Shares, upon the terms and conditions set forth
+       herein;
+                                                                                                        046
+-2~
+
+
+J.     l-1-:-the Company shall effect a reorganization of its Articles of Incorporation pursuant to which,
+       among other things, all existing Equity Interests shall be redeemed for nominal consideration and
+       then extinguished, immediately prior to the subscription for and purchase of the Purchased
+       Shares by the Purchaser pursuant to this Agreement (the "Reorganization");
+
+K.     l-:-at Closing, the Purchased Shares shall represent all of the issued and outstanding equity of the
+       Company;
+
+L.     J.:-the Transactions contemplated by this Agreement are subject to the approval of the Court and
+       will be consummated only pursuant to and in accordance with this Agreement and the approval
+       of the Court pursuant to the Reverse Vesting Order.
+
+NOW THEREFORE, THIS AGREEMENT WITNESSETH that in consideration of the premises and
+the mutual covenants and agreements hereinafter set forth and for other good and valuable consideration,
+the receipt and sufficiency of which are hereby acknowledged , the Parties have agreed as follows:
+
+                                            ARTICLE 1
+                                         INTERPRETATION
+
+1.1     Definitions
+
+In this Agreement, unless the context otherwise requires:
+
+        (a)     "2628069 Alberta" means 2628069 Alberta Ltd., which is an Affiliate of the Purchaser;
+
+        (b)     "2628069 Transaction" means the transactions contemplated in the asset purchase and
+                sale agreement dated the date hereof between 2628069 Alberta and the Company;
+
+        (c)     "2628071 Asset Transaction" means the asset sale transaction contemplated in the asset
+                purchase and sale agreement dated the date hereof between the Purchaser and the
+                Company;
+
+        (d)     "Abandonment and Reclamation Obligations" means all past, present and future
+                obligations to:
+
+                (i)     abandon, shut-down, close, decommission, dismantle or remove any and all
+                        Wells and Tangibles, including all structures, foundations, buildings, pipelines,
+                        equipment and other facilities forming part of the Wells and Tangibles or
+                        otherwise located on the Lands or used or previously used in respect of
+                        Petroleum Substances produced or previously produced from the Lands; and
+
+                (ii)    restore, remediate and reclaim the surface and subsurface locations of the Wells
+                        and the Tangibles and any lands used to gain access thereto, including such
+                        obligations relating to wells, pipelines and facilities which were abandoned or
+                        decommissioned prior to the Closing Date that were located on the Lands or that
+                        were located on other lands and used in respect of Petroleum Substances
+                        produced or previously produced from the Lands, and including the remediation,
+                        restoration and reclamation of any other surface and sub-surface lands affected
+                        by any environmental damage, contamination or other environmental issues
+                        emanating from or relating to the sites for the Wells or the Tangibles;
+                                                                                                 047
+                                            -4-
+
+
+(r)     "Closing" means the completion of the Transaction pursuant to this Agreement;
+
+(s)     "Closing Date" means the date on which Closing occurs, which date shall be no later than
+        three (3) Business Days from the date on which all conditions set out in A1ticle 4 (other
+        than those conditions that by their nature can only be satisfied on the Closing Date) have
+        been satisfied or waived or such other date as may be agreed upon by the Parties;
+
+(t)     "Closing Place" means the office of the Company or its counsel, or such other place as
+        may be agreed upon in writing by the Patties, including electronically;
+
+(u)     "Closing Sequence" has the meaning ascribed thereto in the Section 3.3;
+
+(v)     "Common Shares" means common shares in the capital of the Company;
+
+(w)     "Company" has the meaning ascribed thereto in the recitals;
+
+(x)     "Company Release" has the meaning ascribed thereto in Section 3.4(b)(iv);
+
+(y)     "Confidentiality Agreement" means the confidentiality agreement between the Company,
+        the Purchaser and the Monitor and executed prior to the date hereof in respect of the
+        evaluation by the Purchaser of potential transactions involving the Company;
+
+(z)     "Confidential Materials" has the meaning ascribed thereto in Section 9 .12;
+
+(aa)    "Court" has the meaning set out in the recitals;
+
+(bb)    "Creditor Trust" means the trust to be formed pursuant to the Reverse Vesting Order and
+        named "AlphaBow Energy Residual Trust", which shall hold the Transferred Assets and
+        the Transferred Liabilities for the benefit of the creditors of the Company, and subject to
+        the claims under the Reverse Vesting Order, all in the manner specified herein and set forth
+        in the Reverse Vesting Order;
+
+(cc)    "Creditor Trust Settlement" means the Creditor Trust Settlement attached as a schedule
+        to the Reverse Vesting Order;
+
+( dd)   "Cure Costs" means, in respect of any Retained Contract, all amounts required to be paid,
+        as detennined in accordance with the claims process established by an Order of the Comt
+        dated September 20, 2024 (the "Claims Process"), to remedy all of the Company's
+        monetary defaults under such Retained Contract or required to secure a counterpa1ty's or
+        any other necessary Person's consent to the assignment of such Retained Contract pursuant
+        to its terms (including any deposits or other forms of security required by any
+        Governmental Authority) or as may be required pursuant to the Reverse Vesting Order.
+        For greater ce1tainty, any claims for cure costs not submitted in accordance with the Claims
+        Process, or not determined to be valid in accordance with the Claims Process, shall not be
+        considered "Cure Costs" for the purposes of this Agreement;
+
+(ee)    "Deposit" has the meaning ascribed thereto in Section 2.4;
+
+(ff)    "Encumbrances" means all security interests (whether contractual, statutory, or
+        otherwise), hypothecs, pledges, mo1tgages, liens, trusts or deemed trusts (whether
+        contractual, statutory or otherwise), reservations of ownership, royalties, options, rights of
+                                                                                                    048
+                                             -8-
+
+
+                curves, well files, and related matters, division of interest records, lease files, title
+                opinions, abstracts of title, title curative documents, lease operating statements and
+                all other accounting information, marketing repo1ts, statements, gas balancing
+                information, and all other documents relating to customers, sales information,
+                supplier lists, records, literature and correspondence, physical maps, geologic or
+                geophysical interpretation, electronic and physical project files; and
+
+        (vi)    the Wells, including the wellbores and any and all casing and down-hole
+                monitoring and pumping equipment;
+
+        however, the Miscellaneous Interests shall not include: (x) the Transferred Assets or the
+        Transferred Contracts, (y) agreements, documents or data to the extent that they solely
+        consist of the Transferred Assets or the Transferred Contracts, or (z) the Excluded Assets;
+
+(yy)    "Monitor" means KSV, in its capacity as the Court-appointed monitor of the Company
+        during the CCAA Proceedings and not in its personal or corporate capacity;
+
+(zz)    "Monitor's Certificate" means the ce1tificate to be filed by the Monitor ce1tifying that all
+        conditions of Closing of the Transactions contemplated by this Agreement and approved
+        by the Reverse Vesting Order have been satisfied;
+
+(aaa)   "O&G Assets" means the Petroleum and Natural Gas Rights, Tangibles and Miscellaneous
+        Interests (including for ce1tainty, the Company's interest in the Wells) but excluding, for
+        greater ce1tainty, the Excluded Assets;
+
+(bbb)   "Order" means all judicial, arbitral, administrative, ministerial, departmental or regulatory
+        judgments, injunctions, orders, decisions, rulings, determinations, awards, or decrees of
+        any Governmental Authority (in each case, whether temporary, preliminary or permanent);
+
+(ccc)   "Outside Date" means 180 days following the date of this Agreement, or such other date
+        as may be agreed upon between the patties in writing;
+
+(ddd)   "Parties" means, collectively, all of the parties to this Agreement; and "Party" means a
+        party to this Agreement;
+
+(eee)   "Permits" means, all licences, permits, approvals and authorizations granted or issued by
+        any Governmental Authorities and relating to the construction, installation, ownership, use
+        or operation of the Retained Assets;
+
+(fft)   "Person" means any individual, corporation, limited or unlimited liability company, joint
+        venture, pa1tnership (limited or general), trust, trustee, executor, Governmental Authority
+        or other entity;
+
+(ggg)   "Petroleum and Natural Gas Rights" means all of Company's right, title and interest in
+        and to:
+
+        (i)     rights in, or rights to explore or drill for and to recover, produce, save and market,
+                Petroleum Substances;
+
+        (ii)     rights to a share of production of Petroleum Substances therefrom;
+                                                                                                         049
+-I 0-
+
+
+                Incorporation will be amended and all existing Equity Interests shall be redeemed for
+                nominal consideration and then extinguished immediately prior to the subscription for
+                and purchase of the Purchased Shares by the Purchaser pursuant to this Agreement;
+
+        (ooo)   "Representative" means, with respect to any Pmty, its Affiliates, and its and their
+                respective directors, officers, agents, advisors, employees and consultants and with
+                respect to the Company includes its employees and consultants, and its and their
+                respective directors, officers, agents, advisors, employees and consultants and, with
+                respect to the Company, includes the Monitor;
+
+        (ppp)   "Retained Assets" means all of the Company's right, title and interest in and to the assets
+                described under the heading "Retained Assets" and "Retained Contracts" in Schedule
+                "B" hereto, excluding, for greater certainty, the Transferred Assets and the Excluded
+                Assets;
+
+        (qqq)   "Retained Contracts" means those contracts, agreements and commitments described
+                under the heading "Retained Contracts" in Schedule "B" hereto, excluding, for greater
+                certainty, the Transferred Contracts and any contracts comprising the Excluded Assets;
+
+        (rrr)   "Retained Liabilities" means those liabilities described under the heading "Retained
+                Liabilities" in Schedule 11 8 11 hereto, excluding, for greater certainty, the Transferred
+                Liabilities and the Excluded Liabilities;
+
+        (sss)   "Reverse Vesting Order" means an Order of the Court, in substantially the form
+                attached hereto as Schedule "A", or in such other form as may be agreed to by the Parties
+                in writing that, among other things: (a) approves this Agreement and the Transactions
+                contemplated hereby upon the Transactions being determined by the Court to be a
+                Successful Bid (including the redemption for nominal consideration, and subsequent
+                cancellation, of all of the issued and outstanding Equity Interests of the Company, other
+                than the Purchased Shares); and (b) upon the delivery of a copy of the Monitor's
+                Certificate to the Purchaser, among other things: (i) transfers all of the Company's right,
+                title and interest in and to the Transferred Assets to the Creditor Trust; (ii) transfers all
+                Transferred Liabilities to the Creditor Trust; (iii) releases and discharges the Company
+                from all of the Transferred Liabilities; and (iv) releases the Company from the purview
+                of the CCAA Proceedings and adding the Creditor Trust as an entity in the CCAA
+                Proceedings;
+
+        (ttt)   "SISP Order" has the meaning ascribed thereto in the recitals;
+
+
+
+        (vvv)   (:-ttlttii-"Surface Rights" means all rights to occupy, cross or otherwise use or enjoy the
+                surface of the Lands and any lands pooled or unitized therewith or any other lands: (i)
+                upon which the Tangibles are situate, (ii) used in connection with the ownership or
+                operation of the Petroleum and Natural Gas Rights, the Tangibles or the Wells, or (iii)
+                used to gain access to any of the Lands (or any lands pooled or unitized therewith), the
+                Tangibles or the Wells, whether the same are fee simple, held by right of way or
+                otherwise;
+
+        (www) ~     "Tangibles" means all of the Company's right, title and interest in and to all
+        - - - tangible depreciable property, apparatus, plant, equipment, machinery, field inventory
+                                                                                                           050
+
+
+
+THE FOLLOWING COMPRISES SCHEDULE "B" ATTACHED TO AND FORMING PART
+OF A AN AMENDED AND RESTATED SUBSCRIPTION AGREEMENT DATED DECEMBER
+916, 2024 BETWEEN ALPHABOW ENERGY LTD. AND 2628071 ALBERTA LTD.
+
+Trnnsferred Assets
+
+The Transferred Assets, being those assets proposed to be transferred to the Creditor Trust through
+operation of the Reverse Vesting Order, mean:
+
+       •       all cash, bank balances, funds, deposits, or monies owned or held by the Company, the
+               Monitor or any other Person (including any bank or depository) on behalf of the
+               Company at Closing and all cash equivalents, securities and investments of the Company
+               at Closing;
+
+       •       all accounts receivable, bills receivable, trade accounts, holdbacks, retention, book debts,
+               insurance claims and other amounts due or accruing to the Company and includes, for
+               greater certainty, any and all Tax Refunds, and together with any unpaid interest accrued
+               on such items and any security or collateral for such items, including recoverable
+               deposits, which arise prior to Closing;
+
+       •       all Tax Refunds which arise prior to Closing; and
+
+       •       any other assets of the Company designated as a Transferred Asset upon the mutual
+               agreement of the Purchaser and the Monitor, in writing prior to Closing.
+
+Transferred Liabilities
+
+The Transferred Liabilities, being those liabilities proposed to be transferred to the Creditor Trust
+through operation of the Reverse Vesting Order, mean:
+
+       •       any and all liabilities with respect to any employees of the Company, including for
+               wages or other work-related benefits, bonuses, fees, accrued vacation, workers'
+               compensation, employee deferred compensation including stock option plans, equity
+               grants, other grants and agreements, retention, or other payments other than liabilities
+               with respect to any vacation entitlement and notice entitlement upon termination of
+               employment; and
+
+       •
+       =
+               the Gross Overridin, Ro alt A 0 reement between Al _haBow and Advance Drillin, Ltd .
+               dated November 23. 2018 ;
+
+       •       the Ro alt A 1 reement bet, een Al JrnBow and Advance Drilling Ltd. elated October 28
+               2021 ;
+
+        •      the Settlement Au.reement between AlphaBow and Advance Drillin 1 Ltd. elated
+               November 12, 2021 ;
+
+        •      all Orders of an ' Governmental Authorit , excludin 11 for 1 reater certaint\' anv re1.?.ulatory_
+               Orders of the AER;
+                                                                                                          051
+                                                   B-2
+
+
+       •        any and all et-lter-liabilities pertaining to the Transferred Assets and arising under the
+                Transferred Contracts except as otherwise set out herein. ; an~!
+
+        •       an I and all other liabilities of the Com an other than the Retained Liabilities.
+
+Transferred Contracts
+
+The Transferred Contracts, being those contracts proposed to be transferred to the Creditor Trust through
+operation of the Reverse Vesting Order, mean:
+
+        •       all surface leases related to freehold mineral lands includin those set forth in A )endix
+                ·'J'' to this Schedule; and
+
+        •       any and all other contracts of the Company other than the Retained Contracts .
+
+Retained Assets
+
+The Retained Assets, being those assets proposed to be retained by the Company, mean:
+
+        •       the O&G Assets;
+
+        •       the Real Propetty;
+
+        •       all prepaid expenses or other security or collateral provided by the Company; all books
+                and records of the Company, including minute books, books of account, ledgers, general,
+                financial and accounting records, tax returns and other records in the possession and
+                control of the Company or the Monitor, but in each case excludes all books and records
+                in respect of the Transferred Assets, Transferred Liabilities, the Excluded Assets and the
+                Excluded Liabilities and excludes any email correspondence of the Company (including
+                any of its present and former, directors, officers, employees, contractors and other
+                representatives) prior to Closing;
+
+        •       the Company's bank accounts and all agreements related thereto;
+
+        •       all regulatory and license attributes of the Company, including without limitation:
+                business numbers; payroll numbers; GST numbers; and regulatory operator codes;
+
+        •       letters of intent, non-disclosure agreements, confidentiality agreements and non-
+                compete/non-solicitation agreements (other than any employment agreements);
+
+        •       all shares of capital stock or other Equity Interests in any subsidiary of the Company;
+
+        •       any intercompany indebtedness or claim owing to the Company by an Affiliate of the
+                Company;
+
+        •         all organizational documents, corporate books and records, income tax returns and the
+                  corporate seal of the Company;
+
+        •         any records that are required by law to be retained by the Company;
+                                                                                                       052
+                                                    B-3
+
+
+
+       •       all computer servers and websites;
+
+       •       all office equipment;
+
+       •       all leased or owned vehicles;
+
+       •       all inventory;
+
+       •       legal opinions and all other documents prepared by or on behalf of the Company in
+               contemplation of acquisition or litigation and any other documents within the possession
+               of the Company which are subject to solicitor-client privilege under the laws of the
+               Province of Alberta or any other jurisdiction, except with respect to those matters, if any,
+               in respect of which the Purchaser is assuming responsibility for and indemnifying the
+               Company;
+
+       •       all tax attributes (including for certainty all government credits of any nature) if any, of
+               the Company inherent to it, including tax pools, all rights related to former tax returns,
+               operating, non-operating, and capital loss balances or carry forwards and tax audits,
+               excluding any tax attributes which have been transferred to the purchaser(s) of any of the
+               Excluded Assets, if applicable;
+
+       •       all rights to payments and benefits under government support and subsidy programs;
+
+       •       all existing insurance policies maintained by the Company with respect to the O&G
+               Assets;
+
+       •       all current and prior director and officer insurance policies of the Company and all rights
+               of any nature with respect thereto running in favor of the Company;
+
+       •       any and all rights of the Company under this Agreement and the Reverse Vesting Order;
+
+       •       all Claims, rights, Losses or causes of action by or on behalf of the Company against any
+               Person;
+
+       •        all intellectual property;
+
+        •       all goodwill and intangibles;
+
+        •       the Facilities and Wells referred to in Appendix "+I" to this Schedule "B"; and
+
+        •       any and all other assets or interests of the Company other than the Transferred Assets
+                and the Excluded Assets.
+
+Retained Liabilities
+
+The Retained Liabilities, being those liabilities proposed to be retained by the Company, mean:
+                                                                                                    053
+                                                 B-4
+
+
+
+       •      all liabilities and obligations arising from the possession, ownership and/or use of the
+              Retained Assets and the business of the Company from and after Closing including for
+              greater certainty, all Cure Costs;
+
+       •      non-disclosure agreements, confidentiality agreements and non-compete/non-solicitation
+              agreements;
+
+       •      all new liabilities incurred, assumed or accepted -by the Company after Closing;
+
+       •      all Environmental Liabilities relating to the Retained Assets but excluding, for greater
+              certainty, the Excluded Liabilities;
+
+       •      all regulatory and government liabilities related to the Retained Assets, exce pt to the
+              extent such overnment liabilities are mon~tary in nature;
+
+       •      all re ulator Orders of the AER·
+
+       •      any and all surface lease payments related to the Retained Assets and Crown surfac~
+              leases; and
+
+       •      any other obligation designated as a Retained Liability by the Purchaser in writing to the
+              Company or the Monitor prior to the closing of the Transactions.
+
+Retained Contracts
+
+The Retained Contracts, being those assets to be retained by the Company through operation of the
+Reverse Vesting Order, mean:
+
+       •      All Crown surface leases; and
+
+       •       those Contracts which may be designated as Retained Contracts pursuant to Section
+               3.6(a).
+                                                  054
+
+
+
+
+               This is Exhibit "J"
+ referred to in the Affidavit of Tracy Wadson
+Sworn before me this 22 nd day of October, 2025
+
+
+
+           A Commissioner of Oaths
+       in and for the Province of Alberta
+
+
+            Kenneth M. Whitelaw
+    Barrister and Solicitor, Notary Public and
+   A Commissioner for Oalhs in and for Alberta
+                                                                                                       055
+CERTIFIED.::: _c,_,A.,,., .t-, . ,
+by the Court Clerk as a true copy of
+the document digitally filed on Jan
+2, 2025                                                                               CLERK'S STAMP
+
+
+
+
+             COURT FILE NUMBER:                   2401-05179
+
+             COURT                                COURT OF KING'S BENCH OF AL
+
+             JUDICIAL CENTRE                      CALGARY
+
+                                                  IN THE MATTER OF THE COMPANIES' CREDITORS
+                                                  ARRANGEMENT ACT, R.S.C. 1985, c. C-36, as amended
+
+                                                  AND IN THE MATTER OF A PLAN                          OF
+                                                  COMPROMISE     OR    ARRANGEMENT                     OF
+                                                  ALPI-IABOW ENERGY LTD.
+
+             DOCUMENT                             TRANSACTION APPROVAL AND REVERSE
+                                                  VESTING ORDER
+
+             ADDRESS FOR SERVICE                  BENNETT JONES LLP
+             AND CONTACT                          Suite 4500, 855 - 2nd Street S.W.
+             INFORMATION OF                       Calgary, AB T2P 4K7
+             PARTY FILING THIS
+             DOCUMENT:                            Attention: Keely Cameron/ Sarah Aaron
+                                                  Telephone No.: 403-298-3324/3177
+                                                  Fax No.: 403-265-7219
+                                                  Client File No.: 88323.6
+
+          DATE ON WHICH ORDER WAS PRONOUNCED:                         Thursday, December 19, 2024
+
+          LOCATION OF HEARING OR TRIAL:                               Calgary Law Courts, via Webex
+
+          NAME OF JUSTICE WHO MADE THIS ORDER:                        The Honourable Justice J. R. Jeffrey
+
+                      UPON the application of AlphaBow Energy Ltd. ("AlphaBow" or the "Applicant") for
+          an Order approving the sale transaction (the "Transaction") contemplated by the Amended and
+          Restated Subscription Agreement dated December 16, 2024 (the "Subscription Agreement")
+          between AlphaBow and 2628071 Alberta Ltd. (the "Purchaser"); AND UPON having read the
+          Affidavit of Ben Li, sworn on December 9, 2024, the Supplemental Affidavit of Ben Li, sworn on
+          December 16, 2024, the Affidavit of Service of Stephanie Dumoulin, and the Monitor's Sixth
+                                                                                                  056
+                                               -2-
+
+
+Report (the "Sixth Report"); AND UPON hearing the submissions of counsel for the Applicant,
+counsel for KSV Restructuring Inc. (the "Monitor"), and any other interested parties appearing at
+the application AND UPON the Court being satisfied based on the written submissions that the
+factors set out in Harle Gold Corp (Re), 2022 ONSC 653 have been met and the transaction has
+not been structured to override voting on a plan;
+
+       IT IS HEREBY ORDERED AND DECLARED THAT:
+
+SERVICE
+
+1.     Service of notice of this application and supporting materials is hereby declared to be good
+       and sufficient, no other person is required to have been served with notice of this
+       application and time for service of this application is abridged to that actually given.
+
+CAPITALIZED TERMS
+
+2.     Capitalized terms used but not otherwise defined in this Order shall have the meaning given
+       to such terms in the Subscription Agreement.
+
+APPROVAL OF TRANSACTION
+
+3.     The Subscription Agreement and Transaction are hereby approved, and execution of the
+       Subscription Agreement by the Applicant is hereby authorized and approved, with such
+       amendments as the Applicant and the Purchaser (in consultation with the Monitor) may
+       agree to. The Applicant is hereby authorized and directed to complete the Transaction
+       subject to the terms of the Subscription Agreement, to perform its obligations under the
+       Subscription Agreeme~t and any ancillary documents related thereto, and to take such
+       additional steps and execute such additional documents as may be necessary or desirable
+       for completion of the Transaction. In the event of any conflict between the terms of the
+       Subscription Agreement and this Order, this Order shall prevail.
+
+4.      Subject to the terms of the Subscription Agreement, this Order shall constitute the only
+        authorization required in respect of the Applicant proceeding with and completing the
+        Transaction.
+                                                                                              057
+                                              -3-
+
+
+REORGANIZATION AND ISSUANCE OF SHARES OF THE COMPANY
+
+5.   On the Closing Date, the Applicant is hereby authorized and directed to complete the
+     Transaction, including the Reorganization and issuance of the Purchased Shares to the
+     Purchaser (or its nominee) in consideration of the Purchase Price.
+
+6.   The Purchased Shares shall be issued by AlphaBow to the Purchaser (or its nominee) free
+     and clear of and from any Losses or Encumbrances.
+
+7.   The Purchaser (or its nominee) and the Applicant, in completing the Transaction, are
+     authorized to:
+
+     (a)    execute and deliver any documents and assurances governing or giving effect to the
+            Transaction as the Purchaser (or its nominee) and/or the Applicant in consultation
+            with the Monitor, may deem to be reasonably necessary or advisable to conclude
+            the Transaction, including the execution of all such ancillary documents as may be
+            contemplated in the Subscription Agreement or necessary or desirable for the
+            completion and implementation of the Transaction, and all such ancillary
+            documents are hereby ratified, approved and confirmed; and
+
+     (b)    take such steps as are, in the opinion of the Monitor, the Purchaser (or its nominee)
+            and/or the Applicant, necessary or incidental to the implementation of the
+            Transaction.
+
+8.   The Registrar appointed pursuant to Section 243 of the Business Corporations Act, RSA
+     2000, c B-9, as applicable, shall accept and receive any documents or instruments as may
+     be required to permit or enable and effect the Transaction contemplated in the Subscription
+     Agreement, filed by the Applicant and/or the Monitor.
+
+VESTING OF ASSETS AND LIABILITIES
+
+9.   Subject to       the   terms   of the   Subscription Agreement,      upon   delivery   of the
+     Monitor's certificate to the Purchaser substantially in the form set out in Schedule "A"
+     hereto (the "Monitor's Certificate"), the following shall occur and be deemed to occur
+                                                                                       058
+                                       -4-
+
+
+commencing at the time of delivery of the Monitor's Certificate (the "Effective Time") in
+the following sequence:
+
+(a)    all right, title and interest of AlphaBow in and to the Transferred Assets shall be
+       transferred to and shall vest absolutely and exclusively, without recourse, in the
+       Creditor Trust and all Losses and Encumbrances attached to the Transferred Assets
+       (other than the Retained Liabilities) shall continue to attach to the Transferred
+       Assets with the same nature and priority as they had immediately prior to their
+       transfer. For greater certainty, the O&G Assets, Abandonment and Reclamation
+       Obligations, and Environmental Liabilities, as defined in the Subscription
+       Agreement, shall not constitute Transferred Assets and form part of the Creditor
+       Trust.
+
+(b)    all Losses and Encumbrances in respect of the Company (including the
+       "Transferred Liabilities" as defined in Schedule "B" to the Subscription
+       Agreement), other than the Retained Liabilities, shall be transferred to and assumed
+       by and shall vest absolutely and exclusively without recourse in the Creditor Trust,
+       and shall no longer be liabilities of the Company, and such Losses and
+       Encumbrances (including the Transferred Liabilities) shall continue to attach to the
+       Transferred Assets with the same nature and priority as they had immediately prior
+       to the Effective Time, as if the Transferred Assets had not been conveyed and had
+       remained in the possession or control of the person having that possession or control
+       immediately prior to the transfer;
+
+(c)    all Losses and Encumbrances (including without limitation, the Transferred
+       Liabilities) other than the Retained Liabilities shall be irrevocably and forever
+       expunged, released and discharged as against the Company, the Purchaser (or its
+       nominee), the Purchased Shares and the Retained Assets;
+
+(d)    without limiting subparagraph 9(c), any and all security registrations against
+        AlphaBow shall be and are hereby forever released and discharged as against
+        AlphaBow, and all such security registrations shall attach to the Transferred Assets
+        vested in the Creditor Trust and maintain the same attributes, rights, nature,
+                                                                                               059
+
+
+
+
+             perfection and priority as they had immediately prior to the Effective Time, as if
+             the Transferred Assets had not been conveyed and remained in the possession or
+             control of the person having that possession or control immediately prior to the
+             transfer, and no financing change statements in any applicable personal property or
+             other registry system are required to reflect the transfer of and assumption by the
+             Creditor Trust of such security registrations; and
+
+      (e)    the Company shall cease to be a Party in this Action and shall be released from the
+             purview of the Amended and Restated Initial Order ("ARIO") and all other orders
+             of this Comi granted in these proceedings.
+
+10.   As of the Effective Time:
+
+      (a)    AlphaBow shall continue to hold all right, title and interest in and to the Retained
+             Assets, free and clear of all Losses and Encumbrances other than the Retained
+             Liabilities; and
+
+      (b)    AlphaBow shall be deemed to have disposed of the Tran sferred Assets and shall
+             have no right, title or interest in or to the Transferred Assets.
+
+11.   For greater certainty, any person that, prior to the Effective Time, had a Loss or
+      Encumbrance (other than a Retained Liability) against AlphaBow or its assets, properties
+      or undertakings shall, as of the Effective Time, no longer have any such Loss or
+      Encumbrance against or in respect of AlphaBow or the Retained Assets, but shall have an
+      equivalent Loss or Encumbrance, as applicable, against the Transferred Assets to be
+      administered by the Creditor Trust from and after the Effective Time, with the same
+      attributes, rights, security, nature and priority as such Loss or Encumbrance had
+      immediately prior to its transfer to the Creditor Trust, and nothing in this Order limits,
+      lessens, modifies (other than by change in debtor) or extinguishes the Loss or Encumbrance
+      of any Person as against the Transferred Assets to be administered by the Creditor Trust.
+
+12.   From and after the Effective Time, the Purchaser (or its nominee) and/or AlphaBow (or
+      the Monitor on its behalf) shall be authorized to take all steps as may be necessary to effect
+

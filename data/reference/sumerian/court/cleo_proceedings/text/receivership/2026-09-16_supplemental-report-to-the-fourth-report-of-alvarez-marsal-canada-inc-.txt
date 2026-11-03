@@ -1,0 +1,454 @@
+ COURT FILE NUMBER         2501-09028                               Clerk’s Stamp
+
+
+ COURT                     COURT OF KING’S BENCH
+                           OF ALBERTA
+                                                                 FILED
+                                                               DIGITALLY
+ JUDICIAL CENTRE           CALGARY                            2501 09028
+                                                              Sep 16, 2026
+ APPLICANT                 UCAPITAL – ULOAN SOLUTIONS INC.3:08 PM
+
+ RESPONDENT                2755857 ALBERTA LTD.
+
+                           IN THE MATTER OF THE RECEIVERSHIP OF
+                           2755857 ALBERTA LTD.
+
+
+ DOCUMENT                  SUPPLEMENTAL REPORT TO THE FOURTH
+                           REPORT OF ALVAREZ & MARSAL CANADA
+                           INC., IN ITS CAPACITY AS RECEIVER AND
+                           MANAGER OF 2755857 ALBERTA LTD.
+
+                           September 15, 2026
+
+ ADDRESS FOR SERVICE AND   RECEIVER
+ CONTACT INFORMATION OF    Alvarez & Marsal Canada Inc.
+ PARTY FILING THIS         Bow Valley Square IV
+ DOCUMENT                  Suite 1110, 250 - 6th Avenue SW
+                           Calgary, Alberta T2P 3H7
+                           Orest Konowalchuk / David Williams
+                           Telephone: (403) 538-4736 / (403) 538-7536
+                           Email: okonowalchuk@alvarezandmarsal.com
+                                  david.williams@alvarezandmarsal.com
+
+
+                           COUNSEL TO RECEIVER
+                           Miller Thomson LLP
+                           525 – 8th Avenue S.W. 43rd Floor
+                           Eighth Avenue Place East
+                           James Reid
+                           Telephone: (403) 298 - 2418
+                           Email: jwreid@millerthomson.com
+
+
+
+
+95397049.3
+                                           TABLE OF CONTENTS
+
+INTRODUCTION .............................................................................................................3
+
+TERMS OF REFERENCE ...............................................................................................3
+
+CNRL CURE COST CLAIM ...........................................................................................4
+
+REVISED RVO DECLARATION ...................................................................................6
+
+
+
+     LISTING OF APPENDICES TO THE FOURTH REPORT SUPPLEMENT
+
+APPENDIX A                    CNRL Claim
+
+APPENDIX B                    Consent Order
+
+APPENDIX C                    Notice of Disallowance
+
+
+
+
+                                                            2
+INTRODUCTION
+
+1.      This is the Receiver's supplement to the Fourth Report (the “Fourth Report
+        Supplement” or this “Report”), filed to provide this Honourable Court with
+        background and information on the late-filed proof of claim of Canadian Natural
+        Resources Limited (“CNRL”), and the request of CNRL for their proof of claim to
+        be accepted for the purposes of receiving a distribution from the Purchase Price
+        Funds.
+
+2.      Additionally, this Report is filed to provide this Honourable Court with the
+        Receiver’s position regarding the Revised RVO declaration.
+
+3.      Capitalized words or terms not otherwise defined in this Report shall have the
+        meaning ascribed in the Receivership Order, the reports filed by the Receiver in
+        these Receivership Proceedings1 and the Claims Procedure Order.
+
+TERMS OF REFERENCE
+
+4.      In preparing this Report, the Receiver has relied upon: (i) the representations of
+        certain former management and other key stakeholders of the Company; (ii)
+        financial and other information contained in the Company’s books and records,
+        which were produced and maintained principally by the Company; and (iii)
+        information obtained by the Proposal Trustee prior to the Receivership
+        Proceedings.
+
+5.      The Receiver has not performed an audit, review or otherwise attempted to verify
+        the accuracy or completeness of the Company’s financial information that would
+        wholly or partially comply with Canadian Auditing Standards (“CASs”) pursuant
+        to the Chartered Professional Accountants Canada Handbook, and accordingly,
+
+
+
+1
+  The First Report of the Receiver dated October 6, 2025; the Supplement to the First Report of the Receiver
+dated October 24, 2025; the Second Report of the Receiver dated November 5, 2025; the Supplement to the
+Second Report of the Receiver dated November 12, 2025; the Third Report of the Receiver dated February
+2, 2026; and the Fourth Report of the Receiver dated September 8, 2026.
+
+
+                                                     3
+        the Receiver expresses no opinion or other form of assurance contemplated under
+        CASs in respect of the financial information.
+
+6.      All references to dollars are in Canadian currency unless otherwise noted.
+
+CNRL CURE COST CLAIM
+
+7.      On September 11, 2026, CNRL submitted a proof of claim to the Receiver (the
+        “CNRL Claim”). The CNRL Claim is a Cure Cost Claim in the amount of
+        $88,233.15, representing amounts owing from Cleo to CNRL prior to the
+        Receivership Date (the “Pre-Filing Balance”). A copy of the CNRL Claim is
+        attached to this Report as Appendix “A”.
+
+8.      CNRL did not submit a proof of claim to the Receiver prior to March 31, 2026 (the
+        “Claims Bar Date”) because it believed the Pre-Filing Balance would be satisfied
+        by 2698902 Alberta Corporation (the “269 Corp.”)2, rather than through the Claims
+        Procedure on the basis that:
+
+                a)   CNRL had entered into a settlement agreement with 269 Corp. on
+                     October 17, 2025 (“Settlement Agreement”), pursuant to which 269
+                     Corp. agreed to pay the Pre-Filing Balance in full; and
+
+                b) when 269 Corp. failed to pay the amounts owing under the Settlement
+                     Agreement, CNRL sought and obtained an order from this Court on
+                     January 16, 2026 (the “Consent Order”), directing 269 Corp. to pay
+                     CNRL, among other things, the Pre-Filing Balance. A copy of the
+                     Consent Order is attached to this Report as Appendix “B”.
+
+9.      CNRL informed the Receiver that it submitted the CNRL Claim 164 days after the
+        Claims Bar Date because 269 Corp. failed to comply with its obligations under both
+        the Settlement Agreement and the Consent Order, and CNRL's efforts at
+
+
+2
+ 269 AB was the Purchaser in the Transaction contemplated by the SPA and in the Revised RVO granted
+by the Court on November 14, 2026.
+
+
+                                                4
+      enforcement were unsuccessful. As a result of its inability to collect the Pre-Filing
+      Balance from 269 Corp., CNRL is now seeking to receive a distribution of the same
+      from the Purchase Price Funds.
+
+10.   On September 11, 2026, the Receiver issued a notice of disallowance to CNRL (the
+      “Notice of Disallowance”), which is attached to this Report as Appendix “C”. The
+      Notice of Disallowance disallowed the CNRL Claim on the basis that:
+
+             a)   it was submitted to the Receiver on September 11, 2026, which is 164
+                  days after the Claims Bar Date of March 31, 2026; and
+
+             b) it relates to amounts owed to CNRL by 269 Corp., and not ResidualCo,
+                  pursuant to the Settlement Agreement and the Consent Order.
+
+11.   The Receiver understands CNRL will be submitting a Notice of Dispute to the
+      Receiver in response to the Notice of Disallowance. CNRL has indicated that it
+      intends to oppose the proposed distribution being sought at the Receiver’s
+      September 16, 2026, application (the “September 16 Application”) on the basis
+      that the CNRL Claim meets the test for the admission of a late claim established by
+      the Court of Appeal of Alberta in Enron Canada Corp. v National Oil-Well Canada
+      Ltd., 2000 ABCA 285, namely:
+
+             a)   Was the delay caused by inadvertence and if so, did the claimant act in
+                  good faith?
+
+             b) What is the effect of permitting the claim in terms of the existence and
+                  impact of any relevant prejudice caused by the delay?
+
+             c)   If relevant prejudice is found, can it be alleviated by attaching
+                  appropriate conditions to an order permitting late filing?
+
+             d) If relevant prejudice is found which cannot be alleviated, are there any
+                  other considerations which may nonetheless warrant an order
+                  permitting late filing?
+
+
+                                            5
+12.   The Receiver is of the view that the CNRL Claim does not meet the test for the
+      admission of a late claim based on the following:
+
+             a)   the delay was not caused by an inadvertence. CNRL was aware of the
+                  Claims Procedure and did not submit a claim (or a placeholder claim)
+                  until 164 days after the Claims Bar Date;
+
+             b) permitting the CNRL Claim would result in the Pre-Filing Balance
+                  being paid in its entirety from the Purchase Price Funds, which would
+                  reduce the proposed ResidualCo Funds Distribution to the
+                  Municipalities and the AER by approximately $88,000;
+
+             c)   the prejudice to the Municipalities and the AER cannot be alleviated by
+                  attaching conditions to an order permitting late filing; and
+
+             d) in light of the facts outlined in the Notice of Disallowance, there are no
+                  other considerations that would warrant an order permitting late filing.
+
+13.   The Receiver is providing this information for the Court’s consideration and
+      direction with respect to the proposed distribution sought at the September 16
+      Application.
+
+REVISED RVO DECLARATION
+
+14.   As set out in the Fourth Report, the Receiver has remitted the Super Priority
+      Amount to the ESDC that was the result of ESDC issuing the WEPP Payments.
+      Despite clawing back the WEPP Payments, ESDC has not, and does not propose to
+      return the Super Priority Amount paid, which impacts the receivership estate. This
+      is a matter that fits squarely in the administration of the receivership.
+
+15.   Employees continue to reach out to the Receiver regarding their WEPPA eligibility.
+      It is necessary and appropriate that the Receiver on behalf of these stakeholders
+
+
+
+
+                                             6
+       seek clarity on the impacts of the Revised RVO on their eligibility for the WEPP
+       Payments.
+
+
+All of which is respectfully submitted this 15th day of September, 2026.
+
+ALVAREZ & MARSAL CANADA INC.,
+in its capacity as the Court-appointed Receiver of
+2755857 Alberta Ltd. and not its
+personal or corporate capacity
+
+
+
+
+Orest Konowalchuk, CPA, CA, CIRP, LIT      David Williams, CPA, CIRP, LIT
+Senior Vice President                      Vice President
+
+
+
+
+                                            7
+APPENDIX A
+
+
+
+
+    8
+APPENDIX B
+
+
+
+
+    9
+CERTIFIED
+by the Court Clerk as a true copy of
+the document digitally filed on Jan
+26, 2026
+
+           COURT FILE NUMBER 2501-09028
+
+           COURT                         COURT OF KING’S BENCH OF ALBERTA
+
+           JUDICIAL CENTRE               CALGARY                                                 FILED
+                                                                                               DIGITALLY
+                                                                                2501 ENERGY
+                                         IN THE MATTER OF THE RECEIVERSHIP OF CLEO   09028
+                                         CORP.                                 Jan 26, 2026
+                                                                                                  9:33 AM
+           APPLICANT                     UCAPITAL – ULOAN SOLUTIONS INC.
+
+           RESPONDENT                    CLEO ENERGY CORP.
+
+           DOCUMENT                      CONSENT ORDER
+
+           ADDRESS FOR                   OSLER, HOSKIN & HARCOURT LLP
+           SERVICE AND                   Barristers & Solicitors
+           CONTACT                       Brookfield Place, Suite 2700
+           INFORMATION OF                226 6 Ave SW
+           PARTY FILING THIS             Calgary, AB T2P 1N2
+           DOCUMENT                      Attention:     Emily Paplawski
+                                         Telephone: (403)260-7071
+                                         Fax:          (403) 260-7024
+                                         Email:         epaplawski@osler.com
+                                         Matter No.     1226774
+
+         DATE ON WHICH ORDER WAS PRONOUNCED:                                   January 16, 2026
+         NAME OF JUSTICE WHO MADE THIS ORDER:                                  Honourable Justice Bourque
+         LOCATION OF HEARING:                                                  Calgary, Alberta
+
+               UPON THE APPLICATION of Canadian Natural Resources Limited (“Canadian
+         Natural”); AND UPON reviewing the Affidavit of Bob Finlayson, sworn on January 5, 2026 (the
+         “Finlayson Affidavit”); AND UPON noting the consent of 2698902 Alberta Corp. (“269 Corp.”)
+         and Sumerian Oil & Gas Inc. (“Sumerian”), formerly carrying on business as CLEO Energy Corp.
+         (“CLEO”); IT IS HEREBY ORDERED THAT:
+
+         1.         269 Corp. shall pay $88,233.15 to Canadian Natural, representing cure costs due and owing
+                    with respect to the sale transaction described in the Share Purchase Agreement between
+                    269 Corp. and Alvarez & Marsal Canada Inc. in its capacity as Court-appointed receiver
+                    and manager of CLEO dated October 6, 2025 (the “SPA”), and approved by Reverse
+                    Vesting Order granted by the Honourable Justice Bourque on November 14, 2025.
+                                             -2-
+
+
+2.    269 Corp. shall pay Canadian Natural its costs of this Application in the amount of $5,216.
+
+3.    Canadian Natural is hereby granted judgment against 269 Corp. in the amount of
+      $93,449.15 (the “Judgment Amount”), which shall be payable in accordance with
+      paragraph 4 below and shall only be enforced by Canadian Natural in the event 269 Corp.
+      fails to make any payment of the Judgment Amount in accordance with paragraph 4 below.
+
+4.    The Judgment Amount shall be paid to Canadian Natural in accordance with the following
+      timeline:
+
+      (a)    $20,000 payable by no later than January 30, 2026;
+
+      (b)    $20,000 payable by no later than February 27, 2026;
+
+      (c)    $20,000 payable by no later than March 31, 2026;
+
+      (d)    $20,000 payable by no later than April 30, 2026; and
+
+      (e)    $13,449.15 payable by no later than May 29, 2026.
+
+5.    269 Corp. and/or Sumerian shall comply with their payment obligations to Canadian
+      Natural under the Joint Agreement (as defined in the Finlayson Affidavit) from the
+      Effective Date of the SPA onwards.
+
+
+
+                                                                    J.C.K.B.A.
+
+CONSENTED TO THIS 16th DAY OF JANUARY
+
+ 2698902 Alberta Corp. and Sumerian Oil
+ & Gas Inc.
+
+
+
+
+ Name: Jordy Weinrauch
+
+ Position: Chief Executive Officer
+
+ I am authorized to bind the corporation
+APPENDIX C
+
+
+
+
+    10
+                        NOTICE OF REVISION OR DISALLOWANCE
+
+ IN THE MATTER OF THE BANKRUPTCY AND INSOLVENCY ACT, RSC 1985, C B-3, AS
+                              AMENDED
+
+        AND IN THE MATTER OF THE RECEIVERSHIP OF 2755857 ALBERTA LTD.
+
+TO:    Canadian Natural Resources Limited (“CNRL”)
+       Attn: Emily Paplawski, legal counsel
+       Olser, Hoskin & Harcourt
+       Brookfield Place, 225 – 6th Avenue SW, Suite 2700, Calgary, AB T2P 1N2
+
+PLEASE TAKE NOTICE that this Notice of Revision or Disallowance is being sent pursuant to
+an order of the Court of King’s Bench of Alberta, dated February 10, 2026 (the “Claims Procedure
+Order”), in the Company’s proceedings under the Bankruptcy and Insolvency Act, RSC 1985, c
+B-3, as amended, the Receiver has been authorized to conduct a claims procedure (the “Claims
+Procedure”). All capitalized terms used herein and not otherwise defined shall have the meaning
+ascribed to them in the Claims Procedure Order.
+
+A copy of the Claims Procedure Order, and all other related materials, may be found on the
+Receiver’s Website at: https://www.alvarezandmarsal.com/CLEO
+
+The Receiver has reviewed your Proof of Claim dated September 11, 2026, and has revised or
+disallowed your Claim for the following reasons:
+
+       Your Claim has been disallowed in its entirety for the following reasons:
+
+           a) Your proof of claim was submitted to the Receiver on September 11, 2026, which
+              is 164 days after the Claims Bar Date of March 31, 2026. Pursuant to the Claims
+              Procedure Order, any Claimant who fails to deliver a Proof of Claim to the Receiver
+              in accordance with the Claims Procedure Order by the Claims Bar Date shall be
+              forever barred from making or enforcing any such Claim against the 2755857
+              Alberta Ltd., and all such Claims will be forever extinguished and barred without
+              any further act or notification by the Receiver, unless otherwise ordered by the
+              Court.
+
+           b) Your Claim relates to amounts owed to you by 2698902 Alberta Corp. (“269
+              Corp.”), and not by 2755857 Alberta Ltd., pursuant to: (i) the settlement agreement
+              between CNRL and 269 Corp. dated October 17, 2025; and (ii) the consent order
+              granted by the Court of King's Bench on January 16, 2026, which directed 269
+              Corp. to pay CNRL, among other things, your Claim in its entirety.
+Subject to further dispute by you in accordance with the provisions of the Claims Procedure Order,
+your Claim will be allowed for voting and distributions purposes as follows:
+
+
+
+                            Submitted Amount (Proof of           Revised (Admitted Amount)
+                                      Claim)
+
+
+ Quantum                  CAD $88,233.15 ($87,732.65 –      CAD $0.00
+                          secured, $500.50 – unsecured)
+
+ Classification           Cure Cost Claim                   Cure Cost Claim
+
+
+
+
+If you AGREE with the amount and classification allowed by Receiver as set out above, you need
+not do anything further; the quantum and classification of your claim, as set out as allowed in this
+Notice of Revision or Disallowance, will be accepted as your Proven Claim. In the event you take
+no action, your claim will also be accepted based on the allowed amount as set out above.
+
+If you DISAGREE with the amount and classification allowed by Receiver as described above,
+you are obligated to file a Notice of Dispute with the Receiver within 7 Calendar Days after
+receipt of the Notice of Revision or Disallowance, failing which the amount and classification of
+your claim shall be deemed to be as set out as allowed in this Notice of Revision or Disallowance.
+
+In the event the Receiver is unable to resolve the dispute about your allowable claim, you may
+file an application with the Court for the resolution or adjudication of your claim for voting and
+distribution purposes by no later than 10 Calendar Days after delivery of the Notice of Dispute of
+Revision or Disallowance, failing which the amount and classification of your claim shall be
+deemed to be as set out as allowed in this Notice of Revision or Disallowance.
+
+Additional information about these proceedings may be found on the Receiver’s Website or may
+be obtained by contacting the Receiver directly. Contact details for the Receiver are described
+below:
+
+                  ALVAREZ & MARSAL CANADA INC.
+                  Bow Valley Square 4
+                  Suite 1110, 250 6th Ave SW
+                  Calgary, AB T2P 3H7
+
+                  Attention: Brinton Wolever
+                  Email: bwolever@alvarezandmarsal.com
+Dated at the City of Calgary, in the Province of Alberta, this 11th of September, 2026.
+
+
+
+
+                                                 Orest Konowalchuk, CPA, CIRP, LIT
+
+                                                 Senior Vice President
+
+                                                 Alvarez & Marsal Canada Inc.
+
+                                                 in its capacity as Receiver of the 2755857
+                                                 Alberta Ltd., and not in its personal or
+                                                 corporate capacity
+

@@ -1,0 +1,821 @@
+COURT / ESTATE FILE NUMBER       2501-09028
+
+COURT                            COURT OF KING’S BENCH OF ALBERTA
+
+JUDICIAL CENTRE                  CALGARY
+                                                                       FILED
+                                 IN THE MATTER OF THE BANKRUPTCY          AND
+                                                                  DIGITALLY
+                                 INSOLVENCY ACT, RSC 1985, C B-3, AS AMENDED
+                                                               2501 09028
+                                                            Sep 9, 2026
+                                 AND IN THE MATTER OF THE RECEIVERSHIP  OF
+                                 2755857 ALBERTA LTD.           4:27 PM
+
+
+APPLICANT                        UCAPITAL – ULOAN SOLUTIONS INC.
+
+RESPONDENT                       CLEO ENERGY CORP.
+
+DOCUMENT                         BRIEF OF LAW
+
+ADDRESS FOR SERVICE AND MILLER THOMSON LLP
+CONTACT INFORMATION OF PARTY Barristers and Solicitors
+FILING THIS DOCUMENT         525-8th Avenue SW, 43rd Floor
+                             Calgary, AB, Canada T2P 1G1
+
+                                 Attention:  James W. Reid / Pavin Takhar
+                                 Telephone: 403-298-2418 / 403-298-2432
+                                 Email:     jwreid@millerthomson.com/
+                                            ptakhar@millerthomson.com
+                                 File No.   0289127.0002
+                                                     TABLE OF CONTENTS
+
+I.     INTRODUCTION ................................................................................................................. 1
+II.    FACTS ................................................................................................................................ 2
+III.   ISSUES ............................................................................................................................... 2
+IV. LAW AND ARGUMENT....................................................................................................... 2
+       A.     The Revised RVO Had No Impact on Former Employees’ Eligibility Under WEPPA .... 2
+       B.     The Receiver’s Distributions Should Be Approved ....................................................... 5
+       C.     The Receiver’s Actions and Activities Should Be Approved .......................................... 6
+       D.     The Receiver and its Counsel’s Fees and Disbursements Should Be Approved........... 7
+       E.     The Final Cash Flow Forecast Should Be Approved .................................................... 8
+       F.     Discharge of the Receiver Should Be Approved ........................................................... 8
+V.     CONCLUSION ..................................................................................................................... 9
+TABLE OF AUTHORITIES……………………………………………………………………....……..10
+                                             -1-
+
+
+I.   INTRODUCTION
+
+1.   This Brief of Law is filed in support of the Application returnable September 16, 2026 (the
+     “Application”) of Alvarez & Marsal Canada Inc. (“A&M”), in its capacity as Court-
+     appointed receiver and manager (the “Receiver”) of the undertakings, properties and
+     assets of 2755857 Alberta Ltd. (“ResidualCo”) for an Order which provides the following
+     relief, among other things:
+
+     (a)    declaring service of this Application (and all supporting materials thereto) to be
+            good and sufficient and, if necessary, abridging the time for service of the
+            Application to the time actually given, such that the Application is properly
+            returnable on the date on which it is heard;
+
+     (b)    determining whether the Reverse Vesting Order granted November 15, 2025 (the
+            “Revised RVO”) had any impact on the eligibility of former employees of Cleo
+            (defined herein) for purposes of the Wage Earner Protection Program Act
+            (Canada) (“WEPPA”);
+
+     (c)    approving the proposed distributions of the Receiver as set out in the in the Fourth
+            Report of the Receiver, dated September 8, 2026 (the “Fourth Report”);
+
+     (d)    approving the fees and disbursements of the Receiver and its legal counsel, Miller
+            Thomson LLP (“Miller Thomson”), including the Forecast Fees and Costs
+            (defined herein), as outlined in the Fourth Report;
+
+     (e)    approving the Receiver’s actions, activities and conduct since the Third Report and
+            throughout the Receivership Proceedings, including the Final Statement of
+            Receipts and Disbursements (the “Final Statement of Receipts and
+            Disbursements”) and the Final Cash Flow Forecast as set out in the Fourth
+            Report;
+
+     (f)    discharging the Receiver upon the filing of a certificate confirming the completion
+            of the Receiver’s remaining obligations (the “Discharge Certificate”) and, upon
+            the discharge of the Receiver (the “Discharge”); and
+
+     (g)    granting such further and other relief as counsel may request and this Honourable
+            Court may deem appropriate.
+                                                     -2-
+
+
+II.       FACTS
+
+2.        The factual background is set out in the Fourth Report.
+
+3.        Any capitalized terms otherwise not defined herein shall have the meaning ascribed in the
+          Fourth Report.
+
+III.      ISSUES
+
+4.        The issues to be addressed on this Application are whether:
+
+          (a)    the Revised RVO had any impact on previously approved WEPP Payments
+                 entitlements or distributions provided to former employees, and whether steps
+                 subsequent to an employee’s termination in a receivership can be used to change
+                 a party’s eligibility;
+
+          (b)    the Receiver shall be permitted to make the distributions as set out in the Fourth
+                 Report;
+
+          (c)    the Receiver’s actions and activities, including the Final Statement of Receipts and
+                 Disbursements, ought to be approved;
+
+          (d)    the fees and disbursements of the Receiver and its legal counsel, Miller Thomson,
+                 ought to be approved, including the Forecast Fees and Costs;
+
+          (e)    the Final Cash Flow Forecast ought be approved; and
+
+          (f)    the Receiver ought to be discharged.
+
+IV.       LAW AND ARGUMENT
+
+A.        The Revised RVO Had No Impact on Former Employees’ Eligibility Under WEPPA
+
+5.        WEPP is a federally administered wage protection program designed to compensate
+          employees whose employers become insolvent and are unable to pay outstanding
+          wages.1 The program operates pursuant to the WEPPA, which establishes the criteria
+          employees must satisfy to qualify for compensation.2
+
+
+
+
+1 Wage Earner Protection Program Act, SC 2005, c 47, s 1 [WEPPA].
+
+2 Ibid, s 4.
+                                                      -3-
+
+
+6.      As described by the Superior Court of Quebec in Arrangement relatif à Former Gestion
+        Inc., WEPPA is “clearly remedial legislation intended to provide protection to workers who
+        suffer lost wages as a result of a bankruptcy or restructuring.”3 Due to its remedial nature,
+        WEPPA should be “given such, fair, large and liberal construction and interpretation as
+        best ensures the attainment of its objectives.”4 The mischief sought to be cured by WEPPA
+        is the absence of a solvent employer who can pay wages owing to former employees.5
+
+7.      Regardless of whether an insolvent former employer sells its assets pursuant to an asset
+        purchase transaction, or it sells its shares pursuant to a reverse vesting transaction, the
+        employees have no solvent employer from which to claim wages.6 Further, the Court in
+        Synaptive confirmed that there is no substantive difference between a traditional asset
+        sale and reverse vesting transaction that would justify different treatment under WEPPA.7
+
+8.      The relevant time of determination of employees’ entitlements under WEPPA is “the
+        moment at which an insolvent entity’s employees are terminated due to a bankruptcy or
+        restructuring”—what happens after that moment is irrelevant.8 This Court agreed with this
+        proposition.9 In light of this, the relevant period of determining eligibility for the Former
+        Employees was their employment termination date being June 3, 2025, when Cleo was
+        put into receivership.
+
+9.      The Superior Court of Quebec further stated that, in the event an employee is owed eligible
+        wages by a former employer, at the moment the former employer terminated all its
+        employees, s. 5.1(c) of WEPPA is satisfied.10
+
+10.     The Revised RVO should of had no impact on the eligibility of the Former Employees
+        under WEPPA. The subsequent emergence of Cleo from the within receivership
+        proceedings due to the Revised RVO cannot be used to disentitle the Former Employees
+        from the WEPP Payments.
+
+
+
+
+3 Arrangement relatif à Former Gestion Inc, 2024 QCCS 3645 (“Just for Laughs")
+
+at para 27.
+4 Ibid;1001270243 Ontario Inc, 2026 ONSC 3967 (“Synaptive”) at para 26.
+
+5 Just for Laughs at para 32.
+
+6 Ibid at para 7.
+
+7 Synaptive supra note 4 at para 49.
+
+8 Ibid at para 34.
+
+9 Re Cleo Energy Corp, 2025 ABKB 621 at para 45 (“Re Cleo”).
+
+10 Just for Laughs, supra note 3 at para 34.
+                                                      -4-
+
+
+11.      Courts have recently confirmed that a residual company created by a reverse vesting
+         order can be a “former employer” under WEPPA11 as this supports the problem sought
+         to be cured by WEPPA being the absence of a solvent employer. Whether an asset sale
+         or a reverse vesting order is completed there is no difference as employees who have lost
+         their jobs have no solvent employer to claim wages from.12
+
+12.      The Former Employees of Cleo made claims under WEPP for unpaid wages following
+         their termination. These Former Employees were paid the WEPP Payments since they
+         qualified for payment.
+
+13.      The ESDC gave warning in this matter that if the Transaction proceeded these employees
+         could face a clawback of the WEPP Payments.
+
+14.      The Court provided its own stern warning to ESDC following the clawback discussion.
+
+                   WEPP exists to protect employees from the adverse consequences of the
+                   insolvency of their employer. Terminated employees have no control over how
+                   insolvency and restructuring transactions are structured after their termination.
+                   Terminated employees who have received WEPPs payment and have no inkling
+                   of the possibility of a clawback may have used the money to pay for groceries or
+                   rent. A choice to clawback payments made to terminated employees of an
+                   insolvent corporation because of subsequent events beyond their control would be
+                   to the immense discredit of the Minister and, I would hope, be swiftly reversed by
+                   the Canada Industrial Relations Board or the Federal Court of Appeal.13
+
+15.      Notwithstanding the above warning, ESDC chose to claw back the WEPP Payments made
+         to the Former Employees. In certain cases, ESDC, through the CRA or otherwise, has
+         caused the tax returns of the Former Employees to be withheld until repayment of the
+         WEPP Payments are made.14 The Receiver understands that certain Former Employees
+         have applied to have ESDC’s decision reversed; however, the Receiver is not aware of
+         any such reversals at this time.15
+
+
+
+
+11 Synaptive supra note 4 at para 33-35.
+
+12 Ibid at para 40, citing Just for Laughs.
+
+13 Re Cleo supra note 9 at para 46.
+
+14 Fourth Report at para 26.
+
+15 Fourth Report at para 26.
+                                                    -5-
+
+
+16.         The ESDC suggest that there is no place for a Superior Court of Alberta to look at this
+            matter, and that this is a matter for the Canada Industrial Relations Board or the Federal
+            Court. The Alberta Court has already addressed that it does have a say on clawbacks.16
+
+17.         ESDC has used the Revised RVO granted in the receivership proceedings as a
+            justification to claw back WEPP Payments, it is important and appropriate that this Court
+            provides its advice on how to protect the Former Employees rights and prevent the
+            clawback.
+
+18.         The object of WEPPA is to protect terminated employees who lost wages in their former
+            employer’s bankruptcy or restructuring, interpreting WEPPA to prevent those employees’
+            recoveries runs contrary to its purpose.17
+
+19.         The clawback initiated by ESDC is contract to public policy, law and inherently unfair and
+            prejudicial to the Former Employees.
+
+B.          The Receiver’s Distributions Should Be Approved
+
+20.         The Receiver holds the Purchase Price Funds and ResidualCo Funds.
+
+Cure Cost Claimants
+
+21.         The Revised RVO provided that the Purchase Price proceeds will be used to satisfy any
+            valid and proven cure costs that may be owing in respect of the Crown in right of Alberta.18
+            Any other claimants with proven cure costs that may be owing in respect of the contracts
+            transferred to ResidualCo will be entitled to be paid from the Purchase Price proceeds pro
+            rata, subject only to the Receiver’s Charge.19
+
+22.         The Receiver, in consultation with Miller Thomson, has conducted a review of the Cure
+            Cost Claims and determined that they represent valid cure costs owing in respect of the
+            retained assets identified in the share purchase agreement under the Transaction.20
+
+23.         The aggregate amount of the Cure Cost Claims, following payment of the Proven Alberta
+            Crown Cure Costs, is less than the Purchase Price Funds available for distribution, and
+
+
+
+16 Ibid at para 45.
+
+17 Ibid..
+
+18 Revised RVO at para 10.1
+
+19 Ibid.
+
+20 Fourth Report at para 45.
+                                                      -6-
+
+
+            the Cure Cost Claimants are entitled to receive a distribution in the full amount of their
+            respective Cure Cost Claims.21
+
+24.         The remaining Purchase Price Funds following payment to the Cure Costs Claimants is
+            to be transferred to ResidualCo.22
+
+Secured Pre-Filing Claimants
+
+25.         The Receiver, in consultation with Miller Thomson, has conducted a review of the Secured
+            Pre-Filing Claims to determine the priority of the distributions of ResidualCo Funds.23 The
+            ResidualCo Funds are not sufficient to repay all outstanding Secured-Pre Filing Claims,
+            and there are no recoveries for unsecured creditors.
+
+26.         The Receiver and Miller Thomson have determined that the AER and Municipalities have
+            priority secured claims as a result of statutory entitlements under the Oil and Gas Act
+            (Alberta) and Municipal Government Act (Alberta).24 However, the Receiver is not in a
+            position to determine priority as between the AER and Municipalities.
+
+27.         The Receiver facilitated discussions between the AER and Municipalities to address their
+            competing priority claims to the ResidualCo Funds.25
+
+28.         The AER and Municipalities together reached the Settlement, which sees a pro-rata
+            distribution of the ResidualCo Funds.26 This pro rata distribution is set out at paragraph 60
+            of the Fourth Report.27
+
+29.         The Receiver supports a distribution to the AER and Municipalities in accordance with the
+            Settlement.
+
+C.          The Receiver’s Actions and Activities Should Be Approved
+
+30.         This Court has jurisdiction to review and approve the activities of a court-appointed
+            receiver.28
+
+
+
+21 Fourth Report at para 45.
+
+22 Fourth Report at para 46.
+
+23 Fourth
+            Report at para 39.
+24 Fourth Report at paras 39-41.
+
+25 Fourth Report at para 43.
+
+26 Fourth Report at para 43.
+
+27 Fourth Report at 60.
+
+28 Leslie & Irene Dube Foundation Inc v P218 Enterprises Ltd, 2014 BCSC 1855 at para 54.
+                                                      -7-
+
+
+31.        A receiver’s conduct is to be assessed objectively, and a Court should approve the
+           activities set out in a receiver’s report if the activities are reasonable, prudent, and not
+           arbitrary.29
+
+32.        The Receiver’s activities since the Third Report are set out in the Fourth Report and
+           include among other things, responding to creditor and stakeholder enquiries,
+           administering the Claims Procedure, communicating with the Former Employees
+           regarding the clawback of the WEPP Payments; communications with the secured
+           creditors, and discussions with Sumerian Oil & Gas Inc. (formerly Cleo).30
+
+33.        The Receiver’s actions and activities are reasonable and prudent and are consistent with
+           its mandate. The Receiver’s actions and activities should be approved together with the
+           Receiver’s Final Statement of Receipts and Disbursements, as set out in the Fourth
+           Report.
+
+D.         The Receiver and its Counsel’s Fees and Disbursements Should Be Approved
+
+34.        In Bank of Nova Scotia v Diemer,31 the Ontario Court of Appeal applied the non-exhaustive
+           factors originally set out in Belyea v Federal Business Development Bank32 to be
+           considered to determine whether a receiver’s fees are fair and reasonable:
+
+           (a)     the nature and extent of the value of the assets handled;
+
+           (b)     the complications and difficulties encountered;
+
+           (c)     the degree of assistance provided by the company, its officers or employees;
+
+           (d)     the time spent;
+
+           (e)     the receiver’s knowledge, experience and skill;
+
+           (f)     the diligence and thoroughness displayed by the receiver;
+
+           (g)     the responsibilities assumed;
+
+           (h)     the results of the receiver’s efforts; and
+
+
+29 Ibid.
+
+30 Fourth Report at para 16.
+
+31 Bank of Nova Scotia v Diemer, 2014 ONCA 851 at para 33.
+
+32 Belyea v Federal Business Development Bank, [1983] NBJ No. 41 (CA) at para 9.
+                                                 -8-
+
+
+         (i)      the cost of comparable services.
+
+35.      The Receiver’s fees, and those of its counsel, were incurred in connection with the
+         Receiver’s activities. These activities required diligence, thoroughness, and significant
+         time expenditure.
+
+36.      The Forecast Fees and Costs of Receiver and the Receiver's Counsel to complete this
+         engagement (August 30, 2026, to discharge) are approximately $35,000 and $20,000
+         respectively, which includes fees and costs incurred from August 30, 2026, to the date of
+         the Fourth Report, but not paid.
+
+37.      The Receiver respectfully submits that its professional fees and disbursements and those
+         of its legal counsel for the Receiver Taxation Period, the Miller Thomson Taxation Period
+         and the Forecast Fees and Costs are fair and reasonable in the circumstances, given the
+         substantive tasks performed by the Receiver and its legal counsel in connection with the
+         Receivership Proceedings and the tasks to be completed.33
+
+E.       The Final Cash Flow Forecast Should Be Approved
+
+38.      The Receiver has prepared the Final Cash Flow Forecast to conclude the Receivership
+         Proceedings.
+
+39.      The Final Cash Flow Forecast is based on assumptions regarding future events.34
+
+40.      The Final Cash Flow Forecast is fair and reasonable in the circumstances to complete the
+         administration of the Receivership Proceedings.
+
+F.       Discharge of the Receiver Should Be Approved
+
+41.      The Receiver has substantially completed its mandate as contemplated by the
+         Receivership Order, the previous Orders in this matter, and under the BIA. Accordingly,
+         the Receiver respectfully submits that it should be discharged and released, following its
+         administration of the estate (including paying the distributions, and the Receiver’s fees
+         and counsel’s fees and disbursements), and the activities as set out in paragraph 75 of
+
+
+
+
+33 Fourth Report at para 71.
+
+34 Fourth Report at para 58.
+                                                  -9-
+
+
+         the Fourth Report necessary to conclude the Receivership Proceedings have been
+         completed.35
+
+42.      The Receiver also seeks a release from any and all liability that it now has or may hereafter
+         have by reason of, or in any way arising out of, the acts or omissions of the Receiver while
+         acting in its capacity as Receiver, save and except for any gross negligence or willful
+         misconduct on the part of the Receiver.
+
+43.      The release is a standard term and mirrors the language used in the Commercial List
+         model discharge order.
+
+V.       CONCLUSION
+
+44.      Based on the foregoing, the Receiver requests that this Honourable Court grant the relief
+         sought in the Application.
+
+ALL OF WHICH IS RESPECTFULLY SUBMITTED THIS 9th DAY OF SEPTEMBER, 2026.
+
+
+                                                         MILLER THOMSON LLP
+
+
+
+
+                                                         Per:
+                                                                  James W. Reid / Pavin Takhar
+                                                                  Counsel for the Applicant, Alvarez
+                                                                  & Marsal Canada Inc., in its
+                                                                  capacity as Receiver of 2755857
+                                                                  Alberta Ltd. and not in its personal
+                                                                  or corporate capacity
+
+
+
+
+35 Fourth Report at para 74.
+                                      -10-
+
+
+                           TABLE OF AUTHORITIES
+Tab No.   Authority
+
+   1.     Wage Earner Protection Program Act, SC 2005, c 47
+
+   2.     Arrangement relatif à Former Gestion Inc, 2024 QCCS 3645
+
+   3.     1001270243 Ontario Inc, 2026 ONSC 3967
+
+   4.     Re Cleo Energy Corp, 2025 ABKB 621
+
+   5.     Leslie & Irene Dube Foundation Inc v P218 Enterprises Ltd, 2014 BCSC 1855
+
+   6.     Bank of Nova Scotia v Diemer, 2014 ONCA 851
+
+   7.     Belyea v Federal Business Development Bank, [1983] NBJ No. 41 (CA)
+TAB 7 - Belyea v Federal Business Development Bank, [1983] NBJ No. 41 (CA)
+Belyea v. Federal Business Development Bank, 1983 CarswellNB 27
+1983 CarswellNB 27, [1983] N.B.J. No. 41, 116 A.P.R. 248, 18 A.C.W.S. (2d) 19, 44 N.B.R. (2d) 248, 46 C.B.R. (N.S.) 244
+
+
+
+KeyCite treatment
+Most Negative Treatment: Distinguished
+Most Recent Distinguished: Yavis, Re | 1995 CarswellBC 885, 36 C.B.R. (3d) 110, [1995] B.C.W.L.D. 2457, 57 A.C.W.S.
+(3d) 915 | (B.C. S.C., Jul 28, 1995)
+                                                1983 CarswellNB 27
+                                          New Brunswick Court of Appeal
+
+                                             Belyea v. Federal Business Development Bank
+
+1983 CarswellNB 27, [1983] N.B.J. No. 41, 116 A.P.R. 248, 18 A.C.W.S. (2d) 19, 44 N.B.R. (2d) 248, 46 C.B.R. (N.S.) 244
+
+              BELYEA and FOWLER v. FEDERAL BUSINESS DEVELOPMENT BANK
+                                                 Hughes C.J.N.B., Ryan and Stratton JJ.A
+
+                                                         Judgment: January 18, 1983
+                                                           Docket: No. 31/82/CA
+
+Subject: Corporate and Commercial; Insolvency
+Related Abridgment Classifications
+Debtors and creditors
+VII Receivers
+   VII.3 Appointment
+      VII.3.b Application for appointment
+         VII.3.b.ii Person entitled to make application
+            VII.3.b.ii.A General principles
+Debtors and creditors
+VII Receivers
+   VII.8 Remuneration of receiver
+      VII.8.b Remuneration
+         VII.8.b.iii Miscellaneous
+Headnote
+Receivers --- Appointment — Application for appointment — Person entitled to make application — General
+Receivers --- Remuneration of receiver — Remuneration
+Secured creditors — Receiver appointed by document — Remuneration — Factors to be considered.
+There is no fixed rate or settled scale for determining the amount of compensation to be paid a receiver. He is usually allowed
+either a percentage upon his receipts or a lump sum based upon the time, trouble and degree of responsibility involved. The
+governing principle appears to be that the compensation allowed a receiver should be measured by the fair and reasonable value
+of his services and, while sufficient fees should be paid to induce competent persons to serve as receivers, receiverships should
+be administered as economically as reasonably possible. Thus, allowances for services performed must be just, but nevertheless
+moderate rather than generous. The considerations applicable in determining the reasonable remuneration to be paid to a receiver
+should include the nature, extent and value of the assets handled, the complications and difficulties encountered, the degree
+of assistance provided by the company, its officers or its employees, the time spent, the receiver's knowledge, experience and
+skill, the diligence and thoroughness displayed, the responsibilities assumed, the results of the receiver's efforts and the costs
+of comparable services when performed in a prudent and economical manner. Whether an account for services is fair and
+reasonable is a matter of some difficulty. In many cases, attempts have been made to establish this fact by calling as witnesses
+persons who engage in the same profession or calling to testify that the charges made are the usual and normal charges for
+similar services made by members of that particular profession or calling in their locality. Even though a professional is entitled
+to a fair, just and reasonable compensation measured by the reasonable value of the services rendered, the fees charged must
+
+
+
+                      Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.   1
+Belyea v. Federal Business Development Bank, 1983 CarswellNB 27
+1983 CarswellNB 27, [1983] N.B.J. No. 41, 116 A.P.R. 248, 18 A.C.W.S. (2d) 19, 44 N.B.R. (2d) 248, 46 C.B.R. (N.S.) 244
+
+bear some reasonable proportion to the amount of the value affected by the controversy or involved in the employment. Thus,
+in cases where a professional is aware of the amount at issue, the courts will impose an underlying or implied limit or maximum
+on the professional fees it will allow, based on what is reasonable in relation to the dollar amount involved in the particular case.
+Generally speaking, courts have been reluctant to award remuneration based solely upon the time spent by the appointee in
+performing his duties. They have preferred to award either a lump sum or a commission upon the amount collected or realized
+by the receiver. However, whether the commission or lump sum method is used in computing the compensation to be paid to
+a receiver, the compensation awarded must be fair and reasonable having regard to all of the material facts and circumstances
+of the particular case.
+Table of Authorities
+Cases considered:
+Considered by majority:
+     Amalg. Syndicates, Re, [1901] 2 Ch. 181, 17 T.L.R. 486 — referred to
+     Campbell v. Arndt (1915), 8 Sask. L.R. 320, 9 W.W.R. 57, 24 D.L.R. 699 (S.C.) — referred to
+     Cowie (J.W.) Enrg. Ltd. v. Allen (1982), 26 C.P.C. 241, 52 N.S.R. (2d) 321 (C.A.) — referred to
+     Eastern Trust Co. v. N.S. Steel & Coal Co. Ltd. (1938), 13 M.P.R. 237 (N.S.C.A.) — referred to
+     Hall v. Slipp (1894), 1 N.B. Eq. 37 — referred to
+     Ibar Devs. Ltd. v. Mount Citadel Ltd. (1978), 26 C.B.R. (N.S.) 17 (Ont. S.C.) — referred to
+     Indust. Dev. Bank v. Garden Tractor & Equipment Co. Ltd., [1951] O.W.N. 47 (H.C.) — referred to
+Considered in dissent:
+     Lister (Ronald Elwyn) Ltd. v. Dunlop Can. Ltd., [1982] 1 S.C.R. 726, 41 C.B.R. (N.S.) 272, 18 B.L.R. 1, 135 D.L.R. (3d)
+     1, 65 C.P.R. (2d) 1, 42 N.R. 181 — referred to
+Statutes considered:
+     Evidence Act, R.S.N.B. 1973, c. E-11, s. 49.
+Authorities considered:
+
+75 C.J.S. 1067.
+
+Williston on Contracts, 3rd ed. (1967), vol. 10, pp. 928-29.
+
+Action by secured creditors against debtor for deficiency owing under guarantee; claim that receiver's remuneration excessive.
+
+Stratton J.A. (Hughes C.J.N.B. concurring):
+
+1    I have had the benefit of reading the judgment prepared by my brother Ryan and regret that I am unable to agree in all
+respects with his proposed disposition of this appeal [from 40 C.B.R. (N.S.) 157, 38 N.B.R. (2d) 162, 100 A.P.R. 162 ].
+
+2     In his factum counsel for Messrs. Belyea and Fowler raises two grounds of appeal, namely, the reasonableness of the
+refusal by the Federal Business Development Bank to accept an offer made by Mr. Sam Gamblin to purchase the inventory of
+Chase Camera & Supply Limited for $40,000, and the reasonableness of the receiver's account of $11,730. I agree with Ryan
+J.A. that the refusal by the bank to accept the Gamblin offer was not, in the circumstances, unreasonable. However, I do not
+agree that the receiver satisfactorily established that its account for services was fair and reasonable.
+
+3     There is no fixed rate or settled scale for determining the amount of compensation to be paid a receiver. He is usually
+allowed either a percentage upon his receipts or a lump sum based upon the time, trouble and degree of responsibility involved.
+The governing principle appears to be that the compensation allowed a receiver should be measured by the fair and reasonable
+value of his services and while sufficient fees should be paid to induce competent persons to serve as receivers, receiverships
+should be administered as economically as reasonably possible. Thus, allowances for services performed must be just, but
+nevertheless moderate rather than generous.
+
+4 The principles applicable in fixing the remuneration to be allowed a receiver have been discussed in a number of decisions.
+In the frequently quoted case of Campbell v. Arndt (1915), 8 Sask. L.R. 320, 9 W.W.R. 57, 24 D.L.R. 699 (S.C.) , it was pointed
+
+
+
+                      Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.   2
+Belyea v. Federal Business Development Bank, 1983 CarswellNB 27
+1983 CarswellNB 27, [1983] N.B.J. No. 41, 116 A.P.R. 248, 18 A.C.W.S. (2d) 19, 44 N.B.R. (2d) 248, 46 C.B.R. (N.S.) 244
+
+out that a receiver is generally paid by a commission on the gross amount of his receipts, the rate of which varies from 2 to 5 per
+cent in proportion to the care and trouble involved. The court in that case concluded that, although the receiver must have spent
+considerable time and experienced a good deal of trouble, there did not appear to have been any very exceptional difficulties
+entitling him to exceptionally larger fees and, accordingly, he was awarded as a fair remuneration a commission of 5 per cent
+of the funds coming into his hands.
+
+5     A lump sum was awarded to receivers by the Nova Scotia Court of Appeal in Eastern Trust Co. v. N.S. Steel & Coal Co.
+Ltd. (1938), 13 M.P.R. 237 . In making their award, the court said at p. 240:
+
+     As we view it, we are entitled, in order to fix the remuneration of both receivers and liquidators, to survey the entire
+     operations under their charge since their appointment, to take into consideration the time each of them gave to the work and
+     the responsibilities resting on them as receivers and liquidators, and to determine what the work necessarily done should
+     cost, if conducted prudently and economically.
+
+6   A lump sum was also awarded a receiver as fair compensation for his services in Indust. Dev. Bank v. Garden Tractor &
+Equipment Co. Ltd., [1951] O.W.N. 47 (H.C.) . In that case, Marriott, Master, said at p. 48:
+
+     In fixing the compensation of a receiver, the Court always has had complete jurisdiction to allow what is fair and reasonable
+     under all the circumstances, but a receiver has no prima facie right to any fixed rate as a trustee in bankruptcy has under The
+     Bankruptcy Act. In Kerr on Receivers, 11th ed. 1946, at p. 279, it is stated: "In the case of receivers and managers there is no
+     fixed scale. They are sometimes allowed 5 per cent on the receipts: in other cases their remuneration is fixed at a lump sum
+     or regulated by the time employed by the receiver, his partners and clerks." In Re Fleming (1886), 11 P.R. 426 , Chancellor
+     Boyd stated: "Five per cent commission may be a reasonable allowance in many cases, but where the estate is large and
+     the services rendered are of short duration and involving no very serious responsibility, such a rate may be excessive."
+
+7    In fixing a lump sum rather than a percentage fee for a receiver's compensation in Ibar Devs. Ltd. v. Mount Citadel Ltd.
+(1978), 26 C.B.R. (N.S.) 17 (Ont. S.C.) , Saunders, Master, concluded that remuneration on a 5 per cent basis was just too
+high. He held that the receiver was entitled to a fair fee on the basis of a quantum meruit according to the time, trouble and
+degree of responsibility involved.
+
+8 It should perhaps be noted that there is American authority for the proposition that where the duties of the receiver consist
+in liquidating assets, a commission on the fund is a more appropriate method of compensation than that based on a fair price for
+the labour and time employed, and is the one commonly used. Where the compensation is so computed, 5 per cent is the usual
+and customary rate in ordinary cases. However, the rate varies according to the degree of difficulty or facility in the collection
+of different receipts: see 75 C.J.S. 1067.
+
+9        The considerations applicable in determining the reasonable remuneration to be paid to a receiver should, in my
+opinion, include the nature, extent and value of the assets handled, the complications and difficulties encountered, the degree
+of assistance provided by the company, its officers or its employees, the time spent, the receiver's knowledge, experience and
+skill, the diligence and thoroughness displayed, the responsibilities assumed, the results of the receiver's efforts, and the cost of
+comparable services when performed in a prudent and economical manner.
+
+10      Experienced counsel know that it can be a matter of some difficulty to prove that an account for services is fair and
+reasonable. In many cases, counsel attempt to establish this fact by calling as witnesses persons who are engaged in the same
+profession or calling to testify that the charges made by the plaintiff are the usual and normal charges for similar services made
+by members of that particular profession or calling in their locality. In the present case, where the receiver was a chartered
+accountant, no evidence was tendered by any member of the accounting profession as to the usual and normal charges made
+for services similar to those performed by the receiver nor, indeed, was any evidence called other than that of the receiver, to
+establish the reasonableness of the charges which he unilaterally made for his services.
+
+11     One of the compelling factors referred to in Williston on Contracts, 3rd ed. (1967), vol. 10, pp. 928-29 as a determinant
+of the reasonable value of services performed by lawyers is the amount involved. To state this proposition another way, even
+
+
+                      Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.   3
+Belyea v. Federal Business Development Bank, 1983 CarswellNB 27
+1983 CarswellNB 27, [1983] N.B.J. No. 41, 116 A.P.R. 248, 18 A.C.W.S. (2d) 19, 44 N.B.R. (2d) 248, 46 C.B.R. (N.S.) 244
+
+though a professional is entitled to a fair, just and reasonable compensation measured by the reasonable value of the services
+rendered, the fees charged must bear some reasonable proportion to the amount of money or the value affected by the controversy
+or involved in the employment. Thus, in cases where a professional is aware of the amount at issue, courts will impose an
+underlying or implied limit or maximum on the professional fees it will allow based on what is reasonable in relation to the dollar
+amount involved in the particular case: see J.W. Cowie Enrg. Ltd. v. Allen (1982), 26 C.P.C. 241, 52 N.S.R. (2d) 321 (C.A.) .
+
+12 Generally speaking, courts have been reluctant to award remuneration based solely upon the time spent by the appointee in
+performing his duties: see Re Amalg. Syndicates, [1901] 2 Ch. 181, 17 T.L.R. 486 . They have preferred to award either a lump
+sum or a commission upon the amount collected or realized by the receiver. However, whether the commission or lump sum
+method is used in computing the compensation to be paid to a receiver, the compensation awarded must be fair and reasonable
+having regard to all of the material facts and circumstances of the particular case. In determining the fairness and reasonableness
+of a receiver's remuneration it is, I think, well to keep in mind what was said by Barker J. on this subject as long ago as 1894
+in Hall v. Slipp, 1 N.B. Eq. 37 -39:
+
+     ... while it is important that a remuneration consistent with the responsibility of the position should be allowed, it is of
+     equal importance that the position should not be made a means simply of absorbing the moneys of creditors and others
+     whose interests it is the duty of this Court to protect.
+
+     ... while, as a general rule, a commission of five per cent. on receipts is allowable, exceptions are made in special cases,
+     both in the way of increasing the amount where unusual work is required, or diminishing it where the amounts are large
+     or the trouble is insignificant.
+
+     ... It is evident, if the necessary expenses of administering estates in this Court bear so large a proportion to the amount
+     involved as this, the practical result is simply to enrich the Court's officers at the expense of the suitors. In my opinion,
+     however, the practice of the Court warrants no such result; and I think it only right to point out that it is a mistake to
+     support that those who act as receivers are entitled to charge, or will be allowed, a remuneration made up on a scale of
+     fees applicable to leading counsel.
+
+13 In the present case, there was no evidence tendered of any express agreement regarding the remuneration to be paid to the
+receiver. Nor do I think that this is an appropriate case in which to limit the compensation payable to the receiver to a reasonable
+percentage of the assets handled. On the other hand, were I to uphold the finding of the trial judge, I would in effect be allowing
+the receiver a fee equivalent to 35 per cent of the amount realized on the sale of the assets.
+
+14 The record discloses that the receiver sold the inventory of Chase Camera & Supply Limited for $30,075 and that the total
+receipts from all sources were $36,566. The receiver charged a fee for its services of $11,730 which it deducted from the funds
+in its hands, remitting the balance to the bank. There was no evidence that this receivership was in any way complex. Indeed,
+the evidence was that the officers of Chase Camera & Supply Limited provided a good deal of assistance to the receiver in the
+disposition of the assets. In all of the circumstances, it is my opinion that the fee deducted by the receiver, categorized by one
+of the employees of the bank as "high", was unreasonable in relation to the dollar amount realized on the sale of the inventory
+and ought to have been reduced. In failing to make that reduction, I think the trial judge erred in principle.
+
+15     Counsel for the Federal Business Development Bank did not call as witnesses the persons who actually performed the
+work in this receivership, other than Mr. Fowler who supervised it, nor did he tender in evidence any "record or entry of an act,
+condition or event made in the regular course of" the business of the receiver. In the absence of such evidence, it is difficult to
+see how s. 49 of the Evidence Act, R.S.N.B. 1973, c. E-11, can be of any assistance to the receiver in establishing its account.
+Moreover, the only evidence, other than that of Mr. Fowler, as to the reasonableness of the receiver's account was that of the
+in-house solicitor for the bank who testified that in a case such as this present one he "would have expected a receiver's bill of
+approximately $5,000.00, say in the range of $4,000.00 to $6,000.00, which would be something which we would reasonably
+anticipate". In view of this evidence, it is my opinion that a reasonable remuneration to the receiver in this case would be $6,000.
+
+
+
+
+                      Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.   4
+Belyea v. Federal Business Development Bank, 1983 CarswellNB 27
+1983 CarswellNB 27, [1983] N.B.J. No. 41, 116 A.P.R. 248, 18 A.C.W.S. (2d) 19, 44 N.B.R. (2d) 248, 46 C.B.R. (N.S.) 244
+
+
+16     As my brother Ryan points out, the reasonableness of a demand for payment given on the same day that the bank was
+informed of a potential sale of the company's inventory was not in issue before us nor, for that matter, was it made clear what
+act of default by the company was relied upon by the bank as entitling it to crystallize its debenture. Therefore, these matters
+were not considered on this appeal.
+
+17    I would allow the appeal and reduce the judgment at trial to $4,591.03. The defendants are entitled to the costs of this
+appeal which I would fix at the sum of $750.
+
+Ryan J.A. (dissenting):
+
+18      This is an appeal by the defendants from a decision of a judge of the Court of Queen's Bench, wherein he directed
+judgment for the plaintiff against the defendants, jointly and severally, in the sum of $10,249.03 together with costs. In its action
+the plaintiff claimed against the defendants for a deficiency which it alleged was owing to it under a guarantee given by the
+defendants to secure a loan of $40,000 advanced by the plaintiff to Chase Camera & Supply Ltd.
+
+19     The following facts are set out in the decision of the trial judge reported in (1982), 40 C.B.R. (N.S.) 157, 38 N.B.R.
+(2d) 162 at 163 -64, 100 A.P.R. 162 :
+
+     In the summer of 1978 the plaintiff lent $40,000.00 to the company. To secure the loan the plaintiff took a debenture
+     which gave it the right to appoint a receiver. The defendants guaranteed the loan. Both the debenture and guarantee were
+     received in evidence.
+
+     Relations between the company and the plaintiff were uneventful until August 27, 1979 when events started happening
+     quickly. That morning Mr. Belyea visited Donald O'Leary, a senior credit officer of the plaintiff, and informed him that
+     the company was in poor financial shape and that Mr. Sam Gamblin, of Gem Photo, was accompanied Mr. Belyea to the
+     meeting, was prepared to pay $40,000.00 for the company's inventory. Mr. Belyea pointed out that this amount would
+     more than satisfy the company's indebtedness to the plaintiff which then stood at approximately $34,000.00. Mr. Belyea
+     requested the plaintiff's permission for this transaction.
+
+     By the afternoon of the same day the plaintiff had concluded that it could not consent to the transaction and instead
+     appointed H.R. Doane Ltd. as receiver and requested them to take steps to liquidate the inventory. A partner of the Doane
+     firm, Mr. Bev Fowler, was the Doane representative responsible for this task.
+
+     Mr. Fowler described the various options open to him at that time and described his efforts in arranging a sale, which took
+     place after tender, to a Bridgewater, N.S. company for $30,000.00. In addition the plaintiff realized $4,925.24 apart from
+     the receiver's efforts. A balance of $7,749,03 remained owing on the $34,231.85 due at the date of demand. Mr. O'Leary
+     made mention of a balance of $8,279.30 as of November 10, 1981 but gave no details of this higher figure.
+
+20    At a pre-trial conference the parties agreed that the issues to be determined by the trial judge were:
+
+     a) Did the plaintiff act reasonably in its refusal to accept the Gamblin offer? and
+
+     b) Was the receiver's fee of $11,730 reasonable?
+
+The same issues were raised on this appeal.
+
+21 As to the first issue the trial judge held the plaintiff was justified in refusing to accept the Gamblin offer of $40,000 for the
+inventory of Chase Camera & Supply Ltd. because a substantial amount was owing to the plaintiff, the value of the inventory
+on which it held its security was unknown to it and because the defendant Belyea disclosed to the plaintiff the company's poor
+financial situation. These factors no doubt appeared to the plaintiff to jeopardize its position as a creditor. In my opinion, the
+refusal to accept the Gamblin offer was a business judgment which I cannot say was unreasonable.
+
+
+
+
+                      Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.   5
+Belyea v. Federal Business Development Bank, 1983 CarswellNB 27
+1983 CarswellNB 27, [1983] N.B.J. No. 41, 116 A.P.R. 248, 18 A.C.W.S. (2d) 19, 44 N.B.R. (2d) 248, 46 C.B.R. (N.S.) 244
+
+
+22 In his submission counsel for the defendants contended that, not only was the receiver's account unreasonable, but that the
+receiver had failed to prove that the work charged for was in fact performed. Mr. Fowler, a chartered accountant and licensed
+trustee, was an audit partner with H.R. Doane Limited specializing in insolvency work. He explained that each of Doane's
+employees is required to keep a time card upon which the employee enters the hours which he had spent each day on whatever
+accounts he works on. Mr. Fowler stated that at the end of each week the cards are "extended" and the information thereon
+is entered in each client's ledger account. He produced photocopies of all time cards and ledger sheets of the Chase Camera
+account which, by agreement of counsel, were used to establish the time spent by each employee who worked on the account.
+
+23    In seeking to prove the reasonableness of the receiver's account, counsel for the plaintiff did not enter in evidence the
+employees' time cards or the client's ledger sheets, nor did he avail himself of s. 49 of the Evidence Act, R.S.N.B. 1973, c.
+E-11, which provides that:
+
+     A record or entry of an act, condition or event made in the regular course of a business is, insofar as relevant, admissible
+     as evidence of the matters stated therein if the court is satisfied as to its identity and that it was made at or near the time
+     of the act, condition or event.
+
+24     Notwithstanding the fact the photocopies of the time cards and the client's ledger sheets were not entered in evidence,
+counsel for the defendants cross-examined Mr. Fowler at length on their contents as though they had been entered in evidence.
+For this reason and because counsel for the parties agreed at a pre-trial conference that the issue to be decided by the trial judge
+with respect to the account was whether or not it was reasonable and fair, I am satisfied that the trial judge was entitled to
+rely on the entries made in the cards as well as the viva voce testimony of Mr. Fowler in determining whether the account was
+reasonable and fair. The trial judge's finding that the receiver's account was fair and reasonable is a finding of fact supported by
+the evidence. Moreover, no evidence was tendered by the defendants to prove that the charges were unreasonable, or that the
+work was not actually performed. As there was no palpable or overriding error in his finding this court will not interfere with it.
+
+25      This appeal did not raise the issue of the requirement of reasonable notice to which a debtor is entitled when a debt is
+payable on demand. This requirement was illustrated by the decision of the Supreme Court of Canada in Ronald Elwyn Lister
+Ltd. v. Dunlop Can. Ltd., [1982] 1 S.C.R. 726, 41 C.B.R. (N.S.) 272, 18 B.L.R. 1, 135 D.L.R. (3d) 1, 65 C.P.R. (2d) 1, 42 N.R.
+181 delivered 31st May 1982 after the present appeal had been argued. The question whether or not the circumstances of the
+instant case give rise to a cause of action against the plaintiff is one which we need not consider on this appeal.
+
+26     In the result, I would dismiss the appeal with costs to be taxed in accordance with the schedule of costs in force at the
+time the action was commenced.
+                                                                                                             Directions given.
+
+
+
+End of Document             Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.
+
+
+
+
+                      Copyright © Thomson Reuters Canada Limited or its licensors (excluding individual court documents). All rights reserved.    6
+

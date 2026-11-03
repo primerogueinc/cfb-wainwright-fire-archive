@@ -1,0 +1,277 @@
+COURT / ESTATE FILE NUMBER   2501-09028
+
+COURT                        COURT OF KING’S BENCH OF ALBERTA
+
+JUDICIAL CENTRE              CALGARY
+                                                                      FILED
+                             IN THE MATTER OF THE BANKRUPTCYDIGITALLY
+                                                             AND
+                             INSOLVENCY ACT, RSC 1985, C B-3, AS
+                             AMENDED
+                                                           2501 09028
+                                                                 Oct 24, 2025
+                             AND IN THE MATTER OF THE RECEIVERSHIP
+                                                               3:08 PM
+                             OF CLEO ENERGY CORP.
+
+APPLICANT                    UCAPITAL – ULOAN SOLUTIONS INC.
+
+RESPONDENT                   CLEO ENERGY CORP.
+
+DOCUMENT                     REPLY BRIEF OF THE RECEIVER TO
+                             ALBERTA ENERGY AND MINERALS
+
+ADDRESS FOR SERVICE AND      MILLER THOMSON LLP
+CONTACT INFORMATION OF       Barristers and Solicitors
+PARTY FILING THIS DOCUMENT   525-8th Avenue SW, 43rd Floor
+                             Calgary, AB, Canada T2P 1G1
+
+                             Attention:  James Reid / Pavin Takhar
+                             Telephone: 403-298-2418 / 403-298-2432
+                             Email:     jwreid@millerthomson.com/
+                                        ptakhar@millerthomson.com
+                             File No.   0289127.0002
+                                                   TABLE OF CONTENTS
+I.          INTRODUCTION ........................................................................................................... 1
+II.         FACTS ........................................................................................................................... 2
+III.        LAW AND ARGUMENT ................................................................................................. 2
+       A.   The Transaction is Necessary ....................................................................................... 2
+       B.   Alberta Energy is not Prejudiced by the Transaction ..................................................... 3
+       C.   The Receiver Could Not Agree to the Payment of the Pre-Filing Claims ...................... 5
+       D.   Alberta Energy’s Concerns with the Purchaser ............................................................. 5
+                                                               -1-
+
+
+I.      INTRODUCTION
+
+      1.      This Reply Brief is filed by Alvarez & Marsal Canada Inc., in its capacity as Court-
+              appointed receiver and manager (the “Receiver”) of the undertakings, properties and
+              assets of CLEO Energy Corp. (“Cleo”), in response to the Bench Brief of the Alberta
+              Energy and Minerals (“Alberta Energy”) filed October 22, 2025.
+
+      2.      Alberta Energy opposes the Receiver’s application for the reverse vesting order (“RVO”)
+              contemplated by a share purchase agreement (the “SPA”) and its underlying transaction
+              (the “Transaction”) between the Receiver and 2698902 Alberta Corp. (the “Purchaser”).
+              Alberta Energy argues that the RVO structure to the Transaction “is a blatant attempt to
+              circumvent the Crown in right of Alberta’s ability to recover its cure costs and manage
+              public resources”1 and that the “standard approach” to addressing the claims of Alberta
+              Energy in insolvency proceedings is for Alberta Energy to require payment of cure costs
+              before it will transfer mineral leases to a purchaser.2
+
+      3.      Despite the alleged “standard approach”, there have been five previous transactions
+              approved by this Court in Cleo’s Notice of Intention proceedings and these receivership
+              proceedings.3 Each of those previous transactions were completed by asset purchase
+              agreements and regular approval and vesting orders. In none of those transactions had
+              Alberta Energy “employed its standard approach” of requiring the purchasers to pay cure
+              costs before it transferred the mineral leases.4 As discussed below, this so called
+              “standard approach” is a tactic being deployed by Alberta Energy to circumvent creditor
+              priorities to the detriment of other stakeholders.
+
+      4.      In communications between counsel for Alberta Energy and the Receiver prior to the
+              application, Alberta Energy took no issue with the SPA or the RVO structure as long as
+              either the Purchaser or the Receiver allocated payment of the Purchase Price “to
+              satisfying liabilities owed to the Crown”.5 Alberta Energy’s opposition to the Transaction
+              does not suggest there is an alternative transaction available, or better outcome for
+              stakeholders than the RVO. Alberta Energy’s opposition to the RVO is nothing more than
+
+
+
+
+     1 Bench Brief of Alberta Energy filed October 22, 2025 (the “AE Brief”) at para 2.
+     2 Affidavit of Tracy Wadson filed October 22, 2025 (the “Wadson Affidavit”) at paras 16 and 21.
+     3 First Report of the Receiver dated October 6, 2025 (the “First Report”) at para 3.
+     4 Wadson Affidavit at para 21.
+     5 Supplemental Report of the Receiver dated October 24, 2025 (the “Supp Report”) at Appendix B.
+                                                                -2-
+
+
+                “a blatant attempt” to extract payment of Purchase Price proceeds to satisfy an unsecured
+                pre-filing claim. Such mischief should not be permitted.
+
+        5.      Notably, following the Transaction and the payment of the post-filing amounts owing to
+                Alberta Energy, as is contemplated by the SPA and RVO, there may not be any valid
+                amounts owing to Alberta Energy. The pre-receivership royalty claim of Alberta Energy is
+                derived from Cleo having failed to file its annual gas cost allowance forms this past May
+                when Cleo did not have the necessary liquidity or staff to complete Alberta Energy’s audit.6
+                This resulted in royalty credit reversals that make up Alberta Energy’s pre-fling claim.
+                Historically, when Cleo files its gas cost allowance forms, it has been in a credit position
+                with Alberta Energy, which is likely to be the case should the Receiver complete the audit.7
+
+        6.      The facts in this case are clear and not denied by Alberta Energy. But for the Transaction,
+                there are no other plausible outcomes that will result in any recovery for creditors, including
+                Alberta Energy.8 The Transaction provides the highest and only possibility for recoveries
+                to stakeholders.
+
+        7.      The RVO is no more prejudicial to Alberta Energy than any of the previous five
+                transactions approved in Cleo’s insolvency proceedings. To the contrary, Alberta Energy
+                derives significant benefits from the RVO structure of the Transaction by having its post-
+                filing and go forward royalties paid. This will not happen if the RVO is not granted.
+
+ II.      FACTS
+
+        8.      The factual background is set out in the First Report of the Receiver dated October 6,
+                2025 (the “First Report”), including the Confidential Appendices thereto and the
+                Supplement to the First Report, dated October 24, 2025 (the “Supplemental Report”).
+
+III.      LAW AND ARGUMENT
+
+        A.      The Transaction is Necessary
+
+        9.      While Alberta Energy had no issues with the RVO structure of the Transaction if Alberta
+                Energy’s unsecured, pre-filing claim would have been paid, Alberta Energy now argues
+                that the use of an RVO is only advanced because it is “more convenient or beneficial for
+                the purchaser”.9 Alberta Energy provides no factual basis to support its assertions.
+
+
+       6 Supp report at para 17.
+       7 Supp Report at para 20.
+       8 Supp Report at para 30; First Report at Confidential Appendix B.
+       9 Alberta Energy Brief at para 22.
+                                                 -3-
+
+
+ 10.     The RVO is being sought because it is a requirement of the SPA. The SPA is by far the
+         highest and best offer received for the remaining properties of Cleo following a lengthy
+         sales and solicitation process run by Cleo and its sales agent, followed by a remarketing
+         process led by the Receiver.10
+
+ 11.      The other offers derived from the sales processes were highly conditional, and they would
+         leave substantial abandonment and reclamation obligations in the estate. As a result, the
+         Transaction is the only offer that has support from the Alberta Energy Regulator (the
+         “AER”) and is thus the only viable offer after a lengthy and fulsome marketing process.11
+
+ 12.     The RVO structure is not about convenience as Alberta Energy argues. The RVO is
+         necessary. The Purchaser is not a current licensee with the AER. For it to complete an
+         asset transaction, the purchaser would first be required to apply to the AER for a Business
+         Associate Code (“BA Code”). If a BA Code is granted, a subsequent application would
+         need to be made to the AER for approval to transfer Cleo’s AER licenses to the Purchaser.
+         The entire process would take many months and would entail significant expense by the
+         Purchaser and deteriorate the remaining estate funds, which is untenable. This process
+         would also result in a lower purchase price, reduced asset value as the properties age
+         and reservoirs are depleted, and it creates substantially increased risk in the transaction
+         closing.12
+
+ 13.     For these reasons, the Purchaser is not willing to complete a Transaction under any other
+         structure. Nor is the Receiver willing to care for and maintain Cleo’s properties for the
+         indefinite period of time it could take to complete an asset sale in the circumstances.
+
+B.      Alberta Energy is not Prejudiced by the Transaction
+
+ 14.     Alberta Energy alleges it is “detrimentally impacted” under the proposed RVO. 13 Alberta
+         Energy has been provided with the Confidential Appendices to the First Report. It is aware
+         of the other offers received for Cleo’s assets. Yet it provides no other viable options or
+         alternatives to the Transaction.14
+
+
+
+
+10 First Report at para 39.
+11 First Report at para 30.
+12 Supp Report at para 29.
+13 Alberta Energy’s Bench Brief at para 14.
+14 Supp Report at Appendix B.
+                                                          -4-
+
+
+ 15.     The assertion that “Alberta Energy is worse off under the CLEO RVO” has no merit.
+         Alberta Energy’s opposition to the Transaction is an attempt to extort sale proceeds from
+         the Purchaser or the Receiver in priority to other creditors.
+
+ 16.     There are no suggestions made that the sales processes conducted were run unfairly or
+         improvidently. Alberta Energy does not allege that there is an alternative transaction that
+         produces a better economic result to it. Simply put, the Transaction is the best possible
+         recovery for creditors, including Alberta Energy.
+
+ 17.     All other transaction proposals that were received from the sales processes would result
+         in properties being transferred to the Orphan Well Association (“OWA”). These offers are
+         contingent, at best, as license transfers for the remaining assets likely would not be
+         supported by the AER if substantial liabilities are left behind. Any proceeds derived from
+         these hypothetical alternative transactions would not result in proceeds going to satisfy
+         Alberta Energy’s alleged cure costs. Instead, the proceeds would be paid to the OWA to
+         manage the abandonment and reclamation liabilities. Alternative transactions result in
+         zero recovery to creditors.
+
+ 18.     Alberta Energy refers to the insolvency proceedings of Alphabow Energy Ltd.
+         (“Alphabow”) where the Court approved a reverse vesting order transaction wherein
+         Alphabow retains responsibility for Crown liabilities. Alberta Energy claims this is the
+         “standard approach” to addressing Crown liabilities.15 In addition to this being irrelevant
+         given the retention of unsecured pre-filing Crown liabilities is not contemplated by any of
+         the offers that were submitted in the sales processes, it is important to note that the
+         Alphabow transaction has not closed despite the reverse vesting order having been
+         granted more than 10-months ago. This is in part because the Alphabow transaction
+         preferentially treats unsecured creditors like Alberta Energy over Alphabow satisfying its
+         priority environmental liabilities. The AER has refused to approve any license transfers
+         under Alberta Energy’s “standard approach”, and as a result, no stakeholders, including
+         Alberta Energy, have benefited.16
+
+ 19.     Alberta Energy is no worse off from the Transaction. This is apparent from the undisputed
+         facts of this case. The bids received in the lengthy, open, transparent and Court-approved
+
+
+
+15 Wadson Affidavit at para 22 and Exhibits I and J.
+16 The Alphabow reverse vesting order is part of a series of transactions that leaves over $200 million in environmental
+
+liabilities in Alphabow, which has resulted in the purchaser being unable to obtain license transfers. See
+https://www.ksvadvisory.com/experience/case/alphabow for more information.
+                                                   -5-
+
+
+         sales processes for Cleo’s assets provide no better outcome to Alberta Energy. There is
+         no prejudice to Alberta Energy with the RVO structure. Contrary to Alberta Energy’s
+         position, it significantly benefits from the RVO, which will see its post-filing and go forward
+         claims satisfied immediately. No alternative transaction provides for this.
+
+C.      The Receiver Could Not Agree to the Payment of the Pre-Filing Claims
+
+ 20.     Without direction from the Court, the Receiver did not consider it appropriate to give in to
+         Alberta Energy’s demands for the payment of its pre-filing, unsecured claim.17
+
+ 21.     There are numerous other creditors in this proceeding that the Receiver had to consider,
+         including secured creditors and other Crown and government claimants alleging priority
+         to the Transaction proceeds among other estate funds. The Receiver intends to review
+         and opine on stakeholder claims and priorities and bring a distribution application on full
+         notice to stakeholders should the Transaction be approved.
+
+ 22.     In the alternative, should the Court direct the Receiver to pay Alberta Energy’s pre-filing
+         cure costs from the Purchase Price proceeds or otherwise, the Receiver still recommends
+         the RVO be granted given the extensive benefits the Transaction has for the estate and
+         there being no other viable alternatives.18
+
+D.      Alberta Energy’s Concerns with the Purchaser
+
+ 23.     Alberta Energy raises concerns about having no information about the Purchaser.19 This
+         is seemingly done to bolster its prejudice argument. Notably, Alberta Energy has never
+         raised any questions or concerns with any other purchaser in the previous transactions,
+         nor did it have concerns about the Purchaser if the Receiver had agreed to pay its pre-
+         filing royalty claim.20
+
+ 24.     The AER has met with the Purchaser to ensure it understands its regulatory obligations.
+         The Purchaser has advised the AER it is prepared to abide by its regulatory requirements
+         should the Transaction be approved.21
+
+
+
+
+17 Supp Report at para 27.
+18 Supp Report at para 28.
+19 Wadson Affidavit at paras 28 and 29.
+20 Supp Report at Appendix B.
+21 First Report at para 40.
+                                        -6-
+
+
+ALL OF WHICH IS RESPECTFULLY SUBMITTED this 24th day of October, 2025.
+
+                                              MILLER THOMSON LLP
+
+
+                                              Per:
+
+
+
+                                                     James W. Reid / Pavin Takhar
+                                                     Counsel for Alvarez & Marsal
+                                                     Canada Inc., in its capacity as
+                                                     Receiver of CLEO Energy Corp.
+

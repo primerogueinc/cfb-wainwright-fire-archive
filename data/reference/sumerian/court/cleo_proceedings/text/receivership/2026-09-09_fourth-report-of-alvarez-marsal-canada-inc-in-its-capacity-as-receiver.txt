@@ -1,0 +1,1138 @@
+ COURT FILE NUMBER         2501-09028                               Clerk’s Stamp
+
+
+ COURT                     COURT OF KING’S BENCH
+                           OF ALBERTA
+                                                                 FILED
+                                                               DIGITALLY
+ JUDICIAL CENTRE           CALGARY
+                                                              2501 09028
+                                                              Sep 9, 2026
+ APPLICANT                 UCAPITAL – ULOAN SOLUTIONS INC.9:12 AM
+
+ RESPONDENT                2755857 ALBERTA LTD.
+
+                           IN THE MATTER OF THE RECEIVERSHIP OF
+                           2755857 ALBERTA LTD.
+
+
+ DOCUMENT                  FOURTH REPORT OF ALVAREZ & MARSAL
+                           CANADA INC., IN ITS CAPACITY AS RECEIVER
+                           AND MANAGER OF 2755857 ALBERTA LTD.
+
+                           September 8, 2026
+
+ ADDRESS FOR SERVICE AND   RECEIVER
+ CONTACT INFORMATION OF    Alvarez & Marsal Canada Inc.
+ PARTY FILING THIS         Bow Valley Square IV
+ DOCUMENT                  Suite 1110, 250 - 6th Avenue SW
+                           Calgary, Alberta T2P 3H7
+                           Orest Konowalchuk / David Williams
+                           Telephone: (403) 538-4736 / (403) 538-7536
+                           Email: okonowalchuk@alvarezandmarsal.com
+                                  david.williams@alvarezandmarsal.com
+
+
+                           COUNSEL TO RECEIVER
+                           Miller Thomson LLP
+                           525 – 8th Avenue S.W. 43rd Floor
+                           Eighth Avenue Place East
+                           James Reid
+                           Telephone: (403) 298 - 2418
+                           Email: jwreid@millerthomson.com
+
+
+
+
+95240159.3
+                                              TABLE OF CONTENTS
+
+INTRODUCTION .............................................................................................................3
+
+PURPOSE ...........................................................................................................................5
+
+TERMS OF REFERENCE ...............................................................................................7
+
+ACTIVITIES OF THE RECEIVER ................................................................................8
+
+UPDATE ON THE WAGE EARNER PROTECTION PROGRAM .........................10
+
+UPDATE ON THE CLAIMS PROCEDURE ...............................................................14
+
+FINAL STATEMENT OF RECEIPTS AND DISBURSEMENTS ............................21
+
+FINAL CASH FLOW FORECAST ...............................................................................23
+
+PROPOSED FINAL DISTRIBUTIONS .......................................................................24
+
+APPROVAL OF PROFESSIONAL FEES AND EXPENSES ....................................26
+
+DISCHARGE OF RECEIVER.......................................................................................28
+
+RECEIVER’S CONCLUSIONS AND RECOMMENDATIONS ...............................29
+
+
+
+
+                                                                 2
+INTRODUCTION
+
+1.   On June 2, 2025, the Court of King’s Bench of Alberta (the “Court”) granted a
+     receivership order (the “Receivership Order”), whereby, effective June 3, 2025
+     (the “Receivership Date”), Alvarez & Marsal Canada Inc. (“A&M”) was
+     appointed receiver and manager (the “Receiver”), without security, of all the
+     current and future assets, undertakings and properties of every nature and kind
+     whatsoever, and wherever situate, including all proceeds thereof (collectively, the
+     “Property”) of CLEO Energy Corp. (“Cleo” or the “Company”), pursuant to
+     section 243(1) of the Bankruptcy and Insolvency Act, RSC 1985, c B-3 (the “BIA”)
+     and section 13(2) of the Judicature Act, RSA 2000 c J-2 (the “Receivership
+     Proceedings”).
+
+2.   Prior to the granting of the Receivership Order, on December 8, 2024, the Company
+     filed a Notice of Intention to Make a Proposal pursuant to section 50.4(1) of the
+     BIA (the “NOI Proceedings”). A&M acted as Trustee under the Proposal (in such
+     capacity the “Proposal Trustee”) during the NOI Proceedings.
+
+3.   The Receivership Order empowered and authorized, but did not obligate, the
+     Receiver to, among other things, manage, operate and carry on the business of the
+     Company and to take possession and control of the Property (as defined in the
+     Receivership Order) and any and all proceeds, receipts and disbursements arising
+     out of or from the Company, and to sell, convey, transfer, lease or assign the
+     Property or any part or parts thereof out of the ordinary course of business.
+
+4.   On October 17, 2025, the Receiver sought and obtained an Order that, among other
+     things, approved the actions, activities, and conduct of the Receiver and its legal
+     counsel since the Receivership Date, including the Interim Statement of Receipts
+     and Disbursements, as set out in the First Report.
+
+5.   On November 14, 2025, the Receiver sought and obtained the following Orders
+     from this Honourable Court:
+
+
+
+                                          3
+                 a)    an Order approving the Receiver’s actions, activities and conduct, and
+                       those of its legal counsel since the First Report, including the Interim
+                       Statement of Receipts and Disbursements, as set out in the Second
+                       Report; and
+
+                 b) an Order authorizing and approving the Receiver to complete the
+                       Transaction contemplated by the SPA and granting the Revised RVO
+                       in respect of the Transaction.
+
+6.      On November 14, 2025, His Majesty the King in Right of Canada, as represented
+        by the Minister of National Revenue brought an application for among other relief,
+        allocating the Receiver’s Charge and Receiver’s Borrowing Charge amongst the
+        various assets comprising the Property and requiring the Receiver to pay the
+        Receiver General of Canada, from the proceeds of Cleo’s assets, $899,907 in
+        satisfaction of the unremitted GST held in trust by Cleo on behalf of His Majesty
+        the King in Right of Canada as Represented by the Minister of National Revenue,
+        represented by the Canada Revenue Agency (the “CRA Application”). The
+        Canada Revenue Agency is represented by the Department of Justice Canada in
+        these Receivership Proceedings.
+
+7.      On December 18, 2025, after considering the CRA Application requesting that the
+        Receiver pay unpaid pre-receivership GST totaling $899,907 and allocate the
+        Priority Payments 1 among the various assets comprising the Property, the Court
+        issued an order dismissing the CRA Application in its entirety.
+
+8.      On February 10, 2026, the Receiver sought and obtained the following orders from
+        this Honourable Court:
+
+
+
+1
+   Priority Payments total $1,295,425 and are comprised of the following: (i) $1,078,907 to uCapital, in
+repayment of all amounts borrowed under the Interim Financing Facility in the NOI Proceedings (ii)
+$101,474 to the Company’s counsel, in full satisfaction of the amounts secured by the Administration Charge;
+(iii) $25,968 to the Proposal Trustee’s counsel, in full satisfaction of the amounts secured by the
+Administration Charge; and (iv) $89,076 to the Proposal Trustee, in full satisfaction of the amounts secured
+by the Administration Charge.
+
+
+                                                     4
+                 a)   an Order (the “Claims Procedure Order”) approving a claims
+                      procedure to determine the claims of creditors and establishing a claims
+                      bar date to prove such claims (the “Claims Procedure”); and
+
+                 b) an Order approving, among other things: (i) the Receiver’s actions,
+                      activities and conduct, and those of its legal counsel since the Second
+                      Report, including the Final R&D and Interim Statement of Receipts and
+                      Disbursements, as set out in the Third Report; and (ii) authorizing the
+                      Receiver to assign 2755857 Alberta Ltd. (“ResidualCo”) 2 into
+                      bankruptcy.
+
+9.      Further background regarding the Company and its financial circumstances is
+        contained in the materials filed in support of and relating to the Receivership Order.
+        These documents and other relevant information, including all publicly available
+        information pertaining to the NOI Proceedings and Receivership Proceedings, have
+        been posted on the Receiver’s website at www.alvarezandmarsal.com/CLEO.
+
+10.     Capitalized words or terms not otherwise defined in this Report shall have the
+        meaning ascribed in the Receivership Order, the reports filed by the Receiver in
+        these Receivership Proceedings 3 and the Claims Procedure Order.
+
+PURPOSE
+
+11.     The purpose of this fourth report of the Receiver (the “Fourth Report” or this
+        “Report”) is to provide this Honourable Court with information in respect of the
+        following:
+
+
+
+2
+  As set out in the Revised RVO, the Excluded Assets, Excluded Liabilities, and Excluded Contracts
+contemplated in the SPA were transferred to, assumed by, and vested absolutely and exclusively in
+ResidualCo on November 19, 2025, being the closing date of the Transaction (the “Closing Date”).
+
+3
+  The First Report of the Receiver dated October 6, 2025 (the “First Report”); the Supplement to the First
+Report of the Receiver dated October 24, 2025 (the “Supplement to the First Report”); the Second Report
+of the Receiver dated November 5, 2025 (the “Second Report”), the Supplement to the Second Report of
+the Receiver dated November 12, 2025 (the “Supplement to the Second Report”), and the Third Report of
+the Receiver dated February 2, 2026 (the “Third Report”).
+
+
+                                                    5
+                   a)   an update on the activities of the Receiver since the Third Report,
+                        including an update on the assignment of ResidualCo into bankruptcy;
+
+                   b) an update on the administration of the Wage Earner Protection Program
+                        (“WEPP”) in respect of former Cleo employees and advice and
+                        direction regarding the impact of the Revised RVO on the entitlement
+                        of the former Cleo employees under the Wage Earner Protection
+                        Program Act, SC 2005, c 47, s1 (“WEPPA”);
+
+                   c)   a summary of the results of the Claims Procedure to determine the
+                        claims of creditors against the general pool of funds in the Receivership
+                        (the “ResidualCo Funds”) and the funds stemming from the
+                        Transaction contemplated in the Revised RVO (the “Purchase Price
+                        Funds”) 4;
+
+                   d) the Final Statement of Receipts and Disbursements for ResidualCo for
+                        the period from February 1, 2026, to September 4, 2026 (the “Final
+                        Reporting Period”);
+
+                   e)   the Final Cash Flow Forecast to conclude the Receivership
+                        Proceedings;
+
+                   f)   the proposed Purchase Price Funds Distribution and ResidualCo Funds
+                        Distribution;
+
+                   g) the request for approval of the Receiver's activities, actions and
+                        conduct, and the professional fees and costs of the Receiver and its
+                        legal counsel, Miller Thomson LLP (“Miller Thomson” or
+                        “Receiver’s Counsel”), including the Forecast Fees and Costs;
+
+
+
+
+4
+    The Purchase Price Funds as at the Closing Date of the Transaction (November 19, 2025) were $450,035.
+
+
+                                                     6
+             h) the request for the discharge of the Receiver and the termination of the
+                  Receivership Proceedings following the filing of the Receiver’s
+                  Certificate; and
+
+             i)   the Receiver’s conclusions and recommendations with respect to the
+                  matters described above.
+
+12.   The Receiver is requesting an Order from this Honourable Court granting the
+      following relief at the Application scheduled for September 16, 2026:
+
+             a)   declaring that the Revised RVO did not impact the eligibility of former
+                  employees of Cleo for purposes of entitlement to payments under the
+                  Wage Earner Protection Program Act (Canada) (“WEPPA”);
+
+             b) approving the Receiver’s actions, activities and conduct since the Third
+                  Report and throughout the Receivership Proceedings, including the
+                  Final Statement of Receipts and Disbursements and the Final Cash
+                  Flow Forecast;
+
+             c)   approving the Receiver’s fees and disbursements, as well as those of its
+                  legal counsel, Miller Thomson LLP (“Miller Thomson” or
+                  “Receiver’s Counsel”), including the Forecast Fees and Costs, as
+                  outlined in this Report;
+
+             d) approving the proposed Purchase Price Funds Distribution and
+                  ResidualCo Funds Distribution; and
+
+             e)   approving the discharge of the Receiver and the termination of the
+                  Receivership Proceedings.
+
+TERMS OF REFERENCE
+
+13.   In preparing this Report, the Receiver has relied upon: (i) the representations of
+      certain former management and other key stakeholders of the Company; (ii)
+      financial and other information contained in the Company’s books and records,
+
+                                             7
+      which were produced and maintained principally by the Company; and (iii)
+      information obtained by the Proposal Trustee prior to the Receivership
+      Proceedings.
+
+14.   The Receiver has not performed an audit, review or otherwise attempted to verify
+      the accuracy or completeness of the Company’s financial information that would
+      wholly or partially comply with Canadian Auditing Standards (“CASs”) pursuant
+      to the Chartered Professional Accountants Canada Handbook, and accordingly,
+      the Receiver expresses no opinion or other form of assurance contemplated under
+      CASs in respect of the financial information.
+
+15.   All references to dollars are in Canadian currency unless otherwise noted.
+
+ACTIVITIES OF THE RECEIVER
+
+16.   Since the Third Report, the Receiver’s activities have included, but are not limited
+      to, the following:
+
+             a)   responding to creditor and stakeholder enquiries;
+
+             b) providing instructions to Miller Thomson on a variety of matters with
+                  respect to these Receivership Proceedings;
+
+             c)   administering the Claims Procedure in consultation with Miller
+                  Thomson, including reviewing and assessing Cure Costs Claims and
+                  Pre-Filing Claims, preparing and issuing Notices of Revision and
+                  Disallowance (“NORD”), communicating with Claimants regarding
+                  their Claims and addressing ongoing enquiries and Claims-related
+                  matters;
+
+             d) various meetings and communications with the Alberta Energy
+                  Regulator (“AER”) and Brownlee LLP (“Brownlee”), in its capacity
+
+
+
+
+                                           8
+                      as counsel to Municipalities with secured Claims 5, to provide updates
+                      on the status of the Claims Procedure and the Receiver’s review of the
+                      Claims of the AER and the Municipalities, respectively;
+
+                 e)   communications with numerous former employees of Cleo with
+                      regards to the clawback of their payments under the WEPP by ESDC;
+
+                 f)   communication with the Department of Justice Canada in its capacity
+                      as counsel to ESDC pertaining to the clawback of WEPP Payments
+                      from the Former Employees;
+
+                 g) numerous communications with Sumerian Oil & Gas Inc. (formerly
+                      Cleo) and the Alberta Department of Energy (“Alberta Crown”) with
+                      respect to the status of the gas cost allowance forms and the payment
+                      of proven Alberta Crown Cure Costs (the “Proven Alberta Crown
+                      Cure Costs”), respectively;
+
+                 h) responding to a GST/HST audit request from the Canada Revenue
+                      Agency (“CRA”);
+
+                 i)   preparing this Fourth Report and related application materials, with the
+                      assistance of Miller Thomson; and
+
+                 j)   maintaining the Receiver’s website.
+
+ResidualCo Bankruptcy
+
+17.     Pursuant to the Order granted by this Honourable Court dated February 10, 2026,
+        ResidualCo, by and through the Receiver, filed an assignment into bankruptcy on
+        July 28, 2026 (the “Bankruptcy Date”), and A&M was appointed as the licensed
+        insolvency trustee (the “Trustee”) of ResidualCo, subject to affirmation of the
+
+
+5
+  Brownlee LLP is legal counsel to the following Claimants: the Municipal District of Wainwright No. 61,
+Flagstaff County, the County of Paintearth No. 18, the Municipal District of Provost No. 52 and Vulcan
+County (collectively, the “Municipalities”).
+
+
+                                                   9
+        Trustee’s appointment by the creditors. Since the Bankruptcy Date, A&M, in its
+        capacity as Trustee, has carried out the following duties in accordance with the
+        BIA:
+
+                 a)     delivering a notice of the bankruptcy, along with other statutory
+                        documents including proofs of claim, instructions thereto, proxy forms,
+                        and the list of known creditors, to all known creditors of ResidualCo 6;
+                         and
+
+                 b) hosting and chairing a virtual first meeting of creditors (“FMOC”) for
+                        ResidualCo on August 13, 2026, at 2:00pm MDT in accordance with
+                        Directive 22R4 of the Office of the Superintendent of Bankruptcy. At
+                         the FMOC, the following occurred:
+
+                       i.      presentation of the Trustee’s report on the preliminary
+                               administration of ResidualCo.
+
+                      ii.      affirmation of the appointment of A&M as Trustee; and
+
+                   iii.        the appointment of an inspector for ResidualCo (the “Inspector”).
+
+18.     Following the FMOC, the Inspector confirmed the appointment of Miller Thomson
+        as independent legal counsel to the Trustee. The Trustee is now in the process of
+        seeking its discharge, subject to approval of the Inspector, in normal course with
+        the Office of the Superintendent of Bankruptcy and then this Court.
+
+UPDATE ON THE WAGE EARNER PROTECTION PROGRAM
+
+Administration of the WEPP
+
+19.     On the Receivership Date, the Receiver terminated the employment of all 12
+        employees of Cleo (the “Former Employees”). On June 16, 2025, the Receiver
+
+6
+ Pursuant to paragraph 39 of the Claims Procedure Order, the Claims Procedure is binding on any trustee in
+bankruptcy that may be appointed in respect of ResidualCo. As such, no creditor was required to complete
+and submit a proof of claim to the Trustee in regard to claims owing against ResidualCo.
+
+
+                                                   10
+      prepared and delivered the required information package in respect of the WEPP to
+      the Former Employees, including a proof of claim form.
+
+20.   The Receiver received proof of claim forms from the Former Employees and
+      administered the WEPP in accordance with the WEPPA. The Receiver
+      subsequently received confirmation from ESDC that all Former Employees’ WEPP
+      claims had been processed and that the Former Employees had received payments
+      from ESDC in respect thereof (the “WEPP Payments”).
+
+21.   On September 29, 2025, the Receiver received correspondence (the “WEPP
+      Correspondence”) from ESDC regarding ESDC’s payments to the Former
+      Employees pursuant to the WEPPA. In the WEPP Correspondence, ESDC noted
+      that the amount of $15,333.41 paid pursuant to the WEPP held a super-priority
+      entitlement over other creditors of Cleo (the “Super Priority Amount”).
+      Accordingly, on November 20, 2025, the Receiver remitted the Super Priority
+      Amount to ESDC.
+
+Reversal of WEPP Payments
+
+22.   On October 17, 2025, the Receiver applied to the Court for approval of, among
+      other things, a reverse vesting order transaction (the “Transaction”) pursuant to
+      which, among other things, all of the outstanding shares of Cleo would be sold to a
+      third-party purchaser and ResidualCo would replace Cleo in the Receivership
+      Proceedings as the insolvent party (the “October 17 Application”). On November
+      14, 2025, the Court approved the Transaction, and on November 19, 2025, the
+      Receiver closed the Transaction following the satisfaction of all material conditions
+      precedent to closing, as set out in the SPA.
+
+23.   At the October 17 Application, the Department of Justice Canada appeared on
+      behalf of ESDC and advised the Court that, as a result of the structure of the
+      Transaction and Cleo’s subsequent exit from the Receivership Proceedings, ESDC
+      may seek to claw back the WEPP Payments made to the Former Employees.
+
+
+
+                                           11
+24.   In response to the Department of Justice’s comments at the October 17 Application,
+      the Receiver advised the Court that, in its view, the Transaction and the resulting
+      exit of Cleo from the Receivership Proceedings should not affect the Former
+      Employees’ entitlement to the WEPP Payments. The Former Employees met all
+      eligibility requirements under the WEPPA at the time the WEPP Payments were
+      made, and the Transaction simply monetized the remainder of Cleo’s assets for the
+      benefit of the estate. The Transaction is consistent with the goals and purposes of
+      insolvency proceedings and, in the Receiver’s view, any attempts by ESDC to seek
+      repayment from the Former Employees would be contrary to the purposes of the
+      WEPPA. The Receiver also complied in remitting the Super Priority Amount to the
+      ESDC.
+
+25.   The Court addressed the potential reversal of the WEPP Payments in its reasons for
+      decision dated October 28, 2025 (the “Reasons for Decision”), stating at paragraph
+      46: “A choice to clawback payments made to terminated employees of an insolvent
+      corporation because of subsequent events beyond their control would be to the
+      immense discredit of the Minister and, I would hope, be swiftly reversed by the
+      Canada Industrial Relations Board or the Federal Court of Appeal”.
+
+26.   Between March 2026 and April 2026, the Receiver became aware through certain
+      Former Employees that ESDC had chosen to claw back the WEPP Payments made
+      to the Former Employees, notwithstanding the Court’s comments on WEPP
+      Payments in the Reasons for Decision discussed above. In certain cases, ESDC,
+      through the CRA or otherwise, has caused the tax returns of the Former Employees
+      to be withheld until repayment of the WEPP Payments were made. The Receiver
+      understands that certain Former Employees applied to have ESDC’s decision
+      reversed; however, the Receiver is not aware of any such reversals having been
+      issued as of the date of this Report.
+
+Relief Sought in Respect of WEPP Payments
+
+27.   The Receiver is of the understanding that the position of the Department of Justice
+      is that this matter cannot be resolved by this Honourable Court, but instead must be
+
+                                              12
+      adjudicated by the Canada Industrial Relations Board or Federal Court of Canada.
+      The Receiver is of the respectful view that as this is a proceeding in the Court of
+      King’s Bench, and as the Revised RVO, an order of this Court, was relied upon to
+      reverse or nullify the WEPP entitlements, it is appropriate to seek the advice and
+      direction from this Court as to the implication of the Revised RVO on the Former
+      Employee’s WEPP claims.
+
+28.   As more particularly set out in the Receiver’s Brief of Law filed in support of the
+      Application, recent jurisprudence has addressed the impact of a reverse vesting
+      order in WEPP entitlements to employees. In those decisions, courts have
+      determined that the time for determining entitlement for WEPP is at the termination
+      of employment, and further a residual corporation is a “former employer” under the
+      WEPPA.
+
+29.   In light of the recent decisions of the Courts in Ontario and Quebec and having
+      regard to the comments made by the Court in the Reasons for Decision, the
+      Receiver seeks a declaration that the Revised RVO did not impact any WEPP
+      entitlements of the Former Employees, and the ESDC is not entitled to retroactively
+      claw back the WEPP Payments.
+
+30.   The Receiver is of the respectful view that such a declaration is fair, appropriate in
+      the circumstances and is consistent with the goals and purposes of insolvency
+      proceedings and the WEPP. The Former Employees were terminated as a result of
+      Cleo’s receivership and therefore satisfied the applicable eligibility requirements
+      under the WEPPA at the time the WEPP Payments were made. In addition, the
+      Receiver shares the same view that was outlined in the Court’s comments (as
+      discussed above) within the Reasons for Decision. The subsequent reversal of the
+      WEPP Payments arose solely from the Court-approved Transaction in the
+      Receivership Proceedings and the resulting substitution of ResidualCo for Cleo.
+
+
+
+
+                                           13
+UPDATE ON THE CLAIMS PROCEDURE
+
+31.   On February 10, 2026, the Court granted the Claims Procedure Order approving
+      the Claims Procedure and establishing March 31, 2026, as the claims bar date (the
+      “Claims Bar Date”).
+
+32.   The purpose of the Claims Procedure is to establish the quantum of: (i) pre-filing
+      claims as at the Receivership Date that attach to the ResidualCo Funds (“Pre-Filing
+      Claims”); and (ii) other cure cost claims, excluding the Proven Alberta Crown Cure
+      Costs, that attach to the Purchase Price Funds (“Cure Cost Claims”). To the extent
+      there are excess Purchase Price Funds following payment of the Proven Alberta
+      Crown Cure Costs and Cure Cost Claims, such excess Purchase Price Funds should
+      be transferred to the ResidualCo Funds, subject to a holdback for the Receiver’s
+      Charge, for the benefit of the creditors and stakeholders of ResidualCo.
+
+33.   Pursuant to the Claims Procedure Order, the Receiver has undertaken the following
+      activities:
+
+              a)    on February 12, 2026, posted the Claims Procedure Order, the Notice
+                    to Claimants, the Proof of Claim Form, and the Proof of Claim
+                    Instructions, to the Receiver’s Website;
+
+              b) on February 17, 2026, mailed a claims package to each of the
+                    Claimants, which included the Claims Procedure Order, the Notice to
+                    Claimants, the Proof of Claim Form, and the Proof of Claim
+                    Instructions, and published notice of the Claims Procedure in the
+                    Insolvency Insider and the Calgary Herald;
+
+              c)    engaged in discussions with multiple creditors up to and following the
+                    Claims Bar Date with respect to filing a Proof of Claim and with regard
+                    to the Claims Procedure, generally;
+
+              d) conducted a comprehensive review of the secured Pre-Filing Claims
+                    (“Secured Pre-Filing Claims”) and Cure Cost Claims, in consultation
+
+                                            14
+                  with Miller Thomson, and issued 19 NORDs in respect of such Claims.
+                  The Receiver did not receive any Notices of Dispute in respect of the
+                  NORDs issued; and
+
+             e)   engaged in various discussions and meetings with Brownlee in respect
+                  of the Secured Pre-Claims of the Municipalities, and the AER in respect
+                  of their Secured Pre-Filing Claim.
+
+34.   The Receiver did not undertake a comprehensive assessment of the unsecured Pre-
+      Filing Claims (“Unsecured Pre-Filing Claims”), other than an initial high-level
+      review, as the quantum of the Secured Pre-Filing Claims significantly exceeds the
+      ResidualCo Funds. Accordingly, there will be no distribution to unsecured creditors
+      in respect of their Unsecured Pre-Filing Claims and priority creditors in respect of
+      their priority Pre-Filing Claims (“Priority Pre-Filing Claims”).
+
+35.   A summary of the Claims and their status is as follows:
+
+
+
+
+                                          15
+ResidualCo - Claims Summary (September 4, 2026)
+$CAD 000's
+                                      Claims Submitted in Claims
+                                              Procedure                              Final Claims Ledger(1)
+                                       Number of    Quantum of                      Number of     Quantum of
+                                         Claims      Claims ($)                      Claims       Claims ($)
+ Pre-Filing
+   Secured                                                  10           9,112                  8            6,043
+  Unsecured                                                 70           4,439                 82            5,031
+  Priority                                                   2            850                   1             771
+ Total Pre-Filing                                           82         14,401                  91          11,846
+ Cure Cost
+  Unsecured                                                 13             185                     4           125
+  Priority                                                   1              16                 -                -
+ Total Cure Cost                                            14             201                     4           125
+ Total Cure Cost & Pre-Filing Claims                        96         14,602                  95          11,971
+ Total Secured                                              10           9,112                  8            6,043
+ Total Unsecured                                            83           4,624                 86            5,157
+ Total Priority                                              3            867                   1             771
+ Total                                                      96         14,602                  95          11,971
+
+ (1) The final claims ledger includes unsecured Pre-Filing Claims that the Receiver has not reviewed in detail to
+ confirm validity or amount, as the value of the Secured Pre-Filing Claims far exceeds the remaining ResidualCo
+ Funds. Accordingly, no distributions will be available to unsecured creditors in respect of their Unsecured Pre-
+ Filing Claims.
+
+
+Summary of Proofs of Claims Received
+
+36.      The Receiver received 96 Claims by mail, facsimile, or email during the Claims
+         Procedure. Of these, 95 Claims are reflected in the final claims ledger (the “Final
+         Claims Ledger”), having either been accepted by the Receiver as submitted or
+         addressed through the issuance of NORDs that were not disputed by the applicable
+         Claimants. The Claims reflected in the Final Claims Ledger are comprised of the
+         following:
+
+                    a)   Secured Pre-Filing Claims: 8 Secured Pre-Filing Claims totalling
+                         approximately $6.1 million, the majority of which are attributable to
+                         the AER and the Municipalities, as more particularly described below;
+
+                    b) Unsecured Pre-Filing Claims: 82 Unsecured Pre-Filing Claims
+                         totalling approximately $5.0 million. The Unsecured Pre-Filing Claims
+
+
+                                                       16
+                  were subject to an initial high-level review by the Receiver but were
+                  not comprehensively reviewed, as the quantum of the Secured Pre-
+                  Filing Claims significantly exceeds the ResidualCo Funds available for
+                  distribution;
+
+             c)   Priority Pre-Filing Claims: 1 Priority Pre-Filing Claim from the Special
+                  Areas Board, the quantum of which is approximately $771,000; and;
+
+             d) Cure Cost Claims: 4 Cure Cost Claims totalling approximately
+                  $125,000, as more particularly described below.
+
+37.   The Receiver did not receive a Proof of Claim from 658 Claimants by the Claims
+      Bar Date. The claims of these non-responding Claimants, based on the information
+      available to the Receiver, total approximately $15.1 million and are comprised
+      primarily of unsecured claims.
+
+
+
+
+                                          17
+Secured Pre-Filing Claims
+
+38.   The Secured Pre-Filing Claims reflected in the Final Claims Ledger are
+      summarized in greater detail below:
+
+                ResidualCo - Secured Pre-Filing Claims (September 4, 2026)
+                $CAD 000's
+                                                                    Quantum of
+                Claimant                                             Claim ($)
+                Alberta Energy Regulator
+                Alberta Energy Regulator                                    885
+                Subtotal                                                    885
+
+                Municipalities
+                Municipal District of Wainwright No. 61                   2,004
+                Municipal District of Provost No. 52                      1,596
+                Flagstaff County                                            272
+                County of Paintearth No. 18                                 238
+                Vulcan County                                                81
+                Subtotal                                                 4,192
+
+                Other
+                Marco Simonelli                                              916
+                Stephen Ballard                                               50
+                Subtotal                                                     966
+
+                Total Secured Pre-Filing Claims                          6,043
+
+
+39.   The Receiver, in consultation with Miller Thomson, has conducted a review of the
+      Secured Pre-Filing Claims to determine the priority of the respective Claimants
+      with respect to the ResidualCo Funds. Based on the Receiver’s review, it is unclear
+      whether the Municipalities or the AER has priority over the ResidualCo Funds, as
+      each may have priority pursuant to different legislative provisions.
+
+40.   For example, pursuant to Section 103 of the Oil and Gas Conservation Act
+      (Alberta), the AER has a lien in respect of any costs, levy, fee, or penalty, among
+      other things, owing to the AER, and which is stated to take priority over all other
+      liens.
+
+
+
+
+                                              18
+41.   However, pursuant to Sections 348 and 348.1 of the Municipal Government Act
+      (Alberta), the Municipalities have a lien for certain taxes owing which is stated to
+      take priority over all other liens, except those in favour of the Crown.
+
+42.   The matter is further complicated by Section 4 of the Responsible Energy
+      Development Act (Alberta), which says that the AER is not an agent of the Crown,
+      however recent Court authority (such as Orphan Well Association v. Trident
+      Exploration Corp., 2022 ABKB 839, and Re Razor Energy Corp., Razor Holdings
+      GP Corp., and Blade Energy Services Corp., 2025 ABKB 30) has suggested that,
+      in certain circumstances, the AER can be an agent of the Crown.
+
+43.   In an effort to resolve the competing priorities between the AER and the
+      Municipalities (collectively, the “Parties”), the Receiver facilitated negotiations
+      between the Parties to determine whether a settlement regarding the distribution of
+      the ResidualCo Funds could be reached. Following these negotiations, the Parties
+      reached a settlement whereby the ResidualCo Funds will be distributed to the
+      Parties on a pro rata basis (the “Settlement”). Accordingly, the Receiver is
+      proposing to distribute the ResidualCo Funds to the Parties in accordance with the
+      Settlement. The particulars of the amount proposed to be distributed to each creditor
+      are described in greater detail in the “Proposed Final Distributions” section of this
+      Report.
+
+
+
+
+                                           19
+Cure Cost Claims
+
+44.   The Cure Cost Claims reflected in the Final Claims Ledger, as well as the Proven
+      Alberta Crown Cure Costs are summarized in greater detail below:
+
+        ResidualCo - Cure Cost Claims & Proven Alberta Crown Cure Costs
+        (September 4, 2026)
+        $CAD 000's
+
+                                                                                     Quantum of
+        Claimant                                                                      Claim ($)
+        Cure Cost Claims
+        Prairie Provident Resources Canada Ltd.                                                 86
+        Tidewater Midstream & Infrastructure Ltd.                                               19
+        Freehold Royalties Partnership                                                          12
+        Prairiesky Royalty Ltd.                                                                  8
+        Subtotal                                                                               125
+
+                                               (1)
+        Proven Alberta Crown Cure Costs
+        Royalty Arrears (August 2023 - August 2025)                                            128
+        Mineral Leases Arrears (January 2025 - August 2025)                                     38
+        Subtotal                                                                               166
+
+        Total Cure Cost Claims & Proven Alberta Crown Cure Costs                               292
+        (1) Following the filing and processing of the Gas Cost Allowance Forms, the Receiver has
+        paid the Proven Alberta Crown Cure Costs from the Purchase Price Funds, as permitted by the
+        Revised RVO granted on November 14, 2025 in respect of the Transaction.
+
+
+
+45.   The Receiver, in consultation with Miller Thomson, has conducted a review of the
+      Cure Cost Claims and determined that they represent valid cure costs owing in
+      respect of the Retained Assets identified in the SPA. Pursuant to the Revised RVO,
+      the Cure Cost Claims are entitled to be paid from the Purchase Price Funds, after
+      payment of the Proven Alberta Crown Cure Costs, on a pro rata basis, subject only
+      to the Receiver’s Charge. As the aggregate amount of the Cure Cost Claims,
+      following payment of the Proven Alberta Crown Cure Costs, is less than the
+      Purchase Price Funds available for distribution, Claimants with Cure Cost Claims
+      (the “Cure Cost Claimants”) are entitled to receive a distribution in the full
+      amount of their respective Cure Cost Claims.
+
+46.   Any Purchase Price Funds remaining following payment of the Proven Alberta
+      Crown Cure Costs and Cure Cost Claims is proposed to be transferred to the
+
+                                                     20
+        ResidualCo Funds, as described in greater detail in the “Proposed Final
+        Distributions” section of this Report.
+
+FINAL STATEMENT OF RECEIPTS AND DISBURSEMENTS
+
+47.     The Receiver’s final statement of receipts and disbursements for ResidualCo (the
+        “Final Statement of Receipts and Disbursements”) for the Final Reporting
+        Period is summarized below.
+
+ ResidualCo - Final Statement of Receipts and Disbursements
+ November 20, 2025 to September 4, 2026
+ $CAD                                                    Third Report          Reporting Period         Total
+                                                        Nov 20/25 to Jan         Feb 1/26 to       Nov 20/25 to Sep
+                                                             30/26                Sep 4/26              4/26
+ Opening ResidualCo Funds                                           724,656             591,544             724,656
+  Cash Receipts
+   Oil Revenue                                                      176,249                  -              176,249
+   Other Income                                                      10,767                  764             11,531
+   Deposit Interest                                                   1,981                6,017              7,998
+   Bank Fees Refund                                                     360                  -                  360
+ Total Cash Receipts                                                189,358                6,781            196,139
+  Operating Disbursements
+   Contractors                                                       42,460                  -                42,460
+   Utilities                                                         32,573                  -                32,573
+   Operating & Transportation                                         6,479                  -                 6,479
+ Total Operating Disbursements                                       81,512                  -                81,512
+  Non-Operating Disbursements
+   Purchaser Statement of Adjustment Settlement                      60,000                 -                60,000
+   BIA s.81.4 Priority Payments                                      15,333                 -                15,333
+   Receiver's Fees                                                  117,089             197,510             314,599
+   Receiver's Counsel's Fees                                         48,220              99,030             147,251
+   Bank Fees                                                            316                 120                 436
+   Software & Other IT Costs                                            -                   105                 105
+ Total Non-Operating Disbursements                                  240,958             296,765             537,723
+ Total Disbursements                                                322,470             296,765             619,235
+ Net Cash Flow                                                     (133,112)           (289,984)            (423,096)
+ Ending ResidualCo Funds                                            591,544             301,560             301,560
+ Opening Purchase Price Funds                                           -               450,035                  -
+ Funds Transfer from Miller Thomson                                 450,035                 -                450,035
+ Deposit Interest                                                       -                 5,266                5,266
+ Proven Alberta Energy Cure Costs(1)                                    -              (166,353)            (166,353)
+ Ending Purchase Price Funds                                        450,035             288,948              288,948
+ (1) Following the filing and processing of the Gas Cost Allowance Forms, the Receiver has paid the Proven Alberta
+ Crown Cure Costs from the Purchase Price Funds, as permitted by the Revised RVO granted on November 14, 2025 in
+ respect of the Transaction.
+
+
+
+                                                     21
+ResidualCo Funds
+
+48.   There was $591,544 of opening cash in the ResidualCo Funds available at the start
+      of the Final Reporting Period.
+
+49.   During the Final Reporting Period, the Receiver collected $6,781, consisting of:
+
+             a)    $6,017 in interest earned on the deposits in the trust account; and
+
+             b) $764 in refunds from the finalization of settlement of utilities and
+                   insurance contracts.
+
+50.   The Receiver has made disbursements of $296,765 during the Final Reporting
+      Period, relating primarily to:
+
+             a)    bank fees of $120;
+
+             b) software & Other IT Costs of $105 relating to record keeping by the
+                   Receiver; and
+
+             c)    payment of professional fees to the Receiver and the Receiver’s
+                   Counsel in the amount of $197,510 and $99,030, respectively.
+
+51.   As of September 4, 2026, the ResidualCo Funds had an ending cash balance of
+      $301,560.
+
+Purchase Price Funds
+
+52.   There was $450,035 of opening cash in the Purchase Price Funds available at the
+      start of the Final Reporting Period.
+
+53.   During the Final Reporting Period, the Receiver collected $5,266 of interest earned
+      on deposits held in the account.
+
+54.   Following the filing and processing of the Gas Cost Allowance Forms, the Receiver
+      made disbursements to the Alberta Crown totalling $166,353 in respect of the
+
+
+                                             22
+      Proven Alberta Crown Cure Costs, as permitted by the Revised RVO. The Proven
+      Alberta Crown Cure Costs have now been paid in full.
+
+55.   As of September 4, 2026, the Purchase Price Funds had an ending cash balance of
+      $288,948.
+
+FINAL CASH FLOW FORECAST
+
+56.   The table below provides a summary of the forecast receipts and disbursements to
+      be collected and paid by the Receiver with respect to ResidualCo during the period
+      from September 5, 2026, to the filing of the Receiver’s Certificate (the “Final Cash
+      Flow Forecast”).
+
+           ResidualCo. - Final Cash Flow Forecast
+           September 5, 2026 to Discharge
+           $CAD
+
+           Opening ResidualCo Funds                                         301,560
+            Cash Receipts
+             Deposit Interest                                                   500
+           Total Cash Receipts                                                  500
+            Non-Operating Disbursements
+             Receiver's Fees                                                 35,000
+             Receiver's Counsel's Fees                                       20,000
+             Transfer to Trustee for Bankruptcy Costs                        28,402
+             Bank Fees                                                          200
+             File, Administration and Contingency Costs                      10,000
+           Total Non-Operating Disbursements                                 93,602
+           Total Disbursements                                               93,602
+           Net Cash Flow                                                    (93,102)
+           Total Ending ResidualCo Funds                                    208,458
+           Opening Purchase Price Funds                                     288,948
+           Plus: Deposit Interest                                               500
+           Ending Purchase Price Funds                                      289,448
+
+
+57.   The Receiver’s comments with respect to the Final Cash Flow Forecast are as
+      follows:
+
+
+
+                                             23
+             a)     The Receiver anticipates the collection of approximately $500 in
+                    deposit interest in each of the ResidualCo Funds bank account and the
+                    Purchase Price Funds bank account;
+
+             b) the total forecast disbursements of approximately $93,602 consist of:
+
+                   i.   forecast costs of the Receiver and Receiver’s Counsel of $35,000
+                        and $20,000, respectively (the “Forecast Fees and Costs”);
+
+                  ii.   $28,402 to be transferred from the Receiver to the Trustee to fund
+                        the administration costs required to complete the bankruptcy of
+                        ResidualCo, as the Receiver has guaranteed the fees and costs of
+                        the ResidualCo bankruptcy estate;
+
+               iii.     a contingency of $10,000 for file, administration and contingency
+                        costs; and
+
+               iv.      estimated bank fees of $200.
+
+58.   The Receiver estimates that there may be approximately $208,458 in ResidualCo
+      Funds and $289,448 in Purchase Price Funds available for further distributions to
+      creditors, as discussed below.
+
+59.   The Final Cash Flow Forecast is based on assumptions regarding future events. The
+      Receiver expresses no opinion or other form of assurance with respect to the
+      accuracy of any financial information presented in this Fourth Report or relied upon
+      by the Receiver in preparing this Fourth Report.
+
+PROPOSED FINAL DISTRIBUTIONS
+
+Purchase Price Funds
+
+60.   As set out in the Final Cash Flow Forecast, the Receiver anticipates that $289,448
+      in Purchase Price Funds will be available for distribution to Cure Cost Claimants.
+
+
+
+
+                                            24
+      The table below provides a summary of the proposed distributions to be paid by the
+      Receiver from the Purchase Price Funds.
+
+      ResidualCo - Proposed Purchase Price Funds Distribution
+      $CAD
+      Opening Purchase Price Funds                                                  289,448
+      Cure Cost Claim Disbursements
+        Prairie Provident Resources Canada Ltd.                                       86,433
+        Tidewater Midstream & Infrastructure Ltd.                                     18,962
+        Freehold Royalties Partnership                                                11,980
+        Prairiesky Royalty Ltd.                                                        8,022
+      Total Cure Cost Claim Disbursements                                           125,397
+      Purchase Price Funds after Cure Cost Claim Disbursements                      164,051
+        Transfer to ResidualCo Funds                                                (164,051)
+      Ending Purchase Price Funds                                                        -
+
+
+61.   The Receiver proposes to make the following distributions from the Purchase Price
+      Funds (the “Purchase Price Funds Distribution”):
+
+              a)   $125,397 to the Cure Cost Claimants with valid Cure Costs Claims;
+                   and
+
+              b) $164,051 to the ResidualCo Funds bank account, for the benefit of the
+                   ResidualCo creditors.
+
+62.   The Purchase Price Funds Distribution is subject to the Receiver’s assumption that
+      the Receiver will be paid the forecast receipts as estimated in the Final Cash Flow
+      Forecast. Should the Final Cash Flow Forecast change as a result of new
+      information not available to the Receiver at this time, the Purchase Price Funds
+      Distribution may either increase or decrease.
+
+ResidualCo Funds
+
+63.   As set out in the Final Cash Flow Forecast, the Receiver anticipates that $208,458
+      in ResidualCo Funds will be available for distribution to Claimants with Secured
+      Pre-Filing Claims. The table below provides a summary of the proposed
+      distributions to be paid by the Receiver from the ResidualCo Funds.
+
+
+                                               25
+ResidualCo - Proposed ResidualCo Funds Distribution
+$CAD
+Opening ResidualCo Funds                                                            208,458
+Cash Receipts
+  Purchase Price Funds Transfer                                                      164,051
+Total Cash Receipts                                                                 164,051
+ResidualCo Funds after Purchase Price Funds Transfer                                372,509
+                                                         Pre-Filing   Pro Rata
+Pre-Filing Secured Claim Disbursements                 Secured Claim Share Distribution
+Alberta Energy Regulator                                      885,102   17.43%   64,941
+Municipal District of Wainwright No. 61                     2,004,223   39.48%  147,053
+Municipal District of Provost No. 52                        1,595,902   31.43%  117,094
+Flagstaff County                                              272,401    5.37%   19,987
+County of Paintearth No. 18                                   238,434    4.70%   17,494
+Vulcan County                                                  80,944    1.59%    5,939
+Total Pre-Filing Secured Claim Disbursements                                   372,509
+Ending ResidualCo Funds                                                                  -
+
+
+64.    The Receiver proposes to make a distribution in the aggregate amount of $372,509
+       from the ResidualCo Funds (the “ResidualCo Funds Distribution”), to be paid to
+       the AER and Municipalities in accordance with the Settlement.
+
+65.    The ResidualCo Funds Distribution is subject to the Receiver’s assumption that the
+       Receiver will be paid the forecast receipts as estimated in the Final Cash Flow
+       Forecast. Should the Final Cash Flow Forecast change as a result of new
+       information not available to the Receiver at this time, the ResidualCo Funds
+       Distribution may either increase or decrease.
+
+APPROVAL OF PROFESSIONAL FEES AND EXPENSES
+
+66.    The Receiver and its legal counsel have rendered their invoices for their respective
+       fees and disbursements for services in connection with the Receivership
+       Proceedings and are seeking the approval of this Honourable Court.
+
+67.    The Receiver seeks approval from this Honourable Court of: (i) its professional fees
+       and disbursements for the period of December 20, 2025 to August 31, 2026 (the
+       “Receiver Taxation Period”); and (ii) Miller Thomson’s professional fees and
+
+
+                                               26
+           disbursements for the period of January 5, 2026 to August 31, 2026 (the “Miller
+           Thomson Taxation Period”). This Honourable Court previously approved the fees
+           and disbursements of the Receiver and Miller Thomson as outlined in the
+           Receiver’s previously filed reports to this Court.
+
+68.        The total fees and expenses of the Receiver during the Receiver Taxation Period
+           are $188,105 (exclusive of GST), a summary of which is included below:
+
+                                                          ResidualCo
+                                        Summary of the Receiver's Statements of Account
+                                       For the period December 20, 2025 to August 29, 2026
+ Invoice                     Period                        Fees        Disbursements       Subtotal     GST       Total
+Alvarez & Marsal Canada
+    8      December 20, 2025 to February 27, 2026             59,708             5,964         65,672     3,284      68,955
+    9      February 28, 2026 to March 28, 2026                22,031             1,172         23,203     1,160      24,363
+   10      March 29, 2026 to May 2, 2026                      21,716               500         22,216     1,111      23,326
+   11      May 3, 2026 to May 30, 2026                        37,397               -           37,397     1,870      39,266
+   12      May 31, 2026 to July 4, 2026                       15,860               -           15,860       793      16,652
+   13      July 5, 2026 to August 1, 2026                      5,241               -            5,241       262       5,503
+   14      August 2, 2026 to August 29, 2026                  18,519               -           18,519       926      19,444
+          Total                                              180,469             7,636        188,105     9,405     197,510
+
+
+
+69.        The total fees and expenses of the Receiver’s Counsel during the Miller Thomson
+           Taxation Period total $94,322 (exclusive of GST), a summary of which is included
+           below:
+
+                                                         ResidualCo
+                                   Summary of the Receiver's Counsel's Statements of Account
+                                      For the period January 5, 2026 to August 31, 2026
+ Invoice                     Period                        Fees        Disbursements      Subtotal      GST       Total
+Miller Thomson LLP
+ 4225120 January 5, 2026 to January 31, 2026                   4,527              -            4,527        226      4,753
+ 4236525 February 2, 2026 to February 26, 2026                18,220              262         18,482        916     19,399
+ 4245207 March 2, 2026 to March 31, 2026                       6,170              -            6,170        309      6,479
+ 4253489 April 1, 2026 to April 30, 2026                      15,454              -           15,454        773     16,227
+ 4267449 May 1, 2026 to May 29, 2026                          28,358               19         28,377      1,419     29,796
+ 4277766 June 1, 2026 to June 30, 2026                         9,833              -            9,833        492     10,325
+ 4287774 July 1, 2026 to July 31, 2026                         4,301              -            4,301        215      4,516
+ 4290375 August 4, 2026 to August 31, 2026                     7,179              -            7,179        359      7,538
+          Total                                               94,041              281         94,322      4,708     99,030
+
+
+
+70.        The Receiver and Miller Thomson’s invoices outline the date of the work
+           completed, the description of the work completed, the length of time taken to
+           complete the work and the name of the individual who completed the work in
+           question. Copies of the invoices will be made available to the Court at its direction,
+           if necessary.
+
+                                                           27
+71.   The Forecast Fees and Costs of Receiver and the Receiver’s Counsel to complete
+      this engagement (August 30, 2026 to discharge) are approximately $35,000 and
+      $20,000 respectively, which includes fees and costs incurred from August 30, 2026
+      to the date of this Report, but not paid.
+
+72.   The Receiver respectfully submits that its professional fees and disbursements and
+      those of its legal counsel for the Receiver Taxation Period, the Miller Thomson
+      Taxation Period and the Forecast Fees and Costs are fair and reasonable in the
+      circumstances, given the substantive tasks performed by the Receiver and its legal
+      counsel in connection with the Receivership Proceedings.
+
+DISCHARGE OF RECEIVER
+
+73.   The Receiver’s administration of the estate is substantially complete, subject to: (i)
+      the collection of the forecast receipts and forecast payments to be made as set out
+      in the Final Cash Flow Forecast; (ii) the Purchase Price Funds Distribution; and
+      (iii) the ResidualCo Funds Distribution described herein.
+
+74.   In addition, the Receiver will have certain miscellaneous items to attend to after its
+      discharge, including filing all outstanding GST returns with CRA, receiving the
+      forecast receipts and paying the forecast disbursements, final reconciliation of
+      accounts and addressing various CRA matters. The Receiver is of the view that
+      these items are administrative in nature and should not prevent this Court from
+      granting an unconditional discharge.
+
+75.   The Receiver’s next steps include, but are not limited to:
+
+             a)   filing GST returns with the CRA and closing the GST account;
+
+             b) collecting the remaining receipts and disbursing funds as described in
+                  the Final Cash Flow Forecast;
+
+             c)   co-operating with the Trustee in respect of the bankruptcy of
+                  ResidualCo;
+
+
+                                            28
+             d) preparing the Purchase Price Funds Distribution and the ResidualCo
+                  Funds Distribution; and
+
+             e)   completing the administrative tasks in accordance with the
+                  requirements of the BIA.
+
+76.   The Receiver respectfully requests that the Order of this Court contain the standard
+      Alberta Template Discharge Order provision that all claims against the Receiver,
+      its officers, directors, employees and affiliates, in connection with its appointment
+      or the performance of its duties as Receiver to the date of this Order thereafter be
+      stayed, extinguished and forever barred and that the Receiver, its officers, directors,
+      employees and affiliates, shall have no obligation or liability in respect thereof
+      except for any liability arising out of fraud, gross negligence or willful misconduct
+      on the part of the Receiver.
+
+77.   The Receiver respectfully requests that this Honourable Court approve the Order
+      discharging the Receiver of and from its duties, subject to the completion of its final
+      administrative duties and the filing of the Receiver’s Certificate as noted above,
+      and the termination of these Receivership Proceedings.
+
+RECEIVER’S CONCLUSIONS AND RECOMMENDATIONS
+
+78.   The Receiver recommends that this Honourable Court grant an Order:
+
+             a)   declaring that the Revised RVO did not impact the eligibility of former
+                  employees of Cleo for purposes of entitlement to payments under the
+                  Wage Earner Protection Program Act (Canada) (“WEPPA”);
+
+             b) approving the Receiver’s actions, activities and conduct, and those of
+                  its legal counsel since the Third Report, including the Final Statement
+                  of Receipts and Disbursements, as set out in this Report;
+
+             c)   approving the Final Cash Flow Forecast;
+
+
+
+
+                                            29
+               d) approving the fees and disbursements of the Receiver and its legal
+                    counsel, including the Forecast Fees and Costs, as set out in this Report;
+
+               e)   approving the proposed Purchase Price Funds Distribution and
+                    ResidualCo Funds Distribution; and
+
+               f)   approving the discharge of the Receiver and the termination of these
+                    Receivership Proceedings following the filing of the Receiver’s
+                    Certificate.
+
+
+All of which is respectfully submitted this 8th day of September, 2026.
+
+ALVAREZ & MARSAL CANADA INC.,
+in its capacity as the Court-appointed Receiver of
+2755857 Alberta Ltd. and not its
+personal or corporate capacity
+
+
+
+
+Orest Konowalchuk, CPA, CA, CIRP, LIT       David Williams, CPA, CIRP, LIT
+Senior Vice President                       Vice President
+
+
+
+
+                                             30
+

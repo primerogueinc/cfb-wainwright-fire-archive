@@ -1,0 +1,572 @@
+COURT FILE NUMBER     2501-09028                                    Clerk’s Stamp
+COURT                 COURT OF KING’S BENCH OF ALBERTA
+
+
+JUDICIAL CENTRE       CALGARY
+
+                      IN THE MATTER OF THE BANKRUPTCY
+                      AND
+                      INSOLVENCY ACT, RSC, 1985, C. B-3, AS
+                      AMENDED
+
+                      AND IN THE MATTER OF THE
+                      RECEIVERSHIP OF 2755857 ALBERTA
+                      LTD.
+
+APPLICANT             UCAPITAL – ULOAN SOLUTIONS INC
+
+
+RESPONDENT            CLEO ENERGY CORP
+
+                      MEMORANDUM OF FACT AND LAW ON BEHALF OF
+DOCUMENT
+                      HIS MAJESTY THE KING IN RIGHT OF CANADA
+                      as represented by the Minister of Employment and Social
+                      Development Canada
+
+
+                      HIS MAJESTY THE KING IN RIGHT OF CANADA
+PARTY FILING THIS
+                      as represented by the Minister of Employment and Social
+DOCUMENT
+                      Development Canada
+
+ADDRESS FOR SERVICE
+AND CONTACT           Department of Justice Canada
+INFORMATION OF
+PARTY FILING THIS     300, 10423 – 101 Street NW
+DOCUMENT              Edmonton, AB T5H 0E7
+                      Attention: Daniel Segal
+                      Tel: 587-335-9341
+                      Fax: 780-495-3319
+
+                      File: 500276439
+                                                            -2-
+
+
+
+                                                          INDEX
+                                                                                                               Page #
+
+PART I - OVERVIEW ............................................................................................ 3
+
+PART II - STATEMENT OF FACTS ...........................................................................4
+
+PART III - ISSUES .................................................................................................5
+
+PART IV – LAW AND ARGUMENT ...........................................................................5
+
+PART V - CONCLUSION ..................................................................................... 12
+
+PART VI - RELIEF SOUGHT ................................................................................. 12
+
+PART VII – LIST OF AUTHORITIES ........................................................................ 13
+                                                -3-
+
+
+
+PART I – OVERVIEW
+
+   1. The Receiver seeks declarations regarding Wage Earner Protection Program
+      (“WEPP”) entitlement.
+
+   2. To do so, the Receiver requests this Court to declare that:
+
+
+               (a) the Reverse Vesting Order granted November 14, 2025 (“Revised RVO”)
+               does not impact previously approved claims or payments made to former
+               employees of Cleo Energy Corp. under the Wage Earners Protection Program
+               Act1 ( “WEPPA” ); and
+
+               (b) an employee's entitlement under the WEPPA is determined at the time of
+               termination and is not altered by the subsequent granting of the Revised RVO.
+
+   3. The Receiver is thereby seeking that this Court determine the impact of the Revised
+      RVO on the WEPP applications of the terminated employees.
+
+   4. The Attorney General of Canada, on behalf of Employment and Social Development
+      Canada, opposes the declarations sought.
+
+   5. The Receiver's proposed declarations would determine the legal effect of the
+      Revised RVO on the individual former employees' entitlement to payments under a
+      federal statutory benefits program, notwithstanding that the Minister has already
+      made determinations under the WEPPA concerning those employees.
+
+   6. The statutory avenue of review and appeal is determined under the WEPPA. The
+      precise legal issue that the Receiver asks this Court to determine, whether the
+      Revised RVO altered the employees' entitlement under the WEPPA, is one that
+      Parliament has assigned to the Minister and, on appeal, to the Canada Industrial
+      Relations Board (“CIRB”).
+
+   7. Pursuant to the WEPPA,the Minister has sole and exclusive authority to determine
+      whether an individual is eligible to receiver WEPP payments. Where an applicant
+      disagrees with the Minister’s decision, the legislation provides a specific review and
+      appeal mechanism to the CIRB.
+
+   8. We respectfuly submit that this Honourable Court should decline to issue the
+      declaration on the basis that the Superior Court lacks jurisdiction to make the
+      declaration, or alternatively should decline to make the declaration in light of the
+      prescribed review and appeal provisions set out in the WEPPA which has been
+
+1 Wage Earner Protection Program Act, SC 2005, c. 47, s. 1 (“WEPPA”)
+                                                 -4-
+
+
+
+        acted on by the applicants to the WEPP. Moreover, other than the Receiver
+        asserting that it does not agree with the Minister’s determination, the declarations
+        sought serve no purpose in this receivership, nor the duties and obligations of the
+        Receiver pursuant its mandate.
+
+PART II – STATEMENT OF FACTS
+
+    9. On June 2, 2025 this Court granted a receivership order appointing Alvarez & Marsal
+       Canada Inc. as receiver and manager of all the property of Cleo Energy Corp.
+       (“Cleo”).
+
+    10. The Receiver terminated the employees of Cleo shortly after the Receivership Order
+        was issued.
+
+    11. The terminated employees (the “WEPP Applicants”) applied to the WEPP in
+        respect of outstanding wages owed at the time of their termination. The WEPP
+        Applicants received WEPP payments.
+
+    12. The Receiver brought an application to approve a transaction through a reverse
+        vesting order structure. That application was heard by Justice Feasby on October
+        17, 2025. Justice Feasby reserved his decision and provided parties the opportunity
+        to provide additional written submissions, which ESDC and the Receiver provided 2.
+
+    13. Pursuant to a written decision dated October 28, 2025, Justice Feasby denied the
+        application but provided leave for the Receiver to reapply. A further application for
+        a sale by reverse vesting order was made by the Receiver, which was heard by
+        Justice Bourque on November 14, 2025.
+
+    14. The Court issued a reverse vesting order for the sale of the shares of Cleo on
+        November 14, 2025 and on the closing of that transaction Cleo exited the
+        Receivership Proceedings and was replaced by 2755857 Alberta Ltd.
+
+    15. After Cleo exited the Receivership Proceedings, the Minister reconsidered the
+        previous eligibility determinations of the WEPP Applicants and determined that
+        they were not eligible for payments from the WEPP. The WEPP Applicants and the
+        Receiver were informed of the redetermination decisions of the Minister.
+
+    16. The WEPP Applicants all exercised their statutory right to seek a review of the
+        Minister’s determinations pursuant the WEPPA.
+
+
+
+2 The additional materials provided to the Court included a letter the Court dated October 22, 2025 from
+
+Justice Canada on behalf of ESDC, and a Supplement to the First Report of the Receiver and a Reply Brief
+from the Receiver addressing the ESDC submission.
+                                             -5-
+
+
+
+   17. Following review, the Minister confirmed the determinations. Confirmations of the
+       review decisions were provided to the WEPP Applicants and the Receiver.
+
+   18. Following the Minister’s confirmations of the reconsidered decisions, the WEPP
+       Applicants have a statutory right of appeal to the CIRB pursuant to s. 14(1) of the
+       WEPPA.
+
+   19. To date, the Minister is not aware of any of the WEPP Applicants appealing the
+       review decision to the CIRB.
+
+   20. The Receiver now seeks declarations from this Court that the Revised RVO does not
+       affect previously approved WEPP claims or payments and that the employee’s
+       entitlement under the WEPPA was determined at the time of termination and
+       cannot be altered by the subsequent granting of the Revised RVO.
+
+   21. The effect of the proposed declarations would be to establish, contrary to the
+       Minister’s determinations, that the Revised RVO did not alter employee’s eligibility
+       under the WEPPA.
+
+PART III –ISSUES
+
+   22. Does the Court have the jurisdiction to make the declarations sought by the
+       Receiver concerning the effect of the Revised RVO on the terminated employees’
+       entitlement under WEPPA?
+
+   23. Should declarations sought by the Receiver be made by the Court?
+
+
+PART IV – LAW AND ARGUMENT
+
+   24. The WEPPA was enacted to establish a federal program, the WEPP. It is designed to
+       allow the federal government to make timely payments to former employees who
+       are owed eligible unpaid wages by an insolvent employer and who meet the
+       eligibility requirements determined by the statute. Its purpose is to provide relief to
+       individuals whose employment has been terminated by an insolvent employer who
+       ceases or will cease to operate its business operations.
+
+   25. In a receivership, the employee eligibility requirements to receive WEPP payments
+       are set out in s. 5(1) of the WEPPA, which stipulates that the following conditions
+       must be met:
+
+          a. the person’s employment has ended for a reason prescribed by s. 3 of the
+             WEPPR (WEPPA, s. 5(1)(a));
+                                                     -6-
+
+
+
+            b. the former employer is subject to a receivership (WEPPA, s. 5(1)(b)(ii)); and,
+
+            c. the individual is owed eligible wages by their former employer (WEPPA, s.
+               5(1)(c)).
+
+        These conditions are determined under the exclusive jurisdiction of the Minister3,
+        which determination is subject to review by the Minister and to an appeal before the
+        CIRB.4 The Board’s decision is subject to judicial review under the exclusive
+        jurisdiction of the Federal Court of Appeal.5
+
+    26. The WEPPA does not require any Superior Court involvement where the former
+        employer is subject to a receivership. Unlike a proceeding under the CCAA or
+        Division I of the BIA, where a declaration from the Court is required prior to former
+        employees applying to the Program, no such application is needed in the case of a
+        receivership.
+
+    27. The Minister has exclusive jurisdiction pursuant to the WEPPA to make WEPP
+        eligibility determinations.6
+
+    28. The Minister must independently assess if eligibility conditions under s. 5(1) of the
+        WEPPA are satisfied, as the Quebec Court of Appeal acknowledged in Former
+        Gestion.7
+
+    29. The Receiver describes the question before the Court as “determining whether the
+        Revised RVO had any impact on the eligibility of former employees of Cleo for
+        entitlement to payments under the Wage Earner Protection Program Act.”8
+
+    30. The declarations that the Receiver is urging the Court to make on plain reading seek
+        to impact the independence of the Minister in assessing the criteria under section
+        5(1) of the WEPPA by dictating the result that the Receiver believes is appropriate.
+        The declarations sought seek to dictate the legal effect of the RVO transaction on
+        the “eligibility” of applicants, and also to define the time parameters that the
+        Minister must examine and evaluate such a claim.
+
+
+
+
+3 WEPPA s. 9.
+4 WEPPA, s. 12 and 14.
+5 Federal Courts Act, RSC 1985, c. F-7, s. 18(1)(b), 28(1)(h) and 28(2).
+6 WEPPA, s 9; see especially French version that says, “[l]e minister décide si le demandeur est admissible
+
+au prestations” i.e., the Minister decides if the applicant is eligible.
+7 Attorney General of Canada c Former Gestion Inc, 2024 QCCA 1441 at paras 7, 16.
+8 Receiver’s Brief of Law, dated September 9, 2026 at para 1(b).
+                                                   -7-
+
+
+
+Principles on receivers seeking advice and directions in the form of declaratory relief
+
+    31. Where a trustee, or in this case a receiver, seeks advice and direction for
+        declaratory relief or declaratory judgments there are a number of principles that
+        have developed through the jurisprudence including:
+
+             •       applications for advice and directions are appropriate to ensure the proper
+                     and timely administration of the estate;9
+
+             •       a court should decline to provide advice and directions on matters that do
+                     not directly relate to the receivership;10
+
+             •       a court should decline to provide advice and directions when the advice and
+                     direction would substantively impact proceedings in another jurisdiction
+                     before another court which are properly before the court in the other
+                     jurisdiction;11
+
+             •       a court should not issue a declaratory order that would interfere with the
+                     jurisdiction assigned to a specialized tribunal;12
+
+             •       a court should decline to provide directions which has no practical
+                     utility;13and,
+
+             •       a court should decline to make a declaration where the declaration would be
+                     useless or embarrasing or where an adequate alternative alternative remedy
+                     is available;14
+
+    32. None of the principles listed above support the declarations sought by the Receiver.
+
+    33. The declarations requested do not facilitate the administration of the receivership,
+        concerns a matter falling within the Minister’s statutory jurisdiction under the
+        WEPPA, and seeks to address issues for which a specific statutory review process
+        already exists and has been pursued. Moreover, the requested declaration would
+        have no practical utility, as the Minister has already rendered decisions regarding
+        the WEPP Applicants’ eligibility and review requests.
+
+
+
+
+9 Griffiths McBurney & Partners    v. Ernst & Young YBM Inc. 2000 ABCA 284 (CanLII) at para 32.
+10 Ibid., at para 34.
+11 Ibid., para 34.
+12 GLP NT Corporation v. Canada (Attorney General), 2003 [O.J. No. 2904], at para 21.
+13 Iris Technologies v Canada, 2024 SCC 24, at para 58.
+14 Griffiths, Supra 19, para 55
+                                                  -8-
+
+
+
+    34. The Alberta Court of Appeal in the case of Canada (Attorney General) v. Ernst &
+        Young Inc.15 allowed an appeal of a declaration that was issued in a receivership.
+        The Receiver had sought and obtained a declaration from the court that a
+        disclaimer of interest did not create a new defence for the Attorney General who
+        was involved in separate litigation with other stakeholders. In allowing the appeal,
+        the Court held that there was was no basis to conclude that the receiver was
+        entitled to the declaration it sought, and that the Chambers Judge had erred in
+        relying on the Receivership Order as authority to grant the declaration.
+
+    35. In the current receivership, the Receiver has not identified anything in the
+        Receivership Order that would entitle it to the declarations. In these circumstances,
+        the Court should decline to exercise its advisory jurisdiction or grant the declaratory
+        relief sought.
+
+The Court should not make the declaration sought on the impact of the Revised RVO on the
+claims of the WEPP Applicants
+
+    36. It was well known at the time the ARVO was granted that there could be an impact
+        from the revised RVO on the claims of the WEPP Applicants.
+
+    37. At the initial application by the Receiver to seek an order approving the RVO
+        transaction before Justice Feasby On October 17, 2025, Crown counsel had advised
+        that there could be an impact on those employees due to the RVO structure, and
+        that determination of eligibility for receipt of WEPP payments was the exclusive
+        jurisdiction of the Minister pursuant the legislation. It was further set out that there
+        was an established path within the legislation for an applicant dissatisfied with the
+        determination to pursue. Following the hearing, additional written submissions to
+        Justice Feasby were provided by the Crown16 and by the Receiver17.
+
+    38. Justice Feasby did not approve the RVO transaction but did provide leave for a
+        further application. In his written reasons, he clearly expressed his opinion and
+        dislike of the possibility that previous payments to the WEPP Applicants could be
+        clawed back, but also expressly acknowledged that the decision was the Ministers,
+        and that recourse from such a decision was to the CIRB and the Federal Court of
+        Appeal18.
+
+    39. The Receiver’s Reply Brief to the Department of Justice Canada dated October 24,
+        2025 filed in these proceedings included a draft form of order at Appendix “A” which
+
+
+
+15 Canada (Attorney General) v. Ernst & Young Inc., 2019 ABCA 180 (CanLII)
+16 Supplement to the First Report of the Receiver, Appendix A
+17 Reply Brief of the Receiver to Department of Justice Canada dated October 24, 2025
+18 Cleo Energy Corp (Re), 2025 ABKB 621, at para 46.
+                                                 -9-
+
+
+
+       contained proposed wording that is virtually the same to the declaration now being
+       sought19.
+
+   40. At the further application on November 14, 2025, (which proceeded before Justice
+       Bourque), the draft form of Order sought by the Receiver did not include any
+       declarations touching on WEPP eligibility. The Receiver’s Second Report filed with
+       the Court to support that application did note that there was the possibility of an
+       impact on the WEPP Applicants as a result of the RVO transaction, and also
+       attached a copy of the written decision of Justice Feasby. The report at paragraphs
+       18 – 20 states:
+
+           Potential Clawback of WEPP Payments
+
+           18.At the October 17 Application and in its written submission, the DOJ
+           on behalf of ESDC had advised the Court a reverse vesting order
+           transaction could have an impact on employees who received WEPP
+           payments as part of their employment termination in these proceedings.
+
+           19.The Court addressed this in the Reasons for Decision at paragraphs
+           40 to 46.
+
+           20.The DOJ has been provided a copy of the Revised RVO in advance of
+           filing the Receiver’s application and we understand that ESDC takes no
+           position at the application for the Revised RVO.
+
+   41. Accordingly, the issue of a potential impact of the reverse vesting order transaction
+       was known and identified before the Court at the time of the November 14, 2025
+       application. The Receiver did not ask the Court to make any declarations at that
+       time as part of its order, and ESDC did not take a position relating to the ARVO being
+       sought.
+
+Adequate alternative remedy for terminated employees to appeal the Minister’s decision
+
+   42. The WEPP Applicants did not need to seek any court declaration within the
+       receivership to apply for WEPP, nor was such an application made (or required to be
+       made) by the Receiver.
+
+   43. The WEPPA sets out a specific mechanism for an applicant to dispute an eligibility
+       decision they are dissatisfied with. Initially they have a right to request a Ministerial
+       review of the decision, which review can confirm, rescind or vary a determination20.
+       If dissatisfied with the result of that review Parliament has set out a prescribed
+
+19 Reply Brief of the Receiver to Department of Justice Canada dated October 24, 2025, Appendix “A”
+20 WEPPA, s. 10
+                                               - 10 -
+
+
+
+       mechanism for an applicant to follow to dispute the decision, namely an appeal to
+       the CIRB.21
+
+   44. The WEPP Applicants have already engaged in the review process under WEPPA.
+       Each WEPP Applicant sought review of the redetermination decision. The decisions
+       were confirmed by the Minister. They have a clear path available for them should
+       they want to contest the Minister’s redeterminations.
+
+   45. The WEPPA does not contemplate bringing an application to the Superior Court
+       dealing with the insolvency to contest a decision of the Minister, and in fact strictly
+       prohibits a court from questioning or reviewing that decision.
+
+   46. Section 13 of WEPPA22 provides:
+
+       Review is final
+       13 Subject to the right of appeal under section 14, the Minister’s confirmation,
+       variation or rescission, as the case may be, is final and may not be questioned or
+       reviewed in any court.
+
+   47. Given the engagement of the WEPP Applicants in the administrative review process
+       and the specific restrictions set out in section 13 of WEPPA, the Court should
+       decline to make the declarations sought.
+
+The Court should not make the declaration sought on the timing an employee’s entitlement
+under WEPPA is to be determined
+
+   48. There is no specific provision in the WEPPA that specifies how and when the
+       Minister is to consider an applicant’s entitlement to the payments from the WEPP.
+
+   49. Leave to appeal was granted by the Quebec Court of Appeal23 in the insolvency of
+       Valeo Pharma Inc. where one of the central questions is in respect of timing of
+       terminations for the purposes of WEPPA.
+
+   50. In that case, some but not all employees of Valeo were to be transferred to a
+       residual co following an RVO transaction, and other employees had their
+       employment continue with Valeo. The transaction contemplated that the
+       employees transferred to residual co would be terminated in residual co and would
+       then apply for benefits under WEPPA. The Monitor sought an obtained an order
+       from the Quebec Court that the residual co was a former employer within the
+       meaning of para 5(5) of the WEPPA and that the criteria prescribed by s. 3.2 of the
+
+
+21 WEPPA s. 12
+22 WEPPA, s. 13.
+23 Attorney General of Canada c. Valeo Pharma inc., 2025 QCCA 483 (CanLII)
+                                             - 11 -
+
+
+
+       WEPPR were met, specifically that all the employees of the business were
+       terminated or that those that remained were only to wind up the business and then
+       be terminated.
+
+   51. The Quebec Court of Appeal heard the appeal in Valeo on September 30, 2025, and
+       reserved their decision. To date that matter is still under reserve.
+
+   52. The declaration on the timing of eligibility falls squarely in the Minister’s jurisdiction
+       in respect of the WEPP Applicants. Moreover, the Minister has made a decision,
+       and as noted above the WEPP Applicants have pursued the review process provided
+       by WEPPA, and the Minister has provided decisions on the reconsideration
+       requests.
+
+   53. The declaration sought by the Receiver is one that appears to be prohibited by s. 13
+       of WEPPA as in essence it is being sought by the Receiver from the Court in
+       response to the Minister’s decision, and for no other apparent purpose.
+
+The declarations sought do not have any purpose within the receivership
+
+   54. The declarations sought by the Receiver do not appear to have a purpose in the
+       receivership itself.
+
+   55. The Receiver’s Fourth Report and the accompanying Brief are clear that the
+       Receiver is of the opinion that the Minister’s redetermination decision on
+       entitlement is not correct. However there is nothing in the Application filed by the
+       Receiver, the Receiver’s Fourth Report nor the Brief filed by the Receiver that sets
+       out what the declarations it seeks are intended to do within the receivership of
+       2755857 Alberta Ltd, or otherwise, or how such declarations are needed for the
+       Receiver to complete its duties.
+
+   56. The WEPP Applicants have followed the mechanism set out in the Act, namely they
+       sought a review of the decisions by the Minister. The decisions were reviewed and
+       the decisions were confirmed.
+
+   57. The path to dispute the review decision is to appeal the decision(s) to the CIRB. This
+       is not only an adequate alternative mechanism, but the only proper one under
+       WEPPA which provides that “subject to the right of appeal under section 14, the
+       Minister’s confirmation, variation or rescission as the case may be, is final and may
+       not be questioned or reviewed in any court.”
+
+   58. Appeals to the CIRB are on the record and no new evidence is admissible24. Given
+       the statutory restriction, and the fact that the Ministerial review decisions have
+
+24 WEPPA s 16.
+                                              - 12 -
+
+
+
+       been made and provided to the former employees, there is no utility the
+       declarations sought would have in any further appeals those WEPP Applicants may
+       pursue, should they choose to do so.
+
+PART V – CONCLUSION
+
+   59. The Court does not have jurisdiction to make the declarations sought, or
+       alternatively should decline to make the declarations sought.
+
+   60. In the context of the current receivership, the declarations are not required by the
+       Receiver to fulfil any of its duties in administering the estate to its conclusion. It is
+       unclear what utility the declarations the Receiver seeks will have.
+
+   61. The WEPP Applicants have already taken steps to dispute the ministerial
+       determinations regarding their eligibility, and have a clear path to appeal such
+       decisions if they choose to do so. The CIRB and the Federal Court of Appeal each
+       are capable of reviewing the factual matrix and determining such appeals.
+
+PART VI – RELIEF SOUGHT
+
+   62. The Crown asks that this Court decline to issue the declarations sought concerning
+       the legal effect of the Revised RVO and on the timing of eligibility.
+
+ALL OF WHICH IS RESPECTFULLY SUBMITTED
+
+Dated at the City of Edmonton, in the Province of Alberta this 14th day of September, 2026.
+
+
+
+
+                                            __________________________________
+                                            ATTORNEY GENERAL OF CANADA
+
+                                            Department of Justice Canada
+                                            Prairie Regional Office
+                                            300, 10423 – 101 Street NW
+                                            Edmonton, AB T5H 0E7
+                                            Fax: (780) 495-3319
+
+                                            Per: Daniel Segal
+                                            Telephone: (587) 335-9341
+                                            Email: Daniel.Segal@justice.gc.ca
+                                      - 13 -
+
+
+
+PART VII         LIST OF AUTHORITES
+
+a. Wage Earners Protection Program Act, S.C. 2005, c. 47
+
+b. Wage Earners Protection Program Regulations (SOR/2008-222)
+
+c. Federal Courts Act, RSC 1985, c. F-7
+
+d. Attorney General of Canada c Former Gestion Inc, 2024 QCCA 1441
+
+e. Griffiths McBurney & Partners v. Ernst & Young YBM Inc. 2000 ABCA 284 (CanLII)
+
+f. Canada (Attorney General) v. Ernst & Young Inc., 2019 ABCA 180 (CanLII)
+
+g. GLP NT Corporation v. Canada (Attorney General), 2003 [O.J. No. 2904]
+
+h. Iris Technologies v Canada, 2024 SCC 24
+
+i. Cleo Energy Corp (Re), 2025 ABKB 621
+
+j. Attorney General of Canada c. Valeo Pharma inc., 2025 QCCA 483 (CanLII)
+

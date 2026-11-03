@@ -1,0 +1,1340 @@
+ COURT FILE NUMBER               2501-09028
+
+ COURT                           COURT OF KING’S BENCH OF ALBERTA
+
+ JUDICIAL CENTRE                 CALGARY
+
+                                 IN THE MATTER OF THE BANKRUPTCY FILED       AND
+                                                                          DIGITALLY
+                                 INSOLVENCY ACT, RSC, 1985, C B-, AS AMENDED
+                                                                                     2501 09028
+                                 AND IN THE MATTER OF THE RECEIVERSHIP OF
+                                 2755857 ALBERTA LTD.
+                                                                  Feb 3, 2026
+                                                                                         1:27 PM
+
+ APPLICANT                       UCAPITAL – ULOAN SOLUTIONS INC.
+
+ RESPONDENT                      2755857 ALBERTA LTD.
+
+ DOCUMENT                        APPLICATION
+
+ ADDRESS FOR SERVICE             MILLER THOMSON LLP
+ AND CONTACT                     Barristers and Solicitors
+ INFORMATION OF PARTY            525-8th Avenue SW, 43rd Floor
+ FILING THIS DOCUMENT            Calgary, AB, Canada T2P 1G1
+
+                                 Attention: James W. Reid / Pavin Takhar
+                                 Telephone: 403-298-2418 / 403-298-2432
+                                 Email:     jwreid@millerthomson.com/
+                                            ptakhar@millerthomson.com
+                                 File No.   0289127.0002
+
+NOTICE TO RESPONDENT(S):
+
+This application is made against you. You are a respondent.
+
+You have the right to state your side of this matter before the application judge / justice.
+
+To do so, you must be in Court when the application is heard as shown below:
+
+              Date               February 10, 2026
+              Time               10:00 a.m.
+              Where              Calgary Courts Centre
+              Before Whom        The Honourable Justice C. C. J. Feasby
+
+Go to the end of this document to see what else you can do and when you must do it.
+                                              -2-
+
+
+Remedy claimed or sought:
+
+1.    The Applicant, Alvarez & Marsal Canada Inc. (“A&M”), in its capacity as Court-appointed
+      receiver and manager (the “Receiver”), of the undertakings, properties and assets of
+      2755857 Alberta Ltd. (“ResidualCo”) seeks:
+
+      (a)    an Order (the “Claims Procedure Order”) substantially in the form attached as
+             Schedule “A”, among other things:
+
+              (i)    declaring service of this Application (and all supporting materials thereto)
+                     to be good and sufficient and, if necessary, abridging the time for service
+                     of this Application to the time actually given, such that this Application is
+                     properly returnable on the date on which it is heard;
+
+             (ii)    approving a claims procedure with respect to ResidualCo;
+
+      (b)    an Order substantially in the form attached as Schedule “B”:
+
+              (i)    authorizing and empowering, but not requiring, the Receiver for and on
+                     behalf of ResidualCo to make an assignment in bankruptcy pursuant to the
+                     Bankruptcy and Insolvency Act, RSC 1985, c. B-3 (“BIA”), and authorizing
+                     and empowering, but not requiring, A&M, to act as trustee in bankruptcy
+                     (A&M acting in such capacity, or such other “Trustee”) in respect of
+                     ResidualCo;
+
+             (ii)    approving and ratifying the actions, activities and conduct of the Receiver,
+                     as set out in the Third Report of the Receiver, dated February 2, 2026 (the
+                     “Third Report”);
+
+             (iii)   approving the fees and disbursements as set out in the Final R&D and
+                     Interim Statement of Receipts and Disbursements of the Receiver and its
+                     legal counsel, Miller Thomson LLP (“Miller Thomson”), as set out in the
+                     Third Report;
+
+      (c)    granting such further and other relief as counsel may request and this Honourable
+             Court may deem appropriate.
+
+2.    Capitalized terms used herein that are not otherwise defined have the meaning ascribed
+      to them in the Third Report.
+                                              -3-
+
+
+Grounds for making this Application:
+
+Background
+
+3.    On June 2, 2025, the Court granted a receivership order (the “Receivership Order”),
+      whereby, effective June 3, 2025, the Receiver was appointed receiver and manager of
+      Cleo Energy Corp. (“Cleo” or the “Company”) pursuant to section 243(1) of the
+      Bankruptcy and Insolvency Act (the “BIA”), RSC 1985, c B-3 and section 13(2) of the
+      Judicature Act, RSA 2000 c J-2 (the “Receivership Proceedings”).
+
+4.    Prior to the granting of the Receivership Order, on December 8, 2024, the Company filed
+      a Notice of Intention to Make a Proposal pursuant to section 50.4(1) of the BIA (the “NOI
+      Proceedings”). A&M acted as Trustee under the Proposal (the “Proposal Trustee”)
+      during the NOI Proceedings.
+
+5.    During the NOI Proceedings, this Honourable Court granted various Orders, including: (i)
+      an Order approving a sales and solicitation process which set out how Cleo’s property
+      would be marketed and sold in the NOI Proceedings; (ii) an Order approving the asset
+      sale transaction to IHH Energy Corp., Nuova Strada Ventures Ltd., and Surge Energy Inc.
+      on March 25, 2025; and (iii) an Order approving a further asset sale transaction to Nuova
+      and Rise Energy SPV Ltd. on June 2, 2025.
+
+6.    It was Cleo’s intention to sell the majority of its assets during the NOI Proceedings.
+
+7.    Due to the timing of the closing of the Court approved sale transactions, and the deemed
+      bankruptcy date approaching under the NOI Proceedings, it was determined it would be
+      in the best interests of all parties for the Receiver to close the transactions in the
+      Receivership Proceedings. On the application of uCapital-ULoan Solutions Inc., the
+      interim lender during the NOI Proceedings, the Receivership Order was granted.
+
+8.    The assets that were not sold in the transactions approved in the NOI Proceedings include
+      properties located in Taber, Neutral Hills – South, Enchant, Fabyan, Shorncliffe, Atlee,
+      Hayter, Kessler and Greater Wainwright.
+
+9.    On November 14, 2025, the Court approved a reverse vesting order (“RVO”) for the
+      shares of Cleo, including the Retained Assets, Retained Liabilities and Retained
+      Contracts, and vesting in ResidualCo all Excluded Assets, the Excluded Liabilities and
+      Excluded Contracts. Further the RVO replaced Cleo with ResidualCo in the Receivership
+      Proceedings.
+                                              -4-
+
+
+Claims Process
+
+10.   Following the various transactions completed during the Receivership Proceedings, there
+      are funds to be distributed to creditors of ResidualCo.
+
+11.   The Receiver is of the view that the Claims Procedure Order, is warranted to fully and
+      finally determine creditor claims against the Companies.
+
+12.   The Receiver has prepared the Claims Procedure. The Claims Procedure Order provides
+      for a process to identify, quantify and resolve all claims against ResidualCo.
+
+13.   The notification process described in the Claims Procedure Order will provide Claimants
+      with sufficient notice of the Claims Procedure and sufficient opportunity to prove their
+      Claims prior to the bar date as applicable.
+
+14.   In addition, the adjudication procedure described in the Claims Procedure Order will
+      facilitate the fair and expeditious resolution of any disputes regarding the status and/or
+      amount of each Claim.
+
+
+15.   The Claims Procedure is the most expeditious and efficient method of determining and
+      resolving claims against ResidualCo.
+
+16.   The Receiver believes that the proposed Claims Procedure is in the best interest of
+      ResidualCo and its stakeholders and is appropriate in the circumstances.
+
+Bankruptcy Relief and Winding Down
+
+17.   The Receiver received a request to bring an application to assign Cleo into bankruptcy by
+      each of Paintearth County, Flagstaff County, the M.D. of Wainwright, and Vulcan Country
+      (collectively, the “Municipalities”).
+
+18.   The Receiver previously advised this Court that on the closing of the RVO transaction, it
+      would seek an order authorizing the Receiver to make an assignment in bankruptcy on
+      behalf of ResidualCo, as requested by the Municipalities.
+
+19.   The Receiver is proposing that it be authorized, but not required, to assign ResidualCo
+      into bankruptcy under the BIA, and that A&M be authorized and empowered, but not
+      required, to act as trustee in bankruptcy in respect ResidualCo. A&M is an experienced
+                                               -5-
+
+
+       licensed insolvency trustee and has the requisite expertise, experience, and qualifications
+       to oversee the assignments and bankruptcy proceedings.
+
+Actions, Activities and Conduct
+
+20.    The Receiver seeks approval of its actions, activities and conduct as set out in the Third
+       Report.
+
+21.    The Proposal Trustee’s actions, activities and conduct as detailed in the Third Report are
+       appropriate and reasonable and should be approved.
+
+Fees and Disbursements
+
+22.    The Receiver seeks approval of its professional fees and disbursements as well as those
+       of its legal counsel, Miller Thomson as set out in the Third Report.
+
+23.    Pursuant to the Receivership Order, the Receiver and its counsel shall be paid their
+       reasonable fees and disbursements. The Receiver ands its legal counsel shall pass their
+       accounts from time to time.
+
+24.    The Receiver’s professional fees and disbursements, and those of its counsel, Miller
+       Thomson, as set out in the Third Report are reasonable and appropriate. The Receiver
+       submits that the time spent was necessary and the work was delegated to the appropriate
+       professional within each firm. The Receiver has reviewed the accounts rendered by Miller
+       Thomson and confirms that all services described in the accounts were rendered to the
+       Receiver.
+
+25.    Such further and other grounds as counsel may advise and this Honourable Court may
+       permit.
+
+Material or evidence to be relied on:
+
+26.    The Third Report of the Receiver dated February 2, 2026.
+
+27.    The Receivership Order.
+
+28.    Such further and other materials as counsel may advise and this Honourable court may
+       permit.
+                                                -6-
+
+
+Applicable rules
+
+29.    The Alberta Rules of Court, Alta Reg. 124/2010.
+
+30.    Bankruptcy and Insolvency General Rules, CRC c 368.
+
+31.    Such other Rules as counsel may refer to or that this Honourable Court may permit.
+
+Applicable Acts and regulations:
+
+32.    The Bankruptcy and Insolvency Act, RSC 1985, c. B-3, as amended.
+
+33.    Such further and other Acts and Regulations as counsel may advise and this Honourable
+       Court may permit.
+
+Any irregularity complained of or objection relied on:
+
+34.    None.
+
+How the application is proposed to be heard or considered:
+
+35.    On the Commercial List, via Webex before the Honourable Justice C. C. J. Feasby.
+
+
+ WARNING
+ You are named as a respondent because you have made or are expected to make an
+ adverse claim in respect of this originating application. If you do not come to Court either
+ in person or by your lawyer, the Court may make an order declaring you and all persons
+ claiming under you to be barred from taking any further proceedings against the
+ applicant(s) and against all persons claiming under the applicant(s). You will be bound by
+ any order the Court makes, or another order might be given or other proceedings taken
+ which the applicant(s) is/are entitled to make without any further notice to you. If you want
+ to take part in the application, you or your lawyer must attend in Court on the date and at
+ the time shown at the beginning of this form. If you intend to give evidence in response to
+ the application, you must reply by filing an affidavit or other evidence with the Court and
+ serving a copy of that affidavit or other evidence on the applicant(s) a reasonable time
+ before the application is to be heard or considered.
+            SCHEDULE “A”
+
+Proposed form of Claims Procedure Order
+ COURT FILE NUMBER                 2501 - 09028
+
+ COURT                             COURT OF KING’S BENCH OF ALBERTA
+
+ JUDICIAL CENTRE                   CALGARY
+
+                                   IN THE MATTER OF THE BANKRUPTCY AND
+                                   INSOLVENCY ACT, RSC 1985, C B-3, AS AMENDED
+
+                                   AND IN THE MATTER OF THE RECEIVERSHIP OF
+                                   2755857 ALBERTA LTD.
+
+ APPLICANT                         UCAPITAL – ULOAN SOLUTIONS INC.
+
+ RESPONDENT                        2755857 ALBERTA LTD.
+
+ DOCUMENT                          CLAIMS PROCEDURE ORDER
+
+ ADDRESS FOR SERVICE AND           MILLER THOMSON LLP
+ CONTACT INFORMATION OF            Barristers and Solicitors
+ PARTY FILING THIS                 525-8th Avenue SW, 43rd Floor
+ DOCUMENT                          Calgary, AB, Canada T2P 1G1
+
+                                   Attention: James W. Reid / Pavin Takhar
+                                   Telephone: 403-298-2418 / 403-298-2432
+                                   Email:     jwreid@millerthomson.com/
+                                              ptakhar@millerthomson.com
+                                   File No.   0289127.0002
+
+DATE ON WHICH ORDER WAS PRONOUNCED:                  February 10, 2026
+
+LOCATION WHERE ORDER WAS PRONOUNCED: Calgary Courts Centre
+
+NAME OF JUSTICE WHO MADE THIS ORDER:                 The Honourable Justice C. C. J Feasby
+
+
+       UPON THE APPLICATION of Alvarez & Marsal Canada Inc. (“A&M”), in its capacity as
+Court-appointed receiver and manager (A&M in such capacity, the “Receiver”) of 2755857
+Alberta Ltd. (the “Company”) for an order approving a procedure for the determination and
+resolution of claims against the Company, and authorizing the Receiver to administer the claims
+procedure in accordance with its terms;
+
+       AND UPON having read the Third Report of the Receiver dated February 2, 2026;
+
+       AND UPON hearing from counsel for the Receiver, and any other interested party in
+attendance;
+                                             -2-
+
+
+IT IS HEREBY ORDERED AND DECLARED THAT:
+
+SERVICE & INTERPRETATION
+
+1.   Service of notice of this application and supporting materials is hereby abridged to that
+     actually given, if necessary, and declared to be good and sufficient. The application is
+     properly returnable today and no other person is required to have been served with notice
+     of this application.
+
+2.   In this Order:
+
+     a.      “BIA” means the Bankruptcy and Insolvency Act, RSC 1985, c B-3, as amended;
+
+     b.      “Business Day” means a day, other than a Saturday, Sunday or a statutory
+             holiday, on which banks are generally open for business in Calgary, in the Province
+             of Alberta, Canada;
+
+     c.      “Calendar Day” means a day, including Saturday, Sunday and any statutory
+             holidays in the Province of Alberta, Canada;
+
+     d.      “Claim” means: (i) Pre-Filing Claims; and (ii) Cure Costs Claims;
+
+     e.      “Claimant” means any Person asserting a Claim and includes without limitation
+             the transferee or assignee of a Claim transfer and recognized as a Claimant in
+             accordance with paragraph 31 hereof or a trustee, executor, liquidator, receiver,
+             receiver and manager, or other Person acting on or behalf of or through such
+             Person;
+
+     f.      “Claims Bar Date” means 5:00 p.m. on March 31, 2026;
+
+     g.      “Claims Package” means the document package which shall include a copy of the
+             Claims Procedure Order, the Notice to Claimants, and a Proof of Claim and related
+             instructions, along with any other documentation the Receiver may deem
+             appropriate;
+
+     h.      “Claims Procedure” means the procedures outlined in this Order, including the
+             Schedules hereto;
+                                      -3-
+
+
+i.   “Cure Costs Claims” means any claims of counter-parties to Retained Contracts
+     (as defined in the Order dated November 14, 2025);
+
+j.   “Court” means the Court of King's Bench of Alberta in the Judicial Centre of
+     Calgary;
+
+k.   “Filing Date” means June 3, 2025, the date on which the Receiver was appointed
+     over the Company;
+
+l.   “Notice of Dispute” means the notice referred to in paragraph 25 hereof,
+     substantially in the form attached as Schedule “D” hereto, which must be delivered
+     to the Receiver by any Claimant wishing to dispute a Notice of Revision or
+     Disallowance, with reasons for its dispute;
+
+m.   “Notice of Revision or Disallowance” means the notice referred to in paragraph
+     24 hereof, substantially in the form attached as Schedule “C” hereto that the
+     Receiver has revised or rejected all or part of such Claimant’s Claim as set out in
+     its Proof of Claim;
+
+n.   “Notice to Claimant” means a notice referred to in paragraph 16 hereof,
+     substantially in the form attached as Schedule “A” hereto;
+
+o.   “Person” means any individual, corporation, firm, limited or unlimited liability
+     company,     general   or   limited    partnership,   association   (incorporated   or
+     unincorporated), trust, unincorporated organization, joint venture, trade union,
+     government authority or any agency, regulatory body, or officer thereof, or any
+     other entity, wherever situate or domiciled, and whether or not having legal status,
+     and whether acting on their own or in a representative capacity;
+
+p.   “Pre-Filing Claims” means (i) any indebtedness, liability, or obligation of any kind
+     that would be a claim provable within the meaning of section 2 of the BIA; and/or
+     (ii) all Claims against the Company. For greater certainty, a “Claim” shall include
+     any right or claim of any Person arising prior to the Filing Date that may be asserted
+     or made in whole or in part against the Company, whether or not asserted or made,
+     in connection with any indebtedness, liability or obligation of any kind whatsoever,
+     and any interest accrued thereon or costs payable in respect thereof, including
+     without limitation, by reason of the commission of a tort (intentional or
+                                              -4-
+
+
+            unintentional), by reason of any breach of contract or other agreement (oral or
+            written), by reason of any breach of duty (including, without limitation, any legal,
+            statutory, equitable or fiduciary duty) or by reason of any right of ownership of or
+            title to property or assets or right to a trust or deemed trust (statutory, express,
+            implied, resulting, constructive or otherwise), and whether or not any
+            indebtedness, liability or obligation is reduced to judgment, liquidated,
+            unliquidated, fixed, contingent, matured, unmatured, disputed, undisputed, legal,
+            equitable, secured, unsecured, present or future, known or unknown, by
+            guarantee, surety or otherwise, and whether or not any right or claim is executory
+            or anticipatory in nature including, without limitation, any right or ability of any
+            Person to advance a claim for contribution or indemnity or otherwise with respect
+            to any matter, action, cause or chose in action whether existing at present or
+            commenced in the future;
+
+     q.     “Proof of Claim” means the Proof of Claim referred to in paragraph 20 hereof,
+            substantially in the form attached as Schedule “B” hereto;
+
+     r.     “Proven Claim” means the amount and status of a Claim of a Claimant as finally
+            determined in accordance with this Claims Procedure Order;
+
+     s.     “Receiver” means Alvarez & Marsal Canada Inc.;
+
+     t.     “Receivership Order” means the receivership order granted by the Court on June
+            2, 2025, effective June 3, 2025 in the Receivership Proceedings;
+
+     u.     “Receivership Proceedings” means the within proceedings in respect of the
+            Company;
+
+     v.     “Website” means https://www.alvarezandmarsal.com/CLEO.
+
+3.   All references as to time herein shall mean local time in Calgary, Alberta, Canada, and
+     any reference to an event occurring on a Business Day shall mean prior to 5:00 p.m. on
+     such Business Day unless otherwise indicated herein.
+
+4.   All references to the word “including” shall mean “including without limitation”.
+
+5.   All references to the singular herein include the plural, the plural include the singular, and
+     any gender includes the other gender.
+                                                -5-
+
+
+6.    All Claims shall be denominated in Canadian dollars. Any Claims denominated in a foreign
+      currency shall be converted to Canadian dollars based on the Bank of Canada’s daily
+      average exchange rate for that currency against the Canadian Dollar on the Filing Date.
+
+7.    Interest and penalties that would otherwise accrue after the Filing Date shall not be
+      included in any Cure Costs Claims.
+
+RECEIVER’S ROLE
+
+8.    The Receiver, in addition to its prescribed rights, duties, responsibilities and obligations
+      under the Receivership Order and BIA, shall administer the Claims Procedure provided
+      for herein, and is hereby directed and empowered to take such other actions and fulfill
+      such other roles as are contemplated by this Order or incidental thereto.
+
+9.    In carrying out the terms of this Order, the Receiver shall:
+
+      a.     have all of the protections given to it by the Receivership Order, the BIA and any
+             subsequent orders and extensions related thereto, and this Order, or as an officer
+             of the Court, including the stay of proceedings in its favour;
+
+      b.     incur no liability or obligation as a result of the carrying out of the provisions of this
+             Order, save and except for any gross negligence or willful misconduct on its part;
+
+      c.     be entitled to rely on the books and records of the Company and any information
+             provided by the Company, all without independent investigation; and
+
+      d.     not be liable for any claims or damages resulting from any errors or omissions in
+             such books, records or information, save and except for any gross negligence or
+             willful misconduct on its part.
+
+10.   The Receiver is hereby authorized to use reasonable discretion as to the adequacy of
+      compliance with respect to the manner in which forms delivered hereunder are completed
+      and executed, and may, where they are satisfied that a Claim has been adequately
+      proven, waive strict compliance with the requirements of this Order as to completion and
+      execution of such forms and to request any further documentation from a Person that the
+      Receiver may require in order to enable it to determine the validity of a Claim.
+                                             -6-
+
+
+11.   The form and substance of each of the documents comprising the Claims Package
+      substantially in the forms attached as schedules hereto, are hereby approved. Despite the
+      foregoing, the Receiver may, from time to time, make such minor changes to such forms
+      as the Receiver considers necessary or desirable.
+
+12.   Copies of all forms delivered hereunder, as applicable, and determinations of Claims by
+      the Court, as the case may be, shall be maintained by the Receiver and, subject to further
+      order of the Court, the applicable Claimant will be entitled to have access thereto by
+      appointment during normal business hours on written request to the Receiver.
+
+CLAIMS PACKAGE TO KNOWN CLAIMANTS
+
+13.   The Receiver has reviewed the books and records of the Company to prepare a list of
+      known potential Claimants (the “Known Claimants”) as at the date of this Claims
+      Procedure Order.
+
+14.   The Receiver shall send a Claims Package to each of the Known Claimants (or to the
+      counsel of record for any such Known Claimants) by prepaid ordinary mail, courier,
+      personal delivery, or electronic or facsimile transmission, within seven (7) Business Days
+      from the granting of this Claims Procedure Order.
+
+15.   Any Known Claimant having received a Claims Package, if it has a Claim, must deliver a
+      Proof of Claim by no later than the Claims Bar Date.
+
+CLAIMS PACKAGE FOR UNKNOWN CLAIMANTS
+
+16.   The Receiver shall, within seven (7) Business Days from the granting of this Claims
+      Procedure Order, cause the Notice to Claimants to be published once in the Insolvency
+      Insider and the Calgary Herald.
+
+17.   The Receiver will also post to the Website electronic copies of the Notice to Claimants
+      and Claims Package within two (2) Business Days from the granting of this Claims
+      Procedure Order, and cause it to remain posted thereon until its discharge as Receiver.
+
+18.   The publication of the Notice to Claimants, in accordance with this Order, and the posting
+      of this Order on the Website shall constitute good and sufficient service and delivery of
+      notice of this Order and the Claims Bar Date on all Persons and no other notice or service
+      need to be given or made.
+                                                  -7-
+
+
+19.   Upon the Receiver receiving a request by a Claimant for a Claims Package or documents
+      or information relating to the Claims Procedure prior to the Claims Bar Date, the Receiver
+      shall forthwith send a Claims Package, direct such Person to the documents posted on
+      the Website, or otherwise respond to the request for information or documents as the
+      Receiver considers appropriate in the circumstances.
+
+PROOFS OF CLAIM
+
+20.   Any Claimant that wishes to assert a Claim must deliver to the Receiver a completed Proof
+      of Claim form, together with all relevant supporting documentation in respect of such Claim
+      in the manner set out in this Claims Procedure Order on or before the Claims Bar Date.
+
+21.   Any Claimant who fails to deliver a Proof of Claim to the Receiver in accordance with this
+      Claims Procedure Order by the Claims Bar Date, unless otherwise ordered by the Court,
+      shall:
+
+      a.       be forever barred from making or enforcing any such Claim against the Company,
+               and all such Claims will be forever extinguished and barred without any further act
+               or notification by the Receiver;
+
+      b.       be forever barred from making or enforcing any such Claim as against any other
+               Person who could claim contribution or indemnity from the Company, and all such
+               Claims will be forever extinguished and barred without any further act or
+               notification by the Receiver;
+
+      c.       will not be permitted to vote at any creditors’ meeting under the BIA on account of
+               such Claim;
+
+      d.       will not be entitled to receive further notice with respect to the Claims Procedure
+               or these proceedings with respect to such Claim; and
+
+      e.       will not be permitted to participate in any distribution on account of such Claim.
+
+REVIEW OF PROOFS OF CLAIM
+
+22.   The Receiver shall review all Proofs of Claim filed in accordance with the Claims
+      Procedure Order and at any time may:
+
+      a.       request additional information from a Claimant;
+                                                  -8-
+
+
+      b.     request that a Claimant file a revised Proof of Claim;
+
+      c.     attempt to resolve and settle any issue arising in a Proof of Claim or in respect of
+             a Claim;
+
+      d.     accept (in whole or in part), the amount and/or status of any Claim and so notify
+             the Claimant in writing; and
+
+      e.     revise or disallow (in whole or in part) the amount and/or status of any Claim and
+             so notify the Claimant in writing.
+
+23.   Where a Claim has been accepted by the Receiver in accordance with this Claims
+      Procedure Order, such Claim shall constitute such Claimant’s Proven Claim.
+
+24.   Where a Claim is revised or disallowed (in whole or in part, and whether as to amount
+      and/or status), the Receiver shall deliver to the Claimant a Notice of Revision or
+      Disallowance.
+
+NOTICE OF DISPUTE
+
+25.   Any Claimant who intends to dispute a Notice of Revision or Disallowance sent pursuant
+      to paragraph 24 above shall deliver a Notice of Dispute of Claimant to the Receiver no
+      later than seven (7) Calendar Days after such Claimant is deemed to have received the
+      Notice of Revision or Disallowance, or such longer period as may be agreed to by the
+      Receiver in writing (“Notice of Dispute”).
+
+26.   Where a Claimant that receives a Notice of Revision or Disallowance pursuant to
+      paragraph 25 above does not file a Notice of Dispute Claimant by the time set out in
+      paragraph 25 above, the amount and classification of such Claimant’s Claim shall be
+      deemed to be as set out in the Notice of Revision or Disallowance, and the Claimant shall
+      be barred from disputing or appealing same, and the balance of such Claimant’s Claim, if
+      any, shall be forever barred and extinguished.
+
+RESOLUTION AND ADJUDICATION OF CLAIMS
+
+27.   As soon as is practicable after a Notice of Dispute is received by the Receiver in
+      accordance with this Claims Procedure Order, the Receiver may attempt to resolve and
+      settle the Claim with the Claimant.
+                                                -9-
+
+
+28.   In the event that the Receiver is unable to resolve a dispute regarding a Notice of Dispute
+      with the Claimant, the Claimant must file an Application to the Court for the resolution of
+      the Claim for voting distribution purposes. Any such Application must be filed and served
+      within 10 Calendar Days after the Claimant has delivered a Notice of Dispute, failing which
+      the amount and classification of such Claimant’s Claim shall be deemed to be as set out
+      in the Notice of Revision or Disallowance. Thereafter, the Court shall resolve the dispute
+      and determine the amount and/or classification of the Claimant’s Claim for voting
+      distribution purposes.
+
+29.   For clarity, notwithstanding paragraph 28, the Receiver may attempt to resolve and settle
+      the Claim with the Claimant at anytime leading up to the Application and is permitted to
+      do so.
+
+NOTICE OF TRANSFEREES
+
+30.   If, after the Filing Date, the holder of a Claim transfers or assigns the whole of such Claim
+      to another Person, the Receiver shall be obligated to give notice or otherwise deal with
+      the transferee or assignee of such Claim in respect thereof unless and until actual notice
+      of transfer or assignment, together with satisfactory evidence of such transfer or
+      assignment, has been received and acknowledged by the Receiver in writing and
+      thereafter such transferee or assignee shall for the purposes hereof constitute the
+      “Claimant” in respect of such Claim. Any such transferee or assignee of a Claim shall be
+      bound by any notices given or steps taken in respect of such Claim in accordance with
+      this Order prior to receipt and acknowledgement by the Receiver of satisfactory evidence
+      of such transfer or assignment. A transferee or assignee of a Claim takes the Claim subject
+      to any rights of set-off to which the Company may be entitled with respect to Claim. For
+      greater certainty, a transferee or assignee of a Claim is not entitled to set-off, apply, merge,
+      consolidate or combine any Claims assigned or transferred to it against or on account or
+      in reduction of any amounts owing by such Person to the Company.
+
+31.   If a Claimant, or any subsequent holder of a Claim, who has been acknowledged by the
+      Receiver as the holder of such, transfers or assigns the whole of such Claim to more than
+      one Person or part of such Claim to another Person, such transfers or assignments shall
+      not create separate Claims and such Claims shall continue to constitute and be dealt with
+      as a single Claim notwithstanding such transfers or assignments. The Receiver shall not,
+      in each case, be required to recognize or acknowledge any such transfers or assignments
+                                              -10-
+
+
+      and shall be entitled to give notices to and otherwise deal with such Claim only as a whole
+      and then only to and with the Person last holding such Claim provided such Claimant may,
+      by notice in writing delivered to the Receiver, direct that subsequent dealings in respect
+      of such Claim, but only as a whole, shall be dealt with by a specified Person and in such
+      event such Person shall be bound by any notices given or steps taken in respect of such
+      Claim with such Claimant in accordance with the provisions of this Order.
+
+32.   The Receiver is not under any obligation to give notice to any Person other than a Claimant
+      holding a Claim and shall have no obligation to give notice to any Person holding a security
+      interest, lien or charge in, or a pledge or assignment by way of security in, a Claim as
+      applicable in respect of any Claim.
+
+SERVICE AND NOTICE
+
+33.   The Receiver may, unless otherwise specified by this Order, serve and deliver any letters,
+      notices or other documents contemplated by this Claims Procedure Order to Claimants,
+      and any other interested Persons, by forwarding true copies thereof by prepaid ordinary
+      mail, courier, personal delivery or electronic or digital transmission to such Persons (with
+      copies to their counsel if applicable) at the address as last shown on the records of the
+      Company or set out in such Claimant's Proof of Claim. Any such service or notice by
+      courier, personal delivery or electronic or digital transmission shall be deemed to have
+      been received: (i) if sent by ordinary mail, on the third Business Day after mailing within
+      Alberta, the fifth Business Day after mailing within Canada (other than within Alberta), and
+      the tenth Business Day after mailing internationally; (ii) if sent by courier or personal
+      delivery, on the next Business Day following dispatch; and (iii) if delivered by electronic or
+      digital transmission by 5:00 p.m. on a Business Day, on such Business Day, and if
+      delivered after 5:00 p.m. or other than on a Business Day, on the following Business Day.
+
+34.   Any notice or other communication (including Proofs of Claim) to be given under this Order
+      by any Person to the Receiver shall be in writing in substantially the form, if any, provided
+      for in this Order and will be sufficiently given only if delivered by prepaid registered mail,
+      courier, personal delivery or electronic or digital transmission addressed to the following
+      address and any such notice or other communication by a Claimant shall be deemed
+      received only upon actual receipt thereof during normal business hours on a Business
+      Day, or if delivered outside of a normal business hours, the next Business Day:
+                                              -11-
+
+
+             To the Receiver:
+
+              ALVAREZ & MARSAL CANADA INC.
+              Bow Valley Square 4
+              Suite 1110, 250 6th Ave SW
+              Calgary, AB T2P 3H7
+
+              Attention: Brinton Wolever
+              Email: bwolever@alvarezandmarsal.com
+
+             With a copy to:
+
+             MILLER THOMSON LLP
+             Barristers and Solicitors
+             525-8th Avenue SW, 43rd Floor
+             Calgary, AB, Canada T2P 1G1
+
+             Attention: James W. Reid
+             Telephone: 403-298-2418
+             Email:     jwreid@millerthomson.com
+
+35.   If during any period during which notices or other communications are being given
+      pursuant to this Order a postal strike or postal work stoppage of general application should
+      occur, such notices or other communications sent by ordinary mail and then not received
+      shall not, absent further order of the Court, be effective and notices and other
+      communications given hereunder during the course of any such postal strike or work
+      stoppage of general application shall only be effective if given by courier, personal delivery
+      or electronic or digital transmission in accordance with this Order.
+
+36.   In the event that this Order is later amended by further order of the Court, the Receiver
+      shall post such further order on the Website and such posting shall constitute adequate
+      notice of such amended claims procedure.
+
+SET-OFF
+
+37.   The Receiver may set-off (whether by way of legal, equitable or contractual set-off) against
+      payments or other distributions to be made pursuant to the Claims Process Order to any
+      Claimant, any claims of any nature whatsoever that the Company may have against such
+      Claimant, however, neither the failure to do so nor the allowance of any claim hereunder
+      shall constitute a waiver or release by the Receiver of any such claim that the Company
+      may have against Claimant.
+                                               -12-
+
+
+MISCELLANEOUS
+
+38.   The Receiver may from time to time apply to this Court to amend, vary, supplement or
+      replace this Order or for advice and direction concerning the discharge of their respective
+      powers and duties under this Order or the interpretation or application of this Order.
+
+39.   Notwithstanding:
+
+      a.     The pendency of these proceedings and any declaration of insolvency made
+             herein;
+
+      b.     The pendency of any applications for a bankruptcy order now or hereafter issued
+             pursuant to the BIA, in respect of the Company, and any order issued pursuant to
+             any such applications;
+
+      c.     any assignment in bankruptcy made in respect of the Company; and
+
+      d.     the provisions of any federal or provincial statute;
+
+             this Order and the Claims Procedure shall be binding on any trustee in bankruptcy
+             that may be appointed in respect of the Company.
+
+40.   This Order shall have full force and effect in all provinces and territories of Canada, outside
+      Canada and against all Persons against whom it may be enforceable.
+
+41.   This Court hereby requests the aid and recognition of any court, tribunal, regulatory or
+      administrative body having jurisdiction in Canada or the United States, or in any other
+      foreign jurisdiction, to give effect to this Order and to assist the Receiver and its agents in
+      carrying out the terms of this Order. All courts, tribunals, regulatory and administrative
+      bodies are hereby respectfully requested to make such orders and to provide such
+      assistance to the Receiver, as an officer of the Court, as may be necessary or desirable
+      to give effect to this Order, to grant representative status to the Receiver in any foreign
+      proceeding, or to assist the Receiver and their respective agents in carrying out the terms
+      of this Order.
+                                              -13-
+
+
+42.   The Receiver shall be at liberty and are hereby authorized and empowered to apply to any
+      court, tribunal, regulatory or administrative body, wherever located, for the recognition of
+      this Claims Procedure Order and for assistance in carrying out the terms of this Claims
+      Procedure Order.
+
+
+
+                                                 Justice of the Court of King’s Bench of
+                                                 Alberta
+                                             -14-
+
+
+                                       SCHEDULE “A”
+
+                                  NOTICE TO CLAIMANTS
+
+                       IN THE MATTER OF THE BANKRUPTCY AND
+                    INSOLVENCY ACT, RSC 1985, C B-3, AS AMENDED
+
+                     AND IN THE MATTER OF THE RECEIVERSHIP OF
+                                2755857 ALBERTA LTD.
+
+
+
+          NOTICE LETTER TO CLAIMANTS REGARDING CLAIMS PROCEDURE
+
+
+
+RE:    Notice of Claims Procedure, Claims Bar Date
+
+This notice is published pursuant to the Order of the Honourable Justice Feasby of the Court of
+King’s Bench of Alberta, dated February 10, 2026 (the “Claims Procedure Order”), in the
+Company’s proceedings under the Bankruptcy and Insolvency Act, RSC 1985, c B-3, as
+amended. Pursuant to the Receivership Order dated June 3, 2025 and Reverse Vesting Order
+dated November 14, 2025, Alvarez & Marsal Canada Inc. was appointed as Receiver of 2755857
+Alberta Ltd. (the “Company”) (in such capacity, the “Receiver”), and pursuant to the Claims
+Procedure Order will, with the assistance of the Company, conduct a Claims Procedure with
+respect to Claims against the Company.
+
+All capitalized terms used herein that are not otherwise defined have the meaning ascribed to
+them in the Claims Procedure Order.
+
+The Claims Procedure Order, the Claims Package, a Proof of Claim form, and related materials
+can be accessed on the Receiver’s Website at: https://www.alvarezandmarsal.com/CLEO. Proof
+of Claim forms can also be obtained by contacting the Receiver at the address below and
+providing particulars as to your name, address, facsimile number and email address.
+
+I.     SUBMISSION OF PROOF OF CLAIM
+
+Any Person who believes they have a Claim against the Company shall submit their Claim
+in a Proof of Claim form, in accordance with the Claims Procedure Order.
+
+All Claimants MUST submit their Proof of Claim to the Receiver in respect any Claims, no
+later than 5:00 p.m. MST on March 31, 2026 (the “Claims Bar Date”).
+
+Proofs of Claim MUST be submitted by prepaid registered mail, courier, personal delivery,
+or electronic or digital transmission addressed to the following address:
+
+       To the Receiver:
+
+       ALVAREZ & MARSAL CANADA INC.
+       Bow Valley Square 4
+                                                 -15-
+
+
+       Suite 1110, 250 6th Ave SW
+       Calgary, AB T2P 3H7
+
+       Attention: Brinton Wolever
+       Email: bwolever@alvarezandmarsal.com
+
+       With a copy to:
+
+       MILLER THOMSON LLP
+       Barristers and Solicitors
+       525-8th Avenue SW, 43rd Floor
+       Calgary, AB, Canada T2P 1G1
+
+       Attention: James W. Reid
+       Telephone: 403-298-2418
+       Email:     jwreid@millerthomson.com
+
+CLAIMS WHICH ARE NOT RECEIVED BY THE RECEIVER BY THE APPLICABLE CLAIMS
+BAR DATE WILL BE FOREVER BARRED FROM MAKING OR ENFORCING ANY CLAIM
+AGAINST THE COMPANY.
+
+Additional information about these proceedings may be found on the Receiver’s Website or may
+be obtained by contacting the Receiver directly at the address above.
+
+Dated at the City of Calgary, in the Province of Alberta, this [date] of [month], [year].
+
+
+
+                                                    Alvarez & Marsal Canada Inc.
+
+                                                    in its capacity as Receiver of the Company,
+                                                    and not in its personal or corporate capacity
+                                               -16-
+
+
+
+
+                                        SCHEDULE “B”
+
+                                   PROOF OF CLAIM FORM
+
+  IN THE MATTER OF THE BANKRUPTCY AND INSOLVENCY ACT, RSC 1985, C B-3, AS
+                               AMENDED
+
+        AND IN THE MATTER OF THE RECEIVERSHIP OF 2755857 ALBERTA LTD.
+
+                                                 .
+
+Regarding the claim of _________________________________________________ (referred to
+in this form as "the Claimant").              (Name of Claimant)
+
+All notices or correspondence regarding this claim to be forwarded to the Claimant at the following
+address:
+
+
+
+
+Telephone Number:
+
+Facsimile Number:
+
+Attention (Contact
+Person):
+
+Email Address:
+
+
+(Note – All future correspondence will be delivered to the designated email address unless the
+Claimant specifically requests that hardcopies be provided)
+
+      Please provide hardcopies of materials to the address above.
+
+I,                                            (name of the Claimant or representative of the
+Claimant), of                                       (City, Province or State) do hereby certify
+that:
+
+(a) I am (select one):
+
+     the Claimant; or
+
+     I am                                                   (state position/title) of the Claimant.
+                                               -17-
+
+
+(b) I have knowledge of all the circumstances connected with the Claim referred to below;
+
+(c) I confirm that complete documentation in support of the Claim referred to below is attached;
+    and
+
+(d) The Applicants and/or one or more of the Directors or Officers of the Applicants were and still
+    are Indebted to the Claimant as follows:
+
+   I.      Pre-Filing Proof of Claim
+
+         Debtor             Pre-Filing Claim           Nature of Claim       Value of Security
+                                Amount                (Secured, Priority,      Held (if any)
+                                                        Unsecured or
+                                                          Secured)
+
+ 2755857 ALBERTA         CAD$
+ LTD.
+
+
+   II.     Cure Costs Proof of Claim
+
+         Debtor            Cure Costs Claim            Nature of Claim       Value of Security
+                               Amount                 (Secured, Priority,      Held (if any)
+                                                        Unsecured or
+                                                          Secured)
+
+ 2755857 ALBERTA         CAD$
+ LTD.
+
+
+The particulars of the undersigned’s total Claim, in the sum of $CAD __________________
+(insert $CAD value of total Claim) are attached.
+
+(Please provide full particulars of the Claim and supporting documentation including amount,
+description of transaction(s) or agreement(s) or legal breach(es) giving rise to the Claim, name of
+any guarantor(s) which have guaranteed the Claim, particulars and copies of an security and
+amount of Claim allocated thereto, date and number of all invoices, particulars of all credits,
+discounts, etc. claimed. Any claim for interest must be supported by contractual documentation
+evidencing the entitlement to interest. Claims should not include the value of goods and/or
+services supplied or interest accrued after June 3, 2025).
+
+FILING DEADLINES FOR CLAIM:
+
+For all Claims, this Proof of Claim must be received by the Receiver before 5:00 p.m. MST on
+March 31, 2026 (the “Claims Bar Date”).
+
+Proofs of Claim MUST be submitted by prepaid registered mail, courier, personal delivery, or
+electronic or digital transmission addressed to the following address:
+
+               To the Receiver:
+
+                  ALVAREZ & MARSAL CANADA INC.
+                                              -18-
+
+
+               Bow Valley Square 4
+               Suite 1110, 250 6th Ave SW
+               Calgary, AB T2P 3H7
+
+               Attention: Brinton Wolever
+               Email: bwolever@alvarezandmarsal.com
+
+              With a copy to:
+
+              MILLER THOMSON LLP
+              Barristers and Solicitors
+              525-8th Avenue SW, 43rd Floor
+              Calgary, AB, Canada T2P 1G1
+
+              Attention: James W. Reid
+              Telephone: 403-298-2418
+              Email:     jwreid@millerthomson.com
+
+Any such notice or communication delivered by a Claimant shall be deemed to be received upon
+actual receipt thereof before 5:00 p.m. MST on a Business Day or if delivered outside of normal
+business hours, the next Business Day.
+
+CLAIMS WHICH ARE NOT RECEIVED BY THE RECEIVER BY CLAIMS BAR DATE WILL BE
+FOREVER BARRED FROM MAKING OR ENFORCING ANY CLAIM AGAINST THE
+COMPANY.
+
+DATED this ____ day of ________________, 2026
+
+.
+
+
+
+                                              Per:
+
+Witness
+-19-
+
+
+Print name of Claimant:
+
+
+
+
+If Claimant is other than an individual, print name
+and title of authorized signatory
+
+
+
+
+Name:
+
+
+
+
+Title:
+                                              -20-
+
+
+                                        SCHEDULE “C”
+
+                         NOTICE OF REVISION OR DISALLOWANCE
+
+  IN THE MATTER OF THE BANKRUPTCY AND INSOLVENCY ACT, RSC 1985, C B-3, AS
+                               AMENDED
+
+        AND IN THE MATTER OF THE RECEIVERSHIP OF 2755857 ALBERTA LTD.
+
+TO: [name and address of Claimant]
+
+PLEASE TAKE NOTICE that this Notice of Revision or Disallowance is being sent pursuant to
+an order of the Court of King’s Bench of Alberta, dated February 10, 2026 (the “Claims Procedure
+Order”), in the Company’s proceedings under the Bankruptcy and Insolvency Act, RSC 1985, c
+B-3, as amended, the Receiver has been authorized to conduct a claims procedure (the “Claims
+Procedure”). A copy of the Claims Procedure Order, and all other related materials, may be
+found on the Receiver’s Website at: https://www.alvarezandmarsal.com/CLEO
+
+The Receiver has reviewed your Notice of Dispute or your Proof of Claim dated
+__________________, 2026, and has revised or disallowed your Claim for the following reasons:
+
+
+
+
+Subject to further dispute by you in accordance with the provisions of the Claims Procedure Order,
+your Claim will be allowed for voting and distributions purposes as follows:
+
+                                       Submitted or
+                                                                       Allowed
+                                    Disputed Amount
+
+        Claimant
+
+        Claim
+                                                 -21-
+
+
+         Classification
+
+
+If you AGREE with the amount and classification allowed by Receiver as set out above, you need
+not do anything further; the quantum and classification of your claim, as set out as allowed in this
+Notice of Revision or Disallowance, will be accepted as your Proven Claim. In the event you take
+no action, your claim will also be accepted based on the allowed amount as set out above.
+
+If you DISAGREE with the amount and classification allowed by Receiver as described above,
+you are obligated to file a Notice of Dispute with the Receiver within 7 Calendar Days after
+receipt of the Notice of Revision or Disallowance, failing which the amount and classification of
+your claim shall be deemed to be as set out as allowed in this Notice of Revision or Disallowance.
+
+In the event the Receiver is unable to resolve the dispute about your allowable claim, you may
+file an application with the Court for the resolution or adjudication of your claim for voting and
+distribution purposes by no later than 10 Calendar Days after delivery of the Notice of Dispute of
+Revision or Disallowance, failing which the amount and classification of your claim shall be
+deemed to be as set out as allowed in this Notice of Revision or Disallowance.
+
+Additional information about these proceedings may be found on the Receiver’s Website or may
+be obtained by contacting the Receiver directly. Contact details for the Receiver are described
+below:
+
+                ALVAREZ & MARSAL CANADA INC.
+                Bow Valley Square 4
+                Suite 1110, 250 6th Ave SW
+                Calgary, AB T2P 3H7
+
+                Attention: Brinton Wolever
+                Email: bwolever@alvarezandmarsal.com
+
+Dated at the City of Calgary, in the Province of Alberta, this [date] of [month], [year].
+
+
+
+                                                    Alvarez & Marsal Canada Inc.
+
+                                                    in its capacity as Receiver of the Company,
+                                                    and not in its personal or corporate capacity
+                                               -22-
+
+
+                                        SCHEDULE “D”
+
+                             NOTICE OF DISPUTE OF CLAIMANT
+
+  IN THE MATTER OF THE BANKRUPTCY AND INSOLVENCY ACT, RSC 1985, C B-3, AS
+                               AMENDED
+
+        AND IN THE MATTER OF THE RECEIVERSHIP OF 2755857 ALBERTA LTD.
+
+PLEASE TAKE NOTICE that by order of the Court of King’s Bench of Alberta (the “Court”) dated
+February 10, 2026 (the “Claims Procedure Order”), in the Company’s proceedings under the
+Bankruptcy and Insolvency Act, RSC 1985, c B-3, as amended, the Receiver has been authorized
+to conduct a claims procedure (the “Claims Procedure”). A copy of the Claims Procedure Order,
+and all other related materials, may be found on the Receiver’s Website at:
+https://www.alvarezandmarsal.com/CLEO
+
+Name of Claimant:             ___________________________________________________
+
+Address:                      ___________________________________________________
+
+                              ___________________________________________________
+
+                              ___________________________________________________
+
+Telephone Number:             _________________________________
+
+Facsimile Number:             _________________________________
+
+Email Address:                ___________________________________________________
+
+PLEASE TAKE NOTICE THAT, pursuant to the Claims Procedure Order, we hereby give you
+notice of our intention to dispute the Notice of Revision or Disallowance, as applicable, issued by
+Alvarez & Marsal Canada Inc., acting in its capacity as Court-appointed Receiver of 2755857
+ALBERTA LTD. in respect of our Claim. We dispute the following portion(s) of our Claim as
+articulated in the Notice of Revision or Disallowance, as applicable:
+
+                          Allowed Claim as
+                         Listed in the Notice         Revised Claim
+                            of Revision or               ($CAD)
+                        Disallowance ($CAD)
+
+
+
+
+                               Allowed                    Revised
+                           Classification of           Classification
+                                               -23-
+
+
+                        Claim as Listed in the
+                         Notice of Revision
+
+
+
+
+Reason for the dispute (attach copies of any supporting documentation):
+
+
+
+
+The address for Service of Notice of Dispute is as follows:
+
+               To the Receiver:
+
+                ALVAREZ & MARSAL CANADA INC.
+                Bow Valley Square 4
+                Suite 1110, 250 6th Ave SW
+                Calgary, AB T2P 3H7
+
+                Attention: Brinton Wolever
+                Email: bwolever@alvarezandmarsal.com
+
+               With a copy to:
+
+               MILLER THOMSON LLP
+               Barristers and Solicitors
+               525-8th Avenue SW, 43rd Floor
+               Calgary, AB, Canada T2P 1G1
+
+               Attention: James W. Reid
+               Telephone: 403-298-2418
+               Email:     jwreid@millerthomson.com
+
+THIS FORM AND ANY REQUIRED SUPPORTING DOCUMENTATION MUST BE RETURNED
+TO THE RECEIVER BY REGISTERED MAIL, PERSONAL SERVICE, EMAIL, FACSIMILE OR
+COURIER TO THE ADDRESS INDICATED ABOVE:
+                                              -24-
+
+
+      FOR A NOTICE OF DISPUTE OF CLAIMANT MUST BE ACTUALLY RECEIVED BY
+       5:00 P.M. CALGARY TIME 7 CALENDAR DAYS AFTER RECEIPT OF NOTICE OF
+       REVISION OR DISALLOWANCE.
+
+In the event that the Receiver is unable to resolve a dispute regarding my claim following its
+receipt of this Notice of Dispute of Revision or Disallowance, I understand that:
+
+   a) I am obligated to make an application to the Court for the resolution or adjudication of the
+      Claim for voting and distribution purposes; and,
+
+   b) any such application must be filed in the Court (and served on the Applicants and the
+      Receiver) no later than 10 Calendar Days after the Claimant has delivered a Notice of
+      Dispute of Revision or Disallowance, failing which the amount and classification of such
+      Claimant's Claim shall be deemed to be as set out in the Notice of Revision or
+      Disallowance.
+
+
+DATED this ____ day of ________________, 2026
+
+
+
+                                            Per:
+
+Witness
+
+
+
+                                            Name of Claimant
+
+
+
+
+                                            If Claimant is other than an individual, print name
+                                            and title of authorized signatory
+
+
+
+                                            Name:
+
+
+
+
+                                            Title:
+   SCHEDULE “B”
+
+Proposed form of Order
+ COURT FILE NUMBER                   2501-09028
+
+ COURT                               COURT OF KING’S BENCH OF ALBERTA
+
+ JUDICIAL CENTRE                     CALGARY
+
+                                     IN THE MATTER OF THE BANKRUPTCY AND
+                                     INSOLVENCY ACT, RSC 1985, C B-3, AS AMENDED
+
+                                     AND IN THE MATTER OF THE RECEIVERSHIP OF
+                                     2755857 ALBERTA LTD.
+
+ APPLICANT                           UCAPITAL – ULOAN SOLUTIONS INC.
+
+ RESPONDENT                          2755857 ALBERTA LTD.
+
+ DOCUMENT                            ORDER
+
+ ADDRESS FOR SERVICE AND             MILLER THOMSON LLP
+ CONTACT INFORMATION OF              Barristers and Solicitors
+ PARTY     FILING    THIS            525-8th Avenue SW, 43rd Floor
+ DOCUMENT                            Calgary, AB, Canada T2P 1G1
+
+                                     Attention: James W. Reid / Pavin Takhar
+                                     Telephone: 403-298-2418 / 403-298-2432
+                                     Email:     jwreid@millerthomson.com/
+                                                ptakhar@millerthomson.com
+                                     File No.   0289127.0002
+
+DATE ON WHICH ORDER WAS PRONOUNCED:                     February 10, 2026
+
+LOCATION WHERE ORDER WAS PRONOUNCED: Calgary Courts Centre
+
+NAME OF JUSTICE WHO MADE THIS ORDER:                   The Honourable Justice C. C. J Feasby
+
+
+        UPON THE APPLICATION of Alvarez & Marsal Canada Inc. (“A&M”), in its capacity as
+Court-appointed receiver and manager (A&M in such capacity, the “Receiver”) of 2755857
+Alberta Ltd. (the “Company” or “ResidualCo”) for an order: (i) empowering the Receiver to assign
+the Company into bankruptcy; (ii) approving and ratifying the actions, activities, and conduct of
+the Receiver; and (iii) approving the fees and disbursements of the Receiver and its legal counsel;
+
+        AND UPON HAVING READ the Application, the Third Report of the Receiver dated
+February 2, 2026 (the “Third Report”);
+
+        AND UPON HAVING READ the Affidavit of Service of Marica Ceko sworn February[●],
+2026;
+                                                -2-
+
+
+       AND UPON hearing counsel for the Receiver and for any other parties who may be
+present;
+
+       IT IS HEREBY ORDERED AND DECLARED THAT:
+
+SERVICE
+
+1.     Service of notice of this application and supporting materials is hereby declared to be good
+       and sufficient, no other person is required to have been served with notice of this
+       application and time for service of this application is abridged to that actually given.
+
+BANKRUPTCY
+
+2.     The Receiver is authorized, but not required to make an assignment in bankruptcy on
+       behalf of ResidualCo pursuant to the Bankruptcy and Insolvency Act, RSC 1985 (“BIA”),
+       c B -3 and the Receiver is hereby authorized and empowered to file any such assignment
+       in bankruptcy for an on behalf of ResidualCo, and to take any steps incidental thereof,
+       including, for certainty, to execute, endorse, and file, for and on behalf and in the name of
+       ResidualCo, any documents or instruments of whatever nature as may be necessary or
+       desirable in connection therewith, including in the performance of any statutory obligations
+       of ResidualCo under the BIA and A&M is hereby authorized and empowered, but not
+       required, to act as trustee in bankruptcy (A&M acting in such capacity, or such other
+       licensed trustee as may be engaged to act as trustee in bankruptcy, the “Trustee”) in
+       respect of ResidualCo, and to fund a reasonable retainer to the Trustee. For greater
+       certainty, no resolutions or other authorizations from any director, officer, or shareholder
+       of ResidualCo will be required to commence any such bankruptcy proceeding.
+
+RECEIVER’S ACTIVITIES AND PROFESSIONAL FEES
+
+3.     The Receiver’s actions, activities, and conduct as disclosed and reported in the Third
+       Report are hereby ratified and approved.
+
+4.     The Receiver’s Final R&D, as set out in the Third Report, are hereby approved without the
+       necessity of a formal passing or assessment of its accounts.
+
+5.     The Receiver’s Interim Statement of Receipts and Disbursements, as set out in the Third
+       Report, are hereby approved without the necessity of a formal passing or assessment of
+       its accounts.
+                                           -3-
+
+
+6.   The Receiver’s accounts for fees and disbursements, as set out in the Third Report, are
+     hereby approved without the necessity of a formal passing or assessment of its accounts.
+
+7.   The accounts of the Receiver’s legal counsel, Miller Thomson LLP, for its fees and
+     disbursements, as set out in the Third Report, are hereby approved without the necessity
+     of a formal passing or assessment of its accounts.
+
+MISCELLANEOUS MATTERS
+
+8.   Service of this Order shall be deemed good and sufficient by:
+
+     (a)    Serving the same on:
+
+            (i)    the persons listed on the Service List created in these proceedings; and
+
+            (ii)   any other parties attending or represented at the Application for this Order;
+                   and
+
+     (b)    Posting    a   copy    of   this     Order    on    the   Receiver’s    website      at
+            https://www.alvarezandmarsal.com/CLEO.
+
+
+
+
+                                               Justice of the Court of King’s Bench of Alberta
+

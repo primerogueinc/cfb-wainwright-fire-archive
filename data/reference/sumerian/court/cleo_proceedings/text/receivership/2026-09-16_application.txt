@@ -1,0 +1,568 @@
+ COURT FILE NUMBER               2501-09028
+
+ COURT                           COURT OF KING’S BENCH OF ALBERTA
+
+ JUDICIAL CENTRE                 CALGARY
+                                                                                         FILED
+                                 IN THE MATTER OF THE BANKRUPTCY             AND
+                                                                          DIGITALLY
+                                 INSOLVENCY ACT, RSC, 1985, C B-, AS AMENDED
+                                                                  2501 09028
+                                 AND IN THE MATTER OF THE RECEIVERSHIP
+                                                                  Sep 9,OF2026
+                                 2755857 ALBERTA LTD.                                    9:12 AM
+
+ APPLICANT                       UCAPITAL – ULOAN SOLUTIONS INC.
+
+ RESPONDENT                      2755857 ALBERTA LTD.
+
+ DOCUMENT                        APPLICATION
+
+ ADDRESS FOR SERVICE             MILLER THOMSON LLP
+ AND CONTACT                     Barristers and Solicitors
+ INFORMATION OF PARTY            525-8th Avenue SW, 43rd Floor
+ FILING THIS DOCUMENT            Calgary, AB, Canada T2P 1G1
+
+                                 Attention: James W. Reid / Pavin Takhar
+                                 Telephone: 403-298-2418 / 403-298-2432
+                                 Email:     jwreid@millerthomson.com/
+                                            ptakhar@millerthomson.com
+                                 File No.   0289127.0002
+
+
+NOTICE TO RESPONDENT(S):
+
+This application is made against you. You are a respondent.
+
+You have the right to state your side of this matter before the application judge / justice.
+
+To do so, you must be in Court when the application is heard as shown below:
+
+              Date               September 16, 2026
+              Time               10:00 a.m.
+              Where              Calgary Courts Centre
+              Before Whom        The Honourable Justice M. A. Marion
+
+Go to the end of this document to see what else you can do and when you must do it.
+                                                 -2-
+
+
+Remedy claimed or sought:
+
+1.    The Applicant, Alvarez & Marsal Canada Inc. (“A&M”), in its capacity as Court-appointed
+      receiver and manager (the “Receiver”), of the undertakings, properties and assets of
+      2755857 Alberta Ltd. (“ResidualCo”) seeks:
+
+      (a)    an Order substantially in the form attached as Schedule “A”, among other things:
+
+              (i)    declaring service of this Application (and all supporting materials thereto)
+                     to be good and sufficient and, if necessary, abridging the time for service
+                     of this Application to the time actually given, such that this Application is
+                     properly returnable on the date on which it is heard;
+
+             (ii)    determining whether the Revised RVO (defined herein) had any impact on
+                     the eligibility of former employees of Cleo (defined herein) for entitlement
+                     to payments under the Wage Earner Protection Program Act (Canada)
+                     (“WEPPA”);
+
+             (iii)   approving the proposed distributions of the Receiver as set out in the in the
+                     Fourth Report of the Receiver, dated September 8, 2026 (the “Fourth
+                     Report”);
+
+             (iv)    approving the fees and disbursements of the Receiver and its legal
+                     counsel, Miller Thomson LLP (“Miller Thomson”), including the Forecast
+                     Fees and Costs (defined herein), as outlined in the Fourth Report;
+
+             (v)     approving the Receiver’s actions, activities and conduct since the Third
+                     Report and throughout the Receivership Proceedings, including the Final
+                     Statement of Receipts and Disbursements (the “Final Statement of
+                     Receipts and Disbursements”) and the Final Cash Flow Forecast as set
+                     out in the Fourth Report;
+
+             (vi)    discharging the Receiver upon the filing of a certificate confirming the
+                     completion of the Receiver’s remaining obligations (the “Discharge
+                     Certificate”) and, upon the discharge of the Receiver (the “Discharge”):
+                                               -3-
+
+
+                     (A)     releasing the Receiver from liability for any acts or omissions on its
+                             part save and except for any liability arising out of any fraud, gross
+                             negligence, or willful misconduct; and
+
+                     (B)     staying any action or proceedings against the Receiver without prior
+                             leave of this Honourable Court on notice to the Receiver;
+
+      (b)    granting such further and other relief as counsel may request and this Honourable
+             Court may deem appropriate.
+
+2.    Capitalized terms used herein that are not otherwise defined have the meaning ascribed
+      to them in the Fourth Report.
+
+Grounds for making this Application:
+
+Background
+
+3.    On June 2, 2025, the Court granted a receivership order (the “Receivership Order”),
+      whereby, effective June 3, 2025, the Receiver was appointed receiver and manager of
+      Cleo Energy Corp. (“Cleo”) pursuant to section 243(1) of the Bankruptcy and Insolvency
+      Act, RSC 1985, c B-3 (the “BIA”), and section 13(2) of the Judicature Act, RSA 2000 c J-
+      2 (the “Receivership Proceedings”).
+
+4.    Prior to the granting of the Receivership Order, on December 8, 2024, Cleo filed a Notice
+      of Intention to Make a Proposal pursuant to section 50.4(1) of the BIA (the “NOI
+      Proceedings”). A&M acted as Proposal Trustee (in such capacity, the “Proposal
+      Trustee”) during the NOI Proceedings.
+
+5.    During the NOI Proceedings, this Honourable Court granted various Orders, including: (i)
+      an Order approving a sales and solicitation process which set out how Cleo’s property
+      would be marketed and sold in the NOI Proceedings; (ii) Orders approving the asset sale
+      transactions to IHH Energy Corp., Nuova Strada Ventures Ltd., and Surge Energy Inc. on
+      March 25, 2025; and (iii) Orders approving a further asset sale transactions to Nuova
+      Strada Ventures Ltd. and Rise Energy SPV Ltd. on June 2, 2025.
+
+6.    It was Cleo’s intention to sell the majority of its assets during the NOI Proceedings.
+
+7.    Due to the timing of the closing of the Court approved June 2, 2025 sale transactions, and
+      the deemed bankruptcy date approaching under the NOI Proceedings, it was determined
+                                               -4-
+
+
+      it would be in the best interests of all parties for the Receiver to close the transactions in
+      the Receivership Proceedings. On the application of Cleo’s interim lender, uCapital-ULoan
+      Solutions Inc., the Receivership Order was granted.
+
+8.    The assets that were not sold in the transactions approved in the NOI Proceedings include
+      properties located in Taber, Neutral Hills – South, Enchant, Fabyan, Shorncliffe, Atlee,
+      Hayter, Kessler and Greater Wainwright.
+
+9.    On November 14, 2025, the Court approved a reverse vesting order (“Revised RVO”) for
+      the shares of Cleo, which resulted in the sale of Cleo’s remaining properties, and vested
+      in ResidualCo certain Excluded Liabilities and Excluded Contracts (as defined in the
+      Revised RVO).
+
+10.   The Revised RVO saw Cleo exit the Receivership Proceedings and have it replaced with
+      ResidualCo.
+
+11.   On February 10, 2026, the Court approved a claims procedure order (the “Claims
+      Procedure Order”) to establish the quantum of: (i) pre-filing claims as at the Receivership
+      Date that attach to the funds of ResidualCo; and (ii) other cure cost claims, excluding
+      certain cure costs of the Alberta Crown, that attach to the purchase price funds (the
+      “Purchase Price Funds”) from the transaction (“Cure Cost Claims”).
+
+WEPPA
+
+12.   Upon the granting of the Receivership Order all employees of Cleo were terminated
+      (the “Former Employees”).
+
+13.   The Former Employees with the assistance of the Receiver applied for the Wage Earner
+      Protection Program (“WEPP”). These Former Employees were provided payments in
+      accordance with their entitlements under the WEPPA (the “WEPP Payments”).
+
+14.   Prior to granting the Revised RVO, Employment and Social Development Canada
+      (“ESDC”) advised that any Former Employees who received the WEPP Payments might
+      have the same clawed back as a result of the Revised RVO.
+
+15.   Following the granting of the Revised RVO, ESDC issued notices to the Former
+      Employees requiring the immediate return of the WEPP Payments.
+                                               -5-
+
+
+16.    The relevant time of determination of employees’ entitlements under WEPPA is the
+       moment at which an insolvent entity’s employees are terminated due to a bankruptcy or
+       insolvency.
+
+17.    A clawback of the WEPP Payments following termination during the Receivership
+       Proceedings due to the Revised RVO is unfair, improper and prejudicial to the Former
+       Employees, and in contravention to the purposes of the WEPP.
+
+18.    The remedial nature of WEPPA is lost with the clawbacks.
+
+Distributions
+
+19.    Pursuant to the Revised RVO, the Cure Cost Claims are entitled to be paid from the
+       Purchase Price Funds, after payment of the Proven Alberta Crown Cure Costs, on a pro
+       rata basis, subject only to the Receiver’s Charge.
+
+20.    The Receiver, in consultation with Miller Thomson, has conducted a review of the Cure
+       Cost Claims
+
+21.    The Receiver proposes to make a distribution to the Cure Cost Claimants as set out in the
+       Fourth Report.
+
+22.    The Purchase Price Funds exceed the Cure Cost Claims and any remaining funds shall
+       be transferred to the ResidualCo Funds.
+
+23.    The Receiver, in consultation with Miller Thomson, has conducted a review of the Secured
+       Pre-Filing Claims to determine the priority of the respective Claimants with respect to the
+       ResidualCo Funds.
+
+24.    The two creditors with statutory priority liens, being the AER and Municipalities, have
+       negotiated a distribution amongst themselves wherein the parties shall receive a pro-rata
+       distribution of all ResidualCo Funds remaining in the Receivership estate (the
+       “Settlement”).
+
+25.    The Receiver supports the distribution to the AER and Municipalities as set out in the
+       Fourth Report and in accordance with the Settlement.
+                                               -6-
+
+
+Approval of Actions, Activities and Conduct
+
+26.    The Receiver has acted diligently since its appointment and has undertaken those
+       activities described in the Fourth Report, which actions are lawful, proper and consistent
+       with the Receiver’s powers and duties under the orders made in these proceedings.
+
+27.    The Receiver seeks approval of its actions, activities and conduct as set out in the Fourth
+       Report.
+
+28.    The Receiver’s actions, activities and conduct as detailed in the Fourth Report are
+       appropriate and reasonable and should be approved.
+
+Approval of Fees and Disbursements
+
+29.    The Receiver seeks approval of its professional fees and disbursements as well as those
+       of its legal counsel, Miller Thomson, as set out in the Fourth Report.
+
+30.    Pursuant to the Receivership Order, the Receiver and its counsel shall be paid their
+       reasonable fees and disbursements. The Receiver and its legal counsel shall pass their
+       accounts from time to time.
+
+31.    The professional fees and disbursements of the Receiver (from December 20, 2025 to
+       August 31, 2026) and its legal counsel, Miller Thomson (from January 5, 2026 to
+       August 31, 2026), are fair and reasonable in the circumstances, commensurate with the
+       work performed to date and should be approved.
+
+32.    The time spent was necessary and the work was delegated to the appropriate professional
+       within each firm. The Receiver has reviewed the accounts rendered by Miller Thomson
+       and confirms that all services described in the accounts were rendered to the Receiver.
+
+33.    The forecasted fees to and costs of the Receiver (the “Forecast Fees and Costs”) and
+       its counsel fees to complete this engagement (August 30, 2026, to discharge) are
+       approximately $35,000 and $20,000 respectively, which includes fees and costs incurred
+       from August 30, 2026 to the date of this Report, but not paid. It is appropriate to approve
+       the work to be completed.
+
+34.    The Receiver further seeks approval of its Final Statement of Receipts and Disbursements
+       detailing its receipts and disbursements to closing and the Final Cash Flow Forecast as
+       set out in the Fourth Report.
+                                                 -7-
+
+
+Discharge of Receiver
+
+35.    The Receiver is seeking its discharge upon completion of certain administrative tasks,
+       including the distributions if approved, as:
+
+       (a)       all Property of ResidualCo, to the extent possible, has been dealt with;
+
+       (b)       the Receiver has fulfilled its duties and obligations in accordance with the
+                 Receivership Order and Claims Procedure Order; and
+
+       (c)       the administration of the estate is substantially complete with only administrative
+                 matters to carry out.
+
+36.    Such further and other grounds as counsel may advise and this Honourable Court may
+       permit.
+
+Material or evidence to be relied on:
+
+37.    Brief of Law of the Receiver dated September 8, 2026.
+
+38.    The Fourth Report of the Receiver dated September 8, 2026.
+
+39.    The Receivership Order.
+
+40.    Such further and other materials as counsel may advise and this Honourable court may
+       permit.
+
+Applicable rules
+
+41.    The Alberta Rules of Court, Alta Reg. 124/2010.
+
+42.    Bankruptcy and Insolvency General Rules, CRC c 368.
+
+43.    Such other Rules as counsel may refer to or that this Honourable Court may permit.
+
+Applicable Acts and regulations:
+
+44.    The Bankruptcy and Insolvency Act, RSC 1985, c. B-3, as amended.
+
+45.    The Wage Earner Protection Program Act, SC 2005, c 47, s1.
+                                                -8-
+
+
+46.    Such further and other Acts and Regulations as counsel may advise and this Honourable
+       Court may permit.
+
+Any irregularity complained of or objection relied on:
+
+47.    None.
+
+How the application is proposed to be heard or considered:
+
+48.    On the Commercial List, via Webex before the Honourable Justice M. A. Marion.
+
+
+ WARNING
+ You are named as a respondent because you have made or are expected to make an
+ adverse claim in respect of this originating application. If you do not come to Court either
+ in person or by your lawyer, the Court may make an order declaring you and all persons
+ claiming under you to be barred from taking any further proceedings against the
+ applicant(s) and against all persons claiming under the applicant(s). You will be bound by
+ any order the Court makes, or another order might be given or other proceedings taken
+ which the applicant(s) is/are entitled to make without any further notice to you. If you want
+ to take part in the application, you or your lawyer must attend in Court on the date and at
+ the time shown at the beginning of this form. If you intend to give evidence in response to
+ the application, you must reply by filing an affidavit or other evidence with the Court and
+ serving a copy of that affidavit or other evidence on the applicant(s) a reasonable time
+ before the application is to be heard or considered.
+SCHEDULE “A” - PROPOSED FORM OF ORDER
+  COURT FILE NUMBER                 2501-09028
+  COURT                             COURT OF KING’S BENCH OF ALBERTA
+  JUDICIAL CENTRE                   CALGARY
+
+                                    IN THE MATTER OF THE BANKRUPTCY
+                                    AND INSOLVENCY ACT, RSC, 1985, C B-, AS
+                                    AMENDED
+
+                                    AND IN THE MATTER OF THE RECEIVERSHIP OF
+                                    2755857 ALBERTA LTD.
+  APPLICANT                         UCAPITAL – ULOAN SOLUTIONS INC.
+  RESPONDENT                        2755857 ALBERTA LTD.
+  DOCUMENT                          ORDER FOR WEPPA DECLARATION, FINAL
+                                    DISTRIBUTION, APPROVAL OF RECEIVER’S FEES
+                                    AND DISBURSEMENTS, APPROVAL OF RECEIVER’S
+                                    ACTIVITIES AND DISCHARGE OF RECEIVER
+  ADDRESS FOR SERVICE               MILLER THOMSON LLP
+  AND CONTACT                       Barristers and Solicitors
+  INFORMATION OF                    525-8th Avenue SW, 43rd Floor
+  PARTY FILING THIS                 Calgary, AB, Canada T2P 1G1
+  DOCUMENT
+                                     Attention: James W. Reid / Pavin Takhar
+                                     Telephone: 403-298-2418 / 403-298-2432
+                                     Email:     jwreid@millerthomson.com/
+                                                ptakhar@millerthomson.com
+                                     File No.   0289127.0002
+
+
+  DATE ON WHICH ORDER WAS PRONOUNCED:                      SEPTEMBER 16, 2026
+
+  LOCATION WHERE ORDER WAS PRONOUNCED:                     CALGARY, ALBERTA
+
+  NAME OF JUSTICE WHO MADE THIS ORDER:                     THE HONOURABLE JUSTICE
+                                                           M. A. MARION
+
+       UPON THE APPLICATION of Alvarez & Marsal Canada Inc. (“A&M”), in its capacity as
+Court-appointed receiver and manager (A&M in such capacity, the “Receiver”) of 2755857
+Alberta Ltd. (the “Company” or “ResidualCo”) for an order: (i) confirming entitlements under the
+Wage Earner Protection Program Act (Canada) are set at the date of an employees termination;
+(ii) approving the distributions sought by the Receiver; (iii) approving and ratifying the actions,
+activities, and conduct of the Receiver; (iv) approving the fees and disbursements of the Receiver
+and its legal counsel; (v) approving the Receiver’s Final Statement of Receipts and
+                                               -2-
+
+
+Disbursements and Final Cash Flow Forecast; and (vi) discharging the Receiver from these
+Receivership Proceedings and terminating the same;
+
+       AND UPON reviewing the Fourth Report of the Receiver dated September 8, 2026 (the
+“Fourth Report”) and the Brief of Law dated September 8, 2026,
+
+       AND UPON having read the Affidavit of Service of Marica Ceko sworn [●] (the “Affidavit
+of Service”);
+
+       AND UPON HEARING the submissions of counsel for the Receiver, and such other
+counsel that appeared, if any;
+
+IT IS HEREBY ORDERED AND DECLARED THAT:
+
+CAPITALIZED TERMS
+
+1.    Capitalized terms not defined herein shall have the meaning given to them in the Fourth
+      Report.
+
+SERVICE
+
+2.    Service of notice of this application and supporting materials is hereby declared to be good
+      and sufficient, no other person is required to have been served with notice of this
+      application and this application is properly returnable today.
+
+DECLARTION OF WAGE EARNER PROTECTION PROGRAM ENTITLEMENT
+
+3.     The Reverse Vesting Order granted November 14, 2025 (the “Revised RVO”), in the
+       within proceedings does not impact any previously approved claims or payments made to
+       former employees of Cleo Energy Corp. pursuant to the Wage Earner Protection Program
+       Act (Canda) (“WEPPA”).
+
+4.     A former Cleo Energy Corp. employee’s entitlement under WEPPA is to be determined at
+       the time of their termination pursuant to the receivership and the subsequent granting of
+       the Revised RVO does not vary or change any employee’s eligibility under WEPPA.
+                                                -3-
+
+
+APPROVAL OF ACTIVITIES, PROFESSIONAL FEES AND FINAL STATEMENT OF
+RECEIPTS AND DISBURSEMENTS
+
+5.    The Receiver’s accounts for its fees and disbursements, as set out in the Fourth Report,
+      are hereby approved without the necessity of a formal assessment of its accounts.
+
+6.    The accounts of the Receiver’s legal counsel, Miller Thomson LLP, for its fees and
+      disbursements, as set out in the Fourth Report are hereby approved without the necessity
+      of a formal assessment of its accounts.
+
+7.    The estimated professional fees and disbursements of the Receiver and Miller Thomson
+      LLP, in the aggregate approximate amount of $55,000.00 to be incurred to complete the
+      remaining activities in respect of these proceedings from and after August 30, 2026,
+      respectively, are hereby approved and ratified without the necessity of a formal passing
+      of accounts. The Receiver is hereby authorized and directed to pay such remaining fees
+      and disbursements from the receivership estate as and when payable.
+
+8.    The Receiver’s actions, activities, and conduct as disclosed and reported in the Fourth
+      Report and all other Reports filed in the within receivership proceedings are hereby ratified
+      and approved.
+
+9.    The Receiver’s Final Statement of Receipts and Disbursements and Final Cash Flow
+      Forecast as set out in the Fourth Report, are hereby ratified and approved.
+
+DISTRIBUTION
+
+10.   The Receiver is authorized and directed to make the following distributions from the
+      Purchase Price Funds:
+
+      (a)    $125,397 to the Cure Cost Claimants with valid Cure Costs Claims; and
+
+      (b)    $164,051 to the ResidualCo Funds bank account, for the benefit of the ResidualCo
+             creditors.
+
+11.   The Receiver is authorized and directed to make a distribution to the AER and
+      Municipalities in accordance with the Settlement as described in paragraph 63 of the
+      Fourth Report.
+                                                -4-
+
+
+DISCHARGE OF RECEIVER
+
+12.   On the evidence before the Court, the Receiver has satisfied its obligations under and
+      pursuant to the terms of the Orders granted in the within proceedings up to and including
+      the date hereof, and the Receiver shall not be liable for any act or omission on its part
+      including, without limitation, any act or omission pertaining to the discharge of its duties in
+      the within proceedings, save and except for any liability arising out of any in fraud, gross
+      negligence or wilful misconduct on the part of the Receiver, or with leave of the Court.
+      Subject to the foregoing, any claims against the Receiver in connection with the
+      performance of its duties are hereby stayed, extinguished and forever barred.
+
+13.   No action or other proceedings shall be commenced against the Receiver in any way
+      arising from or related to its capacity or conduct as Receiver, except with prior leave of
+      this Court on Notice to the Receiver, and upon such terms as this Court may direct.
+
+14.   Upon the Receiver filing with the Clerk of the Court a discharge certificate substantially in
+      the form attached hereto as Schedule “A”, confirming that:
+
+      (a)    all distributions contemplated pursuant to this Order have been completed;
+
+      (b)    the Receiver has paid all professional fees and disbursements; and
+
+      (c)    the Receiver’s final report pursuant to section 246 of the BIA has been filed,
+
+      then the Receiver shall be discharged as Receiver of the Company, provided however,
+      that notwithstanding its discharge herein (i) the Receiver shall remain Receiver for the
+      performance of such incidental duties as may be required to complete the administration
+      of the receivership herein, and (ii) the Receiver shall continue to have the benefit of the
+      provisions of all Orders made in this proceeding, including all approvals, protections and
+      stays of proceedings in favour of the Receiver in its capacity as Receiver.
+
+MISCELLANEOUS
+
+15.   Service of this Order shall be deemed good and sufficient by:
+
+      (a)    Serving the same on:
+
+             (i)     the persons listed on the Service List created in these proceedings; and
+                                                   -5-
+
+
+            (ii)    any other parties attending or represented at the Application for this Order;
+                    and
+
+     (b)     Posting    a      copy    of   this     Order   on   the   Receiver’s      website   at
+             https://www.alvarezandmarsal.com/CLEO.
+
+8.   Service of this Order may be effected by facsimile, electronic mail, personal delivery or
+     courier. Service is deemed to be effected the next business day following transmission or
+     delivery of this Order.
+
+
+
+                                      _______________________________________________
+                                      Justice of the Court of King’s Bench of Alberta
+             SCHEDULE “A”
+FORM OF RECEIVER’S DISCHARGE CERTIFICATE
+ COURT FILE NUMBER              2501-09028
+
+ COURT                          COURT OF KING’S BENCH OF ALBERTA
+
+ JUDICIAL CENTRE                CALGARY
+
+                                IN THE MATTER OF THE BANKRUPTCY AND
+                                INSOLVENCY ACT, RSC, 1985, C B-, AS AMENDED
+
+                                AND IN THE MATTER OF THE RECEIVERSHIP OF
+                                2755857 ALBERTA LTD.
+ APPLICANT                      UCAPITAL – ULOAN SOLUTIONS INC.
+
+ RESPONDENT                     2755857 ALBERTA LTD.
+
+ DOCUMENT                        CERTIFICATE OF DISCHARGE
+
+ ADDRESS FOR SERVICE             MILLER THOMSON LLP
+ AND CONTACT                     Barristers and Solicitors
+ INFORMATION OF PARTY            525-8th Avenue SW, 43rd Floor
+ FILING THIS DOCUMENT            Calgary, AB, Canada T2P 1G1
+
+                                Attention: James W. Reid / Pavin Takhar
+                                Telephone: 403-298-2418 / 403-298-2432
+                                Email:     jwreid@millerthomson.com/
+                                           ptakhar@millerthomson.com
+                                File No.   0289127.0002
+
+RECITALS
+
+A.   On June 2, 2025, upon the application of UCapital - ULoan Solutions Inc., Alvarez &
+     Marsal Canada Inc. was appointed receiver and manager (the “Receiver”) over all of the
+     assets, undertakings and properties of CLEO Energy Corp. (“Cleo”) pursuant to the Order
+     of the Honourable Justice M. E. Burns.
+
+B.   Pursuant to an Order of the Court granted by the Honourable Justice M. H. Bourque on
+     November 14, 2025, the Court approved a reverse vesting order substituting Cleo with
+     2755857 Alberta Ltd. in the within receivership proceedings.
+
+C.   Pursuant to an Order of the Court granted by the Honourable Justice M. A. Marion on
+     September 16, 2026, the Court approved the discharge of the Receiver (the “Discharge
+     Order”), subject to the Receiver filing a Certificate of Discharge certifying that it has
+     completed those activities required to complete its administration of these receivership
+     proceedings.
+THE RECEIVER CERTIFIES the following:
+
+1.    The Receiver has completed all activities required to complete its administration of the
+      receivership.
+
+2.    The Receiver has paid all professional fees and disbursements owing pursuant to the
+      Receivership Order.
+
+3.    All remaining administrative matters contemplated by the Discharge Order have been
+      completed.
+
+4.    This Certificate was delivered by the Receiver on the ____ day of _________, 2026.
+
+
+                                                    ALVAREZ & MARSAL CANADA INC., in
+                                                    its capacity as Court-Appointed Receiver
+                                                    and Manager of. 2755857 Alberta Ltd. and
+                                                    not in its personal or corporate capacity
+
+
+
+
+                                           Per:     Orest Konowalchuk, CPA, CA, CIRP, LIT
+                                                    Senior Vice President
+

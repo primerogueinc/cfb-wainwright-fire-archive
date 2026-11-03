@@ -1,0 +1,591 @@
+                                                               Clerk’s Stamp
+
+
+
+
+COURT / ESTATE FILE NUMBER       2501-09028
+
+COURT                            COURT OF KING’S BENCH OF ALBERTA
+                                                                      FILED
+JUDICIAL CENTRE                  CALGARY                            DIGITALLY
+                                                                  2501 09028
+                                 IN THE MATTER OF THE BANKRUPTCY AND
+                                                               Nov
+                                 INSOLVENCY ACT, RSC 1985, C B-3, AS 12, 2025
+                                                                     AMENDED
+                                                                        10:10 AM
+                                 AND IN THE MATTER OF THE RECEIVERSHIP OF
+                                 CLEO ENERGY CORP.
+
+APPLICANT                        UCAPITAL – ULOAN SOLUTIONS INC.
+
+RESPONDENT                       CLEO ENERGY CORP.
+
+DOCUMENT                         BRIEF OF LAW
+
+ADDRESS FOR SERVICE AND MILLER THOMSON LLP
+CONTACT INFORMATION OF PARTY Barristers and Solicitors
+FILING THIS DOCUMENT         525-8th Avenue SW, 43rd Floor
+                             Calgary, AB, Canada T2P 1G1
+
+                                 Attention:  James W. Reid
+                                 Telephone: 403-298-2418
+                                 Email:     jwreid@millerthomson.com/
+                                 File No.   0289127.0002
+                                                     TABLE OF CONTENTS
+
+I.     INTRODUCTION ................................................................................................................. 1
+II.    FACTS ................................................................................................................................ 1
+III.   ISSUES ............................................................................................................................... 1
+IV. LAW AND ARGUMENT ....................................................................................................... 2
+       A.     The SPA and the Transaction Should be Approved, and the RVO Granted ................. 2
+       B.     The Releases Sought in the RVO Should be Granted .................................................. 7
+       C.     The Receiver’s Actions and Activities Should be Approved .......................................... 8
+       D.     The Receiver and its Counsel’s Fees and Disbursements Should be Approved........... 9
+       E.     The DoJ Application ................................................................................................... 10
+
+
+TABLE OF AUTHORITIES ....................................................................................................... 12
+                                              -1-
+
+
+I.     INTRODUCTION
+
+1.     This Brief of Law is filed in support of the Application of Alvarez & Marsal Canada Inc.
+       (“A&M”), in its capacity as Court-appointed receiver and manager (the “Receiver”) of the
+       undertakings, properties and assets of CLEO Energy Corp. (“CLEO” or the “Company”)
+       for Orders which provide the following relief, among other things:
+
+       (a)    approving a share purchase agreement between the Receiver and 2698902
+              Alberta Corp. (“269” or the “Purchaser”) dated October 6, 2025 (the “SPA”), for
+              the sale by the Receiver and the purchase by the Purchaser of all of the issued
+              and outstanding shares of CLEO effective as of the Closing Date (as defined in the
+              SPA), and approving the reverse vesting transaction contemplated in the SPA
+              (the “Transaction”);
+
+       (b)    approving the Releases;
+
+       (c)    approving and ratifying the actions, activities and conduct of the Receiver, as set
+              out in the Second Report of the Receiver dated November 5, 2025 (the “Second
+              Report”); and
+
+       (d)    approving the fees and disbursements of the Receiver and its legal counsel, Miller
+              Thomson LLP (“Miller Thomson”), as set out in the Second Report.
+
+II.    FACTS
+
+2.     The factual background is set out in the Second Report, the First Report of the Receiver
+       dated October 6, 2025 (the “First Report”), and the Confidential Appendices to the First
+       Report (the “Confidential Appendices”).
+
+3.     Unless otherwise indicated, capitalized terms used herein have the meanings ascribed to
+       them in the Second Report.
+
+III.   ISSUES
+
+4.     The issues to be addressed on this Application are whether:
+
+       (a)    the SPA and the Transaction ought to be approved, and the requested reverse
+              vesting order be granted;
+
+       (b)    the Releases should be granted;
+                                                   -2-
+
+
+         (c)     the Receiver’s actions and activities ought to be approved; and
+
+         (d)     the fees and disbursements of the Receiver and its legal counsel, Miller Thomson,
+                 ought to be approved.
+
+IV.      LAW AND ARGUMENT
+
+A.       The SPA and the Transaction Should be Approved, and the RVO Granted
+
+         Principles Governing Receivership Sales
+
+5.       Section 243(1)(c) of the Bankruptcy and Insolvency Act, RSC 1985, c B-3 (the “BIA”) and
+         the Receivership Order at paragraph 3 authorize the Receiver to market and sell the
+         Company’s property outside the ordinary course of business, subject to the approval of
+         the Court.1
+
+6.       The Court’s discretion to approve or decline a proposed transaction in a receivership is
+         guided by the Soundair principles, being:
+
+         (a)     whether the receiver has made a sufficient effort to obtain the best price and has
+                 not acted improvidently;
+
+         (b)     the interests of all parties;
+
+         (c)     the efficacy and integrity of the process by which offers are obtained; and
+
+         (d)     whether there has been unfairness in the working out of the process.2
+
+7.       The Soundair principles should be applied flexibly, in a manner that gives deference to a
+         receiver’s commercial expertise in a given factual circumstance, including such things as
+         the prevailing economic environment, and the risks or rewards associated with an
+         extended or additional sales process.3
+
+
+
+
+1 Bankruptcy and Insolvency Act, RSC 1985, c B-3, as amended, s 243(1)(c) [TAB 1]; Receivership Order
+
+      pronounced June 2, 2025 at para 3 [TAB 2].
+2 Royal Bank v Soundair Corp, 1991 CanLII 2727 (ONCA), [1991] OJ No 1137       [Soundair] at para 16
+    [TAB 3].
+3 Sanjel Corp, Re, 2016 ABQB 257 at para 112 [TAB 4].
+                                                  -3-
+
+
+8.       Courts should exercise “extreme caution” before intervening in a sale transaction
+         supported by a receiver.4 It is to be assumed that a receiver’s course of action and
+         recommendation of a transaction are appropriate unless the contrary is clearly shown. 5
+
+9.       The Receiver has determined that the SPA and Transaction are commercially reasonable
+         and fair, and recommends their approval.6
+
+10.      This is the second time the Receiver is brining this Transaction before this Court for
+         approval. In the Court’s Reasons for Decision filed October 28, 2025 (“Reasons for
+         Decision”), the Court dismissed the Receiver’s application for approval of the Transaction,
+         without prejudice to the Receiver’s ability to reapply for approval of the Transaction with
+         additional supporting materials.7 The additional support for the Transaction that is required
+         by the Court pursuant to the Reasons for Decision are set-out extensively in the Second
+         Report and briefly summarized herein.
+
+11.      The SPA and the proposed Transaction satisfy the Soundair principles, given that:
+
+         (a)     The Receiver made sufficient efforts to obtain the best price for the Company’s
+                 shares, and did not act improvidently.
+
+                 The SPA and Transaction arose from an extensive marketing process conducted
+                 by the Company and its sale advisor in the NOI Proceedings, followed by the
+                 Remarketing Process conducted by the Receiver for the assets not sold in the NOI
+                 Proceedings.8 The Receiver has determined that the SPA represents the highest
+                 and best offer for the assets being sold.9
+
+                 The Court concluded the Transaction is the highest and best bid in the Reasons
+                 for Decision.10
+
+
+
+
+4 Soundair at paras 21 and 46.
+
+5 Soundair at para 14.
+
+6 Second Report of Alvarez & Marsal Canada Inc., in its Capacity as Receiver and Manager of Cleo Energy
+
+      Corp., dated November 5, 2025 [Second Report] at para 29.
+7 Second Report at para 7 and Appendix A.
+
+8 Second Report at para 29.
+
+9 Second Report at para 29
+
+10 Cleo Energy Cor (Re), 2025 ABKB 621 [Reasons for Decision] at para 27 [TAB 5].
+                                                  -4-
+
+
+       (b)     The interests of all parties weigh in favour of granting the SPA and proposed
+               Transaction.
+
+               The Orphan Well Association (the “OWA”) will benefit from the proposed
+               Transaction. All of the Company’s environmental liabilities and abandonment and
+               reclamation obligations will be retained by the Purchaser such that they will not
+               transfer to the OWA. This would not be the case in a bankruptcy or if the Receiver
+               proceeded with a traditional asset purchase transaction.11
+
+               The Alberta Energy Regulator (“AER”) has expressed that it does not object to the
+               Transaction as long as the Purchaser fulfills certain obligations to the AER, and
+               the Purchaser has expressed that it is prepared to fulfill these obligations;12
+
+       (c)     The Receiver obtained offers for the assets subject to the Transaction in a fair
+               process, and acted with integrity and efficacy.
+
+               The Remarketing Process ran from July 28, 2025 to August 29, 2025, during which
+               time the Receiver received eight non-binding bids from the Bidders.13 The Receiver
+               engaged with each of the Bidders regarding their additional due diligence requests,
+               and ultimately selected the Purchaser as the successful Bidder.
+
+               The Receiver deemed the marketing process to have been “extensive”.14 No
+               person has suggested that the initial marketing process, or the Remarketing
+               Process, were not conducted fairly and with integrity; and
+
+       (d)     No person has suggested that the SPA or the Transaction were negotiated unfairly.
+               The SPA was negotiated between the Receiver and the Purchaser at arm’s length,
+               and in good faith.15 No stakeholders are prejudiced by the Transaction, which
+               benefits creditors and other stakeholders.
+
+
+
+
+11 Second Report at paras 29, 31.
+
+12 Second Report at para 30.
+
+13 First Report of Alvarez & Marsal Canada Inc., in its Capacity as Receiver and Manager of Cleo Energy
+
+   Corp., dated October 6, 2025 [First Report] at para 27.
+14 Second Report at para 29.
+
+15 Second Report at para 29.
+                                                 -5-
+
+
+        Principles Governing Reverse Vesting Transactions
+
+12.     As this Court notes in the Reasons for Decision, RVOs are no longer extraordinary, but
+        are a common way for insolvency and restructuring matters to be resolved.16 This Court
+        has jurisdiction to approve RVO transactions pursuant to sections 183 and 243 of the
+        BIA.17
+
+13.     The question to be addressed by a court generally when determining whether to approve
+        an RVO transaction is whether the relief sought is appropriate, and whether stakeholders
+        are being treated fairly and reasonably in light of the surrounding circumstances.18
+
+14.     While RVOs should not be the “norm”, courts have found RVOs to be necessary and
+        appropriate in circumstances where the debtor operates in a heavily regulated industry,
+        and the licensing and permitting which are necessary to the debtor’s business would be
+        difficult to transfer or assign.19
+
+15.     Here, the Company operates in the heavily regulated oil and gas industry. The licenses
+        and permits necessary to operate the Company’s business would be difficult to transfer or
+        assign, and would add time, risk and expense to the Transaction if they were required to
+        be transferred to the Purchaser. The Revised RVO structure eliminates the need to seek
+        AER approval for approximately 1,100 licence transfers, a process that, based on the
+        Company’s experience and the Receiver’s experience in insolvency proceedings, could
+        otherwise take between one to four months to complete. Requiring such approvals would
+        introduce regulatory risk, delay closing, increase transaction costs, and deplete the
+        remaining cash available for distribution to creditors.20
+
+16.     T factors from Harte Gold have been adopted widely, including by this Court, for analyzing
+        RVOs.21 These factors are as follows:22
+
+        (a)      whether the RVO is necessary in the circumstances;
+
+
+16 Reasons for Decision at para 10.
+
+17 Peakhill Capital Inc v Southview Gardens Limited Partnership, 2023 BCSC 1476 at paras 21 – 25
+    [Peakhill] [TAB 6].
+18 Harte Gold Corp (Re), 2022 ONSC 653 at para 29 [Harte Gold] [TAB 7].
+
+19 Just Energy Group Inc et al v Morgan Stanley Capital Group Inc et al, 2022 ONSC 6354 at paras 33 –
+
+    34 [TAB 8].
+20 Second Report at para 42.
+
+21 Reasons for Decision at para 10.
+
+22 Harte Gold at para 38.
+                                                  -6-
+
+
+        (b)     whether the RVO structure produces an economic result at least as favourable as
+                any other alternative;
+
+        (c)     whether the general stakeholders are not worse off under the RVO structure than
+                they would have been under any other viable alternative; and
+
+        (d)     whether the consideration being paid for the debtor’s business reflects the
+                importance and value of the intangible assets being preserved under the RVO
+                structure.
+
+17.     While Harte Gold proceeded under the Companies’ Creditors Arrangement Act (Canada),
+        courts have applied its principles in the context of RVOs in receivership proceedings.23
+        This Court has granted similar RVO relief for the sale of other oil and gas companies in
+        receivership.24
+
+18.     The Receiver has addressed each factor of the Harte Gold test in detail at paragraphs 47
+        – 55 of the First Report and, to address the Reasons for Decision, the Receiver has
+        extensively supplemented its views on the Harte Gold factors at paragraphs 40 – 56 of
+        the Second Report.
+
+19.     In brief, the Transaction and the RVO sought satisfy the Harte Gold test as: (i) there is no
+        other viable alternative transaction available, and it is therefore necessary, (ii) it represents
+        the highest and best offer for the assets being sold, and (iii) it provides, by far, the most
+        favourable economic result for CLEO’s stakeholders, including the OWA.25
+
+20.     The Receiver has consulted with key stakeholders in this proceeding who were in
+        attendance and made submissions at the October 17th Application, including counsel to
+        Alberta Energy, counsel to the AER, counsel to the OWA, the Department of Justice
+        Canada (the “DoJ”), and counsel to various municipalities.
+
+21.     Although the DoJ has brought a cross-application for what appears to be a distribution
+        order, discussed in Part E below, the Receiver is not aware of parties, including the DoJ,
+        objecting to the SPA, the Transaction, or the proposed from of RVO.
+
+
+
+
+23 Peakhill paras 21 – 25.
+
+24    See    for   example:    the  receivership    proceedings       of    Robus     Resources      Inc.
+https://www.alvarezandmarsal.com/content/robus-court-orders and
+25 Second Report at paras 40-56.
+                                                     -7-
+
+
+B.         The Releases Sought in the RVO Should be Granted
+
+22.        Courts apply the factors set out in Lydian International Limited (Re) when determining
+           whether to approve releases contemplated in RVOs.26 These factors are as follows:
+
+           (a)    whether the parties to be released from claims were necessary and essential to
+                  the restructuring of the debtor;
+
+           (b)    whether the claims to be released were rationally connected to the purpose of the
+                  transaction and necessary for it;
+
+           (c)    whether the transaction could succeed without the releases;
+
+           (d)    whether the parties being released were contributing to the transaction; and
+
+           (e)    whether the release benefitted the debtors and the creditors generally.27
+
+23.        The proposed RVO contemplates at paragraph 17 that after the Closing Time (i) Chris
+           Lewis in his capacity as a former director of the Company; (ii) the Receiver and its legal
+           counsel, Miller Thomson; and (iii) Chris Lewis in his capacity as director of ResidualCo
+           (collectively, the “Released Parties”) shall be released from, among other things, any and
+           all present and future claims, liabilities, indebtedness, demands, actions, causes of action,
+           and obligations of any kind based in whole or in part on any act or omissions, transaction,
+           dealing or other occurrence existing or taking place prior to the Closing Time in connection
+           with the Transaction or contemplated pursuant to the terms of the proposed RVO
+           (collectively, the “Released Claims”).
+
+24.        The proposed Release in the RVO is limited to claims in connection with the Transaction
+           and specifies that the Released Parties shall not be released from any claim or liability
+           that is deemed to have constituted actual fraud, gross negligence, or wilful misconduct
+           committed by any Released Party.
+
+25.        The Released Claims should be granted as against the Released Parties, as they meet
+           the Lydian factors.
+
+26.        The Released Parties are all necessary and integral to the restructuring of the Company
+           and the Transaction. The Receiver has stated that each of the Released Parties have
+
+
+26 Lydian International Limited (Re), 2020 ONSC 4006 at para 54 [TAB 9].
+
+27 Ibid.
+                                                   -8-
+
+
+           made critical contributions to the Receivership Proceedings, the negotiation of the SPA,
+           and the implementation of the Remarketing Process, and that the services and expertise
+           of the Released Parties were and are necessary for the ultimate success of the
+           Transaction.28
+
+27.        The Released Claims are rationally connected to the purpose of the Transaction.29
+
+28.        The proposed releases benefit the Company and the creditors generally, because the
+           Released Parties may not have advanced the Transaction without the understanding that
+           they would be released.30 The Transaction will advance, preserve and protect the
+           business operations of the Company and will provide a greater recovery to stakeholders
+           than would otherwise be available to them.31
+
+29.        The Releases were fully disclosed to the service list at both the October 17th Application
+           and this application. The Receiver is not aware of any party that objects to the Releases
+           or their limited scope.32
+
+C.         The Receiver’s Actions and Activities Should be Approved
+
+30.        This Court has jurisdiction to review and approve the activities of a Court-appointed
+           receiver.33
+
+31.        A receiver’s conduct is to be assessed objectively, and a Court should approve the
+           activities set out in a receiver’s report if the activities are reasonable, prudent, and not
+           arbitrary.34 Further, where a receiver has fulfilled the purpose of obtaining a high value for
+           the debtor’s assets, the court should find that the receiver has acted properly and within
+           its mandate.35
+
+32.        The Receiver’s activities since the First Report, as set out in the Second Report, relate to
+           responding to the matters raised by Alberta Energy and the DoJ at the October 17th
+
+
+
+
+28 Second Report at para 61.
+
+29 Second Report at para 61.
+
+30 Second Report at para 61.
+
+31 Second Report at para 61.
+
+32 Second Report at para 61.
+
+33 Leslie & Irene Dube Foundation Inc v P218 Enterprises Ltd, 2014 BCSC 1855 at para 54 [TAB 10].
+
+34 Ibid.
+
+35 Re Regal Constellation Hotel Ltd, [2004] OJ No 365, 128 ACWS (3d) 646 (ONCJ) at para 11 [TAB 11].
+                                                -9-
+
+
+       Application, and consulting and negotiating with key stakeholders surrounding the
+       Transaction.
+
+33.    The Receiver’s actions and activities are reasonable and prudent, and are consistent with
+       its mandate. Further, should the Transaction be approved by this Court, the Receiver has
+       obtained a high value for the assets subject to the SPA.
+
+34.    The Receiver’s actions and activities should be approved together with the Receiver’s
+       receipts and disbursements, and those of its counsel, discussed below.
+
+D.     The Receiver and its Counsel’s Fees and Disbursements Should be Approved
+
+35.    In Bank of Nova Scotia v Diemer,36 the Ontario Court of Appeal applied the non-exhaustive
+       factors originally set out in Belyea v Federal Business Development Bank37 to be
+       considered to determine whether a receiver’s fees are fair and reasonable:
+
+       (a)     the nature and extent of the value of the assets handled;
+
+       (b)     the complications and difficulties encountered;
+
+       (c)     the degree of assistance provided by the company, its officers or employees;
+
+       (d)     the time spent;
+
+       (e)     the receiver’s knowledge, experience and skill;
+
+       (f)     the diligence and thoroughness displayed by the receiver;
+
+       (g)     the responsibilities assumed;
+
+       (h)     the results of the receiver’s efforts; and
+
+       (i)     the cost of comparable services.
+
+36.    The Receiver’s fees, and those of its counsel, were incurred in connection with the
+       Receiver’s activities described in the Second Report. These activities required diligence,
+       thoroughness, significant time expenditure, and for the Receiver to be heavily involved in
+       obtaining stakeholder support for the Transaction.
+
+37.    The Receiver’s fees, and the fees of its counsel, are fair and reasonable given the
+       substantive tasks required to be performed in connection with the SPA, Transaction and
+
+
+
+
+36 Bank of Nova Scotia v Diemer, 2014 ONCA 851 at para 33 [TAB 12].
+
+37 Belyea v Federal Business Development Bank, [1983] NBJ No. 41 (CA) at para 9 [TAB 13].
+                                                - 10 -
+
+
+       RVO, and the continued operations of the Company and closing requirements of other
+       court approved sales.
+
+E.     The DoJ Application
+
+38.    Subsequent to the Receiver filing the application for approval of the SPA and Transaction,
+       the DoJ on behalf of the Canada Revenue Agency, filed its own application (the “DoJ
+       Application”).
+
+39.    The DoJ Application was filed without notice to the Receiver. The DoJ Application appears
+       to be a distribution application. Notably, the Receiver understands the DoJ is not opposing
+       the Transaction, the RVO or any of the relief sought by the Receiver.
+
+40.    The Receiver has previously negotiated and incorporated into the RVO additional
+       language at paragraph 10(a), which language clarifies that all proceeds of sale of CLEO
+       from previous transactions and the Transaction will transfer to ResidualCo subject to the
+       rights, priorities and claims, including deemed trust claims, that existed as against the
+       Company. This language was added to the RVO at the request of the DoJ to preserve any
+       deemed trust claims the Canada Revenue Agency may have in any sale proceeds from
+       the realization of CLEO’s assets. The DoJ Application should therefore not impact the
+       Receiver’s application for approval of the Transaction or the RVO.38
+
+41.    With respect to the DoJ Application, the Receiver notes the following:
+
+       (a)     The Receiver has not reviewed the claims of the Canada Revenue Agency or the
+               amounts allegedly owing to it by CLEO, nor has the Receiver completed a security
+               review or priority opinion with respect to the validity and enforceability of any
+               alleged claim the Canada Revenue Agency may have against CLEO pursuant to
+               a deemed trust or otherwise;39
+
+       (b)     In filing the DoJ Application, the DoJ and the Canada Revenue Agency have not
+               sought to lift the stay of proceedings in place over the property of CLEO, including
+               the proceeds of sale of its assets, pursuant to paragraphs 8 and 9 of the
+               Receivership Order;40
+
+
+
+38 Supplement to the Second Report dated November 12, 2025 [Supplemental Report] at paras 17-20.
+
+39 Supplemental Report at para 12.
+
+40 Supplemental Report at para 10.
+                                                 - 11 -
+
+
+       (c)      The payments made by the Receiver, which the DoJ Application defines as
+                “Priority Payments” from proceeds of sale of the assets of CLEO, was done
+                pursuant to the express terms of the Approval and Vesting Orders of this Court,
+                which Orders were granted on notice to, and in the presence of, the DoJ;41 and
+
+       (d)      The Receiver or its counsel have consulted with other creditors and their counsel,
+                which includes other parties with statutory priority claims, and the Receiver
+                understands that these other Crown stakeholders are not supportive of the DoJ
+                Application.42
+
+42.    For the reasons set out in paragraph 41 above, the Receiver cannot not support the DoJ
+       Application. The Receiver is of the view the DoJ Application is stayed by the Receivership
+       Order.
+
+ALL OF WHICH IS RESPECTFULLY SUBMITTED THIS 12th DAY OF NOVEMBER, 2025.
+
+
+                                                          MILLER THOMSON LLP
+
+
+
+
+                                                          Per:
+                                                                 James W. Reid
+                                                                 Counsel for the Applicant, Alvarez
+                                                                 & Marsal Canada Inc., in its
+                                                                 capacity as Receiver of CLEO
+                                                                 Energy Corp. and not in its
+                                                                 personal or corporate capacity
+
+
+
+
+41 Supplemental Report at para 23.
+
+42 Supplemental Report at para 13, Appendix A.
+                                         - 12 -
+
+
+                               TABLE OF AUTHORITIES
+
+Tab No.   Authority
+
+ 1.       Bankruptcy and Insolvency Act, RSC 1985, c B-3, as amended
+
+ 2.       Receivership Order pronounced June 2, 2025
+
+ 3.       Royal Bank v Soundair Corp, 1991 CanLII 2727 (ONCA), [1991] OJ No 1137
+
+ 4.       Sanjel Corp, Re, 2016 ABQB 257
+
+ 5.       Peakhill Capital Inc v Southview Gardens Limited Partnership, 2023 BCSC 1476
+
+ 6.       Cleo Energy Cor (Re), 2025 ABKB 621
+
+ 7.       Harte Gold Corp (Re), 2022 ONSC 653
+
+ 8.       Just Energy Group Inc et al v Morgan Stanley Capital Group Inc et al, 2022 ONSC
+          6354
+
+ 9.       Lydian International Limited (Re), 2020 ONSC 4006
+
+ 10.      Leslie & Irene Dube Foundation Inc v P218 Enterprises Ltd, 2014 BCSC 1855
+
+ 11.      Re Regal Constellation Hotel Ltd, [2004] OJ No 365, 128 ACWS (3d) 646 (ONCJ)
+
+ 12.      Bank of Nova Scotia v Diemer, 2014 ONCA 851
+
+ 13.      Belyea v Federal Business Development Bank, [1983] NBJ No. 41 (CA)
+
