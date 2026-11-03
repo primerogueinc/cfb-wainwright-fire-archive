@@ -1,0 +1,3253 @@
+ COURT FILE NUMBER
+
+ COURT                            COURT OF KING'S BENCH OF ALBERTA
+
+ JUDICIAL CENTRE                  CALGARY
+
+                                  IN THE MATTER OF THE BANKRUPTCY FILED      AND
+                                                                          DIGITALLY
+                                  INSOLVENCY ACT, RSC 1985, C B-3, AS AMENDED
+                                                                                    2503 10488
+                                  AND IN THE MATTER OF THE RECEIVERSHIP OF CLEO
+                                  ENERGY CORP.                        May 26, 2025
+                                                                                        3:41 PM
+
+ APPLICANT                        UCAPITAL-ULOAN SOLUTIONS INC.
+
+ RESPONDENT                       CLEO ENERGY CORP.
+
+ DOCUMENT                         AFFIDAVIT OF GREG THOMPSON
+
+ ADDRESS FOR SERVICE              LAWSON LUNDELL LLP
+ AND CONTACT                      Barristers and Solicitors
+ INFORMATION OF PARTY             Suite 1100 Brookfield Place
+ FILING THIS DOCUMENT             Calgary, AB, Canada T2P 1N2
+
+                                  Attention: Alexis Teasdale
+                                  Telephone: 403-218-7564
+                                  Email:     ateasdale@lawsonlundell.com
+                                  File No.   840117-182617
+
+
+                                AFFIDAVIT OF GREG THOMPSON
+
+                                       SWORN MAY 26, 2025
+
+I, GREG THOMPSON, of the City of Kelowna, in the Province of British Columbia, SWEAR AND
+SAY THAT:
+
+ 1.        I am a Partner of uCapital - uLoan Solutions Inc. ("uCapital"), which has provided interim
+ financing to CLEO Energy Corp. ("CLEO") pursuant to the January 6 Order and the February 19
+ Order, and as such, have personal knowledge of the facts and matters herein deposed except
+ where stated to be based upon information and belief, and where so stated I verily believe the
+ same to be true.
+
+ 2.        I have reviewed the business records maintained by uCapital in respect of the matters at
+ issue, which I verily believe were made in the ordinary and usual course of business, and where
+ I do not have direct personal knowledge of matters deposed herein, my knowledge is derived
+ from my review of the business records of uCapital, relevant copies of which are attached to this
+ my Affidavit.
+
+
+
+
+840117.182617.AET.27763263.2
+                                                  - 2-
+
+
+3.         I am authorized to make this Affidavit on behalf of uCapital.
+
+4.         I swear this affidavit in support of an originating application by uCapital, among other
+things:
+
+          (a)      abridging the time for service of the application and the supporting materials, if
+                   necessary, and deeming service thereof to be good and sufficient;
+
+          (b)      staying the Proposal Proceedings (as defined herein) effective as of June 3, 2025;
+
+          (c)      recognizing and continuing in the Receivership Proceedings (as defined herein)
+                   the BIA Charges (as defined herein) that were granted by the Court of King's Bench
+                   of Alberta (the "Court") in the Proposal Proceedings, for the purposes of securing
+                   the obligations incurred during the Proposal Proceedings that are secured by those
+                   charges;
+
+          (d)      effective as of June 3, 2025, appointing Alvarez & Marsal Canada Inc. as receiver
+                   and manager (the "Receiver") over all of the assets, undertakings and properties
+                   of CLEO pursuant to section 243(1) of the Bankruptcy and Insolvency Act, RSC
+                   1985, c B-3 (the "BIA") and section 13(2) of the Judicature Act, RSA 2000, c. J-2;
+                   and
+
+          (e)      such further and other relief as counsel may request and this Honourable Court
+                   may deem appropriate.
+
+
+A.        BACKGROUND
+
+ 5.        The Respondent, CLEO is a corporation incorporated pursuant to the laws of Alberta. A
+ true copy of an Alberta Corporate Registry search for CLEO dated May 26, 2025 is attached as
+ Exhibit "A".
+
+ 6.        I am informed by my review of the Affidavit of Chris Lewis, sworn in the Proposal
+ Proceedings on December 11, 2024 (the "First Lewis Affidavit") that CLEO carries on business
+ as a producer of oil, natural gas liquids and natural gas in central Alberta. I understand, based
+ on the search results at Exhibit "A" hereto, that CLEO's head office is located in Calgary.
+
+
+
+
+840117.182617.AET.27763263.2
+                                                    - 3-
+
+
+7.         I am further informed by my review of the First Lewis Affidavit, that beginning in 2024,
+CLEO experienced significant reductions in production and these reductions coupled with lower
+ market prices for oil and gas, caused CLEO to experience serious working capital shortages.
+
+
+B.        PROPOSOSAL PROCEEDINGS
+
+ 8.        I am further informed by my review of the First Lewis Affidavit that in order to address its
+ financial difficulties, on December 8, 2024, CLEO filed a notice of intention to make a proposal
+ (the "NOi") pursuant to Division I of Part Ill of the BIA, commencing proposal proceedings (the
+ "Proposal Proceedings"). A copy of the NOi is attached as Exhibit "B".
+
+ 9.        Alvarez & Marsal Canada Inc. consented to act as proposal trustee in the Proposal
+ Proceedings (the "Proposal Trustee").
+
+ 10.       Pursuant to section 50.4(8) of the BIA, the initial stay period under the Proposal
+ Proceedings was from December 8, 2024 to January 7, 2025.
+
+ 11.       On January 6, 2025, the Honourable Justice M. J. Lema pronounced an Order
+ (the "January 6 Order") which, among other things:
+
+          (a)        extended the time for filing a proposal pursuant to section 50.4(9) of the BIA up to
+                     and including February 21, 2025;
+
+          (b)        granted an administration charge in favour of the Proposal Trustee and its counsel
+                     and counsel to CLEO in the maximum amount of $700,000 (the "Administration
+                     Charge");
+
+          (c)        approved the uCapital Facility (defined herein) in the maximum principal amount
+                     of $750,000;
+
+          (d)        granted the Interim Lender's Charge (defined herein) to secure CLEO's obligations
+                     under the uCapital Facility;
+
+          (e)        granted a charge in favour of the officer and director of CLEO (the "D&O Charge")
+                     to secure CLE O's obligation to indemnify him in the maximum amount of $250,000;
+                     and
+
+
+
+
+840117 .182617 .AET.27763263.2
+                                                          -4-
+
+
+         (f)        declared that the Administration Charge, the Interim Lender's Charge and the D&O
+                    Charge (together the "BIA Charges") rank in priority to any and all charges,
+                    security interests, liens, trusts, deemed trusts and encumbrances against the
+                    CLEO's property, including liens and trusts created by federal and provincial
+                    legislation (collectively, the "Encumbrances"), and as between themselves, rank
+                    in the following order of priority:
+
+                      (i)        first, the Administration Charge;
+
+                     (ii)        second, the Interim Lender's Charge; and
+
+                    (iii)        third, the D&O Charge.
+
+ 12.       A copy of the January 6 Order is attached as Exhibit "C".
+
+ 13.       On January 22, 2025, the Honourable Justice J. T. Nielson pronounced an Order (the
+ "SSP Order") approving a sale and solicitation process (the "SSP") which, permitted CLEO to
+ market and sell its property and assets in consultation with the assistance of the Proposal
+ Trustee and Sayer Energy Advisors, as sale agent. A copy of the SSP Order is attached as
+ Exhibit "D".
+
+ 14.       On February 19, 2025, the Honourable Justice M. J. Lema pronounced an Order (the
+ "February 19 Order") which among other things:
+
+          (a)        extended the time for filing a proposal pursuant to section 50.4(9) of the BIA up to
+                     and including April 4, 2025;
+
+          (b)        authorized the amendment of the uCapital Facility by increasing the maximum
+                     principal amount available to CLEO from $750,000 to $1,000,000; and
+
+          (c)        increased the Interim Lender's Charge in the January 6 Order from $900,000 to
+                     $1,000,000.
+
+ 15.        A copy of the February 19 Order is attached as Exhibit "E".
+
+ 16.        On March 25, 2025, the Honourable Justice M. H. Bourque pronounced an Order (the
+ "March 25 Order") which extended the time for filing a proposal pursuant to section 50.4(9) of
+
+
+
+
+840117 .182617 .AET.27763263.2
+                                                  - 5-
+
+
+the BIA up to and including May 9, 2025. A copy of the March 25 Order is attached as Exhibit
+"F".
+
+17.       On March 25, 2025, the Honourable Justice M. H. Bourque also approved the sale of
+certain of CLEO's assets pursuant to various asset and purchase agreements in accordance
+with the SSP and SSP Order.
+
+ 18.      On April 30, 2025, the Honourable Justice R. W. Armstrong pronounced an Order (the
+ "April 30 Order") which extended the time for filing a proposal pursuant to section 50.4(9) of the
+ BIA up to and including June 8, 2025. A copy of the April 30 Order is attached as Exhibit "G".
+
+
+C.       INTERIM FINANCING AGREEMENT, UCAPITAL FACILITY AND INTERIM LENDER'S
+         CHARGE
+
+ 19.       CLEO's cash flow forecast submitted in the Proposal Proceedings (the "Cash Flow
+ Forecast") indicated that CLEO required interim financing from January 6, 2025 and onwards to
+ ensure that it had the liquidity required to meet its obligations for it to continue with the Proposal
+ Proceedings.
+
+ 20.       On January 5, 2025 CLEO and uCapital entered into an interim financing agreement
+  (the "Interim Financing Agreement") extending a credit facility to the maximum principal
+ amount of $750,000 (the "uCapital Facility") to meet a portion of CLEO's obligations as
+ anticipated by the 13-week Cash Flow Forecast.
+
+ 21.       A copy of the term sheet representing the Interim Financing Agreement is attached as
+ Exhibit "H".
+
+ 22.       All terms otherwise not defined in this paragraph 22 shall have the meaning ascribed in
+ the Interim Financing Agreement. The key terms of the Interim Financing Agreement include the
+ following:
+
+     Amount of Loan:           $750,000.00
+
+     Maturity Date:            The earliest of:
+
+                               a) May 8th, 2025, or such other date as agreed to between the
+
+
+
+
+840117.182617.AET.27763263.2
+                                                     -6-
+
+
+                                parties;
+
+                                b) the termination of the BIA proceedings; or
+
+                                c) the occurrence of an Event of Default (as defined in the
+
+                                Term Sheet).
+
+  Security:                     A Court authorized first-ranking, valid, enforceable financing
+
+                                charge with priority over all creditors of CLEO, in an amount to
+
+                                match the anticipated draws required by Cleo from the Lender
+
+                                from time to time as prescribed by the 13-week Cash Flow
+
+                                Forecast, which shall not exceed $900,000.00 (the "DIP Charge")
+
+                                charging all the property, assets and undertakings of CLEO granted
+
+                                pursuant to the DIP Order (as defined in the Term Sheet) that
+
+                                includes standard debtor-in-possession terms and conditions
+
+                                satisfactory to the Interim Lender acting reasonably, pursuant to
+
+                                section 50.6(1) of the BIA, as the case may be, subject only to an
+
+                                administration charge not to exceed $700,000 (the
+
+                                "Administration Charge")
+
+   Conditions                   Prior to any disbursement, CLEO is required to have obtained an
+  Precedent:                    order made by the Court (the "DIP Order'') in form and content
+
+                                satisfactory to the Interim Lender, which shall include, among
+
+                                other things: (a) the approval of the Interim Financing Agreement
+
+                                and all the terms and conditions thereof; (b) authorizing CLEO to
+
+                                borrow on the terms and conditions outlined in the Term Sheet and
+
+                                approving same; and (c) creating various court-ordered priority
+
+                                charges including the granting of the DIP Charge.
+
+   Interest Rate:               Interest is payable monthly, at a rate of 3% per month.
+
+
+
+
+840117.182617 .AET.27763263.2
+                                                    -7-
+
+
+  Fees:                        On payment in full of the DIP Loan and Monthly Fees, an
+
+                               additional $50,000 fee will be earned and payable, in full.
+
+  Administration               Not to exceed $700,000.
+  Charge:
+
+  Remedies:                    Upon the Maturity Date, the Lender may immediately terminate the
+                               DIP Loan and enforce, upon five (5) Business Days written notice to
+                               the Borrower and A&M, all of its rights and remedies against the
+                               Borrower and its property, assets and undertaking including, without
+                               limitation, the enforcement of the DIP Lender Security and the ability
+                               to apply to the Court for the appointment of a Receiver; and all
+                               amounts outstanding under the DIP Loan shall immediately become
+                               due and payable without further notice, demand or delay.
+
+ 23.       It was an express term of the Interim Financing Agreement that the uCapital Facility shall
+ be secured by a court authorized first-ranking, valid, enforceable financing charge with priority
+ over all creditors of CLEO and charging all the property, assets and undertakings of CLEO (the
+ "Interim Lender's Charge).
+
+ 24.       On January 6, 2025, CLEO and uCapital entered into the First Amending Agreement to
+ the Interim Financing Agreement, which corrected the language for the rate of interest. A copy
+ of the First Amending Agreement to the Interim Financing Agreement is attached as Exhibit "I".
+
+ 25.       The uCapital Facility had been fully drawn upon.
+
+ 26.       The Cash Flow Forecast anticipated that CLEO would experience a cash flow shortfall
+ by the sixth week, being the week of February 21, 2025. CLEO attempted to address this
+ shortfall, however additional interim financing was required.
+
+ 27.       CLEO and uCapital negotiated an increase to the maximum principal amount of the
+ uCapital Facility pursuant to the Second Amending Agreement, from $750,000 to $1,000,000 A
+ copy of the Second Amending Agreement to the Interim Financing Agreement is attached as
+ Exhibit "J".
+
+ 28.       The Second Amending Agreement was conditional upon the Court making an order
+ extending the time to file a proposal to April 4, 2025, approving the increase to the uCapital
+ Facility and approving an increase of the Interim Lender's Charge. These conditions were met
+ in the February 19 Order.
+
+
+
+
+840117.182617.AET.27763263.2
+                                                  -8-
+
+
+29.        CLEO is indebted to uCapital under the uCapital Facility as at May [26], 2025, in the
+amount of $1,082,076.50 as at May 26, 2025, with costs and interest continuing to accrue from
+and after May 26, 2025, plus further accruing interest, fees and costs on a solicitor and his own
+client, full indemnity basis. Copies of the draw down notices, statement of account, and loan
+payout statement are attached collectively as Exhibit "K". I note that the payout statement does
+not include accrued legal fees to and including May 25, 2025 of $5,076.50.
+
+ 30.       CLEO is in default to of the Interim Financing Agreement, as amended, because (among
+ other reasons) in uCapital's determination, a material adverse change has occurred. Specifically,
+ CLEO has confirmed that it will not file a proposal by June 8, 2025, such that CLEO will be
+ deemed bankrupt. In order to comply with statutory requirements, uCapitalhas sent a Notice of
+ Intention to Enforce Security ("NOITES") in relation to the Interim Financing Agreement. CLEO
+ has waived the 10-day notice period under the NOITES. A copy of the NOITES with CLEO's
+ waiver marked on it is attached as Exhibit "L". I am informed by my legal counsel, Alexis
+ Teasdale of Lawson Lundell LLP, that CLEO consents to the appointment of a receiver.
+
+
+D.        STAYING OF THE PROPOSAL PROCEEDINGS
+
+ 31.       I am advised by Ms. Teasdale, and verily believe, that if CLEO does not file a proposal
+ to its creditors before June 8, 2025, CLEO will be deemed to have made an assignment in
+ bankruptcy as of June 9, 2025.
+
+ 32.       I am advised by Mr. Lewis that CLEO will not be filing a proposal to its creditors by June
+ 8, 2025.
+
+ 33.       I am informed by Mr. Lewis and believe that CLEO has worked diligently to negotiate with
+ various bidders for the sale of its remaining assets and intends to seek Court approval for several
+ asset sales (the "Transactions") on June 2, 2025.
+
+ 34.        I am further informed by Mr. Lewis that the proceeds from the Transactions are expected
+ to be sufficient to fully repay uCapital. The Interim Lender's Charge will also continue to attach
+ to CLEO's April and May 2025 production revenues.
+
+ 35.        I am further informed by Mr. Lewis that it was CLEO's intention to sell the majority of its
+ assets during the Proposal Proceedings and use the proceeds to repay uCapital and other
+ secured creditors before CLEO's deemed bankruptcy, however, CLEO is concerned that the
+
+
+
+
+840117.182617 .AET.27763263.2
+                                                   -9-
+
+
+ Transactions may not close before June 8, 2025, and I am concerned that a deemed bankruptcy
+ of CLEO may interfere with the timely repayment of uCapital and other secured creditors from
+ the proceeds of the Transactions, and further may delay or jeopardize the sale of any remaining
+ assets owned by CLEO after the Transactions close.
+
+ 36.       Mr. Lewis further informs me that there is one backup bid for one of the Transactions.
+ The successful bid is selling two fields whereas one backup bid is buying one field. If the relevant
+ Transaction does not close and CLEO is deemed to be bankrupt, CLEO is concerned that the
+ intervening bankruptcy may jeopardize the alternative bid presented by the backup bidder.
+
+ 37.       To facilitate the closing of the Transactions, avoid delay in the distribution of the proceeds
+ therefrom, and facilitate the efficient sale of any residual assets owned by CLEO, uCapital is
+ seeking to stay the Proposal Proceedings and have a receiver appointed over CLEO.
+
+ 38.        It is in the best interest of all stakeholders that the Transactions close and the proceeds
+ be distributed in the context of a receivership proceeding rather than in a bankruptcy process,
+ as the latter may delay the closing of the Transactions, potentially jeopardize the distribution of
+ proceeds therefrom, and delay or jeopardize the backup bid and/or any sale of CLEO's residual
+ assets.
+
+
+E.        BIA CHARGES
+
+ 39.        The beneficiaries of the BIA Charges have been actively working to facilitate a successful
+ restructuring of CLEO during the course of the Proposal Proceedings.
+
+ 40.        The uCapital Facility was provided to CLEO on the express condition that it would be
+ secured by the Interim Lender's
+
+ 41.        Considering the latter two points, if this Court grants the relief sought and the Proposal
+ Proceedings are stayed and a receiver is appointed in a receivership proceeding (the
+ "Receivership Proceedings") it is fair and reasonable to continue the BIA Charges into the
+ Receivership Proceedings.
+
+
+F.         NECESSITY FOR APPOINTMENT OF RECEIVER
+
+ 42.        It is just, equitable, and convenient that the proposed Receiver be appointed for the
+ following reasons:
+
+
+
+
+840117.1 82617 .AET.27763263.2
+                                                       - 10 -
+
+
+          (a)        irreparable harm will be caused if no order is made, as CLEO will be deemed to
+                     have been assigned into bankruptcy on June 9. 2025, which may negatively affect
+                     the closing and distribution of proceeds of the Transactions or the backup bid, and
+                     the sale of CLEO's residual assets and distribution of proceeds therefrom;
+
+          (b)        the proposed Receiver has acted as Proposal Trustee for the past almost six
+                     months, facilitated the SSP, has in depth knowledge of CLEO and its assts, and is
+                     in the best position to facilitate the closing of the Transactions and, if applicable,
+                     the backup bid distribute the proceeds of sale to uCapital, complete and sale of
+                     residual assets and the distribution of proceeds therefrom;
+
+          (c)        receivership proceedings will provide the necessary time to close the Transactions
+                     and, if applicable, the backup bid and distribute the proceeds therefrom, and
+                     complete the sale of any residual assets, outside of a bankruptcy;
+
+          (d)        the beneficiaries of the BIA Charges have been diligently working to assist with the
+                     success of the Proposal Proceedings and competition of the Transactions for the
+                     benefit of all of CLEO's stakeholders and, as such, should continue to be protected
+                     by the BIA Charges;
+
+           (e)       uCapital has the right to appoint a receiver under the Interim Financing Agreement;
+
+           (f)       a receivership has the greatest likelihood of maximizing return to the parties;
+
+           (g)       a receiver will be able to continue to attempt or sell the remaining assets of Cleo
+                     for the benefit of CLEO's stakeholders;
+
+           (h)        there will be assets owned by CLEO which will remain unsold following the staying
+                      of the Proposal Proceedings, and thus a Receiver will work with the Orphan Well
+                      Association (the "OWA") to attempt to convey such remaining assets, and if
+                      necessary, transition any such properties as necessary to the OWA; and
+
+           (i)        to the extent that the abandonment and reclamation obligations associated with
+                      CLEO's remaining unsold properties have been provided for to the satisfaction of
+                      the Alberta Energy Regulator, a Receiver will be able to arrange for the distribution
+                      of any remaining funds in CLEO's estate to CLEO's creditors in accordance with
+                      their respective priorities at law.
+
+
+
+
+840117. 182617 .AET.27763263. 2
+                                                - 11 -
+
+
+43.       The Receiver has consented to act as receiver. A copy of the consent to act is attached
+as Exhibit "M".
+
+44.       In the circumstances, the balance of convenience weighs in favour of the appointment of
+the proposed Receiver as receiver-manager, and it is just, equitable and convenient to appoint
+the proposed Receiver as receiver-manager of CLEO's assets, undertaking and property.
+
+
+G.       CONCLUSION
+
+45.       I swear this Affidavit in support of the originating application and any other proper purpose
+ in connection with these proceedings.
+
+ SWORN BEFORE ME at the City of )
+ Kelowna in the Province of British
+ Columbia, this 26 th day of May, 2025. )
+
+                                                )
+
+                                                )
+
+                                                )
+
+                                                )
+
+ A COMMISSIONER FOR OATHS IN
+ AND FOR BRITISH COLUMBIA
+
+                AARON DOW
+               Barrister• Solicitor
+        LAWSON LUNDELL LLP
+         1800 - 1631 Dickson Avenue
+           Kelowna, BC V1Y 085
+
+
+
+
+840117.182617.AET.27763263.2
+This is Exhibit "A" referred to in the Affidavit of
+Greg Thompson sworn before me this 26th day of
+May, 2025
+
+
+
+
+ A COMMISSIONER FOR OATHS IN AND FOR
+ BRITISH COLUMBIA
+
+                   AARON DOW
+                  Barrister• Solicitor
+           LAWSON LUNDELL LLP
+            1800 - 1631 Dickson Avenue
+              Kelowna, BC V1Y 085
+
+
+
+
+840117.182617 .AET.27763263.1
+5/26/25, 7:03 AM                                         about:blank
+
+
+
+  Government               Corporatiorn/Non-Profit Search
+  of Alberta 1111 Corporate Registration System
+   Date of Search:              2025/05/26
+   Time of Search:              07:03AM
+   Search provided by:          MILLER THOMSON LLP - CALGARY
+   Service Request Number:    44673270
+   Customer Reference Number: 0289127 .0002
+
+
+
+   Corporate Access Number: 2019731419
+   Business Number:         766250922
+   Legal Entity Name:       CLEO ENERGY CORP.
+
+   Legal Entity Status:        Active
+   Alberta Corporation Type: Named Alberta Corporation
+   Registration Date:          2016/05/31 YYYY/MM/DD
+   Date of Last Status Change: 2024/07/22 YYYY/MM/DD
+
+
+   Registered Office:
+   Street:            200 - 117 8 AVE SW
+   City:              CALGARY
+   Province:          ALBERTA
+   Postal Code:       T2P1B4
+   Records Address:
+   Street:          200 - 117 8 AVE SW
+   City:            CALGARY
+   Province:        ALBERTA
+   Postal Code:     T2P1B4
+
+   Email Address: CLEWIS@CLEOENERGY.COM
+
+   Primary Agent for Service:
+
+
+
+   ~l         ,First
+               Name
+                       IMiddlel~irm B~EJ
+                       Name Name Street City
+                       I                           Provmce
+                                                                  Postal
+                                                                  Code !Email            I
+
+   □□□□
+                                    200-
+                                          ICALGARYIIALBERTAIIT2PIB41 CLEWIS@CLEOENERGY.COM
+                                    117 8
+                                    AVE
+                                    SW
+
+   Directors:
+
+
+about:blank                                                                                  1/3
+5/26/25, 7:03 AM                                              about:blank
+
+   Last Name:         LEWIS
+   First Name:        CHRIS
+   Street/Box Number: 200 - 117 8 AVE SW
+   City:              CALGARY
+   Province:          ALBERTA
+   Postal Code:       T2P1B4
+
+
+   Voting Shareholders:
+
+   Legal Entity Name:        CHIMERA MANAGEMENT GROUP LTD.
+   Corporate Access Number: 2024804730
+   Street:                   200 - 117 8 AVE SW
+   City:                     CALGARY
+   Province:                 ALBERTA
+   Postal Code:              T2PIB4
+   Percent Of Voting Shares: 100
+
+
+
+
+   Details From Current Articles:
+   The information in this legal entitY- table suP.ersedes eguivalent electronic attachments
+   Share Structure:              SEE SCHEDULE "A" ATTACHED HERETO
+   Share Transfers Restrictions: SEE SCHEDULE "B" ATTACHED HERETO
+   Min Number Of Directors: 1
+   Max Number Of Directors: 10
+   Business Restricted To:       NONE
+   Business Restricted From:     NONE
+   Other Provisions:             SEE SCHEDULE "C" ATTACHED HERETO
+
+
+
+   Other Information:
+
+   Last Annual Return Filed:
+
+   !File YearljDate Filed (YYYY/MM/DD)j
+   1      2024112024101122                 1
+
+
+
+    Filing History:
+
+    jList Date (YYYY/MM/DD)liType of Filing
+                             ;::::::::======================,I
+    12016/05/31             jjincorporate Alberta Corporation
+
+about:blank                                                                                    2/3
+                                             ····-··---                    ---·--
+5/26/25, 7:03 AM                                                  about:blank
+
+   12018/04/25                   llchange Director/ Shareholder
+   12020/02/03                   llchange Address
+   12020102122                   IIUpdate BN
+   12024/07/02                   llstatus Changed to Start for Failure to File Annual Returns
+   12024/07/22                   IIEnter Ammal Returns for Alberta and Extra-Provincial Corp
+
+
+
+   Attachments:
+
+   !Attachment Type                !!Microfilm Bar Codej!Date Recorded (YYYY/MM/DD)I
+   jShare Strncture                IIELECTRONIC           112016/05/31                          I
+   !Restrictions on Share TransfersljELECTRONIC           112016/05/31                          I
+   !Other Rules or Provisions      II ELECTRONIC          112016/05/31                          I
+   The Registrar of Corporations certifies that, as of the date of this search, the above infonnation is an accurate
+   reproduction of data contained in the official public records of Corporate Registry.
+
+
+
+
+ about:blank                                                                                                           3/3
+This is Exhibit "B" referred to in the Affidavit of
+Greg Thompson sworn before me this 26th day of
+May, 2025
+
+
+
+
+ A COMMISSIONER FOR OATHS IN AND FOR
+ BRITISH COLUMBIA
+                    AARON DOW
+                  Barrister• Solicitor
+            LAWSON LUNDELL LLP
+             1800 - 1631 Dickson Avenue
+               Kelowna, BC V1Y 0B5
+
+
+
+
+840117.182617.AET.27763263.1
+              Industry Canada                   lndustrie Canada
+              Office of the Superintendent      Bureau du surintendant
+              of Bankruptcy Canada              des faillites Canada
+
+District of    Alberta
+Division No. 02 - Calgary
+Court No.      25-3163430
+Estate No.     25-3163430
+
+
+                             In the Matter of the Notice oflntention to make a proposal of:
+
+                                                      CLEO Energy Corp.
+
+                                                         Insolvent Person
+
+                                            ALVAREZ & MARSAL CANADA INC.
+                                                   Licensed Insolvency Trustee
+
+
+ Date of the Notice ofintention:                                                 December 08, 2024
+
+
+
+                    CERTIFICATE OF FILING OF A NOTICE OF INTENTION TO MAKE A PROPOSAL
+                                               Subsection 50.4 (1)
+
+
+
+
+I, the undersigned, Official Receiver in and for this bankruptcy district, do hereby certify that the aforenamed insolvent person
+filed a Notice ofintention to Make a Proposal under subsection 50.4 (1) of the Bankruptcy and Insolvency Act;
+Pursuant to subsection 69. (1) of the Act, all proceedings against the aforenamed insolvent person are stayed as of the date of
+filing of the Notice ofintention.
+                                                                                                   Date: December 09, 2024, 11 :44
+E-File/Depot Electronique                                                                                         Official Receiver
+                            Harry Hays Building, 220 - 4th Ave SE, Suite 478, Calgary, Alberta, Canada, T2G4X3, (877)376-9902
+
+Canada
+This is Exhibit "C" referred to in the Affidavit
+of Greg Thompson sworn before me this 26th
+day of May, 2025
+
+
+
+
+ A COMMISSIONER FOR OATHS IN AND FOR
+ BRITISH COLUMBIA
+
+                     AARON DOW
+                    Barrister• Solicitor
+             LAWSON LUNDELL LLP
+              1800 - 1631 Dickson Avenue
+                Kelowna, BC V1Y 0B5
+
+
+
+
+840117.182617.AET.27763263.1
+                                                                                         -'~""""'-==~.
+                                                                     !3ANKr-:UPTCY AND INSOLVENCY
+                                                                        FAILUTE ET INSOLVABILITE
+                                                                               FILED
+                                                                            Clerk's Stamp
+                                                                            JAN O7 2025
+COURT FILE NO.          B301-163430
+                                                                          JUDICIAL CENTRE
+COURT                   COURT OF KING'S BENCH OF ALBERTA                    OF CALGARY    •
+
+JUDICIAL CENTRE         CALGARY
+
+                        IN THE MATTER OF THE BANKRUPTCY AND INSOLVENCY ACT,
+                        RSC 1985, C B-3, AS AMENDED
+
+                        AND IN THE MATTER OF THE NOTICE OF INTENTION TO
+                        MAKE A PROPOSAL OF CLEO ENERGY CORP.
+
+APPLICANT               CLEO ENERGY CORP.
+
+DOCUMENT                ORDER (Stay Extension, Administration Charge, Interim
+                        Financing, Interim Financing Charge, D&O Charge and Other
+                        Relief)
+
+ADDRESS FOR             Gowling WLG (Canada) LLP
+SERVICE AND             1600, 421-7 th Avenue SW
+CONTACT                 Calgary, AB T2P 4K9
+INFORMATION OF
+PARTY FILING            Attn:    Sam Gabor/ Tom Cumming
+THIS DOCUMENT           Phone:    403.298.1946/ 403.298.1938
+                        Fax:      403.263.9193
+                        Email:     sam. gabor@gowlingwlg.com/
+                                  tom.cumming@gowlingwlg.com
+                        File No.: Gl0010664
+
+DATE ON WIDCH ORDER WAS PRONOUNCED:                    January 6, 2025
+LOCATION WHERE ORDER WAS PRONOUNCED: Calgary, Alberta
+JUSTICE WHO MADE THIS ORDER:                           The Honourable Justice Lema in
+                                                       Commercial Chambers
+
+             UPON THE APPLICATION of Cleo Energy Corp. ("Cleo" or, the "Applicant")
+filed December 23, 2024; AND UPON reading the Affidavit of Chris Lewis, sworn December
+23, 2024, and the Affidavit of Chris Lewis, sworn January 5, 2025 (the "January 5
+Affidavit"), and the Affidavit of Service of Sherry Langley, sworn January 6, 2025; AND
+UPON reading the First Report of Alvarez & Marsal Canada Inc. in its capacity as proposal
+trustee of the Applicant (in such capacity, the "Proposal Trustee"), dated January 6 2024;
+AND UPON hearing submissions by counsel for the Applicant, the Proposal Trustee, counsel
+for the Proposal Trustee, counsel to Trafigura: Canada Limited ("Trafigura"), counsel to
+
+
+65621011\6
+Battle River Energy Ltd., counsel to Transalta Energy Marketing, counsel to Marco Simonelli
+and any other counsel or other interested parties present,
+
+IT IS HEREBY ORDERED THAT:
+
+SERVICE
+1.    The time for service of the notice of application for this order (the "Order") is hereby
+      abridged and deemed good and sufficient and this application is properly returnable today,
+      and no other than those persons served is entitled to service of the notice of application.
+
+EXTENSION OF TIME TO FILE A PROPOSAL
+
+2.     The time within which Cleo is required to file a proposal to its creditors with the Official
+       Receiver, under section 50.4 of the Bankruptcy and Insolvency Act, RSC 1985, c B-3 (the
+       "BIA") is hereby extended to February 21, 2025 (as extended from time to time, the "Stay
+        Period").
+
+ADMINISTRATION CHARGE
+
+3.      Legal counsel to Cleo, the Proposal Trustee and legal counsel to the Proposal Trustee, as
+        security for their respective professional fees and disbursements incurred in preparing for
+        and during these proposal proceedings, and both before and after the granting of this Order,
+        shall be entitled to the benefit of, and are hereby granted, a security and charge (the
+        "Administration Charge") on all of Cleo's present and after-acquired assets, property and
+        undertakings (the "Property"), which charge shall n:ot exceed $700,000.
+
+INTERIM FINANCING
+
+4.      Cleo is hereby authorized and empowered to obtain and borrow under an interim financing
+        facility (the "Interim Financing Facility") pursuant to the interim financing facility
+        commitment letter dated January 5, 2025 (the "Interim Financing Agreement") between
+        Cleo as borrower and uCapital - uLoan Solutions Inc. (the "Interim Lender") as lender,
+        provided that borrowings under the Interim Financing Facility shall not exceed the
+        principal amount of $900,000 unless permitted by further order of this Court and agreed to
+        by the Interim Lender.
+
+5.      The Interim Financing Facility shall be on the terms and subject to the conditions set forth
+        in the Interim Financing Agreement attached as Exhibit "K" to the January 5 Affidavit, as
+        such Interim Financing Agreement may be amended in accordance with its terms.
+65621011\6
+6.     The Interim Lender shall be entitled to the benefit of and are hereby granted a security and
+       charge on the Property (the "Interim Lender's Charge") as security for the payment and
+       performance of the indebtedness, liabilities and obligations of Cleo to the Interim Lender
+       under the Interim Financing Agreement and the Interim Financing Facility created thereby
+       in the principal amount of $900,000 together with any interest accrued thereon or costs and
+       expenses incurred thereunder.
+
+7.     Cleo shall be prohibited from granting any additional liens, charges, security interests or
+       any other encumbrances upon the Property without the prior written consent of the Interim
+       Lender.
+
+8.     Except as specifically permitted in this Order, the Applicant is hereby directed, until further
+       order of this Court:
+
+              a) to grant no security interests, trust, liens, charges or encumbrances upon or in
+                 respect of any of its Property; and
+
+              b) to not borrower any further interim financing without the written consent of the
+                 Interim Lender.
+
+9.     Notwithstanding any other provision of this Order:
+
+        (a)      the Interim Lender may take such steps from time to time as it may deem necessary
+                 or appropriate to file, register, record or perfect the Interim Lender's Charge or the
+                 Interim Financing Agreement;
+
+        (b)      upon the occurrence of an event of default under the Interim Financing Agreement
+                 or the Interim Lender's Charge, the Interim Lender, upon five (5) days notice to the
+                 Applicant and the Monitor, may exercise any and all of its rights and remedies
+                 against the Applicant or the Property under or pursuant to the Interim Financing
+                  Agreement, and the Interim Lender's Charge, including without limitation, to cease
+                 making advances to the Applicant and set off and/or consolidate any amounts
+                  owing by the Interim Lender to the Applicant against the obligations of the
+                  Applicant to the Interim Lender under the Interim Financing Agreement or the
+                  Interim Lender's Charge, to make demand, accelerate payment, and give other
+                  notices, or to apply to this Court for the appointment of a receiver, receiver and
+
+65621011\6
+               manager or interim receiver, or for a bankruptcy order against the Applicant and
+               for the appointment of a trustee in bankruptcy of the Applicant; and
+
+       (c)     the foregoing rights and remedies of the Interim Lender shall be enforceable against
+               any trustee in bankruptcy, interim receiver, receiver or receiver and manager of the
+               Applicant or the Property.
+
+10.    The Interim Lender shall be treated as unaffected in any proposal filed by the Applicant
+       under the Bankruptcy and Insolvency Act of Canada (the "BIA"), or with respect to any
+       advances made under the Interim Financing Agreement.
+
+D&O INDEMNIFICATION AND CHARGE
+
+11.     Cleo shall indemnify its director and officer against obligations and liabilities that he may
+        incur as director or officer after the Filing Date, except to the extent that, with respect to
+        any director or officer, the obligation or liability was incurred as a result of the director or
+        officer's gross negligence or wilful misconduct.
+
+12.     The director and officer of Cleo shall be entitled to the benefit of and is hereby granted a
+        charge (the "D&O Charge") on all of the Property, which shall not exceed an aggregate
+        amount of $250,000, as security for the indemnity provided in this Order.
+
+PRIORITY OF CHARGES
+
+13.     The filing, registration or perfection of the Administration Charge, the Interim Lender's
+        Charge and the D&O Charge (collectively, the "BIA Charges") shall not be required, and
+        the BIA Charges shall be enforceable for all purposes, including as against any right, title
+        or interest filed, registered, recorded or perfected subsequent to the Charges coming into
+        existence, notwithstanding any such failure to file, register, record or perfect.
+
+14.     The BIA Charges shall constitute a security and charge on the Property and such BIA
+        Charges shall rank in priority to all other security interests, trusts, liens, charges, deemed
+        trusts, encumbrances and claims of secured creditors, statutory or otherwise in favour of
+        any person, including liens and trusts created by federal and provincial legislation
+        (collectively, the "Encumbrances"). The ranking as between the BIA Charges shall be as
+        follows:
+
+        (a)     first, the Administration Charge;
+
+65621011\6
+       (b)    second, the Interim Lender's Charge; and
+
+       (c)    third, the D&O Charge.
+
+15.    Except as otherwise provided herein, or as may be approved by this Honourable Court,
+       Cleo shall not grant any Encumbrances over the Property that rank in priority to, or pari
+       passu with, any of the BIA Charges, unless Cleo obtains the prior written consent of the
+       beneficiaries of the BIA Charges (the "Chargees") or further order of this Court.
+
+16.    The BIA Charges shall not be rendered invalid or unenforceable and the rights and remedies
+       of the Chargees thereunder shall not otherwise be limited or impaired in any way by:
+
+       (a)    the pendency of these proceedings and the declarations of insolvency made in this
+              Order;
+
+       (b)    any application(s) for bankruptcy order(s) issued pursuant to the BIA, or any
+              bankruptcy order made pursuant to such applications;
+
+        (c)   the filing of any assignments for the general benefit of creditors made pursuant to
+              the BIA;
+
+        (d)   the provisions of any federal or provincial statutes; or
+
+        (e)    any negative covenants, prohibitions or other similar provisions with respect to
+              borrowings, incurring debt or the creation of Encumbrances, contained in any
+               existing loan documents, lease, sublease, offer to lease or other agreement
+               (collectively, an "Agreement") that binds Cleo, and notwithstanding any provision
+               to the contrary in any Agreement:
+
+               (i)     neither the creation of the BIA Charges nor the execution, delivery,
+                       perfection, registration or performance of any documents in respect thereof,
+                       shall create or be deemed to constitute a new breach by Cleo of any
+                       Agreement to which they, or any one of them, is a party;
+
+               (ii)    none of the Chargees shall have any liability to any person whatsoever as a
+                       result of any breach of any Agreement caused by or resulting from the
+                       creation of the BIA Charges, or the execution, delivery or performance of
+                       the Interim Financing Facility; and
+
+               (iii)   the payments made by Cleo pursuant to this Order and the granting of the
+                       BIA Charges, do not and will not constitute preferences, fraudulent
+
+65621011\6
+                       conveyances, transfers at undervalue, oppressive conduct or other
+                       challengeable or voidable transactions under any applicable law.
+
+RESTATEMENT OF STAY AND CONTINUATION OF SERVICES
+
+17.    In accordance with section 69(1) of the BIA, during the period between December 8, 2024
+       (the "Filing Date") and the date on which the Stay Period expires:
+
+               (i)    · no creditor has any remedy against Cleo or against any of the Property or
+                       shall commence or continue any action, execution or other proceedings for
+                       the recovery of a claim provable in banlauptcy; and
+
+               (ii)    no provision of a security agreement between Cleo and a secured creditor
+                       that provides, in substance, that on Cleo's insolvency, the default by Cleo
+                       of an obligation under the security agreement, or the filing by Cleo of the
+                       NOI, Cleo ceases to have rights to use or deal with Property secured under
+                       the security agreement as it would otherwise have, has any force or effect.
+
+18.     In accordance with section 65.1(1) oftheBL4 but subject to section 65.1(4) of the BIA, no
+        person may terminate or amend any agreement with Cleo or claim an accelerated payment,
+        or a forfeiture of the term, under any agreement with Cleo by reason only that Cleo is
+        insolvent or a NOI has been filed with respect to Cleo.
+
+19.     During the Stay Period, all persons having oral or written agreements with Cleo or statutory
+        or regulatory mandates for the supply of goods and/or services are hereby restrained until
+       • further Order of this Court from discontinuing, altering, interfering with or terminating the
+        supply of such goods or services as may be required by Cleo, provided in each case that
+        the normal prices or charges for such goods or services received after the date of this Order
+        are paid by Cleo in accordance with normal payment practices of Cleo or other practices
+        as may be agreed upon by the supplier or service provider and each of Cleo and the
+        Proposal Trustee, or as may be ordered by this Honourable Court.
+
+20.     Any Person (as such term is defined in the BIA) that has collected, realized, seized or taken
+        possession of any money or other Property subsequent to the Filing Date without the
+        consent of the Proposal Trustee or leave of this Honourable Court shall promptly deliver
+        or surrender to Cleo such money or other Property.
+
+
+
+65621011\6
+21.    The issue pertaining to the stay of proceedings for the benefit of Chris Lewis ("Mr. Lewis")
+       as director, officer and guarantor of Cleo is adjourned to the scheduled court appearance
+       on January 10, 2025 before Justice Lema.
+
+22.    The issue of ongoing monthly set-off as between Trafigura and Cleo is adjourned to the
+       scheduled court appearance on January 10, 2025 before Justice Lema.
+
+GENERAL
+
+23.    Service of this Order may be effected by facsimile, electronic mail, personal delivery or
+       courier to the service list (the "Service List") in the proceedings. Service is deemed to be
+       effected the next business day following transmission or delivery of this Order.
+
+24.    This Order shall be posted on the Proposal Trustee's website for these proceedings at:
+       https://www.alvarezandmarsal.com/CLEO
+
+
+
+
+                                                  J.C.K.B.A.
+
+
+
+
+65621011\6
+ This is Exhibit "D" referred to in the Affidavit of
+ Greg Thompson sworn before me this 26th day of
+ May, 2025
+
+
+
+
+ A COMMISSIONER FOR OATHS IN AND FOR
+ BRITISH COLUMBIA
+
+                     AARON DOW
+                    Barrister• Solicitor
+             LAWSON LUNDELL LLP
+              1800 - 1631 Dickson Avenue
+                Kelowna, BC V1 Y 0B5
+
+
+
+
+840117.182617.AET.27763263.1
+COURT FILE NO.             B301-163430
+
+
+COURT                      COURT OF KING'S BENCH OF ALBERTA
+                           (IN BANKRUPTCY & INSOLVENCY)                                        jg
+
+JUDICIAL CENTRE            CALGARY
+
+APPLICANTS                 IN THE MATTER OF THE BANKRUPTCY AND INSOLVENCY ACT,
+                           RSC 1985, C C-8, AS AMENDED
+
+                           AND IN THE MATTER OF THE NOTICE OF INTENTION TO
+                           MAKE A PROPOSAL OF CLEO ENERGY CORP.
+
+DOCUMENT                   ORDER (Sale Process)
+
+ADDRESS FOR                Gowling WLG (Canada) LLP
+SERVICE AND                1600, 421 7th Avenue SW
+CONTACT                    Calgary, AB T2P 4K9
+INFORMATION OF
+PARTY FILING               Attn:    Sam Gabor/ Tom Cumming
+THIS DOCUMENT              Phone:    403.298.1938
+                           Fax:      403.263.9193
+                           Email:    sam.gabor@gowlingwlg.com /
+                                     tom.cumming@gowlingw\g.com
+                           File No.: 010010664
+
+
+DATE ON WHICH ORDER WAS PRONOUNCED:                      January 22, 2025
+
+LOCATION WHERE ORDER WAS PRONOUNCED: Edmonton, Alberta
+JUSTICE WHO MADE THIS ORDER:                             The Honourable Justice J.T.
+                                                         Nielson in Commercial Chambers
+
+                 UPON THE APPLICATION of Cleo Energy Corp. (the "Applicant"), filed
+January 20, 2025; AND UPON reading Affidavit of Chris Lewis, sworn January 20, 2025,
+and the Affidavit of Service of Sherry Langley, sworn January 21, 2025; AND UPON reading
+the Second Report of Alvarez & Marsal Canada Inc. in its capacity as proposal trustee of the
+Applicant (in such capacity, the "Proposal Trustee") dated January 20, 2025 (the "Second
+Report"); AND UPON hearing submissions by counsel for the Applicant, counsel for the
+Proposal Trustee and any other counsel or other interested parties present,
+
+
+
+
+66219532\4
+LEGAL_CAL:16465465. l
+IT IS HEREBY ORDERED AND DECLARED THAT:
+
+1.     The time for service of the notice of application for this order (the "Order") is hereby
+       abridged and deemed good and sufficient and this application is properly returnable today,
+       and no other than those persons served is entitled to service of the notice of application.
+
+2.     The sale and solicitation process ("Sale Process") commenced by the Applicant prior to
+       the granting of this Order, as described in the Second Report and as attached hereto as
+       Appendix "A", is commercially reasonable and is hereby approved.
+
+3.     The Applicant, with the assistance of and in consultation with the Proposal Trustee, is
+       hereby authorized and directed to conduct the Sale Process, and do all things reasonably
+        necessary to give full effect thereto and carry out its obligations thereunder, including
+       taking any additional steps or executing additional documents as may be necessary or
+        desirable in order to carry out and complete the Sale Process and a transaction or
+        transactions thereunder.
+
+4.     Nothing herein shall act as authorization or approval of the transfer or vesting of any or all
+        of the Applicant's property, assets or undertakings under any agreement negotiated in
+        connection with the Sale Process, or otherwise. Such transfer and vesting shall be dealt
+        with and shall be subject to further Order of this Court.
+
+5.      The Applicant and the Proposal Trustee are hereby authorized and empowered to apply to
+        this Court to amend, vary or seek any advice, directions or the approval or vesting of any
+        transaction in connection with the Sale Process.
+
+6.      This Court hereby requests the aid and recognition of any court, tribunal, regulatory, or
+        administrative body having jurisdiction in Canada or in any of its provinces or territories
+        or in any foreign jurisdiction, to act in aid of and to be complimentary to this Court in
+        carrying out the terms of this Order, to give effect to this Order, and to assist the Proposal
+        Trustee and its agents in carrying out the terms of this Order. All courts, tribunals, and
+        regulatory and administrative bodies are hereby respectfully requested to make such order
+        and to provide such assistance to the Proposal Trustee, as an officer of the Court, as may
+
+
+
+
+66219532\4
+       be necessary or desirable to give effect to this Order or to assist the Proposal Trustee and
+       its agents in carrying out the terms of this Order.
+
+7.     Service of this Order shall be deemed good and sufficient:
+
+       (a)     by serving same on the persons who were served with notice of this Application
+               and any other parties attending or represented at the hearing of this Application;
+               and
+
+       (b)     by posting a copy of this Order on the Proposal Trustee's website as:
+
+                       https://wvvw.alvarezandrnarsal.com/content/CLEO
+
+8.     Service of this Order on any other person is hereby dispensed with.
+
+9.      Service of this Order may be effected by facsimile, electronic mail, personal delivery or
+        courier. Service is deemed to be effected the next business day following transmission or
+        delivery of this Order.
+
+
+
+
+                                                             J.C.K.B.A.
+
+
+
+
+66219532\4
+             APPENDIX "A"
+
+
+
+
+66219532\4
+                              SALE AND SOLICITATION PROCESS
+
+                                            Introduction
+
+1.      On December 8, 2024, CLEO Energy Corp. (the "Company") filed a notice of intention to
+        make a proposal (a "NOi") under the Bankruptcy and Insolvency Act, RSC 1985, c B-3,
+        as amended (the "BIA") with the Office of the Superintendent of Bankruptcy (the "OSB").
+        Alvarez & Marsal Canada Inc. was appointed as proposal trustee of the Company (in such
+        capacity, the "Proposal Trustee").
+
+2.      The Company and the Proposal Trustee intend to commence this sale and solicitation
+        process (the "SSP") in order to solicit interest in the purchase of or investment in all or part
+        of the business or operations of the Company or its undertaking, property and assets (the
+        "Property"), and within a reasonable period following the launch of the SSP seek an Order
+        of the Court of King's Bench of Alberta (the "Court") approving and ratifying the SSP. The
+        Company has engaged Sayer Energy Advisors ("Sayer") to act as the sale advisor to the
+        Company and Proposal Trustee in the SSP.
+
+3.      The SSP as described herein shall, together with any order issued by the Court pertaining
+        to the SSP, exclusively govern the process for soliciting and selecting bids in connection
+        with the SSP.
+
+4.      Mr. Chris Lewis, the president and sole director of the Company, has informed the
+        Proposal Trustee that he does not currently intend to directly or indirectly participate in
+        any purchase from or investment in the Company pursuant to the SSP, and has
+        undertaken to notify the Proposal Trustee if that should change at any time during the
+        proceedings under the BIA. In such an event, the Proposal Trustee will conduct the SSP,
+        with the advice of Sayer, but without consulting the Company and the Proposal Trustee
+        will establish the appropriate ethical walls with Mr. Lewis and the Company to protect
+        confidential information with respect to any offers received in the SSP.
+
+5.      The offer submission and evaluation stage of the SSP will, as more fully described herein,
+        be comprised of a two-phase process:
+
+        (a)     Phase 1 - the submission and evaluation of non-binding letters of intent (a "Non-
+                Binding LOI") from Qualified Bidders; and
+
+        (b)     Phase 2 - the submission and evaluation of binding offers from bidders that have
+                submitted a Non-Binding LOI and that have been invited to submit a Bid.
+
+6.      All dollar amounts expressed herein, unless otherwise noted, are in Canadian currency.
+
+7.      Unless otherwise indicated herein, any event that occurs on a day that is not a Business
+        Day shall be deemed to occur on the next Business Day.
+
+                                            Defined Terms
+
+8.      All capitalized terms used herein and not otherwise defined shall have the meaning given
+        to them in Schedule "A" hereto.
+
+
+
+
+66219741\1
+                                                -2-
+
+
+                                 Sale and Solicitation Process
+
+9.     The SSP describes, among other things:
+
+       (a)     the manner in which prospective bidders may gain access to due diligence
+               materials concerning the business, operations, or Property of the Company;
+
+        (b)    the guidelines for the ultimate selection of the Successful Bid and Back-Up Bid, as
+               applicable; and,
+
+        (c)    the process for obtaining such approvals (including the approval of the Court) as
+               may be necessary or appropriate in respect of the Successful Bid and the Back-
+               up Bid, as applicable.
+
+                                         Conduct of SSP
+
+10.     The Company shall conduct the SSP in consultation with and with the assistance of the
+        Proposal Trustee and Sayer. In the event there is a disagreement regarding or clarification
+        required as to the interpretation or application of the SSP or the responsibilities of any
+        Person hereunder, upon application of the Company, the Proposal Trustee or any other
+        interested Person, the Court will have jurisdiction to hear such matters and provide advice
+        and directions.
+
+11.     Notwithstanding that the SSP contemplates that a transaction will be concluded by way of
+        an asset purchase, participants may propose alternative transaction or investment
+        structures in connection with the SSP, including but not limited to transactions to refinance,
+        reorganize, or recapitalize the Company or a reverse vesting order transaction.
+
+12.     Participants in the SSP shall be responsible for all costs, expenses and liabilities incurred
+        by them in connection with the submission of any Bid, including in respect of all due
+        diligence activities or other actions undertaken by such participant, whether or not they
+        lead to the consummation of a transaction.
+
+13.     The SSP does not and will not be interpreted to create any contractual or other legal
+        relationship between the Company, the Proposal Trustee or any Potential Bidder, Bidder,
+        Qualified Bidder, Successful Bidder, Back-up Bidder or any other Person, other than as
+        specifically set forth in a definitive agreement that may be entered into with the Company.
+
+                                         "As Is, Where Is"
+
+14.     Any transaction involving the Company and the Property will be on an "as is, where is"
+        basis without surviving representations, warranties, covenants or indemnities of any kind,
+        nature, or description by the Company, the Proposal Trustee, Sayer or any of their
+        respective agents, estates, advisors, professionals or otherwise, other than as specifically
+        set forth in a definitive agreement that may be entered into with the Company.
+
+                            Free of Any and All Claims and Interests
+
+15.     All of the right, title and interest of the Company in and to any Property sold or transferred
+        in connection with the SSP will, at the time of such sale or transfer, be sold or transferred
+        free and clear of all pledges, liens, security interests, encumbrances, claims, charges,
+
+
+66219741\1
+                                                  -3-
+
+
+        options and interests pursuant to an approval and vesting order made by the Court under
+        Section 65.13(7) of the BIA.
+
+                                               Timeline
+
+16.     The following table sets out key milestones and anticipated deadlines for the SSP:
+
+                        MILESTONE
+              Commencement Date
+
+              Non-Binding LOI Submission Date       February 27, 2025, or such later date as
+                                                    determined by the Proposal Trustee in
+                                                    consultation with the Com an and Sa er
+              Binding Bid Submission Date           March 13, 2025, or such later date as
+                                                    determined by the Proposal Trustee in
+                                                    consultation with the Com an and Sa er
+              Bid Approval Application              Week of March 24, 2025, or as soon thereafter
+                                                    as Court time can be confirmed, or such later
+                                                    date as determined by the Proposal Trustee in
+                                                    consultation with the Com an and Sa er
+              Target Closing Date                   March 31, 2025, or 3 days after Court approval
+                                                    is obtained
+              Outside Date                          A ril 17, 2025
+
+                                         Solicitation of Interest
+
+17.     The SSP will be commenced by the Company and Sayer, in consultation with the Proposal
+        Trustee, compiling a list of potential bidders (the "Known Potential Bidders"). Such list
+        can include both strategic and financial parties who, in the reasonable business judgment
+        of the Company, Sayer and the Proposal Trustee, may be interested in and have the
+        financial capacity to make a Qualified Bid.
+
+18.     For the purposes of the SSP, the following Persons shall be considered potential bidders
+        (each, a "Potential Bidder"): (i) the Known Potential Bidders, and (ii) any other Person
+        that executes and delivers the documents listed in paragraph 23 and is permitted by the
+        Company or the Proposal Trustee, in consultation with Sayer, to participate in the SSP.
+
+19.     The Company, with the assistance of Sayer and the Proposal Trustee, shall:
+
+        (a)     prepare a teaser letter describing the SSP and inviting interested participants to
+                express their interest in the SSP (the "Teaser");
+
+        (b)     prepare a non-disclosure agreement ("NOA"), a template Non-Binding LOI and a
+                Template APA; and
+
+        (c)     gather all required due diligence materials, including information relating to the
+                business, operations, or Property of the Company, and establish a virtual data
+                room (the "VDR") containing same.
+
+        Further, (i) Sayer and the Company shall contact Known Potential Bidders to determine
+        their interest in the SSP by forwarding them a Teaser and, if interested, providing such
+        party with a copy of the SSP and the NOA; and (ii) Sayer shall publish a notice regarding
+
+66219741\1
+                                                -4-
+
+
+       the SSP in the Daily Oil Bulletin, Insolvency Insider and any other publications or
+       newswires as determined by the Proposal Trustee.
+
+20.    The Company, Sayer and the Proposal Trustee will grant access to the VDR to any
+       Potential Bidder that executes and delivers the NOA to the Company and Sayer. Access
+       to the VDR will be granted as soon as reasonably practicable following the delivery of the
+       NOA.
+
+21.     Neither the Company, the Proposal Trustee, Sayer, nor any of their respective advisors
+        make any representation or warranty as to the information contained in the VDR, or other
+        information to be provided through the due diligence process or otherwise, except to the
+        extent contemplated under any definitive document negotiated with a Successful Bidder
+        or Back-Up Bidder which is executed and delivered by the Company and approved by the
+        Court.
+
+                                              Phase 1
+
+22.     A Potential Bidder who wishes to participate in this SSP must deliver a Non-Binding LOI
+        to the Proposal Trustee, with a copy to the Company and Sayer, at the e-mail addresses
+        specified in Schedule "B" hereto, by the Non-Binding LOI Submission Date.
+
+23.     A Non-Binding LOI will be considered a qualified LOI (a "Qualified LOI") only if the Non-
+        Binding LOI:
+
+        (a)    is submitted to the Proposal Trustee on or before the Non-Binding LOI Submission
+               Date;
+
+        (b)    specifies:
+
+                  (i)    the total proposed consideration payable in the transaction;
+
+                 (ii)    the identity, the type, and the jurisdiction of organization of the Potential
+                         Bidder;
+
+                 (iii)   the contact information for such Potential Bidder;
+
+                 (iv)    full disclosure of the direct and indirect owners and principals of the
+                         Potential Bidder;
+
+                 (v)     confirmation that the Potential Bidder has a subsisting business associate
+                         code issued through Petrinex and has general eligibility to acquire and
+                         hold licenses or approvals for wells, facilities and pipelines through the
+                         Alberta Energy Regulator; and
+
+                 (vi)    such financial disclosure and credit quality support or enhancement that
+                         allows the Proposal Trustee to make a reasonable determination as to
+                         the Potential Bidder's financial and other capabilities to consummate a
+                         transaction; and
+
+        (c)    includes an executed letter acknowledging receipt of the SSP and agreeing to
+               accept and be bound by the provisions contained therein.
+
+
+66219741\1
+                                               -5-
+
+
+24.    The Proposal Trustee, in consultation with the Company and Sayer, will assess all Non-
+       Binding LOl's submitted on or before the Non-Binding LOI Submission Date. If it is
+       determined by the Proposal Trustee that
+
+        (a)    a Potential Bidder: (i) has complied with each of the requirements described in
+               paragraph 23, (ii) has a bona fide interest in concluding a transaction, and (iii) has
+               the financial wherewithal to conclude a transaction, then such Potential Bidder may
+               be deemed a "Qualified Bidder" and advanced to Phase 2; or
+
+        (b)    no Qualified LOl's have been submitted or, alternatively, that no Qualified LOI is
+               likely to result in a Successful Bid (as defined below), the Proposal Trustee, in
+               consultation with the Company and Sayer, may immediately terminate the SSP.
+
+25.     The Proposal Trustee shall notify all Potential Bidders that deliver a Non-Binding LOI to
+        the Proposal Trustee whether or not they have been designated as a Qualified Bidder.
+
+                                             Phase 2
+
+26.     Qualified Bidders shall be entitled to conduct further due diligence prior to submitting a
+        binding bid (a "Bid"). Such further due diligence shall, at the discretion of the Proposal
+        Trustee, include on-site inspections or meetings with the senior management of the
+        Company.
+
+27.     A Qualified Bidder that wishes to make a Bid must deliver their Bid to the Proposal Trustee,
+        with a copy to Sayer and the Company (provided that the Company or Mr. Lewis is not
+        considered a Qualified Bidder), at the e-mail addresses specified in Schedule "B" hereto,
+        by no later than the Binding Bid Submission Date.
+
+28.     Bids submitted to the Proposal Trustee for consideration must comply with all of the
+        following requirements, and any such complying Bid shall be a "Qualified Bid":
+
+        (a)    Template: Each Bid must be submitted in the form of a template agreement of
+               purchase and sale (the "Template APA"), a copy of which shall be provided in the
+               VDR;
+
+        (b)    Purchase Price: Each Bid must clearly set forth the purchase price in Canadian
+               dollars, stated on a total enterprise value basis (including the cash and non-cash
+               components thereof);
+
+        (c)     Binding Bid Submission Date: Each Bid must be received on or before 12:00 pm
+                (Calgary time) on the Binding Bid Submission Date;
+
+        (d)     Irrevocable Offer: Each Bid must include a letter stating that the Bid is irrevocable
+                until approval of the Successful Bid or Back-up Bid by the Court, as applicable,
+                provided that if such Bidder is selected as the Successful Bidder or Back-up
+                Bidder, the Bid shall remain irrevocable until the closing of a transaction;
+
+        (e)     Executed Documents: Each Bid must be accompanied by a duly authorized and
+                executed form of transaction document, an electronic Word copy of such
+                agreement, a marked-up version showing all edits to the transaction document as
+                compared to the Template APA, as well as duly authorized and executed
+
+
+66219741\1
+                                              -6-
+
+
+             documents necessary to effectuate the transactions contemplated thereby, which
+             specifies, at a minimum:
+
+               (i)    Identity: Each Bid must fully disclose the identity of each entity that will be
+                      sponsoring or participating in the Bid and the complete terms of such
+                      participation;
+
+              (ii)    Contact Information: Each Bid must contain contact information for any
+                      business, financial or legal advisors retained or to be retained in
+                      connection with the proposed transaction;
+
+              (iii)   Deposit: Each Bid must be accompanied by a deposit (the "Deposit") in
+                      the form of a wire transfer to a non-interest bearing account specified by
+                      the Proposal Trustee, payable to the order of the Proposal Trustee, on
+                      behalf of the Company, in trust, in an amount equal to fifteen (15%)
+                      percent of the cash consideration contemplated by the Bid or as otherwise
+                      contemplated in any fully executed transaction document, to be held and
+                      dealt with in accordance with the terms of the SSP;
+
+              (iv)    Financial Wherewithal: Each Bid must include:
+
+                      A.      written evidence of a firm, irrevocable commitment for financing,
+                              or other evidence of ability to consummate the proposed
+                              transaction, that will allow the Proposal Trustee to make a
+                              reasonable determination as to the Qualified Bidder's financial
+                              and other capabilities to consummate the transaction, fund the
+                              business,    and implement post-Closing measures and
+                              transactions; and
+
+                      B.      the identification of any Person or entity who may provide debt or
+                              equity financing for the Bid and any material conditions to be
+                              satisfied in connection with such financing;
+
+               (v)    Authorization: Each Bid must include evidence, in form and substance
+                      reasonably satisfactory to the Proposal Trustee, of authorization and
+                      approval from the Qualified Bidder's board of directors (or comparable
+                      governing body) with respect to the submission, execution, delivery and
+                      Closing of the transaction contemplated by the Bid;
+
+              (vi)    No Other Authorization, Diligence, Financing Conditions: A Bid may not
+                      be conditional upon the following:
+
+                      A.      any internal approval(s);
+
+                      B.      the outcome of unperformed due diligence by the Qualified Bidder;
+                              or
+
+                      C.      obtaining financing;
+
+              (vii)   Regulatory Approvals: Each Bid must be in compliance with Alberta
+                      Energy Regulator requirements and outline any anticipated regulatory
+
+
+66219741\1
+                                               -7-
+
+
+                        and other approvals required to close the transaction, and the anticipated
+                        time frame and any anticipated impediments for obtaining such approvals
+                        and confirms that the Qualified Bidder will make and submit all necessary
+                        and applicable regulatory filings and pay all fees associated therewith;
+
+               (viii)   Disclaimer of Fees: Each Bid must disclaim any right to receive a fee
+                        analogous to a break-up fee, expense reimbursement, termination fee, or
+                        any other similar form of compensation;
+
+                (ix)    Timeline: Each Bid must provide a timeline to Closing with critical
+                        milestones and shall confirm that the Qualified Bidder will use
+                        commercially reasonable efforts to Close by the Target Closing Date;
+
+                 (x)    Confirmation of no collusion: Each Bid should include confirmation by the
+                        Qualified Bidder that it has not engaged in any discussions or any other
+                        collusive behaviour with any other Qualified Bidder regarding the SSP or
+                        any Bids submitted or contemplated to be submitted in the SSP; -and
+
+                (xi)    Other Information: Each Bid must contain such other information as may
+                        be reasonably required to evaluate the Bid or as may be requested by the
+                        Proposal Trustee from time to time.
+
+29.     Notwithstanding anything herein to the contrary, the Proposal Trustee, the Company and
+        Sayer will review each Bid to assess whether they are Qualified Bids, with the final
+        decision resting with the Proposal Trustee, following consultation with the Company and
+        Sayer. In performing such review and assessment, the Bids will be evaluated based on
+        the following non-exhaustive list of considerations:
+
+        (a)    the purchase price and net value (including assumed liabilities and other
+               obligations to be assumed or otherwise performed by the Qualified Bidder);
+
+        (b)    the firm, irrevocable commitment for financing of the transaction;
+
+        (c)    the claims likely to be created by such Bid in relation to other Bids;
+
+        (ct)   the counterparties to the transaction;
+
+        (e)    the terms of transaction documents;
+
+        (f)    the Closing conditions and other factors affecting the speed, certainty and value of
+               the transaction (including any regulatory approvals required to close the
+               transaction);
+
+        (g)    planned treatment of stakeholders;
+
+        (h)    the assets or liabilities included or excluded from the Bid, including whether the
+               Property subject to such Bid is on a "white map" basis and includes all Property
+               within one or more bid areas delineated by Sayer;
+
+        (i)    compliance with Alberta Energy Regulator requirements;
+
+
+
+
+66219741\1
+                                                -8-
+
+
+        U)     any restructuring costs that would arise from the Bid;
+
+        (k)    the likelihood and timing of consummating the transaction,
+
+        (I)    the financing or cash pro forma available post-Closing to fund the Company's
+               business; and
+
+        (m)    the capital sufficient to implement post-Closing measures and transactions.
+
+30.     The Proposal Trustee, in consultation with the Company and Sayer, may reject any Bid
+        that is (a) inadequate or insufficient; (b) not in conformity with the requirements pursuant
+        to the SSP; (c) contrary to the best interest of the Company; or (d) not a Qualified Bid;
+        provided that the Proposal Trustee may waive strict compliance with any one or more of
+        the requirements specified in the SSP and deem a non-compliant Bid to be a Qualified
+        Bid.
+
+                                   Selection of Successful Bid
+
+31.     The Proposal Trustee, in consultation with the Company and Sayer, may clarify or
+        negotiate amended terms with respect to any Qualified Bid, and such Qualified Bid may
+        be amended, modified, or varied as a result of such clarification or negotiation. For greater
+        certainty, the Proposal Trustee, in consultation with the Company and Sayer, shall be
+        entitled to request that any Qualified Bidder submit a revised bid.
+
+32.     In the event that no Qualified Bid is: (a) acceptable to the Proposal Trustee, acting
+        reasonably, or (b) likely to result in a Successful Bid (as defined below), the Proposal
+        Trustee, in consultation with the Company and Sayer, may immediately terminate the
+        SSP.
+
+33.     The Proposal Trustee, in consultation with the Company and Sayer, may, but is not
+        obligated to, select the highest or best Qualified Bid received during the SSP (the
+        "Successful Bid" and the party submitting such Successful Bid, the "Successful Bidder")
+        and has the discretion to identify and record the next highest or best Qualified Bid (the
+        "Back-Up Bid" and the party submitting such Back-Up Bid, the "Back-Up Bidder"). For
+        greater certainty, the Proposal Trustee shall have no obligation to select a Successful Bid
+        or Back-Up Bid and expressly reserves the right to reject any or all Qualified Bids.
+
+34.     If a Successful Bid, and Back-Up Bid, as applicable, is selected, the Proposal Trustee
+        shall advise: (a) the Successful Bidder and the Back-Up Bidder of such determination, and
+        (b) all other Qualified Bidders that they are not a Successful Bidder or Back-Up Bidder.
+
+                                    Bid Approval Application
+
+35.     The Company shall take all necessary steps to implement the transaction contemplated
+        by the Successful Bid and either the Company or the Proposal Trustee shall apply to the
+        Court (the "Bid Approval Application") for an Order approving the Successful Bid and
+        authorizing the Company to enter into any and all necessary agreements with respect to
+        the Successful Bid and to undertake such other actions as may be necessary or
+        appropriate to implement and give effect to the Successful Bid.
+
+
+
+
+66219741\1
+                                               -9-
+
+
+36.    The hearing of the Bid Approval Application will be held as soon as practical after the
+       selection of the Successful Bid. The Bid Approval Application may be adjourned or
+       rescheduled by the Company or the Proposal Trustee, as applicable.
+
+37.    All Qualified Bids (other than the Successful Bid and the Back-Up Bid) will be deemed
+       rejected on the date the Successful Bid is approved by the Court.
+
+                                  Closing the Successful Bid
+
+38.    The Company and the Successful Bidder shall take all reasonable steps to complete the
+       transaction contemplated by the Successful Bid by the Target Closing Date, and in any
+       event no later than the Outside Date, unless otherwise agreed by the parties.
+
+39.    If the transaction contemplated by the Successful Bid does not close for any reason, the
+       Proposal Trustee, in consultation with the Company and Sayer, may elect to seek to
+       complete the transaction contemplated by the Back-Up Bid and will promptly seek to Close
+       the transaction contemplated by the Back-Up Bid. The Back-Up Bid will be deemed to be
+       the Successful Bid and the Company will be deemed to have accepted the Back-Up Bid
+       only when the Proposal Trustee has made such election and provided written notice of
+       such determination to the Successful Bidder and the Back-Up Bidder.
+
+                                             Deposits
+
+40.     All Deposits shall be retained by the Proposal Trustee in a trust account with a chartered
+        bank in Canada. The Deposit (without interest thereon) paid by the Successful Bidder and
+        Back-Up Bidder, as applicable, whose Qualified Bid(s) is/are approved at the Bid Approval
+        Application will be applied to the purchase price to be paid by the Successful Bidder and/or
+        Back-Up Bidder, as applicable, upon Closing of the approved transaction, and will be non-
+        refundable other than as set out in the Successful Bid or the Back-Up Bid, as applicable.
+
+41.     The Deposits of Qualified Bidders not selected as the Successful Bidder or Back-Up
+        Bidder will be returned to such Qualified Bidders within five (5) Business Days of the date
+        the Successful Bid or the Back-Up Bid is approved by the Court. The Deposit of the Back-
+        Up Bidder, if any, shall be returned to such Back-Up Bidder no later than five (5) Business
+        Days after Closing of a transaction with the Successful Bidder.
+
+42.     If the Successful Bidder or Back-up Bidder, as applicable, breaches its obligations under
+        the terms of the SSP, its Deposit shall be considered non-refundable and forfeited as
+        liquidated damages and not as a penalty.
+
+43.     If the Company is unable to complete the Successful Bid as a result of its own actions and
+        not as a result of steps or conditions contained in the Successful Bid (or the actions of the
+        Successful Bidder), then the Deposit shall be returned to the Successful Bidder.
+
+                                               Notice
+
+44.     The addresses used for delivering documents as prescribed by the terms and conditions
+        of the SSP are set out in Schedule "B" hereto. All documents required to be delivered to
+        the Company and Sayer or the Proposal Trustee pursuant to the SSP shall be delivered
+        to the Company and Sayer and the Proposal Trustee by e-mail, personal delivery, or by
+
+
+
+66219741\1
+                                               - 10 -
+
+
+       courier. Persons requesting information about the SSP should contact the Proposal
+       Trustee at the contact information contained in Schedule "B".
+
+                                           Amendment
+
+45.    The Proposal Trustee, in consultation with the Company and Sayer, shall have the right
+       to modify the SSP, including any deadlines set out herein, if, in its reasonable business
+       judgment such modification will enhance the process or better achieve the objectives of
+       the SSP.
+
+                                            Credit Bid
+
+46.    Any secured creditor of the Company, including an interim financing lender, shall be
+       entitled to participate in this SSP as a credit bidder (the "Credit Bidder"). Any credit bid
+       submitted by a Credit Bidder shall be based on the form of the Template APA, with such
+       changes as are appropriate for credit bids (the "Credit Bid").
+
+47.     For the purposes of any Credit Bid submitted by a Credit Bidder, such Credit Bidder shall
+        be entitled to credit all or any portion of its secured indebtedness but must either:
+
+        (a)    irrevocably pay, in cash and in full, all of the obligations in priority (the "Priority
+               Obligations") to the Credit Bidder's secured indebtedness, including for reference
+               any amounts that are priority charges (the "Priority Charges") created in the
+               Proposal Proceedings (namely, the Administration Charge, the D&O Charge or
+               any DIP Charge (as defined in the Court's January 6, 2025 Order or any
+               subsequent Order)); or
+
+        (b)    assume or otherwise satisfy any of the Priority Obligations on terms and conditions
+               acceptable to the beneficiary of the security for such Priority Obligations (except
+               for the Administration Charge, the D&O Charge or the DIP Charge (if applicable),
+               which must be paid in cash and in full if there are amounts owing on them at the
+               conclusion of the Proposal Proceedings).
+
+48.     Any Credit Bid shall be accompanied by a Deposit sent by wire transfer to the Proposal
+        Trustee. Any such Deposit is to be held by the Proposal Trustee and dealt with in
+        accordance with the SSP.
+
+                                          Further Orders
+
+49.     The Proposal Trustee may at any time apply to the Court for advice and directions with
+        respect to the discharge of its powers and duties hereunder, including to terminate the
+        SSP if deemed to be necessary by the Proposal Trustee, acting reasonably.
+
+
+
+
+66219741\1
+                                         Schedule "A"
+
+                                         Defined Terms
+
+"Back-Up Bid" has the meaning given to it in paragraph 33.
+
+"Back-Up Bidder" has the meaning given to it in paragraph 33.
+
+"BIA" has the meaning given to it in paragraph 1.
+
+"Bid" has the meaning given to it in paragraph 26.
+
+"Bid Approval Application" has the meaning given to it in paragraph 35.
+
+"Binding Bid Submission Date" has the meaning given to it in paragraph 16.
+
+"Business Day" means a day (other than Saturday or Sunday) on which banks are generally
+open for business in Calgary, Alberta.
+
+"Closing" means the completion of the transaction contemplated by the Successful Bid.
+
+"Company" has the meaning given to it in paragraph 1.
+
+"Court" has the meaning given to it in paragraph 2.
+
+"Credit Bid" has the meaning given to it in paragraph 46.
+
+"Credit Bidder" has the meaning given to it in paragraph 46.
+
+"Deposit" has the meaning given to it in paragraph 28(e)(iii).
+
+"Known Potential Bidders" has the meaning given to it in paragraph 17.
+
+"NOA" has the meaning given to it in paragraph 19(b).
+
+"NOi" has the meaning given to it in paragraph 1.
+
+"Non-Binding LOI" has the meaning given to it in paragraph 5(a).
+
+"Non-Binding LOI Submission Date" has the meaning given to it in paragraph 16.
+
+"OSB" has the meaning given to it in paragraph 1.
+
+"Outside Date" has the meaning given to it in paragraph 16.
+
+"Person" will be broadly interpreted and includes, without limitation: (i) a natural person, whether
+acting in his or her own capacity, or in his or her capacity as executor, administrator, estate
+trustee, trustee or personal or legal representative, and the heirs, executors, administrators,
+estate trustees, trustees or other personal or legal representatives of a natural person; (ii) a
+corporation or a Company of any kind, a partnership of any kind, a sole proprietorship, a trust, a
+joint venture, an association, an unincorporated association, an unincorporated syndicate, an
+
+
+66219741\1
+unincorporated organization or any other association, organization or entity of any kind; and (iii)
+a governmental authority.
+
+"Potential Bidder" has the meaning given to it in paragraph 18.
+
+"Priority Charges" has the meaning given to it in paragraph 47(a).
+
+"Priority Obligations" has the meaning given to it in paragraph 47(a).
+
+"Property" means all of the Company's current and future assets, undertakings, and properties
+of every nature and kind whatsoever, and wherever situate, including all proceeds thereof.
+
+"Proposal Proceedings" means collectively the proceedings commenced by the Company upon
+the filing of a notice of intention to make a proposal on December 8, 2024, as applicable, in Court
+and Estate No.: B301-163430.
+
+"Proposal Trustee" has the meaning given to it in paragraph 1.
+
+"Qualified Bid" has the meaning given to it in paragraph 28.
+
+"Qualified Bidder" has the meaning given to it in paragraph 24(a).
+
+"Qualified LOI" has the meaning given to it in paragraph 23.
+
+"Sayer" has the meaning given to it in paragraph 2.
+
+"SSP" has the meaning given to it in paragraph 2.
+
+"Successful Bid" has the meaning given to it in paragraph 33.
+
+"Successful Bidder" has the meaning given to it in paragraph 33.
+
+"Target Closing Date" has the meaning given to it in paragraph 16.
+
+"Teaser" has the meaning given to it in paragraph 19(a).
+
+"Template APA" has the meaning given to it in paragraph 28(a).
+
+"VDR" has the meaning given to it in paragraph 19(c).
+
+
+
+
+66219741\1
+                                               Schedule "B"
+
+                                                  Notice
+
+
+        (a)       If to the Company:
+
+                  CLEO Energy Corp.
+                  117 8 Ave SW #200
+                  Calgary, AB T2P 1B4
+                  Attention:    Chris Lewis
+                  E-mail:       clewis@cleoenergy.com
+
+        with a copy to:
+
+                  GowlingWLG
+                  Suite 1600, 421 7 Ave SW
+                  Calgary, AB T2P 4K9
+                  Attention:    Sam Gabor/ Tom Cumming
+                  E-mail:       sam.gabor@gowlingwlg.com / tom.cumming@gowlingwlg.com
+
+        (b)       If to the Proposal Trustee
+
+                  Alvarez & Marsal Canada Inc.
+                  Bow Valley Square IV
+                  Suite 1110, 250 - 6th Avenue SW
+                  Calgary, AB T2P EH?
+                  Attention:    Orest Konowalchuk / David Williams
+                  E-mail:       okonowalchuk@alvarezandmarsal.com /
+                                david.williams@alvarezandmarsal.com
+
+              with a copy to:
+
+                  Miller Thomson LLP
+                  525-8 th Avenue SW, 43RD Floor
+                  Eighth Avenue Place East
+                  Calgary, AB T2P 1G1
+                  Attention:     James Reid
+                  Email:         jwreid@millerthomson.com
+
+        (c)        If to Sayer
+
+                   Sayer Energy Advisors
+                   1620, 540 5th Avenue SW
+                   Calgary, AB T2P 0M2
+                   Attention:    Tom Pavic, CFA, President
+                   Email:        TPavic@sayeradvisors.com
+
+
+
+
+66219741\1
+ This is Exhibit "E" referred to in the Affidavit of
+ Greg Thompson sworn before me this 26th day of
+ May, 2025
+
+
+
+
+ A COMMISSIONER FOR OATHS IN AND FOR
+ BRITISH COLUMBIA
+
+
+               AARON DOW
+               Barrister• Solicitor
+        LAWSON LUNDELL LLP
+         1800 - 1631 Dickson Avenue
+           Kelowna, BC V1Y 085
+
+
+
+
+840117.182617.AET.27763263.1
+                                                                                              C209
+
+
+COURT FILE NO.              B301-163430
+
+COURT                       COURT OF KING'S BENCH OF ALBERTA
+
+JUDICIAL CENTRE             CALGARY
+
+                            IN THE MATTER OF THE BANKRUPTCY AND INSOLVENCY ACT, RSC
+                            1985, C B-3, AS AMENDED
+                            AND IN THE MATTER OF THE NOTICE OF INTENTION TO MAKE A
+                            PROPOSAL OF CLEO ENERGY CORP.
+
+APPLICANT                   CLEO ENERGY CORP.
+
+DOCUMENT                    ORDER (Stay Extension, Interim Financing, Interim Financing Charge
+                            and Other Relief)
+
+ADDRESS FOR                 Gowling WLG (Canada) LLP
+SERVICE AND                 1600, 421- 7th Avenue SW
+CONTACT                     Calgary, AB T2P 4K9
+INFORMATION OF
+PARTY FILING THIS           Attn:         Sam Gabor/ Tom Cumming
+DOCUMENT                    Phone:        403.298.1946/ 403.298.1938
+                            Fax:          403.263.9193
+                            Email:       !3i:t.m_.,_g0c.l?.m:@g9._~yJjngydg,_<:,Q1Xl.L tom .cum rn ing@gmvl in£.wl g,_<:;_Q_m
+                            File No.:     G10010664
+
+DATE ON WHICH ORDER WAS PRONOUNCED:                                        February 19, 2025
+
+LOCATION WHERE ORDER WAS PRONOUNCED:                                       Calgary, Alberta
+
+JUSTICE WHO MADE THIS ORDER:                                               The Honourable Justice                  M.J.         Lema   in
+                                                                           Commercial Chambers
+
+             UPON THE APPLICATION of Cleo Energy Corp. ("Cleo") filed December 23, 2024; AND
+UPON reading the Affidavit of Chris Lewis sworn February 10, 2025 (the "Affidavit"), and the Affidavit of
+Service of Sherry Langley, sworn February 13, 2025; AND UPON reading the Third Report of Alvarez &
+Marsal Canada Inc. in its capacity as proposal trustee of Cleo (in such capacity, the "Proposal Trustee")
+dated February 12, 2025; AND UPON hearing submissions by counsel for Cleo, the Proposal Trustee,
+counsel for the Proposal Trustee and any other counsel or other interested pmiies present;
+
+IT IS HEREBY ORDERED AND DECLARED THAT:
+
+SERVICE
+
+1.     The time for service of the notice of application for this order (the "Order") is hereby abridged and deemed
+       good and sufficient and this application is properly returnable today, and no other than those persons served
+       is entitled to service of the notice of application.
+
+66715167\2
+                                                        2
+
+
+EXTENSION OF TIME TO FILE A PROPOSAL
+
+2.     The time within which Cleo is required to file a proposal to its creditors with the Official Receiver under
+       section 50.4 of the Bankruptcy and Insolvency Act, RSC 1985, c B-3 (the "BIA") is hereby extended to
+       April 4, 2025 (as extended from time to time, the "Filing Period").
+
+INTERIM FINANCING
+
+3.     The increase in the maximum principal amount that Cleo is authorized to borrow under the interim
+       financing facility provided for in the commitment letter dated January 5, 2025 between uCapital - uLoan
+       Solutions Inc. ("uCapital") and Cleo to $1,000,000 is hereby authorized and the second amending
+       agreement dated February 10, 2025 providing for such increase is hereby approved.
+
+4.     Paragraph 6 of the Order of the Honourable Justice M.J. Lema pronounced January 6, 2025 is hereby
+        amended to increase the principal amount of the Interim Lender's Charge in favour of uCapital from
+        $900,000 to $1,000,000, together with any interest accrued thereon or costs and expenses incurred
+       thereunder.
+
+GENERAL
+
+5.      Service of this Order may be effected by facsimile, electronic mail, personal delivery or courier to the
+        service list (the "Service List") in the proceedings. Service is deemed to be effected the next business day
+        following transmission or delivery of this Order.
+
+6.      This Order shall be posted on the Proposal Trustee's website for these proceedings at:
+        https://www.a!varezandmarsal.com/CLEO.
+
+
+
+
+                                                       J.C.K.B.A.
+
+
+
+
+66715167\2
+ This is Exhibit "F" referred to in the Affidavit of
+ Greg Thompson sworn before me this 26th day of
+ May, 2025
+
+
+
+
+ A COMMISSIONER FOR OATHS IN AND FOR
+ BRITISH COLUMBIA
+                     AARON DOW
+                     Barrister• Solicitor
+              LAWSON LUNDELL LLP
+               1800 - 1631 Dickson Avenue
+                 Kelowna, BC V1Y 0B5
+
+
+
+
+840117.182617.AET.27763263.1
+COURT FILE NO.                B301-163430
+
+COURT                          COURT OF KING'S BENCH OF ALBERTA
+
+JUDICIAL CENTRE                CALGARY
+
+                               IN THE MATTER OF THE BANKRUPTCY AND INSOLVENCY ACT, RSC
+                               1985, C B-3, AS AMENDED
+
+                               AND IN THE MATTER OF THE NOTICE OF INTENTION TO MAKE A
+                               PROPOSAL OF CLEO ENERGY CORP.
+
+APPLICANT                      CLEO ENERGY CORP.
+
+DOCUMENT                       ORDER (Stay Extension)
+
+ADDRESS FOR                    Gowling WLG (Canada) LLP
+SERVICE AND                    1600, 421 - 7th Avenue SW
+CONTACT                        Calgary, AB T2P 4K9
+INFORMATION OF
+PARTY FILING THIS              Attn:        Sam Gabor/ Tom Cumming
+DOCUMENT                       Phone:      403.298.1946 / 403.298.1938
+                               Fax:        403.263.9193
+                               Email:      sam.gabor@gowlingwlg.com / tom.cumming@gowlingwlg.com
+                               File No.:   G10010664
+
+DATE ON WHICH ORDER WAS PRONOUNCED:                                    March 25, 2025
+
+LOCATION WHERE ORDER WAS PRONOUNCED:                                   Calgary, Alberta
+
+JUSTICE WHO MADE THIS ORDER:                                           The Honourable Justice M.H. Bourque
+                                                                       in Commercial Chambers
+
+                 UPON THE APPLICATION of Cleo Energy Corp. ("Cleo") filed December 23, 2024 for
+an order extending the time within which a proposal must be filed;
+
+                 AND UPON reading the Affidavit of Chris Lewis sworn March 17, 2025 (the "Affidavit"),
+the Affidavit of Service of Sherry Langley, sworn March 21, 2025 and the Fourth Report of Alvarez
+& Marsal Canada Inc. in its capacity as proposal trustee of Cleo (in such capacity, the "Proposal
+Trustee") dated March 19, 2025; AND UPON hearing submissions by counsel for Cleo, the Proposal
+Trustee, counsel for the Proposal Trustee and any other counsel or other interested parties present,
+
+ IT IS HEREBY ORDERED THAT:
+
+1.        The time for service of the notice of application for this order (the "Order") is hereby abridged and
+          deemed good and sufficient and this application is properly returnable today, and no other than those
+          persons served is entitled to service of the notice of application.
+
+LEGAL_CAL: 16465465.1
+                                                     2
+
+2.      The time within which Cleo is required to file a proposal to its creditors with the Official Receiver
+        under section 50.4 of the Bankruptcy and Insolvency Act, RSC 1985, c B-3 (the "BIA") is hereby
+        extended to May 9, 2025 (as extended from time to time, the "Filing Period").
+
+3.      Service of this Order may be effected by facsimile, electronic mail, personal delivery or courier to
+        the service list (the "Service List") in the proceedings. Service is deemed to be effected the next
+        business day following transmission or delivery of this Order.
+
+4.      This Order shall be posted on the Proposal Trustee's website for these proceedings at:
+        https ://www.alvarczandmarsal.com/CLEO.
+
+
+
+
+67485742\1
+This is Exhibit "G" referred to in the Affidavit of
+Greg Thompson sworn before me this 26th day of
+May, 2025
+
+
+
+
+A COMMISSIONER FOR OATHS IN AND FOR
+BRITISH COLUMBIA
+                     AARON DOW
+                     Barrister• Solicitor
+             LAWSON LUNDELL LLP
+              1800 - 1631 Dickson Avenue
+                Kelowna, BC V1Y OBS
+
+
+
+
+840117.182617.AET.27763263.1
+COURT FILE NO.             B301-163430
+
+COURT                      COURT OF KING'S BENCH OF ALBERTA
+
+JUDICIAL CENTRE            CALGARY
+
+                           IN THE MATTER OF THE BANKRUPTCY AND INSOLVENCY ACT, RSC
+                           1985, C B-3, AS AMENDED
+
+                           AND IN THE MATTER OF THE NOTICE OF INTENTION TO MAKE A
+                           PROPOSAL OF CLEO ENERGY CORP.
+
+APPLICANT                   CLEO ENERGY CORP.
+
+DOCUMENT                    ORDER (Stay Extension)
+
+ADDRESS FOR                 Gowling WLG (Canada) LLP
+SERVICE AND                 1600, 421 - 7th Avenue SW
+CONTACT                     Calgary, AB T2P 4K9
+INFORMATION OF
+PARTY FILING THIS           Attn:       Sam Gabor / Tom Cumming
+DOCUMENT                                403.298.1946 I 403.298.1938
+                            Phone:
+                            Fax:        403.263.9193
+                            Email:      sam.gabor@gowli112:w]g.com / tom .cumming(ci),gowlingw]g.com
+                            File No.:    G10010664
+
+DATE ON WHICH ORDER WAS PRONOUNCED:                                April 30, 2025
+
+LOCATION WHERE ORDER WAS PRONOUNCED:                                Calgary, Alberta
+
+JUSTICE WHO MADE THIS ORDER:                                        The Honourable Justice Armstrong in
+                                                                    Commercial Chambers
+
+             UPON THE APPLICATION of Cleo Energy Corp. ("Cleo") filed April 22, 2025 for an
+order extending the time within which a proposal must be filed;
+
+             AND UPON reading the Affidavit of Chris Lewis sworn April 22, 2025 (the "Affidavit"),
+the Affidavit of Service of Sherry Langley, sworn April 29, 2025 and the Fifth Report of Alvarez &
+Marsal Canada Inc. in its capacity as proposal trustee of Cleo (in such capacity, the "Proposal
+Trustee") dated April 24, 2025; AND UPON hearing submissions by counsel for Cleo, the Proposal
+Trustee, counsel for the Proposal Trustee and any other counsel or other interested parties present,
+
+IT IS HEREBY ORDERED THAT:
+
+1.     The time for service of the notice of application for this order (the "Order") is hereby abridged and
+       deemed good and sufficient and this application is properly returnable today, and no other than those
+       persons served is entitled to service of the notice of application.
+
+68124668\1
+2.     The time within which Cleo is required to file a proposal to its creditors with the Official Receiver
+       under section 50.4 of the Bankruptcy and Insolvency Act, RSC 1985, c B-3 (the "BIA") is hereby
+       extended to June 8, 2025 (as extended from time to time, the "Filing Period").
+
+3.      Service of this Order may be effected by facsimile, electronic mail, personal delivery or courier to
+       the service list (the "Service List") in the proceedings. Service is deemed to be effected the next
+       business day following transmission or delivery of this Order.
+
+4.      This Order shall be posted on the Proposal Trustee's website for these proceedings at:
+        https://www.alvarezandmarsal.com/CLEO.
+
+
+
+
+68124668\1
+This is Exhibit "H" referred to in the Affidavit of
+Greg Thompson sworn before me this 26th day of
+May, 2025
+
+
+
+
+A COMMISSIONER FOR OATHS IN AND FOR
+BRITISH COLUMBIA
+
+                   AARON DOW
+                   Barrister• Solicitor
+            LAWSON LUNDELL LLP
+             1800 - 1631 Dickson Avenue
+               Kelowna, BC V1Y OBS
+
+
+
+
+840117.182617.AET.27763263.1
+Docusign Envelope ID: 1FDE566A-14BF-409E-87D7-AA18194BC40B
+
+
+
+
+            January 5, 2025
+
+            Chris Lewis
+            Cleo Energy Corp.
+            200-117 8 Ave SW
+            Calgary, Alberta T2P 1B4
+
+             RE:          Debtor-in-Possession Financing
+
+             Dear Chris,
+
+            Cleo Energy Corp. (the "Borrower") has initiated restructuring proceedings under the Bankruptcy and
+            Insolvency Act R.S.C., 1985, c. B-3 (the "BIA"). The Court of King's Bench of Alberta (the "Court") has
+            jurisdiction over such proceedings. Further, Alvarez & Marsal Canada Inc. ("A&M") has been appointed as
+            Proposal Trustee in the BIA proceedings.
+
+             Based on the information provided by the Borrower, uCapital - uLoan Solutions Inc. (the "Lender") is
+             prepared to offer the Borrower, debtor-in-possession financing in the amount of up to $750,000.00 (the "DIP
+             Loan") according to the terms and conditions set forth in this letter of offer (the "Letter of Offer").
+
+
+              LOAN PURPOSE                                           FUNDING
+              Financing of the day-to-day             $750,000.00    DIP Loan to be disbursed in       $750,000.00
+              expenses and professional fees                         accordance with the
+              of the Borrower and A&M in                             Disbursement Procedure
+              accordance with the cash flow                          below.
+              projection approved and
+              recommended by A&M and
+              filed with the Court in support of
+              the request for DIP financing
+              (the "Cash Flow Projection"),
+              attached hereto as Schedule
+              "A" (the "Project"), subject to
+              the terms and conditions of this
+              Letter of Offer.
+                                                      $750,000.00                                       $750,000.00
+
+
+
+             Neither the Project nor the terms and conditions of the DIP Loan may be changed without the prior written
+             consent of the Lender. The amount of the DIP Loan may only be applied to this Project.
+
+
+              Amount of Loan                       $750,000.00
+
+              Authorization Date                   January 5, 2025
+
+
+
+
+             EN_TS_V2.1
+             81814033.3
+             65818900\1
+Docusign Envelope ID: 1FDE566A-14BF-409E-87D7-AA18194BC40B
+
+
+
+
+             Term                              The term of the DIP Loan shall be that period commencing on the date of
+                                               issuance of the DIP Order (as hereinafter defined) and ending on the
+                                               earliest of (such ending date, the "Maturity Date"):
+
+                                               (a)   May 8th , 2025, or such other date as agreed to between the parties;
+
+                                               (b)   the termination of the BIA proceedings; or
+
+                                               (c)   the occurrence of an Event of Default (as hereinafter defined).
+
+             Disbursement Procedure            The DIP Loan shall be disbursed as required and in accordance with the
+                                               Cash Flow Projection, commencing within two-business days of the DIP
+                                               Order being granted.
+
+                                               In addition to the conditions precedent and underlying conditions set forth
+                                               in this Letter of Offer, the Borrower agrees that each disbursement shall
+                                               be conditional upon the fulfilment of each of the following conditions to
+                                               the satisfaction of the Lender:
+
+                                               (a)   the Borrower shall have given the Lender, in the form set out in
+                                                     Schedule "B" attached hereto, a draw notice signed by an officer of
+                                                     the Borrower confirming that the said disbursement falls within the
+                                                     Cash Flow Projection; and
+
+                                               (b)   A&M shall confirm that the disbursement requested in the draw
+                                                     notice is compliant with the terms and conditions of this Letter of
+                                                     Offer.
+
+              Repayment                        On the Maturity Date, the Borrower shall repay the entire outstanding
+                                               principal amount of the DIP Loan in full, together with any accrued
+                                               interest, fees and expenses without deduction or set-off.
+
+                                               During the Term, the Borrower may repay any principal amount of the DIP
+                                               Loan without penalty provided the minimum amount of any such
+                                               repayment is no less than $25,000.00. The amount of the DIP Loan shall
+                                               automatically be reduced by the amount of such repayment and any
+                                               repaid amount may not subsequently be reborrowed.
+
+              Interest                          Interest is payable monthly, at a rate of 3% per month.
+
+              Payment of Interest              The Borrower shall pay the interest calculated monthly at the rate and in
+                                               the manner set out in this Letter of Offer on the 26 th day of each month or
+                                               the following business day if the 26 th falls on a non-business day in
+                                               Alberta.
+              Fees                              Onpayment in full of the DIP Loan, an additional $50,000 fee will be
+                                                earned and payable, in full.
+
+
+
+
+                                                                                                              Page 2 of 11
+             81814033.3
+             65818900\1
+Docusign Envelope ID: 1FDE566A-14BF-409E-87D7-AA18194BC40B
+
+
+
+
+             Security                          As a specific and continuous guarantee of the performance by the
+                                               Borrower of all their obligations toward the Lender under this term sheet
+                                               (including the payment of principal, interest, fees and any other sums),
+                                               the Borrower agrees to grant the following security:
+
+                                               (a)   a Court authorized first-ranking, valid, enforceable financing charge
+                                                     with priority over all creditors of the Borrower, in an amount to match
+                                                     the anticipated draws required by the Borrower from the Lender
+                                                     from time to time as prescribed by the Cash Flow Projection, which
+                                                     shall not exceed $900,000.00 (the "DIP Charge") charging all the
+                                                     property, assets and undertakings of the Borrower granted pursuant
+                                                     to the DIP Order (as hereinafter defined) that includes standard
+                                                     debtor-in-possession terms and conditions satisfactory to the
+                                                     Lender acting reasonably, pursuant to section 50.6(1) of the BIA, as
+                                                     the case may be, subject only to an administration charge not to
+                                                     exceed $700,000 (the "Administration Charge")
+
+                                                     (collectively, the "DIP Lender Security")
+
+              DIP Documentation                All documentation with respect to the DIP Loan, including the DIP Lender
+                                               Security and DIP Order (as defined hereafter) (collectively, the "DIP Loan
+                                               Documentation") shall be in form and substance acceptable to the
+                                               Lender.
+
+              Conditions Precedent             Prior to any disbursement, the following conditions precedent will have
+                                               been met in a manner satisfactory to the Lender at its sole discretion:
+
+                                               (a)   the Borrower is subject to restructuring proceedings under the BIA;
+
+                                               (b)   the Borrower has obtained an order made by the Court (the "DIP
+                                                     Order") in form and content satisfactory to the Lender, which DIP
+                                                     Order shall include, among other things: (a) the approval of the DIP
+                                                     Loan and all the terms and conditions hereof; (b) authorizing the
+                                                     Borrower to borrow on the terms and conditions outlined in this
+                                                     Letter of Offer and approving same; (c) creating various court-
+                                                     ordered priority charges including (i) the granting of the DIP Charge
+                                                     in favour of the Lender as security over all present and future
+                                                     assets, property and undertaking of the Borrower notwithstanding
+                                                     the terms and conditions of any other agreement to which the
+                                                     Borrower is a party; (ii) the granting of the Administration Charge
+                                                     not to exceed $700,000 without the approval of the Court; (d)
+                                                     prohibiting the granting of any additional liens, charges, security
+                                                      interests or any other encumbrances upon any of the assets,
+                                                      property or undertaking of the Borrower, without the prior written
+                                                      consent of the Lender; (e) granting the Lender the right, upon the
+                                                      Maturity Date, to enforce the rights and remedies available to it,
+                                                      upon five (5) days written notice to the Borrower and to A&M and
+                                                      their respective legal counsel, pursuant to the DIP Order, this Letter
+
+
+
+                                                                                                                Page 3 of 11
+             81814033.3
+             65818900\1
+Docusign Envelope ID: 1FDE566A-14BF-409E-87O7-AA 18194BC40B
+
+
+
+
+                                                       of Offer, the DIP Lender Security, and any additional rights and
+                                                       remedies available to it, at law or in equity; (f) prohibiting any further
+                                                       borrowing by the Borrower, without the prior written consent of the
+                                                       Lender; (g) authorizing (but not obligating) the Lender to effect such
+                                                       registrations, filings and recordings wherever the Lender in its
+                                                       discretion deems appropriate regarding the DIP Loan
+                                                       Documentation including the DIP Lender Security and the DIP
+                                                       Charge; (h) declaring that the granting of the security by the
+                                                       Borrower provided for in the DIP Loan Documentation including the
+                                                       DIP Lender Security and the DIP Charge and the execution and
+                                                       delivery of all other documents and instruments contemplated
+                                                       herein, the payment of all amounts by the Borrower to the Lender,
+                                                       including any and all fees and interest, and the actions taken to
+                                                       perfect and record the DIP Lender Security do not constitute
+                                                       fraudulent preferences, fraudulent conveyances, transfers at
+                                                       undervalue, conduct meriting an oppression remedy, or other
+                                                       transactions which might be challenged or reviewed under
+                                                       applicable federal or provincial legislation; (i) declaring the DIP
+                                                       Order, and the DIP Charge granted thereunder, binding upon a
+                                                       trustee in bankruptcy of the Borrower, a proposal trustee, a monitor,
+                                                       a receiver, an interim-receiver, a receiver-manager or any other
+                                                       officer of the Court each a "Receiver"); 0) staying any other secured
+                                                       or unsecured creditor from exercising any rights against the
+                                                        Borrower and its property, without further order of the Court; and
+                                                        (m) such other terms and conditions as the Lender may reasonably
+                                                        deem necessary or appropriate;
+
+                                                (c)    the DIP Order shall be in full force and effect; final and non-
+                                                       appealable; and shall not have been reversed, stayed, modified,
+                                                       amended or varied, without the express written consent of the
+                                                       Lender; and no application or motion shall have been made to the
+                                                       Court for any stay, modification or amendment of the DIP Order;
+
+                                                (d)    no Event of Default (as hereinafter defined) shall have occurred;
+
+                                                 (e)   the Lender has received A&M's report pursuant to subsection
+                                                       50.4(2) of the BIA with respect to the Cash Flow Projection. The
+                                                       conclusions of A&M's report shall be satisfactory to the Lender;
+
+                                                 (f)   the Cash Flow Projection shall have been reviewed by A&M, A&M
+                                                       shall have confirmed to the Lender that it is satisfied therewith, and
+                                                       the Lender shall be satisfied with the Cash Flow Projection and such
+                                                       confirmation, acting reasonably;
+
+                                                 (g)   the Borrower's counsel shall provide a letter on its letterhead
+                                                       providing a description of the DIP Charge and the priority provided
+                                                       under the DIP Order, including as against the Canada Revenue
+                                                       Agency, the Alberta Energy Regulator and other potential creditors,
+
+
+
+                                                                                                                    Page 4 of 11
+              81814033.3
+              65818900\1
+Docusign Envelope ID: 1FDE566A-14BF-409E-87O7-AA18194BC40B
+
+
+
+
+                                                     which letter shall be subject to such qualifications as the Borrower's
+                                                     counsel considers appropriate, acting reasonably; and
+
+                                               (h)   the board of directors of the Lender shall have by resolution
+                                                     approved this Letter of Offer.
+
+             Underlying Conditions             During the Term of the DIP Loan, the following underlying conditions shall
+                                               be met in a manner satisfactory to the Lender at its sole discretion:
+
+                                               (a)   the Borrower shall only use the DIP Loan for the purposes set out
+                                                     in this Letter of Offer, unless otherwise agreed to in writing by the
+                                                     Lender;
+
+                                               (b)   the Borrower shall comply with any order made by the Court;
+
+                                               (c)   the Borrower shall diligently continue its restructuring proceedings
+                                                     under the BIA;
+
+                                               (d)   the Borrower shall not pay any interest, dividends, salaries,
+                                                     remuneration, management fees or any other form of payments or
+                                                     distributions to the shareholders of the Borrower without the prior
+                                                     written consent of the Lender;
+
+                                               (e)   the Borrower shall comply with the financial projections set forth in
+                                                     the Cash Flow Projection;
+
+                                               (f)   the Borrower shall provide such documents or information to the
+                                                     Lender as the Lender shall reasonably request, which shall be
+                                                     provided within a reasonable time according to the circumstances;
+
+                                               (g)   the Borrower shall authorize A&M to disclose to the Lender any
+                                                     financial or other information of which it is aware;
+
+                                               (h)   the Borrower shall provide written notice of an occurrence (an
+                                                     "Occurrence") of a default under a material contract to which the
+                                                     Borrower is a party which is likely to have a material adverse effect
+                                                     or of an Event of Default (as defined below) together with any notice,
+                                                     letter or other document (a "Default Notice") received by the
+                                                     Borrower from a third party advising of an Occurrence, within three
+                                                     days of the date of the Occurrence or of receipt of the Default
+                                                     Notice;
+
+                                               (i)   the Borrower shall maintain the current insurance coverage over its
+                                                     assets and property and designate the Lender as loss payee as its
+                                                     interest may appear; and
+
+                                               U)    the Borrower shall not sell, transfer, assign or deal in any way with
+                                                     any of its property, assets or undertaking out of the ordinary course
+                                                     of business, without the prior written consent of the Lender or an
+
+
+
+                                                                                                               Page 5 of 11
+             81814033.3
+             65818900\1
+Docusign Envelope ID: 1FDE566A-14BF-409E-87O7-AA18194BC40B
+
+
+
+
+                                                     order of the Court.
+
+             Events of Default                 In addition to the events of default set out in the DIP Lender Security, the
+                                               following events shall constitute events of default (each, an "Event of
+                                               Default"):
+
+                                               (a)   if the Borrower fails to pay to the Lender when due any amount of
+                                                     principal, interest, fees or other amounts under the DIP Loan,
+                                                     whether by acceleration or otherwise;
+
+                                               (b)   if the Borrower defaults in the observance or performance of any
+                                                     underlying condition or covenant contained in this Letter of Offer or
+                                                     the DIP Lender Security;
+
+                                               (c)   if the Borrower deviates materially from the Cash Flow Projection;
+
+                                               (d)   if the Lender determines, acting reasonably, that a material adverse
+                                                     change has occurred after the date hereof in respect of the
+                                                     business, affairs or financial condition of the Borrower;
+
+                                               (e)   if DIP Order is varied without the written consent of the Lender or
+                                                     any other order is made which is or may be prejudicial to the
+                                                     Lender's interests;
+
+                                               (f)   if the Borrower fails to pay, when due, any statutory liens, trusts and
+                                                     other Crown claims including employee source deductions, GST
+                                                     and any payments required by any work place safety legislation,
+                                                     wages, vacation pay and insurance premiums;
+
+                                               (g)   if the stay of proceedings granted to the Borrower pursuant to the
+                                                     restructuring proceedings under the BIA, as the case may be, is
+                                                     terminated; or
+
+                                               (h)   if any person challenges the enforceability of any of the rights of the
+                                                     Lender hereunder or pursuant to any of the DIP Lender Security and
+                                                     any such challenge has not been dismissed or determined by the
+                                                     Court within the BIA proceedings, as the case may be, within 15
+                                                     days.
+
+              Remedies                         Upon the Maturity Date, the Lender may immediately terminate the DIP
+                                               Loan and enforce, upon five (5) Business Days written notice to the
+                                               Borrower and A&M, all of its rights and remedies against the Borrower
+                                               and its property, assets and undertaking including, without limitation, the
+                                               enforcement of the DIP Lender Security and the ability to apply to the
+                                               Court for the appointment of a Receiver; and all amounts outstanding
+                                               under the DIP Loan shall immediately become due and payable without
+                                               further notice, demand or delay.
+
+
+
+
+                                                                                                               Page 6 of 11
+             81814033.3
+             65818900\1
+Docusign Envelope ID: 1 FDE566A-14BF-409E-87D7-AA 18194BC40B
+
+
+
+
+              Other Costs                       In addition, any and all costs, charges, and expenses (including, without
+                                                limitation, lawyers' fees as between solicitor and his own client, on a full
+                                                indemnity basis, as well as accounting, appraisal, environmental and
+                                                consulting fees) incurred by the Lenders in connection with the
+                                                restructuring proceedings, the DIP Loan, the DIP Loan Documentation,
+                                                the DIP Lender Security, the DIP Order, the DIP Charge, the enforcement
+                                                of any rights and remedies regarding the aforementioned and the
+                                                restructuring of the Borrower including, are for the account of the
+                                                Borrower.
+
+              Governing Law                      This Letter of Offer as well as the interpretation and exercise of the
+                                                 recourses hereunder shall be subject to and governed by the laws of the
+                                                 Province of Alberta and the laws of Canada applicable therein.
+
+              Further Assurances                 Upon notice from the Lender, the Borrower shall sign (or cause to be
+                                                 signed) all further documents, do (or cause to be done) all further acts,
+                                                 and provide all reasonable assurances as the Lender may reasonably
+                                                 require to give effect to this Letter of Offer and the financing contemplated
+                                                 hereunder.
+
+              Amendments                         This Letter of Offer may only be amended by a written agreement signed
+                                                 by the Lender and the Borrower.
+
+              Counterparts                       This Letter of Offer may be signed in any number of counterparts and by
+                                                 facsimile or portable electronic document format, each of which when
+                                                 taken together shall constitute one and the same original document.
+
+              Binding                            This Letter of Offer is a binding loan agreement subject to the terms and
+                                                 conditions herein.
+
+
+
+
+                                                                                                                 Page 7 of 11
+              81814033.3
+              65818900\1
+Docusign Envelope ID: 1FDE566A-14BF-409E-87O7-AA 18194BC40B
+
+
+
+
+             Thank you for giving us the opportunity to discuss our ability to meet your financing requirements. We look
+             forward to continuing to work with you.
+
+
+             Yours truly,
+
+                Signedby:
+
+
+
+            G
+            ;:;;;;if: -
+                AEDAD144AE06465 ...
+
+              uCapital - uLoan Solutions Inc
+              Greg Thompson
+              Partner
+
+
+
+
+                                                                                                            Page 8 of 11
+              81814033.3
+              65818900\1
+Docusign Envelope ID: 1FDE566A-14BF-409E-87D7-AA 18194BC40B
+
+
+
+
+                                                              ACCEPTANCE
+
+
+
+             To:      uCapital - uLoan Solutions Inc.
+
+                      Attention: Greg Thompson
+
+
+             We certify that all the information provided to the Lender is true, we accept the terms set forth herein and
+             we acknowledge receipt of a copy of this Letter of Offer and the schedules forming part thereof.
+
+             Accepted on January _5_, 2025.
+
+
+
+               CLEO E ~
+                      CO G Y
+
+               Per:    (     ~
+                      -~-------~-------
+                       Name:
+                       Title:
+
+
+
+
+                                                                                                             Page 9 of 11
+             81814033.3
+             65818900\1
+Docusign Envelope ID: 1FDE566A-14BF-409E-87D7-AA 18194BC40B
+
+
+
+
+                                                              Schedule "A"
+
+                                                     CASH FLOW PROJECTION
+
+
+
+
+                                                                             Page 10 of 11
+              81814033.3
+              65818900\1
+Docusign Envelope ID: 1FDE566A-14BF-409E-87D7-AA 18194BC40B
+
+
+
+
+                                                              Schedule "B"
+
+                                                              DRAW NOTICE
+
+
+
+             To:       uCapital - uLoan Solutions Inc.
+
+                       Attention: Greg Thompson
+
+
+             RE:       Debtor-in-Possession Financing
+
+             Dear Sir,
+
+             I refer you to the Letter of Offer of debtor-in-possession financing entered into on January 5, 2025 between
+             Cleo Energy Corp as Borrower and uCapital - uLoan Solutions Inc., as DIP Lender. Capitalized terms which
+             are used but not defined in this draw notice have the meaning given to them in the Letter of Offer.
+
+             We confirm our draw notice concerning a disbursement as follows:
+
+              Amount of disbursement:           $
+
+              Disbursement date:
+
+
+             As of the date hereof, we confirm that the representations made or given in the DIP Loan are still true and
+             accurate in all material respects, that the said disbursement falls within the Cash Flow Projection and that
+             no Event of Default has occurred.
+
+             We also confirm the execution of the previous draw by each of the parties.
+
+
+                CLEO ENERGY CORP.
+
+                Per:
+                       -----------------
+                        Name:
+                         Title:
+
+
+
+
+                                                                                                            Page 11 of 11
+             81814033.3
+             65818900\1
+ This is Exhibit "I" referred to in the Affidavit of
+ Greg Thompson sworn before me this 26th day of
+ May, 2025
+
+
+
+
+ A COMMISSIONER FOR OATHS IN AND FOR
+ BRITISH COLUMBIA
+                AARON DOW
+               Barrister• Solicitor
+        LAWSON LUNDELL LLP
+         1800 - 1631 Dickson Avenue
+           Kelowna, BC V1Y 0B5
+
+
+
+
+840117.182617.AET.27763263.1
+January 6, 2025
+
+Chris Lewis
+Cleo Energy Corp.
+200-117 8 Ave SW
+Calgary, Alberta T2P 1B4
+
+RE:     Debtor-in-Possession Financing
+
+Dear Chris,
+
+We refer to the offer letter dated this January 6, 2025 (the "Letter of Offer") pursuant to which uCapital - uLoan
+Solutions Inc. (the "Lender") has agreed to provide Cleo Energy Corp. (the "Borrower") with a debtor-in-
+possession financing of up to $750,000.00 (the "DIP Loan") during the pendency of the Borrower's restructuring
+proceedings under the Bankruptcy and Insolvency Act, R.S.C. 1985, c. B-3 (the "BIA").
+
+The Letter of Offer stipulated that interest is payable monthly at a rate of 3% per month, but the equivalent annual
+rate of 36% per annum was inadvertently not included. Therefore, the Borrower and Lender hereby agree to
+amend the interest provision of the Letter of Offer to read as follows:
+
+        "Interest is payable monthly, at a rate of 3% per month or 36% per annum."
+
+If you are in agreement with the amendment set out above, please sign the acceptance set out below.
+
+
+Yours truly,
+
+
+
+ uCapital - uLoan Solutions Inc
+ Greg Thompson
+ Partner
+
+
+
+
+65820790\1
+                                                     -2-
+
+                                               ACCEPTANCE
+
+To:     uCapital - uLoan Solutions Inc.
+
+       Attention: Greg Thompson
+
+
+We agree to the amendment to the Letter of Offer set out above.
+
+
+Accepted on January 6, 2025.
+
+
+
+
+:::OE~  Name: Chris Lewis
+        Title: Executive Chairman and CEO
+
+
+
+
+65820790\1
+This is Exhibit "J" referred to in the Affidavit of
+Greg Thompson sworn before me this 26th day of
+May, 2025
+
+
+
+
+A COMMISSIONER FOR OATHS IN AND FOR
+BRITISH COLUMBIA
+
+                 AARON DOW
+                Barrister• Solicitor
+         LAWSON LUNDELL LLP
+          1800 - 1631 Dickson Avenue
+            Kelowna, BC V1Y 0B5
+
+
+
+
+840117.182617.AET.27763263.1
+February 10, 2025
+
+Chris Lewis
+Cleo Energy Corp.
+200-117 8 Ave SW
+Calgary, Alberta T2P 1B4
+
+RE:     Debtor-in-Possession Financing
+
+Dear Chris,
+
+We refer to the offer letter dated this January 5, 2025 (as amended by the first amendment dated January 6, 2025,
+the "Letter of Offer") pursuant to which uCapital - uLoan Solutions Inc. (the "Lender") provided to Cleo Energy
+Corp. (the "Borrower") a debtor-in-possession interim financing facility (the "DIP Loan") in the aggregate
+maximum principal amount of $750,000 (the "Maximum Principal Amount") during the pendency of the
+Borrower's restructuring proceedings under Division I of Part Ill 'Of the Bankruptcy and Insolvency Act, R.S.C.
+1985, c. B-3 (the "BIA"). Capitalized terms in this second amending agreement (this "Amendment").
+
+The Maximum Principal Amount is hereby increased by $250,000 to $1,000,000. All other terms of the
+Commitment Letter remain in full force and effect, unamended except as specified in this Amendment.
+
+The increase in the Maximum Principal Amount shall only become effective upon the satisfaction of the following
+conditions precedent:
+
+        (a)     the Borrower shall have executed and delivered to the Lender the acceptance to this Amendment
+                set out below; and
+
+        (b)     the Borrower shall have obtained an order of the Court that will, among on things, extend the time
+                within which the a proposal must be filed under the BIA, approve this Amendment and the increase
+                in the Maximum Principal Amount contemplated hereby, and increase the maximum principal
+                amount of the DIP Charge to $1,000,000 plus fees, costs and interest accruing thereon.
+
+If you are in agreement with the terms and provisions of this Amendment, please sign the acceptance set out
+below.
+
+
+Yours truly,
+
+
+
+ uCapital - uLoan Solutions Inc
+ Greg Thompson
+ Partner
+
+
+
+
+66542572\2
+                                                     -2-
+
+                                               ACCEPTANCE
+
+To:     uCapital - uloan Solutions Inc.
+
+       Attention: Greg Thompson
+
+
+We agree to the amendment to the Letter of Offer set out above.
+
+
+Accepted on February 10, 2025.
+
+
+CLEOEN~
+
+Per:     ~
+        Name:    Christopher Lewis
+        Title:
+
+
+
+
+66542572\2
+This is Exhibit "K" referred to in the Affidavit of
+Greg Thompson sworn before me this 26th day of
+May, 2025
+
+
+
+
+ A COMMISSIONER FOR OATHS IN AND FOR
+ BRITISH COLUMBIA
+
+                 AARON DOW
+                Barrister• Solicitor
+         LAWSON LUNDELL LLP
+          1800 - 1631 Dickson Avenue
+            Kelowna, BC V1 Y 0B5
+
+
+
+
+840117.182617.AET.27763263.1
+                                               Schedule "B"
+
+                                              DRAW NOTICE
+To:    uCapital - uLoan Solutions Inc.
+        Attention: Greg Thompson
+
+
+ RE:    Debtor-in-Possession Financing
+
+Dear Sir,
+I refer you to the Letter of Offer of debtor-in-possession financing entered into on January 5, 2025 between
+Cleo Energy Corp as Borrower and uCapital - uLoan Solutions Inc., as DIP Lender. Capitalized terms which
+are used but not defined in this draw notice have the meaning given to them in the Letter of Offer.
+
+We confirm our draw notice concerning a disbursement as follows:
+
+ Amount of disbursement:        $275,000
+
+ Disbursement date: January 8, 2025
+
+
+As of the date hereof, we confirm that the representations made or given in the DIP Loan are still true and
+accurate in all material respects, that the said disbursement falls within the Cash Flow Projection and that
+no Event of Default has occurred.
+
+
+We also confirm the execution of the previous draw by each of the parties.
+
+
+CLEO ENERGY CORP.
+
+
+
+
+Name: Chris Lewis
+Title: Executive Chairman
+                                                Schedule "B"
+
+                                              DRAW NOTICE
+To:    uCapital - uLoan Solutions Inc.
+        Attention: Greg Thompson
+
+
+ RE:    Debtor-in-Possession Financing
+
+Dear Sir,
+I refer you to the Letter of Offer of debtor-in-possession financing entered into on January 15, 2025 between
+Cleo Energy Corp as Borrower and uCapital - uLoan Solutions Inc., as DIP Lender. Capitalized terms which
+are used but not defined in this draw notice have the meaning given to them in the Letter of Offer.
+
+We confirm our draw notice concerning a disbursement as follows:
+
+ Amount of disbursement:        $275,000
+
+ Disbursement date: January 15, 2025
+
+
+As of the date hereof, we confirm that the representations made or given in the DIP Loan are still true and
+accurate in all material respects, that the said disbursement falls within the Cash Flow Projection and that
+no Event of Default has occurred.
+
+
+We also confirm the execution of the previous draw by each of the parties.
+
+
+CLEO ENERGY CORP.
+
+
+~p
+Name: Chris Lewis
+Title: Executive Chairman
+                                                Schedule "B"
+
+                                               DRAW NOTICE
+
+To:          uCapital - uLoan Solutions Inc.
+Attention:   Greg Thompson
+
+RE: Debtor-in-Possession Financing
+
+Dear Sir,
+
+I refer you to the Letter of Offer of debtor-in-possession financing entered into on January 15, 2025
+between Cleo Energy Corp as Borrower and uCapital - uLoan Solutions Inc., as DIP Lender. Capitalized
+terms which are used but not defined in this draw notice have the meaning given to them in the Letter of
+Offer.
+
+We confirm our draw notice concerning a disbursement as follows:
+
+Amount of disbursement: $ 200,000
+Disbursement date: February 5, 2025
+
+As of the date hereof, we confirm that the representations made or given in the DIP Loan are still true and
+accurate in all material respects, that the said disbursement falls within the Cash Flow Projection and that
+no Event of Default has occurred.
+
+We also confirm the execution of the previous draw by each of the parties.
+
+
+CLEO ENERGY CORP.
+
+
+
+
+Name: Chris Lewis
+Title: Executive Chairman
+                                                Schedule "B"
+
+                                              DRAW NOTICE
+To:    uCapital - uLoan Solutions Inc.
+        Attention: Greg Thompson
+
+
+ RE:    Debtor-in-Possession Financing
+
+Dear Sir,
+I refer you to the Letter of Offer of debtor-in-possession financing entered into on January 15, 2025 between
+Cleo Energy Corp as Borrower and uCapital - uLoan Solutions Inc., as DIP Lender. Capitalized terms which
+are used but not defined in this draw notice have the meaning given to them in the Letter of Offer.
+
+We confirm our draw notice concerning a disbursement as follows:
+
+ Amount of disbursement:        $250,000
+
+ Disbursement date: February 20, 2025
+
+
+As of the date hereof, we confirm that the representations made or given in the DIP Loan are still true and
+accurate in all material respects, that the said disbursement falls within the Cash Flow Projection and that
+no Event of Default has occurred.
+
+
+We also confirm the execution of the previous draw by each of the parties.
+
+
+CLEO ENERGY CORP.
+
+
+
+~
+Name: Chris Lewis
+Title: Executive Chairman
+  Account Number: 509579            Collateral:      2025 Debtor in Possession Asset Backed LOC Asset Backe(
+  Borrower:       Cleo Energy Corp Co-Borrower: None
+
+
+
+TRANSACTIONS
+
+01/08/2025            Loan Origination                                       775,000.00
+
+01/15/2025    0       Advancement - Advance                                  275,000.00          550,000.00
+
+01/31/2025            Scheduled Payment: 1                                    10,725.00
+
+01/31/2025    6121    Payment: Paymel'I!: 01/31./20.25                        10,725.00          550,000.00
+                      INTEREST                             10,725.00
+
+02/05/2025    0       Advancement - Advance                                  200,000.00          750,000.00
+
+02/21/2025    4       Advancement• Advance                                   250,000,00        1,000,000.00
+
+02/28/2025            Scheduled Payment: 2                                    23,303.57
+
+02/28/2025    6122    Payment:
+                        ...
+                               Payment:
+                                 ...
+                                        02/25/2025
+                                         .     .
+                                                                              23,303.57        1,000,000.00
+                      INTEREST                             23,303.57
+
+03/31/2025            Scheduled Payment: 3                                    30,000.00
+
+03/31/2025     6123   Payment: Payment: 03/31/2025                            30,000.00        1,000,000.00
+                      INTEREST                             30,000.00
+
+04/30/2025            Scheduled Payment: 4                                    30,000.00
+
+04/30/2025     6124   Payment: Payment: 04/30/2025                            30,000.00        1,000,000.00
+                      INTEREST                             30,000.00
+
+05/26/2025     3049   Fee: Lender Fee                                         50,000.00
+
+05/31/2025            Scheduled Payment: 5                                  1,030,000.00
+
+05/31/2025            Forecasted Payment: 5                                 1,030,000.00                0.00
+                      INTEREST                              30,000.00
+                       PRINCIPAL                         1,000,000.00
+                                                                   ital
+
+Thank you for choosing uLoan Solutions Inc. Below are the details for paying out your loan in full:
+
+
+
+
+Client Name: Cleo Energy Corp
+
+Loan #: 509579
+
+Collateral: Debtor in Possession Asset Backed LOG CLEO ENERGY
+
+Request Date for Payout: May 26, 2025
+
+Payout Amount: $1,077,000.00
+
+Interest per diem: $1,000.00
+
+
+
+
+Please send certified funds payable to uLoan Solutions Inc. at 212 - 2900 Pandosy ST, Kelowna, BC V1Y 1V9.
+
+We can provide our banking details upon request if you prefer to pay via wire transfer or EFT. Once the funds are received,
+any liens or charges will be removed, and a confirmation can be provided if needed.
+
+If you have any questions or concerns regarding the information provided, please call the office at 250-300-3015.
+ This is Exhibit "L" referred to in the Affidavit of
+ Greg Thompson sworn before me this 26th day of
+ May, 2025
+
+
+
+
+ A COMMISSIONER FOR OATHS IN AND FOR
+ BRITISH COLUMBIA
+              AARON DOW
+              Barrister • Solicitor
+      LAWSON LUNDELL LLP
+       1800 - 1631 Dickson Avenue
+         Kelowna, BC V1Y 085
+
+
+
+
+840117.182617.AET.27763263.1
+                             BANKRUPTCY AND INSOLVENCY ACT
+                                               FORM86
+                         NOTICE OF INTENTION TO ENFORCE SECURITY
+                                      [Subsection 244(1)]
+
+TO:     CLEO ENERGY CORP. (the "Debtor")
+
+Take notice that:
+
+1.      UCAPITAL - ULOAN SOLUTIONS INC. (the "Lender"), a secured creditor, intends to
+        enforce its security on the property of the Debtor described below:
+
+        Order (Stay Extension, Administration Charge, Interim Financing, Interim Financing
+        Charge, D&O Charge and Other Relief) and Order (Stay Extension, Interim Financing,
+        Interim Financing Charge and Other Relief):
+
+            A security and charge on all of the Debtor's present and after-acquired assets,
+            property and undertakings as security for the payment and performance of the
+            indebtedness, liabilities and obligations of the Debtor to the Lender under the
+            interim financing facility pursuant to the interim financing facility commitment
+            letter dated January 5, 2025, as amended by a First Amending Agreement dated
+            January 6, 2025 and a Second Amending Agreement dated February 10, 2025.
+
+2.      The security that is to be enforced is in the form of a Court-ordered Interim Financing
+        Charge.
+
+3.      The total amount of indebtedness secured by the security is $1,082,076.50 as at May 26,
+        2025, with costs and interest continuing to accrue from and after May 26, 2025.
+
+4.      The secured creditor will not have the right to enforce the security until after the expiry of the
+        10-day period following the sending of this notice, unless the Debtor consents to an earlier
+        enforcement.
+
+         Dated at Calgary, Alberta, this 26 th day of May, 2025.
+
+                                                 UCAPIT AL - ULOAN SOLUTIONS INC.
+
+
+                                                               ®P·
+                                                 LAWSON LUNDELL LLP,
+                                                 Solicitors for uCapital - uLoan Solutions Inc.
+
+CONSENT TO EARLY ENFORCEMENT:
+
+
+
+~==T·
+Per: So...<Y\ G~o/
+Name/Title: Govv\ '':) 'vvL-G ( CiM~J~ L-,J_()
+
+                  UAN\~        'h, r Cle.a 6,n~'I. Carp.
+PERSONALAET.AET.27759202.1                     SAM G':ABOR
+                                    Barrister, Solicitor & Notary Public
+                                    in and for the Province of Alberta
+This is Exhibit "M" referred to in the Affidavit of
+Greg Thompson sworn before me this 26 th day of
+May, 2025
+
+
+
+
+A COMMISSIONER FOR OATHS IN AND FOR
+BRITISH COLUMBIA
+            AARON DOW
+            Barrister• Solicitor
+     LAWSON LUNDELL LLP
+      1800 - 1631 Dickson Avenue
+        Kelowna, BC V1Y 0B5
+
+
+
+
+840117.182617.AET.27763263.1
+                                                                      Clerk's Stamp:
+COURT FILE NUMBER
+
+COURT                           COURT OF KING'S BENCH OF ALBERTA
+
+JUDICIAL CENTRE                 CALGARY
+
+                                IN THE MATTER OF THE BANKRUPTCY AND
+                                INSOLVENCY ACT, RSC 1985, C B-3, AS AMENDED
+
+                                AND IN THE MATTER OF THE RECEIVERSHIP OF CLEO
+                                ENERGY CORP.
+
+APPLICANT                       UCAPITAL- ULOAN SOLUTIONS INC.
+
+RESPONDENT                      CLEO ENERGY CORP.
+
+DOCUMENT                        CONSENT TO ACT
+
+ADDRESS FOR SERVICE             LAWSON LUNDELL LLP
+AND CONTACT                     Barristers and Solicitors
+INFORMATION OF PARTY            Suite 1100 Brookfield Place
+FILING THIS DOCUMENT            Calgary, AB, Canada T2P 1N2
+
+                                Attention: Alexis Teasdale
+                                Telephone: 403-218-7564
+                                Email:     ateasdale@lawsonlundell.com
+
+                                File No.     840117-182617
+
+                                  CONSENT TO ACT AS RECEIVER
+
+        Alvarez & Marsal Canada Inc., hereby consents to act as the Receiver and Manager of all
+of the current and future assets, undertakings and properties of every kind and nature whatsoever,
+and wherever situate, including all proceeds thereof, of CLEO Energy Corp., in accordance with
+section 243(1) of the Bankruptcy and Insolvency Act, RSC 1985, c B-3 and section 13(2) of the
+Judicature Act, RSA 2000, and in accordance with any Order of the Court.
+
+DATED at the City of Calgary, in the Province of Alberta, this 26th day of May, 2025.
+
+                                                    ALVAREZ & MARSAL CANADA INC.
+
+
+
+
+                                                    Per:
+                                                    Name: Orest Konowalchuk, CPA, CA, CIRP, LIT
+                                                    Title: Senior Vice President
+79991034.1
+
