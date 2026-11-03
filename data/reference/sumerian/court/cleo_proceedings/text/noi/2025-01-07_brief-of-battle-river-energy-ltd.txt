@@ -1,0 +1,457 @@
+                                                                                         FILED
+                                                                                        Jan 07, 2025
+COURT FILE NUMBER                       B301-163430
+                                                                                         by Email
+COURT                                   COURT OF KING’S BENCH OF ALBERTA
+                                                                                                    C10261
+JUDICIAL CENTRE                         CALGARY
+
+MATTER                                  IN THE MATTER OF THE BANKRUPTCY AND
+                                        INSOLVENCY ACT, RSC 1985, C B-3, AS AMENDED
+                                        AND IN THE MATTER OF THE NOTICE OF INTENTION
+                                        TO MAKE A PROPOSAL OF CLEO ENERGY CORP.
+
+APPLICANT                               CLEO ENERGY CORP.
+
+DOCUMENT                                BRIEF OF BATTLE RIVER ENERGY LTD.
+
+ADDRESS FOR SERVICE AND                 DLA PIPER (CANADA) LLP
+CONTACT INFORMATION OF PARTY            1000, 250 - 2nd Street SW
+FILING THIS DOCUMENT                    Calgary Alberta T2P 0C1
+                                        Attention: Kevin Hoy
+                                        Phone: 403.698.8738
+                                        Fax: 403.776.8861
+                                        Email: kevin.hoy@dlapiper.com
+                                        File No.: 114531-00001
+
+
+
+
+                              Bench Brief of Battle River Energy Ltd.
+   Commercial List Application Scheduled before the Honourable Justice Lema, January 6, 2025
+                                                              Table of Contents
+
+
+I.         INTRODUCTION ................................................................................................................ 1
+II.        ISSUES .............................................................................................................................. 1
+III. ARGUMENT ....................................................................................................................... 2
+      A.      Battle River’s claim against Lewis is not stayed automatically by BIA s.69.31(1) ............. 2
+      B. This Court is not empowered by statutory discretion or inherent jurisdiction to grant a
+      non-party stay......................................................................................................................... 4
+      C.         There are no grounds to stay Battle River’s claims against Lewis ................................ 7
+IV. CONCLUSION .................................................................................................................... 9
+V.         INDEX OF AUTHORITIES .................................................................................................. 9
+I.           INTRODUCTION
+
+  1.         Battle River Energy Ltd. (“Battle River”) is a creditor of Cleo Energy Corp. (“Cleo”), the Applicant
+             in these proceedings.
+
+  2.         Battle River maintains claims against both Cleo and certain of its current and former senior
+             management personnel – namely, Christopher Lewis (“Lewis”), Colton Lewis, Andrew Sweerts,
+             and Kellie D’Hondt (collectively with Lewis, the “Individual Defendants”). Battle River has thus
+             commenced the action of Court File No. 2401-13128 (the “Breach of Trust Action”), wherein it
+             advances claims against Cleo for, inter alia, breach of trust, as well as claims against the Individual
+             Defendants in their personal capacities for the tort of knowing assistance in breach of trust.
+
+  3.         Lewis is a current director of Cleo. Cleo now seeks an Order staying Battle River’s claim against
+             Lewis in the Breach of Trust Action. Battle River further understands that Cleo also takes the
+             position that its filing of a Notice of Intention to Make a Proposal (an “NOI”) pursuant to section 50.4
+             of the Bankruptcy and Insolvency Act1 automatically stays Battle River’s claim against Lewis by
+             operation of BIA section 69.31.
+
+  4.         Battle River files this Brief of Law in opposition to Cleo’s position relating to the status of Battle
+             River’s claims against Lewis in the Breach of Trust Action. Herein, Battle River argues that the
+             directors’ stay set out in BIA section 69.31 is not engaged to stay claims made against a tortfeasor
+             who happens to be a director of a debtor in NOI proceedings.
+
+  5.         Battle River further argues that Cleo’s Application for non-party stay in favour of a non-applicant
+             (i.e., Lewis) relies upon jurisprudence applicable solely to the Companies’ Creditors Arrangement
+             Act2 and not to the BIA.
+
+II.          ISSUES
+
+  6.         Battle River submits that this Honourable Court must resolve the following issues:
+
+             a.       Is Battle River’s claim against Lewis in the Breach of Trust Action stayed automatically by
+                      operation of BIA section 69.31(1)?
+
+
+             b.       May this Honourable Court exercise its statutory discretion under the BIA or its inherent
+                      jurisdiction to grant non-party stays of proceedings in NOI proceedings?
+
+
+
+
+  1
+      RSC 1985, c B-3, [BIA].
+  2
+      RSC 1985, c C-36, [CCAA].
+
+                                                            1
+                    c.        If this Court is empowered to grant non-party stays, is it appropriate to grant one in favour
+                              of Lewis against Battle River’s claims in the Breach of Trust Action?
+
+
+
+III.                ARGUMENT
+
+              A. Battle River’s claim against Lewis is not stayed automatically by BIA s.69.31(1)
+
+       7.           Section 69.31(1) provides that certain claims against directors of debtors restructuring in NOI
+                    proceedings are automatically stayed upon the filing of an NOI. The provision reads:
+
+                          69.31 (1) Where a notice of intention under subsection 50.4(1) has been filed or a
+                          proposal has been made by an insolvent corporation, no person may commence or
+                          continue any action against a director of the corporation on any claim against
+                          directors that arose before the commencement of proceedings under this Act and
+                          that relates to obligations of the corporation where directors are under any law
+                          liable in their capacity as directors for the payment of such obligations, until
+                          the proposal, if one has been filed, is approved by the court or the corporation
+                          becomes bankrupt.3
+
+       8.           A plain reading of the wording of BIA section 69.31 confirms that Parliament only intended for the
+                    stay provided for therein to apply in respect of claims against directors arising when “directors are
+                    under any law liable in their capacity as directors for the payment of such obligations.”
+
+       9.           Battle River’s claims against Lewis in the Breach of Trust Action do not arise by virtue of Lewis’
+                    capacity as a director in Cleo. Rather, they arise as a consequence of Lewis’ wrongful or oppressive
+                    conduct vis-à-vis Battle River. This is to say, Lewis is being sued by Battle River not as a result of
+                    any law providing that Lewis is liable for Cleo’s debts in his capacity as a director of Cleo, but
+                    because he is a tortfeasor and is civilly liable to Battle River for damages.
+
+       10.          Per the general precept of statutory interpretation, BIA section 69.31 must be read in context with
+                    BIA section 50, which governs the general schemes for Division 1 proposals, including
+                    compromises of claims. BIA section 50(13), allows for compromises for claims against directors
+                    using wording that mirrors BIA section 69.31:
+
+                          (13) A proposal made in respect of a corporation may include in its terms provision
+                          for the compromise of claims against directors of the corporation that arose before
+                          the commencement of proceedings under this Act and that relate to the obligations
+                          of the corporation where the directors are by law liable in their capacity as
+                          directors for the payment of such obligations.4
+
+
+
+
+       3
+           BIA, supra, at s 69.31(1).
+       4
+           Ibid, at s 50(13).
+
+                                                                   2
+11.        BIA section 50(14), however, clarifies that the BIA may not be used to compromise claims against
+           directors “based on allegations of misrepresentation made by directors to creditors or of wrongful
+           or oppressive conduct by directors.5” The claims against Lewis in the Breach of Trust Action relate
+           expressly to his wrongful or oppressive conduct and, therefore, cannot be compromised as part of
+           any proposal filed by Cleo in these proceedings. That Battle River’s claims against Lewis cannot
+           possibly be compromised by the terms of any proposal supports the contention that Parliament did
+           not mean to provide for the automatic stay of such claims pursuant to BIA section 69.31.
+
+12.        In Bear Creek Contracting Ltd. v Pretium Exploration Inc.6, the British Columbia Supreme Court
+           (“BCSC”) specifically found that claims for knowing assistance in breach made against directors of
+           a company in CCAA proceedings were not stayed by operation of a CCAA initial order made
+           pursuant to provisions of the CCAA with similar wording to BIA section 69.31. In Bear Creek, a
+           subcontractor sought leave to amend its pleadings to assert claims against the directors of a prime
+           contractor that had entered into CCAA proceedings. The plaintiff subcontractor’s proposed claims
+           against the directors included claims for knowing assistance in breach of trust. 7
+
+13.        While the BCSC ultimately determined that claims against directors in Bear Creek were stayed by
+           a Claims Procedure Order, the BCSC expressly found that the directors’ stay provision in the CCAA
+           Initial Order (which contained language analogous to the wording in BIA section 69.31) did not
+           operate to stay the plaintiff subcontractor’s claims against directors for knowing assistance in
+           breach of trust, amongst various other causes of action:
+
+                 124   All proceedings against the Applicants' directors and officers were stayed by
+                 the Amended Initial Order, in the following terms:
+
+                     ... except as permitted in subsection 11.03(2) of the CCAA, no Proceeding may
+                     be commenced or continued against any of the former, current or future directors
+                     or officers of the applicants with respect to any claims against the directors or
+                     officers that arose before the date hereof and that relates to any obligations of
+                     the Applicants whereby the directors and officers are alleged under any law to be
+                     liable in their capacity as directors or officers for the payment of such obligations.
+
+                 …
+
+                 127     Nevertheless, I agree with Bear Creek that its proposed new claims against
+                 the Directors are not stayed by the terms of Hainey J.'s orders. Bear Creek does not
+                 allege that the Directors are liable under any law in their capacity as directors and
+                 officers for the payment of a Rokstad obligation. Rather, Bear Creek alleges that
+                 they are liable for a Rokstad obligation in their personal capacity by virtue of their
+                 wrongful conduct. In other words, the fact that they also happened to be
+
+
+
+
+5
+    Ibid, at s 50(14).
+6
+    2020 BCSC 1523(CanLII), [Bear Creek].
+7
+    Ibid, at para 21(d).
+
+                                                           3
+               directors and officers of Rokstad at the time is not the basis for the alleged
+               liability, so as to bring those claims under the rubric of the stay.8
+
+
+
+      B. This Court is not empowered by statutory discretion or inherent jurisdiction to grant a non-
+         party stay
+
+14.      In support of its Application for a non-party stay Order, Cleo points to the Ontario Superior Court of
+         Justice’s (the “ONSC”) decision in McEwan Enterprises Inc.9 That matter pertained to an order
+         staying claims against non-parties to CCAA proceedings, not NOI proceedings under the BIA. The
+         distinction between statutes is not one without a difference, as the ONSC in McEwan stipulated
+         that courts will rely on “the broad jurisdiction granted under Sections 11 and 11.02 of the CCAA
+         and the Court’s inherent jurisdiction to grant a stay of proceedings in favour of third parties that are
+         not themselves applicants in a CCAA proceeding.”10
+
+15.      While they serve similar remedial purposes, the CCAA and the BIA remain separate statutes with
+         different parameters – notably, superior courts are afforded far greater statutory discretion under
+         the CCAA than they are under the BIA. As was recognized by the Supreme Court of Canada in
+         Canada v Canada North Group,11 NOI proceedings under the BIA are inherently less flexible than
+         are CCAA proceedings:
+
+               To realize its goals, the BIA is strictly rules-based and has a comprehensive scheme
+               for the liquidation process …. It “provide[s] an orderly mechanism for the distribution
+               of a debtor’s assets to satisfy creditor claims according to predetermined priority
+               rules” …. The BIA’s comprehensive nature ensures, among other things, that there
+               is a single proceeding in which creditors are placed on an equal footing and know
+               their rights. It also ensures that, post-discharge, the bankrupt will have enough to
+               live on and can have a fresh start…. While proposals under the BIA’s restructuring
+               regime similarly serve a remedial purpose, “this is achieved through a rules-based
+               mechanism that offers less flexibility”…12
+
+16.      In a 2021 article, Professor Roderick J. Wood discusses the nature and extent of courts’ powers
+         deriving from inherent jurisdiction or statutory discretion in CCAA and BIA proceedings.13 Therein,
+         Professor Wood directly engages with the question of whether the BIA affords courts the discretion
+         to grant non-party stays:
+
+               Consider the following situations where courts have invoked their general discretionary
+               power under section 11 of the CCAA:
+                      …
+
+8
+  Ibid, at paras 124 and 127, underling in original, bolding added.
+9
+  2021 ONSC 6453 (CanLII), [McEwan Enterprises].
+10
+   Ibid, at para 42.
+11
+   2021 SCC 30 (CanLII).
+12
+   Ibid, at para 140, citations omitted.
+13
+   Wood, Roderick J., ““Come a Little Bit Closer”: Convergence and its Limits in Canadian Restructuring Law,” (2021) 10 Journal of
+the Insolvency Institute of Canada 1.
+
+                                                                4
+                            • extending the stay to non-corporate entities
+                            …
+
+                   Can a supervising judge in BIA commercial proposal proceedings make similar
+                   orders?14
+
+17.          Professor Wood observed that the consequence of CCAA courts’ shift in reliance on inherent
+             jurisdiction to statutory discretion is material. That CCAA courts now rely on the authority afforded
+             to them by way of statutory discretion, as opposed to inherent jurisdiction, is important to the
+             instance case, as it speaks to the necessary distinction that this Court must draw between CCAA
+             and BIA proceedings. Speaking to the gravity of the inclusion of CCAA section 11 Professor Wood
+             states:
+
+                   The shift from a theory of inherent jurisdiction to one of statutory discretion in
+                   restructuring law was not a mere exercise in rebranding that simply substituted one
+                   term for another. There are two important consequences connected with this shift.
+                   The first concerns the availability of the powers. Although inherent jurisdiction is not
+                   necessarily limited to the control of the court’s own processes, the doctrine is to be
+                   used “sparingly and with caution.” Statutory discretion under the CCAA is tested
+                   against the requirements of appropriateness, good faith, due diligence.
+                   Appropriateness is to be assessed by inquiring whether the order sought advances
+                   the policy objectives underlying the CCAA. The shift from inherent jurisdiction to
+                   statutory discretion put an end to any notion that the judicial powers were
+                   extraordinary or limited in availability. The second consequence of the shift concerns
+                   conflicting provincial statutes. Under a theory of inherent jurisdiction, a court is
+                   unable to make an order that conflicts with a provincial statute. Under a theory of
+                   statutory discretion, a court is not so limited, and the provincial statute will be
+                   inoperative under the paramountcy doctrine.
+
+                   In 2009, the shift from inherent jurisdiction to statutory discretion became firmly
+                   cemented in place in the CCAA through the inclusion of an express statutory
+                   provision that gave the court the authority to make any order so long as it is not
+                   inconsistent with any of the restrictions set out in the legislation.15
+
+18.          Professor Wood goes on to argue that Parliament cannot have intended to afford courts in BIA
+             proceedings the same degree of statutory discretion as is expressly granted to courts in CCAA
+             proceedings by virtue of extraordinary broad power set out in CCAA section 11, which has no
+             analogue in the BIA:
+
+                   It seems clear that the availability of judicial authority to make such orders in BIA
+                   restructuring proceedings must now fall to be determined on a theory of implied
+                   statutory authority or gap-filling. What this means is that the question ultimately
+                   comes down to an exercise in statutory interpretation and whether an expansive
+                   interpretation of the statute is capable of being supported. This introduces a real
+                   challenge for those who wish to argue that the BIA contemplates that same wide
+                   powers in BIA restructuring proceedings as are exercised in CCAA restructuring
+                   proceedings. The first hurdle that will need to be overcome is the argument that a
+
+14
+     Ibid, at page 8.
+15
+     Ibid, at page 11, underlining added.
+
+                                                            5
+                  supervising judge in BIA proceedings is limited to those powers that are expressly
+                  conferred by statute.
+
+                  This argument centres upon a comparison the two legislative restructuring regimes.
+                  Both contain express statutory powers that authorize a court to make order
+                  concerning a variety of issues. However, the CCAA has an additional provision —
+                  section 11 — that is not contained in the BIA that confers on the court the authority
+                  to make any other that it thinks appropriate. The argument is that if Parliament
+                  wanted to confer similar powers to courts in BIA proceedings, it would have included
+                  a similar provision in the commercial restructuring provisions of the BIA. The fact that
+                  it did not do so is proof that Parliament intended to limit courts in BIA proceedings to
+                  the powers expressly provided for in the statute. If additional judicial powers are to
+                  be given to courts in BIA proceeding this must be done through legislative
+                  amendment of the BIA.
+
+
+19.         Cleo is thus left with two challenges in establishing a right to a non-party stay order in its BIA
+            proceedings. First, absent express statutory authority for a non-party stay, Cleo must point to
+            specific provisions in the BIA from which this Honourable Court may assume statutory discretion to
+            grant a non-party stay. Cleo’s materials do not point to any provisions within the BIA that afford the
+            Court the express authority or statutory discretion to grant the relief it seeks.
+
+20.         Second, in the absence of statutory authority (either express or discretionary), Cleo must satisfy
+            this Honourable Court that it may appropriately exercise its inherent jurisdiction to grant a novel
+            remedy under the BIA. Cleo does not satisfy the clearly articulated test for this Court’s exercise of
+            inherent jurisdiction to grant relief in BIA proceedings.
+
+21.         In Golfside Ventures Ltd (Re)16, this Honourable Court recently re-articulated the test for granting
+            relief in BIA proceedings pursuant to the doctrine of inherent jurisdiction. There, Associate Chief
+            Justice Nielsen spoke to the sparing and limited circumstances in which this Court may rely on its
+            own inherent jurisdiction in BIA proceedings:
+
+                  28     The Trustee also relies on several tenets of Canadian bankruptcy law expressed
+                  in Residential Warranty . For example, at para 25, Topolniski J noted the: "fundamental tenet
+                  of BIA proceedings is that fairness should govern". Further, at para 26:
+
+                         The BIA expressly preserves the Bankruptcy Court's equitable and ancillary
+                         powers. Accordingly, inherent jurisdiction is maintained and available as an
+                         important but sparingly used tool. There are two preconditions to the Court
+                         exercising its inherent jurisdiction: (1) the BIA must be silent on a point or
+                         not have dealt with a matter exhaustively; and (2) after balancing
+                         competing interests, the benefit of granting the relief must outweigh the
+                         relative prejudice to those affected by it. Inherent jurisdiction is available to
+                         ensure fairness in the bankruptcy process and fulfillment of the substantive
+
+
+
+
+16
+     2023 ABKB 86 (CanLII), [Golfside].
+
+                                                           6
+                          objectives of the BIA, including the proper administration and protection of the
+                          bankrupt's estate.17
+
+22.         Cleo cannot establish either of the two preconditions set out in Golfside required for this Court to
+            exercise its inherent jurisdiction. Respecting precondition (1), the BIA is decidedly not silent
+            regarding the nature and extent of stays of proceedings resulting from the filing of an NOI. To the
+            contrary, BIA section 69 deals with the nature and extent of stays of proceedings in BIA matters
+            exhaustively. Respecting precondition (2), Battle River submits that Lewis’ evidence does not
+            establish that relieving Lewis from the obligation participate in the filing of a Statement of Defence
+            along with the remaining Individual Defendants in the Breach of Trust Action will materially benefit
+            Cleo’s NOI proceedings.
+
+
+
+
+       C. There are no grounds to stay Battle River’s claims against Lewis
+
+23.         Should this Honourable Court determine that it does have the authority to grant a non-party stay
+            respecting claims made against Lewis, Battle River nevertheless argues that it is not appropriate
+            to grant such relief in the instant case.
+
+24.         Cleo relies upon the test for granting a non-party stay in CCAA proceedings set out in McEwan
+            Enterprises. There, the ONSC sets out a non-exhaustive list of seven factors that Courts have
+            considered in determining whether to grant a non-applicant non-party stay order. Those factors are
+            produced at paragraph 21 of Cleo’s December 23, 2024, Brief.
+
+25.         As they are framed in Cleo’s Brief, all Cleo’s grounds for staying claims against Lewis, set out at
+            paragraph 22 of its Brief, appear to relate to specifically to claims made against Lewis as a
+            guarantor of Cleo’s debts. Battle River’s claims against Lewis do not result from any personal
+            guarantee, but rather from Lewis’ tortious and oppressive misconduct. As Cleo’s grounds for the
+            imposition of a non-party stay pertain solely to guarantee claims, Battle River submits that there
+            exists no reason to impose a stay against Battle River in respect of its claims against Lewis in the
+            Breach of Trust Action.
+
+26.         Were Cleo to argue that the grounds applicable to stays of guarantee claims likewise apply to Battle
+            River’s claim, Battle River nevertheless submits that the factors outlined in McEwan Enterprises do
+            not militate in favour of granting a non-party stay in respect of the Breach of Trust Action. To this
+            point, Battle River argues as follows:
+
+
+
+
+17
+     Ibid, at para 28, emphasis added.
+
+                                                            7
+a. Cleo has put forward no evidence to suggest that Lewis’ continued engagement as a
+     director of Cleo during its restructuring is contingent upon Lewis obtaining a non-party stay;
+
+b. It is not realistic that Battle River’s claim against Lewis will resolve prior to Cleo’s exit from
+     NOI proceedings. Accordingly, there is no material risk that Battle River alone will
+     successfully petition Lewis into bankruptcy prior to the completion of Cleo’s restructuring;
+
+c.   At this time, Battle River only requires Lewis to finalize his Statement of Defence by
+     January 20, 2025. Per Alberta’s Rules of Court, Lewis will not be under an obligation to
+     complete his Affidavit of Records for two months from the time of Battle River’s filing of its
+     own Affidavit of Records following the close of pleadings in the Breach of Trust Action;
+
+d. It is unlikely that Lewis will be compelled to attend Questioning prior to the completion of
+     Cleo’s restructuring proceedings. Moreover, were Battle River to seek to Question Lewis
+     during a critical juncture of Cleo’s restructuring, Lewis would be entitled to seek a
+     discretionary Order of this Court in the Breach of Trust Action temporarily postponing his
+     Questioning while he attends to matters in these proceedings;
+
+e. The balance of convenience militates against a stay, given that Battle River is in a position
+     to compel the remaining Individual Defendants’ filing of a Statement of Defence; and
+
+f.   Cleo fails to point to any fact about the circumstances of its restructuring or about the nature
+     of Battle River’s claims against Lewis that are extraordinary or unusual. Cleo’s application
+     for a non-party stay against Lewis thus stands for the proposition that such stays should
+     be granted against directors as a proforma matter in each and every NOI proceeding. In
+     so doing, Cleo proposes to upend the current status of the law, in which stays against
+     directors are expressly limited to the claims described in BIA section 69.31.
+
+
+
+
+                                           8
+IV.         CONCLUSION
+
+      27.   In light of all of the foregoing, Battle River submits that this Honourable Court must find that its
+            claims against Lewis are not stayed by operation of BIA section 69.31 and that this Court cannot,
+            or should not, grant a non-party stay in favour of Lewis against Battle River’s claims advanced in
+            the Breach of Trust Action.
+
+            ALL OF WHICH IS RESPECTFULLY SUBMITTED this 3rd day of January, 2025.
+
+
+
+                                                                      DLA PIPER (CANADA) LLP
+
+                                                                      Per:
+
+                                                                      ________________________________
+                                                                      Kevin Hoy,
+                                                                      Counsel to Battle River Energy Ltd.
+
+
+
+
+                                                         9
+
