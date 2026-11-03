@@ -1,0 +1,385 @@
+                                                                                                         Form 49
+                                                                                                        Rule 13.19
+                                                                                                   Clerk's Stamp
+
+ COURT FILE NO.                 B301-163430
+
+ COURT                          COURT OF KING'S BENCH OF ALBERTA
+
+ JUDICIAL CENTRE                CALGARY
+
+                                IN THE MATTER OF THE BANKRUPTCY AND INSOLVENCY ACT, RSC
+                                1985, C B-3, AS AMENDED
+                                AND IN THE MATTER OF THE NOTICE OF INTENTION TO MAKE A
+                                PROPOSAL OF CLEO ENERGY CORP.
+ APPLICANT                      CLEO ENERGY CORP.
+
+ DOCUMENT                       AFFIDAVIT
+
+ ADDRESS FOR                    Gowling WLG (Canada) LLP
+ SERVICE AND                    1600, 421 – 7th Avenue SW
+ CONTACT                        Calgary, AB T2P 4K9
+ INFORMATION OF
+                                Attn:        Sam Gabor / Tom Cumming
+ PARTY FILING THIS
+ DOCUMENT                       Phone:       403.298.1946/403.298.1938
+                                Fax:         403.263.9193
+                                File No.:    G10010664
+
+                                        AFFIDAVIT OF CHRIS LEWIS
+                                            Sworn April 22, 2025
+
+             I, CHRIS LEWIS, of the City of Calgary, in the Province of Alberta, MAKE OATH AND SAY
+THAT:
+
+1.           I am the sole Director, Executive Chairman, and Chief Executive Officer of Cleo Energy Corp.
+             (“Cleo”). As such I have personal knowledge of the matters herein deposed to, except where stated
+             to be based upon information and belief, in which case I verily believe same to be true.
+
+2.           I am authorized to swear this Affidavit as corporate representative of Cleo.
+
+3.           In preparing this Affidavit, I consulted with Cleo’s management and its legal, financial and other
+             advisors. I also reviewed Cleo’s business records relevant to these proceedings and have satisfied
+             myself that I am possessed of sufficient information and knowledge to swear this Affidavit.
+
+4.           All references to dollar amounts contained herein are to Canadian dollars unless otherwise stated.
+
+
+
+67957645\4
+Rev. 2.0 (15/11/10)
+                                                    -2-
+
+Relief Requested
+
+5.      This Affidavit is sworn in support of an Application by Cleo in its proceedings under Division I of
+        Part III of the Bankruptcy and Insolvency Act, RSC 1985, c B-3, as amended (the “BIA” and such
+        proceedings, the “Proposal Proceedings”) seeking the following Orders:
+
+        (a)     an Order extending the period within which Cleo is required under section 50.4(8) of the
+                BIA to file a proposal, currently ending May 9, 2025, by an additional 30 days to end on
+                June 8, 2025 (such period, as extended from time to time under section 50.4(9) of the BIA,
+                being the “Filing Period”);
+
+        (b)     an Order (the “Sealing Order”) sealing the confidential appendix (the “Confidential
+                Appendix”) to the fifth report of Alvarez & Marsal Canada Inc. (“A&M”) in its capacity
+                as proposal trustee of Cleo (in such capacity, the “Proposal Trustee”, and such report, the
+                “Fifth Report”); and
+
+        (c)     such other relief as this Honourable Court deems appropriate.
+
+Proposal Proceedings
+
+6.      Cleo is a privately owned Alberta corporation that was incorporated in 2016. Cleo carries on
+        business as a producer of oil and natural gas and holds operated and non-operated working interests,
+        wells, facilities and pipelines in the Alliance, Atlee, Enchant/Taber, Fabyan, Hayter, Kessler,
+        Neutral Hills, Sedgewick, Shorncliffe and Silver Heights areas of Alberta. Cleo’s head office is
+        located at 200 – 117 8th Avenue SW, Calgary, Alberta T2P 1B4 and its field office is located in
+        Shorncliffe, Alberta.
+
+7.      Throughout 2024, Cleo’s production of oil and natural gas suffered severe reductions because of
+        shut-ins arising from a variety of causes, including deferred repair and maintenance of its main
+        producing wells, verbal directives of the Alberta Energy Regulator (the “AER”) responding to
+        complaints about flaring from gas wells, thefts and vandalism of equipment at its largest oil and
+        gas field, and low natural gas prices.
+
+8.      As a result of these production issues, Cleo experienced a severe decline in revenue and working
+        capital and was unable to make regular payments to its trade creditors and secured lenders. The
+        directors and management of Cleo determined that to address its financial difficulties, Cleo required
+
+
+
+
+67957645\4
+                                                      -3-
+
+        protection from its creditors under Division I of Part III of the BIA. On December 8, 2024, Cleo
+        filed a notice of intention to make a proposal and A&M was named as Proposal Trustee.
+
+9.      The initial 30-day time period within which a proposal was required to be filed under section
+        50.4(8) of the BIA ended on January 7, 2025. The initial period was extended by the following
+        Orders:
+
+        (a)       the Order of the Honourable Justice Lema pronounced on January 6, 2025 (the “January
+                  6 Order”), extending the time period to February 21, 2025;
+
+        (b)       the Order of the Honourable Justice Lema pronounced on February 19, 2025 (the
+                  “February 19 Order”), extending the time period to April 4, 2025; and
+
+        (c)       the Order of the Honourable Justice Bourque pronounced on April 1, 2025 (the “April 1
+                  Order”), extending the time period to May 9, 2025.
+
+10.     Under the January 6 Order, the Court also:
+
+        (a)       created an administration charge against the undertaking, property and assets of Cleo (the
+                  “Properties”) in favour of the Proposal Trustee and its counsel and Cleo’s counsel to
+                  secure the payment of their respective professional fees and disbursements in an amount
+                  not to exceed $700,000 (the “Administration Charge”);
+
+        (b)       created a charge against the Properties to secure Cleo’s obligation to indemnify its director
+                  and officer for obligations and liabilities incurred after the commencement of the Proposal
+                  Proceedings in an amount not to exceed $250,000 (the “D&O Charge”);
+
+        (c)       approved an interim financing facility (the “Interim Facility”) provided by uCapital –
+                  uLoan Solutions Inc. (“uCapital”) pursuant to a commitment letter dated January 5, 2025
+                  and created a charge against the Properties to secure Cleo’s obligations to pay such facility
+                  in the maximum amount of $900,000 (the “Interim Lender Charge”); and
+
+        (d)       declared that the Administration Charge, the D&O Charge and the Interim Lender Charge
+                  rank in priority to any other security interest, trust, lien charge, deemed trust, encumbrance
+                  or claim, statutory or otherwise, including liens and trusts created by federal and provincial
+                  legislation, and as between each other, the Administration Charge ranks first in priority,
+                  the Interim Lender Charge ranks second in priority and the D&O Charge ranks third in
+                  priority.
+
+
+
+
+67957645\4
+                                                     -4-
+
+11.     The February 19 Order amended the January 6 Order to approve the increase in the principal
+        amount of the Interim Facility to $1,000,000 and the increase the maximum principal amount
+        secured by of the Interim Lender Charge to $1,000,000, together with any interest accrued thereon
+        or costs and expenses incurred thereunder.
+
+12.     The April 1 Order approved three separate assets sales of certain of Cleo’s assets for the primary
+        purpose of funding professional fees in accordance with Cleo’s 13-week cash flow forecast in order
+        for Cleo to be able to complete its Proposal Proceedings, and thereafter to repay creditors of Cleo
+        in accordance with their respective priorities.
+
+Marketing of the Properties under the SSP
+
+13.     Cleo in consultation with the Proposal Trustee and their respective professional advisors concluded
+        that the most value maximizing strategy for Cleo and its stakeholders during the Proposal
+        Proceedings was to carry out a sale and investment solicitation process in order to sell its business
+        and Properties, either as a going concern or in parcels, or to recapitalize and restore the solvency
+        of Cleo. Cleo and the Proposal Trustee therefore prepared a sale and solicitation process that
+        provided for the marketing of the business and Properties of Cleo and the manner in which bids to
+        purchase Properties or invest in Cleo are to be made and assessed (the “SSP”).
+
+14.     Pursuant to an Order of the Honourable Justice J.T. Nielson pronounced January 22, 2025 (the
+        “Sale Process Order”), the Court approved the SSP and Cleo’s engagement of Sayer Energy
+        Advisors as a financial advisor and sale agent (the “Sale Agent”). Specific details regarding the
+        steps taken by Cleo and the Sale Agent in the SSP up to March 17, 2025 are set out in my Affidavit
+        sworn March 17, 2025 (the “March 17 Affidavit”).
+
+15.     Between March 7, 2025 and March 14, 2025, the Sale Agent, Cleo and the Proposal Trustee
+        negotiated three separate transactions with IHH Energy Corp. (“IHH”), Nuova Strada Ventures
+        Ltd. (“Nuova Strada”) and Surge Energy Inc. (“Surge”) and thereafter received court approval of
+        those transactions pursuant to the April 1 Order. Cleo has since closed those transactions and the
+        Proposal Trustee has provided its closing certificates to those respective purchasers.
+
+16.     Prior to the April 1 Order, the Proposal Trustee sent an email to the remaining Qualified Bidders
+        extending the Binding Bid Submission Date to March 27, 2025. Cleo and the Sale Agent have since
+        received several offers from Qualified Bidders and are negotiating with Qualified Bidders. Cleo
+        requires an extension of time until June 8, 2025 in order to negotiate one or more binding
+
+
+
+67957645\4
+                                                   -5-
+
+        transactions, obtain court approval and close one or more transactions prior to that date. I am
+        advised by Cleo’s counsel, Sam Gabor of Gowling WLG (Canada) LLP, that the six (6) month time
+        period for Cleo to file a proposal to its creditors ends on June 8, 2025, and thereafter on June 9,
+        2025 Cleo shall be deemed bankrupt under the BIA.
+
+17.     Cleo further requires the extension of time to discuss and further work through the SSP with the
+        AER, with whom Cleo and the Proposal Trustee are having ongoing discussions regarding its
+        remaining assets and abandonment and reclamation liabilities.
+
+Extension of Time to File a Proposal
+
+18.     The Filing Period currently ends on May 9, 2025. Cleo is seeking an extension of the Filing Period
+        from this Honourable Court to June 8, 2025.
+
+19.     Since April 1, 2025, when Cleo was last before this Honourable Court, Cleo has worked diligently
+        and in good faith to advance these Proposal Proceedings and to comply with the various
+        requirements under the BIA. These steps have included, among other things:
+
+        (a)     working with the Sale Agent and the Proposal Trustee to advance the SSP including
+                addressing questions of Bidders and providing information for the Data Room and to the
+                Sale Agent and Bidders;
+
+        (b)     providing the Proposal Trustee with continuing access to its books and records;
+
+        (c)     working with the Proposal Trustee on the preparation of the Revised Cash Flow Projections
+                (as defined below);
+
+        (d)     communicating with creditors and other stakeholders regarding the Proposal Proceedings;
+
+        (e)     closing the transactions with IIH, Nuova Strada and Surge;
+
+        (f)     communicating with the AER regarding the status of its licensed Properties, its operations,
+                the Proposal Proceedings and the SSP;
+
+        (g)     communicating with customers regarding the Proposal Proceedings;
+
+        (h)     through counsel, working with Transalta regarding revised prepayment arrangements for
+                power;
+
+        (i)     continuing to review its operating expenses, pursue the collection of accounts receivable
+                and take other steps to ensure Cleo remains financially viable during these Proposal
+                Proceedings; and
+
+        (j)     preparing this Application.
+
+
+
+67957645\4
+                                                    -6-
+
+20.     Cleo has continued its repair and maintenance program which, as of April 21, 2025, has increased
+        its production increases as follows:
+
+                   January 1, 2025        Current production
+                 production (BOE/d)            (BOE/d)
+                         228                     658
+
+
+21.     As at March 15, 2025, Cleo started restoring its gas production at the Fabyan North field, which
+        had been shut in since October 2024 as a result of low natural gas prices. This will result in
+        production of approximately 2200 mcf daily plus associated condensate should generate additional
+        monthly sales revenues of approximately $100,000.
+
+22.     The increases in actual and projected revenues as a result of Cleo’s repair and maintenance program
+        has been as follows:
+
+        (a)     as of January 25, 2025, Cleo’s December 2024 revenue was approximately $615,000;
+
+        (b)     as of February 25, 2025, Cleo’s January 2025 revenue was $783,217 for the January 2025
+                production;
+
+        (c)     as of March 25, 2025, Cleo’s February 2025 revenue was $715,484 for February 2025
+                production; and
+
+        (d)     as of April, 25, 2025, Cleo’s March 2025 revenue is projected to be approximately
+                $790,000 for March 2025 production.
+
+23.     The extension of the Filing Period will allow Cleo to, among other things:
+
+        (a)     maintain its repair and maintenance program and continue to stabilize its daily production
+                of oil, natural gas liquids and natural gas, while maintaining the required cash flows to
+                facilitate adequate operational compliance
+
+        (b)     continue working with the Sale Agent and Proposal Trustee in the marketing of its
+                Properties and advancing the SSP;
+
+        (c)     complete one or more transactions with Qualified Bidders; and
+
+        (d)     enter into additional APA’s with Successful Bidders.
+
+
+
+
+67957645\4
+                                                        -7-
+
+24.     Cleo’s creditors will not be prejudiced by the extension of the Filing Period to June 8, 2025. Rather,
+        the proposed extension is critical to allowing Cleo to complete the SSP, maximize the proceeds of
+        sale of its Properties, and generate additional revenues, all to the benefit of Cleo’s creditors and
+        other stakeholders.
+
+25.     Attached hereto and marked as Exhibit “A” is a copy of Cleo’s revised cash flow projections
+        prepared by Cleo with the assistance of the Proposal Trustee for the period beginning April 19,
+        2025 and ending on June 8, 2025 (the “Revised Cash Flow Projections”), which confirms that
+        Cleo will have sufficient working capital to continue these Proposal Proceedings until June 8, 2025.
+
+26.     The Proposal Trustee is supportive of the extension of the Filing Period to June 8, 2025.
+
+Sealing Order
+
+27.     The Sealing Order requires that the Confidential Appendix be sealed on the Court file and not form
+        part of the public record until completion of all of the sales of Properties pursuant to the SSP and
+        the Proposal Trustee files with the Court a certificate stating that all such sales have been
+        completed.
+
+28.     In the Confidential Appendix, the Proposal Trustee attaches a copy of the Confidential Sale Agent
+        Report, which in turn attaches copies of and reviews the Qualified Bids submitted under the SSP.
+
+29.     I believe that the disclosure of either the Confidential Sale Agent Report before all of the Properties
+        are sold under the SSP would be highly prejudicial to the SSP and Cleo’s ability to maximize value
+        for its Properties. The reasons for this are:
+
+        (a)     Cleo, the Sale Agent and the Proposal Trustee are still attempting to sell the majority of
+                the Properties, and the disclosure of Qualified Bids would hamper their ability to finalize
+                APAs for those Properties with Qualified Bidders;
+
+        (b)     the economic terms of the Qualified Bids were provided on a confidential basis and if
+                disclosed, would undermine the integrity of the sale process and be a “chill” on the
+                willingness of parties to submit further bids;
+
+        (c)     the period during which the proposed Sealing Order would operate is limited to the period
+                required to complete the sales of any Properties that Cleo is able to sell pursuant to the
+                SSP; and
+
+
+
+67957645\4
+                                  In the Matter of the Notice of Intention
+                                          to make a Proposal of
+                                           CLEO Energy Corp.
+
+                    Notes to the Consolidated Statement of Cash Flow for the -
+                                  week period ending June 8, 2025
+
+
+Purpose and General Assumptions of the Cash Flow Statement
+
+       CLEO Energy Corp. (“CLEO” or the “Company”) has prepared this Cash Flow Statement and the
+       accompanying Notes to the Cash Flow Statement (collectively the “Cash Flow Statement”) in
+       support of the proposal proceedings that has been filed under the Bankruptcy and Insolvency Act
+       (“BIA”) on December 8th, 2024.
+
+       The Company has prepared the Cash Flow Statement based on probable and hypothetical
+       assumptions that reflect the Company’s planned course of action for the period from April 19, 2025
+       to June 8, 2025 (the “Cash Flow Period”). Management is of the opinion that, as at the date of
+       filing the Cash Flow Statement, the assumptions used to develop the projection represent the most
+       probable set of economic conditions facing the Company and that the assumptions used proved a
+       reasonable basis for and are consistent with the purpose of the Cash Flow Statement.
+
+       The information contained in the Cash Flow Statement is subject to changing assumptions and/or
+       receipt of new or additional information; actual results may vary. This Cash Flow Statement should
+       not be used for any other purpose, and creditors are cautioned that the information provided in the
+       Cash Flow Statement could vary based on changing future circumstances.
+
+       The projected cash flow statement is prepared in Canadian dollars.
+
+Hypothetical and Probable Assumptions of the Cash Flow Statement
+
+   1. Pricing is based on the forward strip for WTI as of March 31, 2025. The differentials (discount to
+      WTI) are the actuals for April and a projection from our Marketer. Both Light and Heavy
+      differentials are handled this way. The crude is received at delivery terminals where the crude is
+      equalized to the stream quality using density and sulfur as the main differentiators. The crude
+      quality is very consistent, so the equalization is static over a long period of time. Lastly, the forward
+      exchange rate is used to covert to Canadian dollars. Proceeds from production are generally
+      received on the 25th day of the following month (or the following business day). Receipts are
+      shown net of any working partner interest and take-in-kind royalties and include collection of 5%
+      GST.
+
+   2. Payroll and benefits include wages and benefits for thirteen (13) full time employees and six (6)
+      independent contractors. The employees and independent contractors are paid on a semi-monthly
+      basis.
+
+   3. Source deductions relate to CPP, EI, and Income Tax.
+
+   4. Operating and transportation expenses include payments for contract operators, consultants, and
+      other operating costs such as trucking, chemicals, and related services. These expenses were
+      estimated based on historical data.
+5. Mineral and Surface Lease payments relate to Crown and Freehold lease payments required under
+   existing arrangements.
+
+6. Utilities consist of payments to TransAlta for the Company's monthly power consumption. The
+   Company has negotiated a schedule of pre-payments of varying amounts to TransAlta on a periodic
+   basis.
+
+7. General and administrative costs include payments for the Company’s software subscriptions,
+   monthly rent for its Calgary-based head office, bank fees, and insurance coverage, which was
+   bound in August 2024, and is paid monthly.
+
+8. Professional fees include the fees and costs of counsel to CLEO, counsel to the Proposal Trustee,
+   and the Proposal Trustee.
+
+9. Interest costs on the interim financing facility.
+

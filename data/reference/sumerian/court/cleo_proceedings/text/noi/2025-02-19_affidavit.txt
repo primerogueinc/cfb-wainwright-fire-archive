@@ -1,0 +1,1056 @@
+                                                                                                         Form 49
+                                                                                          C20426        Rule 13.19
+                                                                                COM
+                                                                                Feb 19, 2025
+
+                                                                                                    FILED
+                                                                                                    Clerk's Stamp
+
+ COURT FILE NO.                 B301-163430
+                                                                                                   Feb 10, 2025
+ COURT                          COURT OF KING'S BENCH OF ALBERTA
+                                                                                                    by Email
+ JUDICIAL CENTRE                CALGARY
+
+                                IN THE MATTER OF THE BANKRUPTCY AND INSOLVENCY ACT, RSC
+                                1985, C B-3, AS AMENDED
+                                AND IN THE MATTER OF THE NOTICE OF INTENTION TO MAKE A
+                                PROPOSAL OF CLEO ENERGY CORP.
+ APPLICANT                      CLEO ENERGY CORP.
+
+ DOCUMENT                       AFFIDAVIT
+
+ ADDRESS FOR                    Gowling WLG (Canada) LLP
+ SERVICE AND                    1600, 421 – 7th Avenue SW
+ CONTACT                        Calgary, AB T2P 4K9
+ INFORMATION OF
+                                Attn:        Sam Gabor / Tom Cumming
+ PARTY FILING THIS
+ DOCUMENT                       Phone:       403.298.1946/403.298.1938
+                                Fax:         403.263.9193
+                                File No.:    G10010664
+
+                                        AFFIDAVIT OF CHRIS LEWIS
+                                           Sworn February 10, 2025
+
+             I, CHRIS LEWIS, of the City of Calgary, in the Province of Alberta, MAKE OATH AND SAY
+THAT:
+
+1.           I am the sole Director, Executive Chairman, and Chief Executive Officer of Cleo Energy Corp.
+             (“Cleo”). As such I have personal knowledge of the matters herein deposed to, except where stated
+             to be based upon information and belief, in which case I verily believe same to be true.
+
+2.           I am authorized to swear this Affidavit as corporate representative of Cleo.
+
+3.           In preparing this Affidavit, I consulted with Cleo’s management and its legal, financial and other
+             advisors. I also reviewed Cleo’s business records relevant to these proceedings and have satisfied
+             myself that I am possessed of sufficient information and knowledge to swear this Affidavit.
+
+4.           All references to dollar amounts contained herein are to Canadian dollars unless otherwise stated.
+
+
+
+66393514\14
+Rev. 2.0 (15/11/10)
+                                                    -2-
+
+Relief Requested
+
+5.      This Affidavit is sworn in support of an Application by Cleo in its proceedings under Division I of
+        Part III of the Bankruptcy and Insolvency Act, RSC 1985, c B-3, as amended (the “BIA” and such
+        proceedings, the “Proposal Proceedings”) seeking an Order:
+
+        (a)     extending the period, ending February 21, 2025, within which Cleo is required under
+                section 50.4(8) of the BIA to file a proposal by an additional 45 days to April 4, 2025 (such
+                period, as extended from time to time under section 50.4(9) of the BIA, being the “Filing
+                Period”);
+
+        (b)     authorizing an amendment to the interim financing facility (the “uCapital Facility”)
+                provided by uCapital – uLoan Solutions Inc. (“uCapital”) to Cleo whereby the maximum
+                principal amount available to Cleo will be increased from $750,000 to $1,000,000 pursuant
+                to the second amending agreement dated February 10, 2025 (the “Second Amending
+                Agreement”) between uCapital and Cleo;
+
+        (c)     increasing the amount of the charge and security (the “uCapital Charge”) created in
+                paragraph 6 of the Order of the Honourable Justice M.J. Lema pronounced January 6, 2025
+                (the “January 6 Order”) in these proceedings from the principal amount of $900,000 to
+                the principal amount of $1,000,000, together with any interest accrued thereon or costs and
+                expenses incurred thereunder; and
+
+        (d)     such other relief as this Honourable Court deems appropriate.
+
+The Proposal Proceedings
+
+6.      Cleo is an Alberta corporation that was incorporated in 2016. Cleo’s head office is at 200 – 117 8th
+        Avenue SW, Calgary, Alberta T2P 1B4 and its field office is located in Shorncliffe, Alberta.
+
+7.      Cleo is a privately owned producer of oil and natural gas with operated and non-operated working
+        interests located in the Alliance, Atlee, Enchant/Taber, Fabyan, Hayter, Kessler, Neutral Hills,
+        Sedgewick, Shorncliffe and Silver Heights areas of Alberta.
+
+8.      Since early 2024, there have been multiple reductions in Cleo’s oil and gas production as a result
+        of shut-ins arising from a variety of causes, including deferred repair and maintenance of its main
+        producing wells, verbal directives of the Alberta Energy Regulator (the “AER”) because of
+
+
+
+66393514\14
+                                                     -3-
+
+        complaints about flaring of gas wells, thefts and vandalism of equipment at its largest oil and gas
+        field, and low natural gas prices that led to the shut-in of its main natural gas field at Fabyan in
+        October 2024. Specifically:
+
+        (a)     In the first half of 2024, the average daily sales production net to Cleo was approximately
+                990 boe/d, which consisted of approximately 527 bbl/d of oil and natural gas liquids and
+                approximately 2.8 MMcf/d of natural gas;
+
+        (b)     Cleo’s current production is approximately 460 boe/d, which consists of 395 bbl/d of oil
+                and natural gas liquids and 390 Mcf/d of natural gas.
+
+9.      In addition to these production problems, the market prices recovered by Cleo also materially
+        declined:
+
+                                                 January 2024               November 2024
+              Oil                                      14,384 bbls                   10,334 bbls
+              Natural Gas Liquids                      75,360 mcf                    36,115 mcf
+              Natural Gas                                 184 bbls                      140 bbls
+
+
+
+10.     The impact on Cleo’s revenues was significant. Its average monthly revenues declined from
+        approximately $1,270,965 in January of 2024 to $878,663 in November of 2024, which was
+        insufficient to allow it to remain current on its over $24 million of secured and unsecured debt.
+
+11.     The directors and management of Cleo determined that Cleo could only realistically address its
+        financial difficulties if it received protection from its creditors in proceedings under Division I of
+        Part III of the BIA and therefore on December 8, 2024 filed a notice of intention to make a proposal
+        (the “NOI”). Alvarez & Marsal Canada Inc. (“A&M”) was named as proposal trustee of Cleo (in
+        such capacity, the “Proposal Trustee”). The initial 30-day time period within which a proposal
+        was required to be filed under section 50.4(8) of the BIA ended on January 7, 2025.
+
+12.     The following Orders or decisions have been issued by the Court of King’s Bench of Alberta (the
+        “Court”) in the Proposal Proceedings:
+
+        (a)     an Order of the Honourable Justice Burns in Commercial Chambers pronounced on
+                December 13, 2024 authorizing and directing the return of $152,436.18 paid into Court
+                pursuant to certain garnishee summons issued in respect of Cleo, as amended and restated
+
+
+
+
+66393514\14
+                                                   -4-
+
+              by an Order of the Honourable Justice M.E. Burns made on January 13, 2025 (the
+              “January 13 Order”);
+
+        (b)   an Endorsement of the Honourable Justice M.N. Hollins released on December 26, 2024
+              determining, among other things, that Trafigura Canada Limited (“Trafigura”) could not
+              accelerate and set-off amounts owing by Cleo to Trafigura under a loan made under a
+              prepayment agreement as against amounts owing by Trafigura to Cleo for the marketing
+              of Cleo’s oil production under a commercial agreement and dismissing Trafigura’s cross-
+              application;
+
+        (c)   the January 6 Order that, among other things, (i) extended the time for Cleo to file a
+              proposal to February 21, 2025, (ii) granted a charge against the property and assets (the
+              “Property”) in favour of the Proposal Trustee, legal counsel to the Proposal Trustee and
+              legal counsel to Cleo for their respective professional fees and disbursements in an amount
+              not to exceed $700,000 (the “Administration Charge”), (iii) approved the uCapital
+              Facility, (iv) granted the uCapital Charge to uCapital to secure Cleo’s obligations under
+              the uCapital Facility, (v) granted a charge against the Property to secure Cleo’s obligation
+              to indemnify its director and officer against obligations and liabilities incurred after the
+              Filing Date (the “D&O Charge”), (vi) declared that the Administration Charge, the
+              uCapital Charge and the D&O Charge rank as against the Property ahead of ahead of any
+              and all charges, security interests, liens, trusts, deemed trusts and encumbrances against
+              the Property, including liens and trusts created by federal and provincial legislation
+              (collectively, the “Encumbrances”), and as between themselves, the Administration
+              Charge ranks first in priority, the uCapital Charge ranks second in priority and the D&O
+              Charge ranks third in priority, and (vii) provided certain other relief;
+
+        (d)   an Order of the Honourable Justice J.T. Nielson pronounced January 22, 2025 (the “Sale
+              Process Order”) approving a sale and solicitation process (the “SSP”) pursuant to which
+              Cleo will seek transactions under which its Property will be sold on a going concern basis
+              or an investment transaction will be sought to restructure its business and affairs; and
+
+        (e)   an Order of the Honourable Justice J.T. Nielson pronounced January 22, 2025 (the “Second
+              Trafigura Order”) staying Trafigura’s right to effect set-off under the prepayment
+              agreement of monthly payments owing by Cleo to Trafigura as against monthly payments
+
+
+
+
+66393514\14
+                                                      -5-
+
+                by Trafigura to Cleo under a commercial agreement, and dismissing Trafigura’s cross-
+                application.
+
+The SSP
+
+13.     Following extensive consultations between Cleo’s directors and management, the Proposal Trustee
+        and their respective professional advisors, it was concluded that the most value maximizing strategy
+        for Cleo and its stakeholders during the Proposal Proceedings was to carry out a sale and investment
+        solicitation process in an attempt to either sell the Property on a going concern basis or enter into a
+        restructuring transaction that would recapitalize and restore the solvency of Cleo. This type of
+        transaction is critical for realizing value for Cleo’s stakeholders because the extended shut-ins of
+        its producing wells had resulted in its LMR declining to 0.72 because its deemed assets as of
+        November 2, 2024 were calculated to be approximately $36.1 million and its deemed liabilities
+        approximately $50.2 million. My understanding is that unless this deficiency can be addressed, or
+        Cleo sells all of its Property on a going concern basis or enters into a restructuring transaction
+        pursuant to which it is recapitalized, the AER is likely to be reluctant to approve any transfers of
+        licenses required in a sale transaction because of the concern that unproductive wells may be left
+        to the Orphan Well Association, and therefore the public, to abandon and reclaim.
+
+14.     Cleo engaged Sayer Energy Advisors as a financial advisor and sale agent (the “Sale Agent”) and
+        developed in consultation with it and the Proposal trustee the SSP. Immediately following the
+        approval of the SSP pursuant to the Sale Process Order on January 22, 2025, the Sale Agent
+        launched the SSP. The Sale Agent published on its website a notice attaching the SSP, describing
+        Cleo’s business, Property and operations, and describing the bid process (the “Teaser”). The Sale
+        Agent also delivered the Teaser to various strategic and financial parties who Cleo, the Proposal
+        Trustee and the Sale Agent believed may be interested in submitting bids to acquire some or all of
+        the Property or invest in Cleo (each a “Potential Bidder”). Attached to this affidavit as Exhibit
+        “A” is a copy of the Teaser. The Sale Agent and Cleo also set up a virtual data room which includes
+        confidential business and operational information with respect to Cleo and the Property (the
+        “VDR”).
+
+15.     The SSP is currently in its first phase, during which Potential Bidders are able to gain access to the
+        VDR by executing non-disclosure agreements (each, a “NDA”). If a Potential Bidder is interested
+        in acquiring all or a portion of the Property or invest in Cleo, it is required to deliver to the Proposal
+        Trustee a non-binding letter of intent expressing its interest (a “Non-Binding LOI”, and such
+
+
+
+66393514\14
+                                                     -6-
+
+        Potential Bidder, a “Bidder”) by no later than February 27, 2025. If the Proposal Trustee
+        determines that a Bidder is a qualified Bidder under the SSP (a “Qualified Bidder”), the Qualified
+        Bidder may advance to the second phase of the SSP. In the second phase, Qualified Bidders are
+        able to carry out additional due diligence and, if they remain interested in participating in the SSP,
+        must submit a binding bid (a “Qualified Bid”) to the Proposal Trustee by no later than March 13,
+        2025. The Proposal Trustee, in consultation with Cleo and the Sale Agent, will designate which
+        Qualified Bids are successful bids, and may designate back-up bids.
+
+16.     Any sale or sales pursuant to the SSP must be approved by this Honourable Court. The target
+        closing date for any such transaction is March 31, 2025 or three days after Court approval is
+        obtained.
+
+17.     To date, 41 potential bidders have executed NDAs, all of which have accessed the VDR.
+
+Amendment to Interim Financing Facility
+
+18.     The uCapital Facility, which provided for advances in the maximum amount of $750,000, has been
+        fully drawn upon. As was noted in paragraph 50 of the first report of the Proposal Trustee dated
+        January 6, 2025, the 13-week cash flow forecast for the period ending April 4, 2025 (the “Cash
+        Flow Forecast”) anticipated that Cleo would experience a cash flow shortfall by the sixth week,
+        being the week of February 21, 2025. To address this shortfall, Cleo has successfully restored
+        initial production at its Silver Heights field and at a number of additional wells in its Neutral Hills
+        and Shorncliffe fields. This has significantly increasing it cash flow from operations. Cleo had
+        been negotiating the sale of its Sedgewick field, subject to obtaining the approval of this
+        Honourable Court. However, Cleo’s management, the Sale Agent and the Proposal Trustee
+        determined that it may be more beneficial to market and sell the Sedgewick field in the SSP and
+        have therefore included that field in the SSP.
+
+19.     In order to address the forecasted cash flow shortfall, Cleo has negotiated an increase in the uCapital
+        Facility pursuant to the Second Amending Agreement. Attached to his Affidavit as Exhibit “B”
+        is a copy of the Second Amending Agreement.
+
+20.     The Second Amending Agreement is conditional upon this Honourable Court making an Order
+        extending the Filing Period to April 4, 2025, approving the increase in the uCapital Facility by
+        $250,000 and increasing the maximum principal amount secured by the uCapital Charge by that
+        amount.
+
+
+
+66393514\14
+                                                         -7-
+
+21.      The revised 9-week cash flow forecast for the week ending February 14, 2025 to the week ending
+         April 11, 2025 (the “Revised Cash Flow Forecast”), a draft copy of which is attached as Exhibit
+         “C” to this Affidavit,1 indicates that with the increase in the uCapital Facility under the Second
+         Amending Agreement, Cleo will have a cash flow surplus in the weeks ending February 14, 2025,
+         February 21, 2025, February 28, 2025, March 7, 2025 and March 28, 2025, but a cash flow shortfall
+         in the weeks ending March 21, 2025, April 4, 2025 and April 11, 2025. Cleo is therefore
+         negotiating with three other parties at this time to acquire additional interim financing, with the
+         goal of obtaining sufficient financing to allow Cleo to complete the SSP and enter into sale or
+         restructuring transactions. If successful, Cleo will be appearing again before this Honourable Court
+         to seek the approval of such interim financing.
+
+22.      The Proposal Trustee has recommended the approval of the increase in the uCapital Facility and
+         uCapital Charge contemplated by the Second Amending Agreement.
+
+23.      I have had discussions with Cleo’s principal secured creditors, being 1992169 Alberta Ltd. (Rise
+         Capital), Mantl Canada Inc., Marco Simonelli, Arundel Capital Corporation and Jody Wiese, who
+         have indicated that they support the increase in the uCapital Facility and uCapital Charge.
+
+24.      Without the increase in the uCapital Facility, Cleo would have to cease operations and would be
+         unable to carry on with the SSP. Such a development would, in my view, be extremely prejudicial
+         to Cleo’s creditors and other stakeholders because there is no obvious alternative way for creditors
+         to recover the indebtedness owed to them.
+
+Extension of Time to File a Proposal
+
+25.      Currently, under section 50.8 of the BIA, the Filing Period ends on February 21, 2025. Cleo is
+         seeking an extension of the Filing Period from this Honourable Court to April 4, 2025.
+
+26.      Since January 22, 2025, when Cleo was last before this Honourable Court, Cleo has worked
+         diligently and in good faith to advance these Proposal Proceedings and to comply with the various
+         requirements under the BIA. These steps have included, among other things:
+
+         (a)      working with the Sale Agent and the Proposal Trustee to prepare for and launch the SSP;
+
+
+
+
+1
+ The final copy of the signed Revised Cash Flow Forecast will be attached to the third report of the Proposal Trustee,
+which will be filed by the Proposal Trustee in connection with this Application.
+
+
+66393514\14
+                                                    -8-
+
+        (b)     providing the Proposal Trustee with continuing access to its books and records;
+
+        (c)     working with the Proposal Trustee on the preparation of the Revised Cash Flow Forecast;
+
+        (d)     communicating with creditors and other stakeholders regarding the Proposal Proceedings;
+
+        (e)     negotiating the increase in the uCapital Facility;
+
+        (f)     negotiating with other parties to obtain additional interim financing;
+
+        (g)     communicating with the AER regarding the status of its licensed Property, its operations
+                and the Proposal Proceedings;
+
+        (h)     communicating with customers regarding the Proposal Proceedings;
+
+        (i)     continuing to review its operating expenses, pursue the collection of accounts receivable
+                and take other steps to ensure Cleo remains financially viable during these Proposal
+                Proceedings; and
+
+        (j)     preparing this Application.
+
+27.     Cleo is also in the process of completing a repair and maintenance program in order to increase its
+        production. As of January 31, 2025, that program has resulted in the following increases in
+        production:
+
+                               January 15, 2025 oil    Added oil production since        Current oil
+                               production (BBL/d)      January 15, 2025 (BBL/d)      production (BBL/d)
+         Neutral Hills                           57                            32                     88
+         Silver Heights                            0                          132                    132
+         Shorncliffe                            113                            19                    132
+         Sedgewick/Alliance                      44                             6                     50
+         Total                                  214                           188                    403
+
+
+28.     Cleo is also currently able to bring back into production its main natural gas property at Fabyan,
+        which would restore approximately 2.0 MMcf/d of production. Once prices increase sufficiently to
+        make this field economic, it will be brought back into production.
+
+29.     The increase in projected revenues resulting from these actions is as follows:
+
+        (a)     as of January 25, 2025, Cleo’s December 2024 oil revenue was approximately $615,000;
+
+
+
+
+66393514\14
+                                                     -9-
+
+        (b)     as of February 25, 2025, Cleo’s January 2025 oil revenue is projected to be approximately
+                $850,000 for the January 2025 production;
+
+        (c)     as of March 25, 2025, Cleo’s February 2025 oil revenue is projected to be approximately
+                $1,015,000.
+
+30.     Cleo’s consultant, Bluestar Engineering Ltd., has also submitted to the AER a Directive 060
+        variance for Silver Heights in order to allow continuous flaring, and provided that it receives that
+        variance, will seek a Directive 56 amendment to its facility license to allow an increase in future
+        production of approximately 250 bbl/d.
+
+31.     I believe that these activities are important because the more productive Cleo’s wells are, the more
+        third parties will be interested in participating in the SSP, which should result in a maximization of
+        recoveries by Cleo’s creditors.
+
+32.     Since January 22, 2025, there have been other developments, including:
+
+        (a)     Cleo was able to obtain the $152,436.18 that had been paid into court by Royal Bank of
+                Canada following its receipt of garnishment notices. This payment to Cleo was provided
+                for in the January 13 Order.
+
+        (b)     At the last hearing on January 22, 2025, counsel for Durham Creek Energy Ltd.
+                (“Durham”) indicated that Durham intended to file an originating application seeking an
+                order discharging a gross overriding royalty (a “GOR”) affecting certain lands acquired by
+                Durham from Cleo in December of 2023. The GOR is held by Chimera Management
+                Group Ltd., Cleo’s parent corporation, and Wtrshed Resources Ltd. and also affects certain
+                legal interests held by Cleo. The information pertaining to the GOR has been put in the
+                VDR and Cleo’s counsel advises they are still reviewing the allegations made by Durham.
+
+33.     The extension of the Filing Period will allow Cleo to, among other things:
+
+        (a)     complete its repair and maintenance program and continue its production of oil, natural gas
+                liquids and natural gas, which will result in significant increases in Cleo’s cash flow during
+                that period;
+
+        (b)     continue working with the Sale Agent and Proposal Trustee in the marketing of its Property
+                and advancing the SSP;
+
+
+
+66393514\14
+                                                    -10-
+
+
+
+        (c)     continue seeking additional interim financing in order to allow it to complete the SSP; and
+
+        (d)     take such otlier actions as are necessary or desirable to preserve and enhance the value of
+                Cleo's business for the benefit of their creditors and other stakeholders.
+
+
+34.     Cleo’s creditors will not be prejudiced by the extension of the Filing Period to April 4, 20255.
+        Rather, the proposed extension is critical to ensuring that Cleo completing the SSP in order to either
+        sell its business and Propert)' in going concern transactions or restructure, and continue to generate
+        revenues during that period, all to the benefit of Cleo's creditors and other stakeholders.
+
+35.     The Proposal Trustee is supportive of the extension of the Filing Period to April 4, 2025.
+
+Conclusion
+
+
+36.     I swear this Affidavit in support of an Application for the relief set out in paragraph 5 of this
+        Affidavit and for no other or improper purpose.
+
+ SWORN BEFORE ME at Calgary, Alberta,               )
+ this 10’'’day of Februarw,2025r    ')              )
+                                                    )
+                                                    )
+                                                    )
+                                                    )
+ Nmao^TTmlic in and tor tiie Province oT            )      CHRIS LEWIS
+ Alberta                                            )
+
+
+
+
+66393514\13
+ Exhibit “A” to the Affidavit of
+          Chris Lewis
+Sworn/Affin
+                d befor^           IS
+
+  lO'^^dayi     ebrua^^
+               >a   7
+ TTLommissioner ror Oaths in and
+    for the Province of Alberta
+                                                                                            Insolvency Sale
+                                                      BID DEADLINE: 12:00 pm February 27, 2025
+
+
+Sale and Solicitation Process:
+Various Areas, Central Alberta
+395 bbl/d, 390 Mcf/d (460 boe/d)
+CLEO Energy Corp. (“CLEO” or the “Company”) has filed a
+Notice of Intention to Make a Proposal (the “NOI”) pursuant
+to section 50.4 (1) of the Bankruptcy and Insolvency Act (the
+“BIA”) and Alvarez & Marsal Canada Inc. (“A&M”) is acting
+as Proposal Trustee of CLEO for the NOI process. A sale and
+solicitation process (the “SSP”) is to be undertaken by the
+Company in its NOI proceedings. CLEO has engaged Sayer
+Energy Advisors to assist the Company with the SSP in
+order to solicit interest in the purchase of or investment in all
+or part of the business or operations of the Company or its
+undertaking, property and assets. Potential outcomes include
+but are not limited to a sale of the shares of the Company,
+the sale, in whole or in part, of all of the oil and natural gas
+assets held by CLEO, or a joint venture.
+
+A copy of the SSP is found on Sayer’s website at www.sayeradvisors.com.
+
+CLEO’s oil and natural gas interests are located in the Alliance, Atlee, Enchant/Taber, Fabyan, Hayter, Kessler,
+Neutral Hills, Sedgewick, Shorncliffe and Silver Heights areas of Alberta (the “Properties”).
+
+Average daily sales production net to CLEO from the Properties for the first half of 2024 was approximately
+990 boe/d, consisting of approximately 527 bbl/d of oil and natural gas liquids and approximately 2.8 MMcf/d of
+natural gas. Current production from the Properties is approximately 460 boe/d, consisting of 395 bbl/d of oil and
+natural gas liquids and 390 Mcf/d of natural gas. The Company is currently reactivating several wells which it
+believes will add approximately 330 bbl/d of oil.
+
+PROCESS & TIMELINE
+Sayer Energy Advisors is accepting offers, as outlined in the SSP, relating to the process until 12:00 pm on
+Thursday, February 27, 2025.
+
+                                                  Timeline
+           Week of January 20, 2025                                 Preliminary Information Distributed
+           Week of January 27, 2025                                         Data Room Opens
+              February 27, 2025                 12:00 noon               Non-Binding LOI Deadline
+               March 13, 2025                   12:00 noon                 Binding Bid Deadline
+                March 1, 2025                                                 Effective Date
+                 March 2025                                                    Closing Date
+    Sayer Energy Advisors does not conduct a “second-round” bidding process; the intention is to attempt to conclude a
+            transaction with the party submitting the most acceptable proposal at the conclusion of the process.
+
+   Sayer Energy Advisors is accepting offers, as outlined in the SSP, from
+       interested parties until noon on Thursday, February 27, 2025.
+                           © Sayer Energy Advisors 2025    1620, 540 – 5th Avenue SW, Calgary, Alberta Canada T2P 0M2
+                                                           Tel: 403.266.6133 Fax: 403.266.4467 www.sayeradvisors.com
+                         BID DEADLINE: 12:00 pm February 27, 2025                          Insolvency Sale
+
+
+Corporate Overview
+CLEO is a private junior oil and gas company with operated and non-operated working interests located in the
+Alliance, Atlee, Enchant/Taber, Fabyan, Hayter, Kessler, Neutral Hills, Sedgewick, Shorncliffe and Silver Heights
+areas of Alberta.
+
+As at December 14, 2024, CLEO has total secured debt of approximately $6.7 million. The Company has a
+creditor obligation of approximately $24.1 million. As of January 5, 2025, CLEO has an interim debtor-in-
+possession financing of $750,000 available. As at December 31, 2022, CLEO had total unused Canadian income
+tax pools of approximately $8.1 million, including $6.6 million of non-capital losses.
+
+Additional corporate information relating to CLEO will be provided to parties upon execution of a confidentiality
+agreement.
+
+ Officers & Directors        President & Director                                                   Chris Lewis
+
+ Capital Structure           Common Shares                                                         200,000,000
+
+ Tax Pools                   As at December 31, 2022
+                             Non-Capital Losses                                                      $6,750,182
+                             Cumulative Canadian Oil and Gas Property Expenses                          $39,874
+                             Cumulative Canadian Exploration Expenses                                   $15,457
+                             Cumulative Canadian Development Expenses                                    $3,877
+                             Capital Cost Allowance                                                  $1,331,763
+
+                             Total                                                                   $8,141,153
+
+ Bankers                     Royal Bank of Canada
+
+ Solicitors                  Gowling WLG (Canada) LLP
+
+ Street Address              Suite 200 - 117 8th Avenue SW Calgary, Alberta T2P 1B4
+
+
+Marketing Overview
+The Company has a crude oil marketing agreement with Trafigura Canada Limited and a CO2 contract with TC
+Energy Corporation.
+
+CLEO has a sales contract in place with BP Canada Energy Group ULC for natural gas sales. Natural gas is
+sold into the Nova Gas Transmission Ltd. pipeline.
+
+LMR Summary
+As of November 2, 2024, the Properties had a deemed net asset value of ($14.1 million) (deemed assets of
+$36.1 million and deemed liabilities of $50.2 million), with an LMR ratio of 0.72. These numbers do not include
+CLEO’s current security deposit with the Alberta Energy Regulator (“AER”) of approximately $720,000.
+
+Note that the Fabyan, Taber, and part of the Silver Heights properties are currently shut-in. Reactivating these
+properties would drastically increase the deemed asset amount and restore lost production.
+                                                      1620, 540 – 5th Avenue SW, Calgary, Alberta Canada T2P 0M2
+                                                      Tel: 403.266.6133 Fax: 403.266.4467 www.sayeradvisors.com
+                           BID DEADLINE: 12:00 pm February 27, 2025                                       Insolvency Sale
+
+
+Production Overview
+Average daily sales production net to CLEO from the Properties for the first half of 2024 was approximately
+990 boe/d, consisting of approximately 527 bbl/d of oil and natural gas liquids and approximately 2.8 MMcf/d of
+natural gas.
+
+Current production from the Properties is approximately 460 boe/d, consisting of 395 bbl/d of oil and natural gas
+liquids and 390 Mcf/d of natural gas. The Company is currently reactivating several wells which it believes will
+add approximately 330 bbl/d of oil. Details of the reactivations will be made available in the virtual data room to
+parties that execute a confidentiality agreement.
+
+CLEO believes that with limited capital the current reactivation production capability is approximately 750 bbl/d
+of oil.
+
+                                                          Q1-Q2 2024 NET PRODUCTION
+                                                                 (Average Daily)
+                              PROPERTY
+                                                        Oil        Ngl      Nat. Gas         Total
+                                                       bbl/d      bbl/d      Mcf/d           boe/d
+                                 Fabyan                 10          5         1,978            345
+                             Silver Heights             223         -          149             248
+                              Shorncliffe               135         -           -              135
+                              Sedgewick                 53          -          48              61
+                                  Taber                  0          -          335             56
+                              Neutral Hills             51          -          16              54
+                                 Atlee**                29          -          124             50
+                                Enchant                  -          -          121             20
+                                Alliance                15          -           -              15
+                                 Hayter                  5          -           3               6
+                                Kessler**                1          -           4               2
+                                 TOTAL                  522         5         2,778            990
+                 *CLEO’s current production is approximately 460 boe/d, consisting of 395 bbl/d of oil and 390 Mcf/d
+                 of natural gas awaiting several ongoing re-activations. The Company is currently reactivating
+                 several wells which it believes will add approximately 220 bbl/d of oil.
+               **The Atlee and Kessler properties are currently in the process of being reclaimed.
+
+Shorncliffe had a large amount of reactivations in March/April 2024 and now has a net operating income of
+approximately $115,000/month.
+
+Neutral Hills had a pipeline reactivation in August 2024 which resulted in a post-repair net operating income of
+approximately $40,000/month with the potential for multiple additional reactivations.
+
+
+Seismic Overview
+The Company has a license agreement on certain trade and proprietary 2D and 3D seismic data relating to the
+Properties. Information relating to the seismic will be made available in the data room to parties that execute a
+confidentiality agreement.
+
+
+                                                               1620, 540 – 5th Avenue SW, Calgary, Alberta Canada T2P 0M2
+                                                               Tel: 403.266.6133 Fax: 403.266.4467 www.sayeradvisors.com
+                                 BID DEADLINE: 12:00 pm February 27, 2025                                               Insolvency Sale
+
+
+Reserves Overview
+Deloitte LLP (“Deloitte”) prepared an independent reserves evaluation of CLEO’s Properties (the “Deloitte
+Report”) as part of the Company’s year-end reporting. The Deloitte Report is effective December 31, 2022 using
+Deloitte’s January 1, 2023 forecast pricing. The Company does not have a current third-party reserve report
+reflecting the disposition of certain of its interests at Fabyan in late 2023. This disposition only affected the total
+proved and total proved plus probable reserve values. The Deloitte Report also includes reserves values and
+volumes for the Atlee and Kessler properties, which are being reclaimed.
+
+Deloitte estimated that, as at December 31, 2022 the Properties excluding CLEO’s interests at Fabyan contained
+remaining proved plus probable reserves of 4.5 million barrels of oil and natural gas liquids and 3.5 Bcf of natural
+gas (5.1 million boe), with an estimated net present value of $46.9 million using forecast pricing at a 10%
+discount.
+
+                                                                    Deloitte LLP as at December 31, 2022
+                                                        COMPANY GROSS RESERVES                     PV BEFORE TAX
+                                                    Oil    Natural Gas     Ngl      Total      0%         5%     10%
+                                                   Mbbl       MMcf         Mbbl    MBOE                 (000s)
+ Proved Developed Producing                        2,269      2,087          7      2,624    $44,316   $33,900 $27,379
+ Proved Non-Producing/Undeveloped                   714        392           0       779     $16,296   $10,927  $7,603
+ Total Proved                                      2,983      2,479          7      3,403    $60,612   $44,828 $34,983
+ Probable                                          1,488       996           2      1,656    $40,263   $20,441 $11,959
+ Total Proved Plus Probable                        4,471      3,475          9      5,059   $100,875 $65,269   $46,941
+The reserve estimates and forecasts of production and revenues for the Company’s Properties were prepared within the context of a group of properties
+   in aggregate. Extraction and use of any individual property evaluation outside of this context may not be appropriate without supplementary due
+                    diligence. Values in the “Total” row may not correspond to the total of the values presented due to rounding.
+
+
+Infrastructure Overview
+CLEO controls most of the pipeline infrastructure in the area necessary for both oil development and associated
+natural gas egress. The Properties have significant offsetting potential including the Viking and Upper Mannville
+Sparky oil reservoirs, which would require use of the Company’s pipeline infrastructure.
+
+
+
+
+                                                                       1620, 540 – 5th Avenue SW, Calgary, Alberta Canada T2P 0M2
+                                                                       Tel: 403.266.6133 Fax: 403.266.4467 www.sayeradvisors.com
+                          BID DEADLINE: 12:00 pm February 27, 2025                           Insolvency Sale
+
+
+Silver Heights Property                                               Township 38-39, Range 9-10 W4
+At Silver Heights, CLEO holds largely a 98% working interest in approximately eight sections of land. Production
+at Silver Heights is primarily oil from the Ellerslie and Glauconitic Sandstone formations.
+
+Average daily production net to CLEO from Silver Heights for the first half of 2024 was approximately 248 boe/d,
+consisting of 223 bbl/d oil and 149 Mcf/d of natural gas. Current production net to CLEO from Silver Heights is
+approximately 125 bbl/d of oil.
+
+
+
+
+Peak production from Silver Heights was 345 boe/d in January 2023. Due to limited sustaining capital, production
+has declined. Basic workovers are required to increase production.
+
+Operating income net to CLEO from Silver Heights for the first half of 2024 was approximately $197,600 per
+month.
+
+Production at Silver Heights, has been greatly impacted. In the fourth quarter of 2024, 75 bbl/d of oil production
+was curtailed due to a natural gas conservation requirement. The property was fully shut-in from December 8,
+2024 to January 14, 2025 due to an electrical cable theft. The process of restoring the production has begun and
+the field is currently producing approximately 118 bbl/d of oil. It is expected that the production will be restored
+back to is original rate prior to the end of the first quarter of 2025.
+
+The Company has a vertical Ellerslie proved undeveloped drilling location booked in the Deloitte Report at 12-
+039-10W4 and an additional five internally identified unbooked vertical locations. These locations are low cost,
+(estimated at $600,000 per well). Offsetting analogs have been assigned total proved plus probable reserves of
+50,000 barrels of oil per well.
+
+Glauconitic recompletion candidates provide additional upside at Silver Heights. The Company has identified a
+large number of reactivation opportunities including the opportunity to reconfigure pressure support for the
+reservoir and increase production through expanded water handling.
+                                                       1620, 540 – 5th Avenue SW, Calgary, Alberta Canada T2P 0M2
+                                                       Tel: 403.266.6133 Fax: 403.266.4467 www.sayeradvisors.com
+                         BID DEADLINE: 12:00 pm February 27, 2025                          Insolvency Sale
+
+
+Sedgewick Property                                                Township 40-42, Range 11-13 W4
+At Sedgewick, CLEO holds a 100% working interest in approximately nine sections of land. Production at
+Sedgewick is primarily 28° API oil from the Ellerslie Formation.
+
+Average daily production net to CLEO from Sedgewick for the first half of 2024 was approximately 61 boe/d,
+consisting of 53 bbl/d oil and natural gas liquids and 48 Mcf/d of natural gas. Current production net to CLEO
+from Sedgewick is approximately 35 boe/d, consisting of 25 bbl/d of oil and 61 Mcf/d of natural gas.
+
+
+
+
+The Company believes the 15-05-042-12W4 pad has significant value and significant production potential, but
+will require a capital investment for a pipeline tie-in.
+
+Operating income net to CLEO from Sedgewick for the first half of 2024 was approximately $54,300 per month.
+
+The Company has identified 14 locations, including eight in the Upper Ellerslie and six Lower Ellerslie. Three of
+the six Lower Ellerslie horizontal locations are booked in the Deloitte Report.
+
+The Company recently recompleted the two wells in the Glauconitic Sandstone Formation with positive results.
+
+CLEO has existing infrastructure with clean oil currently trucked to the 16-04-042-12W4 battery.
+
+Upside potential exists to recomplete and commingle Glauconitic sand with existing Mannville oil producers. The
+Upper Ellerslie has porosity of 18% to 30% and water saturation of 17% to 50%. The Lower Ellerslie has porosity
+of 23% to 28%.
+
+
+
+                                                      1620, 540 – 5th Avenue SW, Calgary, Alberta Canada T2P 0M2
+                                                      Tel: 403.266.6133 Fax: 403.266.4467 www.sayeradvisors.com
+                        BID DEADLINE: 12:00 pm February 27, 2025                          Insolvency Sale
+
+
+Alliance Property                                                    Township 40, Range 12-13 W4
+At Alliance, CLEO holds a 100% working interest in three quarter sections of land. The Company has stable,
+low-decline oil production from the Viking Formation. CLEO also has one horizontal drilling location booked in
+the Deloitte Report on Section 04-03-040-12W4 targeting the same Viking pool.
+
+Average daily production net to CLEO from the Alliance property for the first half of 2024 was approximately
+15 barrels of oil per day.
+
+Operating income net to CLEO from Alliance for the first half of 2024 was approximately $24,900 per month.
+
+At Alliance, the Viking reservoir is comprised of sandstone within coarsening-upwards cycles from shale to
+sandstone. The sediments were deposited in the Late Cretaceous period in a shoreface environment.
+
+
+
+
+                                                     1620, 540 – 5th Avenue SW, Calgary, Alberta Canada T2P 0M2
+                                                     Tel: 403.266.6133 Fax: 403.266.4467 www.sayeradvisors.com
+                          BID DEADLINE: 12:00 pm February 27, 2025                             Insolvency Sale
+
+
+Neutral Hills Property                                                  Township 35-37, Range 4-7 W4
+At Neutral Hills, CLEO holds primarily a 100% working interest in certain lands and wells located in the north
+block.
+
+CLEO also holds a 50% working interest operated by Prairie Provident Resources Inc. in the south block, and
+other minor non-operated working interests. Neutral Hills South has been shut-in since December 2023.
+
+Production at Neutral Hills is primarily oil from the Dina Formation.
+
+
+
+
+Average daily production net to CLEO from Neutral Hills for the first half of 2024 was approximately
+54 boe/d, consisting of 51 bbl/d oil and natural gas liquids and 16 Mcf/d of natural gas. The Company has
+identified 25 bbl/d of oil to be brought back on production as soon as possible and an additional
+50 bbl/d to be brought back on with an estimated cost of approximately $300,000.
+
+Current production net to CLEO from Neutral Hills is approximately 90 boe/d. In 2024, CLEO spent upwards of
+$500,000 on pipeline repairs and recompletions to restore approximately 85 bbl/d of oil production that was down
+due to a pipeline break. With the pipeline repairs, the field has long lasting pipeline integrity. CLEO has identified
+drilling upside in the Rex, Dina and Cummings formations, with five locations booked in the Deloitte Report.
+CLEO has also identified three unbooked Rex multi-laterals and two Dina horizontal wells and an additional 23
+internally identified unbooked Dina locations. CLEO’s booked inventory at Neutral Hills is the only property where
+it has booked multilateral wells.
+
+Operating income net to CLEO from Neutral Hills for the first half of 2024 was approximately ($80,100) per
+month. Neutral Hills had a major pipeline upgrade and reactivation in August 2024 which resulted in a post-repair
+net operating income of approximately $40,000/month. Minor workovers will immediately bring on an additional
+50 bbl/d of oil.
+
+The Company has also identified numerous Cummings recompletion opportunities at Neutral Hills, as well as a
+potential opportunity for reduction in operating expenses through power generation.
+                                                        1620, 540 – 5th Avenue SW, Calgary, Alberta Canada T2P 0M2
+                                                        Tel: 403.266.6133 Fax: 403.266.4467 www.sayeradvisors.com
+                         BID DEADLINE: 12:00 pm February 27, 2025                           Insolvency Sale
+
+
+Shorncliffe Property                                                       Township 40, Range 7-8 W4
+At Shorncliffe, CLEO holds largely a 100% working interest in 4.75 sections of land, as well as a 25% non-
+operated working interest.
+
+The Company also has an interest in certain non-operated wells which are operated by Harvest Operations
+Corp. Production at Shorncliffe is primarily 20° API oil from the Ellerslie, Glauconitic Sandstone and Basal Quartz
+formations.
+
+Average daily production net to CLEO from Shorncliffe for the first half of 2024 was approximately
+135 bbl/d oil. Current production net to CLEO from Shorncliffe is approximately 95 bbl/d of oil.
+
+Operating income net to CLEO from Shorncliffe for the first half of 2024 was approximately $18,100 per month.
+Shorncliffe had a large amount of reactivations in March/April 2024 and now has a net operating income of
+approximately $115,000/month.
+
+The Shorncliffe property is the location of the Company’s main field office. The property has two producing fields
+which are connected to a central battery which is pipeline connected to Inter Pipeline Ltd.
+
+CLEO believes that additional water handling and conversion to a new water injection well could support an
+increase in overall production levels.
+
+
+
+
+                                                       1620, 540 – 5th Avenue SW, Calgary, Alberta Canada T2P 0M2
+                                                       Tel: 403.266.6133 Fax: 403.266.4467 www.sayeradvisors.com
+                          BID DEADLINE: 12:00 pm February 27, 2025                             Insolvency Sale
+
+
+Fabyan Property                                                        Township 41-46, Range 6-11 W4
+At Fabyan, CLEO holds largely a 100% working interest in approximately 120 sections of land. Production at
+Fabyan is primarily shallow natural gas from the Viking Formation.
+
+Current production from Fabyan is shut-in.
+
+The Company believes the 100/11-10-045-07W4/3 Sparky and Colony well at Fabyan is generating
+approximately $250,000 per year in net operating income. There is also potential for low-risk for multilateral
+development.
+
+
+
+
+Average daily production net to CLEO from Fabyan for the first half of 2024 was approximately 345 boe/d,
+consisting of 1,978 Mcf/d of natural gas and 15 bbl/d oil and natural gas liquids.
+
+Operating income net to CLEO from Fabyan for the first half of 2024 was approximately ($184,600) per month.
+
+CLEO believes there is potential for future power generation or Bitcoin mining at Fabyan.
+
+CLEO controls all of the pipeline infrastructure in the area necessary for both oil development and associated
+natural gas egress. The area has significant offsetting potential including the Viking and Upper Mannville Sparky
+oil reservoirs, which would require use of the Company’s pipeline infrastructure.
+
+Further details relating to CLEO’s pipeline infrastructure will be available in the virtual data room for parties that
+execute a confidentiality agreement.
+
+The Company recognizes there are a significant number of abandoned wells, however; a large amount of the
+liabilities at Fabyan are associated to reclamation only.
+
+                                                        1620, 540 – 5th Avenue SW, Calgary, Alberta Canada T2P 0M2
+                                                        Tel: 403.266.6133 Fax: 403.266.4467 www.sayeradvisors.com
+                         BID DEADLINE: 12:00 pm February 27, 2025                          Insolvency Sale
+
+
+Enchant/Taber Property                                              Township 9-14, Range 14-20 W4
+At Enchant/Taber, CLEO holds largely a
+99.7% working interest in approximately 36
+sections of land. Production at Enchant
+consists of stable, low-decline natural gas.
+
+CLEO currently has a Bitcoin mining operation
+at Enchant.
+
+Average daily production net to CLEO from
+Enchant for the first half of 2024 was
+approximately 20 boe/d, consisting of 121
+Mcf/d of natural gas.
+
+The Taber property is currently shut-in.
+
+
+
+
+Average daily production net to CLEO from Taber for the first half of 2024 was approximately 56 boe/d, consisting
+of 335 Mcf/d of natural gas.
+
+Operating income net to CLEO from Enchant for the first half of 2024 was approximately ($6,200) per month.
+
+Operating income net to CLEO from Taber for the first half of 2024 was approximately ($15,000) per month.
+
+
+Hayter Property                                                         Township 40-41, Range 1 W4
+                                                                  At Hayter, CLEO holds primarily minor non-
+                                                                  operated working interests in approximately
+                                                                  one section of land. Production at Hayter is
+                                                                  operated by Harvest Operations Corp. and
+                                                                  Rife Resources Ltd.
+
+                                                                  Average daily production net to CLEO from
+                                                                  Hayter for the first half of 2024 was
+                                                                  approximately 6 boe/d, consisting of 5 bbl/d oil
+                                                                  and 3 Mcf/d of natural gas. There is currently no
+                                                                  production net to CLEO from Hayter.
+
+                                                                  Operating income net to CLEO from Hayter for
+                                                                  the first half of 2024 was approximately
+                                                                  ($28,300) per month.
+
+
+
+
+Atlee and Kessler Properties
+The Company also has interests in the Atlee and Kessler areas of Alberta, which are currently in the process of
+being reclaimed.
+                                                      1620, 540 – 5th Avenue SW, Calgary, Alberta Canada T2P 0M2
+                                                      Tel: 403.266.6133 Fax: 403.266.4467 www.sayeradvisors.com
+                        BID DEADLINE: 12:00 pm February 27, 2025                          Insolvency Sale
+
+
+
+                              CLEO Energy Corp.
+                               Insolvency Sale
+                                 Winter 2025
+
+
+
+
+CONTACT
+
+Parties wishing to receive access to the confidential information with detailed information relating to this
+opportunity should execute the Confidentiality Agreement which is available on Sayer Energy Advisors’ website
+(www.sayeradvisors.com) and return one copy to Sayer Energy Advisors by courier, email
+(tpavic@sayeradvisors.com) or fax (403.266.4467).
+
+Included in the confidential information is the following: summary land information, the Deloitte Report, LMR
+information, most recent net operations summary, detailed facilities information and other relevant corporate,
+financial and technical information.
+
+To receive further information on the Company please contact Tom Pavic, Ben Rye or Sydney Birkett at
+403.266.6133.
+
+                                                     1620, 540 – 5th Avenue SW, Calgary, Alberta Canada T2P 0M2
+                                                     Tel: 403.266.6133 Fax: 403.266.4467 www.sayeradvisors.com
+ Exhibit "B” to the Affidavit of
+          Chris Lev\/is
+Sworn/Affj.       'Gfofe m^this
+  1Qth   ly o^el      ,r
+
+
+
+
+ A ComRTissi^nSr torOaihs in^nd
+    for the Province of Alberta
+February 10, 2025
+
+Chris Lewis
+Cleo Energy Corp.
+200-117 8 Ave SW
+Calgary, Alberta T2P 1B4
+
+RE:     Debtor-in-Possession Financing
+
+Dear Chris,
+
+We refer to the offer letter dated this January 5, 2025 (as amended by the first amendment dated January 6, 2025,
+the “Letter of Offer”) pursuant to which uCapital - uLoan Solutions Inc. (the “Lender”) provided to Cleo Energy
+Corp. (the “Borrower”) a debtor-in-possession interim financing facility (the “DIP Loan”) in the aggregate
+maximum principal amount of $750,000 (the “Maximum Principal Amount”) during the pendency of the
+Borrower’s restructuring proceedings under Division I of Part III of the Bankruptcy and Insolvency Act, R.S.C.
+1985, c. B-3 (the “BIA”). Capitalized terms in this second amending agreement (this “Amendment”).
+
+The Maximum Principal Amount is hereby increased by $250,000 to $1,000,000. All other terms of the
+Commitment Letter remain in full force and effect, unamended except as specified in this Amendment.
+
+The increase in the Maximum Principal Amount shall only become effective upon the satisfaction of the following
+conditions precedent:
+
+        (a)     the Borrower shall have executed and delivered to the Lender the acceptance to this Amendment
+                set out below; and
+
+        (b)     the Borrower shall have obtained an order of the Court that will, among on things, extend the time
+                within which the a proposal must be filed under the BIA, approve this Amendment and the increase
+                in the Maximum Principal Amount contemplated hereby, and increase the maximum principal
+                amount of the DIP Charge to $1,000,000 plus fees, costs and interest accruing thereon.
+
+If you are in agreement with the terms and provisions of this Amendment, please sign the acceptance set out
+below.
+
+
+Yours truly,
+
+
+
+ uCapital - uLoan Solutions Inc
+ Greg Thompson
+ Partner
+
+
+
+
+66542572\2
+                                                     -2-
+
+                                               ACCEPTANCE
+
+
+To:     uCapital - uLoan Solutions Inc.
+
+        Attention: Greg Thompson
+
+
+We agree to the amendment to the Letter of Offer set out above.
+
+
+Accepted on February 10, 2025.
+
+
+CLEO ENERGY CORP.
+
+Per:    _________________________
+        Name: Christopher Lewis
+        Title:
+
+
+
+
+66542572\2
+ Exhibit “C” to the Affidavit of
+          Chris Lewis
+Sworn/Affirmed before me this
+  10’^ day'of!^ebru€gv^025
+            9
+
+
+ A Commissioner ror u^hs in and
+    for the Province of Alberta
+Cleo Energy Corp.                                                                                                                                                        Forecast
+
+9 Week Forecast for the period ending April 11, 2025     Notes           Week 1             Week 2             Week 3                   Week 4              Week 5                   Week 6              Week 7            Week 8                     Week 9            9-week total
+$CAD's                                                 week ended       14-Feb-25          21-Feb-25          28-Feb-25                 7-Mar-25           14-Mar-25                21-Mar-25           28-Mar-25          4-Apr-25                  11-Apr-25             Total
+
+Cash Receipts
+  Sales (production settlement)                            1                         -                  -            808,743                         -                   -                        -            932,762                  -                         -            1,741,506
+Total cash receipts                                                                  -                  -            808,743                         -                   -                        -            932,762                  -                         -            1,741,506
+
+Cash Disbursements
+  Payroll and benefits                                     2                      84,164                -               99,402                       -               84,164                       -            100,164                  -                      84,164              452,058
+  Source Deductions                                        2                      47,761             47,761             48,774                   47,761                  -                    47,761                 -              47,761                        -                287,577
+  Operating and transportation                             3                      25,000             18,000             57,900                   25,000              25,000                   25,000              67,900            30,000                     25,000              298,800
+  Mineral & Surface Leases                                 4                         -                  -               35,172                       -                   -                        -               53,326                -                         -                 88,499
+  Utilities                                                5                         -            135,000               65,000                135,000                    -                 135,000             120,595           135,000                          -                725,595
+  Royalties                                                6                         -                  -                 500                        -                   -                        -                 500                 -                         -                  1,000
+  GST                                                                               425                 -                  -                         -                   -                        -                  -                  -                         -                    425
+  General and administrative                               7                      10,000                -               87,849                     2,977                 -                        -               72,846              1,970                       -                175,642
+  Professional fees                                        8                         -            121,313                  -                  139,672                    -                 139,672                   -           139,672                          -                540,328
+  Interim Financing Facility Interest                      9                         -                  -               27,616                       -                   -                        -                  -              34,521                        -                 62,137
+Total cash disbursements                                                       167,350            322,074            422,214                  350,409             109,164                  347,432             415,331           388,923                    109,164            2,632,060
+
+Net Cash Flow                                                                  (167,350)         (322,074)           386,530                 (350,409)           (109,164)                (347,432)            517,432           (388,923)                 (109,164)            (890,554)
+
+Net Change in Cash
+  Beginning of period                                                          317,473            150,123               78,050                464,580             114,170                       5,006         (342,426)          175,006                   (213,917)               317,473
+  Net cash flow                                                                (167,350)         (322,074)           386,530                 (350,409)           (109,164)                (347,432)            517,432           (388,923)                 (109,164)            (890,554)
+  Interim Financing                                        9                         -            250,000                  -                         -                   -                        -                  -                  -                         -                250,000
+Ending of period                                                               150,123               78,050          464,580                  114,170                  5,006              (342,426)            175,006           (213,917)                 (323,081)            (323,081)
+
+Interim Financing Facility
+  Beginning of period                                                          750,000            750,000            750,000                  750,000             750,000                  750,000             750,000           750,000                    750,000                750,000
+  Borrowing                                                                          -            250,000                  -                         -                   -                        -                  -                  -                         -                250,000
+  Repayment                                                                          -                  -                  -                         -                   -                        -                  -                  -                         -                    -
+Ending of period                                                               750,000            750,000            750,000                  750,000             750,000                  750,000             750,000           750,000                    750,000            1,000,000
+
+
+                                                                    UNAUDITED CASH FLOW FORECAST PREPARED BY MANAGEMENT, MUST BE READ IN CONJUNCTION WITH THE NOTES AND ASSUMPTIONS
+                                                                    ON THE CASH FLOW STATEMENT
+
+
+
+                                                                                                                                    10-Feb-25                                                                                                    10-Feb-25
+                                                                    Chris Lewis                                                  Date                                          Orest Konowalchuk, CPA, CA , CIRP, LIT                         Date
+                                                                    Director                                                                                                   Senior Vice President
+

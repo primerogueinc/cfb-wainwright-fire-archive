@@ -6,9 +6,9 @@ b5fe8d8591f15c5214e0faa9a6ff993c5bbd70ee40d628bb6376a0d6d8acbe44  ./closeup_burn
 bc7229a7356f31e1b77c5f08438337af98fa9e44e5f0384c82254ef99fa62f06  ./court/2025abkb621_cleo_energy_re.pdf
 1a8c178a38ad799c5a06b7917f9367d1e912ede595d575a6eb22a67f26c591c6  ./court/2026abkb742_2755857_alberta_re.pdf
 e14f3a67a4ed79969cdeeed1836ad2c837acbaafab6bfd3bc1ac31339d2e3824  ./court/cleo_proceedings/DUPLICATES.csv
-c2a47092bdb4c7e96ca9fdb5a365df3d2d24ff7e1ae9fce75aea65e31afa532d  ./court/cleo_proceedings/INDEX.csv
+cb9929f9a571c4487e47f39ed52796fcf1e589fe11c5c3b957e46d5c34781b0f  ./court/cleo_proceedings/INDEX.csv
 b79541939e09014e44411bbcdcf41b4e798097ff1dbb4c1a018c2c9f3bca100d  ./court/cleo_proceedings/README.md
-6345494220b1d3f6869ea3e58c4593038d14d51660c03ab13d54900fe11df09f  ./court/cleo_proceedings/SITE_LISTING.csv
+6c202a2a55ceba449fb9c2f7c92d5a622b98559aa4a8e1360933d339b7c8e6a7  ./court/cleo_proceedings/SITE_LISTING.csv
 bfd085ba4d77f25e54a3e8f3744dc95dd95342435c14acb16bd24251ee1db25d  ./court/cleo_proceedings/noi/2024-12-08_certificate-for-the-notice-of-intention-25-3163430.pdf
 7424b53ffbc383972705915b2eee00475cf27a916f8ba8c922cc9ae0f8569d6e  ./court/cleo_proceedings/noi/2024-12-08_cleo-notice-to-creditors-of-noi-december-13-2024-redacted.pdf
 49efd1c985c4b3b5fd04d71170a1dffc6a02783d320f8ae24a076a38d0587e41  ./court/cleo_proceedings/noi/2024-12-08_tenth-affidavit-of-chris-lewis-exhibit-f.pdf
@@ -27,6 +27,7 @@ f7caf00e5e6efa5bcabb10d1516a634a4b13ef2506916ef641f7c08eb344e997  ./court/cleo_p
 0c0e0e7fd12706e9aef2e3d1123fe182a24f3d800221874f3b38fb5d923a3250  ./court/cleo_proceedings/noi/2025-01-08_amended-application.pdf
 1f7e9b424a49593e57513749109455c1e9a2b24ebaa6c5ff44c7bbcc7856bf75  ./court/cleo_proceedings/noi/2025-01-08_bench-brief-of-cleo-energy-corp.pdf
 3f055196cb6b19e3d63f76d6759d1f26d9fd5d3a51cb045d32d5ed6f05bc2829  ./court/cleo_proceedings/noi/2025-01-08_book-of-authorities-of-cleo-energy-corp.pdf
+59622fe8eb206847fae1d60572216e8ee00c0ee3bc4d1f1ca162fd809bbba69e  ./court/cleo_proceedings/noi/2025-01-21_affidavit-of-service-gowling-wlg-canada-llp.pdf
 eae36dbddbae025f2aefae7d572baa04b8bd65c91c462c9be6f5e17f490fb597  ./court/cleo_proceedings/noi/2025-01-21_application.pdf
 fef0398f05d5ec29738e702eaa0ae5146678e68f16cfeb7913632ef2212dd03f  ./court/cleo_proceedings/noi/2025-01-21_bench-brief-of-cleo-energy-corp.pdf
 cdb2b4796ef9ab7911f932796bda64ab6e03216ff166b9bd78729f50aed5d2fa  ./court/cleo_proceedings/noi/2025-01-21_book-of-authorities-of-cleo-energy-corp.pdf
@@ -39,12 +40,15 @@ fad693a4d594b17408e531989ced34be2ff1c6a3d04035ddf4264880b1df7ecc  ./court/cleo_p
 59d5359a47d98c8cb686fc8daf8914b767eddceedfde20a71291cf241ec16af2  ./court/cleo_proceedings/noi/2025-01-31_rule-9-5-2.pdf
 a2fae79f8f1bacf58b259c529b61e5b905b99a4e64761ee504a187d8670c01c0  ./court/cleo_proceedings/noi/2025-02-10_application.pdf
 0938581c052f809ca4282c75752d0af4fc5ad018f9606768d4683f4f62875d91  ./court/cleo_proceedings/noi/2025-02-10_book-of-authorities-of-cleo-energy-corp.pdf
+23874f8a088604f0aabcc9460b633ff9dd96421402fb060f0820418626b8e33f  ./court/cleo_proceedings/noi/2025-02-19_affidavit.pdf
 e542568725412cf4acea998ae0ab10d382946cb1655c04a3e2c2fac573eba5b1  ./court/cleo_proceedings/noi/2025-02-19_bench-brief-of-cleo-energy-corp.pdf
+6fbf67487cc87d96277141e3c8f1dc5e39be6ca62be4d1d93e59259014acbb40  ./court/cleo_proceedings/noi/2025-03-17_affidavit.pdf
 e3f784fe38e599df75985d4cd07822993784d3c0745e56889d32f39813956054  ./court/cleo_proceedings/noi/2025-03-25_application.pdf
 6c0a1470b03a3cf97f813df8b4f7cf287bd24cd83a3941034ca18ec453c3bf49  ./court/cleo_proceedings/noi/2025-03-26_order-approving-proposal-trustee-s-activities-fees-and-disbursements.pdf
 6e2b1d4c57ac988e05463a1a8d5737a17a0824ef4456c6ce84d4a7cfed13de17  ./court/cleo_proceedings/noi/2025-03-31_order-sale-approval-and-vesting-nuova-strada-ventures-ltd.pdf
 c364e40100d0b1156eedf34cd629704583fa79a97d700bb799ab3e6613245555  ./court/cleo_proceedings/noi/2025-03-31_order-sale-approval-and-vesting-surge-energy-inc.pdf
 e17675faee6f5d63832cf3ac74797fc5ae86d6455ebaaaad9e644134f9f3d741  ./court/cleo_proceedings/noi/2025-03-31_order-stay-extension.pdf
+312a2f1a36b3d84712d244b3b3841c9216f181ed92009d8c05da89b1191603f9  ./court/cleo_proceedings/noi/2025-04-22_affidavit.pdf
 816263dd7855e50505d6c67c7d0861fd296d9932d91f2fe02b5c3dc1fbbdc154  ./court/cleo_proceedings/noi/2025-05-01_order-stay-extension.pdf
 41b402a614db4b1ac68912be31f7aa0bc16795c5c2ce9d5a805bbe3d1f2a5e5c  ./court/cleo_proceedings/noi/2025-05-01_sealing-order.pdf
 3fbf48199656132622c444b901edbaf2e5a4ddc1eded0a60aadf247134bdbc75  ./court/cleo_proceedings/noi/2025-05-26_affidavit.pdf
