@@ -1,0 +1,456 @@
+                                                                                               COM
+                                                                                               Fab 19, 2025
+
+                                                                                        Form 7 Rule 3.8
+                                                                                    C20426
+
+
+
+ COURT FILE NO.             B301-163430
+                                                                                                FILED
+                                                                                              Feb 10, 2025
+ COURT                      COURT OF KING’S BENCH OF ALBERTA
+                                                                                                by Email
+ JUDICIAL CENTRE            CALGARY
+                            IN THE MATTER OF THE BANKRUPTCY AND INSOLVENCY ACT, RSC
+                            1985, C B-3, AS AMENDED
+                            AND IN THE MATTER OF THE NOTICE OF INTENTION TO MAKE A
+                            PROPOSAL OF CLEO ENERGY CORP.
+
+ APPLICANT                  CLEO ENERGY CORP.
+
+ DOCUMENT                   APPLICATION
+
+ ADDRESS FOR                Gowling WLG (Canada) LLP
+ SERVICE AND                1600, 421 – 7th Avenue S.W.
+ CONTACT                    Calgary, AB T2P 4K9
+ INFORMATION                Telephone: (403) 298-1946 / (403) 298-1938
+ OF PARTY                   Facsimile: (403) 263-9193
+ FILING THIS                Email: sam.gabor@gowlingwlg.com / tom.cumming@gowlingwlg.com
+ DOCUMENT                   File No. G10010664
+                            Attention: Sam Gabor / Tom Cumming
+
+NOTICE TO THE RESPONDENTS
+
+This application is made against you.
+
+You have the right to state your side of this matter before the Justice.
+
+To do so, you must be in Court when the application is heard as shown below:
+
+           Date:                February 19, 2025
+           Time:                10:00 a.m. MST
+           Where:               By Webex (see Webex details at Schedule “B”)
+           Before Whom:         The Honourable Justice M.J. Lema in Commercial Chambers
+                                (Calgary)
+
+Go to the end of this document to see what you can do and when you must do it.
+
+Remedy claimed or sought:
+
+1.       The applicant, Cleo Energy Corp. (“Cleo”), in connection with the proceedings under Division I of
+         Part III of the Bankruptcy and Insolvency Act, RSC 1985, c B-3, as amended (the “BIA”, and such
+
+LEGAL_CAL:1646
+66395103\8
+66394679\9
+5367.1
+                                                     2
+
+
+
+
+       proceedings, the “Proposal Proceedings”), commenced by notice of intention to make a proposal
+       filed on December 8, 2024 (the “Filing Date”, and such notice, the “NOI”), applies for an Order
+       seeking, inter alia, the following relief, which Order is substantially in the form attached hereto as
+       Schedule “A”:
+
+       (a)     abridging the time for service of notice of this Application, deeming service of notice of
+               this Application to be good and sufficient, and declaring that there is no other person who
+               ought to have been served with notice of this Application;
+
+       (b)     extending the time within which Cleo is required under section 50.4 of the BIA to file a
+               proposal by an additional 45 days from ending February 21, 2025 to April 4, 2025 (such
+               period, as extended from time to time under section 50.4(9) of the BIA, being the “Filing
+               Period”, and the date on which the Stay Period expires being the “Expiry Date”);
+
+       (c)     approving amendment to the interim financing facility (the “uCapital Facility”) provided
+               by uCapital – uLoan Solutions Inc. (“uCapital”) to Cleo pursuant to the second amending
+               agreement dated February 10, 2025 (the “Second Amending Agreement”) between those
+               parties under which the maximum principal amount available to Cleo is increased from
+               $750,000 to $1,000,000 and authorizing Cleo to enter into the Second Amending
+               Agreement;
+
+       (d)     increasing the amount of charge and security (the “uCapital Charge”) created in
+               paragraph 6 of the Order of the Honourable Justice M.J. Lema pronounced January 6, 2025
+               (the “January 6 Order”) in these proceedings from the principal amount of $900,000 to
+               the principal amount of $1,000,000, together with any interest accrued thereon or costs and
+               expenses incurred thereunder; and
+
+       (e)     such further and other relief as Cleo may request and this Honourable Court may grant.
+
+Grounds for making this application:
+
+Background
+
+2.     Cleo was incorporated and is existing under the laws of Alberta in 2016 and carries on business as
+       a producer of oil, natural gas liquids and natural gas in central Alberta. Cleo’s head office is located
+       in Calgary.
+
+
+66395103\8
+                                                     3
+
+
+
+
+3.    Cleo experienced significant reductions in production since the beginning of 2024, which together
+      with lower market prices for oil and gas, resulted in serious working capital shortages. Cleo had
+      insufficient revenue to pay its liabilities in the ordinary course.
+
+4.    In order to address its financial difficulties, Cleo filed the NOI on December 8, 2025 pursuant to
+      Division I of Part III of the BIA, commencing the Proposal Proceedings. Alvarez & Marsal Canada
+      Inc. is the proposal trustee (the “Proposal Trustee”). The initial 30-day Filing Period expired on
+      January 7, 2025 (as extended from time to time, the “Filing Period”).
+
+5.    On January 6, 2025, the Honourable Justice M.J. Lema pronounced an Order which, among other
+      things:
+
+      (a)       extended the Filing Period by 45 days to February 21, 2025;
+
+      (b)       granted an administration charge in favour of the Proposal Trustee and its counsel and
+                counsel to Cleo in the maximum amount of $700,000;
+
+      (c)       approved the uCapital Facility in the maximum principal amount of $750,000;
+
+      (d)       granted the uCapital Charge to secure Cleo’s obligations under the uCapital Facility;
+
+      (e)       granted a charge in favour of the officer and director of Cleo (the “D&O Charge”) to
+                secure Cleo’s obligation o indemnify him in the maximum amount of $200,000; and
+
+      (f)       declared that the Administration Charge, the uCapital Charge and the D&O Charge rank
+                in priority to any and all charges, security interests, liens, trusts, deemed trusts and
+                encumbrances against the Property, including liens and trusts created by federal and
+                provincial legislation (collectively, the “Encumbrances”), and as between themselves,
+                rank in the following order of priority:
+
+                (i)     first, the Administration Charge;
+
+                (ii)    second, the uCapital Charge; and
+
+                (iii)   third, the D&O Charge.
+
+6.    On January 21, 2025, the Honourable Justice Nielson pronounced an Order approving a sale and
+      solicitation process (the “SSP”), under which Cleo is seeking to market and sell its property and
+
+66395103\8
+                                                     4
+
+
+
+
+       assets in consultation with, and with the assistance of, the Proposal Trustee and Sayer Energy
+       Advisors, as sale agent (the “Sale Agent”). The SSP contemplates two phases, the first of which
+       ends on February 27, 2025, the date by which potential bidders must submit to the Proposal Trustee
+       non-binding letters of intent, and the second of which ends on March 13, 2025, the date by which
+       bidders must submit to the Proposal Trustee binding offers to purchase. Any sales arising from the
+       SSP must be approved by Orders of this Honourable Court.
+
+7.     The Sale Agent has implemented the SSP.
+
+Amendment to uCapital Facility
+
+8.     Under the commitment letter dated January 5, 2025 between uCapital and Cleo, the maximum
+       principal amount available under the uCapital Facility was $750,000. In paragraph 50 of the first
+       report of the Proposal Trustee dated January 6, 2025, it was anticipated that Cleo would experience
+       a cash flow shortfall by the week of February 21, 2025. As such, Cleo has been seeking additional
+       interim financing in order to address that potential shortfall.
+
+9.     Pursuant to the Second Amending Agreement, uCapital has agreed to provide an additional
+       $250,000, which according to a revised cash flow forecast for the period of the weeks ending
+       February 14, 2025 to April 11, 2025 will provide sufficient working capital until the week of March
+       21, 2025, when it is anticipated that Cleo will again experience a cash flow shortfall.
+
+10.    Cleo is seeking additional interim financing from other parties and if successful will seek the
+       approval of such additional financing from this Honourable Court.
+
+11.    The Second Amending Agreement is conditional upon this Honourable Court extending the Filing
+       Period, approving the increase in the uCapital Facility by $250,000 and increasing the maximum
+       principal amount secured by the uCapital Charge by that amount.
+
+12.    The Proposal Trustee has recommended the approval of the increase in the uCapital Facility and
+       the amount secured by the uCapital Charge.
+
+Extension of the Filing Period
+
+13.    The Filing Period expires on February 21, 2025. Cleo requires an extension of the Stay Period to
+       continue the SSP so as to permit the sale in the ordinary course or the restructuring of its business
+       and operations.
+
+66395103\8
+                                                    5
+
+
+
+
+14.   The extension of the Filing Period is appropriate for, inter alia, the following reasons:
+
+      (a)     Cleo has acted and continues to act in good faith and with due diligence;
+
+      (b)     no creditor will be materially prejudiced by the requested extension of the Filing Period;
+              and
+
+      (c)     the extension of the Filing Period is necessary to allow Cleo sufficient time and opportunity
+              to continue implementing the SSP.
+
+15.   The extension of the Filing Period will permit Cleo to, among other things:
+
+      (a)     continue operations during the Proposal Proceedings, which will enhance the prospects of
+              selling Property on a going concern basis;
+
+      (b)     continue to implement the SSP and through sale and other transactions potentially
+              maximize realizations available to creditors and other stakeholders; and
+
+      (c)     take such actions as are necessary or desirable to preserve and enhance the value of Cleo’s
+              business for the benefit of their creditors and other stakeholders.
+
+16.   The sale of Cleo’s Property on a going concern basis will significantly reduce the risk to the Alberta
+      public that could arise if operations ceased and there were insufficient working capital to abandon,
+      reclaim and remediate Cleo’s licensed wells, facilities and pipelines, which would potentially result
+      in such property having to be surrendered to the Orphan Well Association.
+
+17.   The revised cash flow forecast for the weeks ending February 14, 2025 to April 11, 2025 indicate
+      that, provided that the increase to the uCapital Facility is approved by this Honourable Court, there
+      will be sufficient working capital until the week ending March 21, 2025 to meet Cleo’s obligations
+      which arise during the Proposal Proceedings.
+
+18.   No creditor be prejudiced by the extension of the Filing Period. If the Filing Period is not extended,
+      Cleo would be deemed to have made an assignment in bankruptcy, its operations would have to be
+      immediately shut down, the SSP would have to be suspended, and the potential recoveries of
+      creditors of Cleo would be severely impacted.
+
+19.   The Proposal Trustee supports the requested extension of the Filing Period.
+
+
+66395103\8
+                                                    6
+
+
+
+
+Material or evidence to be relied on:
+
+20.    The Affidavit of Chris Lewis sworn February 10, 2025, to be filed;
+
+21.    Bench Brief, to be filed;
+
+22.    The third report of the Proposal Trustee, to be filed; and
+
+23.    Such further and other material as counsel may advise and this Honourable Court may permit.
+
+Applicable Acts and regulations:
+
+24.    Rules 1.2, 1.3, 3.2(2)(d), 3.8, 6.3(1), 6.9, 11.27 and 13.5 of the Alberta Rules of Court, Alta Reg
+       124/2010;
+
+25.    The Bankruptcy and Insolvency Act, RSC 1985, c B-3, as amended; and
+
+26.    Such further and other Acts and regulations as counsel may advise and this Honourable Court may
+       permit.
+
+Any irregularity complained of or objection relied on:
+
+27.    None.
+
+How the application is proposed to be heard or considered:
+
+28.    Before the presiding Justice in Commercial Chambers via Webex.
+
+
+       WARNING
+
+       If you do not come to Court either in person or by your lawyer, the Court may give the
+       applicant(s) what they want in your absence. You will be bound by any order that the
+       Court makes. If you want to take part in this application, you or your lawyer must attend
+       in Court on the date and time shown at the beginning of this form. If you intend to give
+       evidence in response to the application, you must reply by filing an affidavit or other
+       evidence with the Court and serving a copy of that affidavit or other evidence on the
+       applicant(s) a reasonable time before the application is to be heard or considered.
+
+
+
+
+66395103\8
+                  7
+
+
+
+
+             Schedule “A”
+             Draft Order
+
+
+
+
+66395103\8
+                                                 8
+
+
+
+
+                                                                                   Clerk’s Stamp
+
+
+
+ COURT FILE NO.          B301-163430
+
+ COURT                   COURT OF KING’S BENCH OF ALBERTA
+
+ JUDICIAL CENTRE         CALGARY
+
+                         IN THE MATTER OF THE BANKRUPTCY AND INSOLVENCY ACT, RSC
+                         1985, C B-3, AS AMENDED
+                         AND IN THE MATTER OF THE NOTICE OF INTENTION TO MAKE A
+                         PROPOSAL OF CLEO ENERGY CORP.
+
+ APPLICANT               CLEO ENERGY CORP.
+
+ DOCUMENT                ORDER (Stay Extension, Interim Financing, Interim Financing Charge
+                         and Other Relief)
+
+ ADDRESS FOR             Gowling WLG (Canada) LLP
+ SERVICE AND
+                         1600, 421 – 7th Avenue SW
+ CONTACT
+ INFORMATION OF          Calgary, AB T2P 4K9
+ PARTY FILING THIS
+ DOCUMENT                Attn:       Sam Gabor/ Tom Cumming
+
+                         Phone:      403.298.1946/ 403.298.1938
+                         Fax:        403.263.9193
+                         Email:      sam.gabor@gowlingwlg.com/ tom.cumming@gowlingwlg.com
+                         File No.:   G10010664
+
+DATE ON WHICH ORDER WAS PRONOUNCED:                         February 19, 2025
+
+LOCATION WHERE ORDER WAS PRONOUNCED:                        Calgary, Alberta
+
+JUSTICE WHO MADE THIS ORDER:                                The Honourable Justice M.J. Lema in
+                                                            Commercial Chambers
+
+             UPON THE APPLICATION of Cleo Energy Corp. (“Cleo”) filed December 23, 2024;
+AND UPON reading the Affidavit of Chris Lewis sworn February 10, 2025 (the “Affidavit”), and the
+Affidavit of Service of Sherry Langley, sworn February ●, 2025; AND UPON reading the Third Report
+of Alvarez & Marsal Canada Inc. in its capacity as proposal trustee of Cleo (in such capacity, the
+“Proposal Trustee”) dated February ●, 2025; AND UPON hearing submissions by counsel for Cleo,
+
+
+
+66395103\8
+                                                      9
+
+
+
+
+the Proposal Trustee, counsel for the Proposal Trustee and any other counsel or other interested parties
+present;
+
+IT IS HEREBY ORDERED AND DECLARED THAT:
+
+SERVICE
+
+1.     The time for service of the notice of application for this order (the “Order”) is hereby abridged and
+       deemed good and sufficient and this application is properly returnable today, and no other than those
+       persons served is entitled to service of the notice of application.
+
+EXTENSION OF TIME TO FILE A PROPOSAL
+
+2.      The time within which Cleo is required to file a proposal to its creditors with the Official Receiver
+        under section 50.4 of the Bankruptcy and Insolvency Act, RSC 1985, c B-3 (the “BIA”) is hereby
+        extended to April 4, 2025 (as extended from time to time, the “Filing Period”).
+
+INTERIM FINANCING
+
+3.      The increase in the maximum principal amount that Cleo is authorized to borrow under the interim
+        financing facility provided for in the commitment letter dated January 5, 2025 between uCapital –
+        uLoan Solutions Inc. (“uCapital”) and Cleo to $1,000,000 is hereby authorized and the second
+        amending agreement dated February 10, 2025 providing for such increase is hereby approved.
+
+4.      Paragraph 6 of the Order of the Honourable Justice M.J. Lema pronounced January 6, 2025 is
+        hereby amended to increase the principal amount of the Interim Lender’s Charge in favour of
+        uCapital from $900,000 to $1,000,000, together with any interest accrued thereon or costs and
+        expenses incurred thereunder.
+
+GENERAL
+
+5.      Service of this Order may be effected by facsimile, electronic mail, personal delivery or courier to
+        the service list (the “Service List”) in the proceedings. Service is deemed to be effected the next
+        business day following transmission or delivery of this Order.
+
+6.      This Order shall be posted on the Proposal Trustee’s website for these proceedings at:
+        https://www.alvarezandmarsal.com/CLEO.
+
+
+
+
+66395103\8
+             10
+
+
+
+
+              J.C.K.B.A.
+
+
+
+
+66395103\8
+                                                     Schedule “B”
+                                                     WebEx Details
+
+     Virtual Courtroom 60 has been assigned for the above noted matter:
+
+     Virtual Courtroom Link:
+
+     https://albertacourts.webex.com/meet/virtual.courtroom60
+
+     Instructions for Connecting to the Meeting
+
+           1. Click on the link above or open up Chrome or Firefox and cut and paste it into your browser
+              address bar.
+           2. If you do not have the Cisco Webex application already installed on your device, the site will
+              have a button to install it. Follow installation instructions. Enter your full name and email address
+              when prompted
+           3. Click on the Open Cisco Webex Meeting.
+           4. You will see a preview screen. Click on Join Meeting.
+
+     Key considerations for those attending:
+
+1.     Please connect to the courtroom 15 minutes prior to the start of the hearing.
+
+2.    Please ensure that your microphone is muted and remains muted for the duration of the proceeding, unless
+     you are speaking. Ensure that you state your name each time you speak.
+
+3.    If bandwidth becomes an issue, some participants may be asked to turn off their video and participate by
+     audio only.
+
+4.    Note: Recording or rebroadcasting of the video is prohibited.
+
+
+5.    Note: It is highly recommended you use headphones with a microphone or a headset when using
+     Webex. This prevents feedback.
+
+     For more information relating to Webex protocols and procedures, please                                  visit:
+     https://www.albertacourts.ca/qb/court-operations-schedules/webex-remote-hearings-protocol
+
+     You can also join the meeting via the “Cisco Webex Meetings” App on your smartphone/tablet or other
+     smart device. You can download this via the App marketplace and join via the link provided above.
+
+
+
+
+     66395103\8
+
+     LEGAL_CAL:16465367.1
+     Rev. 2.02 (26-Jul-2013) AR140/2013
+

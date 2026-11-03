@@ -1,0 +1,525 @@
+                                                                           Clerk’s Stamp
+                                                                          C20426
+
+                                                                                       FILED
+                                                                    COM
+                                                                    Feb 19, 2025
+ COURT FILE NUMBER            B301-163430
+                                                                                     Feb 10, 2025
+ COURT                        COURT OF KING’S BENCH OF ALBERTA
+                                                                                       by Email
+ JUDICIAL CENTRE              CALGARY
+
+                              IN THE MATTER OF THE BANKRUPTCY AND INSOLVENCY
+                              ACT, RSC 1985, C B-3, AS AMENDED
+
+                              AND IN THE MATTER OF THE NOTICE OF INTENTION TO
+                              MAKE A PROPOSAL OF CLEO ENERGY CORP.
+
+ DOCUMENT                     BENCH BRIEF OF CLEO ENERGY CORP.
+
+ ADDRESS FOR SERVICE          GOWLING WLG (CANADA) LLP
+ AND CONTACT                  Suite 1600, 421 – 7th Avenue SW
+ INFORMATION OF PARTY         Calgary, AB T2P 4K9
+ FILING THIS DOCUMENT
+                              Telephone:     403-298-1946/ 403-298-1938
+                              Fax:           403-263-9193
+                              Email:        sam.gabor@gowlingwlg.com /
+                                             tom.cumming@gowlingwlg.com
+                              File No.:     G10010664
+
+                              Attention:     Sam Gabor/ Tom Cumming
+
+                APPLICATION BEFORE THE HONOURABLE JUSTICE M.J. LEMA
+             FEBRUARY 19, 2025 AT 10:00 AM ON THE CALGARY COMMERCIAL LIST
+
+
+
+
+66395156\4
+                                                        Table of Contents
+
+                                                                                                                                      Page
+
+
+I.      INTRODUCTION............................................................................................................ 1
+
+II.     ISSUES .............................................................................................................................. 4
+
+III.    LAW AND ARGUMENT................................................................................................ 4
+
+        A.         Extension of the Filing Period is Appropriate ....................................................... 4
+        B.         Amendment to the uCapital Facility and increase in the uCapital Charge ............ 7
+
+IV.     CONCLUSION AND RELIEF SOUGHT ..................................................................... 9
+
+
+
+
+                                                                     i
+66395156\4
+I.      INTRODUCTION
+
+Background
+
+1.      Cleo is a private Alberta corporation formed in 2016 and carries on the business of producing
+        medium gravity based oil and gas with operated and non-operated working interests in the Alliance,
+        Atlee, Enchant/Taber, Fabyan, Hayter, Kessler, Neutral Hills, Sedgewick, Shorncliffe and Silver
+        Heights areas of Alberta. Cleo’s head office is located in Calgary, Alberta and has a field office in
+        Shorncliffe, Alberta.
+
+2.      Since early in 2024, Cleo has been experiencing serious financial difficulties and therefore on
+        December 8, 2024, filed a notice of intention to make a proposal pursuant to section 50.4(1) of the
+        Bankruptcy and Insolvency Act, RSC 1985, c B-3, as amended (the “BIA”) designating Alvarez &
+        Marsal Canada Inc. (“A&M”) as its proposal trustee (in such capacity, the “Proposal Trustee”).
+
+3.      The following Orders are relevant to the relief being requested in this Application:
+
+        (a)     an Order pronounced on January 6, 2025 (the “January 6 Order”) by the Honourable
+                Justice M.J. Lema in which the following relief was provided:
+
+                (i)     the time within which Cleo was required to file a proposal was extended to
+                        February 21, 2025;
+
+                (ii)    a charge against the property and assets of Cleo (the “Property”) was granted in
+                        favour of the Proposal Trustee, legal counsel to the Proposal Trustee and legal
+                        counsel to Cleo for their respective professional fees and disbursements in an
+                        amount not to exceed $700,000 (the “Administration Charge”);
+
+                (iii)   an interim financing facility in the maximum principal amount of $750,000 (the
+                        “uCapital Facility”) granted pursuant to a commitment letter dated January 5,
+                        2025 between uCapital – uLoan Solutions Inc. (“uCapital”) as interim lender and
+                        Cleo as borrower was approved;
+
+                (iv)    a charge against the Property in favour of uCapital (the “uCapital Charge”) was
+                        granted to secure Cleo’s obligations under the uCapital Facility;
+
+
+
+
+66395156\4
+                                                    2
+
+
+               (v)     a charge against the Property was granted to secure Cleo’s obligation to indemnify
+                       its director and officer against obligations and liabilities incurred after the Filing
+                       Date (the “D&O Charge”); and
+
+               (vi)    the Administration Charge, the uCapital Charge and the D&O Charge were
+                       declared to rank as against the Property ahead of ahead of any and all charges,
+                       security interests, liens, trusts, deemed trusts and encumbrances against the
+                       Property, including liens and trusts created by federal and provincial legislation
+                       (collectively, the “Encumbrances”), and as between themselves, the
+                       Administration Charge was declared to rank first in priority, the uCapital Charge
+                       was declared to rank second in priority and the D&O Charge was declared to rank
+                       third in priority; and
+
+        (b)    an Order of the Honourable Justice J.T. Nielson pronounced January 22, 2025 (the “Sale
+               Process Order”) approving a sale and solicitation process (the “SSP”) pursuant to which
+               Cleo will seek transactions under which its Property will be sold on a going concern basis
+               or an investment transaction will be sought to restructure its business and affairs.
+
+4.      This Bench Brief is submitted on behalf of Cleo in support of an Application seeking from this
+        Honourable Court an Order, among other things:
+
+        (a)    extending the period, ending February 21, 2025, within which Cleo is required under
+               section 50.4(8) of the BIA to file a proposal by an additional 45 days to April 4, 2025 (such
+               period, as extended from time to time under section 50.4(9) of the BIA, being the “Filing
+               Period”);
+
+        (b)    authorizing an amendment to the uCapital Facility whereby the maximum principal amount
+               available to Cleo will be increased from $750,000 to $1,000,000 pursuant to the second
+               amending agreement dated February 10, 2025 (the “Second Amending Agreement”)
+               between uCapital and Cleo; and
+
+        (c)    increasing the amount of the uCapital Charge created in paragraph 6 of the January 6 Order
+               from the principal amount of $900,000 to $1,000,000, together with any interest accrued
+               thereon or costs and expenses incurred thereunder.
+
+
+
+
+66395156\4
+                                                      3
+
+7.      This application is supported by an Affidavit sworn February 10, 2025 by Chris Lewis (“Mr.
+        Lewis”), the sole Director, Executive Chairman, and Chief Executive Officer of Cleo (the
+        “February Affidavit”). The further facts with respect to this Application are more fully set out in
+        the February Affidavit and capitalized terms not defined herein have the meanings given to them
+        in the February Affidavit.
+
+8.      All references to monetary amounts referenced herein are in Canadian dollars, unless otherwise
+        stated.
+
+Background to Cleo’s Financial Difficulties and Actions taken by Cleo during the Proposal
+Proceedings
+
+9.      Cleo’s financial difficulties arose from multiple shut-ins of its wells and reductions in its production
+        since early 2024 and in reductions in the market prices it was able to obtain for its oil and gas
+        production.1
+
+10.     In the Proposal Proceedings, Cleo is seeking either the sale of all of its Property on a going concern
+        basis or an investment transaction pursuant to which it will be recapitalized.2
+
+11.     The SSP was launched immediately after the Sale Process Order was pronounced on January 20,
+        2025. Under the SSP, a potential bidder is given access to a virtual data room provided that it
+        executes a non-disclosure agreement and must provide to the Proposal Trustee a non-binding letter
+        of intent expressing an interest in a transaction by no later than February 27, 2025 and a binding
+        offer by no later than March 13, 2025. Any sale or restructuring transaction would have to be
+        approved by this Honourable Court. The SSP anticipates a closing of such transactions by March
+        31, 2025 or three days after Court approval is obtained.3
+
+12.     In its first report dated January 6, 2025, the Proposal Trustee advised this Honourable Court that
+        according to the 13-week cash flow forecast ending April 4, 2025, even with the uCapital Facility
+        Cleo would experience a cash flow shortfall by the week of February 21, 2025. Cleo has therefore
+        sought out additional interim financing from uCapital and other potential lenders.4
+
+
+
+
+1
+  February Affidavit, paras 8-10.
+2
+  February Affidavit, para 13.
+3
+  February Affidavit, paras 15-16.
+4
+  February Affidavit, paras 18 & 21.
+
+
+66395156\4
+                                                     4
+
+13.     Pursuant to the Second Amending Agreement, uCapital agreed to increase the maximum principal
+        amount available under the uCapital Facility from $750,000 to $1,000,000.5 The increase is
+        conditional on this Honourable Court making an Order extending the Filing Period, approving the
+        increase in the uCapital Facility by $250,000 and increasing the maximum principal amount
+        secured by the uCapital Charge by that amount.6
+
+14.     Since the increase in the uCapital Facility will only provide sufficient working capital to March 21,
+        2025, Cleo is seeking additional interim financing from other parties.7
+
+15.     Since the beginning of January 2025, Cleo has been carrying out a repair and maintenance program
+        on its wells and facilities in order to increase its production. Since January 15, 2025, this has
+        resulting in an increase in its production of oil from 214 bbl/d to 403 bbl/d, which is projected to
+        increase its oil revenue from $615,000 for December 2024 to $1,015,000 for March 2025.8
+
+II.     ISSUES
+
+16.     This Brief addresses whether this Honourable Court should make an Order:
+
+        (a)      extending the Filing Period; and
+
+        (b)      approving the increase in the uCapital Facility and increasing the maximum principal
+                 amount secured by the uCapital Charge.
+
+III.    LAW AND ARGUMENT
+
+A.      Extension of the Filing Period is Appropriate
+
+17.     The initial 30-day period within which Cleo was required to file a proposal ended on January 7,
+        2025. That period was extended by the January 6 Order to February 21, 2025. If Cleo fails to file
+        a proposal by February 21, 2025, or by the date of any extension granted under section 50.4(9) of
+        the BIA, under section 50.4(8) Cleo will be deemed to have made an assignment in bankruptcy.
+
+18.     Under section 50.4(9) of the BIA, Cleo is entitled to apply to the Court for an Order extending the
+        Filing Period:
+
+
+
+
+5
+  February Affidavit, para 19.
+6
+  February Affidavit, para 20.
+7
+  February Affidavit, para 21.
+8
+  February Affidavit, paras 27 & 29.
+
+
+66395156\4
+                                                        5
+
+                 50.4(9) The insolvent person may, before the expiry of the 30-day period referred to
+                 in subsection (8) or of any extension granted under this subsection, apply to the court
+                 for an extension, or further extension, as the case may be, of that period, and the court,
+                 on notice to any interested persons that the court may direct, may grant the extensions,
+                 not exceeding 45 days for any individual extension and not exceeding in the aggregate
+                 five months after the expiry of the 30-day period referred to in subsection (8), if
+                 satisfied on each application that
+
+                 (a) the insolvent person has acted, and is acting, in good faith and with due diligence;
+
+                 (b) the insolvent person would likely be able to make a viable proposal if the extension
+                 being applied for were granted; and
+
+                 (c) no creditor would be materially prejudiced if the extension being applied for were
+                 granted.9
+
+19.     Under section 50.4(9) of the BIA, the burden of proof is on the debtor to show on the balance of
+        probabilities that an extension is justified,10 although the evidentiary threshold to meet the onus is
+        low.11 The Court assesses the likelihood of a debtor making a viable proposal on an objective basis,
+        considering what a reasonable creditor might expect to happen or what might reasonably be
+        expected to occur, rather than what a specific creditor would do.12 The test requires a dispassionate
+        evaluation by the Court to consider what a reasonable creditor might expect to happen or what
+        might reasonably be expected to occur.13
+
+20.     While Cleo’s efforts during the Proposal Proceedings are focussed on increasing production and
+        carrying out the SSP, the intent is to preserve the business either through one or more sales on a
+        going concern basis or a restructuring through an investment transaction. Courts have indicated
+        that seeking a sale of assets is evidence of good faith for the purposes of section 50.4(9) of the
+        BIA.14
+
+21.     In Pacific Shores Resort & Spa Ltd., Re, a stay extension was granted in the CCAA proceedings
+        notwithstanding that the interim financing was less than what the cash flow projections indicated
+        was required for the debtor to meet the next stay extension.15
+
+
+
+
+9
+  BIA section 50.4(9) [Tab 1].
+10
+   Re Heritage Flooring Ltd. (2004), 46 CBR (3d) 280 at paras 31, 32 and 37 [Tab 2].
+11
+   Re Scotian Distribution Services Limited, 2020 NSSC 131 at para 24 [Tab 3]; Re T & C Steel Ltd, 2022 SKKB 236
+at para 20 [Tab 4].
+12
+   Nautican v Dumont, 2020 PESC 15 at paras 16-18 [Tab 5].
+13
+   Baldwin Valley Investors Inc., Re, 1994 CarswellOnt 254 [Tab 6].
+14
+   Re Colossus Minerals, 2014 ONSC 514 at para 39 [Tab 7].
+15
+   Pacific Shores Resort & Spa Ltd., Re 2011 BCSC 1775 at para 45, 60 [TAB 9].
+
+
+66395156\4
+                                                         6
+
+22.        Cleo is seeking an extension of the Filing Period to April 4, 2025. Cleo respectfully submits that
+           the extension is appropriate for the following reasons:
+
+           (a)      Cleo has acted and continues to act in good faith and with due diligence;
+
+           (b)      no creditor will be materially prejudiced by the requested extension of the Stay Period; and
+
+           (c)      the extension of the Stay Period is necessary to allow Cleo sufficient time and opportunity
+                    to continue the restructuring of its business and affairs and pursue strategic alternatives.
+
+23.        Since the NOI was filed, Cleo has worked diligently and in good faith to advance these Proposal
+           Proceedings and to comply with the various requirements under the BIA. These steps have included,
+           among other things:
+
+           (a)      preparing and analysing a list of creditors and identifying issues specific to certain
+                    creditors;
+
+           (b)      providing the Proposal Trustee with access to its books and records;
+
+           (c)      working with the Proposal Trustee on the preparation of the Cash Flow Forecast;
+
+           (d)      communicating with stakeholders and customers regarding the proposal process;
+
+           (e)      communicating with the AER regarding the status of its operations and the proposal
+                    process;
+
+           (f)      carrying out discussions with uCapital and other potential interim lenders in order to secure
+                    the additional financing required to continue operating during the Proposal Proceedings,
+                    carry out the SSP, and complete any sale or restructuring transactions arising from the SSP;
+
+           (g)      reviewing its operating expenses, pursuing the collection of accounts receivable and taking
+                    other steps to permit Cleo to be financially viable during these Proposal Proceedings; and
+
+           (h)      preparing this Application.16
+
+
+
+
+16
+     February Affidavit at para 26.
+
+
+66395156\4
+                                                          7
+
+24.      Cleo’s creditors will not be prejudiced by the extension of the Filing Period. Rather, the extension
+         is critical to permitting Cleo to carry out the SSP and potentially sell its assets on going concern
+         basis or recapitalize pursuant to a restructuring transaction.17
+
+II.      The Proposal Trustee is supportive of the extension of the Filing Period to April 4, 2025.18
+
+B.       Amendment to the uCapital Facility and increase in the uCapital Charge
+
+25.      Section 50.6 of the BIA confers this Honourable Court with the jurisdiction to approve an interim
+         facility and grant a prior ranking charge to secure a debtor’s obligations thereunder:
+
+                   50.6(1) Interim Financing: On application by a debtor in respect of whom a
+                   notice of intention was filed under section 50.4 or a proposal was filed under
+                   subsection 62(1) and on notice to the secured creditors who are likely to be
+                   affected by the security or charge, a court may make an order declaring that
+                   all or part of the debtor’s property is subject to a security or charge — in an
+                   amount that the court considers appropriate — in favour of a person specified
+                   in the order who agrees to lend to the debtor an amount approved by the court
+                   as being required by the debtor, having regard to the debtor’s cash-flow
+                   statement referred to in paragraph 50(6)(a) or 50.4(2)(a), as the case may be.
+                   The security or charge may not secure an obligation that exists before the
+                   order is made.19
+
+26.      Section 50.6(5) of the BIA provides a non-exhaustive list of factors to be considered by this
+         Honourable Court in deciding whether to declare Cleo’s Property subject to the Interim Lender’s
+         Charge:
+
+                   50.6(5) Factors to be considered: In deciding whether to make an order, the
+                   court is to consider, among other things,
+
+                   (a) the period during which the debtor is expected to be subject to proceedings
+                   under this Act;
+
+                   (b) how the debtor's business and financial affairs are to be managed during
+                   the proceedings;
+
+                   (c) whether the debtor's management has the confidence of its major creditors;
+
+                   (d) whether the loan would enhance the prospects of a viable proposal being
+                   made in respect of the debtor;
+
+                   (e) the nature and value of the debtor's property;
+
+
+
+17
+   February Affidavit at para 34.
+18
+   February Affidavit at para 35.
+19
+   BIA section 50.6(1) [Tab 1].
+
+
+66395156\4
+                                                       8
+
+                (f) whether any creditor would be materially prejudiced as a result of the
+                security or charge; and
+
+                (g) the trustee's report referred to in paragraph 50(6)(b) or 50.4(2)(b), as the
+                case may be.20
+
+27.     This Honourable Court approved the uCapital Facility and granted the uCapital Charge as security
+        therefor in the January 6 Order. At the time that Order was granted, the Proposal Trustee in the
+        First Report disclosed to this Honourable Court that without additional interim financing, there
+        would be a cash flow shortfall starting in the week of February 21, 2025.21
+
+28.     All of the secured creditors of Cleo are on the service list for these Proposal Proceedings and will
+        be given notice of this Application and the relief being sought.
+
+29.     The Proposal Trustee has recommended that this Court approve the increase in the uCapital Facility
+        and the uCapital Charge.22
+
+30.     The increase in the uCapital Facility will provide the necessary working capital to fund Cleo’s
+        operations and activities under the SSP to the week of March 21, 2025 and therefore will enhance
+        the prospects of one or more viable going concern sale transactions or a restructuring transaction
+        pursuant to a proposal.
+
+31.     Under the Second Amending Agreement, the increase in the uCapital Charge is a condition
+        precedent to the increase in the uCapital Facility.23 While this will mean that the amount secured
+        by the uCapital Charge will increase, this Honourable Court has already granted prior ranking
+        security for the original amount of the uCapital Facility. The grant of such priority has been found
+        by courts to be within their discretion and to be appropriate:
+
+                In Canada North, the Supreme Court of Canada endorsed prior authority
+                stating that the granting of super-priority charges is critical as a “key aspect
+                of the debtor’s ability to attempt a workout”, although it noted that a Canadian
+                Court in granting a charge with priority over Crown interests should do so
+                only when necessary. The Supreme Court did not determine in Canada North
+                whether the Crown’s deemed trust for employee withholdings renders it a
+                “secured creditor” for the purposes of determining whether the Crown can be
+                primed by charges created by ss. 50.6(1), 50.6(3) and 50.6(5) of the BIA…24
+
+
+
+20
+   BIA section 50.6(5) [Tab 1].
+21
+   February Affidavit at para 18.
+22
+   February Affidavit at para 22.
+23
+   February Affidavit at para 20.
+24
+   Canada v. Canada North Group Inc., 2021 SCC 30 [Tab 8] at paras 67 and 72.
+
+
+66395156\4
+                                                           9
+
+
+
+32.         Cleo has in consultation with the Proposal Trustee reduced its expenditures so as to conseiwe cash
+            and is only incurring costs that will preserve its operations and increase its production. thereb>’
+            enhancing the marketability of its Property and business for the purposes of the SSP,
+
+33.         Rather than any creditor being prejudiced by the increase in the uCapital Facility, were this
+            Honourable Court not to approve the increase. Cleo would have to cease operating and abandon
+                                                                                                                 25
+            the SSP. In such a circumstance, the potential recoveries of Cleo’s creditors would be prejudiced.
+
+34.         For all of these reasons, Cleo respectfully submits that an Order approving the amended Interim
+            Financing Facility to be entered into by Cleo, approving the amended uCapital Facility and
+            declaring that the Property is subject to the priority of the amended uCapital Charge will be
+            necessary and appropriate in the circumstances.
+
+IV.         CONCLUSION AND RELIEF SOUGHT
+
+
+35.         For the reasons above, Cleo requests the Orders sought be granted as they are fair, necessaiy and
+            reasonable in the circumstances and represent the best option to permit Cleo to present a proposal
+            to the benefit of its creditors.
+
+
+ALL OF WHICH IS RESPECTFULLY SUBMITTED this lOtli day of Fcbruaiy, 2025.
+
+                                                    COWLING                   ANADA)TxP
+
+                                                    Per:
+                                                               Sam Gabor/Tom Cumming
+                                                               Counsel for Cleo Energy Corp.
+
+
+
+
+25
+     Febriiaiy Affidavit at para 24
+
+
+66395156\4
+                                               10
+
+                                 TABLE OF AUTHORITIES
+
+
+ Tab         Authority
+
+ 1.          Bankruptcy and Insolvency Act, RSC 1985, c B-3
+
+ 2.          Re Heritage Flooring Ltd. (2004), 46 CBR (3d) 280
+
+ 3.          Re Scotian Distribution Services Limited, 2020 NSSC 131
+
+ 4.          Re T & C Steel Ltd, 2022 SKKB 236
+
+ 5.          Nautican v Dumont, 2020 PESC 15
+
+ 6.          Baldwin Valley Investors Inc., Re, 1994 CarswellOnt 254
+
+ 7.          Re Colossus Minerals, 2014 ONSC 514
+
+ 8.          Canada v. Canada North Group Inc., 2021 SCC 30
+
+ 9.          Pacific Shores Resort & Spa Ltd., Re 2011 BCSC 1775
+
+
+
+
+66395156\4
+
