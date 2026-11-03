@@ -1,0 +1,3335 @@
+                                                                                              Form 49
+                                                                                             Rule 13.19
+                                                                                            Clerk's Stamp
+
+
+ COURT FILE NO.
+
+ COURT                         COURT OF KING'S BENCH OF ALBERTA
+
+ JUDICIAL CENTRE               CALGARY
+
+                               IN THE MATTER OF THE BANKRUPTCY AND INSOLVENCY
+                               ACT, RSC 1985, C C-8, AS AMENDED
+                               AND IN THE MATTER OF THE NOTICE OF INTENTION TO
+                               MAKE A PROPOSAL OF CLEO ENERGY CORP.
+
+
+ APPLICANT                     CLEO ENERGY CORP.
+
+ DOCUMENT                      AFFIDAVIT
+
+ ADDRESS FOR                   Gowling WLG (Canada) LLP
+ SERVICE AND                   1600, 421 – 7th Avenue SW
+ CONTACT                       Calgary, AB T2P 4K9
+ INFORMATION OF                Attn:     Sam Gabor/ Tom Cumming
+ PARTY FILING                  Phone: (403) 298 1946 / (403) 298 1938
+ THIS DOCUMENT                 Email: sam.gabor@gowlingwlg.com / tom.cumming@gowlingwlg.com
+                               Fax:      (403) 263-9193
+                               File No.: G10010664
+
+                                    AFFIDAVIT OF CHRIS LEWIS
+                                      Sworn December 11, 2024
+
+             I, CHRIS LEWIS, of the City of Calgary, in the Province of Alberta, MAKE OATH
+AND SAY THAT:
+
+1.           I am the sole Director, Executive Chairman, and Chief Executive Officer of Cleo Energy
+             Corp. (“Cleo”). As such I have personal knowledge of the matters herein deposed to, except
+             where stated to be based upon information and belief, in which case I verily believe same
+             to be true.
+
+2.           I am authorized to swear this Affidavit as corporate representative of Cleo.
+
+
+
+
+65560193\3
+Rev. 2.0 (15/11/10)
+                                                  -2-
+
+
+3.      In preparing this Affidavit, I consulted with Cleo’s management and their legal, financial
+        and other advisors. I also reviewed Cleo’s business records relevant to these proceedings
+        and have satisfied myself that I am possessed of sufficient information and knowledge to
+        swear this Affidavit.
+
+4.      All references to dollar amounts contained herein are to Canadian Dollars unless otherwise
+        stated.
+
+RELIEF REQUESTED
+
+5.      This Affidavit is sworn in support of an Application by Cleo for Orders under the
+        Bankruptcy and Insolvency Act, RSC 1985, c B-3, as amended (the “BIA”) among other
+        things:
+
+        (a)       abridging the time for service of notice of this Application, deeming service of
+                  notice of this Application to be good and sufficient, and declaring that there is no
+                  other person who ought to have been served with notice of this Application;
+
+        (b)       authorizing and directing the Royal Bank of Canada (“RBC”) to cancel any
+                  cheques it issued as a result of the Garnishee Summons (as defined herein) and to
+                  make available the Garnished Funds (as defined herein) into Cleo’s bank account
+                  with RBC ending in 041 (the “Account”); and
+
+        (c)       such further and other relief as Cleo may request and this Honourable Court may
+                  grant.
+
+DESCRIPTION OF THE CLEO’S BUSINESS AND BACKGROUND
+
+6.      Cleo was originally incorporated in the Province of Alberta on May 31, 2016. Cleo is a
+        wholly owned subsidiary of Chimera Management Group Ltd., a holding corporation.
+
+7.      Cleo is a privately owned oil and gas operator of medium gravity oil based in Calgary,
+        Alberta with operations throughout East Central Alberta. Cleo has been operating since its
+        inception in 2016.
+
+
+
+
+65560193\3
+                                                 -3-
+
+
+8.      Cleo has a number oil wells and gas wells located primarily in the following fields
+        throughout the Western Canada Sedimentary Basin in East Central Alberta (the “Fields”),
+        including at the following locations:
+
+        (a)    Silver Heights;
+
+        (b)    Shorncliffe;
+
+        (c)    Neutral Hills;
+
+        (d)    Neutral Hills North;
+
+        (e)    Fabyan;
+
+        (f)    Sedgewick.
+
+9.      Cleo transports the oil and gas product (the “Products”) from the Fields to a local sales
+        point either by pipeline or transported by trucks. The Products are then sold to a marketer
+        and the revenue is paid out to Cleo on the 25th of every month.
+
+EVENTS LEADING TO CLEO’s CURRENT CIRCUMSTANCES
+
+10.     Cleo’s revenue is linked to the productivity of its oil and gas wells, as well as the market
+        price of oil and gas. Cleo has recently experienced low production, partly due to
+        mechanical failures and subsequently a major theft in its main producing oil and gas fields.
+
+11.     Cleo’s financial difficulties further stem from a variety of factors, including the lack of
+        capital investment to undertake necessary mechanical repairs which has led to the
+        shutdown of the Cleo’s main producing fields contributing to a decline in production and
+        revenue rates. Additionally, there has been a significant reduction in oil and gas prices
+        during the month of September 2024, which has exacerbated Cleo’s current financial
+        difficulties. These challenges have placed considerable strain on Cleo, causing monthly
+        revenues to decrease to unsustainable levels.
+
+12.     Despite Cleo’s efforts to reach profitability, Cleo continues to face financial difficulties.
+        Cleo is unable to meet its obligations as they become due and is insolvent.
+
+
+65560193\3
+                                                -4-
+
+
+13.     On December 8, 2024, Cleo filed a Notice of Intention to Make a Proposal (“NOI”)
+        pursuant to subsection 50.4(1) of the BIA. Alvarez & Marsal Inc. has been appointed as
+        proposal trustee (the “Proposal Trustee”). A copy of the NOI is attached as Exhibit “A”.
+        Cleo filed the NOI in order to protect Cleo`s assets, maintain the value of its business and
+        assets, protect itself and its stakeholders interests, and provide itself an opportunity and
+        breathing space to restructure.
+
+14.     Cleo has approximately $23,000,000 in debt, of which approximately $5,000,000 is
+        secured. Further details relating to Cleo’s insolvency will be set out in a substantive
+        affidavit being prepared for a stay extension hearing before the Honourable Justice Lema
+        on January 6, 2024.
+
+GARNISHEE SUMMONS
+
+15.     I am advised by Cleo’s legal counsel Sam Gabor of Gowling WLG (Canada) LLP
+        (“Gowling”), that as a result of the filing of the NOI, all enforcement proceedings against
+        Cleo and its assets are automatically stayed for an initial period of thirty (30) days from
+        December 8, 2024 (the “Stay”). Further, no new enforcement proceedings may be
+        commenced or continued as against Cleo during the Stay, including the continued
+        enforcement of garnishee summons.
+
+16.     Garnishee proceedings were initiated against Cleo by Morganick Blending Services Corp.
+        (“Morganick”) under Court File No. 2401-10333 prior to the Stay. Morganick’s collection
+        agency T&S Collections Ltd. issued an initial garnishee summons (the “Initial
+        Garnishment”) upon RBC on or around August 6, 2024 in the amount of $16,410.99,
+        which amount was paid into Court by RBC. Attached as Exhibit “B” is an email from
+        RBC confirming its reception of the Initial Garnishment. Attached as Exhibit “C” is the
+        Certificate of Default Judgment obtained by Morganick.
+
+17.     Morganick was not paid in full from the Initial Garnishment as a result of the Court’s
+        allocation of funds between writ holders registered in the personal property registry
+        (“PPR”). Accordingly, on or around November 11, 2024 Morganick’s collection agency
+        caused a second garnishee summons (the “Garnishee Summons”) to be issued upon RBC
+
+
+
+65560193\3
+                                                 -5-
+
+
+        in the amount of $152,436.18 in order to trigger payout of all writs registered in the PPR
+        against Cleo and in order to cause Morganick to be paid in full by the Garnishee Summons.
+        Attached as Exhibit “D” is an email from RBC confirming its receipt of the Garnishee
+        Summons.
+
+18.     Attached hereto and marked as Exhibit “E” is a recent PPR name search of Cleo
+        evidencing the writ filed by Morganick as against Cleo.
+
+19.     The Garnishee Summons caused the Account to be frozen by RBC and RBC to issue a
+        cheque to the Court in the amount of $152,436.18 (the “Garnished Funds”).
+
+20.     On December 9, 2024, a letter was sent by Gowling on behalf of Cleo to the Alberta Court
+        of King’s Bench Accounting requesting that any garnished funds paid into court with
+        respect to Cleo, including the Garnished Funds, need to be provided to Gowling as a result
+        of the Stay. A copy of the letter is attached as Exhibit “F”.
+
+21.     On December 9, 2024, a letter was sent by Gowling on behalf of Cleo to Morganick
+        advising it of the NOI and Stay, and that the Garnished Funds would need to be repaid to
+        Cleo. A copy of this letter is attached as Exhibit “G”. Gowling has also provided same
+        letters to two other writ holders who have issued recent garnishments against Cleo advising
+        them of the Stay.
+
+22.     As a result of the recent Canada Post strike, the cheque sent by RBC for the Garnished
+        Funds has not yet reached the Court. On December 11, 2024, I contacted the Court Registry
+        which confirmed same to me.
+
+23.     Gowling by letters requested of RBC on December 9, 2024 and December 11, 2024 that it
+        unlock the Account, cancel the cheque for the Garnished Funds and make available the
+        Garnished Funds into the Account as a result of the Stay. Copies of these letters are attached
+        as Exhibit “H” and Exhibit “I”.
+
+24.     RBC has unlocked the Account and Cleo now has access to it. However, the Garnishment
+        Funds have not been returned into the Account by RBC presumably as a result of the
+        Garnishee Summons. The Garnished Funds are needed by Cleo to meet its payroll
+
+
+65560193\3
+                                                 -6-
+
+
+        obligations due this Friday, December 13, 2024 and to maintain business operations during
+        the Stay. Cleo has twelve employees and nine consultants which fall under its payroll
+        calculations. Cleo’s payroll obligations are approximately $132,000.
+
+25.     Jason Enns of RBC, Cleo’s Private Banker, has requested a court order be provided to RBC
+        for RBC to cancel the cheque for the Garnished Funds andmake the Garnished Funds
+        available in the Account. Mr. Enns has advised me that RBC will follow a court order in
+        this regard.
+
+26.     If Cleo is unable to meet its payroll obligations and continue its operations during the Stay,
+        its oil and gas assets will be placed into jeopardy creating potential environmental issues
+        and risk of significant loss to Cleo and its creditors which are owed in excess of
+        $23,000,000. As of the signing of this Affidavit, Cleo in good faith, is currently seeking
+        interim financing from various sources and a prepayment of its oil revenues from its oil
+        and gas marketer, however, none have yet confirmed that they will provide the respective
+        financing or the prepayment by the end of the week. Accordingly, Cleo currently has no
+        other confirmed adequate sources of available funds this week to meet its payroll
+        obligations and Cleo is reliant on the Garnished Funds to do so.
+
+27.     Cleo needs to make payroll to be in a position to maintain its oil and gas assets, and needs
+        to continue carrying on business during the Stay to be able to proceed forward with the
+        NOI proceeding for the benefit of its stakeholders.
+
+28.     The Proposal Trustee is supportive of this application.
+
+CONCLUSION
+
+29.     I swear this Affidavit in support of an Application for the relief set out in paragraph 5 of
+        this Affidavit and for no other or improper purpose.
+
+
+
+
+65560193\3
+Ü·-¬®·½¬ ±º   ß´¾»®¬¿
+Ü·ª·-·±² Ò±ò ðî ó Ý¿´¹¿®§
+Ý±«®¬ Ò±ò     îëóíïêíìíð
+Û-¬¿¬» Ò±ò    îëóíïêíìíð
+
+
+                            ×² ¬¸» Ó¿¬¬»® ±º ¬¸» Ò±¬·½» ±º ×²¬»²¬·±² ¬± ³¿µ» ¿ °®±°±-¿´ ±ºæ
+
+                                                       ÝÔÛÑ Û²»®¹§ Ý±®°ò
+
+                                                         ×²-±´ª»²¬ Ð»®-±²
+
+                                            ßÔÊßÎÛÆ ú ÓßÎÍßÔ ÝßÒßÜß ×ÒÝò
+                                                   Ô·½»²-»¼ ×²-±´ª»²½§ Ì®«-¬»»
+
+
+Ü¿¬» ±º ¬¸» Ò±¬·½» ±º ×²¬»²¬·±²æ                                                 Ü»½»³¾»® ðèô îðîì
+
+
+
+                   ÝÛÎÌ×Ú×ÝßÌÛ ÑÚ Ú×Ô×ÒÙ ÑÚ ß ÒÑÌ×ÝÛ ÑÚ ×ÒÌÛÒÌ×ÑÒ ÌÑ ÓßÕÛ ß ÐÎÑÐÑÍßÔ
+                                              Í«¾-»½¬·±² ëðòì øï÷
+
+
+
+
+×ô ¬¸» «²¼»®-·¹²»¼ô Ñºº·½·¿´ Î»½»·ª»® ·² ¿²¼ º±® ¬¸·- ¾¿²µ®«°¬½§ ¼·-¬®·½¬ô ¼± ¸»®»¾§ ½»®¬·º§ ¬¸¿¬ ¬¸» ¿º±®»²¿³»¼ ·²-±´ª»²¬ °»®-±²
+º·´»¼ ¿ Ò±¬·½» ±º ×²¬»²¬·±² ¬± Ó¿µ» ¿ Ð®±°±-¿´ «²¼»® -«¾-»½¬·±² ëðòì øï÷ ±º ¬¸» Þ¿²µ®«°¬½§ ¿²¼ ×²-±´ª»²½§ ß½¬å
+Ð«®-«¿²¬ ¬± -«¾-»½¬·±² êçò øï÷ ±º ¬¸» ß½¬ô ¿´´ °®±½»»¼·²¹- ¿¹¿·²-¬ ¬¸» ¿º±®»²¿³»¼ ·²-±´ª»²¬ °»®-±² ¿®» -¬¿§»¼ ¿- ±º ¬¸» ¼¿¬» ±º
+º·´·²¹ ±º ¬¸» Ò±¬·½» ±º ×²¬»²¬·±²ò
+                                                                                                   Ü¿¬»æ Ü»½»³¾»® ðçô îðîìô ïïæìì
+ÛóÚ·´»ñÜ7°,¬ Û´»½¬®±²·¯«»                                                                                         Ñºº·½·¿´ Î»½»·ª»®
+                           Ø¿®®§ Ø¿§­ Þ«·´¼·²¹ô îîð ó ì¬¸ ßª» ÍÛô Í«·¬» ìéèôÝ¿´¹¿®§ôß´¾»®¬¿ôÝ¿²¿¼¿ôÌîÙìÈíôøèéé÷íéêóççðî
+                                       Ð»®-±²¿´ Ð®±°»®¬§ Î»¹·-¬®§
+                                         Í»¿®½¸ Î»-«´¬- Î»°±®¬                        Ð¿¹» ï ±º ëé
+
+                                             Í»¿®½¸ ×Ü ýæ Æïèïëìíîì
+
+
+
+
+ Ì®¿²-³·¬¬·²¹ Ð¿®¬§
+ ÛÔÜÑÎóÉßÔ ÎÛÙ×ÍÌÎßÌ×ÑÒÍ øïçèé÷ ÔÌÜò                                        ëððéíèèï
+                                                                            éèð ìîç ëçêç
+ ïîððô ïðïîí çç -¬ ÒÉ                                        Î»º»®»²½» ýæ
+ ÛÜÓÑÒÌÑÒô ßÞ ÌëÖ íØï
+
+
+
+
+Í»¿®½¸ ×Ü ýæ Æïèïëìíîì       Ü¿¬» ±º Í»¿®½¸æ îðîìóÜ»½óðë     Ì·³» ±º Í»¿®½¸æ ïëæïïæðë
+
+
+Þ«-·²»-- Ü»¾¬±® Í»¿®½¸ Ú±®æ
+ÝÔÛÑ ÛÒÛÎÙÇ ÝÑÎÐ
+
+
+
+
+                             Û¨¿½¬ Î»-«´¬ø-÷ Ñ²´§ Ú±«²¼
+
+
+
+
+                                         ÒÑÌÛæ
+
+     ß ½±³°´»¬» Í»¿®½¸ ³¿§ ®»-«´¬ ·² ¿ Î»°±®¬ ±º Û¨¿½¬ ¿²¼ ×²»¨¿½¬ Ó¿¬½¸»-ò
+                     Þ» -«®» ¬± ®»¿¼ ¬¸» ®»°±®¬- ½¿®»º«´´§ò
+                                             Ð»®-±²¿´ Ð®±°»®¬§ Î»¹·-¬®§
+                                                 Í»¿®½¸ Î»-«´¬- Î»°±®¬                            Ð¿¹» î ±º ëé
+
+                                                     Í»¿®½¸ ×Ü ýæ Æïèïëìíîì
+
+
+
+Þ«-·²»-- Ü»¾¬±® Í»¿®½¸ Ú±®æ
+ÝÔÛÑ ÛÒÛÎÙÇ ÝÑÎÐ
+Í»¿®½¸ ×Ü ýæ Æïèïëìíîì               Ü¿¬» ±º Í»¿®½¸æ îðîìóÜ»½óðë       Ì·³» ±º Í»¿®½¸æ ïëæïïæðë
+
+
+
+
+Î»¹·-¬®¿¬·±² Ò«³¾»®æ ïèðêïçîèìçí         Î»¹·-¬®¿¬·±² Ì§°»æ ÍÛÝËÎ×ÌÇ ßÙÎÛÛÓÛÒÌ
+    Î»¹·-¬®¿¬·±² Ü¿¬»æ îðïèóÖ«²óïç      Î»¹·-¬®¿¬·±² Í¬¿¬«-æ Ý«®®»²¬
+                                                Û¨°·®§ Ü¿¬»æ îðíïóÖ«²óïç îíæëçæëç
+
+
+
+
+    Û¨¿½¬ Ó¿¬½¸ ±²æ       Ü»¾¬±®        Ò±æ í
+
+
+ß³»²¼³»²¬- ¬± Î»¹·-¬®¿¬·±²
+
+ïèðéðçîíéðé                               ß³»²¼³»²¬                                 îðïèóÖ«´óðç
+
+îïðêðïíèëìì                               Î»²»©¿´                                   îðîïóÖ«²óðï
+
+îïðêðîðïéïî                               ß³»²¼³»²¬                                 îðîïóÖ«²óðî
+
+îîðìðêððìçì                               ß³»²¼³»²¬                                 îðîîóß°®óðê
+
+îîðìðêïéïíí                               Î»²»©¿´                                   îðîîóß°®óðê
+
+îìðëîçïéïëê                               Î»²»©¿´                                   îðîìóÓ¿§óîç
+
+îìðëîçîïìéê                               Î»²»©¿´                                   îðîìóÓ¿§óîç
+
+îìðêðìíîííê                               Î»²»©¿´                                   îðîìóÖ«²óðì
+
+
+
+Ü»¾¬±®ø-÷
+Þ´±½µ                                                                                             Í¬¿¬«-
+                                                                                                  Ü»´»¬»¼ ¾§
+ï        ÝÔÛÑ ÛÒÛÎÙÇ ÝÎÑÐò                                                                        ïèðéðçîíéðé
+         ïïé ó èÌØ ßÊÛ ÍÉ
+         ÝßÔÙßÎÇô ßÞ ÌîÐïÞì
+
+Þ´±½µ                                                                                             Í¬¿¬«-
+                                                                                                  Ý«®®»²¬
+î        ÔÛÉ×Íô ÝØÎ×ÍÌÑÐØÛÎô ÖÑØÒ ÓÝÎßÛ
+         çìð Î×ÊÛÎÜßÔÛ ßÊÛ ÍÉ
+         ÝßÔÙßÎÇô ßÞ ÌîÍðÇè
+                                                                Þ·®¬¸ Ü¿¬»æ
+                                                                ïçêêóÓ¿®óðç
+                                         Ð»®-±²¿´ Ð®±°»®¬§ Î»¹·-¬®§
+                                           Í»¿®½¸ Î»-«´¬- Î»°±®¬               Ð¿¹» í ±º ëé
+
+                                              Í»¿®½¸ ×Ü ýæ Æïèïëìíîì
+
+Þ´±½µ                                                                          Í¬¿¬«-
+                                                                               Ý«®®»²¬ ¾§
+í       ÝÔÛÑ ÛÒÛÎÙÇ ÝÑÎÐò                                                      ïèðéðçîíéðé
+        ïïé ó èÌØ ßÊÛ ÍÉ
+        ÝßÔÙßÎÇô ßÞ ÌîÐ ïÞì
+
+
+Í»½«®»¼ Ð¿®¬§ ñ Ð¿®¬·»-
+Þ´±½µ                                                                          Í¬¿¬«-
+                                                                               Ü»´»¬»¼ ¾§
+ï       ßÎËÒÜÛÔ ÝßÐ×ÌßÔ ÝÑÎÐÑÎßÌ×ÑÒ                                            îïðêðîðïéïî
+        ÍË×ÌÛ ìîðô ëïïç ÛÔÞÑÉ ÜÎ×ÊÛ ÍÉ
+        ÝßÔÙßÎÇô ßÞ ÌîÊïØî
+
+Þ´±½µ                                                                          Í¬¿¬«-
+                                                                               Ü»´»¬»¼ ¾§
+î       ßÎËÒÜÛÔ ÝßÐ×ÌßÔ ÝÑÎÐÑÎßÌ×ÑÒ                                            îîðìðêððìçì
+        ÍË×ÌÛ ìîðô ëïïç ÛÔÞÑÉ ÜÎ×ÊÛ ÍÉ
+        ÝßÔÙßÎÇô ßÞ ÌîÊïØî
+        Û³¿·´æ ÝßÌØÛÎ×ÒÛàßÎËÒÜÛÔÝßÐ×ÌßÔòÝÑÓ
+
+Þ´±½µ                                                                          Í¬¿¬«-
+                                                                               Ý«®®»²¬ ¾§
+í       ßÎËÒÜÛÔ ÝßÐ×ÌßÔ ÝÑÎÐÑÎßÌ×ÑÒ                                            îîðìðêððìçì
+        ýîðïô íððé ó ïìÌØ ÍÌÎÛÛÌ ÍÉ
+        ÝßÔÙßÎÇô ßÞ ÌîÌíÊê
+        Û³¿·´æ ÝßÌØÛÎ×ÒÛàßÎËÒÜÛÔÝßÐ×ÌßÔòÝÑÓ
+
+
+Ý±´´¿¬»®¿´æ Ù»²»®¿´
+Þ´±½µ   Ü»-½®·°¬·±²                                                            Í¬¿¬«-
+ï       ÌØÛ ÝÔÛÑ ÚßÞÇßÒ ßÍÍÛÌ ×Í ÞÑËÒÜ ÙÛÑÙÎßÐØ×ÝßÔÔÇ ÞÇ ìïóðêÉì ×Ò ÌØÛ ÍÛ     Ü»´»¬»¼ Þ§
+        ßÒÜ ìêóïïÉì ×Ò ÌØÛ ÒÉò ÌØÛ Ú×ÛÔÜ ×Í ÝØßÎßÝÌÛÎ×ÆÛÜ ÞÇ ßÐÐÎÑÈ×ÓßÌÛÔÇ ïéë îîðìðêððìçì
+        ßÝÌ×ÊÛ ÉÛÔÔÞÑÎÛÍô ÉØ×ÝØ ÐÎÑÜËÝÛ ×Ò ÌØÛ ÑÎÜÛÎ ÑÚ ìôððð ÓÝÚñÜ ÑÚ ÍÉÛÛÌ
+        ÒßÌËÎßÔ ÙßÍò ÌØÛ ÙßÍ ÙßÌØÛÎ×ÒÙ ×ÒÚÎßÍÌÎËÝÌËÎÛ ßÝÎÑÍÍ ÌØÛ Ú×ÛÔÜ
+        ×ÒÝÔËÜÛÍ êíð ÕÓÍ ÑÚ Ø×ÙØ ×ÒÌÛÙÎ×ÌÇ Ð×ÐÛÔ×ÒÛò ÙßÍ ×Í ÙßÌØÛÎÛÜ Ê×ß ÌÉÑ
+        ÝËÎÎÛÒÌÔÇ ÑÐÛÎßÌ×ÒÙ ÚßÝ×Ô×Ì×ÛÍô ÌØÛ ÚßÞÇßÒ ðêóðèóðìëóðéÉì ÙßÍ ÐÔßÒÌ
+        ßÒÜ ÝÑÓÐÎÛÍÍ×ÑÒ ÚßÝ×Ô×ÌÇ øÍßÔÛÍ ÐÑ×ÒÌ÷ô ßÒÜ ÌØÛ ßÔÞÛÎÍ ïðóîèóðìîóðèÉì
+        ÝÑÓÐÎÛÍÍÑÎ Í×ÌÛô ÉØ×ÝØ ÞÑÑÍÌÍ ÙßÍ ×Ò ÌØÛ ÍÑËÌØÛÎÒ ßÎÛ ÑÚ ÌØÛ Ú×ÛÔÜ
+        ËÐ ÌÑ ðêóðèò ß ÌØ×ÎÜ ÙßÍ ÐÔßÒÌ ßÌ ØßÎÜ×ÍÌÇ ïëóïïóðìíóðçÉì ×Í ÝËÎÎÛÒÌÔÇ
+        ×ÜÔÛ øÚÑÎÓÛÎ ÍßÔÛÍ ÐÑ×ÒÌ÷ô ßÍ Ú×ÛÔÜ ÊÑÔËÓÛÍ ßÎÛ ÛÝÑÒÑÓ×ÝßÔÔÇ
+        ÙßÌØÛÎÛÜ ßÒÜ ÛÚÚ×Ý×ÛÒÝÇ ÝÑÓÐÎÛÍÍÛÜ ßÌ ÌØÛ ßÞÑÊÛ Í×ÌÛÍ ßÌ ÌØ×Í Ì×ÓÛò
+        ÉÛÎÛ ÚËÎÌØÛÎ ÜÛÊÛÔÑÐÓÛÒÌ ÑÎ ÌØ×ÎÜ ÐßÎÌÇ ÙßÍ ÞÛ ÝÑÔÔÛÝÌÛÜô ÌØÛ ïëó
+        ïï Í×ÌÛ ×Í ÑÐÌ×ÓßÔÔÇ ÍÛÌ ËÐ ÌÑ ÎÛßÝÌ×ÊßÌÛô ÑÚÚÛÎ×ÒÙ ß ÓßÌÛÎ×ßÔ
+        ×ÒÝÎÛßÍÛ ×Ò ÙßÍ ØßÒÜÔ×ÒÙ ÝßÐßÝ×ÌÇ ×Ò ÌØÛ Ú×ÛÔÜò ÌØÛ Ú×ÛÔÜ Ð×ÐÛÔ×ÒÛ
+        ÙßÌØÛÎ×ÒÙ ÍÇÍÌÛÓ ×Í ËÒ×ÏËÛÔÇ Ôß×Ü ÑËÌ É×ÌØ ×Ò ÐÔßÝÛ ÊßÔÊÛÍ ÌÑ ×ÍÑÔßÌÛ
+        ÌØÛ ÒÑÎÌØ ßÒÜ ÍÑËÌØ ÍÛÝÌÑÎÍ ÑÚ ÌØÛ Ú×ÛÔÜ ßÒÜ ÐÎÑÜËÝÛ ÙßÍ
+        ÎÛÍÐÛÝÌ×ÊÛÔÇ ÌÑ ðêóðè ßÒÜ ïëóïïò ßÜÜ×Ì×ÑÒßÔ ÝÑÓÐÎÛÍÍ×ÑÒ
+        ÛÒØßÒÝÛÓÛÒÌÍ ÝÑËÔÜ ßÔÍÑ ÞÛ ÓßÜÛ ßÌ ÌØÛ ÚßÞÇßÒ ðêóðè ÐÔßÒÌ ÌÑ
+        ×ÒÝÎÛßÍÛ ÙßÍ ØßÒÜÔ×ÒÙ ÝßÐßÝ×ÌÇò ÝËÎÎÛÒÌ ÌØ×ÎÜ ÐßÎÌÇ ÙßÍ ÐÎÑÝÛÍÍÛÜ
+        ÞÇ ÝÔÛÑ ßÌ ðêóðè ×Í ßÐÐÎÑÈ×ÓßÌÛÔÇ éðð ÓÝÚñÜò ß ÍËÓÓßÎÇ ÑÚ ÌØÛ ßÞÑÊÛ
+        ÚßÝ×Ô×Ì×ÛÍ ÚÑÔÔÑÉÍæ
+                                    Ð»®-±²¿´ Ð®±°»®¬§ Î»¹·-¬®§
+                                        Í»¿®½¸ Î»-«´¬- Î»°±®¬                  Ð¿¹» ì ±º ëé
+
+                                          Í»¿®½¸ ×Ü ýæ Æïèïëìíîì
+
+î   ÚßÞÇßÒ ðêóðèóðìëóðéÉì ÙßÍ ÐÔßÒÌ ßÒÜ ÝÑÓÐÎÛÍÍ×ÑÒ ÚßÝ×Ô×ÌÇ                   Ü»´»¬»¼ Þ§
+                                                                               îîðìðêððìçì
+    ÌØÛ ÝËÎÎÛÒÌ ÙßÍ ÌØÎÑËÙØÐËÌ ßÌ ÚßÞÇßÒ ðêóðèóðìëóðéÉì ×Í íëð ÛíÓíñÜ Ê×ß
+    ø×ÒÝÔËÍ×ÊÛ ÑÚ éðð ÓÝÚñÜ ÌØ×ÎÜ ÐßÎÌÇ ÙßÍ÷ô ÌØÛ ÉØ×ÌÛ ÓÉêì í ÍÌßÙÛ ÎÛÝ×Ð
+    øÜÎ×ÊÛÒ ÞÇ ß ÉØ×ÌÛ ÍËÐÛÎ×ÑÎ èÙÌÔÕèîë ÛÒÙ×ÒÛ É×ÌØ ÌËÎÞÑ ïïðð ØÐ÷ò ÌØ×Í
+    ËÒ×Ì ØßÍ ÐÎÑÊÛÒ ÝßÐßÝ×ÌÇ ÑÚ ïëð ÛíÓíñÜ ÌØÎÑËÙØÐËÌò ïÍÌ ÍÌßÙÛ ÍËÝÌ×ÑÒ
+    ×Í ïëð ÕÐßô îÒÜ ÍÌßÙÛ ÍËÝÌ×ÑÒ ×Í èîð ÕÐßô íÎÜ ÍÌßÙÛ ÍËÝÌ×ÑÒ ×Í ïôçðð ÕÐß
+    ßÒÜ íÎÜ ÍÌßÙÛ Ü×ÍÝØßÎÙÛ ÌÑ ÍßÔÛÍ ÎßÒÙÛÍ ÞÛÌÉÛÛÒ ìôððð ÌÑ ìôëðð ÕÐßò
+    ÌØÛ Í×ÌÛ ÜÑÛÍ ÒÑÌ ÎÛÏË×ÎÛ ß ÜÛØÇÜÎßÌ×ÑÒ ËÒ×Ì ÜËÛ ÌÑ ÌØÛ ÜÎÇ ÒßÌËÎÛ
+    ÑÚ ÌØÛ ÙßÍò ÚÎÛÛ ÉßÌÛÎñÔ×ÏË×ÜÍ ßÎÛ ÕÒÑÝÕÛÜ ÑËÌ ßÌ ÌØÛ ×ÒÔÛÌ ÍÔËÙ
+    ÝßÌÝØÛÎò ß ÎÛÚÎ×ÙÛÎßÌ×ÑÒ ËÒ×Ì ÑÒ Í×ÌÛ ÕÒÑÝÕÍ ÑËÌ ÝÑÒÜÛÒÍßÌÛ ÌÑ
+    ÑÒÍ×ÌÛ ÌßÒÕßÙÛô ÉØ×ÝØ ×Í ÌØÛÒ ÌÎËÝÕÛÜ ÌÑ ÓßÎÕÛÌò
+
+    ÌØÛ ðêóðè ÙßÍ ÐÔßÒÌ ØßÒÜÔÛÜ ïìôððð ÓÝÚñÜ ×Ò ×ÌÍ ÚÑÎÓÛÎ ÐÛßÕ ÛÎßô É×ÌØ
+    ÌÉÑ ÎÛÝ×Ð ÝÑÓÐÎÛÍÍÑÎÍ ×Ò ÑÐÛÎßÌ×ÑÒæ ÌØÛ ÉØ×ÌÛ øî ÍÌßÙÛ ßÌ ÌØÛ Ì×ÓÛ÷
+    ßÒÜ ßÒ ÛÒÛÎÙÇ ×ÒÜËÍÌÎ×ÛÍ ÚÛêêëÞ î ÍÌßÙÛ ÎÛÝ×Ð øÜÎ×ÊÛÒ ÞÇ ß ÝßÌ Ùíëïê
+    ÛÒÙ×ÒÛ÷ ÎßÒ ×Ò ÐßÎßÔÔÛÔò ÌØÛ ÛÒÛÎÙÇ ×ÒÜËÍÌÎ×ÛÍ ÝÑÓÐÎÛÍÍÑÎ ×Í
+    ÝËÎÎÛÒÌÔÇ Ôß×Ü ËÐô ÞËÌ ÝÑËÔÜ ÞÛ í ÍÌßÙÛÜ ÑÎ ÎÛÐÔßÝÛÜ É×ÌØ ß Ú×Ì ÌÑ
+    ÐËÎÐÑÍÛ ËÒ×Ì ÛÚÚÛÝÌ×ÊÛÔÇ ×ÒÝÎÛßÍ×ÒÙ ÙßÍ ÐÔßÒÌ ÝßÐßÞ×Ô×Ì×ÛÍ ÌÑ ÌØÛ
+    ïðôððð ÓÝÚñÜ ÌÑ ïìôððð ÓÝÚñÜ ÎßÒÙÛò
+
+    ÞÇ ËÍ×ÒÙ ÌØÛ ÝßÔÝËÔßÌ×ÑÒ ËÒÜÛÎ ÌØÛ ßÛÎÍ Ü×ÎÛÝÌ×ÊÛ éë ÌØÛ
+    ßÐÐÎÑÈ×ÓßÌÛ ßÍÍÛÌ ÊßÔËÛ ÑÚ ÌØ×Í ÚßÝ×Ô×ÌÇ ÞßÍÛÜ ÑÒ ÝËÎÎÛÒÌ ÛÏË×ÐÓÛÒÌ
+    ßÒÜ ÜÛÍ×ÙÒ ÝßÐßÝ×ÌÇ ÉÑËÔÜ ÞÛ üìôèðìôêçé
+
+í   ØßÎÜ×ÍÌÇ ïëóïïóðìíóðçÉì ÙßÍ ÐÔßÒÌ                                          Ý«®®»²¬
+
+    ÌØÛ ØßÎÜ×ÍÌÇñÕ×ÔÔßÓ ïëóïïóðìíóðçÉì ÍÉÛÛÌ ÙßÍ ÐÔßÒÌ ÉßÍ Ôß×Ü ËÐ
+    ÍÛÊÛÎßÔ ÇÛßÎÍ ßÙÑ ÞÇ ÌØÛ ÚÑÎÓÛÎ ÑÐÛÎßÌÑÎô ßÍ ×Ì ÉßÍ ÜÛÛÓÛÜ ÓÑÎÛ
+    ÛÚÚÛÝÌ×ÊÛ ÌÑ ÙßÌØÛÎ ßÒÜ ÐÎÑÝÛÍÍ ßÔÔ ÙßÍ ÚÎÑÓ ÌØÛ Ú×ÛÔÜ ßÌ ÌØÛ
+    ÚßÞÇßÒ ðêóðè Í×ÌÛ ÚÑÔÔÑÉ×ÒÙ ÐÛßÕ Ø×ÍÌÑÎ×ÝßÔ ÜÛÊÛÔÑÐÓÛÒÌ ÜÛÝÔ×ÒÛò ÌØÛ
+    Í×ÌÛ ×Í ÛÏË×ÐÐÛÜ É×ÌØ ÔßÎÙÛ ÝÑÓÐÎÛÍÍ×ÑÒ ßÒÜ ØßÒÜÔ×ÒÙ ÝßÐßÝ×ÌÇ ×Ò ÌØÛ
+    ÑÎÜÛÎ ÑÚ ïðôððð ÓÝÚñÜô ×ÒÝÔËÍ×ÊÛ ÑÚ ÌØÎÛÛ ÝÑÓÐÎÛÍÍÑÎ ÐßÝÕßÙÛÍô ß ëééï
+     ÛÒÛÎÙÇ ×ÒÜ×ÍÌÎ×ÛÍ øéìð ØÐ÷ ÎÛÝ×ÐÎÑÝßÌ×ÒÙ ÝÑÓÐÎÛÍÍÑÎô èîë ÉØ×ÌÛ
+    ÎÛÝ×ÐÎÑÝßÌ×ÒÙ ÝÑÓÐÎÛÍÍÑÎ øèðð ØÐ÷ô ßÒÜ ÍËÔÔß×Î ÍÝÎÛÉ ÝÑÓÐÎÛÍÍÑÎ
+    øèêð ØÐ÷ò ÌØÛ ÚßÝ×Ô×ÌÇ ×Í ÛÏË×ÐÐÛÜ É×ÌØ ß í ÌÑÉÛÎ ÜÛÍ×ÝÝßÒÌ ÍÇÍÌÛÓ ÌÑ
+    ÕÒÑÝÕ ÑËÌ ÝÑÒÜÛÒÍßÌÛô ßÒÜ ÌØÛ ÎÛÏË×ÎÛÜ ÌßÒÕßÙÛ ÚÑÎ ÝÑÒÜÛÒÍßÌÛ
+    ßÒÜ ÉßÌÛÎ ØßÒÜÔ×ÒÙò ßÔÌØÑËÙØ ÌØÛ ÛÏË×ÐÓÛÒÌ ×Í ÝËÎÎÛÒÌÔÇ ÍØËÌó×Òô
+    ÙßÍ ÚÎÑÓ ÌØÛ ÍÑËÌØÛÎÒ ßÎÛß ÑÚ ÌØÛ ÚßÞÇßÒ Ú×ÛÔÜ ×Í ÍÌ×ÔÔ Ü×ÎÛÝÌÛÜ
+    ÌØÎÑËÙØ ÌØÛ ïëóïï ÐÔßÒÌÍ×ÌÛ ÒÑÎÌØ ÌÑ ÚßÞÇßÒ ðêóðè ÐÔßÒÌò ÌØÛ ïëóïï
+    ÐÔßÒÌ ×Í ËÒ×ÏËÛÔÇ Í×ÌËßÌÛÜ ßÍ ß ÍßÔÛÍ ÐÑ×ÒÌò
+
+    ÞÇ ËÍ×ÒÙ ÌØÛ ÝßÔÝËÔßÌ×ÑÒ ËÒÜÛÎ ÌØÛ ßÛÎÍ Ü×ÎÛÝÌ×ÊÛ éë ÌØÛ
+    ßÐÐÎÑÈ×ÓßÌÛ ßÍÍÛÌ ÊßÔËÛ ÑÚ ÌØ×Í ÚßÝ×Ô×ÌÇ ÞßÍÛÜ ÑÒ ÝËÎÎÛÒÌ ÛÏË×ÐÓÛÒÌ
+    ßÒÜ ÜÛÍ×ÙÒ ÝßÐßÝ×ÌÇ ÉÑËÔÜ ÞÛ üíôèèéôîëð
+
+ì   ßÔÞÛÎÍ ïðóîèóðìîóðèÉì ÝÑÓÐÎÛÍÍÑÎ                                           Ü»´»¬»¼ Þ§
+                                                                               îîðìðêððìçì
+    ÌØÛ ßÔÞÛÎÍ ïðóîè ÝÑÓÐÎÛÍÍÑÎ ×Í ËÌ×Ô×ÆÛÜ ÌÑ ÞÑÑÍÌ ÌØÛ ÍÑËÌØ ÛÒÜ ÑÚ
+    ÌØÛ Ú×ÛÔÜ ÌÑ ÚßÞÇßÒ ðêóðèò ÌØÛ ÕÑÞÛÔÝÑ ÍÝÎÛÉ ÝÑÓÐÎÛÍÍÑÎ øÉ×ÌØ ïððð
+    ØÐ ÝßÌ ÛÒÙ×ÒÛ÷ ØßÍ ÝßÐßÞ×Ô×ÌÇ ÌÑ ÝÑÓÐÎÛÍÍ ßÒÜ Ü×ÍÝØßÎÙÛ ËÐ ÌÑ éôððð
+    ÓÝÚñÜ ßÒÜ ×Í ÛÏË×ÐÐÛÜ É×ÌØ ßÒ ×ÒÔÛÌ ÍÔËÙ ÝßÌÝØÛÎ ÌÑ ÕÒÑÝÕ ÑËÌ Ô×ÏË×ÜÍ
+    ÌÑ ÑÒÍ×ÌÛ ÌßÒÕßÙÛò ÌØÛ ÝÑÓÐÎÛÍÍÑÎ ×Í ÐÎ×ÓßÎ×ÔÇ ÚÑÝËÍÛÜ ÑÒ ÜÎßÉ×ÒÙ
+    ÜÑÉÒ ÐÎÛÍÍËÎÛÍ ×Ò ÌØÛ ÍÑËÌØ ÑÚ ÌØÛ Ú×ÛÔÜ ÌÑ ÛÒØßÒÝÛ ÌØÛ ÐÎÑÜËÝÌ×ÑÒ
+    ÑÚ ÒßÌËÎßÔ ÙßÍ ÚÎÑÓ ßÍÍÑÝ×ßÌÛÜ ÉÛÔÔÍ Ì×ÛÜ ×ÒÌÑ ×Ìò
+                                    Ð»®-±²¿´ Ð®±°»®¬§ Î»¹·-¬®§
+                                      Í»¿®½¸ Î»-«´¬- Î»°±®¬                  Ð¿¹» ë ±º ëé
+
+                                          Í»¿®½¸ ×Ü ýæ Æïèïëìíîì
+
+ë   ÚËÎÌØÛÎ ÌØ×ÎÜ ÐßÎÌÇ ÙßÍ ÎÛÊÛÒËÛ ßÒÜ ØßÒÜÔ×ÒÙ ÑÐÐÑÎÌËÒ×Ì×ÛÍ               Ü»´»¬»¼ Þ§
+                                                                             îïðêðîðïéïî
+    ÝÔÛÑ ßÔÍÑ ØßÍ ÒßÌËÎßÔ ÙßÍ ÊÑÔËÓÛÍ ÍÛÐßÎßÌÛ ÚÎÑÓ ÌØÑÍÛ Ü×ÍÝËÍÍÛÜ
+    ßÞÑÊÛô Ì×ÛÜ ×ÒÌÑ ÍßÒÔ×ÒÙ ÝØÑ×ÝÛ ðìóðëóðìïóðçÉì ÙßÌØÛÎ×ÒÙ ÍÇÍÌÛÓ ×Ò ÌØÛ
+    ßÓ×ÍÕô ßÔÞÛÎÌß ßÎÛßò ÝÔÛÑÍ ÚßÞÇßÒ ðêóðè ÙßÌØÛÎ×ÒÙ ÍÇÍÌÛÓ ×Ò ÌØÛ
+    ÍÑËÌØ ÑÚ ÌØÛ Ú×ÛÔÜ ÝÎÑÍÍÛÍ ÑÊÛÎ ÍßÒÔ×ÒÙ Ð×ÐÛÔ×ÒÛÍ ßÒÜ ß ÞßÍ×Ý Î×ÍÛÎ
+    ×ÒÍÌßÔÔßÌ×ÑÒñÌ×Ûó×Ò ßÌ ÌØÛ ÝÎÑÍÍ×ÒÙ ÑÚ ÌÉÑ ÑÚ ÌÉÑ Ð×ÐÛÔ×ÒÛÍ ×Ò ÍÛÝÌ×ÑÒ
+    îðóðìïóðèÉì ÉÑËÔÜ ÐÎÑÊ×ÜÛ ßÝÝÛÍÍ ÌÑ ËÒÜÛÎËÌ×Ô×ÆÛÜ ÝßÐßÝ×ÌÇ ßÌ
+    ÍßÒÔ×ÒÙ ÝØÑ×ÝÛò ÝÔÛÑ ØßÍ ßÙÎÛÛÓÛÒÌÍ ×Ò ÐÔßÝÛ ÚÑÎ ß Ø×ÙØÔÇ ÚßÊÑÎßÞÔÛ
+    ÐÎÑÝÛÍÍ×ÒÙ ÚÛÛÍ ÑÚ üðòíìñÓÝÚ ßÌ ÍßÒÔ×ÒÙ ÝØÑ×ÝÛò ÎÛÔßÌ×ÊÛ ÌÑ ÌØÛ ÌØ×ÎÜ
+    ÐßÎÌÇ ÚÛÛÍ ÝØßÎÙÛÜ ÞÇ ÝÔÛÑ ÌÑ ÌØ×ÎÜ ÐßÎÌ×ÛÍ ßÌ ÚßÞÇßÒ ðêóðè ×Ò ÌØÛ
+    ÑÎÜÛÎ ÑÚ üïòðëñÓÝÚô ÌØ×Í ÑÚÚÛÎÍ ÝÔÛÑ ÌØÛ ÐÑÌÛÒÌ×ßÔ ÌÑ ÚËÎÌØÛÎ
+    ÑÐÌ×Ó×ÆÛÜ ÌØ×ÎÜ ÐßÎÌÇ ÙßÍ ÐÎÑÝÛÍÍ×ÒÙ ÎÛÊÛÒËÛô ÉÛÎÛ ÝÔÛÑ ÚßÝ×Ô×ÌÇ
+    ÝßÐßÝ×ÌÇ ÌÑ ÞÛ ÓßÈÛÜ ÑËÌô ÑÎ ÌØÛ ÝÑÍÌ ÑÚ ÐÎÑÝÛÍÍ×ÒÙ ÌØ×ÎÜ ÐßÎÌÇ ÙßÍ
+    ßÌ ÝÔÛÑ ÚßÝ×Ô×Ì×ÛÍ ÛÈÝÛÛÜ ÌØßÌ ÑÚ ÌØÛ ÝÑÒÌÎßÝÌÛÜ ÍßÒÔ×ÒÙ ÚÛÛò
+
+
+    ßÔÔ ÌØÛ ÜÛÞÌÑÎùÍ ÐÎÛÍÛÒÌ ÐÛÎÍÑÒßÔ ÐÎÑÐÛÎÌÇ ßÒÜ ÐÛÎÍÑÒßÔ ÐÎÑÐÛÎÌÇ
+    ßÝÏË×ÎÛÜ ×Ò ÌØÛ ÚËÌËÎÛô ×ÒÝÔËÜ×ÒÙ ×ÒÊÛÒÌÑÎÇô ÚËÎÒ×ÌËÎÛô Ú×ÈÌËÎÛÍô
+    ÑÚÚ×ÝÛ ÛÏË×ÐÓÛÒÌô ×ÒÜËÍÌÎ×ßÔ ÛÏË×ÐÓÛÒÌô ÓßÝØ×ÒÛÎÇô ÐÔßÒÌô ÌÑÑÔÍô
+    ÊÛØ×ÝÔÛÍô ×ÒÌßÒÙ×ÞÔÛ ÐÛÎÍÑÒßÔ ÐÎÑÐÛÎÌÇô ÍÛÝËÎ×Ì×ÛÍô ÜÑÝËÓÛÒÌÍ ÑÚ
+    Ì×ÌÔÛô ×ÒÍÌÎËÓÛÒÌÍô ÝØßÌÌÛÔ ÐßÐÛÎô ÓÑÒÛÇ ßÒÜ ßÝÝÑËÒÌÍ ÎÛÝÛ×ÊßÞÔÛò
+    ßÔÔ ÌØÛ ÜÛÞÌÑÎùÍ ÎÛÝÑÎÜÍ ÎÛÔßÌ×ÒÙ ÌÑ ÌØÛ ÞËÍ×ÒÛÍÍ ßÒÜ ÌØÛ ÐÎÑÐÛÎÌÇ
+    ÌØßÌ ×Í ÍÛÝËÎÛÜò ÐÎÑÝÛÛÜÍ ó ßÔÔ ÐÎÛÍÛÒÌ ßÒÜ ßÚÌÛÎ ßÝÏË×ÎÛÜ ÐÛÎÍÑÒßÔ
+    ÐÎÑÐÛÎÌÇ ÑÚ ÌØÛ ÜÛÞÌÑÎò ßÔÔ ÌØÛ ÜÛÞÌÑÎùÍ ÐÎÛÍÛÒÌ ßÒÜ ßÝÏË×ÎÛÜ ×Ò
+    ÌØÛ ÚËÌËÎÛ ßÝÝÑËÒÌÍ ÎÛÝÛ×ÊßÞÔÛô ÝØßÌÌÛÔ ÐßÐÛÎô ÍÛÝËÎ×Ì×ÛÍô
+    ÜÑÝËÓÛÒÌÍ ÑÚ Ì×ÌÔÛô ×ÒÍÌÎËÓÛÒÌÍô ÓÑÒÛÇ ÎÛÔßÌ×ÒÙ ÌÑ ßÝÝÑËÒÌÍ
+    ÎÛÝÛ×ÊßÞÔÛ ßÒÜ ÎÛÝÑÎÜÍò
+
+ê   ÚËÎÌØÛÎ ÌØ×ÎÜ ÐßÎÌÇ ÙßÍ ÎÛÊÛÒËÛ ßÒÜ ØßÒÜÔ×ÒÙ ÑÐÐÑÎÌËÒ×Ì×ÛÍ               Ü»´»¬»¼ Þ§
+                                                                             îîðìðêððìçì
+    ÝÔÛÑ ßÔÍÑ ØßÍ ÒßÌËÎßÔ ÙßÍ ÊÑÔËÓÛÍ ÍÛÐßÎßÌÛ ÚÎÑÓ ÌØÑÍÛ Ü×ÍÝËÍÍÛÜ
+    ßÞÑÊÛô Ì×ÛÜ ×ÒÌÑ ÍßÒÔ×ÒÙ ÝØÑ×ÝÛ ðìóðëóðìïóðçÉì ÙßÌØÛÎ×ÒÙ ÍÇÍÌÛÓ ×Ò ÌØÛ
+    ßÓ×ÍÕô ßÔÞÛÎÌß ßÎÛßò ÝÔÛÑÍ ÚßÞÇßÒ ðêóðè ÙßÌØÛÎ×ÒÙ ÍÇÍÌÛÓ ×Ò ÌØÛ
+    ÍÑËÌØ ÑÚ ÌØÛ Ú×ÛÔÜ ÝÎÑÍÍÛÍ ÑÊÛÎ ÍßÒÔ×ÒÙ Ð×ÐÛÔ×ÒÛÍ ßÒÜ ß ÞßÍ×Ý Î×ÍÛÎ
+    ×ÒÍÌßÔÔßÌ×ÑÒñÌ×Ûó×Ò ßÌ ÌØÛ ÝÎÑÍÍ×ÒÙ ÑÚ ÌÉÑ ÑÚ ÌÉÑ Ð×ÐÛÔ×ÒÛÍ ×Ò ÍÛÝÌ×ÑÒ
+    îðóðìïóðèÉì ÉÑËÔÜ ÐÎÑÊ×ÜÛ ßÝÝÛÍÍ ÌÑ ËÒÜÛÎËÌ×Ô×ÆÛÜ ÝßÐßÝ×ÌÇ ßÌ
+    ÍßÒÔ×ÒÙ ÝØÑ×ÝÛò ÝÔÛÑ ØßÍ ßÙÎÛÛÓÛÒÌÍ ×Ò ÐÔßÝÛ ÚÑÎ ß Ø×ÙØÔÇ ÚßÊÑÎßÞÔÛ
+    ÐÎÑÝÛÍÍ×ÒÙ ÚÛÛÍ ÑÚ üðòíìñÓÝÚ ßÌ ÍßÒÔ×ÒÙ ÝØÑ×ÝÛò ÎÛÔßÌ×ÊÛ ÌÑ ÌØÛ ÌØ×ÎÜ
+    ÐßÎÌÇ ÚÛÛÍ ÝØßÎÙÛÜ ÞÇ ÝÔÛÑ ÌÑ ÌØ×ÎÜ ÐßÎÌ×ÛÍ ßÌ ÚßÞÇßÒ ðêóðè ×Ò ÌØÛ
+    ÑÎÜÛÎ ÑÚ üïòðëñÓÝÚô ÌØ×Í ÑÚÚÛÎÍ ÝÔÛÑ ÌØÛ ÐÑÌÛÒÌ×ßÔ ÌÑ ÚËÎÌØÛÎ
+    ÑÐÌ×Ó×ÆÛÜ ÌØ×ÎÜ ÐßÎÌÇ ÙßÍ ÐÎÑÝÛÍÍ×ÒÙ ÎÛÊÛÒËÛô ÉÛÎÛ ÝÔÛÑ ÚßÝ×Ô×ÌÇ
+    ÝßÐßÝ×ÌÇ ÌÑ ÞÛ ÓßÈÛÜ ÑËÌô ÑÎ ÌØÛ ÝÑÍÌ ÑÚ ÐÎÑÝÛÍÍ×ÒÙ ÌØ×ÎÜ ÐßÎÌÇ ÙßÍ
+    ßÌ ÝÔÛÑ ÚßÝ×Ô×Ì×ÛÍ ÛÈÝÛÛÜ ÌØßÌ ÑÚ ÌØÛ ÝÑÒÌÎßÝÌÛÜ ÍßÒÔ×ÒÙ ÚÛÛò
+
+é   ßÔÔ Î×ÙØÌô Ì×ÌÔÛ ßÒÜ ×ÒÌÛÎÛÍÌ ×Ò ÌØÛ ÜÛÞÌÑÎ ÌÑ ÌØÛ ÔßÒÜÍ ÔÑÝßÌÛÜ ßÌ ÌØÛ Ý«®®»²¬ Þ§
+    ÞÛÔÑÉ ÜÛÍÝÎ×ÞÛÜ ÔÛÙßÔ ÔßÒÜ                                              îîðìðêððìçì
+    ÔÑÝßÌ×ÑÒÍô ÌØÛ ÉÛÔÔÍ ßÒÜ ÛÏË×ÐÓÛÒÌ ÌØÛÎÛÑÒ ßÒÜ ßÒÇ ÑÌØÛÎ ÌßÒÙ×ÞÔÛ
+    ßÒÜ ×ÒÌßÒÙ×ÞÔÛ ÐÎÑÐÛÎÌÇ
+    ÎÛÔßÌÛÜ ÌØÛÎÛÌÑò
+                                  Ð»®-±²¿´ Ð®±°»®¬§ Î»¹·-¬®§
+                                    Í»¿®½¸ Î»-«´¬- Î»°±®¬        Ð¿¹» ê ±º ëé
+
+                                       Í»¿®½¸ ×Ü ýæ Æïèïëìíîì
+
+è   ßÒÇ ßÒÜ ßÔÔ ÐÎÑÝÛÛÜÍ ÑÚ ßÓÑËÒÌÍ ßÎ×Í×ÒÙ ÚÎÑÓ ÑÎ ÐßÇßÞÔÛ ×Ò   Ý«®®»²¬ Þ§
+    ÝÑÒÒÛÝÌ×ÑÒ É×ÌØ ßÒÇ ÑÚ                                       îîðìðêððìçì
+    ÌØÛ ÝÑÔÔßÌÛÎßÔ ÜÛÍÝÎ×ÞÛÜ ØÛÎÛ ×Òò
+    ÔÛÙßÔ ÔßÒÜ ÔÑÝßÌ×ÑÒÍæ
+    ðïóðîóðíéóðéÉì
+    ðïóðìóðìîóïîÉì
+    ðïóðëóðììóðêÉì
+    ðïóïïóðíéóðéÉì
+    ðïóïïóðììóðéÉì
+    ðïóïîóðíçóðèÉì
+    ðïóïíóðíçóðèÉì
+    ðïóïíóðìëóðèÉì
+    ðïóïêóðìëóðéÉì
+    ðïóïèóðìíóðçÉì
+    ðïóîïóðìðóðèÉì
+    ðïóîîóðìðóðèÉì
+    ðïóîíóðíçóïðÉì
+    ðïóîìóðìêóðèÉì
+    ðïóîéóðìðóðèÉì
+    ðïóîéóðìêóðèÉì
+    ðïóîèóðìïóðèÉì
+    ðïóííóðìîóðèÉì
+    ðïóíìóðìðóðèÉì
+    ðïóíëóðììóðèÉì
+    ðïóíêóðììóðèÉì
+    ðîóðìóðìîóïîÉì
+    ðîóðêóðììóðêÉì
+    ðîóïðóðíéóðéÉì
+    ðîóïïóðíéóðéÉì
+    ðîóïïóðíçóðèÉì
+    ðîóïîóðíçóðèÉì
+    ðîóïíóðíçóðèÉì
+    ðîóïíóðìêóðèÉì
+    ðîóïëóðíéóðéÉì
+    ðîóïéóðììóðéÉì
+    ðîóïèóðìíóðçÉì
+    ðîóîðóðìëóðéÉì
+                     Ð»®-±²¿´ Ð®±°»®¬§ Î»¹·-¬®§
+                       Í»¿®½¸ Î»-«´¬- Î»°±®¬      Ð¿¹» é ±º ëé
+
+                         Í»¿®½¸ ×Ü ýæ Æïèïëìíîì
+
+ç   ðîóîîóðìðóðèÉì                                Ý«®®»²¬ Þ§
+    ðîóîíóðíçóïðÉì                                îîðìðêððìçì
+    ðîóîíóðììóðéÉì
+    ðîóîëóðíéóðéÉì
+    ðîóîéóðìðóðèÉì
+    ðîóîèóðìíóðèÉì
+    ðîóîçóðìíóðèÉì
+    ðîóíìóðììóðèÉì
+    ðíóðéóðíçóðéÉì
+    ðíóðçóðììóðèÉì
+    ðíóïðóðìëóðéÉì
+    ðíóïïóðíéóðéÉì
+    ðíóïîóðìíóðçÉì
+    ðíóïîóðììóðéÉì
+    ðíóïíóðíçóðèÉì
+    ðíóïëóðíëóðêÉì
+    ðíóïëóðíçóïðÉì
+    ðíóîîóðìðóðèÉì
+    ðíóîëóðììóðèÉì
+    ðíóîéóðììóðèÉì
+    ðíóîçóðíëóðêÉì
+    ðíóîçóðììóðèÉì
+    ðíóíîóðììóðéÉì
+    ðíóíîóðììóðèÉì
+    ðíóíìóðìîóðçÉì
+    ðìóðïóðìíóðçÉì
+    ðìóðíóðìîóïîÉì
+    ðìóïðóðíçóïðÉì
+    ðìóïðóðìîóïîÉì
+    ðìóïïóðíçóïðÉì
+    ðìóïìóðíçóïðÉì
+    ðìóïëóðíëóðêÉì
+    ðìóïêóðìîóïðÉì
+    ðìóïêóðììóðéÉì
+    ðìóïêóðììóðèÉì
+    ðìóîðóðìíóðèÉì
+    ðìóîîóðìðóðèÉì
+    ðìóîíóðíçóïðÉì
+    ðìóîíóðìðóðèÉì
+    ðìóîìóðíçóïðÉì
+    ðìóîêóðìðóðèÉì
+    ðìóîéóðìëóðéÉì
+    ðìóííóðììóðèÉì
+    ðìóíìóðììóðèÉì
+                      Ð»®-±²¿´ Ð®±°»®¬§ Î»¹·-¬®§
+                        Í»¿®½¸ Î»-«´¬- Î»°±®¬      Ð¿¹» è ±º ëé
+
+                          Í»¿®½¸ ×Ü ýæ Æïèïëìíîì
+
+ïð   ðìóíëóðìðóðèÉì                                Ý«®®»²¬ Þ§
+     ðìóíëóðìðóðèÉì                                îîðìðêððìçì
+     ðëóðîóðíéóðéÉì
+     ðëóðíóðìîóïîÉì
+     ðëóðíóðìíóðçÉì
+     ðëóðíóðììóðêÉì
+     ðëóðíóðìëóðéÉì
+     ðëóðìóðììóðèÉì
+     ðëóðëóðììóðêÉì
+     ðëóðéóðíçóðéÉì
+     ðëóðéóðìíóðçÉì
+     ðëóðèóðììóðéÉì
+     ðëóïðóðììóðèÉì
+     ðëóïïóðíéóðéÉì
+     ðëóïîóðíéóðéÉì
+     ðëóïîóðìïóïïÉì
+     ðëóïëóðíëóðêÉì
+     ðëóïèóðìîóïïÉì
+     ðëóîïóðììóðèÉì
+     ðëóîíóðìðóðèÉì
+     ðëóîíóðììóðèÉì
+     ðëóîëóðìïóïðÉì
+     ðëóîêóðììóðéÉì
+     ðëóîéóðììóðéÉì
+     ðëóííóðììóðéÉì
+     ðêóðïóðìîóïðÉì
+     ðêóðïóðìíóðèÉì
+     ðêóðîóðíéóðéÉì
+     ðêóðîóðìîóïðÉì
+     ðêóðíóðìîóïîÉì
+     ðêóðéóðíçóðéÉì
+     ðêóðéóðììóðéÉì
+     ðêóðéóðìëóðçÉì
+     ðêóðèóðìîóðéÉì
+     ðêóðèóðìëóðéÉì
+     ðêóðçóðììóðéÉì
+     ðêóïðóðíéóðéÉì
+     ðëóïîóðìïóïïÉì
+     ðëóïëóðíëóðêÉì
+     ðëóïèóðìîóïïÉì
+     ðëóîïóðììóðèÉì
+     ðëóîíóðìðóðèÉì
+     ðëóîíóðììóðèÉì
+     ðëóîëóðìïóïðÉì
+     ðëóîêóðììóðéÉì
+     ðëóîéóðììóðéÉì
+     ðëóííóðììóðéÉì
+                      Ð»®-±²¿´ Ð®±°»®¬§ Î»¹·-¬®§
+                        Í»¿®½¸ Î»-«´¬- Î»°±®¬      Ð¿¹» ç ±º ëé
+
+                          Í»¿®½¸ ×Ü ýæ Æïèïëìíîì
+
+ïï   ðêóðïóðìîóïðÉì                                Ý«®®»²¬ Þ§
+     ðêóðïóðìíóðèÉì                                îîðìðêððìçì
+     ðêóðîóðíéóðéÉì
+     ðêóðîóðìîóïðÉì
+     ðêóðíóðìîóïîÉì
+     ðêóðéóðíçóðéÉì
+     ðêóðéóðììóðéÉì
+     ðêóðéóðìëóðçÉì
+     ðêóðèóðìîóðéÉì
+     ðêóðèóðìëóðéÉì
+     ðêóðçóðììóðéÉì
+     ðêóïðóðíéóðéÉì
+     ðêóïðóðíéóðéÉì
+     ðêóïïóðíéóðéÉì
+     ðêóïïóðíçóïðÉì
+     ðêóïîóðíçóðèÉì
+     ðêóïîóðìîóïïÉì
+     ðêóïîóðììóðèÉì
+     ðêóïèóðììóðéÉì
+     ðêóïçóðììóðéÉì
+     ðêóïçóðììóïíÉì
+     ðêóîðóðììóðéÉì
+     ðêóîðóðìëóðèÉì
+     ðêóîïóðìîóðèÉì
+     ðêóîîóðìðóðèÉì
+     ðêóîîóðìîóðéÉì
+     ðêóîëóðìêóðèÉì
+     ðêóîêóðìîóðçÉì
+     ðêóîèóðìîóðçÉì
+     ðêóîçóðìîóðéÉì
+     ðêóîçóðììóðéÉì
+     ðêóíðóðìîóðéÉì
+     ðêóíðóðìîóðèÉì
+     ðêóíðóðìîóïðÉì
+     ðêóíðóðìëóðéÉì
+     ðêóííóðìîóðçÉì
+     ðêóííóðììóðéÉì
+     ðêóííóðìêóðèÉì
+     ðêóíëóðìêóðèÉì
+     ðéóðìóðìîóïîÉì
+     ðéóðèóðìëóðéÉì
+     ðéóïðóðíéóðéÉì
+     ðéóïðóðììóðèÉì
+     ðéóïðóðìëóðèÉì
+     ðéóïðóðìêóðçÉì
+     ðéóïïóðíéóðéÉì
+     ðéóïïóðíçóðèÉì
+     ðéóïíóðììóðèÉì
+     ðéóïêóðììóðéÉì
+     ðéóïçóðìíóðçÉì
+     ðéóîðóðìëóðéÉì
+     ðéóîïóðìíóðèÉì
+     ðéóîîóðìðóðèÉì
+     ðéóîìóðììóðèÉì
+     ðéóîìóðììóïðÉì
+     ðéóîëóðììóðèÉì
+                      Ð»®-±²¿´ Ð®±°»®¬§ Î»¹·-¬®§
+                        Í»¿®½¸ Î»-«´¬- Î»°±®¬      Ð¿¹» ïð ±º ëé
+
+                          Í»¿®½¸ ×Ü ýæ Æïèïëìíîì
+
+ïî   ðéóîêóðììóðéÉì                                Ý«®®»²¬ Þ§
+     ðéóîêóðììóðèÉì                                îîðìðêððìçì
+     ðéóîéóðìðóðèÉì
+     ðéóîéóðìðóðèÉì
+     ðéóîéóðììóðéÉì
+     ðéóîèóðìëóðèÉì
+     ðéóîçóðìëóðèÉì
+     ðéóîçóðìêóðèÉì
+     ðéóíïóðìîóðèÉì
+     ðéóíîóðìîóïðÉì
+     ðéóíîóðìëóðèÉì
+     ðéóííóðììóðéÉì
+     ðéóíêóðìïóïðÉì
+     ðèóðîóðìîóïïÉì
+     ðèóðíóðíéóðéÉì
+     ðèóðìóðìîóïîÉì
+     ðèóðìóðììóðèÉì
+     ðèóïïóðíçóðèÉì
+     ðèóïïóðíçóðèÉì
+     ðèóïîóðíçóðèÉì
+     ðèóïíóðììóðèÉì
+     ðèóïìóðììóðéÉì
+     ðèóïêóðíëóðêÉì
+     ðèóïêóðíëóðêÉì
+     ðèóïêóðíçóïðÉì
+     ðèóïéóðìëóðéÉì
+     ðèóïèóðìîóðéÉì
+     ðèóïçóðììóðéÉì
+     ðèóîðóðìîóðèÉì
+     ðèóîîóðìðóðèÉì
+     ðèóîîóðìðóðèÉì
+     ðèóîîóðììóðéÉì
+     ðèóîíóðììóðèÉì
+     ðèóîëóðìîóðçÉì
+     ðèóîçóðìïóïðÉì
+     ðèóîçóðììóðèÉì
+     ðèóíðóðìëóðéÉì
+     ðèóíïóðììóðéÉì
+     ðèóíìóðììóðéÉì
+     ðçóðîóðìëóðèÉì
+     ðçóðíóðììóðêÉì
+     ðçóðìóðìîóïîÉì
+     ðçóïðóðíéóðéÉì
+     ðçóïðóðíéóðéÉì
+     ðçóïðóðíçóïðÉì
+     ðçóïðóðìïóïðÉì
+     ðçóïïóðíçóðèÉì
+     ðçóïîóðíçóðèÉì
+     ðçóïîóðíçóïðÉì
+     ðçóïíóðììóðèÉì
+     ðçóïêóðíëóðêÉì
+     ðçóïêóðììóðèÉì
+     ðçóîðóðíëóðêÉì
+     ðçóîíóðìíóðéÉì
+     ðçóîèóðììóðèÉì
+
+ïí   ðçóîèóðììóðèÉì                                Ý«®®»²¬ Þ§
+     ðçóíïóðìîóðèÉì                                îîðìðêððìçì
+     ðçóíîóðììóðéÉì
+                 Ð»®-±²¿´ Ð®±°»®¬§ Î»¹·-¬®§
+                   Í»¿®½¸ Î»-«´¬- Î»°±®¬      Ð¿¹» ïï ±º ëé
+
+                     Í»¿®½¸ ×Ü ýæ Æïèïëìíîì
+
+ðçóíêóðìëóðèÉì
+ïðóðîóðìíóðçÉì
+ïðóðîóðìëóðéÉì
+ïðóðèóðìîóðéÉì
+ïðóðèóðììóðéÉì
+ïðóðçóðìëóðéÉì
+ïðóïðóðìîóðçÉì
+ïðóïðóðìëóðéÉì
+ïðóïïóðíçóïðÉì
+ïðóïïóðìïóïïÉì
+ïðóïïóðìëóðèÉì
+ïðóïîóðíçóðèÉì
+ïðóïîóðíçóïðÉì
+ïðóïîóðìîóðçÉì
+ïðóïîóðìêóðçÉì
+ïðóïêóðìëóðéÉì
+ïðóïèóðìîóðèÉì
+ïðóïèóðììóðéÉì
+ïðóîðóðìëóðèÉì
+ïðóîéóðíëóðêÉì
+ïðóîéóðíëóðêÉì
+ïðóîéóðììóðèÉì
+ïðóîéóðìêóðèÉì
+ïðóîèóðìïóïðÉì
+ïðóíðóðììóðéÉì
+ïðóíïóðìêóðèÉì
+ïðóíëóðìïóïðÉì
+ïðóíêóðììóðéÉì
+ïïóðïóðìëóðéÉì
+ïïóðíóðìëóðéÉì
+ïïóðìóðìîóïîÉì
+ïïóðìóðììóðéÉì
+ïïóðëóðìíóðêÉì
+ïïóðëóðìëóðéÉì
+ïïóðêóðììóðêÉì
+ïïóïðóðíçóïðÉì
+ïïóïðóðìëóðéÉì
+ïïóïïóðíçóïðÉì
+ïïóïîóðíçóïðÉì
+ïïóïêóðìîóðèÉì
+ïïóïêóðìîóïîÉì
+ïïóïêóðìëóðéÉì
+ïïóîîóðììóðéÉì
+ïïóîìóðìíóïðÉì
+ïïóîëóðíéóðéÉì
+ïïóîèóðìíóðèÉì
+ïïóîèóðìëóðéÉì
+ïïóííóðìëóðéÉì
+ïïóíìóðìîóðèÉì
+ïïóíëóðìêóðèÉì
+ïïóíêóðìëóðèÉì
+ïîóðîóðíçóïðÉì
+ïîóðîóðìëóðéÉì
+ïîóðíóðìîóïîÉì
+ïîóðëóðìêóðéÉì
+ïîóðêóðìëóðçÉì
+ïîóðéóðíçóðéÉì
+ïîóðçóðìëóðéÉì
+ïîóïðóðíéóðéÉì
+                      Ð»®-±²¿´ Ð®±°»®¬§ Î»¹·-¬®§
+                        Í»¿®½¸ Î»-«´¬- Î»°±®¬      Ð¿¹» ïî ±º ëé
+
+                          Í»¿®½¸ ×Ü ýæ Æïèïëìíîì
+
+
+ïì   ïîóïðóðíçóïðÉì                                Ý«®®»²¬ Þ§
+     ïîóïïóðíéóðéÉì                                îîðìðêððìçì
+     ïîóïïóðíçóïðÉì
+     ïîóïîóðíçóðèÉì
+     ïîóïîóðíçóïðÉì
+     ïîóïîóðìîóðèÉì
+     ïîóïçóðìîóðèÉì
+     ïîóîíóðìðóðèÉì
+     ïîóîíóðììóðéÉì
+     ïîóîìóðíçóïðÉì
+     ïîóîëóðíéóðéÉì
+     ïîóîéóðíëóðêÉì
+     ïîóîèóðììóðèÉì
+     ïîóîçóðììóðèÉì
+     ïîóíðóðììóðêÉì
+     ïîóíðóðìëóðéÉì
+     ïíóðîóðíéóðéÉì
+     ïíóðíóðìîóïîÉì
+     ïíóðìóðìîóïîÉì
+     ïíóðêóðíçóðéÉì
+     ïíóðêóðììóðêÉì
+     ïíóðêóðììóðèÉì
+     ïíóðéóðíçóðéÉì
+     ïíóïðóðíëóðêÉì
+     ïíóïðóðíéóðéÉì
+     ïíóïðóðíçóïðÉì
+     ïíóïïóðíéóðéÉì
+     ïíóïïóðìïóïðÉì
+     ïíóïîóðíçóðèÉì
+     ïíóïîóðíçóïðÉì
+     ïíóïîóðììóðéÉì
+     ïíóïìóðíçóïðÉì
+     ïíóïìóðìðóðèÉì
+     ïíóïêóðíëóðêÉì
+     ïíóïéóðììóðéÉì
+     ïíóîíóðìðóðèÉì
+     ïíóíïóðìíóðêÉì
+     ïíóíîóðìíóðêÉì
+     ïíóíìóðìïóïîÉì
+     ïíóíìóðìëóðéÉì
+     ïíóíëóðììóðéÉì
+     ïìóðîóðíçóðèÉì
+     ïìóðîóðìíóðèÉì
+     ïìóðìóðìîóïîÉì
+     ïìóðëóðììóðéÉì
+     ïìóðëóðììóðèÉì
+     ïìóðçóðìêóðéÉì
+     ïìóïðóðíçóïðÉì
+     ïìóïðóðìîóïïÉì
+     ïìóïïóðíçóïðÉì
+     ïìóïïóðìîóðèÉì
+     ïìóïîóðíçóðèÉì
+     ïìóïîóðíçóðèÉì
+     ïìóïìóðìîóðçÉì
+     ïìóïêóðììóðéÉì
+     ïìóïéóðìëóðéÉì
+     ïìóïèóðììóðéÉì
+     ïìóïçóðììóðéÉì
+                      Ð»®-±²¿´ Ð®±°»®¬§ Î»¹·-¬®§
+                        Í»¿®½¸ Î»-«´¬- Î»°±®¬      Ð¿¹» ïí ±º ëé
+
+                          Í»¿®½¸ ×Ü ýæ Æïèïëìíîì
+
+ïë   ïìóîïóðììóðéÉì                                Ý«®®»²¬ Þ§
+     ïìóîîóðììóðèÉì                                îîðìðêððìçì
+     ïìóîíóðììóðèÉì
+     ïìóîìóðíçóïðÉì
+     ïìóîèóðìïóðèÉì
+     ïìóîèóðììóðéÉì
+     ïìóîçóðìîóïðÉì
+     ïìóíïóðìîóðèÉì
+     ïìóíìóðììóðéÉì
+     ïìóíêóðìîóðçÉì
+     ïëóðîóðíéóðéÉì
+     ïëóðíóðìêóðéÉì
+     ïëóðìóðìëóðèÉì
+     ïëóðéóðììóðéÉì
+     ïëóïðóðíçóïðÉì
+     ïëóïïóðíéóðéÉì
+     ïëóïïóðíçóïðÉì
+     ïëóïîóðíçóðèÉì
+     ïëóïíóðìëóðèÉì
+     ïëóïìóðìíóïðÉì
+     ïëóîïóðìîóðèÉì
+     ïëóîîóðìðóðèÉì
+     ïëóîçóðìêóðèÉì
+     ïëóííóðììóðéÉì
+     ïëóíëóðíêóðéÉì
+     ïêóðîóðíéóðéÉì
+     ïêóðíóðíéóðéÉì
+     ïêóðìóðìîóïîÉì
+     ïêóðêóðììóðèÉì
+     ïêóðêóðìëóðéÉì
+     ïêóðçóðíëóðêÉì
+     ïêóðçóðìîóïðÉì
+     ïêóðçóðììóðèÉì
+     ïêóïðóðíçóïðÉì
+     ïêóïïóðíéóðéÉì
+     ïêóïïóðíçóïðÉì
+     ïêóïîóðíçóðèÉì
+     ïêóïìóðíçóïðÉì
+     ïêóïëóðììóðéÉì
+     ïêóïëóðììóðèÉì
+     ïêóîëóðìîóðçÉì
+     ïêóîçóðììóðéÉì
+     ïêóíëóðìîóðçÉì
+     ïêóíêóðìîóðçÉì
+     ïïóïîóðíçóïðÉì
+                      Ð»®-±²¿´ Ð®±°»®¬§ Î»¹·-¬®§
+                        Í»¿®½¸ Î»-«´¬- Î»°±®¬      Ð¿¹» ïì ±º ëé
+
+                          Í»¿®½¸ ×Ü ýæ Æïèïëìíîì
+
+ïê   ïïóïêóðìîóðèÉì                                Ý«®®»²¬ Þ§
+     ïïóïêóðìîóïîÉì                                îîðìðêððìçì
+     ïïóïêóðìëóðéÉì
+     ïïóîîóðììóðéÉì
+     ïïóîìóðìíóïðÉì
+     ïïóîëóðíéóðéÉì
+     ïïóîèóðìíóðèÉì
+     ïïóîèóðìëóðéÉì
+     ïïóííóðìëóðéÉì
+     ïïóíìóðìîóðèÉì
+     ïïóíëóðìêóðèÉì
+     ïïóíêóðìëóðèÉì
+     ïîóðîóðíçóïðÉì
+     ïîóðîóðìëóðéÉì
+     ïîóðíóðìîóïîÉì
+     ïîóðëóðìêóðéÉì
+     ïîóðêóðìëóðçÉì
+     ïîóðéóðíçóðéÉì
+     ïîóðçóðìëóðéÉì
+     ïîóïðóðíéóðéÉì
+     ïîóïðóðíçóïðÉì
+     ïîóïïóðíéóðéÉì
+     ïîóïïóðíçóïðÉì
+     ïîóïîóðíçóðèÉì
+     ïîóïîóðíçóïðÉì
+     ïîóïîóðìîóðèÉì
+     ïîóïçóðìîóðèÉì
+     ïîóîíóðìðóðèÉì
+     ïîóîíóðììóðéÉì
+     ïîóîìóðíçóïðÉì
+     ïîóîëóðíéóðéÉì
+     ïîóîéóðíëóðêÉì
+     ïîóîèóðììóðèÉì
+     ïîóîçóðììóðèÉì
+     ïîóíðóðììóðêÉì
+     ïîóíðóðìëóðéÉì
+     ïíóðîóðíéóðéÉì
+     ïíóðíóðìîóïîÉì
+     ïíóðìóðìîóïîÉì
+     ïíóðêóðíçóðéÉì
+     ïíóðêóðììóðêÉì
+     ïíóðêóðììóðèÉì
+     ïíóðéóðíçóðéÉì
+     ïíóïðóðíëóðêÉì
+     ïíóïðóðíéóðéÉì
+     ïíóïðóðíçóïðÉì
+     ïíóïïóðíéóðéÉì
+     ïíóïïóðìïóïðÉì
+     ïíóïîóðíçóðèÉì
+     ïíóïîóðíçóïðÉì
+     ïíóïîóðììóðéÉì
+     ïíóïìóðíçóïðÉì
+     ïíóïìóðìðóðèÉì
+     ïíóïêóðíëóðêÉì
+                      Ð»®-±²¿´ Ð®±°»®¬§ Î»¹·-¬®§
+                        Í»¿®½¸ Î»-«´¬- Î»°±®¬      Ð¿¹» ïë ±º ëé
+
+                          Í»¿®½¸ ×Ü ýæ Æïèïëìíîì
+
+ïé   ïíóïéóðììóðéÉì                                Ý«®®»²¬ Þ§
+     ïíóîíóðìðóðèÉì                                îîðìðêððìçì
+     ïíóíïóðìíóðêÉì
+     ïíóíîóðìíóðêÉì
+     ïíóíìóðìïóïîÉì
+     ïíóíìóðìëóðéÉì
+     ïíóíëóðììóðéÉì
+     ïìóðîóðíçóðèÉì
+     ïìóðîóðìíóðèÉì
+     ïìóðìóðìîóïîÉì
+     ïìóðëóðììóðéÉì
+     ïìóðëóðììóðèÉì
+     ïìóðçóðìêóðéÉì
+     ïìóïðóðíçóïðÉì
+     ïìóïðóðìîóïïÉì
+     ïìóïïóðíçóïðÉì
+     ïìóïïóðìîóðèÉì
+     ïìóïîóðíçóðèÉì
+     ïìóïîóðíçóðèÉì
+     ïìóïìóðìîóðçÉì
+     ïìóïêóðììóðéÉì
+     ïìóïéóðìëóðéÉì
+     ïìóïèóðììóðéÉì
+     ïìóïçóðììóðéÉì
+     ïìóîïóðììóðéÉì
+     ïìóîîóðììóðèÉì
+     ïìóîíóðììóðèÉì
+     ïìóîìóðíçóïðÉì
+     ïìóîèóðìïóðèÉì
+     ïìóîèóðììóðéÉì
+     ïìóîçóðìîóïðÉì
+     ïìóíïóðìîóðèÉì
+     ïìóíìóðììóðéÉì
+     ïìóíêóðìîóðçÉì
+     ïëóðîóðíéóðéÉì
+     ïëóðíóðìêóðéÉì
+     ïëóðìóðìëóðèÉì
+     ïëóðéóðììóðéÉì
+     ïëóïðóðíçóïðÉì
+     ïëóïïóðíéóðéÉì
+     ïëóïïóðíçóïðÉì
+     ïëóïîóðíçóðèÉì
+     ïëóïíóðìëóðèÉì
+     ïëóïìóðìíóïðÉì
+                      Ð»®-±²¿´ Ð®±°»®¬§ Î»¹·-¬®§
+                        Í»¿®½¸ Î»-«´¬- Î»°±®¬      Ð¿¹» ïê ±º ëé
+
+                          Í»¿®½¸ ×Ü ýæ Æïèïëìíîì
+
+ïè   ïëóîïóðìîóðèÉì                                Ý«®®»²¬ Þ§
+     ïëóîîóðìðóðèÉì                                îîðìðêððìçì
+     ïëóîçóðìêóðèÉì
+     ïëóííóðììóðéÉì
+     ïëóíëóðíêóðéÉì
+     ïêóðîóðíéóðéÉì
+     ïêóðíóðíéóðéÉì
+     ïêóðìóðìîóïîÉì
+     ïêóðêóðììóðèÉì
+     ïêóðêóðìëóðéÉì
+     ïêóðçóðíëóðêÉì
+     ïêóðçóðìîóïðÉì
+     ïêóðçóðììóðèÉì
+     ïêóïðóðíçóïðÉì
+     ïêóïïóðíéóðéÉì
+     ïêóïïóðíçóïðÉì
+     ïêóïîóðíçóðèÉì
+     ïêóïìóðíçóïðÉì
+     ïêóïëóðììóðéÉì
+     ïêóïëóðììóðèÉì
+     ïêóîëóðìîóðçÉì
+     ïêóîçóðììóðéÉì
+     ïêóíëóðìîóðçÉì
+     ïêóíêóðìîóðçÉì
+     ïïóïîóðíçóïðÉì
+     ïïóïêóðìîóðèÉì
+     ïïóïêóðìîóïîÉì
+     ïïóïêóðìëóðéÉì
+     ïïóîîóðììóðéÉì
+     ïïóîìóðìíóïðÉì
+     ïïóîëóðíéóðéÉì
+     ïïóîèóðìíóðèÉì
+     ïïóîèóðìëóðéÉì
+     ïïóííóðìëóðéÉì
+     ïïóíìóðìîóðèÉì
+     ïïóíëóðìêóðèÉì
+     ïïóíêóðìëóðèÉì
+     ïîóðîóðíçóïðÉì
+     ïîóðîóðìëóðéÉì
+                      Ð»®-±²¿´ Ð®±°»®¬§ Î»¹·-¬®§
+                        Í»¿®½¸ Î»-«´¬- Î»°±®¬      Ð¿¹» ïé ±º ëé
+
+                          Í»¿®½¸ ×Ü ýæ Æïèïëìíîì
+
+ïç   ïîóðíóðìîóïîÉì                                Ý«®®»²¬ Þ§
+     ïîóðëóðìêóðéÉì                                îîðìðêððìçì
+     ïîóðêóðìëóðçÉì
+     ïîóðéóðíçóðéÉì
+     ïîóðçóðìëóðéÉì
+     ïîóïðóðíéóðéÉì
+     ïîóïðóðíçóïðÉì
+     ïîóïïóðíéóðéÉì
+     ïîóïïóðíçóïðÉì
+     ïîóïîóðíçóðèÉì
+     ïîóïîóðíçóïðÉì
+     ïîóïîóðìîóðèÉì
+     ïîóïçóðìîóðèÉì
+     ïîóîíóðìðóðèÉì
+     ïîóîíóðììóðéÉì
+     ïîóîìóðíçóïðÉì
+     ïîóîëóðíéóðéÉì
+     ïîóîéóðíëóðêÉì
+     ïîóîèóðììóðèÉì
+     ïîóîçóðììóðèÉì
+     ïîóíðóðììóðêÉì
+     ïîóíðóðìëóðéÉì
+     ïíóðîóðíéóðéÉì
+     ïíóðíóðìîóïîÉì
+     ïíóðìóðìîóïîÉì
+     ïíóðêóðíçóðéÉì
+     ïíóðêóðììóðêÉì
+     ïíóðêóðììóðèÉì
+     ïíóðéóðíçóðéÉì
+     ïíóïðóðíëóðêÉì
+     ïíóïðóðíéóðéÉì
+     ïíóïðóðíçóïðÉì
+     ïíóïïóðíéóðéÉì
+     ïíóïïóðìïóïðÉì
+     ïíóïîóðíçóðèÉì
+     ïíóïîóðíçóïðÉì
+     ïíóïîóðììóðéÉì
+     ïíóïìóðíçóïðÉì
+     ïíóïìóðìðóðèÉì
+     ïíóïêóðíëóðêÉì
+     ïíóïéóðììóðéÉì
+     ïíóîíóðìðóðèÉì
+     ïíóíïóðìíóðêÉì
+     ïíóíîóðìíóðêÉì
+     ïíóíìóðìïóïîÉì
+     ïíóíìóðìëóðéÉì
+                      Ð»®-±²¿´ Ð®±°»®¬§ Î»¹·-¬®§
+                        Í»¿®½¸ Î»-«´¬- Î»°±®¬      Ð¿¹» ïè ±º ëé
+
+                          Í»¿®½¸ ×Ü ýæ Æïèïëìíîì
+
+îð   ïíóíëóðììóðéÉì                                Ý«®®»²¬ Þ§
+     ïìóðîóðíçóðèÉì                                îîðìðêððìçì
+     ïìóðîóðìíóðèÉì
+     ïìóðìóðìîóïîÉì
+     ïìóðëóðììóðéÉì
+     ïìóðëóðììóðèÉì
+     ïìóðçóðìêóðéÉì
+     ïìóïðóðíçóïðÉì
+     ïìóïðóðìîóïïÉì
+     ïìóïïóðíçóïðÉì
+     ïìóïïóðìîóðèÉì
+     ïìóïîóðíçóðèÉì
+     ïìóïîóðíçóðèÉì
+     ïìóïìóðìîóðçÉì
+     ïìóïêóðììóðéÉì
+     ïìóïéóðìëóðéÉì
+     ïìóïèóðììóðéÉì
+     ïìóïçóðììóðéÉì
+     ïìóîïóðììóðéÉì
+     ïìóîîóðììóðèÉì
+     ïìóîíóðììóðèÉì
+     ïìóîìóðíçóïðÉì
+     ïìóîèóðìïóðèÉì
+     ïìóîèóðììóðéÉì
+     ïìóîçóðìîóïðÉì
+     ïìóíïóðìîóðèÉì
+     ïìóíìóðììóðéÉì
+     ïìóíêóðìîóðçÉì
+     ïëóðîóðíéóðéÉì
+     ïëóðíóðìêóðéÉì
+     ïëóðìóðìëóðèÉì
+     ïëóðéóðììóðéÉì
+     ïëóïðóðíçóïðÉì
+     ïëóïïóðíéóðéÉì
+     ïëóïïóðíçóïðÉì
+     ïëóïîóðíçóðèÉì
+     ïëóïíóðìëóðèÉì
+     ïëóïìóðìíóïðÉì
+     ïëóîïóðìîóðèÉì
+     ïëóîîóðìðóðèÉì
+     ïëóîçóðìêóðèÉì
+     ïëóííóðììóðéÉì
+     ïëóíëóðíêóðéÉì
+     ïêóðîóðíéóðéÉì
+     ïêóðíóðíéóðéÉì
+                      Ð»®-±²¿´ Ð®±°»®¬§ Î»¹·-¬®§
+                        Í»¿®½¸ Î»-«´¬- Î»°±®¬      Ð¿¹» ïç ±º ëé
+
+                          Í»¿®½¸ ×Ü ýæ Æïèïëìíîì
+
+îï   ïêóðìóðìîóïîÉì                                Ý«®®»²¬ Þ§
+     ïêóðêóðììóðèÉì                                îîðìðêððìçì
+     ïêóðêóðìëóðéÉì
+     ïêóðçóðíëóðêÉì
+     ïêóðçóðìîóïðÉì
+     ïêóðçóðììóðèÉì
+     ïêóïðóðíçóïðÉì
+     ïêóïïóðíéóðéÉì
+     ïêóïïóðíçóïðÉì
+     ïêóïîóðíçóðèÉì
+     ïêóïìóðíçóïðÉì
+     ïêóïëóðììóðéÉì
+     ïêóïëóðììóðèÉì
+     ïêóîëóðìîóðçÉì
+     ïêóîçóðììóðéÉì
+     ïêóíëóðìîóðçÉì
+     ïêóíêóðìîóðçÉì
+     ïïóïîóðíçóïðÉì
+     ïïóïêóðìîóðèÉì
+     ïïóïêóðìîóïîÉì
+     ïïóïêóðìëóðéÉì
+     ïïóîîóðììóðéÉì
+     ïïóîìóðìíóïðÉì
+     ïïóîëóðíéóðéÉì
+     ïïóîèóðìíóðèÉì
+     ïïóîèóðìëóðéÉì
+     ïïóííóðìëóðéÉì
+     ïïóíìóðìîóðèÉì
+     ïïóíëóðìêóðèÉì
+     ïïóíêóðìëóðèÉì
+     ïîóðîóðíçóïðÉì
+     ïîóðîóðìëóðéÉì
+     ïîóðíóðìîóïîÉì
+     ïîóðëóðìêóðéÉì
+     ïîóðêóðìëóðçÉì
+     ïîóðéóðíçóðéÉì
+     ïîóðçóðìëóðéÉì
+     ïîóïðóðíéóðéÉì
+     ïîóïðóðíçóïðÉì
+     ïîóïïóðíéóðéÉì
+     ïîóïïóðíçóïðÉì
+     ïîóïîóðíçóðèÉì
+     ïîóïîóðíçóïðÉì
+     ïîóïîóðìîóðèÉì
+                      Ð»®-±²¿´ Ð®±°»®¬§ Î»¹·-¬®§
+                        Í»¿®½¸ Î»-«´¬- Î»°±®¬      Ð¿¹» îð ±º ëé
+
+                          Í»¿®½¸ ×Ü ýæ Æïèïëìíîì
+
+îî   ïîóïçóðìîóðèÉì                                Ý«®®»²¬ Þ§
+     ïîóîíóðìðóðèÉì                                îîðìðêððìçì
+     ïîóîíóðììóðéÉì
+     ïîóîìóðíçóïðÉì
+     ïîóîëóðíéóðéÉì
+     ïîóîéóðíëóðêÉì
+     ïîóîèóðììóðèÉì
+     ïîóîçóðììóðèÉì
+     ïîóíðóðììóðêÉì
+     ïîóíðóðìëóðéÉì
+     ïíóðîóðíéóðéÉì
+     ïíóðíóðìîóïîÉì
+     ïíóðìóðìîóïîÉì
+     ïíóðêóðíçóðéÉì
+     ïíóðêóðììóðêÉì
+     ïíóðêóðììóðèÉì
+     ïíóðéóðíçóðéÉì
+     ïíóïðóðíëóðêÉì
+     ïíóïðóðíéóðéÉì
+     ïíóïðóðíçóïðÉì
+     ïíóïïóðíéóðéÉì
+     ïíóïïóðìïóïðÉì
+     ïíóïîóðíçóðèÉì
+     ïíóïîóðíçóïðÉì
+     ïíóïîóðììóðéÉì
+     ïíóïìóðíçóïðÉì
+     ïíóïìóðìðóðèÉì
+     ïíóïêóðíëóðêÉì
+     ïíóïéóðììóðéÉì
+     ïíóîíóðìðóðèÉì
+     ïíóíïóðìíóðêÉì
+     ïíóíîóðìíóðêÉì
+     ïíóíìóðìïóïîÉì
+     ïíóíìóðìëóðéÉì
+     ïíóíëóðììóðéÉì
+     ïìóðîóðíçóðèÉì
+     ïìóðîóðìíóðèÉì
+     ïìóðìóðìîóïîÉì
+     ïìóðëóðììóðéÉì
+     ïìóðëóðììóðèÉì
+     ïìóðçóðìêóðéÉì
+     ïìóïðóðíçóïðÉì
+     ïìóïðóðìîóïïÉì
+                      Ð»®-±²¿´ Ð®±°»®¬§ Î»¹·-¬®§
+                        Í»¿®½¸ Î»-«´¬- Î»°±®¬      Ð¿¹» îï ±º ëé
+
+                          Í»¿®½¸ ×Ü ýæ Æïèïëìíîì
+
+îí   ïìóïïóðíçóïðÉì                                Ý«®®»²¬ Þ§
+     ïìóïïóðìîóðèÉì                                îîðìðêððìçì
+     ïìóïîóðíçóðèÉì
+     ïìóïîóðíçóðèÉì
+     ïìóïìóðìîóðçÉì
+     ïìóïêóðììóðéÉì
+     ïìóïéóðìëóðéÉì
+     ïìóïèóðììóðéÉì
+     ïìóïçóðììóðéÉì
+     ïìóîïóðììóðéÉì
+     ïìóîîóðììóðèÉì
+     ïìóîíóðììóðèÉì
+     ïìóîìóðíçóïðÉì
+     ïìóîèóðìïóðèÉì
+     ïìóîèóðììóðéÉì
+     ïìóîçóðìîóïðÉì
+     ïìóíïóðìîóðèÉì
+     ïìóíìóðììóðéÉì
+     ïìóíêóðìîóðçÉì
+     ïëóðîóðíéóðéÉì
+     ïëóðíóðìêóðéÉì
+     ïëóðìóðìëóðèÉì
+     ïëóðéóðììóðéÉì
+     ïëóïðóðíçóïðÉì
+     ïëóïïóðíéóðéÉì
+     ïëóïïóðíçóïðÉì
+     ïëóïîóðíçóðèÉì
+     ïëóïíóðìëóðèÉì
+     ïëóïìóðìíóïðÉì
+     ïëóîïóðìîóðèÉì
+     ïëóîîóðìðóðèÉì
+     ïëóîçóðìêóðèÉì
+     ïëóííóðììóðéÉì
+     ïëóíëóðíêóðéÉì
+     ïêóðîóðíéóðéÉì
+     ïêóðíóðíéóðéÉì
+     ïêóðìóðìîóïîÉì
+     ïêóðêóðììóðèÉì
+     ïêóðêóðìëóðéÉì
+     ïêóðçóðíëóðêÉì
+     ïêóðçóðìîóïðÉì
+     ïêóðçóðììóðèÉì
+     ïêóïðóðíçóïðÉì
+     ïêóïïóðíéóðéÉì
+     ïêóïïóðíçóïðÉì
+     ïêóïîóðíçóðèÉì
+     ïêóïìóðíçóïðÉì
+     ïêóïëóðììóðéÉì
+     ïêóïëóðììóðèÉì
+     ïêóîëóðìîóðçÉì
+     ïêóîçóðììóðéÉì
+     ïêóíëóðìîóðçÉì
+     ïêóíêóðìîóðçÉì
+                                              Ð»®-±²¿´ Ð®±°»®¬§ Î»¹·-¬®§
+                                                 Í»¿®½¸ Î»-«´¬- Î»°±®¬                        Ð¿¹» îî ±º ëé
+
+                                                     Í»¿®½¸ ×Ü ýæ Æïèïëìíîì
+
+Þ«-·²»-- Ü»¾¬±® Í»¿®½¸ Ú±®æ
+ÝÔÛÑ ÛÒÛÎÙÇ ÝÑÎÐ
+Í»¿®½¸ ×Ü ýæ Æïèïëìíîì               Ü¿¬» ±º Í»¿®½¸æ îðîìóÜ»½óðë       Ì·³» ±º Í»¿®½¸æ ïëæïïæðë
+
+
+
+
+Î»¹·-¬®¿¬·±² Ò«³¾»®æ ïèïîïìííðíî           Î»¹·-¬®¿¬·±² Ì§°»æ ÍÛÝËÎ×ÌÇ ßÙÎÛÛÓÛÒÌ
+    Î»¹·-¬®¿¬·±² Ü¿¬»æ îðïèóÜ»½óïì      Î»¹·-¬®¿¬·±² Í¬¿¬«-æ Ý«®®»²¬
+                                                Û¨°·®§ Ü¿¬»æ îðîëóÜ»½óïì îíæëçæëç
+
+
+
+
+    Û¨¿½¬ Ó¿¬½¸ ±²æ      Ü»¾¬±®         Ò±æ ï
+
+
+ß³»²¼³»²¬- ¬± Î»¹·-¬®¿¬·±²
+
+îíðíðéïêîèî                                ß³»²¼³»²¬                                îðîíóÓ¿®óðé
+
+îíïîïîíðèéï                                Î»²»©¿´                                  îðîíóÜ»½óïî
+
+
+
+Ü»¾¬±®ø-÷
+Þ´±½µ                                                                                             Í¬¿¬«-
+                                                                                                  Ý«®®»²¬
+ï        ÝÔÛÑ ÛÒÛÎÙÇ ÝÑÎÐò
+         ïïé ó èÌØ ßÊÛÒËÛ ÍòÉò
+         ÝßÔÙßÎÇô ßÞ ÌîÐ ïÞì
+
+
+Í»½«®»¼ Ð¿®¬§ ñ Ð¿®¬·»-
+Þ´±½µ                                                                                             Í¬¿¬«-
+                                                                                                  Ü»´»¬»¼ ¾§
+ï        ØßÎÊÛÍÌ ÑÐÛÎßÌ×ÑÒÍ ÝÑÎÐò                                                                 îíðíðéïêîèî
+         ìëððô èëë ó îÒÜ ÍÌÎÛÛÌ ÍòÉò
+         ÝßÔÙßÎÇô ßÞ ÌîÐ ìÕé
+
+Þ´±½µ                                                                                             Í¬¿¬«-
+                                                                                                  Ý«®®»²¬ ¾§
+î        ØßÎÊÛÍÌ ÑÐÛÎßÌ×ÑÒÍ ÝÑÎÐò                                                                 îíðíðéïêîèî
+         ìëððô èëë ó îÒÜ ÍÌÎÛÛÌ ÍòÉò
+         ÝßÔÙßÎÇô ßÞ ÌîÐ ìÕé
+         Û³¿·´æ ÖÐòÐ¸¿³à¸¿®ª»-¬»²»®¹§ò½¿
+                                                 Ð»®-±²¿´ Ð®±°»®¬§ Î»¹·-¬®§
+                                                    Í»¿®½¸ Î»-«´¬- Î»°±®¬                           Ð¿¹» îí ±º ëé
+
+                                                         Í»¿®½¸ ×Ü ýæ Æïèïëìíîì
+
+
+Ý±´´¿¬»®¿´æ Ù»²»®¿´
+Þ´±½µ   Ü»-½®·°¬·±²                                                                                  Í¬¿¬«-
+ï       Ú«²½¬·±²¿´ Ë²·¬ Ð¿®¬·½·°¿¬·±²- ·² ¬¸» º±´´±©·²¹ º¿½·´·¬·»-æ ø¿÷ Ø¿§¬»® ðèóíëóðìðóðïÉì Þ¿¬¬»®§ Ý«®®»²¬
+        Ú¿½·´·¬·»-å ø¾÷ Ø¿§¬»® ðïóíìóðìðóðïÉì Ý±³°®»--±®å ø½÷ Ø¿§¬»® ðïóíìóðìðóðïÉì Ú¿½·´·¬·»-å
+        ¿²¼ ø¼÷ Ø¿§¬»® ðíóíìóðìðóðïÉì Í¿¬»´´·¬» ·²½´«¼·²¹ Ý´»± Û²»®¹§ Ý±®°òù- °®±°±®¬·±²¿¬»
+        -¸¿®» ±º Ú¿½·´·¬§ Ð®±¼«½¬·±² º®±³ ¬¸» ¿º±®»³»²¬·±²»¼ º¿½·´·¬·»- ø¿ô¾ô½ô¼÷ º±® °¿§³»²¬ ±º Ý´»±
+        Û²»®¹§ Ý±®°ù- °®±°±®¬·±²¿¬» -¸¿®» ±º ¬¸» ½±-¬- ¿²¼ »¨°»²-»- ·²½«®®»¼ º±® ¬¸» Ö±·²¬
+        ß½½±«²¬ô ¿²¼ Ý´»± Û²»®¹§ Ý±®°òù- -¸¿®» ±º Ð»¬®±´»«³ Í«¾-¬¿²½»- ®»½»·ª»¼ ·²¬± ¬¸» ß³·-µ
+        ïîóïëóðìðóðè ÉìÓ Þ¿¬¬»®§ º¿½·´·¬§ô ±® ¿²§ °±®¬·±² ¬¸»®»±ºô º±® ¬¸» ¿³±«²¬- ø¿- ±º ¼¿¬» ±º
+        ®»¹·-¬®¿¬·±²÷ ±ºæ üçèìôéêïòêì ·² ±«¬-¬¿²¼·²¹ ½±-¬- ¿²¼ »¨°»²-»- ·²½«®®»¼ º±® ¬¸» Ö±·²¬
+        ß½½±«²¬å ¿²¼ üïîôíìðòíè ·² ½±³°±«²¼»¼ ·²¬»®»-¬ ±² ¬¸» º±®»¹±·²¹ ¿³±«²¬ô ¿- ½±³°«¬»¼
+        ³±²¬¸´§ô ¿¬ ¬¸» ®¿¬» ±º ¬¸» °®»ª¿·´·²¹ °®·³» ®¿¬» º±® Ý¿²¿¼·¿² ½±³³»®½·¿´ ´±¿²- ¾§ ¬¸»
+        °®·²½·°¿´ Ý¿²¿¼·¿² ½¸¿®¬»®»¼ ¾¿²µ «-»¼ ¾§ ¬¸» Í»½«®»¼ Ð¿®¬§ °´«- ¬©± °»®½»²¬ øîû÷ °»®
+        ¿²²«³ô ¿- °®±ª·¼»¼ º±® ¾§ ¬¸» ß¹®»»³»²¬å
+
+î       Ý´»± Û²»®¹§ Ý±®°òù- °®±°±®¬·±²¿¬» -¸¿®» ±º Ú¿½·´·¬§ Ð®±¼«½¬·±² º®±³ ¬¸» ¿º±®»³»²¬·±²»¼         Ý«®®»²¬ Þ§
+        º¿½·´·¬·»- ø¿ô ¾ô ½ô ¼÷ º±® °¿§³»²¬ ±º Ý´»± Û²»®¹§ Ý±®°ù- °®±°±®¬·±²¿¬» -¸¿®» ±º ¬¸» ½±-¬- ¿²¼ îíðíðéïêîèî
+        »¨°»²-»- ·²½«®®»¼ º±® ¬¸» Ö±·²¬ ß½½±«²¬ô ¿²¼ Ý´»± Û²»®¹§ Ý±®°òù- -¸¿®» ±º Ð»¬®±´»«³
+        Í«¾-¬¿²½»- ®»½»·ª»¼ ·²¬± ¬¸» ß³·-µ ïîóïëóðìðóðè ÉìÓ Þ¿¬¬»®§ º¿½·´·¬§ ±® ¿²§ °±®¬·±²
+        ¬¸»®»±ºô º±® ¬¸» ¿³±«²¬- ø¿- ±º Ú»¾®«¿®§ ïëô îðîí÷ ±º üìôðèìôðêçòéê ·² ±«¬-¬¿²¼·²¹ ½±-¬-
+        ¿²¼ »¨°»²-»- ·²½«®®»¼ º±® ¬¸» Ö±·²¬ ß½½±«²¬å °´«- ½±³°±«²¼»¼ ·²¬»®»-¬ ±² ¬¸» º±®»¹±·²¹
+        ¿³±«²¬ô ¿- ½±³°«¬»¼ ³±²¬¸´§ô ¿¬ ¬¸» ®¿¬» ±º ¬¸» °®»ª¿·´·²¹ °®·³» ®¿¬» º±® Ý¿²¿¼·¿²
+        ½±³³»®½·¿´ ´±¿²- ¾§ ¬¸» °®·²½·°¿´ Ý¿²¿¼·¿² ½¸¿®¬»®»¼ ¾¿²µ «-»¼ ¾§ ¬¸» Í»½«®»¼ Ð¿®¬§
+        °´«- ¬©± °»®½»²¬ øîû÷ °»® ¿²²«³ô ¿- °®±ª·¼»¼ º±® ¾§ ¬¸» ß¹®»»³»²¬å
+                                               Ð»®-±²¿´ Ð®±°»®¬§ Î»¹·-¬®§
+                                                   Í»¿®½¸ Î»-«´¬- Î»°±®¬                      Ð¿¹» îì ±º ëé
+
+                                                       Í»¿®½¸ ×Ü ýæ Æïèïëìíîì
+
+Þ«-·²»-- Ü»¾¬±® Í»¿®½¸ Ú±®æ
+ÝÔÛÑ ÛÒÛÎÙÇ ÝÑÎÐ
+Í»¿®½¸ ×Ü ýæ Æïèïëìíîì                 Ü¿¬» ±º Í»¿®½¸æ îðîìóÜ»½óðë        Ì·³» ±º Í»¿®½¸æ ïëæïïæðë
+
+
+
+
+Î»¹·-¬®¿¬·±² Ò«³¾»®æ îîðìîçìðïèî           Î»¹·-¬®¿¬·±² Ì§°»æ ÍÛÝËÎ×ÌÇ ßÙÎÛÛÓÛÒÌ
+    Î»¹·-¬®¿¬·±² Ü¿¬»æ îðîîóß°®óîç        Î»¹·-¬®¿¬·±² Í¬¿¬«-æ Ý«®®»²¬
+                                                  Û¨°·®§ Ü¿¬»æ îðîçóß°®óîç îíæëçæëç
+
+
+
+
+    Û¨¿½¬ Ó¿¬½¸ ±²æ       Ü»¾¬±®          Ò±æ ï
+
+    Û¨¿½¬ Ó¿¬½¸ ±²æ       Ü»¾¬±®          Ò±æ î
+
+
+
+Ü»¾¬±®ø-÷
+Þ´±½µ                                                                                          Í¬¿¬«-
+                                                                                               Ý«®®»²¬
+ï        ÝÔÛÑ ÛÒÛÎÙÇ ÝÑÎÐ
+         îðð ïïé è ßÊÛÒËÛ ÍÉ
+         ÝßÔÙßÎÇô ßÞ ÌîÐïÞì
+
+Þ´±½µ                                                                                          Í¬¿¬«-
+                                                                                               Ý«®®»²¬
+î        ÝÔÛÑ ÛÒÛÎÙÇ ÝÑÎÐ
+         ÐÑ ÞÑÈ îîðç ÍÌÒ Ó
+         ÝßÔÙßÎÇô ßÞ ÌîÐïÕî
+
+Þ´±½µ                                                                                          Í¬¿¬«-
+                                                                                               Ý«®®»²¬
+í        ÔÛÉ×Íô ÝÑÔÌÑÒ
+         ïêïð ÍÝÑÌÔßÒÜ ÍÌ ÍÉ
+         ÝßÔÙßÎÇô ßÞ ÌíÝîÔë
+                                                                  Þ·®¬¸ Ü¿¬»æ
+                                                                  ïççîóÓ¿§óïê
+
+
+Í»½«®»¼ Ð¿®¬§ ñ Ð¿®¬·»-
+Þ´±½µ                                                                                          Í¬¿¬«-
+                                                                                               Ý«®®»²¬
+ï        ÍËÓÓ×Ì ßÝÝÛÐÌßÒÝÛ ÝÑÎÐ
+         ïîêð Ø×ÙØÚ×ÛÔÜ ÝÎÛÍ ÍÛ
+         ÝßÔÙßÎÇô ßÞ ÌîÙëÓí
+         Û³¿·´æ ¿¾°°-¿Á²±¬·º·½¿¬·±²-àµ¿·¦»²¿«¬±ò½±³
+
+
+Ý±´´¿¬»®¿´æ Í»®·¿´ Ò«³¾»® Ù±±¼-
+Þ´±½µ    Í»®·¿´ Ò«³¾»®               Ç»¿® Ó¿µ» ¿²¼ Ó±¼»´                 Ý¿¬»¹±®§              Í¬¿¬«-
+ï        ïÙÝËÇÜÛÜÈÒÆïïðêèí           îðîî ÝØÛÊÎÑÔÛÌ Í×ÔÊÛÎßÜÑ            ÓÊ ó Ó±¬±® Ê»¸·½´»    Ý«®®»²¬
+                                             Ð»®-±²¿´ Ð®±°»®¬§ Î»¹·-¬®§
+                                                 Í»¿®½¸ Î»-«´¬- Î»°±®¬                     Ð¿¹» îë ±º ëé
+
+                                                     Í»¿®½¸ ×Ü ýæ Æïèïëìíîì
+
+Þ«-·²»-- Ü»¾¬±® Í»¿®½¸ Ú±®æ
+ÝÔÛÑ ÛÒÛÎÙÇ ÝÑÎÐ
+Í»¿®½¸ ×Ü ýæ Æïèïëìíîì               Ü¿¬» ±º Í»¿®½¸æ îðîìóÜ»½óðë       Ì·³» ±º Í»¿®½¸æ ïëæïïæðë
+
+
+
+
+Î»¹·-¬®¿¬·±² Ò«³¾»®æ îîðëðçííèîç         Î»¹·-¬®¿¬·±² Ì§°»æ ÍÛÝËÎ×ÌÇ ßÙÎÛÛÓÛÒÌ
+    Î»¹·-¬®¿¬·±² Ü¿¬»æ îðîîóÓ¿§óðç      Î»¹·-¬®¿¬·±² Í¬¿¬«-æ Ý«®®»²¬
+                                                Û¨°·®§ Ü¿¬»æ îðîëóÓ¿§óðç îíæëçæëç
+
+
+
+
+    Û¨¿½¬ Ó¿¬½¸ ±²æ      Ü»¾¬±®         Ò±æ ï
+
+
+ß³»²¼³»²¬- ¬± Î»¹·-¬®¿¬·±²
+
+îìðìðëîëðíè                               ß³»²¼³»²¬                              îðîìóß°®óðë
+
+
+
+Ü»¾¬±®ø-÷
+Þ´±½µ                                                                                          Í¬¿¬«-
+                                                                                               Ý«®®»²¬
+ï        ÝÔÛÑ ÛÒÛÎÙÇ ÝÑÎÐò
+         îððô ïïé èÌØ ßÊÛ ÍÉ
+         ÝßÔÙßÎÇô ßÞ ÌîÐïÞì
+
+
+Í»½«®»¼ Ð¿®¬§ ñ Ð¿®¬·»-
+Þ´±½µ                                                                                          Í¬¿¬«-
+                                                                                               Ü»´»¬»¼ ¾§
+ï        ÍÌÎ×ÜÛ ÝßÐ×ÌßÔ ÝÑÎÐò                                                                  îìðìðëîëðíè
+         ÍË×ÌÛ îðïô íððé ïìÌØ ÍÌÎÛÛÌ ÍÉ
+         ÝßÔÙßÎÇô ßÞ ÌîÌíÊê
+         Û³¿·´æ ÐÐÍßàÍÌÎ×ÜÛÝßÐòÝÑÓ
+
+Þ´±½µ                                                                                          Í¬¿¬«-
+                                                                                               Ý«®®»²¬ ¾§
+î        îìïêçîì ßÔÞÛÎÌß ÔÌÜò                                                                  îìðìðëîëðíè
+         ìïëóíííî îðÌØ ÍÌÎÛÛÌ ÍÉ
+         ÝßÔÙßÎÇô ßÞ ÌîÌ êÌç
+         Û³¿·´æ ÐÐÍßàÍÌÎ×ÜÛÝßÐòÝÑÓ
+                                         Ð»®-±²¿´ Ð®±°»®¬§ Î»¹·-¬®§
+                                            Í»¿®½¸ Î»-«´¬- Î»°±®¬                 Ð¿¹» îê ±º ëé
+
+                                               Í»¿®½¸ ×Ü ýæ Æïèïëìíîì
+
+
+Ý±´´¿¬»®¿´æ Ù»²»®¿´
+Þ´±½µ   Ü»-½®·°¬·±²                                                               Í¬¿¬«-
+ï       ßÔÔ Î×ÙØÌô Ì×ÌÔÛ ßÒÜ ×ÒÌÛÎÛÍÌ ×Ò ÌØÛ ÜÛÞÌÑÎ ÌÑ ÌØÛ ÉÛÔÔÍ ßÒÜ              Ý«®®»²¬
+        ÛÏË×ÐÓÛÒÌ ÔÑÝßÌÛÜ ßÌ ÌØÛ ÞÛÔÑÉ ÜÛÍÝÎ×ÞÛÜ ÔÛÙßÔ ÔßÒÜ ÔÑÝßÌ×ÑÒÍô
+        ÌØÛÎÛÑÒ ßÒÜ ßÒÇ ÑÌØÛÎ ÌßÒÙ×ÞÔÛ ßÒÜ ×ÒÌßÒÙ×ÞÔÛ ÐÎÑÐÛÎÌÇ ÎÛÔßÌÛÜ
+        ÌØÛÎÛÌÑò
+        ßÔÔ Î×ÙØÌô Ì×ÌÔÛ ßÒÜ ×ÒÌÛÎÛÍÌ ×Ò ÌØÛ ÜÛÞÌÑÎ ÌÑ ÌØÛ Ñ×Ô ßÒÜ ÙßÍ
+        ÐÎÑÜËÝ×ÒÙ ÛÏË×ÐÓÛÒÌ ßÒÜ ßÒÇ ÑÌØÛÎ ÌßÒÙ×ÞÔÛ ßÒÜ ×ÒÌßÒÙ×ÞÔÛ
+        ÐÎÑÐÛÎÌÇ ÎÛÔßÌÛÜ ÌØÛÎÛÌÑò ÐÎÑÝÛÛÜÍæ ßÒÇ ßÒÜ ßÔÔ ÐÎÑÝÛÛÜÍ ÑÚ
+        ßÓÑËÒÌÍ ßÎ×Í×ÒÙ ÚÎÑÓ ÑÎ ÐßÇÞÔÛ ×Ò ÝÑÒÒÛÝÌ×ÑÒ É×ÌØ ßÒÇ ÑÚ ÌØÛ
+        ÝÑÔÔßÌÛÎßÔ ÜÛÍÝÎ×ÞÛÜ ßÞÑÊÛò
+        ÌÑÙÛÌØÛÎ É×ÌØ ßÔÔ ßÌÌßÝØÓÛÒÌÍô ßÝÝÛÍÍÑÎ×ÛÍô ßÝÝÛÍÍ×ÑÒÍô
+        ÎÛÐÔßÝÛÓÛÒÌÍô ÍËÞÍÌ×ÌËÌ×ÑÒÍô ßÜÜ×Ì×ÑÒÍ ßÒÜ ×ÓÐÎÑÊÛÓÛÒÌÍ ÌØÛÎÛÌÑô
+        ßÒÜ ßÔÔ ÐÎÑÝÛÛÜÍ ×Ò ßÒÇ ÚÑÎÓ ÜÛÎ×ÊÛÜ Ü×ÎÛÝÌÔÇ ÑÎ ×ÒÜ×ÎÛÝÌÔÇ ÚÎÑÓ
+        ßÒÇ ÜÛßÔ×ÒÙ É×ÌØ ÌØÛ ÝÑÔÔßÌÛÎßÔ ÑÎ ÐÎÑÝÛÛÜÍ ÌØÛÎÛÑÚô ßÒÜ É×ÌØÑËÌ
+        Ô×Ó×ÌßÌ×ÑÒô ÓÑÒÛÇô ÝØÛÏËÛÍô ÜÛÐÑÍ×ÌÍ ×Ò ÜÛÐÑÍ×ÌóÌßÕ×ÒÙ ×ÒÍÌ×ÌËÌ×ÑÒÍô
+        ÙÑÑÜÍô ßÝÝÑËÒÌÍ ÎÛÝÛ×ÊßÞÔÛô ÎÛÒÌÍ ÑÎ ÑÌØÛÎ ÐßÇÓÛÒÌÍ ßÎ×Í×ÒÙ ÚÎÑÓ
+        ÌØÛ ÔÛßÍÛ ÑÚ ÌØÛ ÝÑÔÔßÌÛÎßÔô ÝØßÌÌÛÔ ÐßÐÛÎô ×ÒÍÌÎËÓÛÒÌÍô
+        ×ÒÌßÒÙ×ÞÔÛÍô ÜÑÝËÓÛÒÌÍ ÑÚ Ì×ÌÔÛô ÍÛÝËÎ×Ì×ÛÍô ßÒÜ Î×ÙØÌÍ ÑÚ ×ÒÍËÎßÒÝÛ
+        ÐßÇÓÛÒÌÍ ÑÎ ßÒÇ ÑÌØÛÎ ÐßÇÓÛÒÌÍ ßÍ ×ÒÜÛÓÒ×ÌÇ ÑÎ ÝÑÓÐÛÒÍßÌ×ÑÒ ÚÑÎ
+        ÔÑÍÍ ÑÎ ÜßÓßÙÛ ÌÑ ÌØÛ ÝÑÔÔßÌÛÎßÔ ÑÎ ÐÎÑÝÛÛÜÍ ÑÚ ÌØÛ ÝÑÔÔßÌÛÎßÔò
+
+î       ÍÝØÛÜËÔÛ ß                                                                Ý«®®»²¬
+        ËÉ× ÊÛÍÍÛÔ ÓßÒËÚßÝÌËÎÛÎ ßý ÝÎÒ ÍÒ ÓßÕÛ ÓÑÜÛÔ ÝÎÒ ÍÒ
+        ïðíñïìóîéóìðóïíÉì ÍÛÐßÎßÌÑÎ ßëïêëéé Îîçëçòîïí ððèéðëóîðð ÌßÇÔÑÎ
+        èîÛèíëïíïï ððïééìóïíð
+        ïðíñïìóîéóìðóïíÉì ÚËÛÔ ÙßÍ ÍÝÎËÞÞÛÎ Ðêçðçòîíï Íóííïê ÌßÇÔÑÎ èîÛìíëïíïï
+        ððèìïðóìí
+        ïðíñïìóîéóìðóïíÉì ïðð ÞÞÔ ÌßÒÕ ÒËÍÝÑ èéðë
+        ïðîñïíóîéóìðóïíÉì ÍÛÐßÎßÌÑÎ ßëðíèêî Ðïéêèòîïí íïéëëé ðÙðïíïêòîÝ ðíìðìèóéð
+        ïðîñïíóîéóìðóïíÉì ÚËÛÔ ÙßÍ ÍÝÎËÞÞÛÎ ïïìïéèòîïíë êîèêòìîí ÌßÇÔÑÎ
+        èîÛìíëïíïï ððçéçîóïíé
+        ïððñïíóîéóìðóïíÉì ÍÛÐßÎßÌÑÎ ßêðîçíè Ðéîçèòîï îéïéï ÌßÇÔÑÎ èîÛèíëïíïï
+        ïïîçéóç ßìëèçòí
+        ïððñïíóîéóìðóïíÉì ÚËÛÔ ÙßÍ ÍÝÎËÞÞÛÎ ÑØëéíéíòîïç îëïêéë èîÛìíëïíïï ðîèìèðó
+        îï
+        ðëóîéóìðóïíÉì ÍËÝÌ×ÑÒ ÙßÍ ÍÝÎËÞÞÛÎ èîèêòïíëé ÌßÇÔÑÎ èîÛíëíïíïï ïçîìîóïé
+        ðëóîéóìðóïíÉì Ü×ÍÝØßÎÙÛ ÞÑÌÌÔÛ ßïððîé ØéçëïòëÝ ÍÚóïîîèîè ÌßÇÔÑÎ
+        èîÛìíëïíïï îðîéèóí
+        ðëóîéóìðóïíÉì éëð ÞÞÔ ÌßÒÕ ÎËÙÙÛÜ ÌßÒÕ ú ÚßÞÎ×ÝßÌ×ÑÒ íðêïï
+        ðëóîéóìðóïíÉì éëð ÞÞÔ ÌßÒÕ ÎËÙÙÛÜ ÌßÒÕ ú ÚßÞÎ×ÝßÌ×ÑÒ íïéïï
+        ðëóîéóìðóïíÉì éëð ÞÞÔ ÌßÒÕ ÎËÙÙÛÜ ÌßÒÕ ú ÚßÞÎ×ÝßÌ×ÑÒ íïðïï
+                                     Ð»®-±²¿´ Ð®±°»®¬§ Î»¹·-¬®§
+                                        Í»¿®½¸ Î»-«´¬- Î»°±®¬                 Ð¿¹» îé ±º ëé
+
+                                           Í»¿®½¸ ×Ü ýæ Æïèïëìíîì
+
+í   ïððñðèóðéóðìîóïìÉì ÚÔßÎÛ ÕÒÑÝÕÑËÌ ÐÇÎßÓ×Ü ÛÔÛÝÌÎ×Ý çéóÓóëðî               Ý«®®»²¬
+    ïððñðèóðéóðìîóïìÉì ÚËÛÔ ÙßÍ ÍÝÎËÞÞÛÎ ÐßÒßÈ ðØëéíéòîïí îëïëëî ÌßÇÔÑÎ
+    èîÛìíëïíïï ððçéçîóïíç
+    ïððñðèóðéóðìîóïìÉì ÍÛÐßÎßÌÑÎ ÐßÒßÈ ßëçëèèí Ðéîçèòîï îêèíé ÌßÇÔÑÎ
+    èîÛèíëïíïï ððëìïéóïêë ßìëèçòí
+    ïððñðèóðéóðìîóïìÉì éëð ÞÞÔ ÌßÒÕ ÎËÙÙÛÜ ÌßÒÕ ú ÚßÞÎ×ÝßÌ×ÑÒ íïëïï
+    ïðîñðìóðíóðìðóïîÉì ÍÛÐßÎßÌÑÎ ÒËÍÝÑ ßëðèíêë Îîçëçòîïí ððéêíìóîðð ÌßÇÔÑÎ
+    èîÛèíëïíïï ðëìïéóïïî
+    ïðîñðìóðíóðìðóïîÉì ÚËÛÔ ÙßÍ ÍÝÎËÞÞÛÎ ÒËÍÝÑ Ðêçðçòîíï Íóíðèð ÌßÇÔÑÎ
+    èîÛìíëïíïï ðÙðïíïêòîÝ ððçéîóïíð
+    ïðîñðìóðíóðìðóïîÉì ïðð ÞÞÔ ÌßÒÕ ÒËÍÝÑ éêíì
+    ïðîñðìóðíóðìðóïîÉì éëð ÞÞÔ ÌßÒÕ ÎËÙÙÛÜ ÌßÒÕ ú ÚßÞÎ×ÝßÌ×ÑÒ íðéïï
+    ïðíñïïóíïóðíèóðçÉì ÊÛÎÌ í ÐØßÍÛ ÍÛÐßÎßÌÑÎ ßëéêîìð Ðéîïéòî ïïïçï ÌßÇÔÑÎ
+    èîÛèíëïíïï ìíîççóîïë
+    ïðíñïïóíïóðíèóðçÉì ÚËÛÔ ÙßÍ ÍÝÎËÞÞÛÎ Úêíèèòî ïïëëí ÌßÇÔÑÎ èîÛìíëïíïï
+    ìíïðçóïðï
+    ïððñðïóíïóðíèóðçÉì ÍÛÐßÎßÌÑÎ ßêðêîïé Îëîèêòîïí ïçíïéóðï ÌßÇÔÑÎ èîÛèíëïíïï
+    ðïêëèèóîîì
+    ïððñðïóíïóðíèóðçÉì ÚËÛÔ ÙßÍ ÍÝÎËÞÞÛÎ ðØðçðîìòîïí êîèéòëëï ÌßÇÔÑÎ
+    èîÛëíëïíïï ðïêíëìóíéë
+    ðíóíïóðíèóðçÉì ÝÑÒÌÎÑÔ ÞÔÜÙ ÚËÛÔ ÙßÍ ÍÝÎËÞÞÛÎ ÔÑ ÌÛÝØ ðØéïëìòîïíì
+    ïððêòéîïç ÓÛÎÝÛÎ çïóïéÜëïÊðëÛï ðÙèèìïòëÝ èîððçê
+    ðíóíïóðíèóðçÉì éëð ÞÞÔ ÌßÒÕ ÚÔ×ÒÌ ßéëðóïè
+    ðíóíïóðíèóðçÉì éëð ÞÞÔ ÌßÒÕ ÚÔ×ÒÌ ßéëðóïç
+    ïðîñïïóíïóðíèóðçÉì ÊÛÎÌ í ÐØßÍÛ ÍÛÐßÎßÌÑÎ ÎÖÊ ßíïëíííì Úëèéìòî íêïì
+    ÓÛÎÝÛÎ çïïéÜëïïéïìÛ ðÙîêðêòëÝ ìëëðé
+    ïðîñïïóíïóðíèóðçÉì ÚËÛÔ ÙßÍ ÍÝÎËÞÞÛÎ
+
+ì   ïðîñïïóíïóðíèóðçÉì ÐËÓÐÖßÝÕ ÍÝÎËÞÞÛÎ ÐÔßÌ×ÒËÓ ÐËÔÔ ÌÇÐÛ                   Ý«®®»²¬
+    ïðîñïïóíïóðíèóðçÉì éëð ÞÞÔ ÌßÒÕ ÕßÓÞÛÎ ÚßÞ ×ÒÜËÍÌÎ×ÛÍ éëðïêë
+    ïððñðèóïçóðíçóïðÉì ÐËÓÐÖßÝÕ ÍÝÎËÞÞÛÎ ßÓÐÍÝÑÌ ÐËÔÔ ÌÇÐÛ
+    ïððñðèóïçóðíçóïðÉì ÍÛÐßÎßÌÑÎ ßëïèçëç Îèêïðòîíï ðìóðéóîíð ÌßÇÔÑÎ
+    èîÛèíëïíïï ïêèìëóíë
+    ïððñðèóïçóðíçóïðÉì ÚËÛÔ ÙßÍ ÍÝÎËÞÞÛÎ ÔÑ ÌÛÝØ ðØîìîîòîïíì ïðïìòïééè
+    ÌßÇÔÑÎ èîÛìíëïíïï ðððïíïêòîÝ ðëéðëðóé
+    ïððñðèóïçóðíçóïðÉì éëð ÞÞÔ ÌßÒÕ ÎËÙÙÛÜ ÌßÒÕ ú ÚßÞÎ×ÝßÌ×ÑÒ íðèïï
+    ïððñïêóíëóðíèóïðÉì ÚËÛÔ ÐÑÌ ÞÎÑÓÔÛÇ ßëëéíïê Øìïðçòîíì êîëèîî ÌßÇÔÑÎ
+    èîÛìíëïíïï ðÙðïíïêòîÝ ðïìíçïóíêë
+    ïððñïêóíëóðíèóïðÉì ÍÛÐßÎßÌÑÎ ÐßÒßÈ ßëìçïçï Ðéîçèòîï îêðêï ÌßÇÔÑÎ
+    èîÛèíëïíïï ðïìííèóîëê ßìëèçòí
+    ïððñïêóíëóðíèóïðÉì ìðð ÞÞÔ ÌßÒÕ ÎÛÝÑÓ ïððíï
+    ïððñïêóíëóðíèóïðÉì ìðð ÞÞÔ ÌßÒÕ ÎÛÝÑÓ ïððíî
+    ïêóîèóðíèóïðÉì Ü×ÍÝØßÎÙÛ ÞÑÌÌÔÛ ÍÌÛÛÔ ÚßÞ ØéçëïòëÝ ÍÚóïîêíìèøá÷ ÌßÇÔÑÎ
+    èîÛìíëïíïï ðÙðïíïêòîÝ ðìðîïëóïëí
+    ïêóîèóðíèóïðÉì ÍËÝÌ×ÑÒ ÞÑÌÌÔÛ ×ÓÐßÝÌ ×ÒÜËÍÌÎ×ßÔ ÍßÔÛÍ ðØðéïëîòî Íðîëîë
+    ÌßÇÔÑÎ èîÛëíëïíïï ðíéèîìóîêí
+    ïðîñïêóííóðíèóïðÉì ÐËÓÐÖßÝÕ ÍÝÎËÞÞÛÎ ÔÑ ÌÛÝØ ÉÛÔÔÓßÎÕ ÉîêðïóÛÊïóíïïó
+    íð ððéçêèòëîñëê ×ÞÌðëîêëóîì
+    ïðîñïêóííóðíèóïðÉì ÍÛÐßÎßÌÑÎ ÒÉÐ ×ÒÜËÍÌÎ×ÛÍ ßëèèèèì Ôçìëíòîíï ïêìí
+    ÌßÇÔÑÎ èîÛéíëïíïï ðÙðïíïêòîÝ ðëïíìîóíì
+    ïðîñïêóííóðíèóïðÉì ÍÝÎËÞÞÛÎ ÒÉÐ ×ÒÜËÍÌÎ×ÛÍ ðØðçíïçòîïí ïêïð ÌßÇÔÑÎ
+    èîÛìíëïíïï ðÙðïíïêòîÝ ëìðïîïë øá÷
+    ïðíñïëóîéóðíèóïðÉì ÍÛÐßÎßÌÑÎ ÐßÒßÈ ßêðîçíç Ðéîçèòîï îéïéî ÌßÇÔÑÎ
+    èîÛêíëïíïï ðïðéêðóíïé ßìëèçòí
+    ïðíñïëóîéóðíèóïðÉì ÍÝÎËÞÞÛÎ ÐßÒßÈ ðØëéíéòîïí îëïêéí ÌßÇÔÑÎ èîÛìëíïíïï
+    ðÙðïíïêòîÝ ðëéðëðóïç
+                                    Ð»®-±²¿´ Ð®±°»®¬§ Î»¹·-¬®§
+                                       Í»¿®½¸ Î»-«´¬- Î»°±®¬                 Ð¿¹» îè ±º ëé
+
+                                           Í»¿®½¸ ×Ü ýæ Æïèïëìíîì
+
+ë   ïððñðìóîîóðìïóðçÉìñðî ÍÛÐßÎßÌÑÎ ÎÖÊ ßìðëéïé Óðéïêòî ìëíè ÌßÇÔÑÎ          Ý«®®»²¬
+    èîÙïîêëïíïïóïììð ðíìðìèóèé
+    ïððñðìóîîóðìïóðçÉìñðî ÍÝÎËÞÞÛÎ ÒÑ ÐÔßÌÛ ÌßÇÔÑÎ èîÛìíëïíïï ìçéîîóïé
+    ïððñðìóîîóðìïóðçÉìñðî ïðð ÞÞÔ ÌßÒÕ ÞÎÑÓÔÛÇ îðêóÜïððóïðîìí
+    ïððñðìóîîóðìïóðçÉìñðî éëð ÞÞÔ ÌßÒÕ ÒÑ ÐÔßÌÛ
+    ïððñðìóîîóðìïóðçÉìñðî ÙÎÑËÐ ÍÛÐßÎßÌÑÎ ÞÎÑÓÔÛÇ ßëêëïéï Ðïéêèòîïí ëïêóéðÒ
+    ÌßÇÔÑÎ èîÛéíëïíïï íðêêëóììí
+    ïððñðìóîîóðìïóðçÉìñðî ÚËÛÔ ÙßÍ ÚÎÑÓ ÍÛÐßÎßÌÑÎ ÞÎÑÓÔÛÇ ßëêðëïè êîêðéî
+    ÌßÇÔÑÎ èîÛìíëïíïï íðéìéóìç
+    ïððñðìóîîóðìïóðçÉìñðî ×ÒÔÛÌ ÍÛÐßÎßÌÑÎ ÒÙÝ ßëëêéçè Îëèïðòîïí ïêêðéóî
+    ØÇÜÎÑÍÛßÔ ïìÛíÓðÊððñÔë ëëëíðîóïë
+    ïððñðìóîîóðìïóðçÉìñðî Ñ×Ô ÍÛÐßÎßÌÑÎ ÒÙÝ ßëêëêêè Îëèðçòîïí ïêêðéóé ÌßÇÔÑÎ
+    èîØêëéïíïï ðíîðèêóîïê
+    ïððñðéóïëóðìïóðçÉìñðð ÍÛÐßÎßÌÑÎ ÚÔÑÜÎ×Ð ßìéçèçé Ôìîëðòîíï ìéïè ÌßÇÔÑÎ
+    èîÛèíëïíïï ìèéèéóïîé
+    ïððñïêóðíóðìïóðçÉìñðð ÚËÛÔ ÙßÍ ÔÑ ÌÛÝØ ðØîîççòîïíì ïððêòïèçç ÌßÇÔÑÎ
+    èîÛìíëïíïï ìççèðóêè
+    ïððñïêóðíóðìïóðçÉìñðð ÙßÍ ÍÛÐßÎßÌÑÎ ÒËÍÝÑ ßìèêéíï ÐçîçïòîÝ ððëêïèóîðð
+    ÌßÇÔÑÎ èîÛìíëïíïï ìëéèéóïîì
+    ïððñïêóðíóðìïóðçÉìñðð ïíð ÞÞÔ ÌßÒÕ ÒËÍÝÑ ððëêïè
+    ïððñðíóðíóðìïóðçÉìñðî ÍÛÐßÎßÌÑÎ ÒËÍÝÑ ßëïêîêí Îêðëðòîí ððèíìèóîðð
+    ÓÛÎÝÛÎ çïóïéÜëïÌïìÛï ìèçíîí
+    ïððñðíóðíóðìïóðçÉìñðî ÚËÛÔ ÙßÍ ÍÝÎËÞÞÛÎ ÚÔÑóÜÎ× ÌßÇÔÑÎ èîÛìíëïíïï ïëðððó
+    ïë
+    ïððñðíóðíóðìïóðçÉìñðî êð ÞÞÔ ÌßÒÕ ÒËÍÝÑ èíìè
+    ïððñðçóîìóðìïóðçÉìñðð ÍÛÐßÎßÌÑÎ ÒËÍÝÑ ßëíìèðê Ðìíçëòî ðïóìíìçóë ÌßÇÔÑÎ
+    èîÛìíëïíïï ìêéèéóïëï
+    ïððñðçóîìóðìïóðçÉìñðð ÚËÛÔ ÙßÍ ÍÛÐßÎßÌÑÎ ðØêéçëòîï ççóìíìçóë ÓÛÎÝÛÎ
+    çïðêÜëïÊðêÛï ïëïçðï
+    ïððñðêóîïóðìïóðçÉìñðî ÙßÍ ÍÛÐßÎßÌÑÎ ÐÔß×ÒÍ Ñ×Ô ßëïíîìì Îîëîðòîïí íëîêóÊí
+    ÓÛÎÝÛÎ çïóïéÜëïÌïìÛï ïîçìëé
+    ïððñðêóîïóðìïóðçÉìñðî êð ÞÞÔ ÌßÒÕ ËÔÌÎßÚßÞ ðìèêóðïç
+    ïëóðëóðìîóïîÉì í ÐØßÍÛ ÍÛÐßÎßÌÑÎ Í×ÔÊÛÎßÜÑ ßëëðçîé Ììèëéòî Íóïèëî
+    ÌßÇÔÑÎ èîØïïêéëïíïï ïçééî
+    ïëóðëóðìîóïîÉì ÙßÍ ÍÝÎËÞÞÛÎ Í×ÔÊÛÎßÜÑ ÑØëèíòéòîïí Íóïéçè ÌßÇÔÑÎ
+    èîÛìíëïíïï ïìéíðóëë
+    ïëóðëóðìîóïîÉì ß×Î ÎÛÝÛ×ÊÛÎ ÍÌÛÛÔ ÚßÞ ØéçëïòëÝ ÍÚóïéççéë
+                                    Ð»®-±²¿´ Ð®±°»®¬§ Î»¹·-¬®§
+                                       Í»¿®½¸ Î»-«´¬- Î»°±®¬                Ð¿¹» îç ±º ëé
+
+                                          Í»¿®½¸ ×Ü ýæ Æïèïëìíîì
+
+ê   ÔÑÝßÌ×ÑÒ ÞË×ÔÜ×ÒÙñÛÏË×ÐÓÛÒÌ ßÜÜ×Ì×ÑÒßÔ ×ÒÚÑÎÓßÌ×ÑÒ                      Ý«®®»²¬
+    ïëóíëóîïóðéÉì ÑÚÚ×ÝÛ ÛÔÛÝÌÎ×ÝßÔ ÎÑÑÓô ÑÚÚ×ÝÛ ú ÌÑÑÔ ÎÑÑÓ
+    ïëóíëóîïóðéÉì ËÌ×Ô×ÌÇ ÞË×ÔÜ×ÒÙ ÉßÌÛÎñÙÔÇÝÑÔ ØÛßÌÛÎô øî÷ Ý×ÎÝËÔßÌ×ÒÙ
+    ÝÛÒÌÎ×ÚËÙßÔ ÐËÓÐÍô øî÷ ß×Î ÝÑÓÐÎÛÍÍÑÎÍ ú ß ÜÎÇ×ÒÙ ÌÑÉÛÎ
+    ïëóíëóîïóðéÉì ×ÒÔÛÌ ÞË×ÔÜ×ÒÙ ÌÛÍÌ ÍÛÐßÎßÌÑÎô ÚÉÕÑô ÚÔßÎÛ ÓÛÌÛÎ ÎËÒô è
+    ÉÛÔÔ ØÛßÜÛÎô øî÷ ÎËÚÚÒÛÝÕÍ
+    ïëóíëóîïóðéÉì ÌÎÛßÌÛÎ ÞË×ÔÜ×ÒÙ ËÒ×ÊÛÎÍßÔ ïð È ìð ÚÑÑÌ ÜËßÔ ÞËÎÒÛÎ
+    ÌÎÛßÌÛÎ ú ÓÛÌÛÎ ÎËÒ
+    ïëóíëóîïóðéÉì ÝÑÓÐÎÛÍÍÑÎ ÞË×ÔÜ×ÒÙ íìðè ÝßÌ ú î ÍÌßÙÛ ÙÛÓ×Ò×
+    ÝÑÓÐÎÛÍÍÑÎ
+    ïëóíëóîïóðéÉì ÜÛØÇ ÞË×ÔÜ×ÒÙ ÝÑÒÌßÝÌÑÎô ÎÛÞÑ×ÔÛÎ ú ßÝÝËÓËÔßÌÑÎô
+    ÙÔÇÝÑÔ ÐËÓÐô ÓÛÌØßÒÑÔ ÐËÓÐ
+    ïëóíëóîïóðéÉì ÏË×Ò ÐÔÛÈ ÞË×ÔÜ×ÒÙ îëð ØÐ ÏË×Ò ÐÔÛÈ ÞË×ÔÜ×ÒÙ ú ÞÑÑÍÌÛÎ
+    ïëóíëóîïóðéÉì ÌÎ×ÐÔÛÈ ÞË×ÔÜ×ÒÙ øî÷ ïîë ØÐ ÌÎ×ÐÔÛÈ ÐËÓÐÍ ú ÞÑÑÍÌÛÎÍô øî÷
+    ÎÑÐÛÎ ÎÛÝÇÝÔ×ÒÙ ÍÝÎÛÉ ÐËÓÐÍô ÎÛÝÇÝÔÛ Ü×ÍÝØßÎÙÛ ØÛßÜÛÎ
+    ïëóíëóîïóðéÉì ÝËÌ ÍØßÝÕ ÝÛÒÌÎ×ÚËÙÛô ÍÌÛÛÔ ÞÛÒÝØ É×ÌØ ØÑÌ ÞßÌØ Í×ÒÕ
+    ïëóíëóîïóðéÉì ÌßÒÕ ÚßÎÓ øî÷ îððð ÞÞÔ ÉßÌÛÎ ÌßÒÕÍô øï÷ îððð ÞÞÔ ÎÛÝÇÝÔÛ
+    ÌßÒÕô øî÷ ïîðð ÞÞÔ Ñ×Ô ÌßÒÕÍô øï÷ éëð ÞÞÔ ÜÛÍßÒÜ ÌßÒÕ
+    ïëóíëóîïóðéÉì ÚÔßÎÛ ÍÌßÝÕ
+    ïëóíëóîïóðéÉì ËÒÜÛÎÙÎÑËÒÜ ÚÔßÎÛ ÕÒÑÝÕÑËÌ ÌßÒÕ
+    ïëóíëóîïóðéÉì ËÒÜÛÎÙÎÑËÒÜ ×ÒÖÛÝÌ×ÑÒ ÐËÓÐ ÜÎß×Ò ÌßÒÕ
+    îóîóîîóðéÉì ÌÛÍÌ ÍÛÐßÎßÌÑÎô Ð×ÙÙ×ÒÙ ÍÌßÌ×ÑÒ
+    éóîóîîóðéÉì ÌÛÍÌ ÍÛÐßÎßÌÑÎô é ÉÛÔÔ ØÛßÜÛÎô Ð×ÙÙ×ÒÙ ÍÌßÌ×ÑÒô ÛÔÛÝÌÎ×ÝßÔ
+    ÞË×ÔÜ×ÒÙ
+    ïîóïïóîîóðéÉì ÌÛÍÌ ÍÛÐßÎßÌÑÎô É×ÌØ ÝØÛÊ Êê ØÇÜÎßËÔ×Ý ÜÎ×ÊÛ
+                                                 Ð»®-±²¿´ Ð®±°»®¬§ Î»¹·-¬®§
+                                                   Í»¿®½¸ Î»-«´¬- Î»°±®¬                        Ð¿¹» íð ±º ëé
+
+                                                       Í»¿®½¸ ×Ü ýæ Æïèïëìíîì
+
+Þ«-·²»-- Ü»¾¬±® Í»¿®½¸ Ú±®æ
+ÝÔÛÑ ÛÒÛÎÙÇ ÝÑÎÐ
+Í»¿®½¸ ×Ü ýæ Æïèïëìíîì                Ü¿¬» ±º Í»¿®½¸æ îðîìóÜ»½óðë       Ì·³» ±º Í»¿®½¸æ ïëæïïæðë
+
+
+
+
+Î»¹·-¬®¿¬·±² Ò«³¾»®æ îîðçîçííçðë           Î»¹·-¬®¿¬·±² Ì§°»æ ÍÛÝËÎ×ÌÇ ßÙÎÛÛÓÛÒÌ
+    Î»¹·-¬®¿¬·±² Ü¿¬»æ îðîîóÍ»°óîç       Î»¹·-¬®¿¬·±² Í¬¿¬«-æ Ý«®®»²¬
+                                                  Û¨°·®§ Ü¿¬»æ îðîëóÍ»°óîç îíæëçæëç
+
+
+
+
+    Û¨¿½¬ Ó¿¬½¸ ±²æ      Ü»¾¬±®           Ò±æ ï
+
+
+ß³»²¼³»²¬- ¬± Î»¹·-¬®¿¬·±²
+
+îîïðïîïéìïî                                    ß³»²¼³»²¬                              îðîîóÑ½¬óïî
+
+
+
+Ü»¾¬±®ø-÷
+Þ´±½µ                                                                                               Í¬¿¬«-
+                                                                                                    Ý«®®»²¬
+ï        ÝÔÛÑ ÛÒÛÎÙÇ ÝÑÎÐò
+         îððô ïïé èÌØ ßÊÛ ÍÉ
+         ÝßÔÙßÎÇô ßÞ ÌîÐïÞì
+
+
+Í»½«®»¼ Ð¿®¬§ ñ Ð¿®¬·»-
+Þ´±½µ                                                                                               Í¬¿¬«-
+                                                                                                    Ý«®®»²¬
+ï        ßÎËÒÜÛÔ ÝßÐ×ÌßÔ ÝÑÎÐÑÎßÌ×ÑÒ
+         ÍË×ÌÛ îðïô íððé ïìÌØ ÍÌÎÛÛÌ ÍÉ
+         ÝßÔÙßÎÇô ßÞ ÌîÌíÊê
+         Û³¿·´æ ½¿¬¸»®·²»à¿®«²¼»´½¿°·¬¿´ò½±³
+                                        Ð»®-±²¿´ Ð®±°»®¬§ Î»¹·-¬®§
+                                          Í»¿®½¸ Î»-«´¬- Î»°±®¬                 Ð¿¹» íï ±º ëé
+
+                                              Í»¿®½¸ ×Ü ýæ Æïèïëìíîì
+
+
+Ý±´´¿¬»®¿´æ Ù»²»®¿´
+Þ´±½µ   Ü»-½®·°¬·±²                                                             Í¬¿¬«-
+ï       ßÔÔ Î×ÙØÌô Ì×ÌÔÛ ßÒÜ ×ÒÌÛÎÛÍÌ ×Ò ÌØÛ ÜÛÞÌÑÎ ÌÑ ÌØÛ ÔßÒÜÍ ÔÑÝßÌÛÜ ßÌ Ü»´»¬»¼ Þ§
+        ÌØÛ ÞÛÔÑÉ ÜÛÍÝÎ×ÞÛÜ ÔÛÙßÔ ÔßÒÜ ÔÑÝßÌ×ÑÒÍô ÌØÛ ÉÛÔÔÍ ßÒÜ ÛÏË×ÐÓÛÒÌ îîïðïîïéìïî
+        ÌØÛÎÛÑÒ ßÒÜ ßÒÇ ÑÌØÛÎ ÌßÒÙ×ÞÔÛ ßÒÜ ×ÒÌßÒÙ×ÞÔÛ ÐÎÑÐÛÎÌÇ ÎÛÔßÌÛÜ
+        ÌØÛÎÛÌÑò
+        ÐÎÑÝÛÛÜÍæ ßÒÇ ßÒÜ ßÔÔ ÐÎÑÝÛÛÜÍ ÑÚ ßÓÑËÒÌÍ ßÎ×Í×ÒÙ ÚÎÑÓ ÑÎ ÐßÇßÞÔÛ
+        ×Ò ÝÑÒÒÛÝÌ×ÑÒ É×ÌØ ßÒÇ ÑÚ ÌØÛ ÝÑÔÔßÌÛÎßÔ ÜÛÍÝÎ×ÞÛÜ ØÛÎÛ ×Òò
+
+        ßÔÔ ÛÏË×ÐÓÛÒÌ ÜÛÌß×ÔÍ ßÍ ÑËÌÔ×ÒÛÜ ×Ò ÔÛßÍÛ ïðëíèéóïé ÍÝØÛÜËÔÛ ùßù ßÒÜ
+        ÞÛÔÑÉæ
+
+        ïððñïíóîçóðïíóîðÉìñðð
+        ïððñïëóíðóðïíóîðÉìñðî
+        ïðîñðêóðíóðïìóîðÉìñðð
+        ïððñðìóðìóðïìóîðÉìñðî
+        ïðîñðìóðìóðïìóîðÉìñðð
+        ïððñïíóðìóðïìóîðÉìñðí
+        ïððñðïóðêóðïìóîðÉìñðð
+        ïððñïêóðêóðïìóîðÉìñðð
+        ïððñðîóðéóðïìóîðÉìñðð
+        ïððñðïóðèóðïìóîðÉìñðî
+        ïððñðëóðçóðïìóîðÉìñðí
+        ïððñïîóðçóðïìóîðÉìñðî
+        ïððñðêóïðóðïìóîðÉìñðð
+        ïððñðíóïëóðïìóîðÉìñðð
+        ïððñïíóïëóðïìóîðÉìñðð
+        ïððñðìóïêóðïìóîðÉìñðì
+        ïððñïîóïéóðïìóîðÉìñðð
+        ïððñðçóïèóðïìóîðÉìñðð
+        ïððñðíóîêóðïìóîðÉìñðî
+
+        øï÷ îððë ÍÛÐßÎßÌÑÎ ÚÔÑÜÎ×Ð ÍñÒ èïëï çìçç
+        øï÷ îððí ÍÛÐßÎßÌÑÎ ßÎÙÑ ÍßÔÛÍ ÍñÒ ÉÈïî Èîì ÜÐóïïéçï
+        øï÷ îððë ÍÛÐßÎßÌÑÎ ÚÔÑÜÎ×Ð ÍñÒ èïëï çìçé
+        øï÷ îððï ÍÛÐßÎßÌÑÎ ÞÎÑÓÔÛÇ ÍñÒ ïïîëðê
+        øï÷ ïççè ÍÛÐßÎßÌÑÎ ßÎÙÑ ÍßÔÛÍ ÍñÒ ÊÍóïï ÊÍóíéêð
+        øï÷ ïççé ÍÛÐßÎßÌÑÎ ßÎÙÑ ÍßÔÛÍ ÍñÒ ÊÍóî ÊÍóèðçç
+        øï÷ ïççì ÍÛÐßÎßÌÑÎ ÒßÌÝÑ ÝßÒßÜß ÍñÒ ÔÍìïèð
+        øï÷ îððï ÍÛÐßÎßÌÑÎ ÐÛÒÚßÞÝÑ ÔÌÜ ÍñÒ ÐÛêèêé
+        øï÷ îððï ÍÛÐßÎßÌÑÎ ÞÎÑÓÔÛÇ ÍñÒ ïïîëïð
+        øï÷ îððë ÍÛÐßÎßÌÑÎ ÚÔÑÜÎ×Ð ÍñÒ èïëï çëðð
+        øï÷ ïççç ÍÛÐßÎßÌÑÎ Ö×ÎÑ ÓßÒËÚßÝÌËÎ×ÒÙ ÍñÒ èóððïï
+        øï÷ ïççé ÍÛÐßÎßÌÑÎ ßÎÙÑ ÍßÔÛÍ ÍñÒ ÊÍóï ÊÍóèïéí
+        øï÷ îððï ÍÛÐßÎßÌÑÎ ÞÎÑÓÔÛÇ ÍñÒ ïïíìðê
+        øï÷ ÍÛÐßÎßÌÑÎ ÚÔÑÜÎ×Ð
+        øï÷ ïççè ÍÛÐßÎßÌÑÎ ßÎÙÑ ÍßÔÛÍ ÍñÒ ÊÍóíéîè
+        øï÷ îððï ÍÛÐßÎßÌÑÎ ÐÛÒÚßÞÝÑ ÔÌÜ ÍñÒ ÐÛéíïí
+        øï÷ îððï ÍÛÐßÎßÌÑÎ ÐÛÒÚßÞÝÑ ÔÌÜ ÍñÒ ÐÛéïíí
+        øï÷ îððð ÍÛÐßÎßÌÑÎ ÐÛÒÚßÞÝÑ ÔÌÜ ÍñÒ ÐÛêëéð
+        øï÷ îððï ÍÛÐßÎßÌÑÎ ÐÛÒÚßÞÝÑ ÔÌÜ ÍñÒ ÐÛéððê
+                                    Ð»®-±²¿´ Ð®±°»®¬§ Î»¹·-¬®§
+                                      Í»¿®½¸ Î»-«´¬- Î»°±®¬                 Ð¿¹» íî ±º ëé
+
+                                          Í»¿®½¸ ×Ü ýæ Æïèïëìíîì
+
+î   ßÔÔ Î×ÙØÌô Ì×ÌÔÛ ßÒÜ ×ÒÌÛÎÛÍÌ ×Ò ÌØÛ ÜÛÞÌÑÎ ÌÑ ÌØÛ ÔßÒÜÍ ÔÑÝßÌÛÜ ßÌ Ý«®®»²¬ Þ§
+    ÌØÛ ÞÛÔÑÉ ÜÛÍÝÎ×ÞÛÜ ÔÛÙßÔ ÔßÒÜ ÔÑÝßÌ×ÑÒÍô ÌØÛ ÉÛÔÔÍ ßÒÜ ÛÏË×ÐÓÛÒÌ îîïðïîïéìïî
+    ÌØÛÎÛÑÒ ßÒÜ ßÒÇ ÑÌØÛÎ ÌßÒÙ×ÞÔÛ ßÒÜ ×ÒÌßÒÙ×ÞÔÛ ÐÎÑÐÛÎÌÇ ÎÛÔßÌÛÜ
+    ÌØÛÎÛÌÑò
+    ÐÎÑÝÛÛÜÍæ ßÒÇ ßÒÜ ßÔÔ ÐÎÑÝÛÛÜÍ ÑÚ ßÓÑËÒÌÍ ßÎ×Í×ÒÙ ÚÎÑÓ ÑÎ ÐßÇßÞÔÛ
+    ×Ò ÝÑÒÒÛÝÌ×ÑÒ É×ÌØ ßÒÇ ÑÚ ÌØÛ ÝÑÔÔßÌÛÎßÔ ÜÛÍÝÎ×ÞÛÜ ØÛÎÛ ×Òò
+
+    ßÔÔ ÛÏË×ÐÓÛÒÌ ÜÛÌß×ÔÍ ßÍ ÑËÌÔ×ÒÛÜ ×Ò ÔÛßÍÛ ïðëíèéóïé ÍÝØÛÜËÔÛ ùßù ßÒÜ
+    ÞÛÔÑÉæ
+
+    ïððñïíóîçóðïíóîðÉìñðð
+    ïððñïëóíðóðïíóîðÉìñðî
+    ïðîñðêóðíóðïìóîðÉìñðð
+    ïððñðìóðìóðïìóîðÉìñðî
+    ïðîñðìóðìóðïìóîðÉìñðð
+    ïððñïíóðìóðïìóîðÉìñðí
+    ïððñðïóðêóðïìóîðÉìñðð
+    ïððñïêóðêóðïìóîðÉìñðð
+    ïððñðîóðéóðïìóîðÉìñðð
+    ïððñðïóðèóðïìóîðÉìñðî
+    ïððñðëóðçóðïìóîðÉìñðí
+    ïððñïîóðçóðïìóîðÉìñðî
+    ïððñðêóïðóðïìóîðÉìñðð
+    ïððñðíóïëóðïìóîðÉìñðð
+    ïððñïíóïëóðïìóîðÉìñðð
+    ïððñðìóïêóðïìóîðÉìñðì
+    ïððñïîóïéóðïìóîðÉìñðð
+    ïððñðçóïèóðïìóîðÉìñðð
+    ïððñðíóîêóðïìóîðÉìñðî
+
+    øï÷ îððë ÍÛÐßÎßÌÑÎ ÚÔÑÜÎ×Ð èïëï ÍñÒ çìçç
+    øï÷ îððí ÍÛÐßÎßÌÑÎ ßÎÙÑ ÍßÔÛÍ ÉÈïî Èîì ÍñÒ ÜÐóïïéçï
+    øï÷ îððë ÍÛÐßÎßÌÑÎ ÚÔÑÜÎ×Ð èïëï ÍñÒ çìçé
+    øï÷ îððï ÍÛÐßÎßÌÑÎ ÞÎÑÓÔÛÇ ÍñÒ ïïîëðê
+    øï÷ ïççè ÍÛÐßÎßÌÑÎ ßÎÙÑ ÍßÔÛÍ ÊÍóïï ÍñÒ ÊÍóíéêð
+    øï÷ ïççé ÍÛÐßÎßÌÑÎ ßÎÙÑ ÍßÔÛÍ ÊÍóî ÍñÒ ÊÍóèðçç
+    øï÷ ïççì ÍÛÐßÎßÌÑÎ ÒßÌÝÑ ÝßÒßÜß ÍñÒ ÔÍìïèð
+    øï÷ îððï ÍÛÐßÎßÌÑÎ ÐÛÒÚßÞÝÑ ÔÌÜ ÍñÒ ÐÛêèêé
+    øï÷ îððï ÍÛÐßÎßÌÑÎ ÞÎÑÓÔÛÇ ÍñÒ ïïîëïð
+    øï÷ îððë ÍÛÐßÎßÌÑÎ ÚÔÑÜÎ×Ð èïëï ÍñÒ çëðð
+    øï÷ ïççç ÍÛÐßÎßÌÑÎ Ö×ÎÑ ÓßÒËÚßÝÌËÎ×ÒÙ ÍñÒ èóððïï
+    øï÷ ïççé ÍÛÐßÎßÌÑÎ ßÎÙÑ ÍßÔÛÍ ÊÍóï ÍñÒ ÊÍóèïéí
+    øï÷ îððï ÍÛÐßÎßÌÑÎ ÞÎÑÓÔÛÇ ÍñÒ ïïíìðê
+    øï÷ ÍÛÐßÎßÌÑÎ ÚÔÑÜÎ×Ð
+    øï÷ ïççè ÍÛÐßÎßÌÑÎ ßÎÙÑ ÍßÔÛÍ ÍñÒ ÊÍóíéîè
+    øï÷ îððï ÍÛÐßÎßÌÑÎ ÐÛÒÚßÞÝÑ ÔÌÜ ÍñÒ ÐÛéíïí
+    øï÷ îððï ÍÛÐßÎßÌÑÎ ÐÛÒÚßÞÝÑ ÔÌÜ ÍñÒ ÐÛéïíí
+    øï÷ îððð ÍÛÐßÎßÌÑÎ ÐÛÒÚßÞÝÑ ÔÌÜ ÍñÒ ÐÛêëéð
+    øï÷ îððï ÍÛÐßÎßÌÑÎ ÐÛÒÚßÞÝÑ ÔÌÜ ÍñÒ ÐÛéððê
+                                               Ð»®-±²¿´ Ð®±°»®¬§ Î»¹·-¬®§
+                                                   Í»¿®½¸ Î»-«´¬- Î»°±®¬                    Ð¿¹» íí ±º ëé
+
+                                                       Í»¿®½¸ ×Ü ýæ Æïèïëìíîì
+
+Þ«-·²»-- Ü»¾¬±® Í»¿®½¸ Ú±®æ
+ÝÔÛÑ ÛÒÛÎÙÇ ÝÑÎÐ
+Í»¿®½¸ ×Ü ýæ Æïèïëìíîì                Ü¿¬» ±º Í»¿®½¸æ îðîìóÜ»½óðë       Ì·³» ±º Í»¿®½¸æ ïëæïïæðë
+
+
+
+
+Î»¹·-¬®¿¬·±² Ò«³¾»®æ îîðçîçíìðëî           Î»¹·-¬®¿¬·±² Ì§°»æ ÍÛÝËÎ×ÌÇ ßÙÎÛÛÓÛÒÌ
+    Î»¹·-¬®¿¬·±² Ü¿¬»æ îðîîóÍ»°óîç       Î»¹·-¬®¿¬·±² Í¬¿¬«-æ Ý«®®»²¬
+                                                  Û¨°·®§ Ü¿¬»æ îðîëóÍ»°óîç îíæëçæëç
+
+
+
+
+    Û¨¿½¬ Ó¿¬½¸ ±²æ      Ü»¾¬±®           Ò±æ ï
+
+
+
+Ü»¾¬±®ø-÷
+Þ´±½µ                                                                                        Í¬¿¬«-
+                                                                                             Ý«®®»²¬
+ï        ÝÔÛÑ ÛÒÛÎÙÇ ÝÑÎÐò
+         îððô ïïé èÌØ ßÊÛ ÍÉ
+         ÝßÔÙßÎÇô ßÞ ÌîÐïÞì
+
+
+Í»½«®»¼ Ð¿®¬§ ñ Ð¿®¬·»-
+Þ´±½µ                                                                                        Í¬¿¬«-
+                                                                                             Ý«®®»²¬
+ï        ßÎËÒÜÛÔ ÝßÐ×ÌßÔ ÝÑÎÐÑÎßÌ×ÑÒ
+         ÍË×ÌÛ îðïô íððé ïìÌØ ÍÌÎÛÛÌ ÍÉ
+         ÝßÔÙßÎÇô ßÞ ÌîÌíÊê
+         Û³¿·´æ ½¿¬¸»®·²»à¿®«²¼»´½¿°·¬¿´ò½±³
+                                        Ð»®-±²¿´ Ð®±°»®¬§ Î»¹·-¬®§
+                                          Í»¿®½¸ Î»-«´¬- Î»°±®¬                 Ð¿¹» íì ±º ëé
+
+                                              Í»¿®½¸ ×Ü ýæ Æïèïëìíîì
+
+
+Ý±´´¿¬»®¿´æ Ù»²»®¿´
+Þ´±½µ   Ü»-½®·°¬·±²                                                             Í¬¿¬«-
+ï       ßÔÔ Î×ÙØÌô Ì×ÌÔÛ ßÒÜ ×ÒÌÛÎÛÍÌ ×Ò ÌØÛ ÜÛÞÌÑÎ ÌÑ ÌØÛ ÔßÒÜÍ ÔÑÝßÌÛÜ ßÌ Ý«®®»²¬
+        ÌØÛ ÞÛÔÑÉ ÜÛÍÝÎ×ÞÛÜ ÔÛÙßÔ ÔßÒÜ ÔÑÝßÌ×ÑÒÍô ÌØÛ ÉÛÔÔÍ ßÒÜ ÛÏË×ÐÓÛÒÌ
+        ÌØÛÎÛÑÒ ßÒÜ ßÒÇ ÑÌØÛÎ ÌßÒÙ×ÞÔÛ ßÒÜ ×ÒÌßÒÙ×ÞÔÛ ÐÎÑÐÛÎÌÇ ÎÛÔßÌÛÜ
+        ÌØÛÎÛÌÑò
+        ÐÎÑÝÛÛÜÍæ ßÒÇ ßÒÜ ßÔÔ ÐÎÑÝÛÛÜÍ ÑÚ ßÓÑËÒÌÍ ßÎ×Í×ÒÙ ÚÎÑÓ ÑÎ ÐßÇßÞÔÛ
+        ×Ò ÝÑÒÒÛÝÌ×ÑÒ É×ÌØ ßÒÇ ÑÚ ÌØÛ ÝÑÔÔßÌÛÎßÔ ÜÛÍÝÎ×ÞÛÜ ØÛÎÛ ×Òò
+
+        ßÔÔ ÛÏË×ÐÓÛÒÌ ÜÛÌß×ÔÍ ßÍ ÑËÌÔ×ÒÛÜ ×Ò ÔÛßÍÛ ïðëíèéóïè ÍÝØÛÜËÔÛ ùßù ßÒÜ
+        ÞÛÔÑÉæ
+
+        ïððñïðóïìóððçóïìÉìñðð
+        ïððñïêóïëóððçóïìÉìñðð
+        ïðîñïêóïçóððçóïìÉìñðð
+        ïððñðèóîïóððçóïìÉìñðð
+        ïððñïðóîïóððçóïìÉìñðð
+        ïððñðêóîîóððçóïìÉìñðð
+        ïððñðìóîíóððçóïìÉìñðð
+        ïððñðíóîçóððçóïìÉìñðð
+        ïððñðêóîçóððçóïìÉìñðð
+        ïððñïîóíðóððçóïìÉìñðð
+        ïððñðìóíïóððçóïìÉìñðð
+        ïððñïîóîëóððçóïëÉìñðð
+        ïððñðëóîêóððçóïëÉìñðî
+        ïððñðéóîéóððçóïëÉìñðð
+        ïððñïêóíîóððçóïëÉìñðð
+        ïððñðçóííóððçóïëÉìñðð
+        ïððñðîóíìóððçóïëÉìñðð
+        ïððñðîóíëóððçóïëÉìñðð
+        ïððñðíóíêóððçóïëÉìñðð
+        ïððñðëóðîóðïðóïëÉìñðð
+        ïððñðìóðíóðïðóïëÉìñðð
+        ïððñðìóðìóðïðóïëÉìñðð
+        ïððñðéóðëóðïðóïëÉìñðð
+        ïððñïëóðêóðïðóïëÉìñðð
+        ïððñðëóðéóðïðóïëÉìñðð
+        ïððñðìóðèóðïðóïëÉìñðð
+        ïððñðêóïîóðïðóïêÉìñðð
+
+        øï÷ îððð ÍÛÐßÎßÌÑÎ ÚÔÑÜÎ×Ð èðèë ÍñÒ îêçì
+        øï÷ îððð ÍÛÐßÎßÌÑÎ ÚÔÑÜÎ×Ð èðèë ÍñÒ îêéê
+        øï÷ îððï ÍÛÐßÎßÌÑÎ ÚÔÑÜÎ×Ð èðèë ÍñÒ ìíðé
+        øï÷ îððð ÍÛÐßÎßÌÑÎ ÚÔÑÜÎ×Ð èïìë ÍñÒ îðéê
+        øï÷ îððð ÍÛÐßÎßÌÑÎ ÚÔÑÜÎ×Ð èðèë ÍñÒ îêèì
+        øï÷ ïçèé ÍÛÐßÎßÌÑÎ ÐÎÛÍÍÑÒ ÍñÒ ìîêðîð
+        øï÷ ïççç ÍÛÐßÎßÌÑÎ ÓßÙ×Ý ÍÐßÒ ÚßÞ ÍñÒ ççóðïçÜ
+        øï÷ ïççè ÍÛÐßÎßÌÑÎ ÑÎÞßÒ ×ÒÜËÍÌÎ×ÛÍ Êïðð ÍñÒ çéóìëîÊÍ
+        øï÷ îððï ÍÛÐßÎßÌÑÎ ÚÔÑÜÎ×Ð èðèë ÍñÒ ìíïð
+                                               Ð»®-±²¿´ Ð®±°»®¬§ Î»¹·-¬®§
+                                                   Í»¿®½¸ Î»-«´¬- Î»°±®¬                      Ð¿¹» íë ±º ëé
+
+                                                       Í»¿®½¸ ×Ü ýæ Æïèïëìíîì
+
+Þ«-·²»-- Ü»¾¬±® Í»¿®½¸ Ú±®æ
+ÝÔÛÑ ÛÒÛÎÙÇ ÝÑÎÐ
+Í»¿®½¸ ×Ü ýæ Æïèïëìíîì                Ü¿¬» ±º Í»¿®½¸æ îðîìóÜ»½óðë        Ì·³» ±º Í»¿®½¸æ ïëæïïæðë
+
+
+
+
+Î»¹·-¬®¿¬·±² Ò«³¾»®æ îíðíðéïèðìì           Î»¹·-¬®¿¬·±² Ì§°»æ ÍÛÝËÎ×ÌÇ ßÙÎÛÛÓÛÒÌ
+    Î»¹·-¬®¿¬·±² Ü¿¬»æ îðîíóÓ¿®óðé        Î»¹·-¬®¿¬·±² Í¬¿¬«-æ Ý«®®»²¬
+                                                  Û¨°·®§ Ü¿¬»æ îðîèóÓ¿®óðé îíæëçæëç
+
+
+
+
+    Û¨¿½¬ Ó¿¬½¸ ±²æ      Ü»¾¬±®           Ò±æ ï
+
+
+
+Ü»¾¬±®ø-÷
+Þ´±½µ                                                                                         Í¬¿¬«-
+                                                                                              Ý«®®»²¬
+ï        ÝÔÛÑ ÛÒÛÎÙÇ ÝÑÎÐò
+         ïïé ó èÌØ ßÊÛÒËÛ ÍòÉò
+         ÝßÔÙßÎÇô ßÞ ÌîÐ ïÞì
+
+
+Í»½«®»¼ Ð¿®¬§ ñ Ð¿®¬·»-
+Þ´±½µ                                                                                         Í¬¿¬«-
+                                                                                              Ý«®®»²¬
+ï        ØßÎÊÛÍÌ ÑÐÛÎßÌ×ÑÒÍ ÝÑÎÐò
+         ìëððô èëë ó îÒÜ ÍÌÎÛÛÌ ÍòÉò
+         ÝßÔÙßÎÇô ßÞ ÌîÐ ìÕé
+         Û³¿·´æ ÖÐòÐ¸¿³à¸¿®ª»-¬»²»®¹§ò½¿
+
+
+Ý±´´¿¬»®¿´æ Ù»²»®¿´
+Þ´±½µ    Ü»-½®·°¬·±²                                                                          Í¬¿¬«-
+ï        Í«¾-¬¿²½»- °®±¼«½»¼ º®±³ ¬¸» º±´´±©·²¹ É»´´-æ ÍÔÛ ÍÛÜÙÛ ïìóëóìîóïî ´±½¿¬»¼ ¿¬ ïððñïìó Ý«®®»²¬
+         ðëóðìîóïîÉìñðîô ¿²¼ ÍÔÛ ÍÛÜÙÛ ïëóëóìîóïî ´±½¿¬»¼ ¿¬ ïððñïëóðëóðìïóïîÉìñððô ¿²¼
+         ÍÔÛ ïðî ÜÜ ÍÛÜÙÛ ïëóëóìîóïî ´±½¿¬»¼ ¿¬ ïðîñïëóðëóðìîóïîÉìñððô ¬± -»½«®» °¿§³»²¬ ±º
+         ¿²§ ±«¬-¬¿²¼·²¹ ±°»®¿¬·²¹ ±® ¿¼³·²·-¬®¿¬·±² ½¸¿®¹» ±® ±¬¸»® ¿³±«²¬ °¿§¿¾´» ¬± Ø¿®ª»-¬
+         Ñ°»®¿¬·±²- Ý±®°ò øþØ¿®ª»-¬þ÷
+                                           Ð»®-±²¿´ Ð®±°»®¬§ Î»¹·-¬®§
+                                               Í»¿®½¸ Î»-«´¬- Î»°±®¬                        Ð¿¹» íê ±º ëé
+
+                                                   Í»¿®½¸ ×Ü ýæ Æïèïëìíîì
+
+î   ß ´·»² ¿²¼ ½¸¿®¹» ±² Ý´»± Û²»®¹§ Ý±®°òù- øþÝ´»±þ÷ -¸¿®» ±º Ý®«¼» Ñ·´ ¿²¼ Ù¿- ¿¬¬®·¾«¬¿¾´» Ý«®®»²¬
+    ¬± Ý´»±ù- ×²´»¬ Í«¾-¬¿²½»-ô ¬± °¿§ ¿²§ ¸¿²¼´·²¹ ½¸¿®¹» ±® ±¬¸»® ¿³±«²¬ °¿§¿¾´» ¬± Ø¿®ª»-¬
+    ¿- Ñ°»®¿¬±® ·² ®»´¿¬·±² ¬± ¬¸» ±°»®¿¬·±² ±º ¬¸» Þ»´´-¸·´´ Ô¿µ» Û´´»®-´·» Ë²·¬ ðíóîè Þ¿¬¬»®§
+    øÝ±²¬®¿½¬ Ò±ò ÍÊíëèî÷ò Ý®«¼» Ñ·´ ³»¿²- ½®«¼» ±·´ ¿²¼ ½±²¼»²-¿¬» -»°¿®¿¬»¼ º®±³ ×²´»¬
+    Í«¾-¬¿²½»- ¿¬ ¬¸» Ú¿½·´·¬§ ©¸·½¸ ³»»¬ ®»´»ª¿²¬ -°»½·º·½¿¬·±²- º±® ¬®¿²-³·--·±² ¿²¼ -¿´»ò
+    Ù¿- ³»¿²- ¿´´ ²¿¬«®¿´ ¹¿- -±´«¬·±² ¹¿- ¿²¼ ¿²§ ±¬¸»® ¹¿-ô ¬±¹»¬¸»® ©·¬¸ ¿--±½·¿¬»-
+    -«¾-¬¿²½»-ô -»°¿®¿¬»¼ º®±³ ×²´»¬ Í«¾-¬¿²½»- ¿¬ ¬¸» Ú¿½·´·¬§ ¬¸¿¬ ·- ¹¿-»±«- «²¼»® ¬¸»
+    ½±²¼·¬·±²- ¿¬ ©¸·½¸ ·¬ ·- -»°¿®¿¬»¼ò ×²´»¬ Í«¾-¬¿²½»- ³»¿²- ¬¸» ¬±¬¿´ ª±´«³» ±º ¹¿-ô ´·¯«·¼-
+    ¿²¼ ¿--±½·¿¬»- -«¾-¬¿²½»- ¼»´·ª»®§ ¬± ¬¸» Ú¿½·´·¬§ º±® ¸¿²¼´·²¹ò Ú¿½·´·¬§ ³»¿²- ¿´´ ®»¿´ ¿²¼
+    °»®-±²¿´ °®±°»®¬§ ±º »ª»®§ µ·²¼ô ²¿¬«®» ¿²¼ ¼»-½®·°¬·±² ©¸·½¸ ½±²-¬·¬«¬»- ¿´´ º¿½·´·¬·»-
+    ±©²»¼ ±® ½±²¬®±´´»¼ ¾§ Ø¿®ª»-¬ ¿- Ñ°»®¿¬±® ¿- º±´´±©-æ
+    ï÷ Þ»´´-¸·´´ Ô¿µ» Û´´»®-´·» ðíóîè Þ¿¬¬»®§
+    ó Ú¿½·´·¬§ ×²´»¬æ ðíóîèóðìïóïîÉìÓ
+    ó Ú¿½·´·¬§ Ñ«¬´»¬æ ðíóîèóðìïóïîÉìÓ
+    î÷ Ü·-°±-¿´ É»´´- °·°»´·²» ½±²²»½¬»¼ ¬± ¬¸» ¬®»¿¬·²¹ º¿½·´·¬§
+    ó Ú¿½·´·¬§ ×²´»¬æ ðíóîèóðìïóïîÉìÓ
+    ó Ú¿½·´·¬§ Ñ«¬´»¬æ ðíóîèóðìïóïîÉìÓ
+    Í±«®½»-æ
+    ó ïððñïìóðëóðìîóïîÉìñðî øÚ¿½·´·¬§ ×²´»¬æ ðíóîèóðìïóïîÉìÓ÷
+    ó ïððñïëóðëóðìîóïîÉìñðð øÚ¿½·´·¬§ ×²´»¬æ ðíóîèóðìïóïîÉìÓ÷
+    ó ïðîñïëóðëóðìîóïîÉìñðð øÚ¿½·´·¬§ ×²´»¬æ ðíóîèóðìïóïîÉìÓ÷
+    ó ïðíñïðóîéóðìïóïîÉìñðð øÚ¿½·´·¬§ ×²´»¬æ ðíóîèóðìïóïîÉìÓ÷
+                                                  Ð»®-±²¿´ Ð®±°»®¬§ Î»¹·-¬®§
+                                                     Í»¿®½¸ Î»-«´¬- Î»°±®¬                            Ð¿¹» íé ±º ëé
+
+                                                         Í»¿®½¸ ×Ü ýæ Æïèïëìíîì
+
+Þ«-·²»-- Ü»¾¬±® Í»¿®½¸ Ú±®æ
+ÝÔÛÑ ÛÒÛÎÙÇ ÝÑÎÐ
+Í»¿®½¸ ×Ü ýæ Æïèïëìíîì                  Ü¿¬» ±º Í»¿®½¸æ îðîìóÜ»½óðë        Ì·³» ±º Í»¿®½¸æ ïëæïïæðë
+
+
+
+
+Î»¹·-¬®¿¬·±² Ò«³¾»®æ îíðìïîîëéíë             Î»¹·-¬®¿¬·±² Ì§°»æ ÉÎ×Ì ÑÚ ÛÒÚÑÎÝÛÓÛÒÌ
+   Î»¹·-¬®¿¬·±² Ü¿¬»æ îðîíóß°®óïî           Î»¹·-¬®¿¬·±² Í¬¿¬«-æ Ý«®®»²¬
+                                                    Û¨°·®§ Ü¿¬»æ îðîëóß°®óïî îíæëçæëç
+
+
+
+                                  ×--«»¼ ·² Ý¿´¹¿®§ Ö«¼·½·¿´ Ý»²¬®»
+                      Ý±«®¬ Ú·´» Ò«³¾»® ·- ïéðïóïíðïê
+                         Ö«¼¹³»²¬ Ü¿¬» ·- îðîíóÚ»¾óðê
+                   Ì¸·- É®·¬ ©¿- ·--«»¼ ±² îðîíóß°®óïï
+                      Ì§°» ±º Ö«¼¹³»²¬ ·- Ñ¬¸»®
+  Ñ®·¹·²¿´ Ö«¼¹³»²¬ ß³±«²¬æ üðòðð                                          Ý±-¬- ß®»æ üèçôðêéòêï
+     Ð±-¬ Ö«¼¹³»²¬ ×²¬»®»-¬æ üðòðð                             Ý«®®»²¬ ß³±«²¬ Ñ©·²¹æ üïíòðë
+
+
+
+
+    Û¨¿½¬ Ó¿¬½¸ ±²æ      Ü»¾¬±®             Ò±æ ï
+
+
+ß³»²¼³»²¬- ¬± Î»¹·-¬®¿¬·±²
+
+îíðèïéíîçêç                                   Ü·-¬®·¾«¬·±²                              îðîíóß«¹óïé
+
+îìðîðêíîèëê                                   Ü·-¬®·¾«¬·±²                              îðîìóÚ»¾óðê
+
+îìðéðîíîïíð                                   Ü·-¬®·¾«¬·±²                              îðîìóÖ«´óðî
+
+îìïðïéíèìçî                                   Ü·-¬®·¾«¬·±²                              îðîìóÑ½¬óïé
+
+
+
+Í±´·½·¬±® ñ ß¹»²¬
+
+
+         ÔßÉÍÑÒ ÔËÒÜÛÔÔ ÔÔÐô ÍØßÒÒÑÒ Õò ØßÇÛÍ
+         ïïððô îîë ó êÌØ ßÊÛÒËÛ ÍÉ
+         ÝßÔÙßÎÇô ßÞ ÌîÐ ïÒî
+         Ð¸±²» ýæ ìðí îïè éëïì         Ú¿¨ ýæ ìðí îêç çìçì            Î»º»®»²½» ýæ íìïêëóïìíððê
+         Û³¿·´æ ÍØßÇÛÍàÔßÉÍÑÒÔËÒÜÛÔÔòÝÑÓ
+                                      Ð»®-±²¿´ Ð®±°»®¬§ Î»¹·-¬®§
+                                        Í»¿®½¸ Î»-«´¬- Î»°±®¬      Ð¿¹» íè ±º ëé
+
+                                          Í»¿®½¸ ×Ü ýæ Æïèïëìíîì
+
+
+Ü»¾¬±®ø-÷
+Þ´±½µ                                                              Í¬¿¬«-
+                                                                   Ý«®®»²¬
+ï       ÝÔÛÑ ÛÒÛÎÙÇ ÝÑÎÐò
+        îððô ïïé ó èÌØ ßÊÛÒËÛ ÍÉ
+        ÝßÔÙßÎÇô ßÞ ÌîÐ ïÞì
+
+
+Ý®»¼·¬±®ø-÷
+Þ´±½µ                                                              Í¬¿¬«-
+                                                                   Ý«®®»²¬
+ï       ÍßÊßÒÒß ÉÛÔÔ ÍÛÎÊ×Ý×ÒÙ ×ÒÝò
+        ïðððô éíì ó éÌØ ßÊÛÒËÛ ÍÉ
+        ÝßÔÙßÎÇô ßÞ ÌîÐ íÐè
+        Û³¿·´æ ØØßØÒàÌÑÌßÔÛÒÛÎÙÇòÝß
+                                               Ð»®-±²¿´ Ð®±°»®¬§ Î»¹·-¬®§
+                                                   Í»¿®½¸ Î»-«´¬- Î»°±®¬                    Ð¿¹» íç ±º ëé
+
+                                                       Í»¿®½¸ ×Ü ýæ Æïèïëìíîì
+
+Þ«-·²»-- Ü»¾¬±® Í»¿®½¸ Ú±®æ
+ÝÔÛÑ ÛÒÛÎÙÇ ÝÑÎÐ
+Í»¿®½¸ ×Ü ýæ Æïèïëìíîì                Ü¿¬» ±º Í»¿®½¸æ îðîìóÜ»½óðë       Ì·³» ±º Í»¿®½¸æ ïëæïïæðë
+
+
+
+
+Î»¹·-¬®¿¬·±² Ò«³¾»®æ îíðëðçðééìï           Î»¹·-¬®¿¬·±² Ì§°»æ ÍÛÝËÎ×ÌÇ ßÙÎÛÛÓÛÒÌ
+    Î»¹·-¬®¿¬·±² Ü¿¬»æ îðîíóÓ¿§óðç       Î»¹·-¬®¿¬·±² Í¬¿¬«-æ Ý«®®»²¬
+                                                  Û¨°·®§ Ü¿¬»æ îðîêóÓ¿§óðç îíæëçæëç
+
+
+
+
+    Û¨¿½¬ Ó¿¬½¸ ±²æ      Ü»¾¬±®           Ò±æ ï
+
+
+
+Ü»¾¬±®ø-÷
+Þ´±½µ                                                                                        Í¬¿¬«-
+                                                                                             Ý«®®»²¬
+ï        ÝÔÛÑ ÛÒÛÎÙÇ ÝÑÎÐò
+         îððô ïïé èÌØ ßÊÛ ÍÉ
+         ÝßÔÙßÎÇô ßÞ ÌîÐïÞì
+
+
+Í»½«®»¼ Ð¿®¬§ ñ Ð¿®¬·»-
+Þ´±½µ                                                                                        Í¬¿¬«-
+                                                                                             Ý«®®»²¬
+ï        ßÎËÒÜÛÔ ÝßÐ×ÌßÔ ÝÑÎÐÑÎßÌ×ÑÒ
+         ÍË×ÌÛ îðïô íððé ïìÌØ ÍÌÎÛÛÌ ÍÉ
+         ÝßÔÙßÎÇô ßÞ ÌîÌíÊê
+         Û³¿·´æ ½¿¬¸»®·²»à¿®«²¼»´½¿°·¬¿´ò½±³
+
+
+Ý±´´¿¬»®¿´æ Ù»²»®¿´
+Þ´±½µ    Ü»-½®·°¬·±²                                                                         Í¬¿¬«-
+ï        ßÔÔ ÍËÎÚßÝÛ ÛÏË×ÐÓÛÒÌ ÔÑÝßÌÛÜ ßÌ ÚßÞÇßÒô Í×ÔÊÛÎ ØÛ×ÙØÌÍô          Ý«®®»²¬
+         ÍØÑÎÒÝÔ×ÚÚÛô ÕÛÍÍÔÛÎ ßÒÜ ÒÛËÌÎßÔ Ø×ÔÔÍ ÚßÝ×Ô×Ì×ÛÍ ÝñÉ ÍÛÐßÎßÌÑÎÍô
+         ÝÑÓÐÎÛÍÍÑÎÍô ÌßÒÕÍô ÐËÓÐÍô ÐËÓÐÖßÝÕÍ ßÒÜ ÑÌØÛÎ ÍËÎÚßÝÛ ÛÏË×ÐÓÛÒÌ
+         ßÍ ÐÛÎ ÌØÛ ÍÝØÛÜËÔÛ ùßù ßÌÌßÝØÛÜ ÌÑ ßÒÜ ÚÑÎÓ×ÒÙ ÐßÎÌ ÑÚ ÔÛßÍÛ
+         ßÙÎÛÛÓÛÒÌ ïðëíèéóïçò
+
+         ÌÑÙÛÌØÛÎ É×ÌØ ßÔÔ ßÌÌßÝØÓÛÒÌÍô ßÝÝÛÍÍÑÎ×ÛÍô ßÝÝÛÍÍ×ÑÒÍô
+         ÎÛÐÔßÝÛÓÛÒÌÍô ÍËÞÍÌ×ÌËÌ×ÑÒÍô ßÜÜ×Ì×ÑÒÍ ßÒÜ ×ÓÐÎÑÊÛÓÛÒÌÍ ÌØÛÎÛÌÑô
+         ßÒÜ ßÔÔ ÐÎÑÝÛÛÜÍ ×Ò ßÒÇ ÚÑÎÓ ÜÛÎ×ÊÛÜ Ü×ÎÛÝÌÔÇ ÑÎ ×ÒÜ×ÎÛÝÌÔÇ ÚÎÑÓ
+         ßÒÇ ÜÛßÔ×ÒÙ É×ÌØ ÌØÛ ÝÑÔÔßÌÛÎßÔ ÑÎ ÐÎÑÝÛÛÜÍ ÌØÛÎÛÑÚô ßÒÜ É×ÌØÑËÌ
+         Ô×Ó×ÌßÌ×ÑÒô ÓÑÒÛÇô ÝØÛÏËÛÍô ÜÛÐÑÍ×ÌÍ ×Ò ÜÛÐÑÍ×ÌóÌßÕ×ÒÙ ×ÒÍÌ×ÌËÌ×ÑÒÍô
+         ÙÑÑÜÍô ßÝÝÑËÒÌÍ ÎÛÝÛ×ÊßÞÔÛô ÎÛÒÌÍ ÑÎ ÑÌØÛÎ ÐßÇÓÛÒÌÍ ßÎ×Í×ÒÙ ÚÎÑÓ
+         ÌØÛ ÔÛßÍÛ ÑÚ ÌØÛ ÝÑÔÔßÌÛÎßÔô ÝØßÌÌÛÔ ÐßÐÛÎô ×ÒÍÌÎËÓÛÒÌÍô
+         ×ÒÌßÒÙ×ÞÔÛÍô ÜÑÝËÓÛÒÌÍ ÑÚ Ì×ÌÔÛô ÍÛÝËÎ×Ì×ÛÍô ßÒÜ Î×ÙØÌÍ ÑÚ ×ÒÍËÎßÒÝÛ
+         ÐßÇÓÛÒÌÍ ÑÎ ßÒÇ ÑÌØÛÎ ÐßÇÓÛÒÌÍ ßÍ ×ÒÜÛÓÒ×ÌÇ ÑÎ ÝÑÓÐÛÒÍßÌ×ÑÒ ÚÑÎ
+         ÔÑÍÍ ÑÎ ÜßÓßÙÛ ÌÑ ÌØÛ ÝÑÔÔßÌÛÎßÔ ÑÎ ÐÎÑÝÛÛÜÍ ÑÚ ÌØÛ ÝÑÔÔßÌÛÎßÔò
+                                             Ð»®-±²¿´ Ð®±°»®¬§ Î»¹·-¬®§
+                                                 Í»¿®½¸ Î»-«´¬- Î»°±®¬                     Ð¿¹» ìð ±º ëé
+
+                                                     Í»¿®½¸ ×Ü ýæ Æïèïëìíîì
+
+Þ«-·²»-- Ü»¾¬±® Í»¿®½¸ Ú±®æ
+ÝÔÛÑ ÛÒÛÎÙÇ ÝÑÎÐ
+Í»¿®½¸ ×Ü ýæ Æïèïëìíîì               Ü¿¬» ±º Í»¿®½¸æ îðîìóÜ»½óðë       Ì·³» ±º Í»¿®½¸æ ïëæïïæðë
+
+
+
+
+Î»¹·-¬®¿¬·±² Ò«³¾»®æ îíðêîçîçêêî         Î»¹·-¬®¿¬·±² Ì§°»æ ÍÛÝËÎ×ÌÇ ßÙÎÛÛÓÛÒÌ
+    Î»¹·-¬®¿¬·±² Ü¿¬»æ îðîíóÖ«²óîç      Î»¹·-¬®¿¬·±² Í¬¿¬«-æ Ý«®®»²¬
+                                                Û¨°·®§ Ü¿¬»æ îðîèóÖ«²óîç îíæëçæëç
+
+
+
+
+    Û¨¿½¬ Ó¿¬½¸ ±²æ       Ü»¾¬±®        Ò±æ ï
+
+
+
+Ü»¾¬±®ø-÷
+Þ´±½µ                                                                                       Í¬¿¬«-
+                                                                                            Ý«®®»²¬
+ï        ÝÔÛÑ ÛÒÛÎÙÇ ÝÑÎÐò
+         îðð ó ïïé èÌØ ßÊÛ ÍÉ
+         ÝßÔÙßÎÇô ßÞ ÌîÐïÞì
+
+Þ´±½µ                                                                                       Í¬¿¬«-
+                                                                                            Ý«®®»²¬
+î        ÔÛÉ×Íô ÝØÎ×ÍÌÑÐØÛÎ
+         ïðïð ó ïíë îêÌØ ßÊÛ ÍÉ
+         ÝßÔÙßÎÇô ßÞ ÌîÍðÓî
+                                                                Þ·®¬¸ Ü¿¬»æ
+                                                                ïçêêóÓ¿®óðç
+
+
+Í»½«®»¼ Ð¿®¬§ ñ Ð¿®¬·»-
+Þ´±½µ                                                                                       Í¬¿¬«-
+                                                                                            Ý«®®»²¬
+ï        ïççîïêç ßÔÞÛÎÌß ÔÌÜò
+         íð Õ×ÒÝÑÎß ÙÔÛÒ ÐßÎÕ ÒÉ
+         ÝßÔÙßÎÇô ßÞ ÌíÎïÊí
+         Û³¿·´æ ÖßÍÑÒàÎ×ÍÛÝßÐ×ÌßÔòÝß
+
+Þ´±½µ                                                                                       Í¬¿¬«-
+                                                                                            Ý«®®»²¬
+î        ÑÈÇÙÛÒ ÉÑÎÕ×ÒÙ ÝßÐ×ÌßÔ ÝÑÎÐò
+         êç ÒßÐ×ÛÎ ÍÌÎÛÛÌ
+         ÞßÎÎ×Ûô ÑÒ ÔìÓïÉí
+         Û³¿·´æ ÖÎßÊßÔÔ×àÑÉÝÝÑÎÐòÝÑÓ
+                                     Ð»®-±²¿´ Ð®±°»®¬§ Î»¹·-¬®§
+                                        Í»¿®½¸ Î»-«´¬- Î»°±®¬               Ð¿¹» ìï ±º ëé
+
+                                           Í»¿®½¸ ×Ü ýæ Æïèïëìíîì
+
+
+Ý±´´¿¬»®¿´æ Ù»²»®¿´
+Þ´±½µ   Ü»-½®·°¬·±²                                                         Í¬¿¬«-
+ï       ÌØÛ ÜÛÞÌÑÎÍ ÐÎÛÍÛÒÌ ÐÛÎÍÑÒßÔ ÐÎÑÐÛÎÌÇ ßÒÜ ÐÛÎÍÑÒßÔ ÐÎÑÐÛÎÌÇ         Ý«®®»²¬
+        ßÝÏË×ÎÛÜ ×Ò ÌØÛ ÚËÌËÎÛô ×ÒÝÔËÜ×ÒÙ ×ÒÊÛÒÌÑÎÇô ÚËÎÒ×ÌËÎÛô Ú×ÈÌËÎÛÍô
+        ÑÚÚ×ÝÛ ÛÏË×ÐÓÛÒÌô ×ÒÜËÍÌÎ×ßÔ ÛÏË×ÐÓÛÒÌô ÓßÝØ×ÒÛÎÇô ÐÔßÒÌô ÌÑÑÔÍô
+        ÊÛØ×ÝÔÛÍô ×ÒÌßÒÙ×ÞÔÛ ÐÛÎÍÑÒßÔ ÐÎÑÐÛÎÌÇô ÍÛÝËÎ×Ì×ÛÍô ÜÑÝËÓÛÒÌÍ ÑÚô
+        Ì×ÌÔÛô ×ÒÍÌÎËÓÛÒÌÍô ÝØßÌÌÛÔ ÐßÐÛÎô ÓÑÒÛÇ ßÒÜ ßÝÝÑËÒÌÍ ÎÛÝÛ×ÊßÞÔÛò
+        ßÔÔ ÌØÛ ÜÛÞÌÑÎÍ ÎÛÝÑÎÜÍ ÎÛÔßÌ×ÒÙ ÌÑ ÌØÛ ÞËÍ×ÒÛÍÍ ßÒÜ ÌØÛ ÐÎÑÐÛÎÌÇ
+        ÌØßÌ ×Í ÍÛÝËÎÛÜ ßÒÜ ßÔÔ ÐÎÑÝÛÛÜÍ ÌØßÌ ßÎÛ ÐÎÛÍÛÒÌ ÑÎ ßÚÌÛÎó
+        ßÝÏË×ÎÛÜ ÐÛÎÍÑÒßÔ ÐÎÑÐÛÎÌÇò
+                                                  Ð»®-±²¿´ Ð®±°»®¬§ Î»¹·-¬®§
+                                                     Í»¿®½¸ Î»-«´¬- Î»°±®¬                          Ð¿¹» ìî ±º ëé
+
+                                                         Í»¿®½¸ ×Ü ýæ Æïèïëìíîì
+
+Þ«-·²»-- Ü»¾¬±® Í»¿®½¸ Ú±®æ
+ÝÔÛÑ ÛÒÛÎÙÇ ÝÑÎÐ
+Í»¿®½¸ ×Ü ýæ Æïèïëìíîì                  Ü¿¬» ±º Í»¿®½¸æ îðîìóÜ»½óðë         Ì·³» ±º Í»¿®½¸æ ïëæïïæðë
+
+
+
+
+Î»¹·-¬®¿¬·±² Ò«³¾»®æ îíðèðìïççèè             Î»¹·-¬®¿¬·±² Ì§°»æ ÍÛÝËÎ×ÌÇ ßÙÎÛÛÓÛÒÌ
+    Î»¹·-¬®¿¬·±² Ü¿¬»æ îðîíóß«¹óðì          Î»¹·-¬®¿¬·±² Í¬¿¬«-æ Ý«®®»²¬
+                                             Î»¹·-¬®¿¬·±² Ì»®³æ ×²º·²·¬§
+
+
+
+
+    Û¨¿½¬ Ó¿¬½¸ ±²æ       Ü»¾¬±®            Ò±æ ï
+
+
+
+Ü»¾¬±®ø-÷
+Þ´±½µ                                                                                                Í¬¿¬«-
+                                                                                                     Ý«®®»²¬
+ï        ÝÔÛÑ ÛÒÛÎÙÇ ÝÑÎÐò
+         îðð ó ïïé è ßÊÛÒËÛ ÍÉ
+         ÝßÔÙßÎÇô ßÞ ÌîÐ ïÞì
+
+
+Í»½«®»¼ Ð¿®¬§ ñ Ð¿®¬·»-
+Þ´±½µ                                                                                                Í¬¿¬«-
+                                                                                                     Ý«®®»²¬
+ï        ÞßÔÔßÎÜô ÍÌÛÐØÛÒ
+         ÍË×ÌÛ ïèðîô éï ÖßÓ×ÛÍÑÒ ÝÑËÎÌ
+         ÒÛÉ ÉÛÍÌÓ×ÒÍÌÛÎô ÞÝ ÊíÔ ëÎì
+         Û³¿·´æ ÍÌÛÊÛÎèèÝàØÑÌÓß×ÔòÝÑÓ
+
+
+Ý±´´¿¬»®¿´æ Ù»²»®¿´
+Þ´±½µ    Ü»-½®·°¬·±²                                                                                 Í¬¿¬«-
+ï        ß´´ °®»-»²¬ ¿²¼ ¿º¬»®ó¿½¯«·®»¼ °»®-±²¿´ °®±°»®¬§ ±©²»¼ô ´»¿-»¼ô ´·½»²-»¼ô °±--»--»¼ ±®       Ý«®®»²¬
+         ¿½¯«·®»¼ ¾§ ¬¸» Ü»¾¬±®ô ±® ·² ©¸·½¸ ¬¸» Ü»¾¬±® ¸¿- ®·¹¸¬-ô ·²½´«¼·²¹ ¿´´ °®»-»²¬ ¿²¼ ¿º¬»®ó
+         ¿½¯«·®»¼ Ù±±¼- ø·²½´«¼·²¹ Û¯«·°³»²¬ ¿²¼ ×²ª»²¬±®§÷ô ×²ª»-¬³»²¬ Ð®±°»®¬§ô ×²-¬®«³»²¬-ô
+         Ü±½«³»²¬- ±º Ì·¬´»ô Ý¸¿¬¬»´ Ð¿°»®ô ×²¬¿²¹·¾´»- ø·²½´«¼·²¹ ß½½±«²¬-÷ô Ó±²»§ô ½®±°- ¿²¼
+         º·¨¬«®»-ô ±©²»¼ô ´»¿-»¼ô ´·½»²-»¼ô °±--»--»¼ ±® ¿½¯«·®»¼ ¾§ ¬¸» Ü»¾¬±®ô ±® ·² ©¸·½¸ ¬¸»
+         Ü»¾¬±® ¸¿- ®·¹¸¬-ô ¿²¼ ¿´´ Ð®±½»»¼- ±º ¬¸¿¬ °®±°»®¬§ô ¾«¬ -°»½·º·½¿´´§ »¨½´«¼»- ¬¸» Û¨½´«¼»¼
+         Ý±´´¿¬»®¿´ò
+                                             Ð»®-±²¿´ Ð®±°»®¬§ Î»¹·-¬®§
+                                                 Í»¿®½¸ Î»-«´¬- Î»°±®¬                        Ð¿¹» ìí ±º ëé
+
+                                                     Í»¿®½¸ ×Ü ýæ Æïèïëìíîì
+
+Þ«-·²»-- Ü»¾¬±® Í»¿®½¸ Ú±®æ
+ÝÔÛÑ ÛÒÛÎÙÇ ÝÑÎÐ
+Í»¿®½¸ ×Ü ýæ Æïèïëìíîì               Ü¿¬» ±º Í»¿®½¸æ îðîìóÜ»½óðë       Ì·³» ±º Í»¿®½¸æ ïëæïïæðë
+
+
+
+
+Î»¹·-¬®¿¬·±² Ò«³¾»®æ îíðèïðîëéçè         Î»¹·-¬®¿¬·±² Ì§°»æ ÍÛÝËÎ×ÌÇ ßÙÎÛÛÓÛÒÌ
+    Î»¹·-¬®¿¬·±² Ü¿¬»æ îðîíóß«¹óïð      Î»¹·-¬®¿¬·±² Í¬¿¬«-æ Ý«®®»²¬
+                                                Û¨°·®§ Ü¿¬»æ îðîêóß«¹óïð îíæëçæëç
+
+
+
+
+    Û¨¿½¬ Ó¿¬½¸ ±²æ      Ü»¾¬±®         Ò±æ ï
+
+
+ß³»²¼³»²¬- ¬± Î»¹·-¬®¿¬·±²
+
+îìðìïðîìïíí                               ß³»²¼³»²¬                                 îðîìóß°®óïð
+
+
+
+Ü»¾¬±®ø-÷
+Þ´±½µ                                                                                             Í¬¿¬«-
+                                                                                                  Ý«®®»²¬
+ï        ÝÔÛÑ ÛÒÛÎÙÇ ÝÑÎÐò
+         îððóïïé è ßÊÛ ÍÉ
+         ÝßÔÙßÎÇô ßÞ ÌîÐïÞì
+
+Þ´±½µ                                                                                             Í¬¿¬«-
+                                                                                                  Ý«®®»²¬
+î        ÔÛÉ×Íô ÝØÎ×ÍÌÑÐØÛÎô ÖÑØÒ
+         îððóïïé è ßÊÛ ÍÉ
+         ÝßÔÙßÎÇô ßÞ ÌîÐïÞì
+                                                                Þ·®¬¸ Ü¿¬»æ
+                                                                ïçêêóÓ¿®óðç
+
+Þ´±½µ                                                                                             Í¬¿¬«-
+                                                                                                  Ý«®®»²¬
+í        ÔÛÉ×Íô ÝØÎ×ÍÌÑÐØÛÎô ÓÝÎßÛ
+         îððóïïé è ßÊÛ ÍÉ
+         ÝßÔÙßÎÇô ßÞ ÌîÐïÞì
+                                                                Þ·®¬¸ Ü¿¬»æ
+                                                                ïçêêóÓ¿®óðç
+
+
+Í»½«®»¼ Ð¿®¬§ ñ Ð¿®¬·»-
+Þ´±½µ                                                                                             Í¬¿¬«-
+                                                                                                  Ü»´»¬»¼ ¾§
+ï        îìïêçîì ßÔÞÛÎÌß ÔÌÜò Ññß ÍÌÎ×ÜÛ ÝßÐ×ÌßÔ                                                  îìðìïðîìïíí
+         ÍË×ÌÛ îðïô íððé ïìÌØ ÍÌÎÛÛÌ ÍÉ
+         ÝßÔÙßÎÇô ßÞ ÌîÌíÊê
+         Û³¿·´æ ÐÐÍßàÍÌÎ×ÜÛÝßÐòÝÑÓ
+                                        Ð»®-±²¿´ Ð®±°»®¬§ Î»¹·-¬®§
+                                           Í»¿®½¸ Î»-«´¬- Î»°±®¬                    Ð¿¹» ìì ±º ëé
+
+                                               Í»¿®½¸ ×Ü ýæ Æïèïëìíîì
+
+
+
+Þ´±½µ                                                                               Í¬¿¬«-
+                                                                                    Ý«®®»²¬ ¾§
+î       îìïêçîì ßÔÞÛÎÌß ÔÌÜò                                                        îìðìïðîìïíí
+        ìïëóíííî îðÌØ ÍÌÎÛÛÌ ÍÉ
+        ÝßÔÙßÎÇô ßÞ ÌîÌ êÌç
+        Û³¿·´æ ÐÐÍßàÍÌÎ×ÜÛÝßÐòÝÑÓ
+
+
+Ý±´´¿¬»®¿´æ Ù»²»®¿´
+Þ´±½µ   Ü»-½®·°¬·±²                                                                 Í¬¿¬«-
+ï       ßÔÔ Î×ÙØÌô Ì×ÌÔÛ ßÒÜ ×ÒÌÛÎÛÍÌ ×Ò ÌØÛ ÜÛÞÌÑÎ ÌÑ ÌØÛ ÉÛÔÔÍ ßÒÜ         Ý«®®»²¬
+        ÛÏË×ÐÓÛÒÌ ÔÑÝßÌÛÜ ßÌ ÌØÛ ÞÛÔÑÉ ÜÛÍÝÎ×ÞÛÜ ÔÛÙßÔ ÔßÒÜ ÔÑÝßÌ×ÑÒÍô
+        ÌØÛÎÛÑÒ ßÒÜ ßÒÇ ÑÌØÛÎ ÌßÒÙ×ÞÔÛ ßÒÜ ×ÒÌßÒÙ×ÞÔÛ ÐÎÑÐÛÎÌÇ ÎÛÔßÌÛÜ
+        ÌØÛÎÛÌÑò
+        ßÔÔ Î×ÙØÌô Ì×ÌÔÛ ßÒÜ ×ÒÌÛÎÛÍÌ ×Ò ÌØÛ ÜÛÞÌÑÎ ÌÑ ÌØÛ Ñ×Ô ßÒÜ ÙßÍ
+        ÐÎÑÜËÝ×ÒÙ ÛÏË×ÐÓÛÒÌ ßÒÜ ßÒÇ ÑÌØÛÎ ÌßÒÙ×ÞÔÛ ßÒÜ ×ÒÌßÒÙ×ÞÔÛ ÐÎÑÐÛÎÌÇ
+        ÎÛÔßÌÛÜ ÌØÛÎÛÌÑò ÐÎÑÝÛÛÜÍæ ßÒÇ ßÒÜ ßÔÔ ÐÎÑÝÛÛÜÍ ÑÚ ßÓÑËÒÌÍ ßÎ×Í×ÒÙ
+        ÚÎÑÓ ÑÎ ÐßÇÞÔÛ ×Ò ÝÑÒÒÛÝÌ×ÑÒ É×ÌØ ßÒÇ ÑÚ ÌØÛ ÝÑÔÔßÌÛÎßÔ ÜÛÍÝÎ×ÞÛÜ
+        ßÞÑÊÛò ÌÑÙÛÌØÛÎ É×ÌØ ßÔÔ ßÌÌßÝØÓÛÒÌÍô ßÝÝÛÍÍÑÎ×ÛÍô ßÝÝÛÍÍ×ÑÒÍô
+        ÎÛÐÔßÝÛÓÛÒÌÍô ÍËÞÍÌ×ÌËÌ×ÑÒÍô ßÜÜ×Ì×ÑÒÍ ßÒÜ ×ÓÐÎÑÊÛÓÛÒÌÍ ÌØÛÎÛÌÑô
+        ßÒÜ ßÔÔ ÐÎÑÝÛÛÜÍ ×Ò ßÒÇ ÚÑÎÓ ÜÛÎ×ÊÛÜ Ü×ÎÛÝÌÔÇ ÑÎ ×ÒÜ×ÎÛÝÌÔÇ ÚÎÑÓ
+        ßÒÇ ÜÛßÔ×ÒÙ É×ÌØ ÌØÛ ÝÑÔÔßÌÛÎßÔ ÑÎ ÐÎÑÝÛÛÜÍ ÌØÛÎÛÑÚô ßÒÜ É×ÌØÑËÌ
+        Ô×Ó×ÌßÌ×ÑÒô ÓÑÒÛÇô ÝØÛÏËÛÍô ÜÛÐÑÍ×ÌÍ ×Ò ÜÛÐÑÍ×ÌóÌßÕ×ÒÙ ×ÒÍÌ×ÌËÌ×ÑÒÍô
+        ÙÑÑÜÍô ßÝÝÑËÒÌÍ ÎÛÝÛ×ÊßÞÔÛô ÎÛÒÌÍ ÑÎ ÑÌØÛÎ ÐßÇÓÛÒÌÍ ßÎ×Í×ÒÙ ÚÎÑÓ
+        ÌØÛ ÔÛßÍÛ ÑÚ ÌØÛ ÝÑÔÔßÌÛÎßÔô ÝØßÌÌÛÔ ÐßÐÛÎô ×ÒÍÌÎËÓÛÒÌÍô
+        ×ÒÌßÒÙ×ÞÔÛÍô ÜÑÝËÓÛÒÌÍ ÑÚ Ì×ÌÔÛô ÍÛÝËÎ×Ì×ÛÍô ßÒÜ Î×ÙØÌÍ ÑÚ ×ÒÍËÎßÒÝÛ
+        ÐßÇÓÛÒÌÍ ÑÎ ßÒÇ ÑÌØÛÎ ÐßÇÓÛÒÌÍ ßÍ ×ÒÜÛÓÒ×ÌÇ ÑÎ ÝÑÓÐÛÒÍßÌ×ÑÒ ÚÑÎ
+        ÔÑÍÍ ÑÎ ÜßÓßÙÛ ÌÑ ÌØÛ ÝÑÔÔßÌÛÎßÔ ÑÎ ÐÎÑÝÛÛÜÍ ÑÚ ÌØÛ ÝÑÔÔßÌÛÎßÔò
+
+        ÍÝØÛÜËÔÛ ß
+        ËÉ× ÊÛÍÍÛÔ ÓßÒËÚßÝÌËÎÛÎ ßý ÝÎÒ ÍÒ ÓßÕÛ ÓÑÜÛÔ ÝÎÒ ÍÒ
+        ïðíñïìóîéóìðóïíÉì ÍÛÐßÎßÌÑÎ ßëïêëéé Îîçëçòîïí ððèéðëóîðð ÌßÇÔÑÎ
+        èîÛèíëïíïï ððïééìóïíð
+        ïðíñïìóîéóìðóïíÉì ÚËÛÔ ÙßÍ ÍÝÎËÞÞÛÎ Ðêçðçòîíï Íóííïê ÌßÇÔÑÎ èîÛìíëïíïï
+        ððèìïðóìí
+        ïðíñïìóîéóìðóïíÉì ïðð ÞÞÔ ÌßÒÕ ÒËÍÝÑ èéðë
+        ïðîñïíóîéóìðóïíÉì ÍÛÐßÎßÌÑÎ ßëðíèêî Ðïéêèòîïí íïéëëé ðÙðïíïêòîÝ ðíìðìèóéð
+        ïðîñïíóîéóìðóïíÉì ÚËÛÔ ÙßÍ ÍÝÎËÞÞÛÎ ïïìïéèòîïíë êîèêòìîí ÌßÇÔÑÎ
+        èîÛìíëïíïï ððçéçîóïíé
+        ïððñïíóîéóìðóïíÉì ÍÛÐßÎßÌÑÎ ßêðîçíè Ðéîçèòîï îéïéï ÌßÇÔÑÎ èîÛèíëïíïï
+        ïïîçéóç ßìëèçòí
+        ïððñïíóîéóìðóïíÉì ÚËÛÔ ÙßÍ ÍÝÎËÞÞÛÎ ÑØëéíéíòîïç îëïêéë èîÛìíëïíïï ðîèìèðó
+        îï
+        ðëóîéóìðóïíÉì ÍËÝÌ×ÑÒ ÙßÍ ÍÝÎËÞÞÛÎ èîèêòïíëé ÌßÇÔÑÎ èîÛíëíïíïï ïçîìîóïé
+        ðëóîéóìðóïíÉì Ü×ÍÝØßÎÙÛ ÞÑÌÌÔÛ ßïððîé ØéçëïòëÝ ÍÚóïîîèîè ÌßÇÔÑÎ
+        èîÛìíëïíïï îðîéèóí
+                                     Ð»®-±²¿´ Ð®±°»®¬§ Î»¹·-¬®§
+                                       Í»¿®½¸ Î»-«´¬- Î»°±®¬                   Ð¿¹» ìë ±º ëé
+
+                                           Í»¿®½¸ ×Ü ýæ Æïèïëìíîì
+
+î   ðëóîéóìðóïíÉì éëð ÞÞÔ ÌßÒÕ ÎËÙÙÛÜ ÌßÒÕ ú ÚßÞÎ×ÝßÌ×ÑÒ íðêïï                 Ý«®®»²¬
+    ðëóîéóìðóïíÉì éëð ÞÞÔ ÌßÒÕ ÎËÙÙÛÜ ÌßÒÕ ú ÚßÞÎ×ÝßÌ×ÑÒ íïéïï
+    ðëóîéóìðóïíÉì éëð ÞÞÔ ÌßÒÕ ÎËÙÙÛÜ ÌßÒÕ ú ÚßÞÎ×ÝßÌ×ÑÒ íïðïï
+    ïððñðèóðéóðìîóïìÉì ÚÔßÎÛ ÕÒÑÝÕÑËÌ ÐÇÎßÓ×Ü ÛÔÛÝÌÎ×Ý çéóÓóëðî
+    ïððñðèóðéóðìîóïìÉì ÚËÛÔ ÙßÍ ÍÝÎËÞÞÛÎ ÐßÒßÈ ðØëéíéòîïí îëïëëî ÌßÇÔÑÎ
+    èîÛìíëïíïï ððçéçîóïíç
+    ïððñðèóðéóðìîóïìÉì ÍÛÐßÎßÌÑÎ ÐßÒßÈ ßëçëèèí Ðéîçèòîï îêèíé ÌßÇÔÑÎ
+    èîÛèíëïíïï ððëìïéóïêë ßìëèçòí
+    ïððñðèóðéóðìîóïìÉì éëð ÞÞÔ ÌßÒÕ ÎËÙÙÛÜ ÌßÒÕ ú ÚßÞÎ×ÝßÌ×ÑÒ íïëïï
+    ïðîñðìóðíóðìðóïîÉì ÍÛÐßÎßÌÑÎ ÒËÍÝÑ ßëðèíêë Îîçëçòîïí ððéêíìóîðð ÌßÇÔÑÎ
+    èîÛèíëïíïï ðëìïéóïïî
+    ïðîñðìóðíóðìðóïîÉì ÚËÛÔ ÙßÍ ÍÝÎËÞÞÛÎ ÒËÍÝÑ Ðêçðçòîíï Íóíðèð ÌßÇÔÑÎ
+    èîÛìíëïíïïèîÛìíëïíïï ðÙðïíïêòîÝ ððçéîóïíð
+    ïðîñðìóðíóðìðóïîÉì ïðð ÞÞÔ ÌßÒÕ ÒËÍÝÑ éêíì
+    ïðîñðìóðíóðìðóïîÉì éëð ÞÞÔ ÌßÒÕ ÎËÙÙÛÜ ÌßÒÕ ú ÚßÞÎ×ÝßÌ×ÑÒ íðéïï
+    ïðíñïïóíïóðíèóðçÉì ÊÛÎÌ í ÐØßÍÛ ÍÛÐßÎßÌÑÎ ßëéêîìð Ðéîïéòî ïïïçï ÌßÇÔÑÎ
+    èîÛèíëïíïï ìíîççóîïë
+    ïðíñïïóíïóðíèóðçÉì ÚËÛÔ ÙßÍ ÍÝÎËÞÞÛÎ Úêíèèòî ïïëëí ÌßÇÔÑÎ èîÛìíëïíïï
+    ìíïðçóïðï ïððñðïóíïóðíèóðçÉì ÍÛÐßÎßÌÑÎ ßêðêîïé Îëîèêòîïí ïçíïéóðï ÌßÇÔÑÎ
+    èîÛèíëïíïï ðïêëèè óîîì
+    ïððñðïóíïóðíèóðçÉì ÚËÛÔ ÙßÍ ÍÝÎËÞÞÛÎ ðØðçðîìòîïí êîèéòëëï ÌßÇÔÑÎ
+    èîÛëíëïíïï ðïêíëìóíéë
+    ðíóíïóðíèóðçÉì ÝÑÒÌÎÑÔ ÞÔÜÙ ÚËÛÔ ÙßÍ ÍÝÎËÞÞÛÎ ÔÑ ÌÛÝØ ðØéïëìòîïíì
+    ïððêòéîïç ÓÛÎÝÛÎ çïóïéÜëïÊðëÛï ðÙèèìïòëÝ èîððçê
+    ðíóíïóðíèóðçÉì éëð ÞÞÔ ÌßÒÕ ÚÔ×ÒÌ ßéëðóïè
+    ðíóíïóðíèóðçÉì éëð ÞÞÔ ÌßÒÕ ÚÔ×ÒÌ ßéëðóïç
+                                   Ð»®-±²¿´ Ð®±°»®¬§ Î»¹·-¬®§
+                                      Í»¿®½¸ Î»-«´¬- Î»°±®¬                  Ð¿¹» ìê ±º ëé
+
+                                          Í»¿®½¸ ×Ü ýæ Æïèïëìíîì
+
+í   ïðîñïïóíïóðíèóðçÉì ÊÛÎÌ í ÐØßÍÛ ÍÛÐßÎßÌÑÎ ÎÖÊ ßíïëíííì Úëèéìòî íêïì      Ý«®®»²¬
+    ÓÛÎÝÛÎ çïïéÜëïïéïìÛ ðÙîêðêòëÝ ìëëðé
+    ïðîñïïóíïóðíèóðçÉì ÚËÛÔ ÙßÍ ÍÝÎËÞÞÛÎ
+    ïðîñïïóíïóðíèóðçÉì ÐËÓÐÖßÝÕ ÍÝÎËÞÞÛÎ ÐÔßÌ×ÒËÓ ÐËÔÔ ÌÇÐÛ
+    ïðîñïïóíïóðíèóðçÉì éëð ÞÞÔ ÌßÒÕ ÕßÓÞÛÎ ÚßÞ ×ÒÜËÍÌÎ×ÛÍ éëðïêë
+    ïððñðèóïçóðíçóïðÉì ÐËÓÐÖßÝÕ ÍÝÎËÞÞÛÎ ßÓÐÍÝÑÌ ÐËÔÔ ÌÇÐÛ
+    ïððñðèóïçóðíçóïðÉì ÍÛÐßÎßÌÑÎ ßëïèçëç Îèêïðòîíï ðìóðéóîíð ÌßÇÔÑÎ
+    èîÛèíëïíïï ïêèìë óíë
+    ïððñðèóïçóðíçóïðÉì ÚËÛÔ ÙßÍ ÍÝÎËÞÞÛÎ ÔÑ ÌÛÝØ ðØîìîîòîïíì ïðïìòïééè
+    ÌßÇÔÑÎ èîÛìíëïíïï ðððïíïêòîÝ ðëéðëðóé
+    ïððñðèóïçóðíçóïðÉì éëð ÞÞÔ ÌßÒÕ ÎËÙÙÛÜ ÌßÒÕ ú ÚßÞÎ×ÝßÌ×ÑÒ íðèïï
+    ïððñïêóíëóðíèóïðÉì ÚËÛÔ ÐÑÌ ÞÎÑÓÔÛÇ ßëëéíïê Øìïðçòîíì êîëèîî ÌßÇÔÑÎ
+    èîÛìíëïíïï ðÙðïíïêòîÝ ðïìíçïóíêë
+    ïððñïêóíëóðíèóïðÉì ÍÛÐßÎßÌÑÎ ÐßÒßÈ ßëìçïçï Ðéîçèòîï îêðêï ÌßÇÔÑÎ
+    èîÛèíëïíïï ðïìííèóîëê ßìëèçòí
+    ïððñïêóíëóðíèóïðÉì ìðð ÞÞÔ ÌßÒÕ ÎÛÝÑÓ ïððíï
+    ïððñïêóíëóðíèóïðÉì ìðð ÞÞÔ ÌßÒÕ ÎÛÝÑÓ ïððíî
+    ïêóîèóðíèóïðÉì Ü×ÍÝØßÎÙÛ ÞÑÌÌÔÛ ÍÌÛÛÔ ÚßÞ ØéçëïòëÝ ÍÚóïîêíìèøá÷ ÌßÇÔÑÎ
+    èîÛìíëïíïï ðÙðïíïêòîÝ ðìðîïëóïëí
+    ïêóîèóðíèóïðÉì ÍËÝÌ×ÑÒ ÞÑÌÌÔÛ ×ÓÐßÝÌ ×ÒÜËÍÌÎ×ßÔ ÍßÔÛÍ ðØðéïëîòî Íðîëîë
+    ÌßÇÔÑÎ èîÛëíëïíïï ðíéèîìóîêí
+    ïðîñïêóííóðíèóïðÉì ÐËÓÐÖßÝÕ ÍÝÎËÞÞÛÎ ÔÑ ÌÛÝØ ÉÛÔÔÓßÎÕ ÉîêðïóÛÊïóíïïó
+    íð ððéçêèòëîñëê ×ÞÌðëîêëóîì
+    ïðîñïêóííóðíèóïðÉì ÍÛÐßÎßÌÑÎ ÒÉÐ ×ÒÜËÍÌÎ×ÛÍ ßëèèèèì Ôçìëíòîíï ïêìí
+    ÌßÇÔÑÎ èîÛéíëïíïï ðÙðïíïêòîÝ ðëïíìîóíì
+    ïðîñïêóííóðíèóïðÉì ÍÝÎËÞÞÛÎ ÒÉÐ ×ÒÜËÍÌÎ×ÛÍ ðØðçíïçòîïí ïêïð ÌßÇÔÑÎ
+    èîÛìíëïíïï ðÙðïíïêòîÝ ëìðïîïë øá÷
+    ïðíñïëóîéóðíèóïðÉì ÍÛÐßÎßÌÑÎ ÐßÒßÈ ßêðîçíç Ðéîçèòîï îéïéî ÌßÇÔÑÎ
+    èîÛêíëïíïï ðïðéêðóíïé ßìëèçòí
+    ïðíñïëóîéóðíèóïðÉì ÍÝÎËÞÞÛÎ ÐßÒßÈ ðØëéíéòîïí îëïêéí ÌßÇÔÑÎ èîÛìëíïíïï
+    ðÙðïíïêòîÝ ðëéðëðóïç
+    ïððñðìóîîóðìïóðçÉìñðî ÍÛÐßÎßÌÑÎ ÎÖÊ ßìðëéïé Óðéïêòî ìëíè ÌßÇÔÑÎ
+    èîÙïîêëïíïïóïììð ðíìðìèóèé
+    ïððñðìóîîóðìïóðçÉìñðî ÍÝÎËÞÞÛÎ ÒÑ ÐÔßÌÛ ÌßÇÔÑÎ èîÛìíëïíïï ìçéîîóïé
+    ïððñðìóîîóðìïóðçÉìñðî ïðð ÞÞÔ ÌßÒÕ ÞÎÑÓÔÛÇ îðêóÜïððóïðîìí
+                                    Ð»®-±²¿´ Ð®±°»®¬§ Î»¹·-¬®§
+                                       Í»¿®½¸ Î»-«´¬- Î»°±®¬                 Ð¿¹» ìé ±º ëé
+
+                                           Í»¿®½¸ ×Ü ýæ Æïèïëìíîì
+
+ì   ïððñðìóîîóðìïóðçÉìñðî éëð ÞÞÔ ÌßÒÕ ÒÑ ÐÔßÌÛ                              Ý«®®»²¬
+    ïððñðìóîîóðìïóðçÉìñðî ÙÎÑËÐ ÍÛÐßÎßÌÑÎ ÞÎÑÓÔÛÇ ßëêëïéï Ðïéêèòîïí ëïêóéðÒ
+    ÌßÇÔÑÎ èîÛéíëïíïï íðêêëóììí
+    ïððñðìóîîóðìïóðçÉìñðî ÚËÛÔ ÙßÍ ÚÎÑÓ ÍÛÐßÎßÌÑÎ ÞÎÑÓÔÛÇ ßëêðëïè êîêðéî
+    ÌßÇÔÑÎ èîÛìíëïíïï íðéìéóìç
+    ïððñðìóîîóðìïóðçÉìñðî ×ÒÔÛÌ ÍÛÐßÎßÌÑÎ ÒÙÝ ßëëêéçè Îëèïðòîïí ïêêðéóî
+    ØÇÜÎÑÍÛßÔ ïìÛíÓðÊððñÔë ëëëíðîóïë
+    ïððñðìóîîóðìïóðçÉìñðî Ñ×Ô ÍÛÐßÎßÌÑÎ ÒÙÝ ßëêëêêè Îëèðçòîïí ïêêðéóé ÌßÇÔÑÎ
+    èîØêëéïíïï ðíîðèêóîïê
+    ïððñðéóïëóðìïóðçÉìñðð ÍÛÐßÎßÌÑÎ ÚÔÑÜÎ×Ð ßìéçèçé Ôìîëðòîíï ìéïè ÌßÇÔÑÎ
+    èîÛèíëïíïï ìèéèéóïîé
+    ïððñïêóðíóðìïóðçÉìñðð ÚËÛÔ ÙßÍ ÔÑ ÌÛÝØ ðØîîççòîïíì ïððêòïèçç ÌßÇÔÑÎ
+    èîÛìíëïíïï ìççèðóêè
+    ïððñïêóðíóðìïóðçÉìñðð ÙßÍ ÍÛÐßÎßÌÑÎ ÒËÍÝÑ ßìèêéíï ÐçîçïòîÝ ððëêïèóîðð
+    ÌßÇÔÑÎ èîÛìíëïíïï ìëéèéóïîì
+    ïððñïêóðíóðìïóðçÉìñðð ïíð ÞÞÔ ÌßÒÕ ÒËÍÝÑ ððëêïè
+    ïððñðíóðíóðìïóðçÉìñðî ÍÛÐßÎßÌÑÎ ÒËÍÝÑ ßëïêîêí Îêðëðòîí ððèíìèóîðð
+    ÓÛÎÝÛÎ çïóïéÜëïÌïìÛï ìèçíîí
+    ïððñðíóðíóðìïóðçÉìñðî ÚËÛÔ ÙßÍ ÍÝÎËÞÞÛÎ ÚÔÑóÜÎ× ÌßÇÔÑÎ èîÛìíëïíïï ïëðððó
+    ïë ïððñðíóðíóðìïóðçÉìñðî êð ÞÞÔ ÌßÒÕ ÒËÍÝÑ èíìè
+    ïððñðçóîìóðìïóðçÉìñðð ÍÛÐßÎßÌÑÎ ÒËÍÝÑ ßëíìèðê Ðìíçëòî ðïóìíìçóë ÌßÇÔÑÎ
+    èîÛìíëïíïï ìêéèéóïëï
+    ïððñðçóîìóðìïóðçÉìñðð ÚËÛÔ ÙßÍ ÍÛÐßÎßÌÑÎ ðØêéçëòîï ççóìíìçóë ÓÛÎÝÛÎ
+    çïðêÜëïÊðêÛï ïëïçðï
+    ïððñðêóîïóðìïóðçÉìñðî ÙßÍ ÍÛÐßÎßÌÑÎ ÐÔß×ÒÍ Ñ×Ô ßëïíîìì Îîëîðòîïí íëîêóÊí
+    ÓÛÎÝÛÎ çïóïéÜëïÌïìÛï ïîçìëé
+    ïððñðêóîïóðìïóðçÉìñðî êð ÞÞÔ ÌßÒÕ ËÔÌÎßÚßÞ ðìèêóðïç
+    ïëóðëóðìîóïîÉì í ÐØßÍÛ ÍÛÐßÎßÌÑÎ Í×ÔÊÛÎßÜÑ ßëëðçîé Ììèëéòî Íóïèëî
+    ÌßÇÔÑÎ èîØïïêéëïíïï ïçééî
+    ïëóðëóðìîóïîÉì ÙßÍ ÍÝÎËÞÞÛÎ Í×ÔÊÛÎßÜÑ ÑØëèíòéòîïí Íóïéçè ÌßÇÔÑÎ
+    èîÛìíëïíïï ïìéíðóëë
+    ïëóðëóðìîóïîÉì ß×Î ÎÛÝÛ×ÊÛÎ ÍÌÛÛÔ ÚßÞ ØéçëïòëÝ ÍÚóïéççéë
+
+ë   ÔÑÝßÌ×ÑÒ ÞË×ÔÜ×ÒÙñÛÏË×ÐÓÛÒÌ ßÜÜ×Ì×ÑÒßÔ ×ÒÚÑÎÓßÌ×ÑÒ                      Ý«®®»²¬
+    ïëóíëóîïóðéÉì ÑÚÚ×ÝÛ ÛÔÛÝÌÎ×ÝßÔ ÎÑÑÓô ÑÚÚ×ÝÛ ú ÌÑÑÔ ÎÑÑÓ
+    ïëóíëóîïóðéÉì ËÌ×Ô×ÌÇ ÞË×ÔÜ×ÒÙ ÉßÌÛÎñÙÔÇÝÑÔ ØÛßÌÛÎô øî÷ Ý×ÎÝËÔßÌ×ÒÙ
+    ÝÛÒÌÎ×ÚËÙßÔ ÐËÓÐÍô øî÷ ß×Î ÝÑÓÐÎÛÍÍÑÎÍ ú ß ÜÎÇ×ÒÙ ÌÑÉÛÎ
+    ïëóíëóîïóðéÉì ×ÒÔÛÌ ÞË×ÔÜ×ÒÙ ÌÛÍÌ ÍÛÐßÎßÌÑÎô ÚÉÕÑô ÚÔßÎÛ ÓÛÌÛÎ ÎËÒô è
+    ÉÛÔÔ ØÛßÜÛÎô øî÷ ÎËÚÚÒÛÝÕÍ
+    ïëóíëóîïóðéÉì ÌÎÛßÌÛÎ ÞË×ÔÜ×ÒÙ ËÒ×ÊÛÎÍßÔ ïð È ìð ÚÑÑÌ ÜËßÔ ÞËÎÒÛÎ
+    ÌÎÛßÌÛÎ ú ÓÛÌÛÎ ÎËÒ
+    ïëóíëóîïóðéÉì ÝÑÓÐÎÛÍÍÑÎ ÞË×ÔÜ×ÒÙ íìðè ÝßÌ ú î ÍÌßÙÛ ÙÛÓ×Ò×
+    ÝÑÓÐÎÛÍÍÑÎ ïëóíëóîïóðéÉì ÜÛØÇ ÞË×ÔÜ×ÒÙ ÝÑÒÌßÝÌÑÎô ÎÛÞÑ×ÔÛÎ ú
+    ßÝÝËÓËÔßÌÑÎô ÙÔÇÝÑÔ ÐËÓÐô ÓÛÌØßÒÑÔ ÐËÓÐ
+    ïëóíëóîïóðéÉì ÏË×Ò ÐÔÛÈ ÞË×ÔÜ×ÒÙ îëð ØÐ ÏË×Ò ÐÔÛÈ ÞË×ÔÜ×ÒÙ ú ÞÑÑÍÌÛÎ
+    ïëóíëóîïóðéÉì ÌÎ×ÐÔÛÈ ÞË×ÔÜ×ÒÙ øî÷ ïîë ØÐ ÌÎ×ÐÔÛÈ ÐËÓÐÍ ú ÞÑÑÍÌÛÎÍô øî÷
+    ÎÑÐÛÎ ÎÛÝÇÝÔ×ÒÙ ÍÝÎÛÉ ÐËÓÐÍô ÎÛÝÇÝÔÛ Ü×ÍÝØßÎÙÛ ØÛßÜÛÎ
+    ïëóíëóîïóðéÉì ÝËÌ ÍØßÝÕ ÝÛÒÌÎ×ÚËÙÛô ÍÌÛÛÔ ÞÛÒÝØ É×ÌØ ØÑÌ ÞßÌØ Í×ÒÕ
+    ïëóíëóîïóðéÉì ÌßÒÕ ÚßÎÓ øî÷ îððð ÞÞÔ ÉßÌÛÎ ÌßÒÕÍô øï÷ îððð ÞÞÔ ÎÛÝÇÝÔÛ
+    ÌßÒÕô øî÷ ïîðð ÞÞÔ Ñ×Ô ÌßÒÕÍô øï÷ éëð ÞÞÔ ÜÛÍßÒÜ ÌßÒÕ
+    ïëóíëóîïóðéÉì ÚÔßÎÛ ÍÌßÝÕ
+    ïëóíëóîïóðéÉì ËÒÜÛÎÙÎÑËÒÜ ÚÔßÎÛ ÕÒÑÝÕÑËÌ ÌßÒÕ
+    ïëóíëóîïóðéÉì ËÒÜÛÎÙÎÑËÒÜ ×ÒÖÛÝÌ×ÑÒ ÐËÓÐ ÜÎß×Ò ÌßÒÕ
+    îóîóîîóðéÉì ÌÛÍÌ ÍÛÐßÎßÌÑÎô Ð×ÙÙ×ÒÙ ÍÌßÌ×ÑÒ
+    éóîóîîóðéÉì ÌÛÍÌ ÍÛÐßÎßÌÑÎô é ÉÛÔÔ ØÛßÜÛÎô Ð×ÙÙ×ÒÙ ÍÌßÌ×ÑÒô ÛÔÛÝÌÎ×ÝßÔ
+    ÞË×ÔÜ×ÒÙ
+    ïîóïïóîîóðéÉì ÌÛÍÌ ÍÛÐßÎßÌÑÎô É×ÌØ ÝØÛÊ Êê ØÇÜÎßËÔ×Ý ÜÎ×ÊÛ
+                                                  Ð»®-±²¿´ Ð®±°»®¬§ Î»¹·-¬®§
+                                                     Í»¿®½¸ Î»-«´¬- Î»°±®¬                            Ð¿¹» ìè ±º ëé
+
+                                                         Í»¿®½¸ ×Ü ýæ Æïèïëìíîì
+
+Þ«-·²»-- Ü»¾¬±® Í»¿®½¸ Ú±®æ
+ÝÔÛÑ ÛÒÛÎÙÇ ÝÑÎÐ
+Í»¿®½¸ ×Ü ýæ Æïèïëìíîì                  Ü¿¬» ±º Í»¿®½¸æ îðîìóÜ»½óðë        Ì·³» ±º Í»¿®½¸æ ïëæïïæðë
+
+
+
+
+Î»¹·-¬®¿¬·±² Ò«³¾»®æ îíïðîéíîèìé             Î»¹·-¬®¿¬·±² Ì§°»æ ÉÎ×Ì ÑÚ ÛÒÚÑÎÝÛÓÛÒÌ
+   Î»¹·-¬®¿¬·±² Ü¿¬»æ îðîíóÑ½¬óîé           Î»¹·-¬®¿¬·±² Í¬¿¬«-æ Ý«®®»²¬
+                                                    Û¨°·®§ Ü¿¬»æ îðîëóÑ½¬óîé îíæëçæëç
+
+
+
+                                  ×--«»¼ ·² Ý¿´¹¿®§ Ö«¼·½·¿´ Ý»²¬®»
+                      Ý±«®¬ Ú·´» Ò«³¾»® ·- ïéðïóïíðïê
+                         Ö«¼¹³»²¬ Ü¿¬» ·- îðîîóÒ±ªóîï
+                   Ì¸·- É®·¬ ©¿- ·--«»¼ ±² îðîíóÑ½¬óîé
+                      Ì§°» ±º Ö«¼¹³»²¬ ·- Ñ¬¸»®
+  Ñ®·¹·²¿´ Ö«¼¹³»²¬ ß³±«²¬æ üïôïíèôëêçòçç                                  Ý±-¬- ß®»æ üðòðð
+     Ð±-¬ Ö«¼¹³»²¬ ×²¬»®»-¬æ üðòðð                             Ý«®®»²¬ ß³±«²¬ Ñ©·²¹æ üìïôððïòìì
+
+
+
+
+    Û¨¿½¬ Ó¿¬½¸ ±²æ      Ü»¾¬±®             Ò±æ ï
+
+
+ß³»²¼³»²¬- ¬± Î»¹·-¬®¿¬·±²
+
+îìðîðêíîèêê                                   Ü·-¬®·¾«¬·±²                              îðîìóÚ»¾óðê
+
+îìðéðîíîïìð                                   Ü·-¬®·¾«¬·±²                              îðîìóÖ«´óðî
+
+îìðèïêîìêëé                                   ß³»²¼³»²¬                                 îðîìóß«¹óïê
+
+îìïðïéíèëðî                                   Ü·-¬®·¾«¬·±²                              îðîìóÑ½¬óïé
+
+îìïïïèîçìêë                                   ß³»²¼³»²¬                                 îðîìóÒ±ªóïè
+
+
+
+Í±´·½·¬±® ñ ß¹»²¬
+
+
+         ÔßÉÍÑÒ ÔËÒÜÛÔÔ ÔÔÐô ÍØßÒÒÑÒ Õò ØßÇÛÍ
+         ïïððô îîë ó êÌØ ßÊÛÒËÛ ÍÉ
+         ÝßÔÙßÎÇô ßÞ ÌîÐ ïÒî
+         Ð¸±²» ýæ ìðí îïè éëïì         Ú¿¨ ýæ ìðí îêç çìçì            Î»º»®»²½» ýæ íìïêëóïìíððê
+         Û³¿·´æ ÍØßÇÛÍàÔßÉÍÑÒÔËÒÜÛÔÔòÝÑÓ
+                                      Ð»®-±²¿´ Ð®±°»®¬§ Î»¹·-¬®§
+                                        Í»¿®½¸ Î»-«´¬- Î»°±®¬      Ð¿¹» ìç ±º ëé
+
+                                          Í»¿®½¸ ×Ü ýæ Æïèïëìíîì
+
+
+Ü»¾¬±®ø-÷
+Þ´±½µ                                                              Í¬¿¬«-
+                                                                   Ý«®®»²¬
+ï       ÝÔÛÑ ÛÒÛÎÙÇ ÝÑÎÐò
+        îððô ïïé ó èÌØ ßÊÛÒËÛ ÍÉ
+        ÝßÔÙßÎÇô ßÞ ÌîÐ ïÞì
+
+
+Ý®»¼·¬±®ø-÷
+Þ´±½µ                                                              Í¬¿¬«-
+                                                                   Ý«®®»²¬
+ï       ÍßÊßÒÒß ÉÛÔÔ ÍÛÎÊ×Ý×ÒÙ ×ÒÝò
+        ïðððô éíì ó éÌØ ßÊÛÒËÛ ÍÉ
+        ÝßÔÙßÎÇô ßÞ ÌîÐ íÐè
+        Û³¿·´æ ØØßØÒàÌÑÌßÔÛÒÛÎÙÇòÝß
+                                                 Ð»®-±²¿´ Ð®±°»®¬§ Î»¹·-¬®§
+                                                     Í»¿®½¸ Î»-«´¬- Î»°±®¬                        Ð¿¹» ëð ±º ëé
+
+                                                         Í»¿®½¸ ×Ü ýæ Æïèïëìíîì
+
+Þ«-·²»-- Ü»¾¬±® Í»¿®½¸ Ú±®æ
+ÝÔÛÑ ÛÒÛÎÙÇ ÝÑÎÐ
+Í»¿®½¸ ×Ü ýæ Æïèïëìíîì                   Ü¿¬» ±º Í»¿®½¸æ îðîìóÜ»½óðë        Ì·³» ±º Í»¿®½¸æ ïëæïïæðë
+
+
+
+
+Î»¹·-¬®¿¬·±² Ò«³¾»®æ îíïïîìîéíèì             Î»¹·-¬®¿¬·±² Ì§°»æ ÍÛÝËÎ×ÌÇ ßÙÎÛÛÓÛÒÌ
+    Î»¹·-¬®¿¬·±² Ü¿¬»æ îðîíóÒ±ªóîì          Î»¹·-¬®¿¬·±² Í¬¿¬«-æ Ý«®®»²¬
+                                                    Û¨°·®§ Ü¿¬»æ îðîëóÒ±ªóîì îíæëçæëç
+
+
+
+
+    Û¨¿½¬ Ó¿¬½¸ ±²æ      Ü»¾¬±®             Ò±æ ï
+
+
+ß³»²¼³»²¬- ¬± Î»¹·-¬®¿¬·±²
+
+îíïïîçïîíçí                                   ß³»²¼³»²¬                                 îðîíóÒ±ªóîç
+
+
+
+Ü»¾¬±®ø-÷
+Þ´±½µ                                                                                                 Í¬¿¬«-
+                                                                                                      Ý«®®»²¬
+ï        ÝÔÛÑ ÛÒÛÎÙÇ ÝÑÎÐò
+         îððô ïïé ó è ßÊÛÒËÛ ÍÉ
+         ÝßÔÙßÎÇô ßÞ ÌîÐ ïÞì
+
+
+Í»½«®»¼ Ð¿®¬§ ñ Ð¿®¬·»-
+Þ´±½µ                                                                                                 Í¬¿¬«-
+                                                                                                      Ý«®®»²¬
+ï        ÍßÊßÒÒß ÉÛÔÔ ÍÛÎÊ×Ý×ÒÙ ×ÒÝò
+         ïðððô éíì ó é ßÊÛÒËÛ ÍÉ
+         ÝßÔÙßÎÇô ßÞ ÌîÐ íÐè
+         Û³¿·´æ ´»¹¿´à¬±¬¿´»²»®¹§ò½¿
+
+Þ´±½µ                                                                                                 Í¬¿¬«-
+                                                                                                      Ý«®®»²¬
+î        ÚÑÎÌ ÓÝÕßÇóÍßÊßÒÒß ÛÒÛÎÙÇ ÍÛÎÊ×ÝÛÍ Ô×Ó×ÌÛÜ ÐßÎÌÒÛÎÍØ×Ð
+         ïðððô éíì ó é ßÊÛÒËÛ ÍÉ
+         ÝßÔÙßÎÇô ßÞ ÌîÐ íÐè
+         Û³¿·´æ ´»¹¿´à¬±¬¿´»²»®¹§ò½¿
+
+
+Ý±´´¿¬»®¿´æ Í»®·¿´ Ò«³¾»® Ù±±¼-
+Þ´±½µ    Í»®·¿´ Ò«³¾»®                 Ç»¿® Ó¿µ» ¿²¼ Ó±¼»´                 Ý¿¬»¹±®§                   Í¬¿¬«-
+ï        ïÙÝËÇÜÛÜÈÒÆïïðêèí             îðîî ÝØÛÊÎÑÔÛÌ Í×ÔÊÛÎßÜÑ            ÓÊ ó Ó±¬±® Ê»¸·½´»         Ý«®®»²¬ Þ§
+                                                                                                      îíïïîçïîíçí
+                                                 Ð»®-±²¿´ Ð®±°»®¬§ Î»¹·-¬®§
+                                                    Í»¿®½¸ Î»-«´¬- Î»°±®¬         Ð¿¹» ëï ±º ëé
+
+                                                         Í»¿®½¸ ×Ü ýæ Æïèïëìíîì
+
+
+Ý±´´¿¬»®¿´æ Ù»²»®¿´
+Þ´±½µ   Ü»-½®·°¬·±²                                                               Í¬¿¬«-
+ï       ß´´ °®»-»²¬ ¿²¼ ¿º¬»®ó¿½¯«·®»¼ °»®-±²¿´ °®±°»®¬§ ±º ¬¸» Ü»¾¬±®ò           Ý«®®»²¬
+                                                     Ð»®-±²¿´ Ð®±°»®¬§ Î»¹·-¬®§
+                                                         Í»¿®½¸ Î»-«´¬- Î»°±®¬                        Ð¿¹» ëî ±º ëé
+
+                                                             Í»¿®½¸ ×Ü ýæ Æïèïëìíîì
+
+Þ«-·²»-- Ü»¾¬±® Í»¿®½¸ Ú±®æ
+ÝÔÛÑ ÛÒÛÎÙÇ ÝÑÎÐ
+Í»¿®½¸ ×Ü ýæ Æïèïëìíîì                      Ü¿¬» ±º Í»¿®½¸æ îðîìóÜ»½óðë        Ì·³» ±º Í»¿®½¸æ ïëæïïæðë
+
+
+
+
+Î»¹·-¬®¿¬·±² Ò«³¾»®æ îìðéîçîîèîé                 Î»¹·-¬®¿¬·±² Ì§°»æ ÉÎ×Ì ÑÚ ÛÒÚÑÎÝÛÓÛÒÌ
+     Î»¹·-¬®¿¬·±² Ü¿¬»æ îðîìóÖ«´óîç             Î»¹·-¬®¿¬·±² Í¬¿¬«-æ Ý«®®»²¬
+                                                        Û¨°·®§ Ü¿¬»æ îðîêóÖ«´óîç îíæëçæëç
+
+
+
+                                      ×--«»¼ ·² Ý¿´¹¿®§ Ö«¼·½·¿´ Ý»²¬®»
+                        Ý±«®¬ Ú·´» Ò«³¾»® ·- îìðïóïðííí
+                           Ö«¼¹³»²¬ Ü¿¬» ·- îðîìóÖ«´óïê
+                     Ì¸·- É®·¬ ©¿- ·--«»¼ ±² îðîìóÖ«´óîë
+                        Ì§°» ±º Ö«¼¹³»²¬ ·- Ñ¬¸»®
+    Ñ®·¹·²¿´ Ö«¼¹³»²¬ ß³±«²¬æ üïêôïççòíç                                       Ý±-¬- ß®»æ üîïïòêð
+       Ð±-¬ Ö«¼¹³»²¬ ×²¬»®»-¬æ üðòðð                               Ý«®®»²¬ ß³±«²¬ Ñ©·²¹æ üïíôðêîòëë
+
+
+
+
+      Û¨¿½¬ Ó¿¬½¸ ±²æ      Ü»¾¬±®               Ò±æ ï
+
+
+ß³»²¼³»²¬- ¬± Î»¹·-¬®¿¬·±²
+
+îìïðïéíèëïî                                       Ü·-¬®·¾«¬·±²                              îðîìóÑ½¬óïé
+
+
+
+Í±´·½·¬±® ñ ß¹»²¬
+
+
+           Ì ú Í ÝÑÔÔÛÝÌ×ÑÒÍ ÔÌÜ
+           ýïðëô ìïî ëí ßÊÛÒËÛ ÍÛ
+           ÝßÔÙßÎÇô ßÞ ÌîØ ðÒì
+           Ð¸±²» ýæ ìðí îðî éííê           Ú¿¨ ýæ ìðí îðï éîíê
+           Û³¿·´æ µ»²°®¿¬¸»®¬-à-¸¿©ò½¿
+
+
+Ü»¾¬±®ø-÷
+Þ´±½µ                                                                                                     Í¬¿¬«-
+                                                                                                          Ý«®®»²¬
+ï          ÝÔÛÑ ÛÒÛÎÙÇ ÝÑÎÐ
+           îððô ïïé è ßÊÛÒËÛ ÍÉ
+           ÝßÔÙßÎÇô ßÞ ÌîÐ ïÞì
+                                      Ð»®-±²¿´ Ð®±°»®¬§ Î»¹·-¬®§
+                                        Í»¿®½¸ Î»-«´¬- Î»°±®¬       Ð¿¹» ëí ±º ëé
+
+                                           Í»¿®½¸ ×Ü ýæ Æïèïëìíîì
+
+
+Ý®»¼·¬±®ø-÷
+Þ´±½µ                                                               Í¬¿¬«-
+                                                                    Ý«®®»²¬
+ï       ÓÑÎÙßÒ×ÝÕ ÞÔÛÒÜ×ÒÙ ÍÛÎÊ×ÝÛÍ ÝÑÎÐ
+        ýïðëô ìïî ëí ßÊÛÒËÛ ÍÛ
+        ÝßÔÙßÎÇô ßÞ ÌîØ ðÒì
+        Û³¿·´æ µ»²°®¿¬¸»®¬-à-¸¿©ò½¿
+                                                    Ð»®-±²¿´ Ð®±°»®¬§ Î»¹·-¬®§
+                                                       Í»¿®½¸ Î»-«´¬- Î»°±®¬                        Ð¿¹» ëì ±º ëé
+
+                                                           Í»¿®½¸ ×Ü ýæ Æïèïëìíîì
+
+Þ«-·²»-- Ü»¾¬±® Í»¿®½¸ Ú±®æ
+ÝÔÛÑ ÛÒÛÎÙÇ ÝÑÎÐ
+Í»¿®½¸ ×Ü ýæ Æïèïëìíîì                    Ü¿¬» ±º Í»¿®½¸æ îðîìóÜ»½óðë        Ì·³» ±º Í»¿®½¸æ ïëæïïæðë
+
+
+
+
+Î»¹·-¬®¿¬·±² Ò«³¾»®æ îìðèîçîçéêê               Î»¹·-¬®¿¬·±² Ì§°»æ ÉÎ×Ì ÑÚ ÛÒÚÑÎÝÛÓÛÒÌ
+     Î»¹·-¬®¿¬·±² Ü¿¬»æ îðîìóß«¹óîç           Î»¹·-¬®¿¬·±² Í¬¿¬«-æ Ý«®®»²¬
+                                                      Û¨°·®§ Ü¿¬»æ îðîêóß«¹óîç îíæëçæëç
+
+
+
+                                    ×--«»¼ ·² Ý¿´¹¿®§ Ö«¼·½·¿´ Ý»²¬®»
+                        Ý±«®¬ Ú·´» Ò«³¾»® ·- îìðïïïçëî
+                           Ö«¼¹³»²¬ Ü¿¬» ·- îðîìóß«¹óðî
+                     Ì¸·- É®·¬ ©¿- ·--«»¼ ±² îðîìóß«¹óîç
+                        Ì§°» ±º Ö«¼¹³»²¬ ·- Ñ¬¸»®
+    Ñ®·¹·²¿´ Ö«¼¹³»²¬ ß³±«²¬æ üïïôêîêòìê                                     Ý±-¬- ß®»æ üíîëòðì
+       Ð±-¬ Ö«¼¹³»²¬ ×²¬»®»-¬æ üðòðð                             Ý«®®»²¬ ß³±«²¬ Ñ©·²¹æ üïðôèííòîð
+
+
+
+
+      Û¨¿½¬ Ó¿¬½¸ ±²æ      Ü»¾¬±®             Ò±æ ï
+
+
+ß³»²¼³»²¬- ¬± Î»¹·-¬®¿¬·±²
+
+îìïðïéíèëîî                                     Ü·-¬®·¾«¬·±²                              îðîìóÑ½¬óïé
+
+
+
+Í±´·½·¬±® ñ ß¹»²¬
+
+
+           ËóÍËÛ ×ÒÝ
+           ÐÑ ÞÑÈ îëïðîô ÜÛÛÎ ÐßÎÕ ÎÐÑ
+           ÎÛÜ ÜÛÛÎô ßÞ ÌìÎ îÓî
+           Ð¸±²» ýæ ìðí îêì ïíêê         Ú¿¨ ýæ ìðí çíè ìðèð            Î»º»®»²½» ýæ îìóðïðêî
+           Û³¿·´æ ©»-«»à«-«»ò½¿
+
+
+Ü»¾¬±®ø-÷
+Þ´±½µ                                                                                                   Í¬¿¬«-
+                                                                                                        Ý«®®»²¬
+ï          ÝÔÛÑ ÛÒÛÎÙÇ ÝÑÎÐò
+           îððóïïé è ßÊÛ ÍÉ
+           ÝßÔÙßÎÇô ßÞ ÌîÐ ïÞì
+                                      Ð»®-±²¿´ Ð®±°»®¬§ Î»¹·-¬®§
+                                        Í»¿®½¸ Î»-«´¬- Î»°±®¬          Ð¿¹» ëë ±º ëé
+
+                                              Í»¿®½¸ ×Ü ýæ Æïèïëìíîì
+
+
+Ý®»¼·¬±®ø-÷
+Þ´±½µ                                                                  Í¬¿¬«-
+                                                                       Ý«®®»²¬
+ï       ÍÌßÎÌÛÝ ÎÛÚÎ×ÙÛÎßÌ×ÑÒ ÍÛÎÊ×ÝÛÍ ÔÌÜò
+        ÐÑ ÞÑÈ îëïðîô ÜÛÛÎ ÐßÎÕ ÎÐÑ
+        ÎÛÜ ÜÛÛÎô ßÞ ÌìÎ îÓî
+        Û³¿·´æ ©»-«»à«-«»ò½¿
+                                                    Ð»®-±²¿´ Ð®±°»®¬§ Î»¹·-¬®§
+                                                        Í»¿®½¸ Î»-«´¬- Î»°±®¬                        Ð¿¹» ëê ±º ëé
+
+                                                            Í»¿®½¸ ×Ü ýæ Æïèïëìíîì
+
+Þ«-·²»-- Ü»¾¬±® Í»¿®½¸ Ú±®æ
+ÝÔÛÑ ÛÒÛÎÙÇ ÝÑÎÐ
+Í»¿®½¸ ×Ü ýæ Æïèïëìíîì                     Ü¿¬» ±º Í»¿®½¸æ îðîìóÜ»½óðë        Ì·³» ±º Í»¿®½¸æ ïëæïïæðë
+
+
+
+
+Î»¹·-¬®¿¬·±² Ò«³¾»®æ îìïðíðíîéíë                Î»¹·-¬®¿¬·±² Ì§°»æ ÉÎ×Ì ÑÚ ÛÒÚÑÎÝÛÓÛÒÌ
+     Î»¹·-¬®¿¬·±² Ü¿¬»æ îðîìóÑ½¬óíð            Î»¹·-¬®¿¬·±² Í¬¿¬«-æ Ý«®®»²¬
+                                                       Û¨°·®§ Ü¿¬»æ îðîêóÑ½¬óíð îíæëçæëç
+
+
+
+                                    ×--«»¼ ·² Ý¿´¹¿®§ Ö«¼·½·¿´ Ý»²¬®»
+                        Ý±«®¬ Ú·´» Ò«³¾»® ·- îíðïóïíçèì
+                           Ö«¼¹³»²¬ Ü¿¬» ·- îðîìóÑ½¬óïè
+                     Ì¸·- É®·¬ ©¿- ·--«»¼ ±² îðîìóÑ½¬óíð
+                        Ì§°» ±º Ö«¼¹³»²¬ ·- Ñ¬¸»®
+    Ñ®·¹·²¿´ Ö«¼¹³»²¬ ß³±«²¬æ üîéìôéðèòéí                                     Ý±-¬- ß®»æ üðòðð
+       Ð±-¬ Ö«¼¹³»²¬ ×²¬»®»-¬æ üðòðð                              Ý«®®»²¬ ß³±«²¬ Ñ©·²¹æ üïïéôçççòçè
+
+
+
+
+      Û¨¿½¬ Ó¿¬½¸ ±²æ      Ü»¾¬±®              Ò±æ ï
+
+
+ß³»²¼³»²¬- ¬± Î»¹·-¬®¿¬·±²
+
+îìïïðïïéíïî                                      ß³»²¼³»²¬                                 îðîìóÒ±ªóðï
+
+
+
+Í±´·½·¬±® ñ ß¹»²¬
+
+
+           ÓÔÌ ß×Õ×ÒÍ ÔÔÐóßÌÌÒóÝßÌÎ×Òß Öò ÉÛÞÍÌÛÎñÔËÕÛ ÞÛÒÜÕÑÉÍÕ×
+           îïðð îîî í ßÊÛÒËÛ ÍÉ
+           ÝßÔÙßÎÇô ßÞ ÌîÐ ðÞì
+           Ð¸±²» ýæ ìðí êçí ìíðð           Ú¿¨ ýæ ìðí ëðè ìíìç
+           Û³¿·´æ ½¿´Á©®·¬à³´¬¿·µ·²-ò½±³
+
+
+Ü»¾¬±®ø-÷
+Þ´±½µ                                                                                                    Í¬¿¬«-
+                                                                                                         Ý«®®»²¬
+ï          ÝÔÛÑ ÛÒÛÎÙÇ ÝÑÎÐò
+           îððóïïé è ßÊÛ ÍÉ
+           ÝßÔÙßÎÇô ßÞ ÌîÐ ïÞì
+                                         Ð»®-±²¿´ Ð®±°»®¬§ Î»¹·-¬®§
+                                            Í»¿®½¸ Î»-«´¬- Î»°±®¬        Ð¿¹» ëé ±º ëé
+
+                                                Í»¿®½¸ ×Ü ýæ Æïèïëìíîì
+
+
+Ý®»¼·¬±®ø-÷
+Þ´±½µ                                                                    Í¬¿¬«-
+                                                                         Ý«®®»²¬
+ï       ÊÛÎÌÛÈ ÐÎÑÚÛÍÍ×ÑÒßÔ ÍÛÎÊ×ÝÛÍ ÔÌÜò
+        ÝñÑ îïðð îîî íÎÜ ßÊÛÒËÛ ÍÉ
+        ÝßÔÙßÎÇô ßÞ ÌîÐ ðÞì
+        Û³¿·´æ ½¿´Á©®·¬à³´¬¿·µ·²-ò½±³
+
+                                        Î»-«´¬ Ý±³°´»¬»
+December 9, 2024
+                                                                                                                          Sam Gabor
+By Hand Delivery                                                                                             Direct +1 403 298 1946
+                                                                                                         Direct Fax +1 403 263 9193
+Court of King’s Bench Accounting                                                                        Sam.Gabor@gowlingwlg.com
+                                                                                                                 File no. G10010664
+Calgary Courts Centre
+Suite 603N, 601-5th St SW
+Calgary, AB T2P 5P7
+
+Dear Sir/Mesdames:
+
+Re: In the Matter of the Notice of Intention to Make a Proposal of Cleo Energy Corp. (“Cleo”)
+
+We are legal counsel to Cleo. On December 8, 2024, pursuant to Part III of Division I of the Bankruptcy and
+Insolvency Act (Canada), Cleo filed a Notice of Intention to make a Proposal (the “NOI”) which is attached as
+Attachment 1 to this letter. Alvarez & Marsal Canada Inc. has been appointed as Proposal Trustee of Cleo.
+As a result of the filing of the NOI, a 30-day stay of proceedings has immediately taken effect (the “Stay”)
+and enforcement proceedings as against Cleo are stayed.
+
+Certain garnishee summon have been issued by the Court upon Cleo and Royal Bank of Canada (“RBC”)
+with respect to Cleo’s deposit accounts located at its RBC’s branch in Calgary, Alberta (the “Garnishee
+Summons”). The Garnishee Summons are summarized as follows:
+
+         1.       Morganic Blending Services Corp. - $152,436.18 – Court File No. 2401-10333
+
+         2.       Vertex Professional Services Ltd. - $275,708.73 – Court File No. 2301-13984
+
+         3.       Startec Refrigeration Services Ltd. - $155,799.02 – Court File No. 2401-11952
+
+In the event RBC pays funds into Court pursuant to the Garnishee Summons and as a result of the automatic
+stay pursuant to the filing of the NOI, all amounts received by the Court are required to be paid to Cleo.
+Accordingly, please provide any amounts paid into Court as a result of garnishments issued against Cleo to
+the following address:
+
+         Gowling WLG (Canada) LLP
+         Attention: Sam Gabor
+         Suite 1600, 421 7th Avenue,
+         Calgary, Alberta, T2P 4K9
+
+
+
+
+Gowling WLG (Canada) LLP                   T +1 403 298 1000   Gowling WLG (Canada) LLP is a member of Gowling WLG, an international law firm
+                                                               which consists of independent and autonomous entities providing services around
+Suite 1600, 421 7th Avenue SW              F +1 403 263 9193   the world. Our structure is explained in more detail at gowlingwlg.com/legal.
+Calgary AB T2P 4K9 Canada                  gowlingwlg.com
+
+65503027\3
+Please contact our office if you require any further clarification.
+
+Sincerely,
+
+Gowling WLG (Canada) LLP
+
+
+
+Sam Gabor
+
+SG:sz
+Enclosures
+
+c.c. via email – Alvarez & Marsal Canada Inc. – Attention: Orest Konowalchuk – Proposal Trustee
+c.c via email – MLT Aikins – Attention: Catrina Webster – Counsel for Vertex Professional Services Ltd.
+c.c. via email - Morganic Blending Services Corp. – Kenpratherts@shaw.ca
+c.c. via email - Startec Refrigeration Services Ltd. – wesue@usue.ca
+
+
+
+
+                                                                                                     Page 2
+65503027\3
+                          ATTACHMENT 1
+             NOTICE OF INTENTION TO MAKE A PROPOSAL
+
+
+
+
+                                                      Page 3
+65503027\3
+Ü·-¬®·½¬ ±º   ß´¾»®¬¿
+Ü·ª·-·±² Ò±ò ðî ó Ý¿´¹¿®§
+Ý±«®¬ Ò±ò     îëóíïêíìíð
+Û-¬¿¬» Ò±ò    îëóíïêíìíð
+
+
+                            ×² ¬¸» Ó¿¬¬»® ±º ¬¸» Ò±¬·½» ±º ×²¬»²¬·±² ¬± ³¿µ» ¿ °®±°±-¿´ ±ºæ
+
+                                                       ÝÔÛÑ Û²»®¹§ Ý±®°ò
+
+                                                         ×²-±´ª»²¬ Ð»®-±²
+
+                                            ßÔÊßÎÛÆ ú ÓßÎÍßÔ ÝßÒßÜß ×ÒÝò
+                                                   Ô·½»²-»¼ ×²-±´ª»²½§ Ì®«-¬»»
+
+
+Ü¿¬» ±º ¬¸» Ò±¬·½» ±º ×²¬»²¬·±²æ                                                 Ü»½»³¾»® ðèô îðîì
+
+
+
+                   ÝÛÎÌ×Ú×ÝßÌÛ ÑÚ Ú×Ô×ÒÙ ÑÚ ß ÒÑÌ×ÝÛ ÑÚ ×ÒÌÛÒÌ×ÑÒ ÌÑ ÓßÕÛ ß ÐÎÑÐÑÍßÔ
+                                              Í«¾-»½¬·±² ëðòì øï÷
+
+
+
+
+×ô ¬¸» «²¼»®-·¹²»¼ô Ñºº·½·¿´ Î»½»·ª»® ·² ¿²¼ º±® ¬¸·- ¾¿²µ®«°¬½§ ¼·-¬®·½¬ô ¼± ¸»®»¾§ ½»®¬·º§ ¬¸¿¬ ¬¸» ¿º±®»²¿³»¼ ·²-±´ª»²¬ °»®-±²
+º·´»¼ ¿ Ò±¬·½» ±º ×²¬»²¬·±² ¬± Ó¿µ» ¿ Ð®±°±-¿´ «²¼»® -«¾-»½¬·±² ëðòì øï÷ ±º ¬¸» Þ¿²µ®«°¬½§ ¿²¼ ×²-±´ª»²½§ ß½¬å
+Ð«®-«¿²¬ ¬± -«¾-»½¬·±² êçò øï÷ ±º ¬¸» ß½¬ô ¿´´ °®±½»»¼·²¹- ¿¹¿·²-¬ ¬¸» ¿º±®»²¿³»¼ ·²-±´ª»²¬ °»®-±² ¿®» -¬¿§»¼ ¿- ±º ¬¸» ¼¿¬» ±º
+º·´·²¹ ±º ¬¸» Ò±¬·½» ±º ×²¬»²¬·±²ò
+                                                                                                   Ü¿¬»æ Ü»½»³¾»® ðçô îðîìô ïïæìì
+ÛóÚ·´»ñÜ7°,¬ Û´»½¬®±²·¯«»                                                                                         Ñºº·½·¿´ Î»½»·ª»®
+                           Ø¿®®§ Ø¿§­ Þ«·´¼·²¹ô îîð ó ì¬¸ ßª» ÍÛô Í«·¬» ìéèôÝ¿´¹¿®§ôß´¾»®¬¿ôÝ¿²¿¼¿ôÌîÙìÈíôøèéé÷íéêóççðî
+December 9, 2024
+                                                                                                                          Sam Gabor
+VIA EMAIL TO: kenpratherts@shaw.ca                                                                           Direct +1 403 298 1946
+                                                                                                         Direct Fax +1 403 263 9193
+                                                                                                        Sam.Gabor@gowlingwlg.com
+Morganick Blending Services Corp.                                                                                File no. G10010664
+#105, 412 53 Avenue SE
+Calgary, AB T2H 0N4
+
+Dear Sir/Mesdames:
+
+Re: Notice Of Intention to Make a Proposal Filed by Cleo Energy Corp. (“Cleo”) and
+    Garnishee Summons made by Morganick Blending Services Corp. (“Morganic”)
+
+We are legal counsel to Cleo. On December 8, 2024, pursuant to Part III of Division I of the Bankruptcy and
+Insolvency Act (Canada), Cleo filed a Notice of Intention to make a Proposal (the “NOI”) which is attached
+hereto as Attachment 1 to this letter. Alvarez & Marsal Canada Inc. has been appointed as Proposal Trustee
+of Cleo.
+
+As a result of the filing of the NOI, a 30-day stay of proceedings has immediately taken effect (the “Stay”)
+and enforcement proceedings as against Cleo are stayed. Further, no new enforcement remedies may be
+commenced or continued as against Cleo during the Stay, including garnishee summons issued by
+Morganick as against Cleo.
+
+Morganick previously obtained a writ of enforcement against Cleo and subsequently issued a garnishee
+summons in the amount of $152,436.18 (Alberta Court Number 2401-10333) upon Cleo and the Royal Bank
+of Canada (“RBC”) with respect to Cleo’s accounts with RBC. As a result of the automatic Stay implemented
+by the filing of NOI, any funds that your office or your client receive from the Court of King’s Bench of Alberta
+as a result of the aforementioned garnishee summons are required to be immediately repaid to Cleo. Please
+advise if you or your client have received any funds from the Court and confirm that upon reception of funds,
+that they will be paid either to Cleo or our office.
+
+Should you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+
+Gowling WLG (Canada) LLP
+
+
+
+
+Sam Gabor
+
+SG
+Enclosure
+c.c. via email – Alvarez & Marsal Canada Inc. – Attention: Orest Konowalchuk – Proposal Trustee
+
+
+
+Gowling WLG (Canada) LLP                   T +1 403 298 1000   Gowling WLG (Canada) LLP is a member of Gowling WLG, an international law firm
+                                                               which consists of independent and autonomous entities providing services around
+Suite 1600, 421 7th Avenue SW              F +1 403 263 9193   the world. Our structure is explained in more detail at gowlingwlg.com/legal.
+Calgary AB T2P 4K9 Canada                  gowlingwlg.com
+
+65506292\2
+                          ATTACHMENT 1
+             NOTICE OF INTENTION TO MAKE A PROPOSAL
+
+
+
+
+                                                      Page 2
+65506292\2
+Ü·-¬®·½¬ ±º   ß´¾»®¬¿
+Ü·ª·-·±² Ò±ò ðî ó Ý¿´¹¿®§
+Ý±«®¬ Ò±ò     îëóíïêíìíð
+Û-¬¿¬» Ò±ò    îëóíïêíìíð
+
+
+                            ×² ¬¸» Ó¿¬¬»® ±º ¬¸» Ò±¬·½» ±º ×²¬»²¬·±² ¬± ³¿µ» ¿ °®±°±-¿´ ±ºæ
+
+                                                       ÝÔÛÑ Û²»®¹§ Ý±®°ò
+
+                                                         ×²-±´ª»²¬ Ð»®-±²
+
+                                            ßÔÊßÎÛÆ ú ÓßÎÍßÔ ÝßÒßÜß ×ÒÝò
+                                                   Ô·½»²-»¼ ×²-±´ª»²½§ Ì®«-¬»»
+
+
+Ü¿¬» ±º ¬¸» Ò±¬·½» ±º ×²¬»²¬·±²æ                                                 Ü»½»³¾»® ðèô îðîì
+
+
+
+                   ÝÛÎÌ×Ú×ÝßÌÛ ÑÚ Ú×Ô×ÒÙ ÑÚ ß ÒÑÌ×ÝÛ ÑÚ ×ÒÌÛÒÌ×ÑÒ ÌÑ ÓßÕÛ ß ÐÎÑÐÑÍßÔ
+                                              Í«¾-»½¬·±² ëðòì øï÷
+
+
+
+
+×ô ¬¸» «²¼»®-·¹²»¼ô Ñºº·½·¿´ Î»½»·ª»® ·² ¿²¼ º±® ¬¸·- ¾¿²µ®«°¬½§ ¼·-¬®·½¬ô ¼± ¸»®»¾§ ½»®¬·º§ ¬¸¿¬ ¬¸» ¿º±®»²¿³»¼ ·²-±´ª»²¬ °»®-±²
+º·´»¼ ¿ Ò±¬·½» ±º ×²¬»²¬·±² ¬± Ó¿µ» ¿ Ð®±°±-¿´ «²¼»® -«¾-»½¬·±² ëðòì øï÷ ±º ¬¸» Þ¿²µ®«°¬½§ ¿²¼ ×²-±´ª»²½§ ß½¬å
+Ð«®-«¿²¬ ¬± -«¾-»½¬·±² êçò øï÷ ±º ¬¸» ß½¬ô ¿´´ °®±½»»¼·²¹- ¿¹¿·²-¬ ¬¸» ¿º±®»²¿³»¼ ·²-±´ª»²¬ °»®-±² ¿®» -¬¿§»¼ ¿- ±º ¬¸» ¼¿¬» ±º
+º·´·²¹ ±º ¬¸» Ò±¬·½» ±º ×²¬»²¬·±²ò
+                                                                                                   Ü¿¬»æ Ü»½»³¾»® ðçô îðîìô ïïæìì
+ÛóÚ·´»ñÜ7°,¬ Û´»½¬®±²·¯«»                                                                                         Ñºº·½·¿´ Î»½»·ª»®
+                           Ø¿®®§ Ø¿§­ Þ«·´¼·²¹ô îîð ó ì¬¸ ßª» ÍÛô Í«·¬» ìéèôÝ¿´¹¿®§ôß´¾»®¬¿ôÝ¿²¿¼¿ôÌîÙìÈíôøèéé÷íéêóççðî
+December 9, 2024
+                                                                                                                        Sam Gabor
+VIA EMAIL TO: jason.enns@rbc.com and ennsassociates@rbc.com                                                Direct +1 403 298 1946
+                                                                                                       Direct Fax +1 403 263 9193
+                                                                                                      Sam.Gabor@gowlingwlg.com
+Jason Enns                                                                                                     File no. G10010664
+Royal bank of Canada
+Suite 300, 335 8th Avenue SW
+Calgary, AB T2P 1C9
+
+Ruth James
+Royal Bank of Canada
+Suite 300, 335 8th Avenue SW
+Calgary, AB T2P 1C9
+
+Dear Jason Enns & Ruth James:
+
+Re: Notice Of Intention to Make a Proposal Filed by Cleo Energy Corp. (“Cleo”)
+
+We are legal counsel to Cleo. On December 8, 2024, pursuant to Part III of Division I of the Bankruptcy
+and Insolvency Act (Canada), Cleo filed a Notice of Intention to make a Proposal (the “NOI”) which is
+attached hereto as Schedule “A” to this letter. Alvarez & Marsal Canada Inc. has been appointed as
+the Proposal Trustee of Cleo for its NOI proceeding.
+
+As a result of the filing of the NOI, a 30-day stay of proceedings has immediately taken effect (the “Stay”)
+and all enforcement proceedings as against Cleo are stayed. Further, no new enforcement proceedings
+may be commenced or continued as against Cleo during the Stay, including the enforcement of any
+garnishee summons.
+
+As a result of the Stay, it is necessary that Royal Bank of Canada (“RBC”) immediately unlock Cleo’s
+bank account no. 1222041, and any of Cleo’s other accounts with RBC (the “Accounts”), which were
+previously frozen due to any garnishee summons served upon RBC, including the following:
+
+    1. Morganic Blending Services Corp. - $152,436.18 – Court File No. 2401-10333
+
+    2. Vertex Professional Services Ltd. - $274,708.73 – Court File No. 2301-13984
+
+    3. Startec Refrigeration Services Ltd. - $155,799.02 – Court File No. 2401-11952
+
+Furthermore, any garnishee payments currently in process are required to be immediately suspended
+and all funds must remain in the Accounts. We also ask that any cheques issued to the Court of King’s
+Bench of Alberta (the “Court”) based on any garnishee summons received by RBC, including those
+above, be immediately cancelled. Finally, during the Stay, the Accounts may not be re-locked as a result
+of any further garnishee summons served upon RBC.
+
+It is critical that the Accounts with RBC be immediately unlocked today as Cleo is dependent on the
+amounts therein to maintain its operations during the Stay, to meet its cash flow needs on a go forward
+
+
+Gowling WLG (Canada) LLP                 T +1 403 298 1000   Gowling WLG (Canada) LLP is a member of Gowling WLG, an international law firm
+                                                             which consists of independent and autonomous entities providing services around
+Suite 1600, 421 7th Avenue SW            F +1 403 263 9193   the world. Our structure is explained in more detail at gowlingwlg.com/legal.
+Calgary AB T2P 4K9 Canada                gowlingwlg.com
+
+65502964\1
+basis (this includes Cleo making payroll this week), and for Cleo to be able to make a viable proposal to
+its creditors within the NOI proceedings.
+
+Kindly provide a response today confirming that the Accounts have been unlocked and Cleo has access
+to the Accounts. Please also confirm that any prior cheques issued to the Court but not yet deposited
+with the Court will be cancelled by RBC.
+
+Should you have any questions, please do not hesitate to contact us.
+
+Sincerely,
+
+Gowling WLG (Canada) LLP
+
+
+
+
+Sam Gabor
+
+
+SG
+
+Enclosures
+
+c.c. via email – Alvarez & Marsal Canada Inc. – Attention: Orest Konowalchuk – Proposal Trustee
+
+
+
+
+                                                                                                   Page 2
+65502964\1
+                          Schedule “A”
+             Notice of Intention to Make a Proposal
+
+
+
+
+                                                      Page 3
+65502964\1
+Ü·-¬®·½¬ ±º   ß´¾»®¬¿
+Ü·ª·-·±² Ò±ò ðî ó Ý¿´¹¿®§
+Ý±«®¬ Ò±ò     îëóíïêíìíð
+Û-¬¿¬» Ò±ò    îëóíïêíìíð
+
+
+                            ×² ¬¸» Ó¿¬¬»® ±º ¬¸» Ò±¬·½» ±º ×²¬»²¬·±² ¬± ³¿µ» ¿ °®±°±-¿´ ±ºæ
+
+                                                       ÝÔÛÑ Û²»®¹§ Ý±®°ò
+
+                                                         ×²-±´ª»²¬ Ð»®-±²
+
+                                            ßÔÊßÎÛÆ ú ÓßÎÍßÔ ÝßÒßÜß ×ÒÝò
+                                                   Ô·½»²-»¼ ×²-±´ª»²½§ Ì®«-¬»»
+
+
+Ü¿¬» ±º ¬¸» Ò±¬·½» ±º ×²¬»²¬·±²æ                                                 Ü»½»³¾»® ðèô îðîì
+
+
+
+                   ÝÛÎÌ×Ú×ÝßÌÛ ÑÚ Ú×Ô×ÒÙ ÑÚ ß ÒÑÌ×ÝÛ ÑÚ ×ÒÌÛÒÌ×ÑÒ ÌÑ ÓßÕÛ ß ÐÎÑÐÑÍßÔ
+                                              Í«¾-»½¬·±² ëðòì øï÷
+
+
+
+
+×ô ¬¸» «²¼»®-·¹²»¼ô Ñºº·½·¿´ Î»½»·ª»® ·² ¿²¼ º±® ¬¸·- ¾¿²µ®«°¬½§ ¼·-¬®·½¬ô ¼± ¸»®»¾§ ½»®¬·º§ ¬¸¿¬ ¬¸» ¿º±®»²¿³»¼ ·²-±´ª»²¬ °»®-±²
+º·´»¼ ¿ Ò±¬·½» ±º ×²¬»²¬·±² ¬± Ó¿µ» ¿ Ð®±°±-¿´ «²¼»® -«¾-»½¬·±² ëðòì øï÷ ±º ¬¸» Þ¿²µ®«°¬½§ ¿²¼ ×²-±´ª»²½§ ß½¬å
+Ð«®-«¿²¬ ¬± -«¾-»½¬·±² êçò øï÷ ±º ¬¸» ß½¬ô ¿´´ °®±½»»¼·²¹- ¿¹¿·²-¬ ¬¸» ¿º±®»²¿³»¼ ·²-±´ª»²¬ °»®-±² ¿®» -¬¿§»¼ ¿- ±º ¬¸» ¼¿¬» ±º
+º·´·²¹ ±º ¬¸» Ò±¬·½» ±º ×²¬»²¬·±²ò
+                                                                                                   Ü¿¬»æ Ü»½»³¾»® ðçô îðîìô ïïæìì
+ÛóÚ·´»ñÜ7°,¬ Û´»½¬®±²·¯«»                                                                                         Ñºº·½·¿´ Î»½»·ª»®
+                           Ø¿®®§ Ø¿§­ Þ«·´¼·²¹ô îîð ó ì¬¸ ßª» ÍÛô Í«·¬» ìéèôÝ¿´¹¿®§ôß´¾»®¬¿ôÝ¿²¿¼¿ôÌîÙìÈíôøèéé÷íéêóççðî
+December 11, 2024
+                                                                                                                         Sam Gabor
+VIA EMAIL TO: jason.enns@rbc.com                                                                            Direct +1 403 298 1946
+                                                                                                        Direct Fax +1 403 263 9193
+                                                                                                       Sam.Gabor@gowlingwlg.com
+Jason Enns                                                                                                      File no. G10010664
+Royal bank of Canada
+Suite 300, 335 8th Avenue SW
+Calgary, AB T2P 1C9
+
+Dear Jason Enns:
+
+Re: Notice Of Intention to Make a Proposal Filed by Cleo Energy Corp. (“Cleo”)
+
+We are legal counsel to Cleo. We are writing further to our letter dated December 9, 2024 (the
+“December 9 Letter”). All capitalized terms herein have the meaning set out in the December 9 Letter.
+
+We have been advised by Cleo that it has been granted access to its accounts with RBC and we thank
+RBC for taking those proactive steps.
+
+Concurrently, Cleo advises us that as of the time of this letter, the most recent garnishee cheque sent
+by RBC to the Court has not been cancelled and the applicable funds have not yet been returned into
+Cleo’s Accounts with RBC. Our client has contacted the Court this afternoon which has advised it has
+not received the cheque from RBC. The Stay requires that the garnished funds be available to Cleo as
+no creditor is entitled to continue enforcement against the funds.
+
+Cleo is required to make payroll this Friday. Cleo has determined that the aforementioned funds will be
+required to do so and for Cleo to maintain its operations. As you can appreciate, it is now critical that the
+cheque be cancelled and funds made available in the Accounts as soon as possible and no later than
+end of day Thursday, December 12, 2024, so Cleo can make payroll Friday. If Cleo is unable to make
+payroll, its oil and gas assets will be placed into significant jeopardy creating potential environmental
+issues and risk of significant loss to Cleo and its creditors which are owed in excess of $23,000,000.
+Cleo must make payroll to be in a position to maintain its oil and gas assets, continue carrying on
+business and proceed forward with the NOI proceeding for the benefit of its stakeholders.
+
+Based on the foregoing, we would respectfully ask that you please confirm today that the previously
+issued cheque sent to the Court is being cancelled by RBC and the applicable funds will be available in
+Cleo’s Accounts by end of day Thursday.
+
+
+
+
+Gowling WLG (Canada) LLP                  T +1 403 298 1000   Gowling WLG (Canada) LLP is a member of Gowling WLG, an international law firm
+                                                              which consists of independent and autonomous entities providing services around
+Suite 1600, 421 7th Avenue SW             F +1 403 263 9193   the world. Our structure is explained in more detail at gowlingwlg.com/legal.
+Calgary AB T2P 4K9 Canada                 gowlingwlg.com
+
+65553867\2
+Please contact me if you have any questions
+
+
+Sincerely,
+
+Gowling WLG (Canada) LLP
+
+
+
+Sam Gabor
+
+SG
+
+c.c. via email – Alvarez & Marsal Canada Inc. – Attention: Orest Konowalchuk – Proposal Trustee
+c.c. via email – Chris Lewis
+
+
+
+
+                                                                                              Page 2
+65553867\2
+

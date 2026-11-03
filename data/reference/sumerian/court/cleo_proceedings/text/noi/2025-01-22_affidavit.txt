@@ -1,0 +1,345 @@
+                                                                                       COM               Form 49
+                                                                                       Jan 22, 2025
+                                                                                                        Rule 13.19
+
+                                                                                                   FILED
+                                                                                                   Clerk's Stamp
+
+ COURT FILE NO.                 B301-163430                                                       Jan 21, 2025
+                                                                                                  C11121
+ COURT                          COURT OF KING'S BENCH OF ALBERTA                                   by Email
+ JUDICIAL CENTRE                CALGARY
+
+                                IN THE MATTER OF THE BANKRUPTCY AND INSOLVENCY ACT, RSC
+                                1985, C C-8, AS AMENDED
+                                AND IN THE MATTER OF THE NOTICE OF INTENTION TO MAKE A
+                                PROPOSAL OF CLEO ENERGY CORP.
+ APPLICANTS                     CLEO ENERGY CORP.
+
+ DOCUMENT                       AFFIDAVIT
+
+ ADDRESS FOR                    Gowling WLG (Canada) LLP
+ SERVICE AND                    1600, 421 – 7th Avenue SW
+ CONTACT                        Calgary, AB T2P 4K9
+ INFORMATION OF
+                                Attn:        Sam Gabor/Tom Cumming
+ PARTY FILING THIS
+ DOCUMENT                       Phone:       (403) 298-1946 / (403) 298-1938
+                                Fax:         (403) 263-9193
+                                File No.:    G10010664
+
+                                        AFFIDAVIT OF CHRIS LEWIS
+                                           Sworn January 20, 2025
+
+             I, CHRIS LEWIS, of the City of Calgary, in the Province of Alberta, MAKE OATH AND SAY
+THAT:
+
+1.           I am the sole Director, Executive Chairman, and Chief Executive Officer of Cleo Energy Corp.
+             (“Cleo”). As such I have personal knowledge of the matters herein deposed to, except where stated
+             to be based upon information and belief, in which case I verily believe same to be true.
+
+2.           I am authorized to swear this Affidavit as corporate representative of Cleo.
+
+3.           In preparing this Affidavit, I consulted with Cleo’s management and their legal, financial and other
+             advisors. I also reviewed Cleo’s business records relevant to these proceedings and have satisfied
+             myself that I am possessed of sufficient information and knowledge to swear this Affidavit.
+
+4.           All references to dollar amounts contained herein are to Canadian Dollars unless otherwise stated.
+
+
+66043284\6
+Rev. 2.0 (15/11/10)
+                                                     -2-
+
+Relief Requested
+
+5.      This Affidavit is sworn in support of an Application by Cleo for an Order under the Bankruptcy
+        and Insolvency Act, RSC 1985, c B-3, as amended (the “BIA”) for the following relief:
+
+        (a)     abridging the time for service of notice of this Application, deeming service of notice of
+                this Application to be good and sufficient, and declaring that there is no other person who
+                ought to have been served with notice of this Application;
+
+        (b)     approving Cleo’s proposed sale and solicitation process (“Sale Process”), substantially in
+                the form attached as Appendix “A” to the Order, and declaring the Sale Process to be
+                commercially reasonable;
+
+        (c)     authorizing and directing the Cleo, with the advice and assistance of the Proposal Trustee
+                and Sayer, to conduct the Sale Process and do all things reasonably necessary to give full
+                effect thereto; and
+
+        (d)     such further and other relief as Cleo may request and this Honourable Court may grant.
+
+        Unless defined in this Affidavit, capitalized terms have the meanings given to them in the Sale
+        Process.
+
+Background
+
+6.      Cleo is a privately owned oil and gas operator of medium gravity oil based in Calgary, Alberta with
+        operations throughout East Central Alberta that has been operating since its incorporation in 2016.
+        Cleo is a wholly owned subsidiary of Chimera Management Group Ltd. Cleo does not own shares
+        in any other corporation.
+
+7.      Cleo’s revenue is primarily linked to the productivity of its wells, as well as the market price of oil.
+
+8.      Cleo has recently experienced a significant reduction in production levels due to several factors,
+        including:
+
+        (a)     lack of repair and maintenance required at several of its main producing fields causing shut
+                ins of wells;
+
+
+
+
+66043284\6
+                                                    -3-
+
+        (b)      shut downs of its oil producing assets following verbal directives issued to Cleo by the
+                 Alberta Energy Regulator (“AER”);
+
+        (c)      thefts and vandalism at its oil and gas fields causing shutdowns over time and a recent
+                 complete shut down of Cleo’s largest oil and gas field; and
+
+        (d)      lower prices recovered by Cleo for its oil and gas production.
+
+        As a result of these issues, Cleo is currently unable to meet its obligations as they become due and
+        its liabilities exceed its assets.
+
+9.      Cleo has total indebtedness of approximately $24,102,898, of which approximately $6.7 million is
+        secured indebtedness owing to a number of secured creditors.
+
+10.     On December 8, 2024, Cleo filed a notice of intention to make a proposal (a “NOI”, and the
+        proceedings commenced thereby, the “Proposal Proceedings”) under Section 50.4 of Division I
+        of Part III of the BIA with the Office of the Superintendent of Bankruptcy (the “OSB”). Alvarez &
+        Marsal Canada Inc. (“A&M”) was named as proposal trustee of Cleo.
+
+11.     On December 26, 2024, the Honourable Justice M.H. Hollins released an endorsement preventing
+        Trafigura Canada Limited (“Trafigura”) from exercising set-off of amounts owing to Cleo by
+        Trafigura under a commercial agreement dated July 12, 2024 against un-matured amounts owing
+        to Trafigura by Cleo under a prepayment agreement dated July 9, 2024.
+
+12.     On January 6, 2025, the Honourable Justice Lema granted an Order:
+
+        (a)      extending the period within which Cleo is required to file a proposal to February 21, 2025;
+
+        (b)      granting in favour of the Proposal Trustee and its counsel and counsel for Cleo a super-
+                 priority security and charge against on all present and after-acquired property of Cleo to
+                 secure their reasonable professional fees and disbursements;
+
+        (c)      approving an interim financing facility (the “Interim Loan”) in the maximum principal
+                 amount of $750,000 and granting a super-priority charge to secure the obligations of Cleo
+                 to the interim lender under the DIP Loan; and
+
+
+
+
+66043284\6
+                                                      -4-
+
+        (d)     granting a charge in favour of the directors and officers of Cleo to secure Cleo’s obligation
+                to indemnify the directors and officers in respect of certain liabilities incurred by them
+                during the Proposal Proceedings.
+
+Sale Process
+
+13.     Cleo and the Proposal Trustee have developed the Sale Process under which all of Cleo’s Property
+        will be marketed and sold. Cleo has also engaged Sayer Energy Advisors (“Sayer”) to act as sales
+        agent in the Sales Process and to assist and advise Cleo and the Proposal Trustee in there carrying
+        out of the Sale Process. The Sale Process can also accommodate an investment transaction pursuant
+        to which Cleo is restructured.
+
+14.     Cleo, with the assistance of Sayer and the Proposal Trustee, is in the process of compiling a list of
+        strategic and financial parties who may be interested in bidding in the Sale Process (“Potential
+        Bidders”) and has prepared the templates of a non-disclosure agreement (a “NDA”), non-binding
+        letter of intent (a “Non-Binding LOI”) and an asset purchase agreement (a “Template APA”).
+        Sayer is in the process of creating a virtual data room (the “VDR”) which will include due diligence
+        and information pertaining to Cleo’s business, operations and property. Sayer is also preparing a
+        teaser letter describing the Sale Process and inviting interested parties to participate and bid in the
+        Sale Process (the “Teaser”).
+
+15.     Should this Honourable Court grant an Order giving the relief sought herein:
+
+        (a)     Sayer and the Company will contact known Potential Bidders to determine their interest in
+                participating in the Sale Process by forwarding them the Teaser, and if interested, providing
+                them with a copy of the Sale Process and NDA; and
+
+        (b)     Sayer will publish notices of the Sale Process in the Daily Oil Bulletin, Insolvency Insider
+                and any other publications or newswires identified by the Proposal Trustee.
+
+16.     The Sale Process contemplates a two phase marketing process with the following milestones:
+
+                                Date                                                 Action
+         January 22, 2025                                      Date of launch of the Sale Process
+         February 25, 2025, or such later date as determined   Date by which a Non-Binding Bid must be
+         by the Proposal Trustee in consultation with Cleo     submitted
+         and Sayer (the “Non-Binding LOI Submission
+         Date”)
+
+
+
+
+66043284\6
+                                                      -5-
+
+                                 Date                                              Action
+         March 13, 2025, or such later date as determined by   Date by which a Qualified Bid must be submitted
+         the Proposal Trustee in consultation with Cleo and
+         Sayer (the “Binding Bid Submission Date”)
+         Week of March 24, 2025, or as soon thereafter as      Proposed week within which Court approval of
+         Court time can be confirmed, or such later date as    one or more sales will be sought
+         determined by the Proposal Trustee in consultation
+         with Cleo and Sayer
+         March 31, 2025, or 3 days after Court approval is     Proposed closing date for sales
+         obtained (a “Target Closing Date”)
+         April 18, 2025 (the “Outside Date”)                   Outside date for completing sale transactions
+
+
+
+        Under the Sale Process, the Proposal Trustee has the discretion to modify the milestone dates set
+        out above.
+
+17.     In the first phase of the Sale Process, the Proposal Trustee, Cleo and Sayer will send the Teasers to
+        Potential Bidders to make them aware of the Sale Process. Potential Bidders who sign NDAs are
+        given access to the VDR in order to carry out due diligence.
+
+18.     Any Potential Bidder interesting in bidding must submit a Non-Binding LOI by no later than the
+        Non-Binding LOI Submission Date. The Non-Binding LOI must comply with the requirements
+        set out in paragraph 23 of the Sale Process, including setting out the proposed structure of the
+        consideration payable under the proposed transaction, providing sufficient disclosure of their
+        financial condition and credit quality (or enhancements) so as to allow the Proposal Trustee to make
+        a reasonable determination as to the Potential Bidder’s financial and other capabilities to
+        consummate such transaction, and confirming that the Potential Bidder satisfies AER requirements
+        for holding licenses.
+
+19.     Following the Non-Binding LOI Submission Date, the Proposal Trustee, in consultation with Cleo
+        and Sayer, will review each Non-Binding LOI to determine whether the Potential Bidder has
+        complied with the requirements of paragraph 23 of the Sale Process, has a bona fide interest in
+        concluding a transaction, and has the financial wherewithal to conclude a transaction. Provided
+        that the Proposal Trustee determines these requirements are satisfied, such Potential Bidder will be
+        designated a qualified bidder (a “Qualified Bidder”), whereupon it can advance to the second
+        phase. If the Proposal Trustee concludes that no Qualified LOI is likely to result in a Successful
+        Bid, the Proposal Trustee, in consultation with Cleo and Sayer, may terminate the Sale Process.
+
+20.     In the second phase, Qualified Bidders may carry out additional due diligence. In the second phase,
+        a Qualified Bidder must submit a binding basis in the form of the template asset purchase agreement
+
+
+66043284\6
+                                                     -6-
+
+        (a “Qualified Bid”) included in the VDR which complies with the requirements set out in
+        paragraph 28 of the Sale Process by no later than the Binding Bid Submission Date. These
+        requirements include:
+
+        (a)     submitting a deposit in an amount equal to 15% of the proposed cash consideration
+                contemplated by the Qualified Bid, which will become non-refundable upon the Qualified
+                Bid becoming a Successful Bid (other than in the circumstances contemplated in the
+                Successful Bid);
+
+        (b)     evidence of financial wherewithal to complete the transaction;
+
+        (c)     the Qualified Bid cannot be conditional on internal approvals, the outcome of any
+                unperformed due diligence, or obtaining financing;
+
+        (d)     the Qualified Bid and transaction contemplated thereby must be in compliance with AER
+                requirements; and
+
+        (e)     the Qualified Bid must disclaim any break-up or similar fees.
+
+        The transaction contemplated by the Qualified Bid must be on an “as is, where is” basis and without
+        surviving representations or warranties of any kind, nature, or description, other than as specifically
+        included in the definitive documents.
+
+21.     Following the Binding Bid Submission Date, the Proposal Trustee, in consultation with Cleo and
+        Sayer, will review each Qualified Bid to determine (a) whether the Qualified Bid is in compliance
+        with paragraph 28 of the Sale Process, (b) whether the proposed consideration is adequate, and (c)
+        whether the proposed transaction is in the best interests of Cleo, considering, among other things,
+        the criteria set out in paragraph 29 of the Sale Process. The Proposal Trustee may seek clarification
+        of the proposed terms and negotiate with the Qualified Bidder, and seek a revised Qualified Bid.
+        The Proposal Trustee, in consultation with Cleo and Sayer, may but is not obligated to select the
+        highest or best Qualified Bid(s) (each, a “Successful Bid”, and such Qualified Bidder, the
+        “Successful Bidder”) and designate any back-up bids. If the Proposal Trustee determines that no
+        Qualified Bid is likely to result in a Successful Bid, the Proposal Trustee may terminate the Sale
+        Process.
+
+22.     Once one or more Successful Bids have been identified, Cleo or the Proposal Trustee will apply to
+        this Honourable Court for an Order approving the Successful Bid(s), authorizing Cleo to enter into
+
+
+66043284\6
+                                                       -7-
+
+        any agreements required to implement the Successful Bid(s) and, if applicable, vesting the Property
+        subject thereto in the Successful Bidder(s) free and clear of all encumbrances. The Sale Process
+        contemplates that the transaction(s) contemplated by the Successful Bid(s) will close by the Target
+        Closing Date, and in any event by no later than the Outside Date.
+
+23.     I believe that the Sale Process is fair and reasonable in the circumstances and provides an
+        appropriate framework to identify and complete one or more value-maximizing transactions:
+
+        (a)     the Proposal Trustee has a great deal of experience with insolvent oil and gas producers
+                and with Court approved sale processes designed to maximize value;
+
+        (b)     Sayer has deep experience in marketing and selling the assets of oil and gas producers;
+
+        (c)     Potential Bidders should have sufficient time within which to carry out due diligence and
+                determine whether they are interested in acquiring Property; and
+
+        (d)     the Proposal Trustee, Sayer and Cleo have identified a significant number of parties
+                interested in participating in the Sale Process as Potential Bidders.
+
+Current Financial Condition of Cleo
+
+24.     As indicated in the 13-week cash flow forecast ending April 4, 2025 (the “Cash Flow Forecast”),
+        Cleo has sufficient funding from its revenues and the DIP Loan to fund it to the week of February
+        7, 2025. Cleo is working on arranging additional interim loan financing with either the Interim
+        Lender or other parties who may potentially be interested, failing which Cleo will potentially sell
+        a fields to one of its secured creditors, partly in repayment of debt and partly for cash consideration.
+        While I am optimistic that Cleo will secure sufficient working capital to complete the Sale Process,
+        either through an additional interim loan or the sale of assets, Cleo’s current financial circumstances
+        highlight the need to have an expeditious and efficient Sale Process.
+
+25.     With its extremely limited working capital, I believe that the only realistic opportunity to sell the
+        Property on a going concern basis or enter into some kind of investment and restructuring
+        transaction is pursuant to the Sale Process.
+
+26.     While the time-lines in the Sale Process are compressed, both the Proposal Trustee and Sayer have
+        informed me that they believe there is sufficient time within which to identify and complete value-
+        maximizing transactions and therefore, I believe that the Sale Process is appropriately structured to
+
+
+
+66043284\6
+        balance the need to complete any transactions arising therefrom in the period that Cleo has
+        sufficient working capital to continue operations and carry out the Sale Process, and the need to
+        maximize the value of Cleo’s business and Property realized for creditors and other stakeholders.
+
+27.     In absence of a Sale Process, there is no realistic way of restructuring Cleo or realizing value for
+         its stakeholders. In such a circumstance, Cleo will quickly run out of working capital, would have
+        to cease operations, and its licensed Property would likely have to be surrendered to the Orphan
+        Well Association. Therefore, the Sale Process provides the best vehicle for realizing value for
+        creditors and other stakeholders and for protecting the public interest.
+
+Conclusion
+
+
+28.     1 swear this Affidavit in support of an Application for the relief set out in paragraph 5 of this
+        Affidavit and for no other or improper purpose.
+
+ SWORN BEFORE ME at Calgary, Alberta,
+ this 20"' day of January, 2025.
+
+                                                                                    L
+
+
+ A 6erfnmi^sioner for Oaths/Notary Public in        )     CHRIS LEWIS
+ and for the Province of Alberta                    )
+
+             Stefan Hreno
+             Student-at-Law
+
+
+
+
+66043284\6
+
