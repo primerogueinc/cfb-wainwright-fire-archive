@@ -5,8 +5,8 @@ ad77c131d03ce1b3dba683debc4a2439eea85807a58de16f21bed6baefa4d84a  ./SUMERIAN_HEA
 b5fe8d8591f15c5214e0faa9a6ff993c5bbd70ee40d628bb6376a0d6d8acbe44  ./closeup_burn_r15_before_oct04.jpg
 bc7229a7356f31e1b77c5f08438337af98fa9e44e5f0384c82254ef99fa62f06  ./court/2025abkb621_cleo_energy_re.pdf
 1a8c178a38ad799c5a06b7917f9367d1e912ede595d575a6eb22a67f26c591c6  ./court/2026abkb742_2755857_alberta_re.pdf
-4775e6647b52a585118671de77343c127b60858d61f05277ff4637493f47c461  ./court/cleo_proceedings/DUPLICATES.csv
-d87ed49113b9f7d74394836c5e09a108612d26e8174a162fc2c7d4eb05687bd5  ./court/cleo_proceedings/INDEX.csv
+7dae09244b91e2d7b9d1ee97cfdf34582b007bdd2984cf83d044637eca5b64e8  ./court/cleo_proceedings/DUPLICATES.csv
+4ff2f654f54b6b0770dfa3a5f91ed3fcf06b1e07c74c94cf0b881cb8e25ab009  ./court/cleo_proceedings/INDEX.csv
 b79541939e09014e44411bbcdcf41b4e798097ff1dbb4c1a018c2c9f3bca100d  ./court/cleo_proceedings/README.md
 7e06c6bd4a71b9e7a3b1cd5886c8bf0d71ec9d9846f94ba9c7d9d2d285ca929f  ./court/cleo_proceedings/SITE_LISTING.csv
 32f85e5d2a5569b01aaefaa9aba08f88611a70cf957eb41f34bd04099104c7ec  ./court/cleo_proceedings/noi/2024-07-09_affidavit.pdf
@@ -45,6 +45,7 @@ cdb2b4796ef9ab7911f932796bda64ab6e03216ff166b9bd78729f50aed5d2fa  ./court/cleo_p
 8946118f4a96b17ca855498b0f0497dc21d56f0e0640eef4f42837159c9a4e38  ./court/cleo_proceedings/noi/2025-01-22_bench-brief-of-trafigura-canada-1.pdf
 d665e969233b520ec6a27b00f03307a9735260d4d72524cb4a7cfcc96fbb3160  ./court/cleo_proceedings/noi/2025-01-22_book-of-authorities-of-trafigura-canada-1.pdf
 20a8fe5b05797f76139b516551472c1b4f184f8a13b3786688db261c4c04d0c4  ./court/cleo_proceedings/noi/2025-01-22_order-sale-process.pdf
+0113cacea0f3749c6573a9e32ed85070d60d81829f1ef0564f7bc3a27c353eea  ./court/cleo_proceedings/noi/2025-01-22_service-list-as-of-january-22-2025-role-interest-delivery-counsel-to-t.pdf
 17f8045f32d04f6f64fb11a267508e6fac17c5e45969fcb8ef1d367a32244c34  ./court/cleo_proceedings/noi/2025-01-24_amended-application.pdf
 6b9bd2f2a7a31259da1b1dc4bf045518669dd2e78d536dd52db28e4378b1655b  ./court/cleo_proceedings/noi/2025-01-31_bench-brief-of-trafigura-canada-with-fiat.pdf
 fad693a4d594b17408e531989ced34be2ff1c6a3d04035ddf4264880b1df7ecc  ./court/cleo_proceedings/noi/2025-01-31_dated-at-the-city-of-calgary-in-the-30-day-of-january-2025.pdf
@@ -61,6 +62,9 @@ e3f784fe38e599df75985d4cd07822993784d3c0745e56889d32f39813956054  ./court/cleo_p
 6e2b1d4c57ac988e05463a1a8d5737a17a0824ef4456c6ce84d4a7cfed13de17  ./court/cleo_proceedings/noi/2025-03-31_order-sale-approval-and-vesting-nuova-strada-ventures-ltd.pdf
 c364e40100d0b1156eedf34cd629704583fa79a97d700bb799ab3e6613245555  ./court/cleo_proceedings/noi/2025-03-31_order-sale-approval-and-vesting-surge-energy-inc.pdf
 e17675faee6f5d63832cf3ac74797fc5ae86d6455ebaaaad9e644134f9f3d741  ./court/cleo_proceedings/noi/2025-03-31_order-stay-extension.pdf
+f67fe8b1d86109aea7d0d76b1eebced34647f1218fb75df02c8d3602ef396344  ./court/cleo_proceedings/noi/2025-04-01_proposal-trustee-s-certificate.pdf
+99871cc417f07d50cdb2246b9c4903d208b3085a7c7782d66dd95e236161d413  ./court/cleo_proceedings/noi/2025-04-01_proposal-trustee-s-certificate_2.pdf
+d27b09b407069e94faac1e163ca9930b7b431867572e8194e96b631b980d2418  ./court/cleo_proceedings/noi/2025-04-04_proposal-trustee-s-certificate.pdf
 312a2f1a36b3d84712d244b3b3841c9216f181ed92009d8c05da89b1191603f9  ./court/cleo_proceedings/noi/2025-04-22_affidavit.pdf
 f72ec5f3fc262c7ee5fa4c0d3a3ac5262280345371b0f07ac68471d57b924965  ./court/cleo_proceedings/noi/2025-04-24_fifth-report-of-alvarez-marsal-canada-inc-in-its-capacity-as-proposal-.pdf
 816263dd7855e50505d6c67c7d0861fd296d9932d91f2fe02b5c3dc1fbbdc154  ./court/cleo_proceedings/noi/2025-05-01_order-stay-extension.pdf
