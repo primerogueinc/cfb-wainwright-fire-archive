@@ -1,0 +1,2675 @@
+ COURT FILE NUMBER         2501-09028                               Clerk’s Stamp
+
+
+ COURT                     COURT OF KING’S BENCH
+                           OF ALBERTA                               FILED
+                                                                   Oct 06, 2025
+                                                                         NK
+ JUDICIAL CENTRE           CALGARY
+                                                                    by Email
+
+ APPLICANT                 UCAPITAL – ULOAN SOLUTIONS INC. COM
+                                                           Oct. 17, 2025
+ RESPONDENT                CLEO ENERGY CORP.               J. Feasby
+
+                           IN THE MATTER OF THE RECEIVERSHIP OF
+                           CLEO ENERGY CORP.
+
+
+ DOCUMENT                  FIRST REPORT OF ALVAREZ & MARSAL
+                           CANADA INC., IN ITS CAPACITY AS RECEIVER
+                           AND MANAGER OF CLEO ENERGY CORP.
+
+                           October 6, 2025
+
+ ADDRESS FOR SERVICE AND   RECEIVER
+ CONTACT INFORMATION OF    Alvarez & Marsal Canada Inc.
+ PARTY FILING THIS         Bow Valley Square IV
+ DOCUMENT                  Suite 1110, 250 - 6th Avenue SW
+                           Calgary, Alberta T2P 3H7
+                           Orest Konowalchuk / David Williams
+                           Telephone: (403) 538-4736 / (403) 538-7536
+                           Email: okonowalchuk@alvarezandmarsal.com
+                                  david.williams@alvarezandmarsal.com
+
+
+                           COUNSEL TO RECEIVER
+                           Miller Thomson LLP
+                           525 – 8th Avenue S.W. 43rd Floor
+                           Eighth Avenue Place East
+                           James Reid
+                           Telephone: (403) 298 - 2418
+                           Email: jwreid@millerthomson.com
+
+
+
+
+88018199.4
+                                           TABLE OF CONTENTS
+
+INTRODUCTION .............................................................................................................3
+
+TERMS OF REFERENCE ...............................................................................................6
+
+BACKGROUND AND OVERVIEW ...............................................................................7
+
+ACTIVITIES OF THE RECEIVER ................................................................................7
+
+UPDATE ON THE JUNE 2025 TRANSACTIONS .....................................................11
+
+REMARKETING PROCESS .........................................................................................14
+
+INTERIM STATEMENT OF RECEIPTS AND DISBURSEMENTS .......................15
+
+SHARE PURCHASE AGREEMENT ...........................................................................17
+
+REVERSE VESTING ORDER ......................................................................................20
+
+PROPOSED RELEASES ................................................................................................23
+
+APPROVAL OF PROFESSIONAL FEES AND EXPENSES ....................................25
+
+RECEIVER’S CONCLUSIONS AND RECOMMENDATIONS ...............................26
+
+
+
+   LISTING OF APPENDICES TO THE FIRST REPORT OF THE RECEIVER
+
+APPENDIX A                                         Share Purchase Agreement (redacted)
+
+CONFIDENTIAL APPENDIX B Remarketing Process - Bid Summary
+
+CONFIDENTIAL APPENDIX C Share Purchase Agreement (unredacted)
+
+
+
+
+                                                            2
+INTRODUCTION
+
+1.   On June 2, 2025, the Court of King’s Bench of Alberta (the “Court”) granted a
+     receivership order (the “Receivership Order”), whereby, effective June 3, 2025
+     (the “Receivership Date”), Alvarez & Marsal Canada Inc. (“A&M”) was
+     appointed receiver and manager (the “Receiver”), without security, of all the
+     current and future assets, undertakings and properties of every nature and kind
+     whatsoever, and wherever situate, including all proceeds thereof (collectively, the
+     “Property”) of CLEO Energy Corp. (“Cleo” or the “Company”), pursuant to
+     section 243(1) of the Bankruptcy and Insolvency Act, RSC 1985, c B-3 (the “BIA”)
+     and section 13(2) of the Judicature Act, RSA 2000 c J-2 (the “Receivership
+     Proceedings”).
+
+2.   Prior to the granting of the Receivership Order, on December 8, 2024, the Company
+     filed a Notice of Intention to Make a Proposal pursuant to section 50.4(1) of the
+     BIA (the “NOI Proceedings”). A&M acted as Trustee under the Proposal (in such
+     capacity the “Proposal Trustee”) during the NOI Proceedings.
+
+3.   During the NOI Proceedings, this Honourable Court granted various Orders,
+     including: (i) an Order approving an interim financing facility (the “Interim
+     Financing Facility”) provided by uCapital – uLoan Solutions Inc. (“uCapital” or
+     the “Interim Lender”), together with the related Interim Lender’s charge; (ii) an
+     Order approving a sales and solicitation process (the “SSP”) which set out how the
+     Cleo’s property would be marketed and sold; (iii) an Order approving asset sale
+     transactions to IHH Energy Corp., Nuova Strada Ventures Ltd. (“Nuova”), and
+     Surge Energy Inc. on March 25, 2025 (the “March 2025 Transactions”); and (iv)
+     an Order approving further asset sale transactions to Nuova and Rise Energy SPV
+     Ltd. (“Rise”) on June 2, 2025 (collectively, the “June 2025 Transactions”), as
+     well as a backup transaction to Prospera Energy Inc. (the “Prospera Backup
+     Transaction”) on the same day.
+
+4.   Throughout the NOI Proceedings, the Company borrowed approximately $1
+     million from uCapital (the “uCapital Indebtedness”). In early April 2025, the
+
+                                          3
+     Company closed the March 2025 Transactions, and the gross proceeds from those
+     sales, together with the amounts drawn from uCapital, were applied to fund the NOI
+     Proceedings and to support the continuation of the SSP until the Company’s final
+     Court application on June 2, 2025 (the “June 2nd Application”), at which time it
+     sought approval of the June 2025 Transactions, among other relief.
+
+5.   It was Cleo’s intention to sell the majority of its assets during the NOI Proceedings
+     and to apply the proceeds to repay the uCapital Indebtedness and other secured
+     creditors by June 8, 2025. As the NOI Proceedings could not be extended beyond
+     that date, a deemed bankruptcy would occur on June 9, 2025, pursuant to section
+     50.4(8) of the BIA. Given the tight timeline between the June 2nd Application and
+     the expiry of the NOI Proceedings, uCapital was concerned that a deemed
+     bankruptcy of Cleo could interfere with the timely repayment of the uCapital
+     Indebtedness and other secured creditors from the proceeds of the June 2025
+     Transactions and might jeopardize the sale of any remaining assets following the
+     close of those transactions. Consequently, uCapital applied for, and the Court
+     granted, the Receivership Order on June 2, 2025.
+
+6.   As set out in the Proposal Trustee’s Sixth Report dated May 28, 2025, the assets
+     that were not sold in transactions approved in the NOI Proceedings include
+     properties located in Taber, Neutral Hills – South, Enchant, Fabyan, Shorncliffe,
+     Atlee, Hayter, Kessler and Greater Wainwright (the “Remaining Assets”). The
+     Remaining Assets are comprised of approximately $20 million in deemed assets
+     and $38 million in deemed liabilities. Of the Remaining Assets, Cleo’s only
+     producing assets are located in the Shorncliffe and Fabyan fields.
+
+7.   The Receivership Order empowers and authorizes, but does not obligate, the
+     Receiver to, among other things, manage, operate and carry on the business of the
+     Company and to take possession and control of the Property (as defined in the
+     Receivership Order) and any and all proceeds, receipts and disbursements arising
+     out of or from the Company, and to sell, convey, transfer, lease or assign the
+     Property or any part or parts thereof out of the ordinary course of business.
+
+
+                                          4
+PURPOSE OF THIS REPORT
+
+8.   The purpose of this First Report of the Receiver (the “First Report” or “this
+     Report”) is to provide this Honourable Court with information in respect of the
+     following:
+
+            a)    the activities of the Receiver since the Receivership Date;
+
+            b) an update on the status of the June 2025 Transactions and the
+                  application of the corresponding Sales Proceeds (as defined below);
+
+            c)    the process initiated by the Receiver to sell the Remaining Assets out
+                  of the normal course of business;
+
+            d) the Receiver’s Interim Statement of Receipts and Disbursements (as
+                  defined below) from the Receivership Date to October 3, 2025 (the
+                  “Reporting Period”);
+
+            e)    a summary of the proposed reverse vesting transaction contemplated in
+                  the Share Purchase Agreement (the “SPA”) between Cleo and 2698902
+                  Alberta Corporation (“269” or the “Purchaser”) dated October 6, 2025
+                  (the “Transaction”); and
+
+            f)    the Receiver’s conclusions and recommendations with respect to the
+                  above.
+
+9.   The Receiver is requesting orders from this Honourable Court granting the
+     following relief at the Application scheduled for October 17, 2025:
+
+            a)    approving the Receiver’s actions, activities and conduct since the
+                  Receivership Date, including the Interim Statement of Receipts and
+                  Disbursements;
+
+
+
+
+                                           5
+             b) approving the Receiver’s fees and disbursements, and those of its legal
+                        counsel, Miller Thomson LLP (“Miller Thomson” or “Receiver’s
+                        Counsel”) over the Reporting Period;
+
+             c)         authorizing and approving the Receiver to complete the Transaction
+                        contemplated by the SPA and granting a transaction approval and
+                     reverse vesting order (“RVO”) in respect of the Transaction, including:
+
+                   i.      upon delivery of the Receiver’s Certificate in respect of the
+                           Transaction: (i) discharging the Company from these Receivership
+                           Proceedings; and (ii) adding ResidualCo as an applicant in these
+                           Receivership Proceedings; and
+
+                  ii.      releasing: (i) Chris Lewis, in his capacity as the former director of
+                           the Company; (ii) the Receiver and its legal counsel, Miller
+                           Thomson LLP; and (iii) Chris Lewis in his capacity as director of
+                           ResidualCo; and
+
+             d) temporarily sealing Confidential Appendix “B” and “C” (the
+                     “Confidential Appendices”) to this Report on the Court Record.
+
+5.    Capitalized words or terms not otherwise defined in this Report shall have the
+      meaning ascribed in the Receivership Order or such other materials filed by the
+      Receiver in these Receivership Proceedings or the Proposal Trustee and the
+      Company in the NOI Proceedings.
+
+10.   All references to dollars are in Canadian currency unless otherwise noted.
+
+TERMS OF REFERENCE
+
+11.   In preparing this First Report, the Receiver has relied upon: (i) the representations
+      of certain former management and other key stakeholders of the Company; (ii)
+      financial and other information contained in the Company’s books and records,
+      which were produced and maintained principally by the Company; and (iii)
+
+
+
+                                                6
+      information obtained by the Proposal Trustee prior to the Receivership
+      Proceedings.
+
+12.   The Receiver has not performed an audit, review or otherwise attempted to verify
+      the accuracy or completeness of the Company’s financial information that would
+      wholly or partially comply with Canadian Auditing Standards (“CASs”) pursuant
+      to the Chartered Professional Accountants Canada Handbook, and accordingly,
+      the Receiver expresses no opinion or other form of assurance contemplated under
+      CASs in respect of the financial information.
+
+BACKGROUND AND OVERVIEW
+
+6.    Cleo was incorporated under the laws of Alberta in 2016 and is a privately owned
+      oil and gas operator specializing in medium-gravity oil. Based in Calgary, Alberta,
+      Cleo operates throughout East Central Alberta. As discussed above, a significant
+      number of Cleo’s producing assets were sold in the NOI Proceedings, and its only
+      remaining producing oil and gas wells are located in the Shorncliffe and Fabyan
+      fields.
+
+7.    Cleo’s shares are held entirely by its parent corporation Chimera Management
+      Group Ltd., a holding corporation. Cleo does not own shares in any other
+      corporation.
+
+8.    Further background regarding the Company and its financial circumstances is
+      contained in the materials filed in support of and relating to the Receivership Order.
+      These documents and other relevant information, including all publicly available
+      information pertaining to the NOI Proceedings, have been posted on the Receiver’s
+      website at www.alvarezandmarsal.com/CLEO (the “Website”).
+
+ACTIVITIES OF THE RECEIVER
+
+13.   Since the Receivership Date, the Receiver’s activities have included, but are not
+      limited to, the following:
+
+
+
+                                            7
+a)   taking possession and control of the Property and performing a physical
+     walk-through of Cleo’s head office located at 200 – 117 8th Avenue
+     Southwest, Calgary, Alberta (the “Head Office”), including acquiring
+     access to the Company’s IT systems to obtain copies of its financial
+     records;
+
+b) retaining and providing instructions to Miller Thomson, the Receiver’s
+     independent legal counsel, on a variety of matters with respect to the
+     Receivership Proceedings;
+
+c)   mailing the notices required by section 245 and 246 of the BIA (the
+     “Receiver’s Notice”) to the Company’s known creditors and the Office
+     of the Superintendent of Bankruptcy on June 11, 2025. A copy of the
+     Receiver’s Notice can be found on the Receiver’s Website;
+
+d) engaging in meetings and discussions with the Company’s employees
+     to explain the powers and duties of the Receiver, including its role as
+     an Officer of the Court;
+
+e)   terminating the employment of all employees of the Company on June
+     3, 2025, as a result of the Receivership Order’s effective date;
+
+f)   preparing and providing materials to the employees and working with
+     the Wage Earner Protection Program (“WEPP”) and the employees to
+     prepare their submissions to the WEPP;
+
+g) engaging certain former Cleo management and field staff as
+     independent contractors to assist the Receiver with administrative
+     matters, operations and upkeep of the Property;
+
+h) identifying all known corporate bank accounts of the Company and
+     taking administrative control of them, including transferring any funds
+     in those accounts to the Receiver’s trust account;
+
+i)   redirecting mail to the office of the Receiver;
+                                8
+j)   undertaking day to day management of Cleo’s operations, including
+     contractor supervision and payments to trade creditors for services
+     rendered and approved by the Receiver;
+
+k) communicating with certain vendors including, notifying them of the
+     Receivership Proceedings and discussing the need for services going
+     forward;
+
+l)   monitoring the Company’s cash flows and ensuring suppliers were paid
+     on a timely basis;
+
+m) preparing collection letters and communicating with various customers
+     regarding the collection of outstanding accounts receivable;
+
+n) notifying the Company’s insurance broker of the Receivership Order
+     and making arrangements for continuation of the corporate insurance
+     policies, and adding the Receiver as a named insured and loss payee;
+
+o) communicating, arranging and meeting with the Canada Revenue
+     Agency (“CRA”) to allow the CRA to conduct and complete its
+     respective source deduction and GST audits;
+
+p) establishing and initiating a remarketing process (the “Remarketing
+     Process”)    to   sell   the   Remaining   Assets,   which     included
+     communications with interested parties, as described in further detail
+     in this Report;
+
+q) attending meetings with the Alberta Energy Regulator (“AER”) to
+     provide updates on the status of the Remarketing Process and Cleo’s
+     operations, generally;
+
+r)   engaging in communication with the Department of Defence with
+     regards to certain assets and wells located at the CFB Wainwright
+     military base; and
+
+
+                               9
+             s)   repudiating the lease agreement for the Head Office effective July 6,
+                  2025.
+
+Canada Revenue Agency (Potential Priority Claims)
+
+14.   Shortly after the Receivership Date, the Receiver contacted the CRA and requested
+      that an audit of the Company’s GST and source deduction accounts be completed.
+      The CRA auditors met with representatives of the Receiver to go over the pre-
+      receivership GST and source deductions accounts. The CRA’s final audit results
+      indicate that the outstanding pre-receivership GST and source deductions are as
+      follows:
+
+             a)   GST – $1,355,297
+
+             b) Source Deductions – $82,336
+
+15.   On September 11, 2025, the Receiver issued a payment for $70,347 to the CRA for
+      the pre-receivership Source Deductions that constitute a deemed trust (super-
+      priority) against Cleo’s estate. The remaining balance of $11,989 is considered an
+      unsecured claim by CRA as against the estate. The Receiver does not expect any
+      further changes to the pre-receivership balances outstanding to the CRA.
+
+Employee, Wage Earner Protection Program & s. 81.4(1) BIA Priority Claims
+
+16.   All employees of Cleo were terminated as at the Receivership Date and certain of
+      these employees were engaged by Receiver as independent contractors to assist in
+      the Receivership Proceedings. The Receiver, with the assistance of these
+      independent contractors, has prepared and submitted all outstanding records of
+      employment, information pertaining to existing insurance health care benefits and
+      the former employees' T4 notices for tax purposes.
+
+17.   The Receiver prepared and delivered the required information package with respect
+      to the WEPP on June 16, 2025. The former employees were also provided with a
+      proof of claim form. To date, the total combined WEPP claims filed against Cleo
+      are $192,360, of which $20,917 appears to be super-priority claims under the BIA
+                                          10
+      and the remaining $171,443 relates to the unsecured portion of the claims filed.
+      The Receiver will remit payment for priority claims due under the BIA to Service
+      Canada in due course.
+
+Books and Records
+
+18.   Summarized in the table below is the estimated book value of assets from the
+      Company’s balance sheet as at the Receivership Date. The asset values listed in the
+      below chart are recorded on a “net book value” basis and have not been audited or
+      have not otherwise been verified as to their accuracy. The net book values for each
+      of the listed assets may not approximate their market and/or realizable value and
+      these values may differ significantly.
+
+                      Cleo Energy Corp. (in Receivership)
+                      Summary of Assets and Liabilities
+                                                            Estimated Book
+                                                                 Value
+                      Assets
+                      Cash                                          281,630
+                      Trade Accounts Receivable                     353,773
+                      Production Accounts Receivable                652,935
+                      Property and Equipment                      6,984,623
+                      Total Assets                               8,272,961
+
+                      Liabilities
+                      Secured Creditors                           8,208,901
+                      Unsecured Creditors                        16,353,133
+                      Total Liabilities                         24,562,034
+
+
+
+19.   The Receiver has collected the production accounts receivable and certain trade
+      accounts receivable in the Receivership Proceedings and has taken steps to sell the
+      Remaining Assets through the Remarketing Process.
+
+UPDATE ON THE JUNE 2025 TRANSACTIONS
+
+Status of the Transactions
+
+20.   The Receiver closed the June 2025 Transactions shortly after the Receivership
+      Date, consisting of (i) the sale of certain assets to Rise (the “Rise Transaction”),
+      which closed on June 6, 2025, and (ii) the sale of certain assets to Nuova (the
+
+                                               11
+      “Nuova Transaction”), which closed on June 9, 2025. On those dates, the Receiver
+      issued its Receiver’s Certificates confirming completion of the respective
+      transactions to its satisfaction. The AER has accepted the transfer of the regulatory
+      licences contemplated in the June 2025 Transactions to Rise and Nuova.
+
+21.   Following the completion of the June 2025 Transactions, the Prospera Transaction
+      was deemed to be of no further force or effect, and the Receiver returned Prospera’s
+      deposit on September 5, 2025.
+
+22.   On July 7, 2025, Rise provided the Receiver with a final statement of adjustments
+      (the “Rise FSOA”) in accordance with Section 7.2(a) of the Rise Asset Purchase
+      Agreement, which was approved by the Court on June 2, 2025 (the “Rise APA”).
+      The Receiver reviewed and subsequently revised the Rise FSOA and provided an
+      updated version to Rise on September 8, 2025. The Rise FSOA indicates that
+      approximately $24,000 is payable to the Receiver to cover all outstanding costs and
+      expenses related to the Rise Transaction.
+
+23.   Pursuant to Section 7.2(a) of the Rise APA, payment of the amount due to the
+      Receiver under the Rise FSOA was required by September 26, 2025, being fifteen
+      business days after notification of the final amount owing. As of the date of this
+      Report, Rise has not remitted the amounts due under the Rise FSOA, despite
+      multiple requests for payment from the Receiver and follow up emails by its
+      counsel. The Receiver is currently determining the next steps it will take on the
+      collection of the $24,000, which may require the assistance of this Honourable
+      Court.
+
+Use of Sales Proceeds
+
+24.   The June 2025 Transactions generated sale proceeds of approximately $2.1 million
+      (the “Sales Proceeds”), which were deposited into the Receiver’s trust account.
+      Pursuant to the Rise and Nuova Sale Approval and Vesting Orders granted by the
+      Court on June 2, 2025 (the “June 2025 SAVOs”), the Receiver is not permitted to
+
+
+
+                                           12
+      make any distributions to creditors from the Sales Proceeds without further Order
+      of the Court, except for the following:
+
+             a)   amounts owing under the Administration Charge granted in the NOI
+                  Proceedings, which covered the fees of the Proposal Trustee, the
+                  Proposal Trustee’s counsel (Miller Thomson), and the Company’s
+                  counsel (Gowling WLG (Canada) LLP), up to a maximum of
+                  $700,000; and
+
+             b) amounts borrowed by Cleo under the Interim Lender’s Charge granted
+                  in the NOI Proceedings, up to a maximum of $1,000,000, together with
+                  any accrued interest or costs and expenses incurred thereunder.
+
+25.   The Receiver has made the following payments from the Sale Proceeds:
+
+             a)   $101,391 to the Company’s counsel, in full satisfaction of the amounts
+                  secured by the Administration Charge;
+
+             b) $89,076 to the Proposal Trustee, in full satisfaction of the amounts
+                  secured by the Administration Charge;
+
+             c)   $25,968 to the Proposal Trustee’s counsel, in full satisfaction of the
+                  amounts secured by the Administration Charge; and
+
+             d) $1,078,907 to uCapital, in repayment of all amounts borrowed under
+                  the Interim Financing Facility, together with accrued interest and costs,
+                  as secured by the Interim Lender’s Charge. For certainty, uCapital was
+                  repaid in full on June 9, 2025, and no amounts remain outstanding
+                  under the Interim Financing Facility.
+
+26.   The balance of the Sales Proceeds forms part of the Receivership estate and has
+      been applied, in part, to fund the Receiver’s operating costs and the professional
+      fees and expenses of the Receiver and its counsel in these Receivership
+      Proceedings, as more particularly outlined in the Interim Statement of Receipts and
+      Disbursements.
+                                           13
+REMARKETING PROCESS
+
+27.   On July 28, 2025, with the support of the AER, the Receiver initiated a brief
+      Remarketing Process in an effort to sell the Remaining Assets, which included
+      carrying out the following activities:
+
+             a)   publishing a notice of the Remarketing Process describing the
+                  Remaining Assets in Insolvency Insider;
+
+             b) preparing a letter (the “Letter”) outlining the producing and non-
+                  producing assets available to be purchased;
+
+             c)   preparing a template non-disclosure agreement (“NDA”) and asset
+                  purchase agreement; and
+
+             d) setting up a virtual data room (“VDR”) which contains confidential
+                  business and operational information with respect to Cleo and the
+                  Remaining Assets.
+
+28.   The Receiver distributed the Letter to a targeted list of 37 interested parties,
+      comprising bidders who had expressed interest in the Remaining Assets during the
+      NOI Proceedings, as well as parties who expressed interest during the Receivership
+      Proceedings. Of these, 11 parties executed an NDA and were granted access to the
+      VDR.
+
+29.   At the conclusion of the Remarketing Process, on August 29, 2025 (the
+      “Remarketing Process Deadline”), the Receiver received 8 non-binding bids (the
+      “Non-Binding Bids”) from the interested parties (each a “Bidder” and
+      collectively, the “Bidders”). A summary of the Non-Binding Bids has been
+      provided to the Court as Confidential Appendix “B”.
+
+30.   Following the Remarketing Process Deadline, the Receiver engaged with each of
+      the Bidders regarding additional due diligence requests and provided the AER with
+      an update on the outcome of the Remarketing Process, including sharing copies of
+      certain bids received. After reviewing the Non-Binding Bids, in consultation with
+                                           14
+      the AER, the Receiver selected 269 as the successful Bidder and negotiated and
+      executed the SPA, which contemplates the Transaction, more particularly described
+      later in this Report.
+
+INTERIM STATEMENT OF RECEIPTS AND DISBURSEMENTS
+
+31.   The table below presents the Receiver’s interim statement of receipts and
+      disbursements from the Receivership Date to October 3, 2025:
+
+              Cleo Energy Corp. In Receivership
+              Interim Statement of Receipts and Disbursements
+              June 3, 2025 to October 3, 2025
+              Opening Cash Balance                                                  281,630
+              Receipts
+               Oil & Gas Revenue1                                                 1,193,341
+               Sales Proceeds2                                                    2,139,830
+               Other Income                                                          43,501
+              Total Receipts                                                      3,376,672
+              Operating Disbursements
+               Field Operating Costs                                                122,420
+               Utilities                                                             63,802
+               Contractors                                                          439,200
+               Insurance                                                             25,836
+               Crown Mineral & Surface Leases                                       117,501
+               General & Administrative                                              41,011
+              Total Operating Disbursements                                         809,769
+              Non-Operating Disbursements
+               Priority Payment for Source Deductions3                               70,347
+               Company Counsel's Fees                                               101,391
+               Receiver's Fees                                                      312,377
+               Proposal Trustee's Fees                                               89,076
+               Receiver's Counsel's Fees                                            126,115
+               Proposal Trustee's Counsel's Fees                                     25,968
+               Interim Financing Facility Repayment                               1,078,907
+               Sales Agent Fees                                                      53,564
+              Total Non-Operating Disbursements                                   1,857,744
+              Total Disbursements                                                 2,667,513
+              Net Cash Flow                                                         709,159
+              Ending Cash Balance                                                   990,788
+
+              (1) Includes pre-Receivership related revenues from May production, which
+              settled on June 25, 2025.
+              (2) Comprised of the amounts collected from the June 2025 Transactions.
+              (3) Relates to source deductions assessed as owing in the NOI period, paid in
+              the Receivership.
+
+
+                                                15
+32.   There was approximately $281,630 of opening cash available at the start of the
+      Reporting Period.
+
+33.   The Receiver collected approximately $3.4 million during the Reporting Period,
+      relating primarily to:
+
+             a)   Oil and Gas receipts of approximately $1.2 million;
+
+             b) Sales proceeds of approximately $2.1 million, primarily related to the
+                  June 2025 Transactions and a sale of certain minor working interest
+                  positions to Ulysses Energy Corp on September 23, 2025, for $5,000;
+                  and
+
+             c)   Other Income of $43,501 relating primarily to interest earned and
+                  accounts receivable collections.
+
+34.   The Receiver has made disbursements of approximately $2.7 million during the
+      Reporting Period, relating primarily to:
+
+             a)   Field Operating Costs of $122,420 consisting of payments to third
+                  parties for services such as trucking, maintenance, and fuel of $122,032
+                  and Crown Royalties of $388;
+
+             b) Utility payments of $63,802 for gas and electricity;
+
+             c)   Crown Mineral & Surface Lease payments of $117,501;
+
+             d) Insurance premiums of $25,836;
+
+             e)   Payment of professional fees to the Receiver in the amount of
+                  $312,377, to the Proposal Trustee in the amount of $89,076, to the
+                  Receiver’s counsel in the amount of $126,115, to the Company’s
+                  counsel in the amount of $101,391, and to the Proposal Trustee’s
+                  counsel in the amount of $25,968;
+
+
+
+
+                                          16
+                 f)    Payment of source deductions of approximately $70,347 that
+                       constituted a deemed trust against Cleo’s estate; and
+
+                 g) Repayment of the Interim Lender in the amount of $1,078,907.
+
+35.     The total ending cash available as at October 3, 2025 is approximately $990,788.
+
+SHARE PURCHASE AGREEMENT 1
+
+Overview
+
+36.     The Transaction contemplated in the SPA is a “reverse vesting” transaction which
+        involves the Purchaser’s purchase and subscription, and the Receiver’s sale, of the
+        common shares in Cleo. A redacted copy of the SPA is attached as Appendix “A”
+        and an unredacted copy of the SPA has been provided to the Court as Confidential
+        Appendix “C”.
+
+37.     The key terms of the SPA are as follows:
+
+                 a)    the total cash consideration paid by the Purchaser for the Transaction
+                       is the Purchase Price, plus or minus the net amount of adjustments for
+                       production revenues earned and associated costs incurred by the
+                       Receiver from the Effective Date up to and including the Closing Date
+                       (the “Adjusted Purchase Price”);
+
+                 b) additional consideration includes Cleo’s retention of the Retained
+                       Assets, Retained Liabilities and Retained Contracts;
+
+                 c)    the Receiver’s Counsel is in possession of the Deposit, which
+                       represents 100% of the Purchase Price, the amount of which is
+                       disclosed in Confidential Appendix “C”;
+
+
+
+
+1
+  In this section of the First Report, capitalized terms not otherwise defined has the meanings ascribed to
+them in the SPA.
+
+
+                                                    17
+             d) the Adjusted Purchase Price will be paid at Closing, first by applying
+                  the Deposit, with the balance of the Adjusted Purchase Price to be paid
+                  by wire transfer of immediately available funds, either by the Purchaser
+                  to the Receiver or by the Receiver to the Purchaser, depending on the
+                  Adjusted Purchase Price;
+
+             e)   the Purchaser will purchase and subscribe to 200,000,000 Common
+                  Shares of Cleo, for a subscription amount equal to the Purchase Price;
+
+             f)   the Purchaser’s purchase of the Common Shares, the Retained Assets,
+                  Retained Liabilities and Retained Contracts is on an “as is, where is”
+                  basis;
+
+             g) the Transaction is expected to close on or before October 27, 2025; and
+
+             h) the SPA is conditional upon Court approval of the RVO.
+
+38.   The Receiver expects to bring an application after closing the Transaction for
+      approval of a claims process to ultimately facilitate the distribution of the remaining
+      cash in the estate and Purchase Price proceeds that are to be transferred to
+      ResidualCo.
+
+Receiver’s Recommendation on the SPA
+
+39.   The Receiver is of the view that the SPA is commercially reasonable in the
+      circumstances for the following reasons:
+
+             a)   the Receiver is authorized by this Court to market and sell the Common
+                  Shares pursuant to the Receivership Order;
+
+             b) the SPA arose from an extensive marketing process conducted by the
+                  Proposal Trustee and Sayer in the NOI Proceedings, followed by the
+                  Remarketing Process conducted by the Receiver;
+
+
+
+
+                                            18
+             c)     the Receiver has determined that the SPA represents the highest and
+                    best offer for the assets being sold, and that it results in all
+                    environmental liabilities and abandonment and reclamation obligations
+                    being retained by the Purchaser, thereby avoiding their transfer to the
+                    Orphan Well Association (“OWA”);
+
+             d) the Receiver and Purchaser met with the AER to discuss the proposed
+                    Transaction and seek its input; and
+
+             e)     the SPA was negotiated between the Receiver and the Purchaser at
+                    arm’s length, in good faith.
+
+40.   On September 19, 2025, the Receiver was advised by the AER that it did not object
+      to the Transaction, provided the Purchaser fulfills its obligations to the AER with
+      respect to field non-compliances, mandatory closure spend quotas, the orphan fund
+      levy, the administration fund levy, and other applicable requirements. The Receiver
+      understands that the Purchaser has met with the AER and understands these
+      obligations and is prepared to abide by the AER’s requirements.
+
+41.   For the reasons above, the Receiver recommends that the Court approve the SPA.
+
+Confidential Appendices
+
+42.   The Confidential Appendices contain a summary of the Non-Binding Bids
+      submitted to the Receiver in the Remarketing Process and an unredacted copy of
+      the SPA.
+
+43.   Due to the commercially sensitive nature of the information contained in the
+      Confidential Appendices, the Receiver is concerned that, if the information is
+      disclosed to third parties prior to the closing of the Transaction (which is subject to
+      court approval), the disclosure could materially jeopardize the realizations arising
+      from the Remarketing Process should the Transaction ultimately fail to close for
+      any reason.
+
+
+
+                                            19
+44.     The Receiver is of the view that it is appropriate for this Honourable Court to
+        temporarily seal the Confidential Appendices on the Court record and it is not aware
+        of any prejudice to any stakeholders by the temporary sealing of the Confidential
+        Appendices.
+
+REVERSE VESTING ORDER 2
+
+Overview
+
+45.     The RVO contemplates the following:
+
+                 a)    the creation of a residual company (“ResidualCo”), where the
+                       Excluded Assets, Excluded Liabilities and Excluded Contracts will be
+                       transferred to, assumed by, and vested in absolutely and exclusively;
+
+                 b) Cleo will retain all of the non-cash assets owned by it on the Closing
+                       Date, including, without limitation, the Retained Contracts, the Title
+                       and Operating Documents, Petroleum and Natural Gas Rights, the
+                       Tangibles, the Miscellaneous Interests, and Books and Records, except
+                       any Excluded Assets, Excluded Liabilities, or Excluded Contracts;
+
+                 c)    ResidualCo will replace Cleo as the respondent party in these
+                       Receivership Proceedings;
+
+                 d) Cleo will cease to be a party in these Receivership Proceedings, and
+                       will be deemed to be released from the purview of the Receivership
+                       Order and all other Orders of the Court granted in respect of these
+                       Receivership Proceedings, save and except for the RVO provisions,
+                       which shall continue to apply in all respects; and
+
+                 e)    the Purchaser will be the sole legal and beneficial shareholder of Cleo.
+
+
+
+2
+  In this section of the First Report, capitalized terms not otherwise defined has the meanings ascribed to
+them in the SPA or the RVO.
+
+
+                                                    20
+Receiver’s Views on the Appropriateness of the RVO
+
+46.   The Receiver considered the following four guidelines in concluding that the RVO
+      is appropriate in the circumstances:
+
+              a)   Is the RVO structure necessary?
+
+              b) Does the RVO structure produce an economic result at least as
+                   favourable as any other viable alternative?
+
+              c)   Is any stakeholder worse off under the RVO structure than they would
+                   have been under another viable structure?
+
+              d) Does the consideration being paid for Cleo’s business reflect the
+                   importance and value of the intangible assets being preserved under the
+                   RVO structure?
+
+The RVO is Necessary
+
+47.   Implementing a reverse vesting structure is essential to maximize value in this case.
+      By using an RVO, the Purchaser can avoid seeking AER approval for multiple
+      licence transfers, a process that could be lengthy and introduce additional risk and
+      cost to the Transaction and deplete the remaining cash on hand for distributions to
+      creditors.
+
+48.   As a result of the Transaction, Cleo will continue its operations with the Purchaser
+      as the new sole shareholder, gaining ownership of the Retained Assets, Retained
+      Liabilities, and Retained Contracts. The RVO ensures that the Purchaser has the
+      resources necessary to continue operations seamlessly post-closing, without
+      disruption, while maintaining production and revenue streams and ensuring that
+      regulatory and compliance obligations are appropriately managed.
+
+49.   The Purchaser has advised the Receiver that it is only prepared to proceed with a
+      reverse vesting transaction, rather than a traditional asset purchase, as this structure
+      allows for the efficient transfer of applicable licences and contracts.
+
+                                             21
+The RVO Structure Produces an Economic Result at Least as Favourable as Any
+Other Viable Alternative
+
+50.   As described above, the SPA represents the highest and best offer for the assets
+      being sold and does not result in the transfer of any environmental liabilities and
+      abandonment and reclamation obligations to the OWA, thereby achieving the best
+      outcome for Cleo’s stakeholders under the circumstances. The alternative, either a
+      bankruptcy or a sale to other Bidders through a traditional asset purchase
+      transaction, would in all likelihood result in material environmental liabilities and
+      abandonment and reclamation obligations being transferred to the OWA.
+
+No Stakeholder is Worse Off under the RVO Structure than They Would Have Been
+Under Another Viable Structure
+
+51.   The Receiver is not aware of any stakeholders who would be worse off as a result
+      of the RVO structure. As noted above, the RVO structure contemplated in the
+      Transaction ensures that, among other things, all abandonment and reclamation
+      obligations and environmental liabilities are assumed by the Purchaser. It is also
+      important to note that the other Non-Binding Bids, whether considered individually
+      or in combination, would have resulted in material liabilities being transferred to
+      the OWA and no recoveries to the remaining creditors (all proceeds in the estate
+      would have been transferred to the OWA given their super-priority ranking on
+      abandonment and remediation liabilities.
+
+52.   Following the closing of the Transaction, the Receiver of ResidualCo intends to
+      conduct a claims process and security/priority review to determine which creditors
+      have claims for a distribution of the cash proceeds from the ResidualCo estate.
+
+53.   Under an alternative sale scenario, in which a significant portion of the
+      abandonment and reclamation obligations and environmental liabilities were not
+      assumed by a purchaser, Cleo’s stakeholders would be worse off, as the OWA
+      would have priority over all, or the majority of, the remaining estate funds given
+      the magnitude of the environmental liabilities remaining with the estate.
+
+
+                                           22
+The Consideration Being Paid for Cleo’s Business Reflects the Importance and Value
+of the Intangible Assets Being Preserved under the RVO Structure
+
+54.   In the Receiver’s view, the RVO underscores the significance and value of
+      preserving Cleo’s intangible assets. If the assets were to transfer under a traditional
+      approval and vesting order, the licensed assets would be required to go through a
+      license transfer application process through the AER, which could take
+      considerable time and introduce additional risk and cost to the Transaction.
+
+55.   As previously indicated, the RVO maintains Cleo as a legal entity which may
+      preserve certain attributes that would be otherwise lost in a traditional asset
+      sale/vesting order transaction. As the RVO is a required condition to the SPA, the
+      Receiver considers the Purchase Price being paid to reflect: (i) the importance and
+      value of the time it would take to undertake the additional steps required by the
+      AER under a traditional asset sale/vesting order transaction; and (ii) the value
+      attributable to certain of Cleo’s attributes which may be preserved.
+
+PROPOSED RELEASES
+
+56.   The RVO includes releases (the “Releases”) in favour of the Released Parties from
+      any and all present and future claims that any person may have or be entitled to
+      assert against the Released Parties arising from the Transaction and the granting of
+      the RVO in respect of the Company.
+
+57.   Specifically, the Released Parties are defined to include:
+
+             a)   Chris Lewis, in his capacity as the former director of the Company;
+
+             b) the Receiver and the Receiver’s Counsel; and
+
+             c)   Chris Lewis, in his capacity as director of ResidualCo.;
+
+                  (collectively, the “Released Parties”).
+
+
+
+
+                                            23
+58.   The full scope of the release provisions is set out in the RVO and should be read in
+      conjunction with this Report.
+
+Receiver’s Views on the Appropriateness of the Proposed Releases
+
+59.   The Receiver considered the following guidelines in concluding that the proposed
+      Releases are appropriate in the circumstances:
+
+             a)   whether the Releases are rationally connected to the purpose of the
+                  SPA;
+
+             b) whether the Transaction can succeed without the Releases;
+
+             c)   whether the Released Parties contributed to the SPA and the entire
+                  Receivership Proceedings;
+
+             d) whether the Releases benefit the Company as well as its creditors
+                  generally;
+
+             e)   whether the Company’s creditors have knowledge of the nature and the
+                  effect of the Releases; and
+
+             f)   whether the Releases are fair, reasonable, and not overly broad.
+
+60.   The Receiver is of the view that the proposed Releases should be approved by this
+      Honourable Court on the basis that:
+
+             a)   they are rationally connected to the purpose of the Transaction;
+
+             b) approval of the RVO by this Honourable Court, which includes the
+                  releases, is a condition precedent to the SPA;
+
+             c)   each of the Released Parties have made important critical contributions
+                  to the Receivership Proceedings, the negotiations of the SPA, the
+                  implementation of the Remarketing Process, and the services and
+
+
+
+                                            24
+                         expertise of the Released Parties were and are necessary for the
+                         ultimate success of the Transaction;
+
+                    d) the Transaction will advance, preserve and protect the business
+                         operations of the Company and provide a greater recovery to the
+                         stakeholders than would not otherwise be available to them; and
+
+                    e)   the release provisions have been fully disclosed to the service list.
+
+APPROVAL OF PROFESSIONAL FEES AND EXPENSES
+
+61.        The Receiver and its legal counsel have rendered their invoices for their respective
+           fees and disbursements for services in connection with the Receivership
+           Proceedings and are seeking the approval of this Honourable Court.
+
+62.        The Receiver seeks approval from this Honourable Court of: (i) its professional fees
+           and disbursements for the period of June 3, 2025 to September 26, 2025 (the
+           “Receiver Taxation Period”); and (ii) Miller Thomson’s professional fees and
+           disbursements for the period of June 3, 2025 to September 30, 2025 (the “Miller
+           Thomson Taxation Period”).
+
+63.        The total fees and expenses of the Receiver during the Receiver Taxation Period
+           are $297,502 (exclusive of GST), a summary of which is included below:
+
+                                                     Cleo Energy Corp.
+                                     Summary of the Receiver's Statements of Account
+                                     For the period June 3, 2025 to September 26, 2025
+ Invoice                  Period                        Fees        Disbursements      Subtotal    GST       Total
+Alvarez & Marsal Canada
+   1            June 3, 2025 to July 4, 2025              91,861            2,103         93,964     4,698     98,662
+   2           July 5, 2025 to August 1, 2025             63,390              682         64,072     3,204     67,276
+   3         August 2, 2025 to August 29, 2025            64,766              421         65,187     3,259     68,446
+   4       August 30, 2025 to September 26, 2025          74,279              -           74,279     3,714     77,993
+         Total                                           294,296            3,206        297,502    14,875    312,377
+
+
+
+64.        The total fees and expenses of the Receiver’s Counsel during the Miller Thomson
+           Taxation Period total $120,113 (exclusive of GST), a summary of which is included
+           below:
+
+
+                                                         25
+                                                       Cleo Energy Corp.
+                                    Summary of the Receiver's Counsel's Statements of Account
+                                       For the period June 3, 2025 to September 30, 2025
+ Invoice                      Period                      Fees        Disbursements       Subtotal     GST       Total
+Miller Thomson LLP
+4148722        June 2, 2025 to June 30, 2025                 41,903              175          42,077     2,104     44,181
+4160818        July 2, 2025 to July 31, 2025                 21,654              -            21,654     1,083     22,737
+4168499      August 1, 2025 to August 28, 2025               18,780              -            18,780       935     19,715
+4171619    August 29, 2025 to September 30, 2025             37,581               21          37,602     1,880     39,483
+         Total                                              119,917              196         120,113     6,002    126,115
+
+
+
+65.        The Receiver and Miller Thomson’s invoices outline the date of the work
+           completed, the description of the work completed, the length of time taken to
+           complete the work and the name of the individual who completed the work in
+           question. Copies of the invoices will be made available to the Court at its direction,
+           if necessary.
+
+66.        The Receiver respectfully submits that its professional fees and disbursements and
+           those of its legal counsel are fair and reasonable in the circumstances, given the
+           substantive tasks required to be performed by the Receiver and its legal counsel in
+           connection with the Receivership Proceedings.
+
+RECEIVER’S CONCLUSIONS AND RECOMMENDATIONS
+
+67.        The Receiver recommends that this Honourable Court grant the following:
+
+                   a)     the ancillary relief Order:
+
+                         i.      approving the Receiver’s actions, activities and conduct, and those
+                                 of its legal counsel since the Receivership Date, including the
+                                 Interim Statement of Receipts and Disbursements;
+
+                        ii.      temporarily sealing the Confidential Appendices on the Court
+                                 record; and
+
+                     iii.        approving the fees and disbursements of the Receiver and its
+                                 counsel, as set out in this Report; and
+
+                   b) the RVO:
+
+
+                                                             26
+                   i.   approving the SPA and the Transaction contemplated therein;
+
+                 ii.    granting the Releases in favour of the Released Parties; and
+
+                 iii.   upon filing of the Receiver’s Certificate, discharging Cleo and
+                        adding ResidualCo to these Receivership Proceedings.
+
+
+
+All of which is respectfully submitted this 6th day of October, 2025.
+
+ALVAREZ & MARSAL CANADA INC.,
+in its capacity as the Court-appointed Receiver of
+CLEO Energy Corp. and not its
+personal or corporate capacity
+
+
+
+
+Orest Konowalchuk, CPA, CA, CIRP, LIT              David Williams, CPA, CIRP, LIT
+Senior Vice President                              Director
+
+
+
+
+                                            27
+APPENDIX A
+
+
+
+
+    28
+                               SHARE PURCHASE AGREEMENT
+
+
+
+                                           BETWEEN:
+
+              CLEO ENERGY CORP., by and through its Court-appointed receiver
+                ALVAREZ & MARSAL CANADA INC., in its capacity as Court-
+                appointed receiver, and not in its personal or corporate capacity
+
+                                            - and -
+
+              2698902 ALBERTA CORP., a body corporate existing under the laws
+                               of the Province of Alberta.
+
+
+
+
+87784334.11
+                                                    TABLE OF CONTENTS
+
+Article 1 INTERPRETATION .......................................................................................................1
+      1.1        Definitions ................................................................................................................ 1
+      1.2        Headings ............................................................................................................... 10
+      1.3        Interpretation Not Affected by Headings................................................................. 10
+      1.4        Plural and Gender .................................................................................................. 10
+      1.5        Schedules .............................................................................................................. 11
+      1.6        Damages ............................................................................................................... 11
+      1.7        Derivatives ............................................................................................................. 11
+      1.8        Interpretation if Closing Does Not Occur ................................................................ 11
+      1.9        Conflicts ................................................................................................................. 11
+      1.10       Currency ................................................................................................................ 11
+Article 2 PURCHASE OF PURCHASED SHARES .................................................................... 11
+      2.1        Purchase of the Purchased Shares........................................................................ 11
+      2.2        Purchase Price ...................................................................................................... 12
+      2.3        Deposit .................................................................................................................. 12
+      2.4        Form of Payment ................................................................................................... 12
+Article 3 ADJUSTMENTS .......................................................................................................... 12
+      3.1        Assumption of Obligations ..................................................................................... 12
+      3.2        Costs and Revenues to be Apportioned ................................................................. 13
+      3.3        Adjustments to Account ......................................................................................... 14
+      3.4        Maintenance of Assets ........................................................................................... 15
+Article 4 CLOSING .................................................................................................................... 15
+      4.1        Date, Time and Place of Closing ............................................................................ 15
+      4.2        Effectiveness of Reverse Vesting Order................................................................. 15
+      4.3        Closing Deliveries .................................................................................................. 15
+      4.4        Transfer Taxes....................................................................................................... 16
+Article 5 CONDITIONS OF CLOSING ....................................................................................... 16
+      5.1        Required Consents ................................................................................................ 16
+      5.2        Mutual Conditions .................................................................................................. 17
+      5.3        Purchaser’s Conditions .......................................................................................... 17
+      5.4        Receiver’s Conditions ............................................................................................ 18
+      5.5        Efforts to Fulfil Conditions Precedent ..................................................................... 18
+Article 6 REPRESENTATIONS AND WARRANTIES ................................................................ 18
+      6.1        Representations and Warranties of the Receiver ................................................... 18
+      6.2        Representations and Warranties of the Purchaser ................................................. 19
+      6.3        Limitation of Representations by the Receiver ....................................................... 20
+      6.4        Purchaser’s Indemnities for Representations and Warranties ................................ 21
+Article 7 GENERAL ................................................................................................................... 22
+      7.1        Fees ...................................................................................................................... 22
+      7.2        Further Assurances................................................................................................ 22
+      7.3        Entire Agreement ................................................................................................... 22
+      7.4        Governing Law....................................................................................................... 22
+      7.5        Assignment and Enurement ................................................................................... 22
+                                                                - ii -
+
+
+     7.6      Time of Essence .................................................................................................... 22
+     7.7      Notices................................................................................................................... 23
+     7.8      Invalidity of Provisions ........................................................................................... 24
+     7.9      Waiver ................................................................................................................... 24
+     7.10     Amendment ........................................................................................................... 24
+     7.11     Confidentiality and Public Announcements ............................................................ 24
+     7.12     Personal Information .............................................................................................. 24
+     7.13     Termination ............................................................................................................ 25
+     7.14     Counterpart Execution ........................................................................................... 25
+
+
+Schedules
+
+Schedule “A” –              Reverse Vesting Order
+
+Schedule “B” –              Excluded Assets
+                            Excluded Liabilities
+                            Excluded Contracts
+                            Retained Assets
+                            Retained Liabilities
+                            Retained Contracts
+
+
+
+
+87784334.11
+                              SHARE PURCHASE AGREEMENT
+
+THIS SHARE PURCHASE AGREEMENT dated this 6th day of October, 2025,
+
+BETWEEN:
+
+                 CLEO ENERGY CORP., (the “Company”) by and through its
+                 Court-appointed receiver ALVAREZ & MARSAL CANADA
+                 INC., in its capacity as Court-appointed receiver, and not in its
+                 personal or corporate capacity (the “Receiver”);
+
+                 - and -
+
+                 2698902 ALBERTA CORP., a body corporate existing under
+                 the laws of the Province of Alberta (the “Purchaser”).
+
+RECITALS:
+
+A.     Pursuant to an order of the Court of King’s Bench of Alberta (the “Court”) dated June
+       2, 2025, effective June 3, 2025 (the “Appointment Date”), the Receiver was appointed
+       as the receiver without security, of all of the current and future assets, undertakings and
+       properties of every nature or kind whatsoever, and wherever situate, of the Company,
+       including all proceeds thereof pursuant to a receivership order (the “Receivership
+       Order”); and
+
+B.     The Receiver and the Purchaser entered into negotiations for the purchase of the
+       Purchased Shares by the Purchaser, to be completed through a series of transactions
+       between the Receiver and the Purchaser to proceed by way of the Reverse Vesting
+       Order (as defined herein).
+
+C.     The Receiver wishes to issue to the Purchaser, and the Purchaser has agreed to
+       subscribe for and purchase from the Receiver, the Purchased Shares, upon the terms
+       and conditions set forth herein.
+
+D.     At Closing, the Purchased Shares shall represent all of the issued and outstanding
+       equity of the Company.
+
+E.     The Transactions contemplated by this Agreement are subject to the approval of the
+       Court and will be consummated only pursuant to and in accordance with this Agreement
+       and the approval of the Court pursuant to the Reverse Vesting Order.
+
+NOW THEREFORE in consideration of the mutual covenants contained herein, and other good
+and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the
+Parties hereto agree as follows:
+
+                                         ARTICLE 1
+                                      INTERPRETATION
+
+1.1    Definitions
+
+In this Agreement, unless the context otherwise requires:
+                                               -2-
+
+
+        (a)   “Abandonment and Reclamation Obligations” means all past, present and
+              future Losses and other duties and obligations, whether arising under contract,
+              Applicable Law or otherwise, relating to:
+
+               (i)    the abandonment of the Wells and restoration and reclamation of the
+                      surface sites thereof and any other lands now or previously used to gain
+                      access thereto;
+
+              (ii)    the closure, decommissioning, dismantling and removal of the Tangibles,
+                      including any structures, buildings, pipelines, facilities, equipment and
+                      other tangible depreciable property and assets, together with the
+                      restoration and reclamation of the Lands or any lands pooled or unitized
+                      therewith, on or in which any of the foregoing are or were located and any
+                      other lands used to gain access thereto; and
+
+              (iii)   the restoration, remediation or reclamation of the surface or subsurface of
+                      any lands other than those lands described in paragraphs (i) and (ii) and
+                      specifically relating to, or used or previously used to gain access to, the
+                      Retained Assets including the lands to which the Surface Rights relate;
+
+              all in compliance with generally accepted oil and gas industry practices and in
+              compliance with Applicable Laws and all applicable Title and Operating
+              Documents, if applicable;
+
+        (b)   “AER” means the Alberta Energy Regulator;
+
+        (c)   “Affiliate” means, with respect to any Person, any other Person or group of
+              Persons acting in concert, directly or indirectly, that controls, is controlled by or is
+              under common control with such Person. The term “control” as used in the
+              preceding sentence means the possession, directly or indirectly, of the power to
+              direct or cause the direction of the management or policies of a Person whether
+              through ownership or more than 50% of the voting securities of such Person, by
+              contract or otherwise;
+
+        (d)   “Agreement” means this Agreement between the Receiver and the Purchaser,
+              including the Recitals and schedules attached hereto, and “this Agreement”,
+              “herein”, “hereto”, “hereof” and similar expressions mean and refer to this
+              Agreement;
+
+        (e)   “Applicable Law” means, in relation to any Person, property or circumstance, all
+              laws, statutes, rules, regulations, official directives and orders of Governmental
+              Authorities (whether administrative, legislative, executive or otherwise), including
+              judgments, orders and decrees of courts, commissions or bodies exercising similar
+              functions, as amended, and includes the provisions and conditions of any permit,
+              licence or other governmental or regulatory authorization, that are in effect as at
+              the relevant time and are applicable to such person, property or circumstance;
+
+        (f)   “Appointment Date” has the meaning ascribed thereto in the Recitals;
+
+        (g)   “Associated Infrastructure” means the Company’s interest in all infrastructure
+              and facilities related to the surface of any lands, other than Surface Rights, used
+              in connection with the Wells, facilities, or pipelines, including access roads,
+
+87784334.11
+                                              -3-
+
+
+              temporary access roads, airstrips, communication towers, temporary workspace,
+              borrow sites, campsites, remote sumps, remote cement return pits, storages
+              areas, disposal sites, or land treatment areas;
+
+        (h)   “Books and Records” means all books and records of the Company, including
+              minute books, annual returns filed with corporate registry, books of account,
+              ledgers, general, financial and accounting records, tax returns and other records
+              in the possession and control of the Company as of the Agreement Date;
+
+        (i)   “Business” means the business carried on by the Company including, without
+              limitation, oil and gas exploration and production;
+
+        (j)   “Business Day” means a day other than a Saturday, a Sunday or a statutory
+              holiday in Calgary, Alberta;
+
+        (k)   “Claims” means any claim, action, demand, lawsuit, proceeding, arbitration, or
+              any investigation by a Third Party or a Governmental Authority (whether pertaining
+              to the Retained Assets, Retained Liabilities or otherwise), in each case whether
+              asserted, threatened, pending or existing;
+
+        (l)   “Closing” means the completion of the Transactions pursuant to this Agreement;
+
+        (m)   “Closing Date” means the date on which Closing occurs as set forth in Section
+              4.1;
+
+        (n)   “Closing Place” means the office of the Receiver or Receiver’s Counsel, or such
+              other place as may be agreed upon in writing by the Parties, including
+              electronically;
+
+        (o)   “Common Shares” means common shares in the capital of the Company;
+
+        (p)   “Company” has the meaning ascribed thereto in the Recitals;
+
+        (q)   “Court” has the meaning ascribed thereto in the Recitals;
+
+        (r)   “Effective Date” means September 1, 2025;
+
+        (s)   “Effective Time” means 12:01 a.m. on the Effective Date;
+
+        (t)   “Encumbrances” means all security interests (whether contractual, statutory, or
+              otherwise), hypothecs, pledges, mortgages, liens, trusts or deemed trusts
+              (whether contractual, statutory or otherwise), reservations of ownership, royalties,
+              options, rights of pre-emption, privileges, interests, assignments, actions,
+              judgements, executions, levies, taxes, writs of enforcement, charges, or other
+              claims, whether contractual, statutory, financial, monetary or otherwise, whether
+              or not they have attached or been perfected, registered or filed and whether
+              secured, unsecured or otherwise, including, without limiting the generality of the
+              foregoing: (i) any encumbrances or charges created by the Reverse Vesting Order
+              or any other order of the Court; and (ii) all charges, security interests or claims
+              evidenced by registrations pursuant to the Personal Property Security Act
+              (Alberta), or any other personal property registry system;
+
+
+
+87784334.11
+                                              -4-
+
+
+        (u)   “Environment” means the components of the earth and includes ambient air, land,
+              surface and sub-surface strata, groundwater, lake, river or other surface water, all
+              layers of the atmosphere, all organic and inorganic matter and living organisms,
+              and the interacting natural systems that include such components;
+
+        (v)   “Environmental Liabilities” means all past, present and future Losses, Claims
+              and other duties and obligations, whether arising under contract, Applicable Law
+              or otherwise, arising from, relating to or associated with the Environment and that
+              relate to, are caused by or arise by virtue of the Retained Assets, or the ownership
+              thereof or any past, present or future operations and activities conducted in
+              connection with the Retained Assets, or on or in respect of the Lands or any lands
+              pooled or unitized therewith, including Losses, Claims and other duties and
+              obligations relating to:
+
+                (i)   Abandonment and Reclamation Obligations;
+
+               (ii)   any damage, pollution, contamination or other adverse situations
+                      pertaining to the Environment howsoever and by whomsoever caused,
+                      including compensation of Third Parties for Losses suffered by them in
+                      respect thereof and regardless of whether such damage, pollution,
+                      contamination or other adverse situations occur or arise in whole or in part
+                      prior to, at or subsequent to the date of this Agreement;
+
+              (iii)   the presence, storage, use, holding, collection, accumulation, assessment,
+                      generation, manufacture, processing, treatment, stabilization, disposition,
+                      handling, transportation, release, emission, discharge, clean up,
+                      investigation and reporting of Petroleum Substances, oilfield wastes, water,
+                      hazardous substances, environmental contaminants and all other
+                      substances and materials regulated under any Applicable Law, including
+                      any forms of energy, or any corrosion to or deterioration of any structures
+                      or other property;
+
+              (iv)    compliance with or the consequences of any non-compliance with, or
+                      violation or breach of, any Applicable Law pertaining to the Environment or
+                      to the protection of the Environment;
+
+               (v)    any seismic programs conducted on or in respect of the Lands, or any lands
+                      pooled or unitized therewith;
+
+              (vi)    sampling, monitoring or assessing the Environment or any potential
+                      impacts thereon from any past, present or future activities or operations; or
+
+              (vii)   the protection, reclamation, remediation or restoration of the Environment,
+                      including related human health and safety;
+
+        (w)   “Excluded Assets” means those assets described under the heading “Excluded
+              Assets” in Schedule “B” hereto and, where the context requires, includes the
+              Excluded Contracts;
+
+        (x)   “Excluded Contracts” means those contracts, agreements and commitments
+              under the heading “Excluded Contracts” in Schedule “B” hereto;
+
+
+
+87784334.11
+                                                 -5-
+
+
+        (y)    “Excluded Liabilities” means those liabilities described under the heading
+               “Excluded Liabilities” in Schedule “B” hereto;
+
+        (z)    “Governmental Authority” means any federal, national, provincial, territorial,
+               municipal or other government, any political subdivision thereof, and any ministry,
+               sub-ministry, agency or sub-agency, court, board, bureau, office, commission or
+               department, as well as any government-owned entity, any regulatory authority and
+               any public authority, including any public utility, having jurisdiction over a Party, the
+               Retained Assets or the Transactions;
+
+        (aa)   “GST” means the goods and services tax payable pursuant to the GST Legislation;
+
+        (bb)   “GST Legislation” means Part IX of the Excise Tax Act, R.S.C. 1985, c. E-15, as
+               amended, and the regulations promulgated thereunder, all as amended from time
+               to time;
+
+        (cc)   “Lands” means all lands and formations in or to which the Company has right, title
+               or interest, subject to the Title and Operating Documents, including the Petroleum
+               Substances within, upon or under such lands, or any lands pooled or unitized
+               therewith;
+
+        (dd)   “Leases” means the leases, licenses, permits, reservations and other documents
+               of title and agreements by virtue of which the Company is entitled to explore for,
+               recover, remove or dispose of Petroleum Substances within, upon or under the
+               Lands or lands with which the Lands are pooled or unitized including those leases,
+               licenses, permits, reservations and other documents of title and agreements, but
+               only to the extent they pertain to the Lands, and includes, if applicable, all renewals
+               and extensions of those documents and all documents issued in substitution
+               therefor;
+
+        (ee)   “Liabilities” means all taxes (including, without limitation, all ad valorem,
+               severance and other production taxes), royalties, net profits interests,
+               assessments, charges, costs, damages, debts, liabilities, expenses, fines, with
+               respect to any Person, any liability or obligation of such Person of any kind,
+               character or description, whether known or unknown, absolute or contingent,
+               accrued or unaccrued, disputed or undisputed, liquidated or unliquidated, secured
+               or unsecured, joint or several, due or to become due, vested or unvested,
+               executory, determined, determinable or otherwise, and whether or not the same is
+               required to be accrued on the financial statements of such Person, losses,
+               obligations and penalties, whether accrued or fixed, absolute or contingent,
+               matured or unmatured or determined or determinable, including those arising
+               under any Applicable Law, Claim by any Governmental Authority or any order, writ,
+               judgment, injunction, decree, stipulation, determination or award entered by or with
+               any Governmental Authority, and those arising under any contract, agreement,
+               arrangement, commitment or undertaking, assessment, judgment, settlement or
+               compromise relating thereto, and all interest, fines and penalties and reasonable
+               legal fees and expenses incurred in connection therewith (on a full indemnity
+               basis);
+
+        (ff)   “Losses” means all actions, causes of action, losses, costs, Claims, damages,
+               penalties, assessments, charges, expenses, and other liabilities and obligations
+
+
+87784334.11
+                                                -6-
+
+
+               which a Party suffers, sustains, pays or incurs, including reasonable legal fees and
+               other professional fees and disbursements on a full-indemnity basis;
+
+        (gg)   “Miscellaneous Interests” means, subject to the limitations and exclusions below
+               in this definition, all of Company’s right, title and interest in and to (a) the Wells
+               including the well bores of the Wells and down-hole casing for the Wells; and (b)
+               all property and rights that pertain directly to the Petroleum and Natural Gas
+               Rights, the Lands, the Wells or the Tangibles (excluding the Petroleum and Natural
+               Gas Rights, Wells or the Tangibles themselves), including:
+
+                 (i)   the Title and Operating Documents and all other contracts and agreements
+                       and all rights in relation thereto, including the Transportation, Sale and
+                       Handling Agreements;
+
+                (ii)   the Surface Rights;
+
+               (iii)   the well bores of the Wells, including down-hole casing for the Wells;
+
+               (iv)    the entire interest of the Company in and to any and all geological and/or
+                       seismic data, in whatever form;
+
+                (v)    emissions credits, emission offsets or other similar statutory or regulatory
+                       instruments;
+
+               (vi)    records, files, reports, data, correspondence and other information,
+                       including lease, contract, well, production and facilities files and records,
+                       and emergency response plans; and
+
+               (vii)   all extensions, renewals, replacements, substitutions or amendments of or
+                       to any of the agreements and instruments described in paragraphs (i), (ii)
+                       and (iv) above;
+
+               however, the Miscellaneous Interests shall not include the Excluded Assets or the
+               Excluded Contracts nor shall they include agreements, documents or data to the
+               extent that they solely consist of the Excluded Assets or the Excluded Contracts;
+
+        (hh)   “Order” means all judicial, arbitral, administrative, ministerial, departmental or
+               regulatory judgments, injunctions, orders, decisions, rulings, determinations,
+               awards, or decrees of any Governmental Authority (in each case, whether
+               temporary, preliminary or permanent);
+
+        (ii)   “Outside Date” means the date that is at least forty five (45) days from the date of
+               this Agreement or such later date as may be agreed to in writing by the Parties;
+               provided that, if the Closing has not occurred by at least forty five (45) days from
+               the date of the Agreement as a result of the failure to satisfy the conditions set
+               forth in section 5.2(c), then the Purchaser may elect by notice in writing delivered
+               to the Receiver by no later than 5:00 p.m. (Calgary time) on a date that is on or
+               prior to such date or, in the case of subsequent extensions, the date that is on or
+               prior to the Outside Date, as previously extended, to extend the Outside Date from
+               time to time by a specified period of not less than five days and not more than forty
+               five (45) days, provided that in aggregate such extensions shall not exceed ninety
+
+
+
+87784334.11
+                                                 -7-
+
+
+               (90) days from the date that is at least forty five (45) days from the date of the
+               Agreement;
+
+        (jj)   “Parties” means, collectively, all of the parties to this Agreement; and “Party”
+               means a party to this Agreement;
+
+        (kk)   “Permits and Licenses” means the permits, licenses, authorizations, approvals
+               or other evidence of authority related to the Business or issued to, granted to,
+               conferred upon, or otherwise created for, the Company, including, without
+               limitation any licenses, permits, certificates, or other authorizations or directions
+               issued or required to be issued, by the AER, to the Company, in connection with
+               the operation of the Business and the ownership of the Retained Assets and the
+               Retained Contracts;
+
+        (ll)   “Person” means any individual, corporation, limited or unlimited liability company,
+               joint venture, partnership (limited or general), trust, trustee, executor,
+               Governmental Authority or other entity;
+
+        (mm) “Petroleum and Natural Gas Rights” means all of Company’s right, title and
+             interest in and to:
+
+                (i)    rights in, or rights to explore or drill for and to recover, produce, save and
+                       market, Petroleum Substances;
+
+               (ii)    rights to a share of production of Petroleum Substances therefrom;
+
+               (iii)   fee simple interests and other estates in Petroleum Substances in situ;
+
+               (iv)    working interests, carried working interests, royalty and overriding royalty
+                       interests, revenue interests, net profit interests, and similar interests in
+                       Petroleum Substances or the proceeds of the sale of Petroleum
+                       Substances or other encumbrance accruing to Company or to payments
+                       calculated by reference thereto; and
+
+               (v)     rights to acquire or earn any of the foregoing in paragraphs (i), (ii), (iii) and
+                       (iv);
+
+               but, in each case, only insofar as the foregoing relate to the Lands or any lands
+               pooled or unitized therewith and only insofar as such rights are granted by the
+               Leases (and for clarity, (i) and (ii) above include all rights arising from unit
+               allocations);
+
+        (nn)   “Petroleum Substances” means bitumen, crude oil, natural gas, natural gas
+               liquids and other related hydrocarbons and all other substances related to any of
+               the foregoing, whether liquid, solid or gaseous, and whether hydrocarbons or not,
+               including sulphur and coalbed methane;
+
+        (oo)   “Purchase Price” has the meaning set out in Section 2.2;
+
+        (pp)   “Purchased Shares” means 200,000,000 Common Shares subscribed for by the
+               Purchaser and sold by the Receiver hereunder, or such greater or lesser number
+               as will give the Purchaser 100% of the issued Common Shares at Closing;
+
+
+87784334.11
+                                                -8-
+
+
+        (qq)    “Purchaser” has the meaning ascribed thereto in the Recitals and any assignee
+                of the Purchaser pursuant to Section 7.5;
+
+        (rr)    “Receiver” has the meaning ascribed thereto in the Recitals;
+
+        (ss)    “Receiver’s Counsel” means Miller Thomson LLP;
+
+        (tt)    “Receivership Order” has the meaning ascribed thereto in the Recitals;
+
+        (uu)    “Receivership Proceedings” means the proceedings commenced under the
+                Receivership Order pursuant to which the Receiver was appointed as Receiver of
+                the assets, undertakings and properties of the Company;
+
+        (vv)    “Recitals” means the preamble and the recitals to this Agreement;
+
+        (ww)    “Representative” means, with respect to any Party, its Affiliates, and its and their
+                respective directors, officers, agents, advisors, employees and consultants and
+                with respect to the Company includes its employees and consultants, and its and
+                their respective directors, officers, agents, advisors, employees and consultants;
+
+        (xx)    “ResidualCo” means a corporation to be incorporated as a wholly owned
+                subsidiary of the Company, to which the Excluded Assets and Excluded Liabilities
+                will be transferred pursuant to the terms hereof;
+
+        (yy)    “Retained Assets” means all of the Company’s right, title and interest in and to
+                the assets described under the heading “Retained Assets” in Schedule “B” hereto
+                and includes, where the context requires, the Retained Contracts; including
+                without limitation, all rights, interests, and entitlements of the Company in and to
+                any and all proceeds, credits, deposits, refunds, reimbursements, adjustments,
+                and other recoverable amounts of any nature whether arising before or after the
+                Effective Time.
+
+        (zz)    “Retained Contracts” means those contracts, agreements and commitments
+                described under the heading “Retained Contracts” in Schedule “B” hereto;
+
+        (aaa) “Retained Liabilities” means those liabilities described under the heading
+              “Retained Liabilities” in Schedule “B” hereto;
+
+        (bbb) “Reverse Vesting Order” means an approval and reverse vesting order of the
+              Court, in substantially the form attached hereto as Schedule “A”, or in such other
+              form as may be agreed to by the Parties in writing that, among other things
+              approves this Agreement and the Transactions contemplated hereby (including the
+              redemption for nominal consideration, and subsequent cancellation, of all of the
+              issued and outstanding equity interests of the Company, if any, other than the
+              Purchased Shares);
+
+        (ccc)   “Surface Rights” means all rights to occupy, cross or otherwise use or enjoy the
+                surface of the Lands and any lands pooled or unitized therewith or any other lands:
+                (i) upon which the Tangibles are situate, (ii) used in connection with the ownership
+                or operation of the Petroleum and Natural Gas Rights, the Tangibles or the Wells,
+                or (iii) used to gain access to any of the Lands (or any lands pooled or unitized
+
+
+
+87784334.11
+                                               -9-
+
+
+                therewith), the Tangibles or the Wells, whether the same are fee simple, held by
+                right of way or otherwise;
+
+        (ddd) “Tangibles” means all of Company’s right, title and interest in and to all tangible
+              depreciable property, apparatus, plant, equipment, machinery, field inventory and
+              facilities, used or intended for use in, or otherwise useful in exploiting any
+              Petroleum Substances from or within the Lands (whether the Petroleum and
+              Natural Gas Rights to which such Petroleum Substances are allocated are owned
+              by Company or by others or both) and located within, upon or in the vicinity of the
+              Lands (or any lands pooled or unitized therewith), including all gas plants, oil
+              batteries, buildings, production equipment, pipelines, pipeline connections,
+              meters, generators, motors, compressors, treaters, dehydrators, separators,
+              pumps, tanks, boilers, communication equipment, all salvageable equipment
+              pertaining to any Wells and all facilities and all Associated Infrastructure;
+
+        (eee) “Taxes” means taxes, duties, fees, premiums, assessments, imposts, levies and
+              other similar charges imposed by any Governmental Authority under Applicable
+              Law, including all interest, penalties, fines, additions to tax or other additional
+              amounts imposed by any Governmental Authority in respect thereof, and including
+              those levied on, or measured by, or referred to as, income, gross receipts, profits,
+              capital, transfer, land transfer, sales, goods and services, harmonized sales, use,
+              value-added, excise, stamp, withholding, business, franchising, property,
+              development, occupancy, employer health, payroll, employment, health, social
+              services, education and social security taxes, all surtaxes, all customs duties and
+              import and export taxes, countervail and anti-dumping, and all employment
+              insurance, health insurance and governmental pension plan premiums or
+              contributions;
+
+        (fff)   “Third Party” means any individual or entity other than the Receiver, the Company
+                and the Purchaser, including any partnership, corporation, trust, unincorporated
+                organization, union, government and any department and agency thereof and any
+                heir, executor, administrator or other legal representative of an individual;
+
+        (ggg) “Title and Operating Documents” means:
+
+                (i)    the Leases;
+
+                (ii)   agreements relating to the acquisition, ownership, operation or exploitation
+                       of the Petroleum and Natural Gas Rights, Tangibles or the Wells, including:
+
+                       (A)    operating agreements, royalty agreements, farm-out or farm-in
+                              agreements, option agreements, participation agreements, pooling
+                              agreements, unit agreements, unit operating agreements, sale and
+                              purchase agreements and asset exchange agreements;
+
+                       (B)    agreements for the sale of Petroleum Substances that are
+                              terminable on thirty one (31) days notice or less without early
+                              termination penalty or other cost;
+
+                       (C)    agreements pertaining to the Surface Rights;
+
+
+
+
+87784334.11
+                                               - 10 -
+
+
+                       (D)     agreements for the construction, ownership and operation of gas
+                               plants, gathering systems and other tangible depreciable property
+                               and assets;
+
+                       (E)     service agreements for the treating, gathering, storage,
+                               transportation or processing of Petroleum Substances or other
+                               substances, the injection or subsurface disposal of other
+                               substances, the use of well bores or the operation of any Tangibles
+                               or Wells by a Third Party;
+
+                       (F)     the Transportation, Sale and Handling Agreements; and
+
+                       (G)     the Permits and Licenses and other approvals, authorizations or
+                               licences required under Applicable Law;
+
+        (hhh) “Transactions” means: (i) the assignment by the Receiver to ResidualCo of the
+              Excluded Assets and the Excluded Liabilities; (ii) the issuance by the Receiver to
+              the Purchaser, and the subscription for and purchase by the Purchaser, of the
+              Purchased Shares in consideration of the Purchase Price; and (iii) all matters
+              related or ancillary to the foregoing contemplated by or in the manner provided for
+              in this Agreement or the Reverse Vesting Order;
+
+        (iii)   “Transportation, Sale and Handling Agreements” means agreements providing
+                for the processing, compression, treatment, gathering, storage, transportation or
+                sale of Petroleum Substances produced from the Lands or lands pooled or unitized
+                therewith or obligations for processing, compression, treatment, gathering,
+                storage, transportation or sale of Petroleum Substances on behalf of Third Parties,
+                but does not include any construction, ownership and operation agreements for
+                similar agreements for the co-ownership of facilities; and
+
+        (jjj)   “Wells” means all producing, shut-in, water source, observation, disposal,
+                injection, abandoned, suspended and similar wells located on or within the Lands
+                or any lands pooled or unitized therewith, whether or not completed.
+
+1.2     Headings
+
+The words “Article”, “Section”, “subsection” and “Schedule” followed by a number or letter or
+combination thereof mean and refer to the specified Article, Section, subsection and Schedule of
+or to this Agreement.
+
+1.3     Interpretation Not Affected by Headings
+
+The division of this Agreement into Articles, Sections and subsections and the provision of
+headings for all or any thereof are for convenience and reference only and shall not affect the
+construction or interpretation of this Agreement.
+
+1.4     Plural and Gender
+
+When the context reasonably permits, words suggesting the singular shall be construed as
+suggesting the plural and vice versa, and words suggesting gender or gender neutrality shall be
+construed as suggesting the masculine, feminine and neutral genders.
+
+
+
+87784334.11
+                                                - 11 -
+
+
+1.5     Schedules
+
+There are appended to this Agreement the following Schedules pertaining to the following
+matters:
+
+        Schedule “A” –         Form of Reverse Vesting Order
+
+        Schedule “B” –         Excluded Assets; Excluded Liabilities; Excluded Contracts;
+                               Retained Assets; Retained Liabilities and Retained Contracts
+
+Such Schedules are incorporated herein by reference as though contained in the body hereof.
+
+1.6     Damages
+
+All Losses in respect of which a Party has a claim pursuant to this Agreement shall include
+reasonable legal fees and disbursements on a full indemnity basis.
+
+1.7     Derivatives
+
+Where a term is defined in the body of this Agreement, a capitalized derivative of such term shall
+have a corresponding meaning unless the context otherwise requires. The word “include” and
+derivatives thereof shall be read as if followed by the phrase “without limitation”.
+
+1.8     Interpretation if Closing Does Not Occur
+
+In the event that Closing does not occur, each provision of this Agreement which presumes that
+the Purchaser has acquired the Purchased Shares or the Retained Assets hereunder shall be
+construed as having been contingent upon Closing having occurred.
+
+1.9     Conflicts
+
+If there is any conflict or inconsistency between a provision of the body of this Agreement and
+that of a schedule, the provision of the body of this Agreement shall prevail. If any term or condition
+of this Agreement conflicts with a term or condition of any Applicable Law, the term or condition
+of such Applicable Law shall prevail, and this Agreement shall be deemed to be amended to the
+extent required to eliminate any such conflict.
+
+1.10    Currency
+
+All dollar ($) amounts referenced in this Agreement are expressed in the lawful currency of
+Canada.
+
+                                       ARTICLE 2
+                             PURCHASE OF PURCHASED SHARES
+
+2.1     Purchase of the Purchased Shares
+
+Subject to the provisions of this Agreement and the Reverse Vesting Order, on the Closing Date,
+the Purchaser shall subscribe for and purchase from the Receiver, and the Receiver shall issue
+to the Purchaser the Purchased Shares free and clear of all Encumbrances.
+
+
+
+
+87784334.11
+                                                - 12 -
+
+
+2.2     Purchase Price
+
+The purchase price payable by the Purchaser for the Purchased Shares shall be the sum of
+             (the “Purchase Price”), plus GST in the amount of               and plus or minus
+(as applicable) the net amount of the adjustments made pursuant to Article 3, to be satisfied as
+follows:
+
+        (a)    Application of the Deposit: The Deposit shall be released to and retained by the
+               Receiver and applied and credited against the Purchase Price and GST;
+
+        (b)    Closing Payment: An amount sufficient to satisfy the remaining portion of the
+               Purchase Price and GST (for greater certainty, after accounting for: (i) the
+               application of the Deposit to the Purchase Price and GST pursuant to Section
+               2.2(a); and (ii) the net amount of any adjustments set out in Article 3) (collectively,
+               the “Closing Payment”).
+
+2.3     Deposit
+
+The Parties acknowledge that a deposit in the amount of                    (the “Deposit”) has been
+provided by the Purchaser to the Receiver’s Counsel prior to or concurrent with the execution of
+this Agreement, to be held in trust in by the Receiver’s solicitor in a non-interest bearing account.
+The Deposit shall be held in trust by the Receiver until one of the following events occur:
+
+        (a)    if Closing occurs, the Deposit shall be paid to Receiver at Closing for its own
+               account absolutely and be applied as partial payment of the Purchase Price in
+               accordance with Section 2.2;
+
+        (b)    if Closing does not occur due to a breach of this Agreement by Purchaser or by
+               failure of Purchaser to fulfill the conditions set forth in Section 5.4, the Deposit shall
+               be forfeited to Receiver for the account of Receiver absolutely; and
+
+        (c)    if Closing does not occur due to any other reason than as addressed by Section
+               2.3(b), the Deposit shall be paid to Purchaser for the account of Purchaser
+               absolutely.
+
+2.4     Form of Payment
+
+All payments to be made pursuant to this Agreement shall be in Canadian funds. All payments to
+be made pursuant to this Agreement shall be made by wire transfer.
+
+                                            ARTICLE 3
+                                          ADJUSTMENTS
+
+3.1     Assumption of Obligations
+
+        The Purchaser confirms that it will assume the Retained Assets and Retained Liabilities,
+        including without limitation the payment of any and all amounts, interest and penalties in
+        respect thereof, including without limitation: (i) all property taxes, including any municipal
+        property taxes; (ii) all mineral lease royalties and rentals; (iii) surface lease rentals; and
+        (iv) any other obligation related to the Retained Assets and the Retained Liabilities or
+        arising from ownership or assumption thereof which shall be adjusted for in accordance
+        with this Article 3.
+
+
+87784334.11
+                                               - 13 -
+
+
+3.2     Costs and Revenues to be Apportioned
+
+        (a)   Except as otherwise provided herein and subject to Section 3.2(b) and 3.2(c), all
+              costs, expenses, revenues, proceeds, and other entitlements relating to the
+              Retained Assets and the Retained Liabilities (including but not limited to
+              maintenance, development, capital and operating costs, proceeds from the sale or
+              production of Petroleum Substances and fees from processing, treating or
+              transporting Petroleum Substances on behalf of Third Parties) shall be apportioned
+              between the Receiver and the Purchaser as of the Effective Time on an accrual
+              basis in accordance with generally accepted accounting principles, such that:
+
+               (i)    all costs, expenses, and liabilities arising in respect of periods prior to the
+                      Effective Time shall be for the account of the Receiver, and all revenues,
+                      earned or attributable to such period shall be for the benefit of the Receiver
+                      in each case regardless of the date of invoice, demand, payment or
+                      collection; and
+
+              (ii)    all costs, expenses, and liabilities arising in respect of periods from and
+                      after the Effective Time shall be for the account of the Purchaser, and all
+                      revenues earned or attributable to such period shall be for the benefit of
+                      the Purchaser, in each case regardless of the date of invoice, demand,
+                      payment or collection.
+
+        (b)   Notwithstanding anything to the contrary herein, including but not limited to Section
+              3.2(a):
+
+               (i)    all revenues, proceeds, and other entitlements from the sale of Petroleum
+                      Substances will be deemed to accrue when the Petroleum Substances are
+                      produced and any revenues in respect of the production of Petroleum
+                      Substances up to and including September 30, 2025 shall be for the benefit
+                      of the Receiver;
+
+              (ii)    all advances or deposits made by the Receiver or the Company with
+                      respect to the costs, expenses and liabilities related to the Retained Assets
+                      or the Retained Liabilities (including without limitation, electricity costs and
+                      other operational costs in respect of the Lands, the Wells, pipelines,
+                      facilities and Associated Infrastructure) which advances or deposits have
+                      not been applied to the payment of such costs, expenses and liabilities prior
+                      to the Closing Date and still stand to the credit of the Receiver or the
+                      Company, as applicable, as at the Closing Date, shall be returned to the
+                      Receiver or, if transferred to the Purchaser at Closing, an adjustment will
+                      be made in favour of the Receiver equal to the amount of such transferred
+                      advance or deposit;
+
+              (iii)   all costs and expenses of work done, services provided and goods supplied
+                      shall be deemed to accrue for the purposes of this Article 3 when the work
+                      is done or the goods or services are provided, regardless of when such
+                      costs and expenses become payable;
+
+              (iv)    no adjustments shall be made in respect of the Receiver’s income taxes;
+
+
+
+87784334.11
+                                              - 14 -
+
+
+               (v)    all rentals and similar payments in respect of the Petroleum Substances or
+                      surface rights comprised in the Retained Assets or the Retained Liabilities
+                      and all taxes (other than income taxes) levied with respect to the Retained
+                      Assets or the Retained Liabilities or operations in respect thereof shall be
+                      apportioned between the Receiver and the Purchaser on a per diem basis
+                      as of the Closing Date;
+
+              (vi)    Petroleum Substances that were produced, but not sold, as of October 1,
+                      2025 shall be credited to the Receiver and will be deemed to be sold on a
+                      first in, first out basis; and
+
+              (vii)   no adjustment shall be made in respect of Petroleum Substances in
+                      batteries and other storage facilities comprising the Tangibles, for which
+                      transfer of custody has not occurred to the purchaser of such Petroleum
+                      Substances as of the Effective Time and such Petroleum Substances will
+                      be the property of the Purchaser.
+
+        (c)   The Receiver shall not be liable to make any adjustment in favour of, or make any
+              payment to, the Purchaser pursuant hereto in respect of any:
+
+                (i)   liability, cost or expense which relates to the period which arose prior to the
+                      Appointment Date or which cost or expense does not constitute a liability
+                      of the Purchaser; or
+
+               (ii)   cost or expense which relates to any reassessment of royalties arising or
+                      accruing before or after Closing.
+
+              For the avoidance of doubt, the Receiver shall not be liable to make any adjustment
+              in favour of, or make any payment to, the Purchaser in respect of any costs or
+              expenses which relate to any regulatory approvals, permits, licences, consents,
+              registrations, filings or authorizations that may be needed to complete the
+              Transactions or to transfer or convey the Retained Assets or any portion thereof
+              or any losses resulting from failure by the Purchaser to obtain any such regulatory
+              approvals, permits, licences, consents, registrations, filings or authorizations.
+
+3.3     Adjustments to Account
+
+        (a)   An accounting of the adjustments pursuant to this Article 3 shall be made at
+              Closing, based on the Receiver’s good faith estimate of the costs and expenses
+              paid or incurred by the Receiver or the Company prior to Closing and the revenues
+              received by the Receiver prior to Closing. The Receiver and the Purchaser shall
+              cooperate in preparing such interim accounting and the Receiver shall provide a
+              statement setting forth the adjustments to be made at Closing not later than two
+              (2) Business Days prior to Closing and shall assist the Purchaser in verifying the
+              amounts set forth in such statement and no further or other adjustments
+              whatsoever will be made thereafter. For greater certainty, any amounts received
+              following the Closing Date in respect of sales, services, or other entitlements of the
+              Company shall be for the account of the Purchaser, regardless of when such
+              amounts were invoices, accrued, or earned.
+
+        (b)   All adjustments provided for in this Article 3 shall be adjustments to the Purchase
+              Price.
+
+87784334.11
+                                                - 15 -
+
+
+3.4     Maintenance of Assets
+
+        (a)    From the date hereof until the Closing Date, the Receiver shall use reasonable
+               commercial efforts, to the extent that the nature of its interest permits, and subject
+               to the Receivership Order, pay or cause to be paid all costs and expenses relating
+               to the Business which become due from the date hereof to the Closing Date,
+               provided that nothing contained in the foregoing or elsewhere in this Agreement
+               shall obligate the Receiver to post security, make any other financial contribution
+               or file any undertaking with any Governmental Authority.
+
+        (b)    Notwithstanding Section 3.4(a), the Receiver shall not from the date hereof to the
+               Closing Date make any commitment or propose, initiate or authorize any capital
+               expenditure outside the ordinary course of business without first consulting with
+               the Purchaser in respect of thereof, except: (i) in case of an emergency; (ii) as may
+               be reasonably necessary to protect or ensure life and safety; or (iii) to preserve the
+               assets of the Company or title thereto.
+
+                                             ARTICLE 4
+                                             CLOSING
+
+4.1     Date, Time and Place of Closing
+
+Closing shall take place at the Closing Place on the Closing Date if there has been satisfaction or
+waiver of the conditions of Closing herein contained. Closing shall occur on the later of: (a)
+October 27, 2025; (b) the date that is five (5) Business Days following the day on which all
+conditions set out in Article 5 (other than those conditions that by their nature can only be satisfied
+on the Closing Date) have been satisfied or waived; or (c) such other earlier or later date as may
+be agreed upon by the Parties, provided that such date shall be no later than the Outside Date.
+The Parties agree to make reasonable commercial efforts to satisfy the conditions set out in
+Article 5 so that Closing may occur on October 27, 2025.
+
+4.2     Effectiveness of Reverse Vesting Order
+
+Subject to the other terms of this Agreement and the Reverse Vesting Order, to the extent such
+further action is required to give effectiveness thereto, the Receiver, the Company and
+ResidualCo, as applicable, shall effect the steps set forth in the Reverse Vesting Order, in the
+sequence and at the times specified therein, as such steps, transactions, sequence and/or times
+may be amended by written agreement of the Parties.
+
+4.3     Closing Deliveries
+
+        (a)    On the Closing Date, the Receiver shall deliver to the Purchaser:
+
+                (i)    an entered copy of the Reverse Vesting Order;
+
+                (ii)   a share certificate or other satisfactory evidence representing, in
+                       aggregate, the Purchased Shares registered in the name of the Purchaser
+                       as directed by the Purchaser; and
+
+               (iii)   all such other assurances, consents, agreements, documents and
+                       instruments as may be reasonably required by the Purchaser to complete
+                       the Transactions.
+
+
+87784334.11
+                                              - 16 -
+
+
+        (b)   On the Closing Date, the Purchaser shall deliver to the Receiver:
+
+               (i)    the Closing Payment pursuant to Section 2.2;
+
+              (ii)    a certificate dated as of the Closing Date and executed by an executive
+                      officer of the Purchaser confirming and certifying that each of the conditions
+                      in Sections 5.4(a) and 5.4(b) have been satisfied;
+
+              (iii)   a certificate of status, compliance, good standing or like certificate with
+                      respect to the Purchaser issued by the appropriate government official of
+                      its jurisdiction of formation; and
+
+              (iv)    all such other assurances, consents, agreements, documents and
+                      instruments as may be reasonably required by the Receiver.
+
+4.4     Transfer Taxes
+
+The Purchaser will promptly pay any applicable transfer taxes and/or GST directly to the
+appropriate taxing Governmental Authority, or promptly reimburse the Receiver upon demand
+and delivery of proof of payment, all applicable transfer taxes and/or GST that are properly
+payable by the Purchaser under Applicable Laws in connection with this Agreement and the
+transactions contemplated herein. This obligation shall survive Closing.
+
+                                        ARTICLE 5
+                                  CONDITIONS OF CLOSING
+
+5.1     Required Consents
+
+        (a)   Before Closing, each of the Parties shall use all reasonable efforts to obtain any
+              and all approvals required under Applicable Law to permit closing of the
+              Transactions. The Parties acknowledge that, except for the Reverse Vesting
+              Order, the acquisition of such consents shall not be a condition precedent to
+              Closing. It shall be the sole obligation of the Purchaser, at the Purchaser’s sole
+              cost and expense, to provide any and all financial assurances, remedial work or
+              other documentation required by Governmental Authorities to permit the transfer
+              to the Purchaser, and registration of the Purchaser as owner and/or operator, of
+              any of the Retained Assets, if any.
+
+        (b)   Notwithstanding anything to the contrary herein, except for the Reverse Vesting
+              Order, it is the sole obligation of the Purchaser to obtain any Third Party consents,
+              permissions or approvals that are required in connection with the Transactions at
+              the Purchaser’s sole cost and expense, including remedying any deficiencies
+              under any contracts and agreements assumed by the Purchaser or that otherwise
+              from part of the Retained Assets. Upon providing prior written notice and sufficient
+              documentary support, all reasonable and necessary costs, fees, expenses,
+              penalties or levies that are incurred by the Receiver in order to effect the
+              Transactions pursuant to the Reverse Vesting Order shall be the sole responsibility
+              of the Purchaser, and the Purchaser agrees to pay on behalf of the Receiver any
+              such reasonable and necessary costs, fees, expenses, penalties or levies on a
+              timely basis.
+
+
+
+
+87784334.11
+                                               - 17 -
+
+
+5.2     Mutual Conditions
+
+The obligation of the Purchaser to complete the Transactions, and of the Receiver to sell the
+Purchased Shares to the Purchaser, is subject to the following conditions precedent:
+
+        (a)    the Reverse Vesting Order being obtained;
+
+        (b)    pursuant to the Reverse Vesting Order, all Excluded Assets and Excluded
+               Liabilities shall have been transferred to ResidualCo and all Losses and
+               Encumbrances attached to the Excluded Assets and Excluded Liabilities (other
+               than in respect of the Retained Liabilities) shall continue to attach to the Excluded
+               Assets and Excluded Liabilities, as applicable, with the same nature and priority
+               as they had immediately prior to their transfer and the Retained Liabilities and
+               Retained Assets will be retained by the Company pursuant to and in accordance
+               with the Reverse Vesting Order;
+
+        (c)    no Applicable Law or Order will have been enacted, issued, promulgated,
+               enforced, made, entered, issued or applied and no Claim will otherwise have been
+               made under any Applicable Laws or by any Governmental Authority (whether
+               temporary, preliminary or permanent) that makes or which would reasonably be
+               expected to make the transactions contemplated by this Agreement illegal or to
+               otherwise directly or indirectly cease trade, enjoin, restrain or otherwise prohibit
+               completion of the transactions contemplated by this Agreement; and
+
+        (d)    the Company shall cease to be a party to the Receivership Proceedings and the
+               Company be deemed to be released from the purview of Receivership Order and
+               all other Orders of the Court granted under the Receivership Proceedings, save
+               and except for the Reverse Vesting Order the provisions of which (as they relate
+               to the Company) shall continue to apply in all respects.
+
+Unless otherwise agreed to by the Parties, if the conditions contained in this Section 5.1(b) have
+not been performed, satisfied or waived before the Outside Date, this Agreement and the
+obligations of the Parties under this Agreement (other than under Sections 7.11 and 7.12) shall
+automatically terminate without any further action on the part of either the Receiver or the
+Purchaser.
+
+5.3     Purchaser’s Conditions
+
+The obligation of the Purchaser to purchase the Purchased Shares is subject to the following
+conditions precedent, which are inserted herein and made part hereof for the exclusive benefit of
+the Purchaser and may be waived by the Purchaser:
+
+        (a)    the representations and warranties of the Receiver herein contained shall be true
+               in all material respects when made and shall remain true as of the Closing Date;
+               and
+
+        (b)    all obligations of the Receiver contained in this Agreement to be performed prior
+               to or at Closing shall have been timely performed in all material respects.
+
+If any one or more of the foregoing conditions precedent has or have not been satisfied, complied
+with, or waived by the Purchaser, at or before the Outside Date, the Purchaser may rescind this
+Agreement by written notice to the Receiver. If the Purchaser rescinds this Agreement, the Parties
+
+
+87784334.11
+                                               - 18 -
+
+
+shall be released and discharged from all obligations hereunder except as provided in Sections
+7.11 and 7.12.
+
+5.4     Receiver’s Conditions
+
+The obligation of the Receiver to sell the Purchased Shares is subject to the following conditions
+precedent, which are inserted herein and made part hereof for the exclusive benefit of the
+Receiver and may be waived by the Receiver:
+
+        (a)    the representations and warranties of the Purchaser herein contained shall be true
+               in all material respects when made and shall remain true as of the Closing Date;
+
+        (b)    all obligations of the Purchaser contained in this Agreement to be performed prior
+               to or at Closing shall have been timely performed in all material respects; and
+
+        (c)    all amounts to be paid by the Purchaser to the Receiver at Closing, including the
+               Purchase Price, shall have been paid to the Receiver in the form stipulated in this
+               Agreement.
+
+If any one or more of the foregoing conditions precedent has or have not been satisfied, complied
+with, or waived by the Receiver, at or before the Outside Date, the Receiver may rescind this
+Agreement by written notice to the Purchaser. If the Receiver rescinds this Agreement, the Parties
+shall be released and discharged from all obligations hereunder except as provided in Sections
+7.11 and 7.12.
+
+5.5     Efforts to Fulfil Conditions Precedent
+
+The Parties shall proceed diligently and in good faith and use all reasonable efforts to satisfy and
+comply with and assist in the satisfaction and compliance with the foregoing conditions precedent.
+
+                                     ARTICLE 6
+                           REPRESENTATIONS AND WARRANTIES
+
+6.1     Representations and Warranties of the Receiver
+
+The Receiver makes only the following representations to the Purchaser, which representations
+shall not survive Closing:
+
+        (a)    it has been appointed as the receiver of the assets, undertakings and properties
+               of the Company pursuant to the Receivership Order of the Court, subject to
+               obtaining the Reverse Vesting Order, has the power, authority and capacity to
+               enter into this Agreement and to perform its obligations under this Agreement;
+
+        (b)    subject to obtaining the Reverse Vesting Order, the Receiver has the right to enter
+               into this Agreement and to complete the Transactions; and
+
+        (c)    subject to obtaining the Reverse Vesting Order, this Agreement is, and all
+               documents executed and delivered pursuant to this Agreement will be, legal, valid
+               and binding obligations of the Receiver enforceable against it in accordance with
+               their terms.
+
+
+
+
+87784334.11
+                                              - 19 -
+
+
+6.2     Representations and Warranties of the Purchaser
+
+The Purchaser makes the following representations and warranties to the Receiver and agrees
+that the Receiver is relying on such representations and warranties for the purposes of entering
+into this Agreement:
+
+        (a)   the Purchaser is a corporation duly organized, validly existing and, as at the
+              Closing Date, will be authorized to carry on business in the provinces in which the
+              Retained Assets are located;
+
+        (b)   the Purchaser has good right, full power and absolute authority to purchase and
+              acquire the Purchased Shares according to the true intent and meaning of this
+              Agreement;
+
+        (c)   the execution, delivery and performance of this Agreement has been duly and
+              validly authorized by any and all requisite corporate, shareholders’, directors’ or
+              equivalent actions and will not result in any violation of, be in conflict with, or
+              constitute a default under, any articles, charter, bylaw or other governing document
+              to which the Purchaser is bound;
+
+        (d)   subject to the execution, delivery and performance of this Agreement will not result
+              in any violation of, be in conflict with, or constitute a default under, any term or
+              provision of any agreement or document to which the Purchaser is party or by
+              which the Purchaser is bound, nor under any judgement, decree, order, statute,
+              regulation, rule or licence applicable to the Purchaser;
+
+        (e)   this Agreement and any other agreements delivered in connection herewith
+              constitute valid and binding obligations of the Purchaser enforceable against the
+              Purchaser in accordance with their terms;
+
+        (f)   no authorization or approval or other action by, and no notice to or filing with, any
+              Governmental Authority or regulatory body exercising jurisdiction over the
+              Retained Assets is required for the due execution, delivery and performance by
+              the Purchaser of this Agreement, other than authorizations, approvals or
+              exemptions from requirements previously obtained and currently in force or to be
+              obtained prior to or after Closing;
+
+        (g)   the Purchaser: (i) is not an insolvent person within the meaning of the BIA or the
+              Winding-up and Restructuring Act (Canada); (ii) has not made an assignment in
+              favour of its creditors or a proposal in bankruptcy to its creditors or any class
+              thereof; (iii) has not had any petition for a receiving order and/or for the
+              appointment of a receiver or receiver and manager over its property and/or
+              business presented in respect of it; and (iv) has not initiated proceedings with
+              respect to a compromise or arrangement with its creditors or for its winding up,
+              liquidation or dissolution;
+
+        (h)   the Purchaser has not retained the services of any broker or agent in connection
+              with the Transactions;
+
+        (i)   the Purchaser is acquiring the Purchased Shares in its capacity as principal and is
+              not purchasing the Purchased Shares for the purpose of resale or distribution to a
+              Third Party, and is dealing at arm’s length with the Receiver and the Company;
+
+87784334.11
+                                              - 20 -
+
+
+        (j)   the Purchaser is an accredited investor, as defined by National Instrument 45-106
+              – Prospectus Exemptions, and/or that it meets one of the other exemptions under
+              Canadian securities laws;
+
+        (k)   the Purchaser understands that the Purchased Shares are being issued to it upon
+              an exemption from the prospectus requirements applicable under applicable
+              Canadian securities laws and that there may be restrictions imposed on the
+              Purchaser and the Purchased Shares which limit the Purchaser’s ability to resell
+              the Purchased Shares in Canada. Without limiting the foregoing, the Purchaser
+              further acknowledges and agrees that any proposed transfer, resale or other
+              disposition of the Purchased Shares shall be subject to Applicable Laws, including
+              any restrictions and requirements under Canadian securities laws;
+
+        (l)   the Purchaser is a registrant under the Excise Tax Act (Canada);
+
+        (m)   the aggregate book value of assets in Canada, and the annual gross revenues
+              from sale, in from or into Canada, of Purchaser and its Affiliates, are in each case
+              less than $100 million, calculated in accordance with the Competition Act and the
+              regulations enacted thereunder; and
+
+        (n)   the Purchaser is a WTO investor within the meaning of the Investment Canada Act
+              and is not a state-owned enterprise as defined in the Investment Canada Act.
+
+6.3     Limitation of Representations by the Receiver
+
+Notwithstanding any other provision of this Agreement, the Purchaser acknowledges, agrees and
+confirms that:
+
+        (a)   except for the representations and warranties of the Receiver set forth in Section
+              6.1, it is entering into this Agreement, acquiring the Purchased Shares (and the
+              underlying Retained Assets and Retained Liabilities), in each case on an “as is,
+              where is” basis as they exist as of Closing;
+
+        (b)   it has conducted to its satisfaction and have relied on such independent searches,
+              investigations, reviews and inspections of the Company, including without
+              limitation, with respect to the Purchased Shares, the Retained Assets and the
+              Retained Liabilities as it deemed appropriate, and based thereon, have determined
+              to proceed with the Transactions;
+
+        (c)   except as expressly stated in Section 6.1, none of the Receiver, its
+              Representatives or any other Person is making, and the Purchaser is not relying
+              on, any written or oral representations, warranties, statements, information,
+              promises or guarantees, express or implied, statutory or otherwise, concerning the
+              Transactions, the Company, the Business, the Purchased Shares, the Retained
+              Assets, the Retained Liabilities, the Excluded Assets and the Excluded Liabilities,
+              including the right, title or interest of the Company in and to any of the foregoing,
+              and any and all conditions, warranties or representations expressed or implied
+              pursuant to any Applicable Law in any jurisdiction, which the Purchaser confirms
+              do not apply to this Agreement, are hereby waived in their entirety by the
+              Purchaser;
+
+
+
+
+87784334.11
+                                               - 21 -
+
+
+        (d)    none of the Receiver, its Representatives or any other Person has made any
+               representation or warranty as to any regulatory approvals, permits, licences,
+               consents, registrations, filings or authorizations that may be needed to complete
+               the Transactions or to obtain the benefit of the Retained Assets or any portion
+               thereof, and the Purchaser is relying entirely on its own investigation, due diligence
+               and inquiries in connection with such matters;
+
+        (e)    the Receiver shall have no liability or obligation whatsoever in respect of any
+               regulatory approvals, permits, licenses, consents, registrations, filings or
+               authorizations that may be needed to complete the Transactions or in respect of
+               the Retained Assets and the Purchaser shall be solely responsible for obtaining
+               any such regulatory approvals, permits, licenses, consents, registrations, filings or
+               authorizations as it may require following Closing;
+
+        (f)    the obligations of the Purchaser under this Agreement are not conditional upon
+               any additional due diligence;
+
+        (g)    except for the representations and warranties of the Receiver set forth in Section
+               6.1, any information regarding or describing the Purchased Shares, the Retained
+               Assets or the Retained Liabilities, or in any other agreement or instrument
+               contemplated hereby, is for identification purposes only, is not relied upon by the
+               Purchaser, and no representation, warranty or condition, express or implied, has
+               or will be given by the Receiver, its Representatives or any other Person
+               concerning the completeness or accuracy of such information or descriptions;
+
+        (h)    except as otherwise expressly provided in this Agreement, the Purchaser hereby
+               unconditionally and irrevocably waives any and all actual or potential rights or
+               claims the Purchaser might have against the Receiver, the Company or
+               ResidualCo, or any of their respective Representatives pursuant to any warranty,
+               express or implied, legal or conventional, of any kind or type, other than those
+               representations and warranties of the Receiver expressly set forth in Section 6.1
+               such waiver is absolute, unlimited, and includes, but is not limited to, waiver of
+               express warranties, completeness of warranties, implied warranties, warranties of
+               fitness for a particular use, warranties of merchantability, warranties of occupancy,
+               strict liability and claims of every kind and type, including claims regarding defects,
+               whether or not discoverable or latent, and all other claims that may be later created
+               or conceived in strict liability or as strict liability type claims and rights; and
+
+        (i)    the provisions of this Section 6.3 shall survive and not merge on Closing.
+
+6.4     Purchaser’s Indemnities for Representations and Warranties
+
+The Purchaser shall be liable to the Receiver and shall, in addition, indemnify the Receiver and
+its Representatives from and against, all Losses suffered, sustained, paid or incurred by the
+Receiver and its Representatives which would not have been suffered, sustained, paid or incurred
+had all of the representations and warranties contained in Section 6.2 been accurate and truthful.
+
+
+
+
+87784334.11
+                                               - 22 -
+
+
+                                            ARTICLE 7
+                                            GENERAL
+
+7.1     Fees
+
+The Purchaser hereby acknowledges and agrees that it will be responsible for any and all fees,
+expenses, and disbursements incurred by the Purchaser in connection with the formulation,
+negotiation, and finalization of this Agreement and the closing of the Transactions contemplated
+hereby.
+
+7.2     Further Assurances
+
+Each Party will, from time to time and at all times after Closing, without further consideration, do
+such further acts and deliver all such further assurances, deeds and documents as shall be
+reasonably required to fully perform and carry out the terms of this Agreement. Without limiting
+the generality of the foregoing, at the Purchaser’s reasonable request and at the sole cost and
+expense of the Purchaser, the Receiver will provide such reasonably requested information and
+records with respect to the Business insofar as they relate to the Retained Assets or the Retained
+Liabilities.
+
+7.3     Entire Agreement
+
+Except for the Reverse Vesting Order, the provisions contained in any and all documents and
+agreements collateral hereto shall at all times be read subject to the provisions of this Agreement
+and, in the event of conflict, except for the Reverse Vesting Order, the provisions of this
+Agreement shall prevail. In the event that Closing occurs, except for the Reverse Vesting Order,
+this Agreement supersedes all other agreements, documents, writings and verbal understandings
+between the Parties relating to the subject matter hereof and expresses the entire agreement of
+the Parties with respect to the Transactions herein.
+
+7.4     Governing Law
+
+This Agreement shall, in all respects, be subject to, interpreted, construed and enforced in
+accordance with and under the laws of the Province of Alberta and the laws of Canada applicable
+therein. The Parties irrevocably attorn and submit to the jurisdiction of the courts of the Province
+of Alberta and courts of appeal therefrom in respect of all matters arising out of this Agreement.
+
+7.5     Assignment and Enurement
+
+This Agreement shall not be assigned by the Purchaser without the prior written consent of the
+Receiver, which consent may be unreasonably and arbitrarily withheld; provided that,
+notwithstanding the foregoing, the Purchaser shall be entitled to assign this Agreement, or any
+rights or obligations of the Purchaser hereunder, to an Affiliate of the Purchaser without the prior
+written consent of the Receiver, and provided further that any such assignment shall not relieve
+the Purchaser of its obligations hereunder. This Agreement shall be binding upon and shall enure
+to the benefit of the Parties and their respective administrators, trustees, receivers, successors
+and permitted assigns.
+
+7.6     Time of Essence
+
+Time is of the essence in this Agreement.
+
+
+
+87784334.11
+                                               - 23 -
+
+
+7.7     Notices
+
+The addresses of the Parties for delivery of notices hereunder shall be as follows:
+
+        if to the Receiver:    Alvarez & Marsal Canada Inc.
+                               Bow Valley Square IV
+                               Suite 1110, 250 – 6th Avenue SW
+                               Calgary, AB T2P EH7
+                               Attention:    Orest Konowalchuk / David Williams
+                               E-mail:       okonowalchuk@alvarezandmarsal.com /
+                                             david.williams@alvarezandmarsal.com
+
+        with a copy to:        Miller Thomson LLP
+                               525-8th Avenue SW, 43RD Floor
+                               Eighth Avenue Place East
+                               Calgary, AB T2P 1G1
+                               Attention:    James Reid
+                               Email:        jwreid@millerthomson.com
+
+        if to the Purchaser:   2698902 Alberta Corp.
+                               855 – 2nd Street SW, Suite 3500
+                               Calgary, AB T2P 4J8
+                               Attention:    Jordy Weinrauch
+                               E-mail:       jordy@jackfishresources.com
+
+All notices, communications and statements required, permitted or contemplated hereunder shall
+be in writing, and shall be delivered as follows:
+
+        (a)    by delivery to a Party between 8:00 a.m. and 4:00 p.m. on a Business Day at the
+               address of such Party for notices, in which case, the notice shall be deemed to
+               have been received by that Party when it is delivered;
+
+        (b)    by email to a Party to the email address of such Party for notices, in which case, if
+               the notice was emailed prior to 4:00 p.m. on a Business Day, the notice shall be
+               deemed to have been received by that Party when it was emailed and if it is
+               emailed on a day which is not a Business Day or is emailed after 4:00 p.m. on a
+               Business Day, it shall be deemed to have been received on the next following
+               Business Day; or
+
+        (c)    except in the event of an actual or threatened postal strike or other labour
+               disruption that may affect mail service, by first class registered postage prepaid
+               mail to a Party at the address of such Party for notices, in which case, the notice
+               shall be deemed to have been received by that Party on the fourth Business Day
+               following the date of mailing.
+
+A Party may from time to time change its address for service, email address for service or
+designated representative by giving written notice of such change to the other Party.
+
+
+
+
+87784334.11
+                                               - 24 -
+
+
+7.8     Invalidity of Provisions
+
+In case any of the provisions of this Agreement should be invalid, illegal or unenforceable in any
+respect, the validity, legality or enforceability of the remaining provisions contained herein shall
+not in any way be affected or impaired thereby.
+
+7.9     Waiver
+
+No failure on the part of any Party in exercising any right or remedy hereunder shall operate as a
+waiver thereof, nor shall any single or partial exercise of any such right or remedy preclude any
+other or further exercise thereof or the exercise of any right or remedy in law or in equity or by
+statute or otherwise conferred. No waiver by any Party of any breach (whether actual or
+anticipated) of any of the terms, conditions, representations or warranties contained herein shall
+take effect or be binding upon that Party unless the waiver is expressed in writing under the
+authority of that Party and made in accordance with the Agreement. Any waiver so given shall
+extend only to the particular breach so waived and shall not limit or affect any rights with respect
+to any other or future breach.
+
+7.10    Amendment
+
+This Agreement shall not be varied in its terms or amended by oral agreement or by
+representations or otherwise other than by an instrument in writing dated subsequent to the date
+hereof, executed by a duly authorized Representative of each Party.
+
+7.11    Confidentiality and Public Announcements
+
+Until Closing has occurred, each Party shall keep confidential all information obtained from the
+other Party in connection with the Purchased Shares, the Retained Assets and this Agreement,
+and shall not release any information concerning this Agreement and the Transactions without
+the prior written consent of the other Party, which consent shall not be unreasonably withheld.
+Nothing contained herein shall prevent a Party at any time from furnishing information: (i) to any
+Governmental Authority or to the public if required by Applicable Law (provided that the Purchaser
+shall advise the Receiver in advance of the content of any such public statement); or (ii) in
+connection with obtaining the Reverse Vesting Order.
+
+7.12    Personal Information
+
+The Purchaser covenants and agrees to use and disclose any personal information contained in
+any of the Books and Records or otherwise obtained or reviewed by the Purchaser in connection
+with these Transactions only for those purposes for which it was initially collected from or in
+respect of the individual to which such information relates, unless:
+
+        (a)    the Receiver or the Purchaser has first notified such individual of such additional
+               purpose, and where required by the Applicable Laws, obtained the consent of such
+               individual to such additional purpose; or
+
+        (b)    such use or disclosure is permitted or authorized by Applicable Laws, without
+               notice to, or consent from, such individual; and
+
+        (c)    the Purchaser’s obligations set forth in this Section 7.12 shall survive the Closing
+               Date indefinitely.
+
+
+
+87784334.11
+                                              - 25 -
+
+
+7.13    Termination
+
+This Agreement may be terminated at any time prior to Closing:
+
+        (a)    by mutual written agreement of the Parties; or
+
+        (b)    by either Party pursuant to the provisions of Sections 5.3 or 5.4, as applicable; or
+
+        (c)    by the Receiver if the Purchaser has breached its obligations under this Agreement
+               and has not cured such breach within five (5) Business Days of receiving notice
+               thereof from the Receiver.
+
+In the event that this Agreement is terminated pursuant to this Section 7.12, each Party shall be
+released from all obligations under or in connection with this Agreement, other than the provisions
+with respect to Sections 7.11 and 7.12.
+
+7.14    Counterpart Execution
+
+This Agreement may be executed and delivered in counterpart and transmitted by facsimile or
+other electronic means and all such executed counterparts, including electronically transmitted
+copies of such counterparts, shall together constitute one and the same agreement.
+
+                                    [Signature Page Follows]
+
+
+
+
+87784334.11
+IN WITNESS WHEREOF the Parties have executed this Agreement as of the date first above
+written.
+
+
+
+
+                                              2698902 ALBERTA CORP.
+
+
+
+                                              By
+                                                   Name:    Jordy Weinrauch
+                                                   Title:   Authorized Signatory
+
+
+
+
+                                              CLEO ENERGY CORP., by and through its
+                                              Court-appointed receiver ALVAREZ &
+                                              MARSAL CANADA INC., in its capacity as
+                                              Court-appointed receiver, and not in its
+                                              personal or corporate capacity
+
+                                              By
+                                                   Name: Orest Konowalchuk
+                                                   Title: Authorized Signatory
+
+
+
+
+87784334.11
+                        SCHEDULE “A”
+
+                FORM OF REVERSE VESTING ORDER
+
+See attached.
+                                       SCHEDULE “B”
+
+  EXCLUDED ASSETS, EXCLUDED LIABILITIES, EXCLUDED CONTRACTS, RETAINED
+         ASSETS, RETAINED LIABILITIES AND RETAINED CONTRACTS
+
+Excluded Assets
+
+     1.     All cash, cash equivalents, securities, bank balances, funds, deposits or monies
+            owned by the Company or on behalf of the Company at Closing (including for
+            greater certainty, the Purchase Price and any other amounts paid by the
+            Purchaser to the Receiver at Closing). For greater certainty, revenues, proceeds,
+            and other entitlements relating to the Retained Assets received by the Receiver
+            or the Company after the Effective Time which, pursuant to Section 3.2, shall be
+            for the benefit of the Purchaser, shall not be an Excluded Asset.
+
+Excluded Liabilities
+
+     1.     All debts, obligations, Liabilities, Claims, indebtedness, contracts, leases,
+            agreements, undertakings, rights and entitlements of any kind or nature
+            whatsoever (whether direct or indirect, known or unknown, absolute or contingent,
+            accrued or unaccrued, liquidated or unliquidated, matured or unmatured or due or
+            not yet due, in law or in equity and whether based in statute or otherwise) of or
+            against the Company other than the Retained Liabilities or those in relation to or
+            arising out of the Retained Contracts.
+
+Excluded Contracts
+
+     1.     The Fabyan 06-08-045-07W4M Gas Processing and Gas Handling Agreement by
+            and between Durham Creek Energy Ltd. (“Durham Creek”) and Cleo Energy Corp,
+            dated December 1, 2023, as assigned by Durham Creek to Surge Energy Inc.
+            (“Surge”) pursuant to an assignment Agreement between Durham Creek and Surge
+            dated April 15, 2024.
+
+     2.     The Letter Contactor Agreement by and between Alvarez & Marsal Canada Inc., in
+            its capacity as Court appointed Receiver of Cleo Energy Corp. and Block 63 Ltd.
+
+     3.     The Commercial Agreement by and between Cleo Energy Corp. and Trafigura
+            Canada Limited dated as of July 12, 2024.
+
+Retained Assets
+
+     1.     All of the assets, property, and undertakings, of every kind or nature, owned by
+            the Company on the date of this Agreement, including without limitation, the
+            Retained Contracts, the Title and Operating Documents, Petroleum and Natural
+            Gas Rights, the Tangibles, the Miscellaneous Interests, and Books and Records,
+            other than the Excluded Assets and the Excluded Contracts. For greater certainty,
+            revenues, proceeds, and other entitlements relating to the Retained Assets
+            received by the Receiver or the Company after the Effective Time which, pursuant
+            to Section 3.2, shall be for the benefit of the Purchaser, shall be a Retained Asset.
+      2.      All security deposits, refunds, and financial assurances posted with any
+              Governmental Authority, including without limitation any deposits or security held
+              by the AER together with all related rights of recover, refund, or adjustment. The
+              Company shall also retain all accounts receivable, credits, and rights to payment
+              or reimbursement, including any rights pursue, reconcile, or adjust such amounts
+              in the ordinary course of business, and to review and revise any related Tax filings
+              or assessments as may be necessary to ensure regulatory and financial
+              compliance.
+
+Retained Liabilities
+
+      1.      All Liabilities in relation to or arising out of the Retained Contracts.
+
+      2.      All Liabilities arising out of events or circumstances and which become due and
+              owing after the Effective Time, which are not adjusted for pursuant to Article 3 prior
+              to Closing.
+
+      3.      All Liabilities arising from the possession, ownership or use of the Retained Assets
+              following Closing (including for greater certainty any municipal taxes, property taxes,
+              surface use payments, bonuses, fees, royalties, overriding royalties, land use fees,
+              license fees, easement payments and similar obligations and Liabilities that accrue
+              on or after the Closing Date).
+
+      4.      All Abandonment and Reclamation Obligations.
+
+      5.      All Environmental Liabilities.
+
+Retained Contracts
+
+      1.      The Electricity Services Agreement by and between Alvarez & Marsal Canada
+              Inc., in its capacity as Court appointed Receiver of Cleo Energy Corp. and
+              1772387 Alberta Limited Partnership (o/a Encor by Epcor) by its general partner,
+              1772387 Alberta Ltd, with a start date of June 28, 2025.
+
+
+
+
+87784334.11
+APPENDIX B
+
+
+
+
+    29
+APPENDIX C
+
+
+
+
+    30
+

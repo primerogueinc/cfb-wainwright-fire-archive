@@ -1,0 +1,614 @@
+                                                                                       FILED
+ COURT FILE NUMBER                   2501 - 09028
+                                                                                      Nov 21, 2025
+ COURT                               COURT OF KING’S BENCH OF ALBERTA
+                                                                                       by Email
+ JUDICIAL CENTRE                     CALGARY
+
+                                     IN THE MATTER OF THE BANKRUPTCY AND
+                                     INSOLVENCY ACT, RSC 1985, C B-3, AS AMENDED
+
+                                    AND IN THE MATTER OF THE RECEIVERSHIP OF CLEO
+                                    ENERGY CORP.
+
+ APPLICANT                           UCAPITAL - ULOAN SOLUTIONS INC.
+
+ RESPONDENT                          CLEO ENERGY CORP.
+
+ DOCUMENT                           TRANSACTION APPROVAL AND REVERSE VESTING
+                                    ORDER
+
+ ADDRESS FOR SERVICE AND            MILLER THOMSON LLP
+ CONTACT INFORMATION OF             Barristers and Solicitors
+ PARTY    FILING    THIS            525-8th Avenue SW, 43rd Floor
+ DOCUMENT                           Calgary, AB, Canada T2P 1G1
+
+                                    Attention: James W. Reid / Pavin Takhar
+                                    Telephone: 403-298-2418 / 403-298-2432
+                                    Email:     iwreid@millerthomson.com /
+                                               ptakhar@millerthomson.com
+                                    File No.   0289127.0002
+
+DATE ON WHICH ORDER WAS PRONOUNCED: November 14, 2025
+
+
+LOCATION WHERE ORDER WAS PRONOUNCED: Calgary Courts Centre
+
+NAME OF JUSTICE WHO MADE THIS ORDER: The Honourable Justice M. H. Bourque
+
+       UPON THE APPLICATION of Alvarez & Marsal Canada Inc. (“A&M”), in its capacity as
+Court-appointed receiver and manager (A&M in such capacity, the “Receiver”) of CLEO Energy
+Corp, (the “Company”) for an order (among other things) approving the sale transaction (the
+“Transaction”) contemplated by the share purchase agreement between 2698902 Alberta Corp,
+(the “Purchaser”) and the Receiver (the “SPA”) dated October 6,2025, and attached as Appendix
+“A” to the First Report of the Receiver dated October 6, 2025 (the “First Report”);
+
+       AND UPON HAVING READ the Application, the First Report, the Supplement to the First
+Report of the Receiver dated October 24, 2025, and the Second Report of the Receiver dated
+November 5, 2024;
+                                                 -2-
+
+
+        AND UPON HAVING READ the Affidavit of Service of Marica Ceko sworn November 12,
+2025;
+
+
+        IT IS HEREBY ORDERED AND DECLARED THAT:
+
+
+SERVICE
+
+1.      Service of notice of this application and supporting materials is hereby declared to be good
+and sufficient, no other person is required to have been served with notice of this application and
+time for service of this application is abridged to that actually given.
+
+
+CAPITALIZED TERMS
+
+
+2.      Capitalized terms used but not otherwise defined in this Order shall have the meaning
+given to such terms in the SPA.
+
+
+APPROVAL OF TRANSACTION
+
+3.      The SPA and Transaction are hereby approved, and execution of the SPA by the Receiver
+and Purchaser is hereby authorized and approved, with such amendments as the Receiver and
+the Purchaser may agree to. The Receiver and Purchaser are hereby authorized and directed to
+complete the Transaction subject to the terms of the SPA, to perform their respective obligations
+under the SPA, and any ancillary documents related thereto, and to take such additional steps
+and execute such additional documents as may be necessary or desirable for completion of the
+Transaction. In the event of any conflict between the terms of the SPA and this Order, this Order
+shall prevail.
+
+4.      Subject to the terms of the SPA, this Order shall constitute the only authorization required
+by the Receiver to proceed with the reorganization and Transaction and that no shareholder,
+director or other approval or notice shall be required in connection therewith.
+
+REORGANIZATION AND ISSUANCE OF SHARES OF THE COMPANY
+
+
+5.      On the Closing Date, the Receiver is hereby authorized and directed to complete the
+Transaction, including the issuance of the Purchased Shares to the Purchaser in consideration of
+the Purchase Price.
+
+6.      The Purchased Shares shall be issued by the Receiver to the Purchaser free and clear of
+and from any Losses or Encumbrances.
+                                                   -3-
+
+
+7.     The Purchaser and the Receiver, in completing the Transaction, are authorized to:
+
+
+       (a)     execute and deliver any documents and assurances governing or giving effect to
+               the Transaction as the Purchaser and/or the Receiver, in their discretion, may
+               deem to be reasonably necessary or advisable to conclude the Transaction,
+                  including the execution of all such ancillary documents as may be contemplated in
+               the SPA or necessary or desirable for the completion and implementation of the
+               Transaction, and all such ancillary documents are hereby ratified, approved and
+                  confirmed; and
+
+
+       (b)     take such steps as are, in the opinion of the Receiver and/or the Purchaser,
+                  necessary or incidental to the implementation of the Transaction.
+
+8.     The Receiver and the Purchaser are hereby permitted to execute and file other documents
+or instruments as may be required to permit or enable the Transaction, including without limitation,
+the issuance of the Purchased Shares, and such other documents or instruments shall be deemed
+to be duly authorized, valid, and effective notwithstanding any requirement under federal or
+provincial law to obtain director or shareholder approval with respect to such actions or to deliver
+any statutory declarations that may otherwise be required under corporate law to effect the
+reorganization.
+
+9.     The Registrar appointed pursuant to Section 263 of the Business Corporations Act, RSA
+2000, c B-9, shall accept and receive any documents or instruments as may be required to permit
+or enable and effect the Transaction contemplated in the SPA, filed by either the Receiver or the
+Purchaser, as the case may be.
+
+
+VESTING OF ASSETS AND LIABILITIES
+
+10.    Subject to the terms of the SPA, upon delivery of the Receiver’s certificate to the
+Purchaser substantially in the form set out in Schedule “A” hereto (the “Receiver’s Certificate”),
+the following shall occur and be deemed to occur commencing at the time of delivery of the
+Receiver’s Certificate (the “Closing Time”) in the following sequence:
+
+
+       (a)        all right, title and interest of the Company in and to the Excluded Assets, Excluded
+                  Liabilities and Excluded Contracts shall be transferred to and shall vest absolutely
+                  and   exclusively,   without   recourse,   in   ResidualCo   and   all   Losses   and
+                  Encumbrances attached to the Excluded Assets, Excluded Liabilities and
+                  Excluded Contracts (other than the Retained Liabilities) shall continue to attach to
+                                       -4-
+
+
+      the Excluded Assets, Excluded Liabilities and Excluded Contracts with the same
+      nature and priority as they had immediately prior to their transfer. For greater clarity
+      and subject to paragraph 10.1 below, any Excluded Assets consisting of proceeds
+      of the sale of assets of the Company from previous transactions or pursuant to this
+      order shall transfer to ResidualCo for administration by the Receiver subject to the
+      same rights, priorities, and claims, including any deemed trust claims, that existed
+      as against the Company;
+
+
+(b)   all Losses and Encumbrances in respect of the Company (including the “Excluded
+      Liabilities” as defined in Schedule “B” to the SPA), other than the Retained
+      Liabilities, shall be transferred to and assumed by and shall vest absolutely and
+      exclusively without recourse in the name of ResidualCo and shall no longer be
+      liabilities of the Company, and (i) such Losses and Encumbrances (including the
+      Excluded Liabilities) shall continue to attach to the Excluded Assets and Excluded
+      Contracts with the same nature and priority as they had immediately prior to the
+      Closing Time, as if the Excluded Assets and Excluded Contracts had not been
+      conveyed and had remained in the possession or control of the person having that
+      possession or control immediately prior to the transfer; (ii) such Losses and
+      Encumbrances equal to the fair market value of the Excluded Assets and Excluded
+      Contracts shall be transferred to and assumed by ResidualCo in consideration for
+      the transfer of the Excluded Assets and Excluded Contracts; and (iii) the remaining
+      Losses and Encumbrances shall be transferred to and assumed by ResidualCo
+      for no consideration as part of, and to facilitate, the implementation of the
+      Transaction;
+
+(c)   all Excluded Liabilities shall be novated and become obligations of ResidualCo and
+      not obligations of the Company, and the Company, the Purchaser and the
+      Retained Assets and Retained Contracts shall be forever released from such
+      Excluded Liabilities, which shall be irrevocably expunged and discharged as
+      against the Company, the Purchaser, the Retained Assets, and the Retained
+      Contracts;
+
+(d)   the commencement or prosecution, whether directly, indirectly, derivatively, or
+      otherwise of any demands, claims, actions, counterclaims, suits, judgements, or
+      other remedies or recoveries with respect to any indebtedness, liability, obligation
+                                              -5-
+
+
+              or cause of action against the Company in respect of the Excluded Liabilities shall
+              be permanently enjoined;
+
+
+       (e)    without limiting subparagraph 10(a), any and all security registrations against the
+              Company (other than any security registrations in respect of the Retained
+              Liabilities) shall be and are hereby forever released and discharged as against the
+              Company, and all such security registrations shall attach to the Excluded Assets
+              vested in ResidualCo and maintain the same attributes, rights, nature, perfection
+              and priority as they had immediately prior to the Closing Time, as if the Excluded
+              Assets had not been conveyed and remained in the possession or control of the
+              person having that possession or control immediately prior to the transfer, and no
+              financing change statements in any applicable personal property or other registry
+              system are required to reflect the transfer of and assumption by ResidualCo of
+              such security registrations;
+
+       (f)    the Company shall cease to be a party in this Action and shall be released from
+              the purview of the Receivership Order and all other orders of this Court granted in
+              these proceedings;
+
+       (g)     ResidualCo shall replace the Company as respondent in the Receivership
+               Proceedings and shall be subject to the terms of all Orders granted in the
+               Receivership Proceedings;
+
+
+       (h)    the title of these proceedings shall be amended as follows:
+
+               IN THE MATTER OF THE BANKRUPTCY AND INSOLVENCY ACT, RSC 1985,
+               C B-3, AS AMENDED
+
+              AND IN THE MATTER OF THE RECEIVERSHIP OF 2755857 ALBERTA LTD.
+
+       (i)     nothing in this order circumscribes statutory audit procedures respecting Crown
+               mineral leases, including (i) the Company’s ability to submit invoices or gas cost,
+              or (ii) the Crown in right of Alberta’s ability to conduct audits as deemed necessary
+               in accordance with such procedures.
+
+10.1   Notwithstanding anything in paragraph 10 above, the Purchase Price proceeds will be
+used to satisfy any valid and proven cure costs that may be owing in respect of the Crown in right
+
+of Alberta. Any other claimants with proven cure costs that may be owing in respect of contracts
+that will form part of the Retained Assets, will be entitled to be paid from the Purchase Price
+                                                -6-
+
+
+proceeds pro rata, subject only to the Receiver’s Charge. If any valid and proven cure costs
+amounts are not able to be satisfied, such contract counterparties are permitted to waive their
+share of Purchase Price proceeds and terminate their agreement with the Company.
+
+
+11.    As of the Closing Time:
+
+       (a)     the Company shall continue to hold all right, title and interest in and to the Retained
+               Assets and Retained Contracts, free and clear of all Losses and Encumbrances
+               other than the Retained Liabilities; and
+
+
+       (b)     the Company shall be deemed to have disposed of the Excluded Assets and
+               Excluded Contracts and shall have no right, title or interest in or to the Excluded
+               Assets and Excluded Contracts.
+
+12.    For greater certainty, any person that, prior to the Closing Time, had a Loss and/or
+Encumbrance (other than any Retained Liabilities) against the Company or its assets, properties
+or undertakings shall, as of the Closing Time, no longer have any such Loss or Encumbrance
+against or in respect of the Company, the Retained Assets, or the Retained Contracts, but shall
+have an equivalent Loss or Encumbrance, as applicable against ResidualCo from and after the
+Closing Time, with the same attributes, rights, security, nature and priority as such Loss or
+Encumbrance had immediately prior to its transfer to ResidualCo, and nothing in this Order limits,
+lessens, modifies (other than by change in debtor) or extinguishes the Loss or Encumbrance of
+any Person as against the Excluded Assets, and Excluded Contracts to ResidualCo.
+
+13.    From and after the Closing Time, the Purchaser and/or the Receiver shall be authorized
+to take all steps as may be necessary to effect the discharge and release as against the Company,
+the Retained Assets, and Retained Contracts of the Losses and Encumbrances that are
+transferred to and vested in ResidualCo.
+
+14.    From and after the Closing Time, the Purchaser and/or the Receiver shall be authorized
+to take all steps as may be necessary to effect the discharge and release as against the Company,
+the Retained Assets and the Retained Contracts of the Losses and Encumbrances that are
+transferred to and vested in ResidualCo pursuant to this Order, including but not limited to
+applying for such discharges at the Alberta Land Titles Registry, the Alberta Mines and Minerals
+Registry, the Alberta Personal Property Registry, or such similar registries in any other province
+or territory of Canada.
+                                                 -7-
+
+
+15.    Upon the delivery of the Receiver’s Certificate, and upon filing a certified copy of this
+Order, together with any applicable registration fees, all governmental authorities and any other
+applicable registrar or government ministries or authorities exercising jurisdiction with respect to
+the Company, the Retained Assets, the Retained Contracts, or the Excluded Assets, including
+but not limited to the Alberta Energy Registry, Alberta Personal Property Registry or the Alberta
+Land Titles Office (collectively, “Governmental Authorities”) are hereby authorized, requested
+and directed to accept delivery of such Receiver’s Certificate and certified copy of this Order as
+though they were originals and to register such transfers, interest authorizations, discharges and
+discharge statements of conveyance as may be required to give effect to the terms of this Order
+and the completion of the Transaction and to discharge and release all Losses and
+Encumbrances other than Retained Liabilities against or in respect of the Company, the Retained
+Assets, and the Retained Contracts, and presentment of this Order and the Receiver’s Certificate
+shall be the sole and sufficient authority for the Governmental Authorities to do so.
+
+16.    Without limiting the generality of the foregoing paragraph, the Registrar of the Alberta
+Personal Property Registry is hereby shall and is hereby directed to forthwith cancel and
+discharge the following registrations attached as Schedule “B” and “C”, but only in respect of
+the Company.
+
+
+RELEASES
+
+17.    From and after the Closing Time, (i) Chris Lewis in his capacity as former director of the
+Company (ii) the Receiver and its legal counsel, Miller Thomson LLP; and (iii) Chris Lewis in his
+capacity as director of ResidualCo (the persons listed in (i), (ii) and (iii) being collectively, the
+“Released Parties”) shall be deemed to be forever irrevocably released and discharged from any
+and all present and future claims (including without limitation, claims for contribution or indemnity),
+liabilities, indebtedness, demands, actions, causes of actions, counterclaims suits, damages,
+judgments, executions, recoupments of debts, sums of money, expenses, accounts liens, taxes,
+recoveries, and obligations of any nature or kind whatsoever (whether direct or indirect, known or
+unknown, absolute or contingent, accrued or unaccrued, liquidated or unliquidated, matured or
+unmatured or due or not yet due, in law or equity and whether based in statute or otherwise)
+based in whole or in part on any act or omissions, transaction, dealing or other occurrence existing
+or taking place prior to the Closing Time in connection with the Transaction or completed pursuant
+to the terms of this Order (collectively, the “Released Claims”), which Released Claims are
+hereby fully, finally, irrevocably and forever waived, discharged, released, cancelled and barred
+as against the Released Parties, provided that the Released Claims shall not include any claim
+                                                -8-
+
+
+or liability that is determined by a court of competent jurisdiction to have constituted actual fraud,
+gross negligence, or willful misconduct on the part of the applicable Released Party.
+
+
+18.    From and after the Closing Time, all Persons shall be absolutely and forever barred,
+estopped, foreclosed and permanently enjoined from pursuing, asserting, exercising, enforcing,
+issuing or continuing any steps or proceedings, or relying on any rights, remedies, claims or
+benefits in respect of or against the Receiver, the Company, the Purchaser, the Retained Assets
+or the Retained Contracts, in any way relating to, arising from or in respect of:
+
+
+       (a)     the Excluded Assets;
+
+
+       (b)     the Excluded Liabilities;
+
+
+       (c)     the Excluded Contracts;
+
+       (d)     any and all Losses or Encumbrances other than the Retained Liabilities against or
+               relating to the Company, the Excluded Assets, the Excluded Liabilities, the
+               Retained Assets, or the Retained Contracts existing immediately prior to the
+               Closing Time;
+
+       (e)     the insolvency of the Company prior to the Closing Time;
+
+
+        (f)    the commencement or existence of these receivership proceedings; or
+
+
+       (g)     the completion of the Transaction.
+
+
+THE RECEIVER
+
+19.    The Receiver is hereby authorized to undertake and perform such activities and
+obligations as are contemplated to be undertaken and perform such activities and obligations as
+are contemplated to be undertaken or performed by the Receiver pursuant to this Order and the
+SPA or any ancillary document related thereto.
+
+20.     Notwithstanding anything contained in this Order the Receiver, its employees and
+representatives are not and shall not be or deemed to be a director, officer or employee of
+ResidualCo, de facto or otherwise, and shall incur no liability in connection therewith, save and
+except for any gross negligence or wilful misconduct on the part of any such parties. All
+protections afforded to the Receiver pursuant to the Receivership Order or any further order
+granted in these proceedings or the BIA shall continue to apply. For greater certainty the terms of
+the Receivership Order and any other Orders granted in these proceedings shall apply in respect
+                                                -9-
+
+
+of authorizing the Receiver to take such steps and actions on behalf of the Company as necessary
+or desirable to complete the Transaction pursuant to this Order.
+
+
+21.    No action lies against the Receiver by reason of this Order or the performance of any act
+authorized by this Order, except with leave of the Court following an action brought on not less
+than ten (10) days’ notice to the Receiver and its legal counsel.
+
+22.    The Receiver is directed to file with the Court a copy of the Receiver’s Certificate forthwith
+after delivery thereof to the Purchaser.
+
+
+MISCELLANEOUS MATTERS
+
+
+23.    Notwithstanding:
+
+       (a)     the pendency of these proceedings and any declaration of insolvency made herein;
+
+       (b)     the pendency of any applications for a bankruptcy order now or hereafter issued
+               pursuant to the BIA, in respect of the Company, and any bankruptcy or
+               receivership order issued pursuant to any such applications;
+
+       (c)     any assignment in bankruptcy made in respect of the Company or ResidualCo;
+               and
+
+       (d)     the provisions of any federal or provincial statute:
+
+
+               the execution of the SPA and the implementation of the Transaction shall be
+               binding on any trustee or other administrator in respect of the Company or
+               ResidualCo and any trustee in bankruptcy or receiver that may be appointed in
+               respect of the Company or ResidualCo and shall not be void or voidable by
+               creditors of the Company or ResidualCo nor shall it constitute nor be deemed to
+               be a transfer at undervalue, settlement, fraudulent preference, assignment,
+               fraudulent conveyance or other reviewable transaction under the BIA or any other
+               applicable federal or provincial legislation or at common law, nor shall it constitute
+               oppressive or unfairly prejudicial conduct pursuant to any applicable federal or
+               provincial legislation.
+
+24.    The Receiver, the Purchaser and any other interested party, shall be at liberty to apply for
+further advice, assistance and direction as may be necessary in order to give full force and effect
+to the terms of the SPA and this Order and to assist and aid the parties in closing the Transaction.
+                                                   -IQ-
+
+
+25.    This Court shall retain exclusive jurisdiction to, among other things, interpret, implement
+and enforce the terms and provisions of this Order, the SPA and all amendments thereto,
+including any dispute arising from the same.
+
+
+26.    This Honourable Court hereby requests the aid and recognition of any court, tribunal,
+regulatory or administrative body having jurisdiction in Canada or in any of its provinces or
+territories or in any foreign jurisdiction, to act in aid of and to be complimentary to this Court in
+carrying out the terms of this Order, to give effect to this Order and to assist the Receiver and its
+agents in carrying out the terms of this Order. All courts, tribunals, regulatory and administrative
+bodies are hereby respectfully requested to make such order and to provide such assistance to
+the Receiver, as an officer of the Court, as may be necessary or desirable to give effect to this
+Order or to assist the Receiver and its agents in carrying out the terms of this Order.
+
+27.    Service of this Order shall be deemed good and sufficient by:
+
+       (a)       Serving the same on:
+
+                  (i)    the persons listed on the service list created in these proceedings;
+
+                 (ii)    any other person served with notice of the application for this Order;
+
+
+                 (iii)     any other parties attending or represented at the application for this Order;
+
+                 (iv)    the Purchaser or the Purchaser’s solicitors; and
+
+        (b)      Posting      a   copy    of   this     Order    on    the   Receiver’s    website      at:
+                 https://www.alvarezandmarsal.com/CLEO and service on any other person is
+                 hereby dispensed with.
+
+
+28.     Service of this Order may be effected by facsimile, electronic mail, personal delivery or
+courier. Service is deemed to be effected the next business day following transmission or delivery
+of this Order.
+
+
+
+
+                                                      Justice of the Court of King’s Bench/of Alberta
+                                      Schedule “A”
+
+ COURT FILE NUMBER                B301-163430
+
+ COURT                            COURT OF KING’S BENCH OF ALBERTA
+
+ JUDICIAL CENTRE                  CALGARY
+
+                                  IN THE MATTER OF THE BANKRUPTCY AND
+                                  INSOLVENCY ACT, RSC 1985, C B-3, AS AMENDED
+
+                                  AND IN THE MATTER OF THE RECEIVERSHIP OF
+                                  CLEO ENERGY CORP.
+
+ APPLICANT                        UCAPITAL - ULOAN SOLUTIONS INC.
+
+ RESPONDENT                       CLEO ENERGY CORP.
+
+ DOCUMENT                         RECEIVEVER’S CERTIFICATE
+
+ ADDRESS FOR SERVICE AND          MILLER THOMSON LLP
+ CONTACT INFORMATION OF           Barristers and Solicitors
+ PARTY FILING THIS                525-8th Avenue SW, 43rd Floor
+ DOCUMENT                         Calgary, AB, Canada T2P 1G1
+
+                                 Attention:  James W. Reid / Pavin Takhar
+                                 Telephone: 403-298-2418 1403-298-2432
+                                 Email:     jwreid@millerthomson.com/
+                                             ptakhar@millerthomson.com
+                                 File No.   0289127.0002
+
+RECITALS
+
+A.   Pursuant to an Order of the Honourable Justice Burns of the Court of King’s Bench of
+     Alberta (the “Court”) dated June 2, 2025 and effective June 3, 2025, Alvarez & Marsal
+     Canada Inc. was appointed as receiver and manager (the “Receiver”) over the assets,
+     undertaking and property of CLEO Energy Corp, (the “Company”).
+
+B.   Pursuant to an Order of the Court granted on November 14, 2025, the Court granted a
+     Transaction Approval and Reverse Vesting Order (the “RVO”) approving the transactions
+     contemplated by a Share Purchase Agreement dated October 6, 2025 (the “SPA”)
+     between the Receiver and 2698902 Alberta Corp, (the “Purchaser”), and ordered that
+     inter alia: (I) all of the Company’s right, title and interest to the Excluded Assets and
+     Excluded Contracts shall be transferred and vest absolutely and exclusively in
+     ResidualCo; and (ii) all Excluded Liabilities shall be transferred to, assumed by and vest
+     in ResidualCo, in each case, effective upon the delivery by the Receiver to the Purchaser
+                                               - 12-
+
+
+        of a certificate confirming that all conditions to closing have been satisfied or waived by
+        the parties to the SPA.
+
+
+C.      Unless otherwise indicated herein, capitalized terms have the meanings set out in SPA.
+
+
+THE RECEIVER CERTIFIES the following:
+
+
+1.      The Purchaser has paid and the Receiver has received the Purchase Price for the
+        Purchased Shares and all other amounts payable on the Closing Date pursuant to the
+        SPA;
+
+
+2.      The conditions to Closing as set out in the SPA have been satisfied or waived by the
+        Receiver and/or the Purchaser, as the case may be; and
+
+3.      The Transaction contemplated by the SPA has been completed to the satisfaction of the
+        Receiver.
+
+
+
+
+This Certificate was delivered by the Receiver at                 on the       day of,
+2025.
+
+
+                                                        COMPANY NAME
+                                                       Alvarez & Marsal Canada Inc., in its
+                                                       cfi^City as receiver and manager of CLEO
+                                                       Energy          and not in its personal or
+                                                       corporate capacity.
+
+
+
+                                                       Per:
+                                                                Name:
+                                                                Title:
+                                       - 13-
+
+
+                                 Schedule “B”
+
+
+
+Registration   Registration   Debtor                Secured Party
+Number         Date
+
+18061928493    2018-Jun-19    CLEO ENERGY CORP.;    ARUNDEL CAPITAL
+                              LEWIS, CHRISTOPHER,   CORPORATION
+                              JOHN MCRAE
+
+18121433032    2018-Dec-14    CLEO ENERGY CORP.     HARVEST OPERATIONS
+                                                    CORP.
+
+23030718044    2023-Mar-07    CLEO ENERGY CORP.     HARVEST OPERATIONS
+                                                    CORP.
+
+23050907741    2023-May-09    CLEO ENERGY CORP.     ARUNDEL CAPITAL
+                                                    CORPORATION
+
+23062929662    2023-Jun-29    CLEO ENERGY CORP.;    1992169 ALBERTA LTD.;
+                              LEWIS, CHRISTOPHER    OXYGEN WORKING
+                                                    CAPITAL CORP.
+
+23080419988    2023-Aug-04    CLEO ENERGY CORP.     BALLARD, STEPHEN
+
+23081025798    2023-Aug-10    CLEO ENERGY CORP.;    2416924 ALBERTA LTD.
+                              LEWIS, CHRISTOPHER,
+                              JOHN; LEWIS,
+                              CHRISTOPHER,
+                              MCRAE; RISE ENERGY
+                              SPV LTD.
+
+24120616078    2024-Dec-06    CLEO ENERGY CORP.     SIMONELLI, MARCO
+
+24120616149    2024-Dec-06    CLEO ENERGY CORP.     MARSHAL RAE HOLDINGS
+
+24120616201    2024-Dec-06    CLEO ENERGY CORP.     MANTL CANADA INC.
+
+25060510624    2025-Jun-05    CLEO ENERGY CORP.     SAVANNA WELL
+                                                    SERVICING INC.; FORT
+                                                    MCKAY-SAVANNA ENERGY
+                                                    SERVICES LIMITED
+                                                    PARTNERSHIP
+
+25062634562    2025-Jun-26    CLEO ENERGY CORP      SUPERIOR PROPANE A
+                                                    DIVISION OF SUPERIOR
+                                                    PLUS LP
+                                       - 14-
+
+
+                                 Schedule “C”
+
+Registration   Registration   Debtor              Writ Holder
+Number         Date
+
+                                                  SAVANNA WELL
+23102732847    2023-Oct-27    CLEO ENERGY CORP.
+                                                  SERVICING INC.
+
+                                                  MORGANICK BLENDING
+24072922827    2024-Jul-29    CLEO ENERGY CORP
+                                                  SERVICES CORP
+
+                                                  STARTEC REFRIGERATION
+24082929766    2024-Aug-29    CLEO ENERGY CORP.
+                                                  SERVICES LTD.
+
+                                                  VERTEX PROFESSIONAL
+24103032735    2024-0ct-30    CLEO ENERGY CORP.
+                                                  SERVICES LTD.
+
+                                                  NEWCART CONTRACTING
+25011623746    2025-Jan-16    CLEO ENERGY CORP.
+                                                  (1993) LTD.
+
+25052826917    2025-May-28    CLEO ENERGY CORP    PREPD INC
+

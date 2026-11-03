@@ -1,0 +1,974 @@
+ COURT FILE NUMBER         2501-09028                               Clerk’s Stamp
+
+
+ COURT                     COURT OF KING’S BENCH
+                           OF ALBERTA
+                                                                  FILED
+                                                                DIGITALLY
+ JUDICIAL CENTRE           CALGARY                            2501 09028
+                                                              Oct 24, 2025
+ APPLICANT                 UCAPITAL – ULOAN SOLUTIONS INC.3:08 PM
+
+ RESPONDENT                CLEO ENERGY CORP.
+
+                           IN THE MATTER OF THE RECEIVERSHIP OF
+                           CLEO ENERGY CORP.
+
+
+ DOCUMENT                  SUPPLEMENT TO THE FIRST REPORT OF
+                           ALVAREZ & MARSAL CANADA INC., IN ITS
+                           CAPACITY AS RECEIVER AND MANAGER OF
+                           CLEO ENERGY CORP.
+
+                           October 24, 2025
+
+ ADDRESS FOR SERVICE AND   RECEIVER
+ CONTACT INFORMATION OF    Alvarez & Marsal Canada Inc.
+ PARTY FILING THIS         Bow Valley Square IV
+ DOCUMENT                  Suite 1110, 250 - 6th Avenue SW
+                           Calgary, Alberta T2P 3H7
+                           Orest Konowalchuk / David Williams
+                           Telephone: (403) 538-4736 / (403) 538-7536
+                           Email: okonowalchuk@alvarezandmarsal.com
+                                  david.williams@alvarezandmarsal.com
+
+
+                           COUNSEL TO RECEIVER
+                           Miller Thomson LLP
+                           525 – 8th Avenue S.W. 43rd Floor
+                           Eighth Avenue Place East
+                           James Reid
+                           Telephone: (403) 298 - 2418
+                           Email: jwreid@millerthomson.com
+
+
+
+
+88487619.2
+                                           TABLE OF CONTENTS
+
+INTRODUCTION .............................................................................................................3
+
+TERMS OF REFERENCE ...............................................................................................5
+
+IMPACT OF THE RVO ON WEPP CLAIMS ...............................................................6
+
+ALBERTA CROWN MINERAL LEASES AND ROYALTY ARREARS ..................6
+
+NECESSITY OF THE RVO ...........................................................................................10
+
+
+
+   LISTING OF APPENDICES TO THE SUPPLEMENTAL FIRST REPORT OF
+                                                THE RECEIVER
+
+APPENDIX A                   DOJ Letter
+
+APPENDIX B                   Alberta Energy Email
+
+
+
+
+                                                            2
+INTRODUCTION
+
+1.   On June 2, 2025, the Court of King’s Bench of Alberta (the “Court”) granted a
+     receivership order (the “Receivership Order”), whereby, effective June 3, 2025
+     (the “Receivership Date”), Alvarez & Marsal Canada Inc. (“A&M”) was
+     appointed receiver and manager (the “Receiver”), without security, of all the
+     current and future assets, undertakings and properties of every nature and kind
+     whatsoever, and wherever situate, including all proceeds thereof (collectively, the
+     “Property”) of CLEO Energy Corp. (“Cleo” or the “Company”), pursuant to
+     section 243(1) of the Bankruptcy and Insolvency Act, RSC 1985, c B-3 (the “BIA”)
+     and section 13(2) of the Judicature Act, RSA 2000 c J-2 (the “Receivership
+     Proceedings”).
+
+2.   This is the Receiver's supplement to the First Report (this “Supplemental
+     Report”). Capitalized words or terms not otherwise defined in this Report shall
+     have the meaning ascribed in the Receivership Order or such other materials filed
+     by the Receiver in these Receivership Proceedings or the Proposal Trustee and the
+     Company in the NOI Proceedings.
+
+3.   On October 6, 2025, the Receiver filed its First Report to the Court (the “First
+     Report”), and on October 17, 2025 (the “October 17th Application”), the Receiver
+     sought Orders from this Honourable Court granting, among other things:
+
+            a)     the ancillary relief Order (the “Ancillary Order”):
+
+                  i.   approving the Receiver’s actions, activities and conduct, and those
+                       of its legal counsel since the Receivership Date, including the
+                       Interim Statement of Receipts and Disbursements, as set out in the
+                       First Report;
+
+                 ii.   temporarily sealing the Confidential Appendices to the First Report
+                       on the Court record; and
+
+
+
+
+                                            3
+              iii.     approving the fees and disbursements of the Receiver and its
+                       counsel, as set out in the First Report; and
+
+            b) the reverse vesting order (“RVO”):
+
+                  i.   approving the SPA and the Transaction contemplated therein;
+
+                 ii.   granting the Releases in favour of the Released Parties; and
+
+              iii.     upon filing of the Receiver’s Certificate, discharging Cleo and
+                       adding ResidualCo to these Receivership Proceedings.
+
+4.   The Honourable Justice C.C.J. Feasby granted the Ancillary Order at the October
+     17th Application but reserved his decision on the RVO having considered the oral
+     arguments presented by: (i) counsel for the Government of Alberta, Department of
+     Energy and Minerals (“Alberta Energy”) regarding alleged unpaid mineral lease
+     and royalty arrears (the “Alberta Crown Arrears”), payable to the Crown in right
+     of Alberta (the “Alberta Crown”); and (ii) Department of Justice Canada (“DOJ”),
+     appearing on behalf of Employment and Social Development Canada (“ESDC”),
+     regarding the potential impact of the RVO on claims paid to former employees of
+     Cleo under the Wage Earner Protection Program Act (“WEPPA”). The
+     Honourable Justice C.C.J. Feasby provided Alberta Energy and the DOJ until
+     October 22, 2025, to submit written arguments in respect of these issues.
+
+5.   On October 22, 2025, Alberta Energy filed its written arguments to the Court in the
+     form of an affidavit and a bench brief. The DOJ submitted its written arguments on
+     the same day in the form of a letter to the Court (the “DOJ Letter”). The DOJ
+     Letter was unfiled and thus a copy of the DOJ Letter is attached to this
+     Supplemental Report as Appendix A.
+
+6.   This Supplemental Report is being provided to the Court for the limited purpose of:
+
+            a)     providing additional information with respect to the DOJ’s comments
+                   with regarding the eligibility of Former Employees (defined below) to
+
+
+                                             4
+                 payments received under the Wage Earner Protection Program
+                 (“WEPP”);
+
+            b) providing additional information regarding the Alberta Crown
+                 petroleum and natural gas mineral leases (“Mineral Leases”) and
+                 royalties (“Royalties”) that form the Alberta Crown Arrears;
+
+            c)   providing additional information on the planned payment of the Alberta
+                 Crown Arrears that accrued during the Receivership Proceedings,
+                 which are to be satisfied by the Receiver or by 2698902 Alberta
+                 Corporation (“269” or the “Purchaser”), as has always been
+                 contemplated in the SPA and the RVO;
+
+            d) providing information with respect to the Annual Adjustments and Pre-
+                 Receivership Royalties (defined below) that make up the remainder of
+                 the Alberta Crown Arrears; and
+
+            e)   expanding on the Receiver’s considerations with respect to the
+                 necessity of the RVO structure and its recommendation for Court
+                 approval of the same.
+
+TERMS OF REFERENCE
+
+7.   In preparing this Supplemental Report, the Receiver has relied upon: (i) the
+     representations of certain former management and other key stakeholders of the
+     Company; (ii) financial and other information contained in the Company’s books
+     and records, which were produced and maintained principally by the Company; and
+     (iii) information obtained by the Proposal Trustee prior to the Receivership
+     Proceedings.
+
+8.   The Receiver has not performed an audit, review or otherwise attempted to verify
+     the accuracy or completeness of the Company’s financial information that would
+     wholly or partially comply with Canadian Auditing Standards (“CASs”) pursuant
+     to the Chartered Professional Accountants Canada Handbook, and accordingly,
+
+                                         5
+      the Receiver expresses no opinion or other form of assurance contemplated under
+      CASs in respect of the financial information.
+
+9.    All references to dollars are in Canadian currency unless otherwise noted.
+
+IMPACT OF THE RVO ON WEPP CLAIMS
+
+10.   Prior to the October 17th Application, the DOJ informed the Receiver of ESDC’s
+      position regarding the WEPP claims of Cleo’s former employees (the “Former
+      Employees”). ESDC’s view is that, following the issuance of the RVO, the Former
+      Employees would no longer meet the eligibility criteria under WEPPA, as the
+      liabilities for their unpaid wages would transfer to ResidualCo and Cleo would
+      emerge from the Receivership Proceedings. The DOJ Letter advises this may result
+      in an overpayment of program benefits, which would be subject to recovery from
+      Former Employees.
+
+11.   The Receiver understands that all WEPP claims submitted by the Former
+      Employees have been paid by ESDC, as the Former Employees met, and currently
+      continue to meet, the eligibility requirements under WEPP. The Receiver carried
+      out its requirement of WEPP within the statutory timelines.
+
+12.   In the Receiver’s view, the issuance of the RVO should not affect the Former
+      Employees’ entitlement to WEPP benefits. The Former Employees met all
+      eligibility requirements for WEPP at the time the claims were paid, and the
+      Transaction simply monetizes the remainder of Cleo’s assets for the benefit of the
+      estate. The Transaction is consistent with the goal and purpose of insolvency
+      proceedings and any attempts by ESDC to seek retribution from the Former
+      Employees is contrary to the purposes of WEPP.
+
+ALBERTA CROWN MINERAL LEASES AND ROYALTY ARREARS
+
+Alberta Crown Arrears Overview
+
+13.   The table below presents the Alberta Crown Arrears that the Receiver understands
+      are outstanding as of the date of this Report:
+                                            6
+      Cleo Energy Corp. (in Receivership)
+      Summary of Crown Arrears
+      CAD $000's
+                                                                      Mineral
+                                                                              (1)             (2)
+      Production Period                                              Leases         Royalties          Total
+      January 1, 2024 to December 31, 2024 (Annual Adjustments)              -         114,096          114,096
+      April 1, 2025 to April 30, 2025                                        -           17,362          17,362
+      May 1, 2025 to May 31, 2025                                            -           15,528          15,528
+      June 1, 2025 to June 30, 2025                                          -           12,418          12,418
+      July 1, 2025 to July 31, 2025                                       25,041         11,380          36,421
+      August 1, 2025 to August 31, 2025                                   16,593         11,383          27,975
+      September 1, 2025 to September 30, 2025                             27,270         11,383          38,653
+                                                                          68,904         193,549         262,453
+
+      (1) Mineral Leases include interest charges of $1.49 for July 2025 and August 2025.
+      (2) Royalty arrears for August 2025 and September 2025 production months are estimates, as Crown billings
+      are two months in arrears (i.e., August 2025 royalties invoice is rendered in October 2025)
+
+
+14.   Alberta Crown Arrears total approximately $262,000 and can be broken down into
+      the following categories:
+
+               a)   adjustment charges of approximately $114,000, reflecting calendar
+                    2024 adjustments for custom processing fees, operating costs,
+                    allowable cost restrictions, and royalty deposits (collectively, the
+                    “Annual Adjustments”);
+
+               b) Royalties of approximately $79,000 for amounts incurred for April
+                    2025 to September 2025 production; and
+
+               c)   Mineral Leases of approximately $69,000 for amounts incurred
+                    between July 2025 and September 2025.
+
+15.   A total of approximately $147,000 of the Alberta Crown Arrears relate to
+      obligations incurred prior to the Receivership Proceedings, comprised of the
+      following:
+
+               d) Annual Adjustments of $114,000 for calendar 2024; and
+
+               e)   Royalties of $33,000 for amounts incurred for April 2025 and May
+                    2025 production (the “Pre-Receivership Royalties”).
+
+
+                                                    7
+16.   Approximately $115,000 of Alberta Crown Arrears relate to obligations incurred
+      in the Receivership Proceedings, and, pursuant to the SPA and RVO, will be paid
+      to Alberta Crown as follows:
+
+             f)   $76,000 by the Receiver for Mineral Leases and Royalties related to
+                  June 2025 to August 2025 production, with a portion to be recoverable
+                  by the Receiver from the Purchaser prior to the Closing Date of the
+                  Transaction; and
+
+             g) $39,000 by the Purchaser for Mineral Leases and Royalties related to
+                  September 2025 production, as the effective date of the SPA is
+                  September 1, 2025.
+
+Annual Adjustments and Pre-Receivership Royalties
+
+17.   The Annual Adjustments were issued after the appointment of the Receiver, on
+      June 30, 2025, as a result of Cleo’s failure to file annual gas cost allowance forms
+      (“Gas Cost Allowance Forms”), which are due on May 31st of each year for the
+      preceding calendar year.
+
+18.   Cleo did not file the Gas Cost Allowance Forms for 2024 because as at the time
+      they were due, Cleo was near the end of its NOI Proceeding, was experiencing
+      significant liquidity constraints, and the cost of preparing the Gas Cost Allowance
+      Forms was approximately $15,000.
+
+19.   The Receiver understands that the annual adjustment for the 2023 calendar year
+      was approximately $145,000, which was subsequently adjusted to a credit position
+      of approximately $38,000 based on the Gas Cost Allowance Forms that Cleo filed
+      in 2024, the last time the Company filed such forms.
+
+20.   Based on historical adjustment filings by Cleo, the Receiver expects that if the Gas
+      Cost Allowance Forms are subsequently filed for 2024, the resulting Annual
+      Adjustments would have been significantly reduced, eliminated entirely, and Cleo
+      may actually be in a credit position with Alberta Energy, thus eliminating the
+
+
+                                           8
+      Alberta Crown Arrears completely.         The Receiver believes these amounts will
+      likely be a claim in the bankruptcy of ResidualCo.
+
+Communication with Alberta Energy
+
+21.   Prior to the October 17th Application, the Receiver was in communication with
+      Alberta Energy regarding the Alberta Crown Arrears and the amounts to be paid by
+      the Receiver and the Purchaser, as further outlined below.
+
+22.   On October 8, 2025, Alberta Energy sent an email to the Receiver (the “Alberta
+      Energy Email”) outlining its concerns with respect to the SPA and requesting that
+      the Receiver amend the SPA to transfer the Alberta Crown Arrears to the Purchaser,
+      or alternatively, further bifurcate the payment of the Purchase Price to include a
+      payment dedicated to satisfying liabilities owed to the Alberta Crown. A copy of
+      the Alberta Energy Email is attached to this Report as Appendix B.
+
+23.   The Receiver advised Alberta Crown that, while the Receiver and the Purchaser
+      would pay arrears incurred for production that occurred during the Receivership
+      Proceedings, any amounts for arrears incurred prior to the Receivership Date,
+      including pursuant to the 2024 annual adjustment and the failure of Cleo to file Gas
+      Cost Allowance Forms, could not be paid by the Receiver.
+
+24.   As discussed in the First Report, there are numerous pre-filing claims against Cleo’s
+      estate by various entities, including secured creditors, unsecured creditors, and
+      several Crown or government entities. Given the number of stakeholders in this
+      proceeding, including government entities with statutory priority claims against the
+      estate, the Receiver did not consider it appropriate for it to pay the pre-
+      Receivership, unsecured claims of Alberta Energy from the sale proceeds of the
+      Transaction in priority to other stakeholders.
+
+25.   Given the substantial claims of parties alleging priority to sale proceeds, the
+      Receiver deemed it prudent to conduct a claims process to review and consider
+      stakeholder priority and entitlement to estate funds. Subsequently the Receiver
+      could seek a distribution order from this Court on notice to stakeholders.
+
+                                            9
+26.   While Alberta Energy references two cases where royalty areas were assumed by a
+      purchaser in insolvency proceedings, such liability assumption would have a
+      corresponding decrease in the cash consideration under the SPA by an equal
+      amount, essentially elevating Alberta Energy’s unsecured claim to a priority
+      secured claim.
+
+27.   Given (i) the numerous stakeholders in this proceeding, (ii) the uncertainty of the
+      quantification the Alberta Crown Arrears, if any, should the Gas Cost Allowance
+      Forms be filed, and (iii) the unsecured nature of the pre-filing portion of the Alberta
+      Crown Arrears, the Receiver did not consider it appropriate to grant Alberta
+      Energy’s request to bifurcate the payment of the Purchase Price to include a
+      payment dedicated to satisfying liabilities owed to the Alberta Crown without
+      further direction from the Court.
+
+28.   Given the extensive benefits to the estate from the RVO and the Transaction
+      closing, the Receiver recommends approval of the Transaction even if the Court
+      determines it is appropriate to direct a portion of the Purchase Price proceeds to
+      Alberta Energy.
+
+NECESSITY OF THE RVO
+
+29.   To expand on the Receiver’s comments in the First Report regarding the necessity
+      of the RVO to maximize value and complete the Transaction, the Receiver
+      considered the following additional facts:
+
+             a)   the Purchaser is not a current licensee with the AER, which necessitates
+                  the RVO structure to complete the Transaction;
+
+             b) to complete an asset transaction and transfer AER licenses outside of a
+                  an RVO structure, the Purchaser would have to first apply for a
+                  Business Associate Code (“BA Code”), which does not automatically
+                  grant license eligibility, and would require a subsequent application to
+                  be made to the AER for a license transfer;
+
+
+                                            10
+             c)   the BA Code application process could take many months, significant
+                  expenses, deplete estate funds by extending the Receivership
+                  Proceedings, lowering the purchase price, deteriorating asset value, and
+                  substantially increasing transaction risk to the detriment of all
+                  stakeholders; and
+
+             d) given the time, cost, expense and uncertainty surrounding and asset sale
+                  transaction, the Purchaser is unwilling to purchase the remaining assets
+                  of Cleo and assume its liabilities pursuant to any other structure other
+                  than the RVO.
+
+30.   Importantly, as set out in Confidential Appendix B to the First Report, there are no
+      other transactions that will result in the assumption of all environmental liabilities.
+      Accordingly, there is no prejudice to any stakeholders, including Alberta Energy,
+      with the RVO or the Transaction.
+
+31.   The RVO structure is necessary in the circumstances. Should the RVO not be
+      granted and the Transaction not close, this will result in all properties going to the
+      OWA and no proceeds being available to creditors, including Alberta Energy.
+
+
+
+
+                                            11
+All of which is respectfully submitted this 24th day of October, 2025.
+
+
+ALVAREZ & MARSAL CANADA INC.,
+in its capacity as the Court-appointed Receiver of
+CLEO Energy Corp. and not its
+personal or corporate capacity
+
+
+
+
+Orest Konowalchuk, CPA, CA, CIRP, LIT              David Williams, CPA, CIRP, LIT
+Senior Vice President                              Director
+
+
+
+
+                                            12
+APPENDIX A
+
+
+
+
+    13
+Prairie Region               Région des Prairies                      Telephone/Téléphone:     587-335-9341
+National Litigation Sector   Secteur national du contentieux               Fax /Télécopieur:   (780) 495-3319
+300, 10423 – 101 Street NW   10423, rue 101 Nord-Ouest, bureau 300           Email/Courriel:   Daniel.Segal@justice.gc.ca
+Edmonton, AB T5H 0E7         Edmonton (Alberta) T5H 0E7
+
+
+
+
+Via Email - CommercialCoordinator.KBJCalgary@albertacourts.ca
+
+                                                                     Our File Number: LEX-500276439
+
+October 22, 2025
+
+
+Court of King’s Bench
+Calgary Courts Centre
+601 5th Street SW
+Calgary AB T2P 5P7
+
+Attention: Corbin Burik, Commercial Coordinator
+
+Re:      Cleo Energy Corp - Receivership
+         Court File Number: 2501-09028
+
+Please bring this letter to the attention of Justice Feasby.
+
+The Attorney General of Canada (AGC), appearing for Employment and Social Development
+Canada (ESDC) made representations to the Court at the hearing on the Reverse Vesting
+Order (RVO) application on October 17, 2025. This Court requested that ESDC provide
+written submissions by October 22, 2025. As ESDC is not taking any position on the RVO
+application before the Court, this letter is being provided rather than a formal brief.
+
+
+The Receiver has applied for approval of a Share Purchase Agreement through a Reverse
+Vesting Transaction which, if granted, would transfer liabilities of Cleo Energy Corp (Cleo) to
+a residual corporation (ResidualCo), including the obligations to its former employees. Part
+of the Court’s consideration whether to approve the transaction includes assessing if any
+party is worse off as a result of the RVO transaction structure compared to an alternative
+structure, and weighing that impact against the overall benefits of the proposed transaction.
+
+
+Prior to the RVO application, some of the former employees of Cleo, applied for and received
+payments from the Wage Earner Protection Program (WEPP). Those payments will most
+likely be collected back from the employees following an approval of the RVO transaction
+as the former employees will no longer meet the eligibility criteria under the Wage Earner
+                                                    2
+
+Protection Program Act (WEPPA)1. In short, the effects of the RVO would likely disqualify
+those employees from eligibility and they would be required to repay WEPP benefits
+received.
+
+
+The AGC is submitting this letter in the interest of transparency, to ensure the Court is aware
+of a stakeholder, namely, the former employees, who may be affected should the RVO be
+granted. It also provides a brief overview of the WEPPA program to assist the Court in
+understanding its purpose and limitations. ESDC does not take a position on the RVO
+application or on the rights of the former employees, as it does not represent the said former
+employees.
+
+
+The Statutory Scheme of the Wage Earner Protection Program
+
+The WEPPA was enacted to establish a federal program, the WEPP. It is designed to allow
+the federal government to make timely payments to former employees who are owed eligible
+unpaid wages by an insolvent employer and who meet the eligibility requirements
+determined by the statute. Its purpose is to provide relief to individuals whose employment
+has been terminated by an insolvent employer who ceases or will cease to operate its
+business operations.
+
+In a receivership, the employee eligibility requirements to receive WEPP payments are set
+out in s. 5(1) of the WEPPA, which stipulates that the following conditions must be met:
+
+            a. the person’s employment has ended for a reason prescribed by s. 3 of the
+               WEPPR (WEPPA, s. 5(1)(a));
+
+            b. the former employer is subject to a receivership (WEPPA, s. 5(1)(b)(ii)); and,
+
+            c. the individual is owed eligible wages by their former employer (WEPPA, s.
+               5(1)(c)).
+
+These conditions are determined under the exclusive jurisdiction of the Minister2, which
+determination is subject to review by the Minister and to an appeal before the Canada
+Industrial Relations Board.3 The Board’s decision is subject to judicial review under the
+exclusive jurisdiction of the Federal Court of Appeal.4
+
+
+
+
+1 Wage Earner Protection Payment Act, S.C. 2005, c. 47.
+2 WEPPA, s. 9.
+3 WEPPA, s. 12, and 14.
+4 Federal Courts Act, RSC 1985, c F-7, s. 18(1)b), 28(1)h) and 28(2).
+                                                3
+
+The Cleo Receivership
+
+Following the issuance of the Receivership Order, the Receiver terminated the employment
+of all Cleo’s employees. Twelve former employees applied to the Minister and received
+payments from WEPP.
+
+Should the RVO be granted, the liabilities related to unpaid wages of the former employees
+of Cleo would be transferred to ResidualCo. Equally, Cleo would emerge from the
+receivership proceedings and continue to carry on its business operations as a viable
+corporation.
+
+Following the issuance of the RVO, the eligibility criteria under s. 5(1)(b)(ii) and 5(1)(c) of the
+WEPPA would no longer be met and, the objective of the WEPP would equally be
+undermined. As a result, this would likely affect the former employees’ entitlement to WEPP
+benefits and lead to an overpayment of program benefits, which would be subject to
+recovery.
+
+As noted above, ESDC is not taking any position in respect of the RVO application itself. It is
+ESDC’s position that an RVO transaction as sought in this application will most likely have
+an affect on an applicant’s eligibility for benefits under WEPP.
+
+
+Sincerely,
+
+
+
+
+Daniel Segal
+Counsel
+Prairie Region
+Department of Justice Canada
+
+Cc Service List
+APPENDIX B
+
+
+
+
+    14
+Subject:             FW: [**EXT**] RE: In the Matter of the Receivership of CLEO Energy Corp. - Court File No. 2501-09028
+                     [MTDMS-Legal.FID13251714]
+
+
+
+From: Emmett Larsen <Emmett.Larsen@gov.ab.ca>
+Sent: Wednesday, October 8, 2025 2:20 PM
+To: Reid, James <jwreid@millerthomson.com>; Takhar, Pavin <ptakhar@millerthomson.com>
+Cc: Ceko, Marica <mceko@millerthomson.com>
+Subject: RE: [**EXT**] RE: In the Matter of the Receivership of CLEO Energy Corp. - Court File No. 2501-09028 [MTDMS-
+Legal.FID13251714]
+
+Hi James,
+
+Thanks for clarifying. My client, Alberta Energy, has respectfully requested an amendment to the proposed SPA transferring
+pre-closing liabilities for Crown Mineral Agreements (rentals and royalties) to the Purchaser alongside those agreements
+(defined in the SPA as Petroleum and Natural Gas Rights). This amendment would safeguard the public from assuming private
+liabilities by keeping those liabilities with a solvent purchaser who administers the assets, rather than folded into a shell
+entity with no future income beyond the purchase price.
+
+Energy is concerned with the SPA’s current drafting for the following reasons:
+
+    1. Stripping of assets and sequestration of liabilities departs from standard practice in RVOs (and O&G insolvencies
+       more broadly) where liabilities for Crown Agreements transfer with those agreements, or are satisfied prior to
+       transfer.
+    2. The RVO circumvents Energy’s transfer process, meaning there is no opportunity to review the transfer to the
+       purchaser or collect payment for outstanding cure costs.
+    3. The RVO does not appropriately engage BIA s 84.1, which requires satisfaction of agreement cure costs prior to their
+       transfer.
+    4. The Crown is an unsecured creditor whose remedies are primarily statutory, rather than proprietary interests, and
+       this RVO circumvents the workings of the Mines and Minerals Act.
+            a. Satisfaction of Crown arrears from insolvency proceeds is never realistic due to the Crown’s unsecured
+               status. Energy relies on purchasers to satisfy past agreement arrears in accordance with BIA s 84.1 – this
+               approach is standard practice and arrears are routinely paid by new purchasers.
+            b. Energy processes transfers on the good-faith understanding that a party within the insolvency transaction
+               will address previously accrued liabilities. This RVO undermines that good-faith understanding.
+    5. There is a significant risk that past liabilities are offloaded onto the public, for productive assets that will continue
+       producing into the future.
+
+
+In short, the RVO as currently structured is particularly prejudicial to the Crown as a statutory authority. The majority of
+Alberta’s mineral rights are owned by the Crown and administered on behalf of the public so that all Albertans can benefit.
+The public is not a backstop for the assumption of private liabilities, especially when Crown rights are transferred to a new
+purchaser without adequately addressing past arrears – the insolvency regime is not intended to erase justly accrued Crown
+liabilities for private beneficiaries over productive assets.
+
+Nothing in this email is intended to cast you as undermining the public interest, merely to convey Energy’s concerns with the
+RVO scheme and its likely impacts on taxpayers.
+
+As a result, Energy respectfully requests you amend the SPA to carry Crown Agreement liabilities forward to the Purchaser, or
+further bifurcate payment of the Purchase Price with a payment dedicated to satisfying liabilities owed to the Crown. Energy
+wishes to resolve this amicably to save all parties involved unnecessary headache and cost, but will intervene if necessary.
+                                                               1
+Let me know if you have any questions, Energy looks forward to a constructive resolution.
+
+Best,
+Emmett
+
+   Emmett Larsen
+   Barrister and Solicitor                      AMEC Place                 Tel 403-297-5434
+   Energy Legal Team                            300, 801 - 6th Avenue SW   Emmett.Larsen@gov.ab.ca
+   Legal Services Division                      Calgary, AB T2P 3W2
+   Alberta Justice                              Canada
+   Government of Alberta
+
+
+
+
+ Classification: Protected A
+
+From: Reid, James <jwreid@millerthomson.com>
+Sent: Wednesday, October 8, 2025 10:26 AM
+To: Emmett Larsen <Emmett.Larsen@gov.ab.ca>
+Cc: Takhar, Pavin <ptakhar@millerthomson.com>; Ceko, Marica <mceko@millerthomson.com>
+Subject: RE: [**EXT**] RE: In the Matter of the Receivership of CLEO Energy Corp. - Court File No. 2501-09028 [MTDMS-
+Legal.FID13251714]
+
+CAUTION: This email has been sent from an external source. Treat hyperlinks and attachments in this email with care.
+
+
+Hi Emmett,
+
+It is my understanding the purchaser would assume go forward obligations, but not any of the obligations that exist
+prior to the effective date (September 1). The proceeds of sale will stand in the place of the pre-transaction
+amounts that are owed to creditors.
+
+Sincerely,
+
+
+
+JAMES W. REID
+Partner
+
+MILLER THOMSON LLP
+525-8th Avenue S.W., 43rd Floor
+Eighth Avenue Place East
+Calgary, Alberta | T2P 1G1
+T +1 403.298.2418
+C +1 403.669.1930
+jwreid@millerthomson.com
+
+Providing services on behalf of a Professional Corporation
+
+
+
+
+Subscribe to our newsletters
+
+
+
+
+                                                                     2
+From: Emmett Larsen <Emmett.Larsen@gov.ab.ca>
+Sent: Wednesday, October 8, 2025 10:08 AM
+To: Reid, James <jwreid@millerthomson.com>
+Cc: Takhar, Pavin <ptakhar@millerthomson.com>; Ceko, Marica <mceko@millerthomson.com>
+Subject: RE: [**EXT**] RE: In the Matter of the Receivership of CLEO Energy Corp. - Court File No. 2501-09028 [MTDMS-
+Legal.FID13251714]
+
+Thanks James, much appreciated.
+
+One question for you regarding treatment of mineral agreement arrears (surface rentals/royalties) accrued by CLEO prior to
+closing. Can you please confirm that this transaction holds with standard practice of the RVO purchaser assuming
+responsibility for existing arrear liabilities?
+
+I assume that’s the intent, but want to confirm given the definition of Retained Liabilities in the schedule:
+
+
+
+
+Otherwise, the RVO process completely extinguishes existing arrears without addressing cure costs.
+
+Thanks in advance.
+
+Best,
+Emmett
+
+  Emmett Larsen
+  Barrister and Solicitor                 AMEC Place                       Tel 403-297-5434
+  Energy Legal Team                       300, 801 - 6th Avenue SW         Emmett.Larsen@gov.ab.ca
+  Legal Services Division                 Calgary, AB T2P 3W2
+  Alberta Justice                         Canada
+  Government of Alberta
+
+
+
+
+ Classification: Protected A
+
+From: Reid, James <jwreid@millerthomson.com>
+Sent: Wednesday, October 8, 2025 9:10 AM
+To: Emmett Larsen <Emmett.Larsen@gov.ab.ca>
+Cc: Takhar, Pavin <ptakhar@millerthomson.com>; Ceko, Marica <mceko@millerthomson.com>
+Subject: RE: [**EXT**] RE: In the Matter of the Receivership of CLEO Energy Corp. - Court File No. 2501-09028 [MTDMS-
+Legal.FID13251714]
+
+CAUTION: This email has been sent from an external source. Treat hyperlinks and attachments in this email with care.
+
+
+                                                                   3
+Thank you Emmett,
+
+On the basis of your confidentiality undertaking see attached.
+
+Sincerely,
+
+
+
+JAMES W. REID
+Partner
+
+MILLER THOMSON LLP
+525-8th Avenue S.W., 43rd Floor
+Eighth Avenue Place East
+Calgary, Alberta | T2P 1G1
+T +1 403.298.2418
+C +1 403.669.1930
+jwreid@millerthomson.com
+
+Providing services on behalf of a Professional Corporation
+
+
+
+
+Subscribe to our newsletters
+
+
+From: Emmett Larsen <Emmett.Larsen@gov.ab.ca>
+Sent: Tuesday, October 7, 2025 4:53 PM
+To: Reid, James <jwreid@millerthomson.com>
+Cc: Takhar, Pavin <ptakhar@millerthomson.com>; Ceko, Marica <mceko@millerthomson.com>
+Subject: Re: [**EXT**] RE: In the Matter of the Receivership of CLEO Energy Corp. - Court File No. 2501-09028 [MTDMS-
+Legal.FID13251714]
+
+Hi James,
+
+Of course. It’s only me who will review them. No need or interest to disclose more widely.
+
+Cheers,
+Emmett
+
+
+
+
+ Classification: Protected A
+
+From: Reid, James <jwreid@millerthomson.com>
+Sent: Tuesday, October 7, 2025 4:03:43 PM
+To: Emmett Larsen <Emmett.Larsen@gov.ab.ca>
+Cc: Takhar, Pavin <ptakhar@millerthomson.com>; Ceko, Marica <mceko@millerthomson.com>
+Subject: Re: [**EXT**] RE: In the Matter of the Receivership of CLEO Energy Corp. - Court File No. 2501-09028 [MTDMS-
+Legal.FID13251714]
+
+CAUTION: This email has been sent from an external source. Treat hyperlinks and attachments in this email with care.
+
+
+                                                                   4
+Hi Emmett,
+
+Can you confirm that your office will keep the confidential documents confidential and will not share them?
+
+Sincerely,
+
+
+
+
+JAMES W. REID
+Partner
+
+MILLER THOMSON LLP
+525-8th Avenue S.W., 43rd Floor
+Eighth Avenue Place East
+Calgary, Alberta | T2P 1G1
+T +1 403.298.2418
+C +1 403.669.1930
+
+jwreid@millerthomson.com
+
+Providing services on behalf of a Professional Corporation
+
+
+
+
+Subscribe to our newsletters
+
+          On Oct 7, 2025, at 3:29 PM, Emmett Larsen <Emmett.Larsen@gov.ab.ca> wrote:
+
+
+          Good Afternoon James,
+
+          I hope your week is going well. When you have a moment, could you please circulate a copy of the Share
+          Purchase Agreement with schedules attached – its important to a review from the perspective of CLEO’s
+          assets on the Canadian Forces Bases in Alberta.
+
+          Thanks in advance, let me know if you have any questions.
+
+          Best,
+          Emmett
+
+
+             Emmett Larsen
+                                                             AMEC Place
+             Barrister and Solicitor                                                    Tel 403-297-5434
+                                                             300, 801 - 6th Avenue SW
+             Energy Legal Team                                                          Emmett.Larsen@gov.ab.ca
+                                                             Calgary, AB T2P 3W2
+             Legal Services Division
+                                                             Canada
+             Alberta Justice
+             Government of Alberta
+
+
+
+
+           Classification: Protected A
+
+          From: Ceko, Marica <mceko@millerthomson.com>
+          Sent: Monday, October 6, 2025 11:55 AM
+                                                                           5
+To: okonowalchuk@alvarezandmarsal.com; agc_pgc_alberta@justice.gc.ca; Catherine@arundelcapital.com;
+JP.Pham@harvestenergy.ca; Shayes@lawsonlundell.com; hhahn@totalenergy.ca; legal@totalenergy.ca;
+jason@risecapital.ca; jravalli@owccorp.com; stever88c@hotmail.com; kenpratherts@shaw.ca;
+wesue@usue.ca; cal_writ@mltaikins.com; clewis@cleoenergy.com; david.williams@alvarezandmarsal.com;
+dmacrae@alvarezandmarsal.com; cwebster@mltaikins.com; Emmett Larsen <Emmett.Larsen@gov.ab.ca>;
+mdprovost@mdprovost.ca; tlawrason@mdprovost.ca; wtrenerry@mdprovost.ca; jlakevold@mdprovost.ca;
+officeadmin@bozco.ca; dalton@bozco.ca; ron@bozco.ca; Jordon Christianson
+<Jordon.Christianson@specialareas.ab.ca>; Darcy.ferguson@specialareas.ab.ca; matthew.kenna@mantl.ca;
+craig.wilford@trafigura.com; iain.singer@trafigura.com; houstonlawyers@trafigura.com;
+jodywiese@gmail.com; marco12666@me.com; Kimberly_setrakov@tcenergy.com;
+jamie.flanagan@mross.com; mike@ampedenergy.ca; info@2m7.ca; sameer@helioscorp.ca;
+Randy.Wright@purechemservices.com; Ryan_Bechard@ajg.com; customers@transalta.com;
+brimbey@trimacenergy.com; TBF TRA web/publ email address <TBF.TRARevenue@gov.ab.ca>;
+e.bodnar@svrlawyers.com; SoYi.Yu@JUSTICE.GC.CA; Tristen.Cones@justice.gc.ca;
+Amy.Reperto@justice.gc.ca; smanery@hmclawyers.com; bence.solti@bp.com; ashelle.pindar@ADP.com;
+info@brenergy.ca; balford@axiomoilandgas.ca; dmiller@ppr.ca; info@karveenergy.com; bamako@shaw.ca;
+accounting@fortcal.com; ward.bradley@shaw.ca; Philip.Connolly@obsidianenergy.com;
+Jelena.molnar@cnrl.com; Tiffany.Wardle@lexterraland.com; Vi.Kulawik@taqa.ca; KFellowes@stikeman.com;
+M.Davidovska@svrlawyers.com; George.wong@aer.ca; bwolever@alvarezandmarsal.com;
+kevin.hoy@ca.dlapiper.com; Reid, James <jwreid@millerthomson.com>; Ceko, Marica
+<mceko@millerthomson.com>; TBatty@fieldlaw.com; JWatts@stikeman.com; g.campbell@svrlawyers.com;
+greg@ucapital.ca; adow@lawsonlundell.com; dhutchison@caronpartners.com;
+Joanne.Bennett@obsidianenergy.com; cluda@brownleelaw.com; gplester@brownleelaw.com;
+Insolvency@aer.ca; manish@helioscorp.ca; cbrown@helioscorp.ca; ft@talawyers.ca;
+cmamon@stridecap.com; Dan@risecapital.ca; NUgraj@geologic.com; KHennessy@geologic.com;
+gunnar.benediktsson@nortonrosefulbright.com; dmarechal@cassels.com; dmarechal@cassels.com;
+agagnon@cassels.com; NSVL1321@gmail.com; LandComplianceInquiries@PrairieSky.com;
+rzahara@mltaikins.com; Cam@risecapital.ca; dan@risecapital.ca; dean@fcrl.ca; albertson@fcrl.ca;
+nsvl1321@gmail.com; mike@lauschenergy.com; tim@tykewest.com; carole.hunter@ca.dlapiper.com;
+jarrod.isfeld@ca.dlapiper.com; turmoilinc@shaw.ca; cludtke@prosperaenergy.com;
+sgarg@prosperaenergy.com; ateasdale@lawsonlundell.com; srattray@epcor.com;
+amanda_gauvreau@superiorpropane.com; jsutherland@mltaikins.com; adam.benaron@gmail.com;
+hhahn@totalenergy.ca; legal@totalenergy.ca; donnon.revering@reveringlaw.ca; avi@2m7.ca; info@2m7.ca;
+county@flagstaff.ab.ca; administration@beaver.ab.ca; feedback@mdtaber.ab.ca; admin@mdtaber.ab.ca;
+cbeck@lethcounty.ca; mailbox@lethcounty.ca; info@countypaintearth.ca; bkulyk@countypaintearth.ca;
+admin@mdwainwright.ca; reception@vulcancounty.ab.ca; petersenn@vulcancounty.ab.ca;
+PPSA@stridecap.com; coa@bdplaw.com; ralgar@bdplaw.com; sam.gabor@gowlingwlg.com;
+tom.cumming@gowlingwlg.com
+Cc: Reid, James <jwreid@millerthomson.com>; Takhar, Pavin <ptakhar@millerthomson.com>
+Subject: In the Matter of the Receivership of CLEO Energy Corp. - Court File No. 2501-09028 [MTDMS-
+Legal.FID13251714]
+
+CAUTION: This email has been sent from an external source. Treat hyperlinks and attachments in this email with care.
+
+
+SERVICE LIST:
+
+Further to the above-noted matter, please find attached documents for service upon you. Proof of
+filing will be circulated once received from Court.
+
+Additionally, further to the hearing scheduled on October 17, 2025, commencing at 10:30am (MT)
+before the Honourable Justice Feasby, please see below WebEx details:
+Virtual Courtroom 60 has been assigned for the above noted matter:
+Virtual Courtroom Link:
+https://albertacourts.webex.com/meet/virtual.courtroom60
+                                                          6
+   Instructions for Connecting to the Meeting
+        1. Click on the link above or open up Chrome or Firefox and cut and paste it into your browser address
+            bar.
+        2. If you do not have the Cisco Webex application already installed on your device, the site will have a
+            button to install it. Follow installation instructions. Enter your full name and email address when
+            prompted
+        3. Click on the Open Cisco Webex Meeting.
+        4. You will see a preview screen. Click on Join Meeting.
+
+   Key considerations for those attending:
+                       o Please connect to the courtroom 15 minutes prior to the start of the hearing.
+                       o Please ensure that your microphone is muted and remains muted for the duration of
+                            the proceeding, unless you are speaking. Ensure that you state your name each time
+                            you speak.
+                       o If bandwidth becomes an issue, some participants may be asked to turn off their video
+                            and participate by audio only.
+4. Note: Recording or rebroadcasting of the video is prohibited. Note: It is highly recommended you use
+
+   headphones with a microphone or a headset when using Webex. This prevents feedback.
+
+   For more information relating to Webex protocols and procedures, please visit:
+   https://www.albertacourts.ca/qb/court-operations-schedules/webex-remote-hearings-protocol
+   You can also join the meeting via the “Cisco Webex Meetings” App on your smartphone/tablet or other smart
+   device. You can download this via the App marketplace and join via the link provided above.
+   Best,
+
+
+   MARICA CEKO
+   Legal Assistant
+
+   Pronouns: She, Her, Hers
+
+   MILLER THOMSON LLP
+   Services provided through Miltom Management LP
+
+   525-8th Avenue S.W., 43rd Floor
+   Eighth Avenue Place East
+   Calgary, Alberta | T2P 1G1
+   T +1 403.206.6387
+
+   mceko@millerthomson.com
+
+
+   <image001.png>
+
+   Subscribe to our newsletters
+
+   You can subscribe to Miller Thomson's free electronic communications, or unsubscribe at any time.
+
+   CONFIDENTIALITY: This e-mail message (including attachments, if any) is confidential and is intended only for
+   the addressee. Any unauthorized use or disclosure is strictly prohibited. Disclosure of this e-mail to anyone
+   other than the intended addressee does not constitute waiver of privilege. If you have received this
+   communication in error, please notify us immediately and delete this. Thank you for your cooperation. This
+   message has not been encrypted. Special arrangements can be made for encryption upon request. If you no
+   longer wish to receive e-mail messages from Miller Thomson, please contact the sender.
+
+   Visit our website at www.millerthomson.com for information about our firm and the services we provide.
+
+                                                          7
+Il est possible de s’abonner aux communications électroniques gratuites de Miller Thomson ou de
+s’en désabonner à tout moment.
+
+CONFIDENTIALITÉ: Ce message courriel (y compris les pièces jointes, le cas échéant) est confidentiel et
+destiné uniquement à la personne ou à l'entité à qui il est adressé. Toute utilisation ou divulgation non
+permise est strictement interdite. L'obligation de confidentialité et de secret professionnel demeure malgré
+toute divulgation. Si vous avez reçu le présent courriel et ses annexes par erreur, veuillez nous en informer
+immédiatement et le détruire. Nous vous remercions de votre collaboration. Le présent message n'a pas été
+crypté. Le cryptage est possible sur demande spéciale. Communiquer avec l’expéditeur pour ne plus recevoir
+de courriels de la part de Miller Thomson.
+
+Pour tout renseignement au sujet des services offerts par notre cabinet, visitez notre site Web
+à www.millerthomson.com
+
+------------------------------
+[EXTERNAL EMAIL / COURRIEL EXTERNE]
+Please report any suspicious attachments, links, or requests for sensitive information.
+Veuillez rapporter la présence de pièces jointes, de liens ou de demandes d’information sensible qui vous
+semblent suspectes.
+------------------------------
+
+
+
+
+                                                      8
+

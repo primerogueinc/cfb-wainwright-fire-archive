@@ -1,0 +1,2349 @@
+                                                                                             FILED
+                                                                                           Clerk’s Stamp
+
+ COURT FILE NO.           B301-163430                                                         by Email
+                                                                                            Jun 05,2025
+ COURT                    COURT OF KING’S BENCH OF ALBERTA                                    Calgary
+ JUDICIAL CENTRE          CALGARY
+
+                          IN THE MATTER OF THE BANKRUPTCY AND INSOLVENCY ACT, RSC
+                          1985, C B-3, AS AMENDED
+                          AND IN THE MATTER OF THE NOTICE OF INTENTION TO MAKE A
+                          PROPOSAL OF CLEO ENERGY CORP.
+
+ APPLICANT                CLEO ENERGY CORP.
+
+ DOCUMENT                 ORDER (Sale Approval and Vesting – Nuova Strada Ventures Ltd.)
+
+ ADDRESS FOR              Gowling WLG (Canada) LLP
+ SERVICE AND              1600, 421 – 7th Avenue SW
+ CONTACT                  Calgary, AB T2P 4K9
+ INFORMATION OF
+                          Attn:       Sam Gabor / Tom Cumming
+ PARTY FILING THIS
+ DOCUMENT                 Phone:      403.298.1946 / 403.298.1938
+                          Fax:        403.263.9193
+                          Email:      sam.gabor@gowlingwlg.com / tom.cumming@gowlingwlg.com
+                          File No.:   G10010664
+
+DATE ON WHICH ORDER WAS PRONOUNCED:                            June 2, 2025
+
+LOCATION WHERE ORDER WAS PRONOUNCED:                           Edmonton, Alberta
+
+JUSTICE WHO MADE THIS ORDER:                                   The Honourable Justice Burns in Commercial
+                                                               Chambers
+
+             UPON THE APPLICATION of Cleo Energy Corp. (“Cleo”) filed May 26, 2025 for an order
+approving the sale transaction (the “Transaction”) contemplated by a purchase and sale agreement dated as
+of April 16, 2025, (the “Sale Agreement”) between Cleo and Nuova Strada Ventures Ltd. (the “Purchaser”)
+and vesting all of Cleo’s right, title and interest in and to the assets described in the Sale Agreement (the
+“Purchased Assets”);
+
+             AND UPON having read the Affidavit of Chris Lewis sworn May 26, 2025 (the “Affidavit”),
+the Affidavit of Service of Kym Mesley, sworn June 2, 2025, and the Sixth Report of Alvarez & Marsal
+Canada Inc. (“A&M”) in its capacity as proposal trustee of Cleo (in such capacity, the “Proposal Trustee”,
+and in its capacity as receiver of the undertaking, property and assets of Cleo, the “Receiver”) dated May
+28, 2025 and the confidential appendices thereto; AND UPON hearing submissions by counsel for Cleo, the
+Proposal Trustee, counsel for the Proposal Trustee and any other counsel or other interested parties present,
+
+
+
+68664370\1
+                                                          -2-
+
+
+IT IS HEREBY ORDERED AND DECLARED THAT:
+
+SERVICE
+1.      Service of notice of this application and supporting materials is hereby declared to be good and sufficient,
+        no other person is required to have been served with notice of this application and time for service of this
+        application is abridged to that actually given.
+
+APPROVAL OF TRANSACTION
+
+2.      The Transaction is hereby approved and the execution of the Sale Agreement by Cleo is hereby authorized
+        and approved, with such minor amendments as Cleo may deem necessary. Cleo is hereby authorized and
+        directed to take such additional steps and execute such additional documents as may be necessary or
+        desirable for completion of the Transaction and conveyance of the Purchased Assets to the Purchaser.
+
+VESTING OF PROPERTY
+
+3.      Subject only to approval by the Alberta Energy Regulator (“Energy Regulator”) of transfer of any
+        applicable licenses, permits and approvals pursuant to section 24 of the Oil and Gas Conservation Act
+        (Alberta) and section 18 of the Pipeline Act (Alberta), upon delivery by the Receiver of the closing
+        certificate to the Purchaser substantially in the form set out in Schedule “A” hereto (the “Closing
+        Certificate”), all of Cleo’s right, title and interest in and to the Purchased Assets listed in Schedule “B”
+        hereto shall vest absolutely in the name of the Purchaser, free and clear of and from any and all caveats,
+        security interests, hypothecs, pledges, mortgages, liens, trusts or deemed trusts, reservations of ownership,
+        royalties, options, rights of pre-emption, privileges, interests, assignments, actions, judgements,
+        executions, levies, taxes, writs of enforcement, charges, or other claims, whether contractual, statutory,
+        financial, monetary or otherwise, whether or not they have attached or been perfected, registered or filed
+        and whether secured, unsecured or otherwise (collectively, “Claims”) including, without limiting the
+        generality of the foregoing:
+
+        (a)     the Administration Charge (“Administration Charge”), Interim Lender’s Charge (“Interim
+                Lender’s Charge”) and D&O Charge created pursuant to, and having the meanings given to them
+                in, the Order (Stay Extension, Administration Charge, Interim Financing, Interim Financing
+                Charge, D&O Charge and Other Relief) of the Honourable Justice M.J. Lema in these proceedings
+                pronounced January 6, 2025, as amended by his Order (Stay Extension, Interim Financing, Interim
+                Financing Charge and Other Relief) pronounced February 19, 2025;
+
+        (b)     any charges, security interests or claims evidenced by registrations pursuant to the Personal
+                Property Security Act (Alberta) or any other personal property registry system;
+
+68664370\1
+                                                       -3-
+
+        (c)     any liens or claims of lien under the Builders’ Lien Act (Alberta); and
+
+        (d)     those Claims listed in Schedule “C” hereto (all of which are collectively referred to as the
+                “Encumbrances”, which term shall not include the permitted encumbrances, caveats, interests,
+                easements, and restrictive covenants listed in Schedule “D” (collectively, “Permitted
+                Encumbrances”))
+
+        and for greater certainty, this Court orders that all Claims including Encumbrances other than Permitted
+        Encumbrances, affecting or relating to the Purchased Assets are hereby expunged, discharged and
+        terminated as against the Purchased Assets.
+
+4.      Upon delivery of the Closing Certificate, and upon filing of a certified copy of this Order, together with
+        any applicable registration fees, all governmental authorities and or regulatory bodies including those
+        referred to below in this paragraph (collectively, “Governmental Authorities”) are hereby authorized,
+        requested and directed to accept delivery of the Closing Certificate and certified copy of this Order as
+        though they were originals and to register such transfers, interest authorizations, discharges and discharge
+        statements of conveyance as may be required to convey to the Purchaser clear title to the Purchased Assets
+        subject only to Permitted Encumbrances. Without limiting the foregoing:
+
+        (a)     Alberta Energy (“Energy Ministry”) shall and is hereby authorized, requested and directed to
+                forthwith:
+
+                (i)     cancel and discharge those Claims including builders’ liens, security notices, assignments
+                        under section 426 (formerly section 177) of the Bank Act (Canada) and other
+                        Encumbrances (but excluding Permitted Encumbrances) registered (whether before or
+                        after the date of this Order) against the estate or interest of Cleo in and to any of the
+                        Purchased Assets located in the Province of Alberta; and
+
+                (ii)    transfer all Crown leases listed in Schedule “B” to this Order standing in the name of Cleo
+                        to the Purchaser free and clear of all Claims including Encumbrances but excluding
+                        Permitted Encumbrances;
+
+        (b)     the Registrar of the Alberta Personal Property Registry (the “PPR Registrar”) shall and is hereby
+                directed to forthwith cancel and discharge any registrations at the Alberta Personal Property
+                Registry (whether made before or after the date of this Order) claiming security interests (other
+                than Permitted Encumbrances) in the estate or interest of Cleo in any of the Purchased Assets
+                which are of a kind prescribed by applicable regulations as serial-number goods.
+
+
+
+68664370\1
+                                                         -4-
+
+5.      In order to effect the transfers and discharges described above, this Court directs each of the Governmental
+        Authorities to take such steps as are necessary to give effect to the terms of this Order and the Sale
+        Agreement. Presentment of this Order and the Closing Certificate shall be the sole and sufficient authority
+        for the Governmental Authorities to make and register transfers of title or interest and cancel and discharge
+        registrations against any of the Purchased Assets of any Claims including Encumbrances but excluding
+        Permitted Encumbrances.
+
+6.      No authorization, approval or other action by and no notice to or filing with any Governmental Authority
+        exercising jurisdiction over the Purchased Assets is required for the due execution, delivery and
+        performance of the Sale Agreement, other than any required approval by the Energy Regulator referenced
+        in paragraph 3 above.
+
+7.      For the purposes of determining the nature and priority of Claims, net proceeds from sale of the Purchased
+        Assets (to be held in an interest bearing trust account by the Proposal Trustee or the Receiver) shall stand
+        in the place and stead of the Purchased Assets from and after delivery of the Closing Certificate and all
+        Claims including Encumbrances (but excluding Permitted Encumbrances) shall not attach to, encumber
+        or otherwise form a charge, security interest, lien, or other Claim against the Purchased Assets and may
+        be asserted against the net proceeds from sale of the Purchased Assets with the same priority as they had
+        with respect to the Purchased Assets immediately prior to the sale, as if the Purchased Assets had not been
+        sold and remained in the possession or control of the person having that possession or control immediately
+        prior to the sale. Unless otherwise ordered (whether before or after the date of this Order), the Proposal
+        Trustee or the Receiver shall not make any distributions to creditors of net proceeds from sale of the
+        Purchased Assets without further order of this Court, provided however the Proposal Trustee or the
+        Receiver may apply any part of such net proceeds to pay amounts owing as secured by the Administration
+        Charge and repay any amounts Cleo has borrowed as secured by the Interim Lender’s Charge.
+
+8.      Except as expressly provided for by section 5 of the Alberta Employment Standards Code, the Purchaser
+        shall not, by completion of the Transaction, have liability of any kind whatsoever in respect of any Claims
+        against Cleo.
+
+9.      Upon completion of the Transaction, Cleo and all persons who claim by, through or under Cleo in respect
+        of the Purchased Assets, and all persons or entities having any Claims of any kind whatsoever in respect
+        of the Purchased Assets, save and except for persons entitled to the benefit of the Permitted Encumbrances,
+        shall stand absolutely and forever barred, estopped and foreclosed from and permanently enjoined from
+        pursuing, asserting or claiming any and all right, title, estate, interest, royalty, rental, equity of redemption
+        or other Claim whatsoever in respect of or to the Purchased Assets, and to the extent that any such persons
+        or entities remain in the possession or control of any of the Purchased Assets, or any artifacts, certificates,
+
+68664370\1
+                                                         -5-
+        instruments or other indicia of title representing or evidencing any right, title, estate, or interest in and to
+        the Purchased Assets, they shall forthwith deliver possession thereof to the Purchaser.
+
+10.     The Purchaser shall be entitled to enter into and upon, hold and enjoy the Purchased Assets for its own
+        use and benefit without any interference of or by Cleo, or any person claiming by, through or against Cleo.
+
+11.     Immediately upon closing of the Transaction, holders of Permitted Encumbrances shall have no claim
+        whatsoever against Cleo.
+
+MISCELLANEOUS MATTERS
+
+12.     Notwithstanding:
+
+        (a)     the pendency of these proceedings and any declaration of insolvency made herein;
+
+        (b)     the pendency of any applications for a bankruptcy order now or hereafter issued pursuant to the
+                Bankruptcy and Insolvency Act, R.S.C. 1985, c.B-3, as amended (the “BIA”), in respect of Cleo,
+                and any bankruptcy order issued pursuant to any such applications;
+
+        (c)     any assignment in bankruptcy made in respect of Cleo; and
+
+        (d)     the provisions of any federal or provincial statute:
+
+        the vesting of the Purchased Assets in the Purchaser pursuant to this Order shall be binding on any trustee
+        in bankruptcy that may be appointed in respect of Cleo and shall not be void or voidable by creditors of
+        Cleo, nor shall it constitute nor be deemed to be a transfer at undervalue, settlement, fraudulent preference,
+        assignment, fraudulent conveyance, or other reviewable transaction under the BIA or any other applicable
+        federal or provincial legislation, nor shall it constitute oppressive or unfairly prejudicial conduct pursuant
+        to any applicable federal or provincial legislation.
+
+13.     Cleo, the Proposal Trustee, the Receiver, the Purchaser and any other interested party, shall be at liberty
+        to apply for further advice, assistance and direction as may be necessary in order to give full force and
+        effect to the terms of this Order and to assist and aid the parties in closing the Transaction.
+
+14.     This Honourable Court hereby requests the aid and recognition of any court, tribunal, regulatory or
+        administrative body having jurisdiction in Canada or in any of its provinces or territories or in any foreign
+        jurisdiction, to act in aid of and to be complimentary to this Court in carrying out the terms of this Order,
+        to give effect to this Order and to assist the Proposal Trustee and its agents in carrying out the terms of
+        this Order. All courts, tribunals, regulatory and administrative bodies are hereby respectfully requested
+        to make such order and to provide such assistance to the Proposal Trustee and the Receiver, as an officer
+68664370\1
+                                                        -6-
+        of the Court, as may be necessary or desirable to give effect to this Order or to assist the Proposal Trustee
+        and its agents in carrying out the terms of this Order.
+
+GENERAL
+
+15.     Service of this Order may be effected by facsimile, electronic mail, personal delivery or courier to the
+        service list (the “Service List”) in the proceedings. Service is deemed to be effected the next business day
+        following transmission or delivery of this Order.
+
+16.     This Order shall be posted on the Proposal Trustee’s website for these proceedings at:
+        https://www.alvarezandmarsal.com/CLEO.
+
+
+
+
+                                                        J.C.K.B.A.
+
+
+
+
+68664370\1
+                                                        -7-
+                                              SCHEDULE “A”                                        Clerk’s Stamp
+                                           CLOSING CERTIFICATE
+
+
+ COURT FILE NO.
+
+ COURT                      COURT OF KING’S BENCH OF ALBERTA
+
+ JUDICIAL CENTRE            CALGARY
+
+                            IN THE MATTER OF THE BANKRUPTCY AND INSOLVENCY ACT, RSC
+                            1985, C B-3, AS AMENDED
+                            AND IN THE MATTER OF THE RECEIVERSHIP OF CLEO ENERGY
+                            CORP.
+
+ APPLICANT                  UCAPITAL-ULOAN SOLUTIONS INC.
+
+ RESPONDENT                 CLEO ENERGY CORP.
+
+ DOCUMENT                   CLOSING CERTIFICATE
+
+ ADDRESS FOR                Miller Thomson LLP
+ SERVICE AND                525-8th Avenue SW, 43rd Floor
+ CONTACT                    Calgary, AB, Canada T2P 1G1
+ INFORMATION OF
+                            Attn:        James W. Reid
+ PARTY FILING THIS
+                            Phone:       403-298-2418
+ DOCUMENT
+                            Email:      jwreid@millerthomson.com
+                            File No.:    0289127.0002
+
+RECITALS:
+
+    A. Cleo Energy Corp. (“Cleo”) filed a notice of intention to make a proposal under Division I of Part III of
+        the Bankruptcy and Insolvency Act, RSC 1985, c B-3, as amended (the “BIA”) on December 8, 2024 with
+        Alvarez & Marsal Canada Inc. (“A&M”) acting in its capacity as proposal trustee of Cleo.
+
+
+    B. Pursuant to an Order of the Honourable Justice Burns of the Court of King’s Bench of Alberta (the
+        “Court”) dated June 2, 2025 A&M was appointed as receiver over the assets, undertaking and property
+        of Cleo (the “Receiver”).
+
+    C. Pursuant to an Order (Sale Approval and Vesting – Nuova Strada Ventures Ltd.) of the Honourable Justice
+        Burns of the Court dated June 2, 2025 under Court file no. B301-163430, the Court approved the
+        agreement of purchase and sale made as of April 16, 2025 (the “Sale Agreement”) between Cleo and
+        Nuova Strada Ventures Ltd. (the “Purchaser”) and provided for the vesting in the Purchaser of Cleo’s
+        right, title and interest in and to the Purchased Assets, which vesting is to be effective with respect to the
+        Purchased Assets upon the delivery to the Purchaser of a closing certificate confirming (i) the payment by
+        the Purchaser of the Purchase Price for the Purchased Assets; (ii) that the conditions to Closing as set out
+68664370\1
+                                                       -8-
+         in sections 3.2 to 3.4 of the Sale Agreement have been satisfied or waived; and (iii) the Transaction has
+         been completed to the satisfaction of the Receiver.
+
+    D. Unless otherwise indicated herein, capitalized terms have the meanings set out in the Sale Agreement.
+
+THE RECEIVER CERTIFIES the following:
+
+    1.       The Purchaser has paid and the Receiver has received the Purchase Price for the Purchased Assets
+             payable on the Closing Date pursuant to the Sale Agreement;
+
+
+    2.       The conditions to Closing as set out in sections 3.2 to 3.4 of the Sale Agreement have been satisfied
+             or waived by the Receiver and the Purchaser; and
+
+
+    3.       The Transaction has been completed to the satisfaction of the Receiver.
+
+
+This Certificate was delivered by the Receiver at [Time] on [Date].
+
+                                                  Alvarez & Marsal Canada Inc. in its capacity as receiver, and
+                                                  not in its personal capacity
+                                                  By:
+
+                                                  Name:
+                                                  Title:
+
+
+
+
+68664370\1
+                   -9-
+               SCHEDULE “B”
+             PURCHASED ASSETS
+
+             WHITE MAP AREA
+
+
+
+
+68664370\1
+                                                - 10 -
+                       EXCLUDING PREVIOUSLY ABANDONED PIPELINES
+
+
+  Pipeline   Segment        From Location                    To Location        Segment Status
+  License    Number
+
+    29814       1        00/11-34-041-12W4/00            00/13-34-041-12W4/00     Abandoned
+
+    29814       2        00/11-34-041-12W4/00            00/07-34-041-12W4/00     Abandoned
+
+    30374       3        00/09-04-042-12W4/00            00/16-04-042-12W4/00     Abandoned
+
+    30374       6        00/12-03-042-12W4/00            00/11-03-042-12W4/00     Abandoned
+
+    63034       3        00/03-33-041-12W4/00            00/02-33-041-12W4/00     Abandoned
+
+    7509       10        00/06-08-042-12W4/00            00/07-08-042-12W4/00     Abandoned
+
+    7509       11        00/15-09-042-12W4/00            00/02-16-042-12W4/00     Abandoned
+
+    7509       12        00/14-11-042-12W4/00            00/15-09-042-12W4/00     Abandoned
+
+    7509       13        00/08-11-042-12W4/00            00/14-11-042-12W4/00     Abandoned
+
+    7509       16        00/05-18-042-11W4/00            00/15-12-042-12W4/00     Abandoned
+
+    7509       17        00/11-08-042-12W4/00            00/06-08-042-12W4/00     Abandoned
+
+    7509        6        00/07-08-042-12W4/00            00/02-16-042-12W4/00     Abandoned
+
+    7509        7        00/11-16-042-12W4/00            00/02-16-042-12W4/00     Abandoned
+
+    7509        8        00/07-07-042-12W4/00            00/06-08-042-12W4/00     Abandoned
+
+
+
+
+68664370\1
+                                               - 11 -
+                      LANDS AND PETROLEUM AND NATURAL GAS RIGHTS
+
+
+Mineral Property Report dated April 26, 2025
+
+
+
+
+68664370\1
+Report Date: Apr 26, 2025                                          CLEO ENERGY CORP.
+Page Number: 1                                                     Mineral Property Report
+              **REPORTED IN HECTARES**
+
+
+
+File Number   Lse Type Lessor Type                     Exposure Oper.Cont. ROFR               DOI Code
+File Status   Int Type / Lse No/Name                      Gross
+Mineral Int   Operator / Payor                             Net Doi Partner(s)            *                  *                Lease Description / Rights Held
+
+M00549       PNG       CR          Eff: Aug 03, 1978     16.000                                        WI                    Area : SEDGEWICK FIELD
+Sub: A       WI                    Exp: Aug 02, 1983     16.000 CLEO ENERGY                  100.00000000                    TWP 41 RGE 12 W4M LSD 13 SEC 34
+ACTIVE       0478080015            Ext: 15               16.000                                                              ALL PET FROM TOP SURFACE TO
+             CLEO ENERGY                                        Total Rental: 28.00                                          BASE MANNVILLE_GROUP;
+100.00000000 CLEO ENERGY                                                                                                     ALL NG IN ELLERSLIE_MEMBER
+
+                     Status                        Hectares              Net                  Hectares            Net        ----------------- Related Contracts -----------------
+                     PRODUCING         Prod:         16.000           16.000    NProd:           0.000          0.000        C00172 B            ROYLTY        Jan 31, 1994
+                                       Dev:           0.000            0.000    Undev:           0.000          0.000        C00295 D            ROYLTY       May 31, 2021
+                                       Prov:          0.000            0.000    NProv:           0.000          0.000        C00340 A            ORR            Jul 28, 2016
+                                                                                                                             PS00002 A           P&S          Jun 02, 2016
+                                                                                                                             PS00002 D           P&S          Jun 02, 2016 (I)
+                                                              Royalty / Encumbrances                                         PS00014 D           P&S          May 31, 2021
+
+          <Linked> Royalty Type                        Product Type     Sliding Scale Convertible    % of Prod/Sales
+          C00172 B GROSS OVERRIDING ROYALTY            ALL                    Y           N      43.80000000 % of
+                      Roy Percent:
+                      Deduction:     UNKNOWN
+                      Gas: Royalty:  15.00000000                         Min Pay:                        Prod/Sales: SALES
+                      S/S OIL: Min:  5.00000000        Max:      15.00000000 Div:   1/150                Prod/Sales: PROD
+                      Other Percent:                                         Min:                        Prod/Sales:
+
+                          Paid to: ROYPDTO (C)                            Paid by: ROYPDBY (C)
+                          SIGNALTA RESOUR      100.00000000               CLEO ENERGY       100.00000000
+
+                           GEN -
+                             THERE IS NO ACTUAL ROYALTY AGMT; LETTER ON FILE BETWEEN RIFE AND SIGNALTA
+                             INDICATES GOR WAS RESERVED IN 1980 FARMOUT
+
+          <Linked> Royalty Type                        Product Type     Sliding Scale Convertible   % of Prod/Sales
+          C00340 A GROSS OVERRIDING ROYALTY            ALL                    N           N      100.00000000 % of SALES
+                      Roy Percent: 2.50000000
+                      Deduction:   STANDARD
+
+
+
+
+CS LAND Version: 24.2.0
+Report Date: Apr 26, 2025                                          CLEO ENERGY CORP.
+Page Number: 2                                                     Mineral Property Report
+              **REPORTED IN HECTARES**
+
+
+
+File Number    Lse Type Lessor Type                    Exposure Oper.Cont. ROFR              DOI Code
+File Status    Int Type / Lse No/Name                     Gross
+Mineral Int    Operator / Payor                            Net Doi Partner(s)           *                  *          Lease Description / Rights Held
+
+    (cont'd)
+ M00549           A        Gas: Royalty:                                 Min Pay:                       Prod/Sales:
+                           S/S OIL: Min:               Max:                  Div:                       Prod/Sales:
+                           Other Percent:                                    Min:                       Prod/Sales:
+
+                          Paid to: GORPD    (C)                          Paid by: GORBY       (C)
+                          OBSIDIAN ENERGY         100.00000000           CLEO ENERGY           100.00000000
+
+                           ROYALTY -
+                              ROYALTY ONLY PAYABLE ON % ACQUIRED FROM PENN WEST
+                           ROYALTY DEDUCTIONS -
+                              ALTERNATE 1 OF THE 1997 CAPL OVERRIDING ROYALTY PROCEDURE
+                              DEDUCTIONS MUST NOT EXCEED THOSE PERMITTED BY CROWN
+                           ELECTIONS_NOTICES -
+                              SURRENDER NOTICE APPLIES
+                              20 DAY NOTICE; 10 DAY RESPONSE
+
+
+
+                                                              Royalty / Encumbrances
+
+          <Linked> Royalty Type                   Product Type          Sliding Scale Convertible   % of Prod/Sales
+          C00295 D GROSS OVERRIDING ROYALTY       OIL                         N           Y                    % of
+                      Roy Percent:
+                      Deduction:     STANDARD
+                      Gas: Royalty:                                      Min Pay:                       Prod/Sales:
+                      S/S OIL: Min:               Max:                       Div:                       Prod/Sales:
+                      Other Percent: PVR UNTIL 25                            Min:                       Prod/Sales:
+
+                          Paid to:   PDTO   (C)                          Paid by: PDBY        (C)
+                          B.I.L. CREE NAT         100.00000000           CLEO ENERGY           100.00000000
+
+                           GENERAL REMARK - Feb 14, 2022
+                             PVR ROYALTY OF 25 BOE/D ACROSS ALL LANDS UNTIL MAY 1, 2025 WHEN ROYALTY
+
+
+
+
+CS LAND Version: 24.2.0
+Report Date: Apr 26, 2025                                             CLEO ENERGY CORP.
+Page Number: 3                                                        Mineral Property Report
+              **REPORTED IN HECTARES**
+
+
+
+File Number     Lse Type Lessor Type                     Exposure Oper.Cont. ROFR                    DOI Code
+File Status     Int Type / Lse No/Name                      Gross
+Mineral Int     Operator / Payor                             Net Doi Partner(s)                 *                  *           Lease Description / Rights Held
+
+     (cont'd)
+
+ M00549            A          CONVERTS TO A 3% NCGORR ACROSS LANDS;
+
+                       Royalty Type                      Product Type      Sliding Scale Convertible   % of Prod/Sales
+                       CROWN SLIDING SCALE               ALL                     Y           N      100.00000000 % of PROD
+                          Roy Percent:
+                          Deduction:     STANDARD
+                          Gas: Royalty:                                      Min Pay:                           Prod/Sales:
+                          S/S OIL: Min:                  Max:                    Div:                           Prod/Sales:
+                          Other Percent:                                         Min:                           Prod/Sales:
+
+                          Paid to: LESSOR    (M)                             Paid by: WI              (M)
+                          GOVT OF AB E             100.00000000              CLEO ENERGY               100.00000000
+
+                           GEN -
+                             CROWN SLIDING SCALE
+
+
+
+M00549       PNG       CR           Eff: Aug 03, 1978      16.000 C00201 A No                            TRUST                 Area : SEDGEWICK FIELD
+Sub: B       NWI                    Exp: Aug 02, 1983      16.000 CLEO ENERGY                                                  TWP 41 RGE 12 W4M LSD 13 SEC 34
+ACTIVE       0478080015             Ext: 15                 0.000 HARVEST OP                    *   100.00000000               NG TO BASE MANNVILLE_GROUP
+             CLEO ENERGY                                                                                                       EXCL NG IN ELLERSLIE_MEMBER
+100.00000000 CLEO ENERGY            Count Acreage = No               Total Rental:      28.00
+                                                                                                                               ----------------- Related Contracts -----------------
+                       Status                        Hectares              Net                       Hectares            Net   C00201 A            TRUST         Jan 29, 2009
+                       NON PRODUCING Prod:              0.000            0.000       NProd:            16.000          0.000   PS00002 A           P&S          Jun 02, 2016
+                                     Dev:               0.000            0.000       Undev:             0.000          0.000   PS00002 D           P&S          Jun 02, 2016 (I)
+                                     Prov:              0.000            0.000       NProv:             0.000          0.000
+
+
+
+                                                                Royalty / Encumbrances
+
+
+
+
+CS LAND Version: 24.2.0
+Report Date: Apr 26, 2025                                               CLEO ENERGY CORP.
+Page Number: 4                                                          Mineral Property Report
+              **REPORTED IN HECTARES**
+
+
+
+File Number     Lse Type Lessor Type                        Exposure Oper.Cont. ROFR               DOI Code
+File Status     Int Type / Lse No/Name                         Gross
+Mineral Int     Operator / Payor                                Net Doi Partner(s)            *                  *              Lease Description / Rights Held
+
+     (cont'd)
+                       Royalty Type                         Product Type     Sliding Scale Convertible   % of Prod/Sales
+                       CROWN SLIDING SCALE                  ALL                    Y           N      100.00000000 % of PROD
+                          Roy Percent:
+                          Deduction:     STANDARD
+ M00549            B      Gas: Royalty:                                        Min Pay:                       Prod/Sales:
+                          S/S OIL: Min:                     Max:                   Div:                       Prod/Sales:
+                          Other Percent:                                           Min:                       Prod/Sales:
+
+                          Paid to: LESSOR        (M)                           Paid by: TRUST       (C)
+                          GOVT OF AB E                 100.00000000            CLEO ENERGY
+                                                                               HARVEST OP             100.00000000
+
+                           GEN -
+                             CROWN SLIDING SCALE
+
+
+
+M00552       PET      FH            Eff: Dec 10, 1996         32.350                                        WI                  Area : SEDGEWICK FIELD
+Sub: A       WI                     Exp: Dec 09, 1997         32.350 CLEO ENERGY                  100.00000000                  TWP 42 RGE 12 W4M LSD 5, 6 SEC 3
+ACTIVE       PSK M064809            Ext: HBP                  32.350                                                            PETROLEUM TO BASE OSTRACOD_ZONE
+             CLEO ENERGY                                             Total Rental: 400.00
+100.00000000 CLEO ENERGY                                                                                                        ----------------- Related Contracts -----------------
+                                                                                                                                C00295 D            ROYLTY       May 31, 2021
+                       Status                            Hectares             Net                  Hectares            Net      C00340 A            ORR           Jul 28, 2016
+                       PRODUCING         Prod:             32.350          32.350    NProd:           0.000          0.000      PS00002 A           P&S          Jun 02, 2016
+                                         Dev:               0.000           0.000    Undev:           0.000          0.000      PS00002 D           P&S          Jun 02, 2016 (I)
+                                         Prov:              0.000           0.000    NProv:           0.000          0.000      PS00014 D           P&S          May 31, 2021
+
+
+
+                                                                   Royalty / Encumbrances
+
+           <Linked> Royalty Type                            Product Type     Sliding Scale Convertible   % of Prod/Sales
+           C00340 A GROSS OVERRIDING ROYALTY                ALL                    N           N      100.00000000 % of SALES
+
+
+
+
+CS LAND Version: 24.2.0
+Report Date: Apr 26, 2025                                           CLEO ENERGY CORP.
+Page Number: 5                                                      Mineral Property Report
+              **REPORTED IN HECTARES**
+
+
+
+File Number     Lse Type Lessor Type                    Exposure Oper.Cont. ROFR              DOI Code
+File Status     Int Type / Lse No/Name                     Gross
+Mineral Int     Operator / Payor                            Net Doi Partner(s)           *                  *          Lease Description / Rights Held
+
+     (cont'd)
+                           Roy Percent:   2.50000000
+                           Deduction:     STANDARD
+ M00552            A       Gas: Royalty:                                  Min Pay:                       Prod/Sales:
+                           S/S OIL: Min:                Max:                  Div:                       Prod/Sales:
+                           Other Percent:                                     Min:                       Prod/Sales:
+
+                          Paid to: GORPD     (C)                          Paid by: GORBY       (C)
+                          OBSIDIAN ENERGY          100.00000000           CLEO ENERGY           100.00000000
+
+                           ROYALTY -
+                              ROYALTY ONLY PAYABLE ON % ACQUIRED FROM PENN WEST
+                           ROYALTY DEDUCTIONS -
+                              ALTERNATE 1 OF THE 1997 CAPL OVERRIDING ROYALTY PROCEDURE
+                              DEDUCTIONS MUST NOT EXCEED THOSE PERMITTED BY CROWN
+                           ELECTIONS_NOTICES -
+                              SURRENDER NOTICE APPLIES
+                              20 DAY NOTICE; 10 DAY RESPONSE
+
+
+
+                                                               Royalty / Encumbrances
+
+           <Linked> Royalty Type                   Product Type          Sliding Scale Convertible   % of Prod/Sales
+           C00295 D GROSS OVERRIDING ROYALTY       OIL                         N           Y                    % of
+                       Roy Percent:
+                       Deduction:     STANDARD
+                       Gas: Royalty:                                      Min Pay:                       Prod/Sales:
+                       S/S OIL: Min:               Max:                       Div:                       Prod/Sales:
+                       Other Percent: PVR UNTIL 25                            Min:                       Prod/Sales:
+
+                          Paid to:   PDTO    (C)                          Paid by: PDBY        (C)
+                          B.I.L. CREE NAT          100.00000000           CLEO ENERGY           100.00000000
+
+
+
+
+CS LAND Version: 24.2.0
+Report Date: Apr 26, 2025                                                 CLEO ENERGY CORP.
+Page Number: 6                                                            Mineral Property Report
+              **REPORTED IN HECTARES**
+
+
+
+File Number     Lse Type Lessor Type                        Exposure Oper.Cont. ROFR               DOI Code
+File Status     Int Type / Lse No/Name                         Gross
+Mineral Int     Operator / Payor                                Net Doi Partner(s)             *                 *               Lease Description / Rights Held
+
+     (cont'd)
+
+ M00552            A       GENERAL REMARK - Feb 14, 2022
+                             PVR ROYALTY OF 25 BOE/D ACROSS ALL LANDS UNTIL MAY 1, 2025 WHEN ROYALTY
+                             CONVERTS TO A 3% NCGORR ACROSS LANDS;
+
+                       Royalty Type                         Product Type       Sliding Scale Convertible   % of Prod/Sales
+                       LESSOR ROYALTY                       OIL                      N           N      100.00000000 % of PROD
+                          Roy Percent:
+                          Deduction:     YES
+                          Gas: Royalty:  17.50000000                          Min Pay:    $6.21/1000M3        Prod/Sales:
+                          S/S OIL: Min:  25.00000000        Max:      25.00000000 Div:                        Prod/Sales:
+                          Other Percent: 17.5                                     Min:                        Prod/Sales:
+
+                          Paid to: DEPOSITORY
+                                           (M)                                   Paid by: WI        (M)
+                          PRAIRIESKY ROYA      100.00000000                      CLEO ENERGY         100.00000000
+
+                           ROYALTY DEDUCTIONS -
+                             Review Date: 2010/03/29Reviewed By: PATTI M.
+
+                              Review Date: 2010/03/29Reviewed By: PATTI M.
+
+                              GAS DEDUCTIONS BASED ON SALES
+
+                              (Y/N)
+                              N       compression
+                              N       gathering
+                              N       processing
+                              N       not to exceed GCA (in province well drilled)
+                              N       not to exceed 00% of sales
+                              N       not to exceed 00% of LOR/ORR
+                              N       royalty owner has option to take in kind
+
+
+
+
+CS LAND Version: 24.2.0
+Report Date: Apr 26, 2025                                                 CLEO ENERGY CORP.
+Page Number: 7                                                            Mineral Property Report
+              **REPORTED IN HECTARES**
+
+
+
+File Number     Lse Type Lessor Type                        Exposure Oper.Cont. ROFR                  DOI Code
+File Status     Int Type / Lse No/Name                         Gross
+Mineral Int     Operator / Payor                                Net Doi Partner(s)               *                  *               Lease Description / Rights Held
+
+     (cont'd)
+
+ M00552            A          Other comments: LEASE COVERS SOLUTION GAS ONLY - NO DEDUCTIONS PERMITTED.
+
+                              OIL DEDUCTIONS BASED ON PRODUCTION
+
+                              (Y/N)
+                              N       dirty oil hauling
+                              Y       clean oil hauling
+                              N       separating & treating
+                              N       not to exceed 00% of sales
+                              N       not to exceed 00% of LOR/ORR
+                              N       royalty owner has option to take in kind
+
+                              Other comments: "REASONABLE" CLEAN OIL TRUCKING ONLY.
+
+
+
+M00553       PET      FH              Eff: Dec 10, 1996         32.350                                         WI                   Area : SEDGEWICK FIELD
+Sub: A       WI                       Exp: Dec 09, 1997         32.350 CLEO ENERGY                   100.00000000                   TWP 42 RGE 12 W4M LSD 12 & 13
+ACTIVE       PSK M064808              Ext: HBP                  32.350                                                              SEC 3
+             CLEO ENERGY                                               Total Rental: 400.00                                         PETROLEUM TO BASE OSTRACOD_ZONE
+100.00000000 CLEO ENERGY
+                                                                                                                                    ----------------- Related Contracts -----------------
+                       Status                            Hectares              Net                    Hectares            Net       C00295 D            ROYLTY       May 31, 2021
+                       PRODUCING          Prod:            32.350           32.350      NProd:           0.000          0.000       C00340 A            ORR           Jul 28, 2016
+                                          Dev:              0.000            0.000      Undev:           0.000          0.000       PS00002 A           P&S          Jun 02, 2016
+                                          Prov:             0.000            0.000      NProv:           0.000          0.000       PS00002 D           P&S          Jun 02, 2016 (I)
+                                                                                                                                    PS00014 D           P&S          May 31, 2021
+
+                                                                   Royalty / Encumbrances
+
+           <Linked> Royalty Type                            Product Type         Sliding Scale Convertible   % of Prod/Sales
+           C00340 A GROSS OVERRIDING ROYALTY                ALL                        N           N      100.00000000 % of SALES
+
+
+
+
+CS LAND Version: 24.2.0
+Report Date: Apr 26, 2025                                           CLEO ENERGY CORP.
+Page Number: 8                                                      Mineral Property Report
+              **REPORTED IN HECTARES**
+
+
+
+File Number     Lse Type Lessor Type                    Exposure Oper.Cont. ROFR              DOI Code
+File Status     Int Type / Lse No/Name                     Gross
+Mineral Int     Operator / Payor                            Net Doi Partner(s)           *                  *          Lease Description / Rights Held
+
+     (cont'd)
+                           Roy Percent:   2.50000000
+                           Deduction:     STANDARD
+ M00553            A       Gas: Royalty:                                  Min Pay:                       Prod/Sales:
+                           S/S OIL: Min:                Max:                  Div:                       Prod/Sales:
+                           Other Percent:                                     Min:                       Prod/Sales:
+
+                          Paid to: GORPD     (C)                          Paid by: GORBY       (C)
+                          OBSIDIAN ENERGY          100.00000000           CLEO ENERGY           100.00000000
+
+                           ROYALTY -
+                              ROYALTY ONLY PAYABLE ON % ACQUIRED FROM PENN WEST
+                           ROYALTY DEDUCTIONS -
+                              ALTERNATE 1 OF THE 1997 CAPL OVERRIDING ROYALTY PROCEDURE
+                              DEDUCTIONS MUST NOT EXCEED THOSE PERMITTED BY CROWN
+                           ELECTIONS_NOTICES -
+                              SURRENDER NOTICE APPLIES
+                              20 DAY NOTICE; 10 DAY RESPONSE
+
+
+
+                                                               Royalty / Encumbrances
+
+           <Linked> Royalty Type                   Product Type          Sliding Scale Convertible   % of Prod/Sales
+           C00295 D GROSS OVERRIDING ROYALTY       OIL                         N           Y                    % of
+                       Roy Percent:
+                       Deduction:     STANDARD
+                       Gas: Royalty:                                      Min Pay:                       Prod/Sales:
+                       S/S OIL: Min:               Max:                       Div:                       Prod/Sales:
+                       Other Percent: PVR UNTIL 25                            Min:                       Prod/Sales:
+
+                          Paid to:   PDTO    (C)                          Paid by: PDBY        (C)
+                          B.I.L. CREE NAT          100.00000000           CLEO ENERGY           100.00000000
+
+
+
+
+CS LAND Version: 24.2.0
+Report Date: Apr 26, 2025                                                 CLEO ENERGY CORP.
+Page Number: 9                                                            Mineral Property Report
+              **REPORTED IN HECTARES**
+
+
+
+File Number     Lse Type Lessor Type                        Exposure Oper.Cont. ROFR               DOI Code
+File Status     Int Type / Lse No/Name                         Gross
+Mineral Int     Operator / Payor                                Net Doi Partner(s)             *                 *               Lease Description / Rights Held
+
+     (cont'd)
+
+ M00553            A       GENERAL REMARK - Feb 14, 2022
+                             PVR ROYALTY OF 25 BOE/D ACROSS ALL LANDS UNTIL MAY 1, 2025 WHEN ROYALTY
+                             CONVERTS TO A 3% NCGORR ACROSS LANDS;
+
+                       Royalty Type                         Product Type       Sliding Scale Convertible   % of Prod/Sales
+                       LESSOR ROYALTY                       OIL                      N           N      100.00000000 % of PROD
+                          Roy Percent:
+                          Deduction:     YES
+                          Gas: Royalty:  17.50000000                           Min Pay:   $6.21/1000M3        Prod/Sales:
+                          S/S OIL: Min:  25.00000000        Max:       25.00000000 Div:                       Prod/Sales:
+                          Other Percent: 17.5                                      Min:                       Prod/Sales:
+
+                          Paid to: DEPOSITORY
+                                           (M)                                   Paid by: WI        (M)
+                          PRAIRIESKY ROYA      100.00000000                      CLEO ENERGY         100.00000000
+
+                           ROYALTY DEDUCTIONS -
+                             Review Date: 2006/07/20Reviewed By: CAROLYN M.
+                             GAS DEDUCTIONS BASED ON SALES
+
+                              (Y/N)
+                              N       compression
+                              N       gathering
+                              N       processing
+                              N       not to exceed GCA (in province well drilled)
+                              N       not to exceed 00% of sales
+                              N       not to exceed 00% of LOR/ORR
+                              Y       royalty owner has option to take in kind
+
+                              other comments: _________________________________________________________
+
+
+
+
+CS LAND Version: 24.2.0
+Report Date: Apr 26, 2025                                                   CLEO ENERGY CORP.
+Page Number: 10                                                             Mineral Property Report
+              **REPORTED IN HECTARES**
+
+
+
+File Number     Lse Type Lessor Type                           Exposure Oper.Cont. ROFR              DOI Code
+File Status     Int Type / Lse No/Name                            Gross
+Mineral Int     Operator / Payor                                   Net Doi Partner(s)           *                  *         Lease Description / Rights Held
+
+     (cont'd)
+
+ M00553            A            OIL DEDUCTIONS BASED ON PRODUCTION
+
+                                (Y/N)
+                                N       dirty oil hauling
+                                Y       clean oil hauling
+                                N       separating & treating
+                                N       not to exceed 00% of sales
+                                N       not to exceed 00% of LOR/ORR
+                                Y       royalty owner has option to take in kind
+
+                                other comments:
+
+
+
+
+                          ROYALTY -
+                             CLAUSE 5 OF LEASE INDICATES ROYALTY IS PAYABLE NO LATER THAN THE LAST DAY OF
+                             THE MONTH NEXT FOLLOWINGN THE MONTH.
+                             LEASE 55lb - 93 Rev.1 (95) FREEHOLD 1996 PETROLEUM LEASE
+                          SUSPENDED OR SHUT IN WELL PAYMENT INFO -
+                             LESSEE ON OR BEFORE SUCH ANNIVERSARY DATE, PAYS TO THE LESSOR A SUM WITH
+                             RESPECT OT EACH SUCH WELL EQUAL TO $5.00 PER ACRE FOR EACH ACRE OF THE SAID
+                             LANDS
+
+
+
+M00550       PNG       CR               Eff: Sep 08, 1983         64.000                                      WI             Area : SEDGEWICK FIELD
+Sub: A       WI                         Exp: Sep 07, 1988         64.000 CLEO ENERGY                100.00000000             TWP 42 RGE 12 W4M NE 4
+ACTIVE       0483090059                 Ext: 15                   64.000                                                     PNG FROM BASE VIKING TO BASE
+             CLEO ENERGY                                                 Total Rental: 224.00                                MANNVILLE_GROUP
+100.00000000 CLEO ENERGY
+                                                                                                                             ----------------- Related Contracts -----------------
+                       Status                              Hectares                Net               Hectares          Net   C00295 D            ROYLTY       May 31, 2021
+
+
+
+
+CS LAND Version: 24.2.0
+Report Date: Apr 26, 2025                                               CLEO ENERGY CORP.
+Page Number: 11                                                         Mineral Property Report
+              **REPORTED IN HECTARES**
+
+
+
+File Number     Lse Type Lessor Type                        Exposure Oper.Cont. ROFR              DOI Code
+File Status     Int Type / Lse No/Name                         Gross
+Mineral Int     Operator / Payor                                Net Doi Partner(s)            *                 *               Lease Description / Rights Held
+
+     (cont'd)
+
+M00550
+Sub: A                 PRODUCING         Prod:             64.000          64.000    NProd:          0.000          0.000       C00340 A      ORR            Jul 28, 2016
+                                         Dev:               0.000           0.000    Undev:          0.000          0.000       PS00002 A     P&S           Jun 02, 2016
+                                         Prov:              0.000           0.000    NProv:          0.000          0.000       PS00002 D     P&S           Jun 02, 2016 (I)
+                                                                                                                                PS00014 D     P&S           May 31, 2021
+
+                                                                   Royalty / Encumbrances
+
+           <Linked> Royalty Type                            Product Type     Sliding Scale Convertible   % of Prod/Sales
+           C00340 A GROSS OVERRIDING ROYALTY                ALL                    N           N      100.00000000 % of SALES
+                       Roy Percent:   2.50000000
+                       Deduction:     STANDARD
+                       Gas: Royalty:                                           Min Pay:                      Prod/Sales:
+                       S/S OIL: Min:                        Max:                   Div:                      Prod/Sales:
+                       Other Percent:                                              Min:                      Prod/Sales:
+
+                          Paid to: GORPD         (C)                           Paid by: GORBY      (C)
+                          OBSIDIAN ENERGY              100.00000000            CLEO ENERGY          100.00000000
+
+                           ROYALTY -
+                              ROYALTY ONLY PAYABLE ON % ACQUIRED FROM PENN WEST
+                           ROYALTY DEDUCTIONS -
+                              ALTERNATE 1 OF THE 1997 CAPL OVERRIDING ROYALTY PROCEDURE
+                              DEDUCTIONS MUST NOT EXCEED THOSE PERMITTED BY CROWN
+                           ELECTIONS_NOTICES -
+                              SURRENDER NOTICE APPLIES
+                              20 DAY NOTICE; 10 DAY RESPONSE
+
+           <Linked> Royalty Type                            Product Type     Sliding Scale Convertible   % of Prod/Sales
+           C00295 D GROSS OVERRIDING ROYALTY                OIL                    N           Y                    % of
+                       Roy Percent:
+
+
+
+
+CS LAND Version: 24.2.0
+Report Date: Apr 26, 2025                                           CLEO ENERGY CORP.
+Page Number: 12                                                     Mineral Property Report
+              **REPORTED IN HECTARES**
+
+
+
+File Number     Lse Type Lessor Type                    Exposure Oper.Cont. ROFR             DOI Code
+File Status     Int Type / Lse No/Name                     Gross
+Mineral Int     Operator / Payor                            Net Doi Partner(s)          *                  *               Lease Description / Rights Held
+
+     (cont'd)
+                           Deduction:     STANDARD
+ M00550            A       Gas: Royalty:                                  Min Pay:                      Prod/Sales:
+                           S/S OIL: Min:               Max:                   Div:                      Prod/Sales:
+                           Other Percent: PVR UNTIL 25                        Min:                      Prod/Sales:
+
+                          Paid to:   PDTO    (C)                          Paid by: PDBY       (C)
+                          B.I.L. CREE NAT          100.00000000           CLEO ENERGY          100.00000000
+
+                           GENERAL REMARK - Feb 14, 2022
+                             PVR ROYALTY OF 25 BOE/D ACROSS ALL LANDS UNTIL MAY 1, 2025 WHEN ROYALTY
+                             CONVERTS TO A 3% NCGORR ACROSS LANDS;
+
+
+
+                                                               Royalty / Encumbrances
+
+                       Royalty Type                     Product Type     Sliding Scale Convertible   % of Prod/Sales
+                       CROWN SLIDING SCALE              ALL                    Y           N      100.00000000 % of PROD
+                          Roy Percent:
+                          Deduction:     STANDARD
+                          Gas: Royalty:                                   Min Pay:                      Prod/Sales:
+                          S/S OIL: Min:                 Max:                  Div:                      Prod/Sales:
+                          Other Percent:                                      Min:                      Prod/Sales:
+
+                          Paid to: LESSOR    (M)                          Paid by: WI         (M)
+                          GOVT OF AB E             100.00000000           CLEO ENERGY          100.00000000
+
+                           GEN -
+                             CROWN SLIDING SCALE
+
+
+
+M00551          PNG        CR       Eff: Dec 12, 1996     64.000                                      WI                   Area : WAINWRIGHT FIELD
+Sub: A          WI                  Exp: Dec 11, 2001     64.000 CLEO ENERGY                100.00000000                   TWP 42 RGE 12 W4M NW 4
+
+
+
+
+CS LAND Version: 24.2.0
+Report Date: Apr 26, 2025                                                CLEO ENERGY CORP.
+Page Number: 13                                                          Mineral Property Report
+              **REPORTED IN HECTARES**
+
+
+
+File Number     Lse Type Lessor Type                        Exposure Oper.Cont. ROFR                    DOI Code
+File Status     Int Type / Lse No/Name                         Gross
+Mineral Int     Operator / Payor                                Net Doi Partner(s)                  *                 *            Lease Description / Rights Held
+
+     (cont'd)
+
+M00551
+Sub: A
+ACTIVE       0496120167             Ext: 15                   64.000
+             CLEO ENERGY                                                Total Rental:      224.00                                  PNG TO BASE MANNVILLE_GROUP
+100.00000000 CLEO ENERGY
+                                                                                                                                   ----------------- Related Contracts -----------------
+                       Status                            Hectares             Net                       Hectares             Net   C00245 A            MEMO         Aug 12, 2016
+                       PRODUCING         Prod:             32.000          32.000       NProd:            32.000          32.000   C00340 A            ORR           Jul 28, 2016
+                                         Dev:               0.000           0.000       Undev:             0.000           0.000   PS00002 A           P&S          Jun 02, 2016
+                                         Prov:              0.000           0.000       NProv:             0.000           0.000   PS00002 D           P&S          Jun 02, 2016 (I)
+
+
+
+                                                                   Royalty / Encumbrances
+
+           <Linked> Royalty Type                            Product Type      Sliding Scale Convertible   % of Prod/Sales
+           C00340 A GROSS OVERRIDING ROYALTY                ALL                     N           N      100.00000000 % of SALES
+                       Roy Percent:   2.50000000
+                       Deduction:     STANDARD
+                       Gas: Royalty:                                            Min Pay:                           Prod/Sales:
+                       S/S OIL: Min:                        Max:                    Div:                           Prod/Sales:
+                       Other Percent:                                               Min:                           Prod/Sales:
+
+                          Paid to: GORPD         (C)                            Paid by: GORBY           (C)
+                          OBSIDIAN ENERGY              100.00000000             CLEO ENERGY               100.00000000
+
+                           ROYALTY -
+                              ROYALTY ONLY PAYABLE ON % ACQUIRED FROM PENN WEST
+                           ROYALTY DEDUCTIONS -
+                              ALTERNATE 1 OF THE 1997 CAPL OVERRIDING ROYALTY PROCEDURE
+                              DEDUCTIONS MUST NOT EXCEED THOSE PERMITTED BY CROWN
+                           ELECTIONS_NOTICES -
+                              SURRENDER NOTICE APPLIES
+
+
+
+CS LAND Version: 24.2.0
+Report Date: Apr 26, 2025                                           CLEO ENERGY CORP.
+Page Number: 14                                                     Mineral Property Report
+              **REPORTED IN HECTARES**
+
+
+
+File Number     Lse Type Lessor Type                    Exposure Oper.Cont. ROFR              DOI Code
+File Status     Int Type / Lse No/Name                     Gross
+Mineral Int     Operator / Payor                            Net Doi Partner(s)           *                  *               Lease Description / Rights Held
+
+     (cont'd)
+
+ M00551            A          20 DAY NOTICE; 10 DAY RESPONSE
+
+                       Royalty Type                     Product Type     Sliding Scale Convertible   % of Prod/Sales
+                       CROWN SLIDING SCALE              ALL                    Y           N      100.00000000 % of PROD
+                          Roy Percent:
+                          Deduction:     STANDARD
+                          Gas: Royalty:                                   Min Pay:                       Prod/Sales:
+                          S/S OIL: Min:                 Max:                  Div:                       Prod/Sales:
+                          Other Percent:                                      Min:                       Prod/Sales:
+
+                          Paid to: LESSOR    (M)                          Paid by: WI          (M)
+                          GOVT OF AB E             100.00000000           CLEO ENERGY           100.00000000
+
+
+
+M00551       PNG       CR           Eff: Dec 12, 1996     64.000                                       WI                   Area : WAINWRIGHT FIELD
+Sub: B       WI                     Exp: Dec 11, 2001     64.000 CLEO ENERGY                 100.00000000                   TWP 42 RGE 12 W4M SW 4
+ACTIVE       0496120167             Ext: 15               64.000                                                            PNG FROM BASE VIKING TO BASE
+             CLEO ENERGY                                         Total Rental: 224.00                                       MANNVILLE_GROUP
+100.00000000 CLEO ENERGY
+                                                                                                                            ----------------- Related Contracts -----------------
+                       Status                        Hectares            Net                  Hectares             Net      C00245 A            MEMO         Aug 12, 2016
+                       NON PRODUCING Prod:              0.000          0.000    NProd:          64.000          64.000      C00340 A            ORR           Jul 28, 2016
+                                     Dev:               0.000          0.000    Undev:           0.000           0.000      PS00002 A           P&S          Jun 02, 2016
+                                     Prov:              0.000          0.000    NProv:           0.000           0.000      PS00002 D           P&S          Jun 02, 2016 (I)
+
+
+
+                                                               Royalty / Encumbrances
+
+           <Linked> Royalty Type                        Product Type     Sliding Scale Convertible   % of Prod/Sales
+           C00340 A GROSS OVERRIDING ROYALTY            ALL                    N           N      100.00000000 % of SALES
+                       Roy Percent: 2.50000000
+
+
+
+
+CS LAND Version: 24.2.0
+Report Date: Apr 26, 2025                                          CLEO ENERGY CORP.
+Page Number: 15                                                    Mineral Property Report
+              **REPORTED IN HECTARES**
+
+
+
+File Number     Lse Type Lessor Type                   Exposure Oper.Cont. ROFR            DOI Code
+File Status     Int Type / Lse No/Name                    Gross
+Mineral Int     Operator / Payor                           Net Doi Partner(s)          *                 *                Lease Description / Rights Held
+
+     (cont'd)
+                           Deduction:     STANDARD
+ M00551            B       Gas: Royalty:                                 Min Pay:                     Prod/Sales:
+                           S/S OIL: Min:               Max:                  Div:                     Prod/Sales:
+                           Other Percent:                                    Min:                     Prod/Sales:
+
+                          Paid to: GORPD    (C)                          Paid by: GORBY      (C)
+                          OBSIDIAN ENERGY         100.00000000           CLEO ENERGY          100.00000000
+
+                           ROYALTY -
+                              ROYALTY ONLY PAYABLE ON % ACQUIRED FROM PENN WEST
+                           ROYALTY DEDUCTIONS -
+                              ALTERNATE 1 OF THE 1997 CAPL OVERRIDING ROYALTY PROCEDURE
+                              DEDUCTIONS MUST NOT EXCEED THOSE PERMITTED BY CROWN
+                           ELECTIONS_NOTICES -
+                              SURRENDER NOTICE APPLIES
+                              20 DAY NOTICE; 10 DAY RESPONSE
+
+
+
+                                                              Royalty / Encumbrances
+
+                       Royalty Type                    Product Type     Sliding Scale Convertible   % of Prod/Sales
+                       CROWN SLIDING SCALE             ALL                    Y           N      100.00000000 % of PROD
+                          Roy Percent:
+                          Deduction:     STANDARD
+                          Gas: Royalty:                                  Min Pay:                     Prod/Sales:
+                          S/S OIL: Min:                Max:                  Div:                     Prod/Sales:
+                          Other Percent:                                     Min:                     Prod/Sales:
+
+                          Paid to: LESSOR   (M)                          Paid by: WI         (M)
+                          GOVT OF AB E            100.00000000           CLEO ENERGY          100.00000000
+
+
+
+
+CS LAND Version: 24.2.0
+Report Date: Apr 26, 2025                                             CLEO ENERGY CORP.
+Page Number: 16                                                       Mineral Property Report
+              **REPORTED IN HECTARES**
+
+
+
+File Number   Lse Type Lessor Type                        Exposure Oper.Cont. ROFR               DOI Code
+File Status   Int Type / Lse No/Name                         Gross
+Mineral Int   Operator / Payor                                Net Doi Partner(s)            *                  *              Lease Description / Rights Held
+
+
+
+M00551       PNG       CR          Eff: Dec 12, 1996        64.000                                        WI                  Area : WAINWRIGHT FIELD
+Sub: C       WI                    Exp: Dec 11, 2001        64.000 CLEO ENERGY                  100.00000000                  TWP 42 RGE 12 W4M SE 4
+ACTIVE       0496120167            Ext: 15                  64.000                                                            PNG FROM BASE VIKING TO BASE
+             CLEO ENERGY                                           Total Rental: 224.00                                       MANNVILLE_GROUP
+100.00000000 CLEO ENERGY
+                                                                                                                              ----------------- Related Contracts -----------------
+                     Status                            Hectares             Net                  Hectares             Net     C00245 A            MEMO         Aug 12, 2016
+                     PRODUCING         Prod:             48.000          48.000    NProd:          16.000          16.000     C00295 D            ROYLTY       May 31, 2021
+                                       Dev:               0.000           0.000    Undev:           0.000           0.000     C00340 A            ORR           Jul 28, 2016
+                                       Prov:              0.000           0.000    NProv:           0.000           0.000     PS00002 A           P&S          Jun 02, 2016
+                                                                                                                              PS00002 D           P&S          Jun 02, 2016 (I)
+                                                                                                                              PS00014 D           P&S          May 31, 2021
+                                                                 Royalty / Encumbrances
+
+          <Linked> Royalty Type                           Product Type     Sliding Scale Convertible   % of Prod/Sales
+          C00340 A GROSS OVERRIDING ROYALTY               ALL                    N           N      100.00000000 % of SALES
+                      Roy Percent:   2.50000000
+                      Deduction:     STANDARD
+                      Gas: Royalty:                                          Min Pay:                       Prod/Sales:
+                      S/S OIL: Min:                       Max:                   Div:                       Prod/Sales:
+                      Other Percent:                                             Min:                       Prod/Sales:
+
+                          Paid to: GORPD       (C)                           Paid by: GORBY       (C)
+                          OBSIDIAN ENERGY            100.00000000            CLEO ENERGY           100.00000000
+
+                           ROYALTY -
+                              ROYALTY ONLY PAYABLE ON % ACQUIRED FROM PENN WEST
+                           ROYALTY DEDUCTIONS -
+                              ALTERNATE 1 OF THE 1997 CAPL OVERRIDING ROYALTY PROCEDURE
+                              DEDUCTIONS MUST NOT EXCEED THOSE PERMITTED BY CROWN
+                           ELECTIONS_NOTICES -
+                              SURRENDER NOTICE APPLIES
+
+
+
+
+CS LAND Version: 24.2.0
+Report Date: Apr 26, 2025                                           CLEO ENERGY CORP.
+Page Number: 17                                                     Mineral Property Report
+              **REPORTED IN HECTARES**
+
+
+
+File Number     Lse Type Lessor Type                      Exposure Oper.Cont. ROFR            DOI Code
+File Status     Int Type / Lse No/Name                       Gross
+Mineral Int     Operator / Payor                              Net Doi Partner(s)         *                  *              Lease Description / Rights Held
+
+     (cont'd)
+
+ M00551            C            20 DAY NOTICE; 10 DAY RESPONSE
+
+           <Linked> Royalty Type                   Product Type          Sliding Scale Convertible   % of Prod/Sales
+           C00295 D GROSS OVERRIDING ROYALTY       OIL                         N           Y                    % of
+                       Roy Percent:
+                       Deduction:     STANDARD
+                       Gas: Royalty:                                      Min Pay:                       Prod/Sales:
+                       S/S OIL: Min:               Max:                       Div:                       Prod/Sales:
+                       Other Percent: PVR UNTIL 25                            Min:                       Prod/Sales:
+
+                          Paid to:   PDTO      (C)                        Paid by: PDBY        (C)
+                          B.I.L. CREE NAT            100.00000000         CLEO ENERGY           100.00000000
+
+                           GENERAL REMARK - Feb 14, 2022
+                             PVR ROYALTY OF 25 BOE/D ACROSS ALL LANDS UNTIL MAY 1, 2025 WHEN ROYALTY
+                             CONVERTS TO A 3% NCGORR ACROSS LANDS;
+
+                       Royalty Type                       Product Type   Sliding Scale Convertible   % of Prod/Sales
+                       CROWN SLIDING SCALE                ALL                  Y           N      100.00000000 % of PROD
+                          Roy Percent:
+                          Deduction:     STANDARD
+                          Gas: Royalty:                                   Min Pay:                       Prod/Sales:
+                          S/S OIL: Min:                   Max:                Div:                       Prod/Sales:
+                          Other Percent:                                      Min:                       Prod/Sales:
+
+                          Paid to: LESSOR      (M)                        Paid by: WI          (M)
+                          GOVT OF AB E               100.00000000         CLEO ENERGY           100.00000000
+
+
+
+M00156          PET        FH        Eff: Jul 13, 2021      64.750                                     WI                  Area : SEDGEWICK FIELD
+Sub: A          WI                   Exp: Jul 12, 2023      64.750 CLEO ENERGY               100.00000000                  TWP 42 RGE 12 W4M NW 5
+
+
+
+
+CS LAND Version: 24.2.0
+Report Date: Apr 26, 2025                                                CLEO ENERGY CORP.
+Page Number: 18                                                          Mineral Property Report
+              **REPORTED IN HECTARES**
+
+
+
+File Number     Lse Type Lessor Type                        Exposure Oper.Cont. ROFR                    DOI Code
+File Status     Int Type / Lse No/Name                         Gross
+Mineral Int     Operator / Payor                                Net Doi Partner(s)                  *                 *           Lease Description / Rights Held
+
+     (cont'd)
+
+M00156
+Sub: A
+PENDING      PSK M235621            Ext: EXT                  64.750                                                              PET IN ELLERSLIE_MEMBER
+             CLEO ENERGY            Ext: Jan 30, 2025                   Total Rental:      420.88
+100.00000000 CLEO ENERGY                                                                                                          ----------------- Related Contracts -----------------
+                                                                                                                                  C00297 A            ROYLTY       Mar 15, 2022
+                       Status                            Hectares             Net                       Hectares            Net   JS00103             JV CWO        Jan 01, 2022
+                                         Prod:              0.000           0.000       NProd:             0.000          0.000   JS00105             JV EM/EF/W Jan 01, 2022
+                       DEVELOPED         Dev:              64.750          64.750       Undev:             0.000          0.000   PS00021 A           P&S          Mar 15, 2022
+                                         Prov:              0.000           0.000       NProv:             0.000          0.000
+
+
+
+                                                                   Royalty / Encumbrances
+
+           <Linked> Royalty Type                            Product Type      Sliding Scale Convertible   % of Prod/Sales
+           C00297 A OVERRIDING ROYALTY                      ALL                     N           N      100.00000000 % of SALES
+                       Roy Percent:   3.50000000
+                       Deduction:     STANDARD
+                       Gas: Royalty:                                            Min Pay:                           Prod/Sales:
+                       S/S OIL: Min:                        Max:                    Div:                           Prod/Sales:
+                       Other Percent:                                               Min:                           Prod/Sales:
+
+                          Paid to: PDTO          (C)                            Paid by: PDBY            (C)
+                          SHOT POINT RESO              100.00000000             CLEO ENERGY               100.00000000
+
+                       Royalty Type                         Product Type      Sliding Scale Convertible   % of Prod/Sales
+                       LESSOR ROYALTY                       ALL                     N           N      100.00000000 % of
+                          Roy Percent:  17.50000000
+                          Deduction:    NO
+                          Gas: Royalty:                                         Min Pay:                           Prod/Sales:
+                          S/S OIL: Min:                     Max:                    Div:                           Prod/Sales:
+
+
+
+
+CS LAND Version: 24.2.0
+Report Date: Apr 26, 2025                                         CLEO ENERGY CORP.
+Page Number: 19                                                   Mineral Property Report
+              **REPORTED IN HECTARES**
+
+
+
+File Number     Lse Type Lessor Type                    Exposure Oper.Cont. ROFR             DOI Code
+File Status     Int Type / Lse No/Name                     Gross
+Mineral Int     Operator / Payor                            Net Doi Partner(s)          *                  *          Lease Description / Rights Held
+
+     (cont'd)
+                           Other Percent:                                  Min:                         Prod/Sales:
+
+                          Paid to: LESSOR    (M)                       Paid by: WI            (M)
+                          PRAIRIESKY ROYA          100.00000000        CLEO ENERGY             100.00000000
+
+                           ROYALTY DEFINITION -
+                             ROYALTY PAYABLE AT THE ROYALTY DETERMINATION POINT
+                             ROYALTY DETERMINATION POINT:
+                             PETROLEUM AND FIELD CONDENSATE - POINT WHERE PRODUCT ENTERS FEEDER
+                             PIPELINE AT THE INLET OR WHERE THE PRODUCT IS SOLD DIRECTLY AT THE TERMINAL,
+                             THE INLET METER OF THE TERMINAL
+
+                              NATURAL GAS AND SOLUTION GAS - THE INLET TO THE METER STATION OF THE INITIAL
+                              TRANSMISSION PIPELINE CARRYING THE PRODUCT TO THE END USER MARKET OR, IN THE
+                              CASE WHERE PRODUCT IS SOLD DIRECTLY TO AN END USER, THE INLET METER AT THE
+                              END USER'S FACILITY
+
+                              NG LIQUIDS - NG LIQUIDS OUTLET METER OF THE FACILITY AT WHICH THE NG LIQUIDS
+                              ARE EXTRACTED FROM NG OR SOLUTION GAS
+
+                              OTHER SUBSTANCES - THE INLET TO THE METER STATION OF THE INITIAL TRANSMISSION
+                              PIPELINE CARRYING THE OTHER SUBSTANCES TO THE END USER MARKET OR, IN THE
+                              CASE WHERE THE OTHER SUBSTANCES ARE SOLD DIRECTLY TO AN END USER, THE INLET
+                              METER AT THE END USER'S FACILITY
+
+                              SULPHUR - THE OUTLET OF THE SULPHUR PROCESSING AND LOADING FACILITY
+
+
+
+M00166          PET      FH         Eff: Oct 31, 2009     64.750                                      WI              Area : SEDGEWICK FIELD
+Sub: A          WI                  Exp: Oct 30, 2010     64.750 CLEO ENERGY                100.00000000              TWP 42 RGE 12 W4M NE 5
+ACTIVE          PSK M110080         Ext: EXT              64.750                                                      PET IN ELLERSLIE_MEMBER
+                CLEO ENERGY         Ext: Jan 30, 2025            Total Rental: 323.75
+
+
+
+
+CS LAND Version: 24.2.0
+Report Date: Apr 26, 2025                                               CLEO ENERGY CORP.
+Page Number: 20                                                         Mineral Property Report
+              **REPORTED IN HECTARES**
+
+
+
+File Number     Lse Type Lessor Type                        Exposure Oper.Cont. ROFR             DOI Code
+File Status     Int Type / Lse No/Name                         Gross
+Mineral Int     Operator / Payor                                Net Doi Partner(s)           *                 *               Lease Description / Rights Held
+
+     (cont'd)
+
+M00166
+Sub: A
+100.00000000 CLEO ENERGY                                                                                                       ----------------- Related Contracts -----------------
+                                                                                                                               JS00105             JV EM/EF/W Jan 01, 2022
+                       Status                            Hectares             Net                Hectares            Net       PS00015 A           P&S          Sep 13, 2021
+                                         Prod:              0.000           0.000   NProd:          0.000          0.000
+                       DEVELOPED         Dev:              64.750          64.750   Undev:          0.000          0.000
+                                         Prov:              0.000           0.000   NProv:          0.000          0.000
+
+
+
+                                                                   Royalty / Encumbrances
+
+                       Royalty Type                         Product Type     Sliding Scale Convertible   % of Prod/Sales
+                       LESSOR ROYALTY                       ALL                    N           N      100.00000000 % of PROD
+                          Roy Percent:
+                          Deduction:     YES
+                          Gas: Royalty:                                       Min Pay:                      Prod/Sales:
+                          S/S OIL: Min:  4.00000000         Max:      40.00000000 Div:                      Prod/Sales:
+                          Other Percent:                                          Min:                      Prod/Sales:
+
+                          Paid to: LESSOR        (M)                           Paid by: WI        (M)
+                          PRAIRIESKY ROYA              100.00000000            CLEO ENERGY         100.00000000
+
+                           ROYALTY -
+                             SEE APPENDIX IX "A" AND "B" FOR CALCULATIONS
+
+
+
+M00452          PNG       CR    Eff: Nov 23, 1978            256.000 C00107 A No                          WI                   Area : WAINWRIGHT FIELD
+Sub: A          WI              Exp: Nov 22, 1983            256.000 CLEO ENERGY                 15.00000000                   TWP 42 RGE 12 W4M 6
+ACTIVE          0478110095      Ext: 15                       38.400 SIGNALTA RESOUR             85.00000000                   ALL PNG FROM TOP SURFACE TO
+                SIGNALTA RESOUR                                                                                                BASE VIKING
+
+
+
+
+CS LAND Version: 24.2.0
+Report Date: Apr 26, 2025                                                CLEO ENERGY CORP.
+Page Number: 21                                                          Mineral Property Report
+              **REPORTED IN HECTARES**
+
+
+
+File Number     Lse Type Lessor Type                        Exposure Oper.Cont. ROFR                    DOI Code
+File Status     Int Type / Lse No/Name                         Gross
+Mineral Int     Operator / Payor                                Net Doi Partner(s)                  *                 *           Lease Description / Rights Held
+
+     (cont'd)
+
+M00452
+Sub: A
+100.00000000 SIGNALTA RESOUR                                            Total Rental:      896.00
+                                                                                                                                  ----------------- Related Contracts -----------------
+                       Status                            Hectares             Net                       Hectares            Net   C00107              JOA           Jan 01, 1988
+                       PRODUCING         Prod:            256.000          38.400       NProd:             0.000          0.000   C00107 A            JOA           Jan 01, 1988
+                                         Dev:               0.000           0.000       Undev:             0.000          0.000   C00340 CB           ORR            Jul 28, 2016
+                                         Prov:              0.000           0.000       NProv:             0.000          0.000   PS00002 A           P&S          Jun 02, 2016
+                                                                                                                                  PS00002 D           P&S          Jun 02, 2016 (I)
+
+                                                                   Royalty / Encumbrances
+
+           <Linked> Royalty Type                            Product Type      Sliding Scale Convertible    % of Prod/Sales
+           C00340 CB GROSS OVERRIDING ROYALTY               ALL                     N           N      15.00000000 % of SALES
+                       Roy Percent:   2.50000000
+                       Deduction:     STANDARD
+                       Gas: Royalty:                                            Min Pay:                           Prod/Sales:
+                       S/S OIL: Min:                        Max:                    Div:                           Prod/Sales:
+                       Other Percent:                                               Min:                           Prod/Sales:
+
+                          Paid to: GORPD         (C)                            Paid by: GORBY           (C)
+                          OBSIDIAN ENERGY              100.00000000             CLEO ENERGY               100.00000000
+
+                           ROYALTY -
+                              ROYALTY ONLY PAYABLE ON % ACQUIRED FROM PENN WEST
+                           ROYALTY DEDUCTIONS -
+                              ALTERNATE 1 OF THE 1997 CAPL OVERRIDING ROYALTY PROCEDURE
+                              DEDUCTIONS MUST NOT EXCEED THOSE PERMITTED BY CROWN
+                           ELECTIONS_NOTICES -
+                              SURRENDER NOTICE APPLIES
+                              20 DAY NOTICE; 10 DAY RESPONSE
+
+
+
+
+CS LAND Version: 24.2.0
+Report Date: Apr 26, 2025                                            CLEO ENERGY CORP.
+Page Number: 22                                                      Mineral Property Report
+              **REPORTED IN HECTARES**
+
+
+
+File Number     Lse Type Lessor Type                    Exposure Oper.Cont. ROFR                     DOI Code
+File Status     Int Type / Lse No/Name                     Gross
+Mineral Int     Operator / Payor                            Net Doi Partner(s)                  *                  *             Lease Description / Rights Held
+
+     (cont'd)
+
+ M00452            A
+                                                               Royalty / Encumbrances
+
+                       Royalty Type                     Product Type      Sliding Scale Convertible   % of Prod/Sales
+                       CROWN SLIDING SCALE              ALL                     Y           N      100.00000000 % of PROD
+                          Roy Percent:
+                          Deduction:     STANDARD
+                          Gas: Royalty:                                     Min Pay:                            Prod/Sales:
+                          S/S OIL: Min:                 Max:                    Div:                            Prod/Sales:
+                          Other Percent:                                        Min:                            Prod/Sales:
+
+                          Paid to: LESSOR    (M)                            Paid by: WI               (C)
+                          GOVT OF AB E             100.00000000             CLEO ENERGY                 15.00000000
+                                                                            SIGNALTA RESOUR             85.00000000
+
+
+
+M00380       NG      CR             Eff: Mar 06, 1957    128.000 C00084 A No                        DELINQUENT                   Area : WAINWRIGHT FIELD
+Sub: A       WI                     Exp: Mar 05, 1978    128.000 CLEO ENERGY                         92.23800000                 TWP 42 RGE 12 W4M E 10
+ACTIVE       307                    Ext: 15              118.065 TAQA                                 7.76200000                 NG IN CAMERON_SANDSTONE
+             CLEO ENERGY                                         SANLING ENERGY
+100.00000000 CLEO ENERGY                                                                                                         ----------------- Related Contracts -----------------
+                                                                    Total Rental:      448.00                                    C00084 A            POOL         Aug 01, 1998
+                                                                                                                                 C00340 AV           ORR           Jul 28, 2016
+                       Status                        Hectares             Net                        Hectares              Net   PS00002 A           P&S          Jun 02, 2016
+                       NON PRODUCING Prod:              0.000           0.000       NProd:            128.000          118.065   PS00002 D           P&S          Jun 02, 2016 (I)
+                                     Dev:               0.000           0.000       Undev:              0.000            0.000
+                                     Prov:              0.000           0.000       NProv:              0.000            0.000
+
+
+
+                                                               Royalty / Encumbrances
+
+
+
+
+CS LAND Version: 24.2.0
+Report Date: Apr 26, 2025                                            CLEO ENERGY CORP.
+Page Number: 23                                                      Mineral Property Report
+              **REPORTED IN HECTARES**
+
+
+
+File Number   Lse Type Lessor Type                       Exposure Oper.Cont. ROFR              DOI Code
+File Status   Int Type / Lse No/Name                        Gross
+Mineral Int   Operator / Payor                               Net Doi Partner(s)          *                   *              Lease Description / Rights Held
+
+    (cont'd)
+          <Linked> Royalty Type                          Product Type     Sliding Scale Convertible    % of Prod/Sales
+          C00340 AV GROSS OVERRIDING ROYALTY             ALL                    N           N      78.78500000 % of SALES
+                      Roy Percent:   2.50000000
+                      Deduction:     STANDARD
+ M00380          A    Gas: Royalty:                                        Min Pay:                       Prod/Sales:
+                      S/S OIL: Min:                      Max:                  Div:                       Prod/Sales:
+                      Other Percent:                                           Min:                       Prod/Sales:
+
+                          Paid to: GORPD      (C)                          Paid by: GORBY       (C)
+                          OBSIDIAN ENERGY           100.00000000           CLEO ENERGY           100.00000000
+
+                           ROYALTY -
+                              ROYALTY ONLY PAYABLE ON % ACQUIRED FROM PENN WEST
+                           ROYALTY DEDUCTIONS -
+                              ALTERNATE 1 OF THE 1997 CAPL OVERRIDING ROYALTY PROCEDURE
+                              DEDUCTIONS MUST NOT EXCEED THOSE PERMITTED BY CROWN
+                           ELECTIONS_NOTICES -
+                              SURRENDER NOTICE APPLIES
+                              20 DAY NOTICE; 10 DAY RESPONSE
+
+
+
+                                                                Royalty / Encumbrances
+
+                     Royalty Type                        Product Type     Sliding Scale Convertible   % of Prod/Sales
+                     CROWN SLIDING SCALE                 GAS                    Y           N      100.00000000 % of PROD
+                        Roy Percent:
+                        Deduction:     STANDARD
+                        Gas: Royalty:                                      Min Pay:                       Prod/Sales:
+                        S/S OIL: Min:                    Max:                  Div:                       Prod/Sales:
+                        Other Percent:                                         Min:                       Prod/Sales:
+
+                          Paid to:   LESSOR   (M)                          Paid by:   PPOOL1    (C)
+
+
+
+
+CS LAND Version: 24.2.0
+Report Date: Apr 26, 2025                                                CLEO ENERGY CORP.
+Page Number: 24                                                          Mineral Property Report
+              **REPORTED IN HECTARES**
+
+
+
+File Number     Lse Type Lessor Type                        Exposure Oper.Cont. ROFR                     DOI Code
+File Status     Int Type / Lse No/Name                         Gross
+Mineral Int     Operator / Payor                                Net Doi Partner(s)                  *                  *           Lease Description / Rights Held
+
+     (cont'd)
+
+ M00380            A      GOVT OF AB E                 100.00000000             CLEO ENERGY                 100.00000000
+
+
+
+M00382       PNG      CR            Eff: Dec 16, 1969        128.000 C00084 A No                        DELINQUENT                 Area : WAINWRIGHT FIELD
+Sub: A       WI                     Exp: Dec 15, 1979        128.000 CLEO ENERGY                         92.23800000               TWP 42 RGE 12 W4M W 10
+ACTIVE       20193                  Ext: 15                  118.065 TAQA                                 7.76200000               NG IN CAMERON_SANDSTONE
+             CLEO ENERGY                                             SANLING ENERGY
+100.00000000 SEQUOIA REC                                                                                                           ----------------- Related Contracts -----------------
+                                                                        Total Rental:      448.00                                  C00084 A            POOL         Aug 01, 1998
+                                                                                                                                   C00120 A            MEMO         Aug 05, 1954
+                       Status                            Hectares            Net                         Hectares            Net   C00340 AV           ORR           Jul 28, 2016
+                       PRODUCING         Prod:            128.000        118.065        NProd:              0.000          0.000   PS00002 A           P&S          Jun 02, 2016
+                                         Dev:               0.000          0.000        Undev:              0.000          0.000   PS00002 D           P&S          Jun 02, 2016 (I)
+                                         Prov:              0.000          0.000        NProv:              0.000          0.000
+
+
+
+                                                                   Royalty / Encumbrances
+
+           <Linked> Royalty Type                            Product Type      Sliding Scale Convertible    % of Prod/Sales
+           C00340 AV GROSS OVERRIDING ROYALTY               ALL                     N           N      78.78500000 % of SALES
+                       Roy Percent:   2.50000000
+                       Deduction:     STANDARD
+                       Gas: Royalty:                                            Min Pay:                            Prod/Sales:
+                       S/S OIL: Min:                        Max:                    Div:                            Prod/Sales:
+                       Other Percent:                                               Min:                            Prod/Sales:
+
+                          Paid to: GORPD         (C)                            Paid by: GORBY            (C)
+                          OBSIDIAN ENERGY              100.00000000             CLEO ENERGY                100.00000000
+
+                           ROYALTY -
+                             ROYALTY ONLY PAYABLE ON % ACQUIRED FROM PENN WEST
+
+
+
+
+CS LAND Version: 24.2.0
+Report Date: Apr 26, 2025                                          CLEO ENERGY CORP.
+Page Number: 25                                                    Mineral Property Report
+              **REPORTED IN HECTARES**
+
+
+
+File Number     Lse Type Lessor Type                     Exposure Oper.Cont. ROFR                DOI Code
+File Status     Int Type / Lse No/Name                      Gross
+Mineral Int     Operator / Payor                             Net Doi Partner(s)              *                 *            Lease Description / Rights Held
+
+     (cont'd)
+
+ M00382            A       ROYALTY DEDUCTIONS -
+                              ALTERNATE 1 OF THE 1997 CAPL OVERRIDING ROYALTY PROCEDURE
+                              DEDUCTIONS MUST NOT EXCEED THOSE PERMITTED BY CROWN
+                           ELECTIONS_NOTICES -
+                              SURRENDER NOTICE APPLIES
+                              20 DAY NOTICE; 10 DAY RESPONSE
+
+                       Royalty Type                      Product Type    Sliding Scale Convertible   % of Prod/Sales
+                       CROWN SLIDING SCALE               ALL                   Y           N      100.00000000 % of PROD
+                          Roy Percent:
+                          Deduction:     STANDARD
+                          Gas: Royalty:                                    Min Pay:                         Prod/Sales:
+                          S/S OIL: Min:                  Max:                  Div:                         Prod/Sales:
+                          Other Percent:                                       Min:                         Prod/Sales:
+
+                          Paid to: LESSOR    (M)                           Paid by: DELINQUENT
+                                                                                            (C)
+                          GOVT OF AB E             100.00000000            CLEO ENERGY         92.23800000
+                                                                           TAQA                 7.76200000
+                                                                           SANLING ENERGY
+
+
+
+M00382       PNG      CR            Eff: Dec 16, 1969     128.000 C00120 A No                             WI                Area : WAINWRIGHT FIELD
+Sub: B       WI                     Exp: Dec 15, 1979     128.000 CLEO ENERGY                    57.57000000                TWP 42 RGE 12 W4M W 10
+ACTIVE       20193                  Ext: 15                73.690 TAQA                           13.26000000                PNG TO BASE LOWER_MANNVILLE
+             CLEO ENERGY                                          SANLING ENERGY                 29.17000000                EXCL NG IN CAMERON_SANDSTONE
+100.00000000 SEQUOIA REC            Count Acreage = No
+                                                                  Total Rental:       0.00                                  ----------------- Related Contracts -----------------
+                                                                                                                            C00120 A            MEMO         Aug 05, 1954
+                       Status                        Hectares             Net                    Hectares             Net   C00340 BH           ORR           Jul 28, 2016
+                       NON PRODUCING Prod:              0.000           0.000     NProd:          128.000          73.690   PS00002 A           P&S          Jun 02, 2016
+                                     Dev:               0.000           0.000     Undev:            0.000           0.000   PS00002 D           P&S          Jun 02, 2016 (I)
+
+
+
+
+CS LAND Version: 24.2.0
+Report Date: Apr 26, 2025                                               CLEO ENERGY CORP.
+Page Number: 26                                                         Mineral Property Report
+              **REPORTED IN HECTARES**
+
+
+
+File Number     Lse Type Lessor Type                        Exposure Oper.Cont. ROFR             DOI Code
+File Status     Int Type / Lse No/Name                         Gross
+Mineral Int     Operator / Payor                                Net Doi Partner(s)           *                 *               Lease Description / Rights Held
+
+     (cont'd)
+
+M00382
+Sub: B                                   Prov:              0.000          0.000    NProv:          0.000          0.000
+
+
+
+                                                                   Royalty / Encumbrances
+
+           <Linked> Royalty Type                            Product Type     Sliding Scale Convertible    % of Prod/Sales
+           C00340 BH GROSS OVERRIDING ROYALTY               ALL                    N           N      57.57000000 % of SALES
+                       Roy Percent:   2.50000000
+                       Deduction:     STANDARD
+                       Gas: Royalty:                                          Min Pay:                      Prod/Sales:
+                       S/S OIL: Min:                        Max:                  Div:                      Prod/Sales:
+                       Other Percent:                                             Min:                      Prod/Sales:
+
+                          Paid to: GORPD         (C)                          Paid by: GORBY      (C)
+                          OBSIDIAN ENERGY              100.00000000           CLEO ENERGY          100.00000000
+
+                           ROYALTY -
+                              ROYALTY ONLY PAYABLE ON % ACQUIRED FROM PENN WEST
+                           ROYALTY DEDUCTIONS -
+                              ALTERNATE 1 OF THE 1997 CAPL OVERRIDING ROYALTY PROCEDURE
+                              DEDUCTIONS MUST NOT EXCEED THOSE PERMITTED BY CROWN
+                           ELECTIONS_NOTICES -
+                              SURRENDER NOTICE APPLIES
+                              20 DAY NOTICE; 10 DAY RESPONSE
+
+                       Royalty Type                         Product Type     Sliding Scale Convertible   % of Prod/Sales
+                       CROWN SLIDING SCALE                  ALL                    Y           N      100.00000000 % of PROD
+                          Roy Percent:
+                          Deduction:    STANDARD
+                          Gas: Royalty:                                       Min Pay:                      Prod/Sales:
+                          S/S OIL: Min:
+
+
+
+CS LAND Version: 24.2.0
+Report Date: Apr 26, 2025                                            CLEO ENERGY CORP.
+Page Number: 27                                                      Mineral Property Report
+              **REPORTED IN HECTARES**
+
+
+
+File Number     Lse Type Lessor Type                     Exposure Oper.Cont. ROFR               DOI Code
+File Status     Int Type / Lse No/Name                      Gross
+Mineral Int     Operator / Payor                             Net Doi Partner(s)            *                  *              Lease Description / Rights Held
+
+     (cont'd)
+                                                         Max:                   Div:                       Prod/Sales:
+                           Other Percent:                                       Min:                       Prod/Sales:
+
+                          Paid to: LESSOR     (M)                          Paid by: WI           (C)
+                          GOVT OF AB E              100.00000000           CLEO ENERGY             57.57000000
+                                                                           TAQA                    13.26000000
+                                                                           SANLING ENERGY          29.17000000
+
+
+
+M00496       PNG       CR            Eff: May 04, 2000    256.000                                        WI                  Area : WAINWRIGHT FIELD
+Sub: A       WI                      Exp: May 03, 2005    256.000 CLEO ENERGY                  100.00000000                  TWP 42 RGE 12 W4M SEC 11
+ACTIVE       0400050124              Ext: 15              256.000                                                            PNG TO BASE VIKING
+             CLEO ENERGY                                          Total Rental: 896.00
+100.00000000 CLEO ENERGY                                                                                                     ----------------- Related Contracts -----------------
+                                                                                                                             C00340 A            ORR           Jul 28, 2016
+                       Status                         Hectares            Net                   Hectares              Net    PS00002 A           P&S          Jun 02, 2016
+                       NON PRODUCING Prod:               0.000          0.000     NProd:         256.000          256.000    PS00002 D           P&S          Jun 02, 2016 (I)
+                                     Dev:                0.000          0.000     Undev:           0.000            0.000
+                                     Prov:               0.000          0.000     NProv:           0.000            0.000
+
+
+
+                                                                Royalty / Encumbrances
+
+           <Linked> Royalty Type                         Product Type     Sliding Scale Convertible   % of Prod/Sales
+           C00340 A GROSS OVERRIDING ROYALTY             ALL                    N           N      100.00000000 % of SALES
+                       Roy Percent:   2.50000000
+                       Deduction:     STANDARD
+                       Gas: Royalty:                                       Min Pay:                        Prod/Sales:
+                       S/S OIL: Min:                     Max:                  Div:                        Prod/Sales:
+                       Other Percent:                                          Min:                        Prod/Sales:
+
+                          Paid to:   GORPD    (C)                          Paid by:    GORBY     (C)
+
+
+
+
+CS LAND Version: 24.2.0
+Report Date: Apr 26, 2025                                         CLEO ENERGY CORP.
+Page Number: 28                                                   Mineral Property Report
+              **REPORTED IN HECTARES**
+
+
+
+File Number     Lse Type Lessor Type                    Exposure Oper.Cont. ROFR              DOI Code
+File Status     Int Type / Lse No/Name                     Gross
+Mineral Int     Operator / Payor                            Net Doi Partner(s)           *                  *             Lease Description / Rights Held
+
+     (cont'd)
+
+ M00496            A      OBSIDIAN ENERGY          100.00000000           CLEO ENERGY            100.00000000
+
+                           ROYALTY -
+                              ROYALTY ONLY PAYABLE ON % ACQUIRED FROM PENN WEST
+                           ROYALTY DEDUCTIONS -
+                              ALTERNATE 1 OF THE 1997 CAPL OVERRIDING ROYALTY PROCEDURE
+                              DEDUCTIONS MUST NOT EXCEED THOSE PERMITTED BY CROWN
+                           ELECTIONS_NOTICES -
+                              SURRENDER NOTICE APPLIES
+                              20 DAY NOTICE; 10 DAY RESPONSE
+
+                       Royalty Type                     Product Type    Sliding Scale Convertible   % of Prod/Sales
+                       CROWN SLIDING SCALE              ALL                   Y           N      100.00000000 % of
+                          Roy Percent:
+                          Deduction:     STANDARD
+                          Gas: Royalty:                                   Min Pay:                       Prod/Sales:
+                          S/S OIL: Min:                 Max:                  Div:                       Prod/Sales:
+                          Other Percent:                                      Min:                       Prod/Sales:
+
+                          Paid to: LESSOR    (M)                          Paid by: WI          (M)
+                          GOVT OF AB E             100.00000000           CLEO ENERGY           100.00000000
+
+
+
+M00554       PNG       CR           Eff: May 04, 2000    256.000                                       WI                 Area : WAINWRIGHT FIELD
+Sub: A       WI                     Exp: May 03, 2005    256.000 CLEO ENERGY                 100.00000000                 TWP 42 RGE 12 W4M SEC 14
+ACTIVE       0400050126             Ext: 15              256.000                                                          PNG TO BASE VIKING
+             CLEO ENERGY                                         Total Rental: 896.00
+100.00000000 CLEO ENERGY                                                                                                  ----------------- Related Contracts -----------------
+                                                                                                                          C00340 A            ORR           Jul 28, 2016
+                       Status                        Hectares            Net                  Hectares              Net   PS00002 A           P&S          Jun 02, 2016
+                       NON PRODUCING Prod:              0.000          0.000    NProd:         256.000          256.000   PS00002 D           P&S          Jun 02, 2016 (I)
+
+
+
+
+CS LAND Version: 24.2.0
+Report Date: Apr 26, 2025                                               CLEO ENERGY CORP.
+Page Number: 29                                                         Mineral Property Report
+              **REPORTED IN HECTARES**
+
+
+
+File Number     Lse Type Lessor Type                        Exposure Oper.Cont. ROFR             DOI Code
+File Status     Int Type / Lse No/Name                         Gross
+Mineral Int     Operator / Payor                                Net Doi Partner(s)           *                 *                Lease Description / Rights Held
+
+     (cont'd)
+
+M00554
+Sub: A                                   Dev:               0.000          0.000    Undev:          0.000          0.000
+                                         Prov:              0.000          0.000    NProv:          0.000          0.000
+
+
+
+                                                                   Royalty / Encumbrances
+
+           <Linked> Royalty Type                            Product Type     Sliding Scale Convertible   % of Prod/Sales
+           C00340 A GROSS OVERRIDING ROYALTY                ALL                    N           N      100.00000000 % of SALES
+                       Roy Percent:   2.50000000
+                       Deduction:     STANDARD
+                       Gas: Royalty:                                          Min Pay:                      Prod/Sales:
+                       S/S OIL: Min:                        Max:                  Div:                      Prod/Sales:
+                       Other Percent:                                             Min:                      Prod/Sales:
+
+                          Paid to: GORPD         (C)                          Paid by: GORBY      (C)
+                          OBSIDIAN ENERGY              100.00000000           CLEO ENERGY          100.00000000
+
+                           ROYALTY -
+                              ROYALTY ONLY PAYABLE ON % ACQUIRED FROM PENN WEST
+                           ROYALTY DEDUCTIONS -
+                              ALTERNATE 1 OF THE 1997 CAPL OVERRIDING ROYALTY PROCEDURE
+                              DEDUCTIONS MUST NOT EXCEED THOSE PERMITTED BY CROWN
+                           ELECTIONS_NOTICES -
+                              SURRENDER NOTICE APPLIES
+                              20 DAY NOTICE; 10 DAY RESPONSE
+
+                       Royalty Type                         Product Type     Sliding Scale Convertible   % of Prod/Sales
+                       CROWN SLIDING SCALE                  ALL                    Y           N      100.00000000 % of PROD
+                          Roy Percent:
+                          Deduction:   STANDARD
+
+
+
+
+CS LAND Version: 24.2.0
+Report Date: Apr 26, 2025                                            CLEO ENERGY CORP.
+Page Number: 30                                                      Mineral Property Report
+              **REPORTED IN HECTARES**
+
+
+
+File Number    Lse Type Lessor Type                     Exposure Oper.Cont. ROFR                     DOI Code
+File Status    Int Type / Lse No/Name                      Gross
+Mineral Int    Operator / Payor                             Net Doi Partner(s)                  *                  *             Lease Description / Rights Held
+
+    (cont'd)
+ M00554           A        Gas: Royalty:                                    Min Pay:                            Prod/Sales:
+                           S/S OIL: Min:                Max:                    Div:                            Prod/Sales:
+                           Other Percent:                                       Min:                            Prod/Sales:
+
+                          Paid to: LESSOR    (M)                            Paid by: WI               (M)
+                          GOVT OF AB E             100.00000000             CLEO ENERGY                100.00000000
+
+                           GEN -
+                             CROWN SLIDING SCALE
+
+
+
+M00380       NG      CR             Eff: Mar 06, 1957    128.000 C00121 A No                                BPP                  Area : WAINWRIGHT FIELD
+Sub: B       WI                     Exp: Mar 05, 1978    128.000 CLEO ENERGY                        100.00000000                 TWP 42 RGE 12 W4M N 16
+ACTIVE       307                    Ext: 15              128.000 SEQUOIA REC                                                     NG IN CAMERON_SANDSTONE
+             CLEO ENERGY                                         TAQA
+100.00000000 CLEO ENERGY                                                                                                         ----------------- Related Contracts -----------------
+                                                                    Total Rental:      448.00                                    C00121 A            POOL          Jul 02, 1956
+                                                                                                                                 C00340 AT           ORR           Jul 28, 2016
+                      Status                         Hectares             Net                        Hectares              Net   PS00002 A           P&S          Jun 02, 2016
+                      NON PRODUCING Prod:               0.000           0.000       NProd:            128.000          128.000   PS00002 D           P&S          Jun 02, 2016 (I)
+                                    Dev:                0.000           0.000       Undev:              0.000            0.000
+                                    Prov:               0.000           0.000       NProv:              0.000            0.000
+
+
+
+                                                               Royalty / Encumbrances
+
+          <Linked> Royalty Type                         Product Type      Sliding Scale Convertible    % of Prod/Sales
+          C00340 AT GROSS OVERRIDING ROYALTY            ALL                     N           N      79.45000000 % of SALES
+                      Roy Percent:  2.50000000
+                      Deduction:    STANDARD
+                      Gas: Royalty:                                         Min Pay:                            Prod/Sales:
+                      S/S OIL: Min:                     Max:                    Div:                            Prod/Sales:
+
+
+
+
+CS LAND Version: 24.2.0
+Report Date: Apr 26, 2025                                           CLEO ENERGY CORP.
+Page Number: 31                                                     Mineral Property Report
+              **REPORTED IN HECTARES**
+
+
+
+File Number     Lse Type Lessor Type                    Exposure Oper.Cont. ROFR             DOI Code
+File Status     Int Type / Lse No/Name                     Gross
+Mineral Int     Operator / Payor                            Net Doi Partner(s)           *                 *               Lease Description / Rights Held
+
+     (cont'd)
+                           Other Percent:                                     Min:                      Prod/Sales:
+
+                          Paid to: GORPD     (C)                          Paid by: GORBY      (C)
+                          OBSIDIAN ENERGY          100.00000000           CLEO ENERGY          100.00000000
+
+                           ROYALTY -
+                              ROYALTY ONLY PAYABLE ON % ACQUIRED FROM PENN WEST
+                           ROYALTY DEDUCTIONS -
+                              ALTERNATE 1 OF THE 1997 CAPL OVERRIDING ROYALTY PROCEDURE
+                              DEDUCTIONS MUST NOT EXCEED THOSE PERMITTED BY CROWN
+                           ELECTIONS_NOTICES -
+                              SURRENDER NOTICE APPLIES
+                              20 DAY NOTICE; 10 DAY RESPONSE
+
+ M00380            B
+                                                               Royalty / Encumbrances
+
+                       Royalty Type                     Product Type     Sliding Scale Convertible   % of Prod/Sales
+                       CROWN SLIDING SCALE              GAS                    Y           N      100.00000000 % of PROD
+                          Roy Percent:
+                          Deduction:     STANDARD
+                          Gas: Royalty:                                   Min Pay:                      Prod/Sales:
+                          S/S OIL: Min:                 Max:                  Div:                      Prod/Sales:
+                          Other Percent:                                      Min:                      Prod/Sales:
+
+                          Paid to: LESSOR    (M)                          Paid by: BPP        (C)
+                          GOVT OF AB E             100.00000000           CLEO ENERGY          100.00000000
+                                                                          SEQUOIA REC
+                                                                          TAQA
+
+
+
+M00383          PNG        CR       Eff: Dec 16, 1969    128.000 C00121     A No                   BPP                APP Area : WAINWRIGHT FIELD
+
+
+
+
+CS LAND Version: 24.2.0
+Report Date: Apr 26, 2025                                                CLEO ENERGY CORP.
+Page Number: 32                                                          Mineral Property Report
+              **REPORTED IN HECTARES**
+
+
+
+File Number     Lse Type Lessor Type                        Exposure Oper.Cont. ROFR                   DOI Code
+File Status     Int Type / Lse No/Name                         Gross
+Mineral Int     Operator / Payor                                Net Doi Partner(s)                *                  *                   Lease Description / Rights Held
+
+     (cont'd)
+
+M00383
+Sub: A       WI                     Exp: Dec 15, 1979        128.000 CLEO ENERGY                      100.00000000        79.45000000 TWP 42 RGE 12 W4M S 16
+ACTIVE       20194                  Ext: 15                  128.000 SEQUOIA REC                                          14.13000000 NG IN CAMERON_SANDSTONE
+             CLEO ENERGY                                             TAQA                                                  6.42000000
+100.00000000 SEQUOIA REC                                                                                                              ----------------- Related Contracts -----------------
+                                                                        Total Rental:      0.00                                       C00120 B            MEMO         Aug 05, 1954
+                                                                                                                                      C00121 A            POOL          Jul 02, 1956
+                       Status                            Hectares            Net                       Hectares            Net        C00340 AT           ORR           Jul 28, 2016
+                       PRODUCING         Prod:            128.000        128.000        NProd:            0.000          0.000        PS00002 A           P&S          Jun 02, 2016
+                                         Dev:               0.000          0.000        Undev:            0.000          0.000        PS00002 D           P&S          Jun 02, 2016 (I)
+                                         Prov:              0.000          0.000        NProv:            0.000          0.000
+
+
+
+                                                                   Royalty / Encumbrances
+
+           <Linked> Royalty Type                            Product Type      Sliding Scale Convertible    % of Prod/Sales
+           C00340 AT GROSS OVERRIDING ROYALTY               ALL                     N           N      79.45000000 % of SALES
+                       Roy Percent:   2.50000000
+                       Deduction:     STANDARD
+                       Gas: Royalty:                                            Min Pay:                          Prod/Sales:
+                       S/S OIL: Min:                        Max:                    Div:                          Prod/Sales:
+                       Other Percent:                                               Min:                          Prod/Sales:
+
+                          Paid to: GORPD         (C)                            Paid by: GORBY          (C)
+                          OBSIDIAN ENERGY              100.00000000             CLEO ENERGY              100.00000000
+
+                           ROYALTY -
+                             ROYALTY ONLY PAYABLE ON % ACQUIRED FROM PENN WEST
+                           ROYALTY DEDUCTIONS -
+                             ALTERNATE 1 OF THE 1997 CAPL OVERRIDING ROYALTY PROCEDURE
+                             DEDUCTIONS MUST NOT EXCEED THOSE PERMITTED BY CROWN
+
+
+
+
+CS LAND Version: 24.2.0
+Report Date: Apr 26, 2025                                             CLEO ENERGY CORP.
+Page Number: 33                                                       Mineral Property Report
+              **REPORTED IN HECTARES**
+
+
+
+File Number     Lse Type Lessor Type                     Exposure Oper.Cont. ROFR                    DOI Code
+File Status     Int Type / Lse No/Name                      Gross
+Mineral Int     Operator / Payor                             Net Doi Partner(s)                  *                 *            Lease Description / Rights Held
+
+     (cont'd)
+
+ M00383            A       ELECTIONS_NOTICES -
+                              SURRENDER NOTICE APPLIES
+                              20 DAY NOTICE; 10 DAY RESPONSE
+
+                       Royalty Type                      Product Type      Sliding Scale Convertible   % of Prod/Sales
+                       CROWN SLIDING SCALE               ALL                     Y           N      100.00000000 % of PROD
+                          Roy Percent:
+                          Deduction:     STANDARD
+                          Gas: Royalty:                                      Min Pay:                           Prod/Sales:
+                          S/S OIL: Min:                  Max:                    Div:                           Prod/Sales:
+                          Other Percent:                                         Min:                           Prod/Sales:
+
+                          Paid to: LESSOR    (M)                             Paid by: BPP             (C)
+                          GOVT OF AB E             100.00000000              CLEO ENERGY               100.00000000
+                                                                             SEQUOIA REC
+                                                                             TAQA
+
+
+
+M00383       PNG      CR            Eff: Dec 16, 1969     128.000 C00120 B No                                 WI                Area : WAINWRIGHT FIELD
+Sub: B       WI                     Exp: Dec 15, 1979     128.000 CLEO ENERGY                        57.57000000                TWP 42 RGE 12 W4M S 16
+ACTIVE       20194                  Ext: 15                73.690 SEQUOIA REC                        29.17000000                ALL PNG TO BASE LOWER_MANNVILLE
+             CLEO ENERGY                                          TAQA                               13.26000000                EXCL NG IN CAMERON_SANDSTONE
+100.00000000 SEQUOIA REC            Count Acreage = No
+                                                                     Total Rental:      448.00                                  ----------------- Related Contracts -----------------
+                                                                                                                                C00120 B            MEMO         Aug 05, 1954
+                       Status                        Hectares              Net                       Hectares             Net   C00340 BH           ORR           Jul 28, 2016
+                       NON PRODUCING Prod:              0.000            0.000       NProd:           128.000          73.690   PS00002 A           P&S          Jun 02, 2016
+                                     Dev:               0.000            0.000       Undev:             0.000           0.000   PS00002 D           P&S          Jun 02, 2016 (I)
+                                     Prov:              0.000            0.000       NProv:             0.000           0.000
+
+
+
+                                                                Royalty / Encumbrances
+
+
+
+CS LAND Version: 24.2.0
+Report Date: Apr 26, 2025                                            CLEO ENERGY CORP.
+Page Number: 34                                                      Mineral Property Report
+              **REPORTED IN HECTARES**
+
+
+
+File Number   Lse Type Lessor Type                       Exposure Oper.Cont. ROFR              DOI Code
+File Status   Int Type / Lse No/Name                        Gross
+Mineral Int   Operator / Payor                               Net Doi Partner(s)            *                 *              Lease Description / Rights Held
+
+    (cont'd)
+          <Linked> Royalty Type                          Product Type     Sliding Scale Convertible    % of Prod/Sales
+          C00340 BH GROSS OVERRIDING ROYALTY             ALL                    N           N      57.57000000 % of SALES
+                      Roy Percent:   2.50000000
+                      Deduction:     STANDARD
+ M00383          B    Gas: Royalty:                                        Min Pay:                       Prod/Sales:
+                      S/S OIL: Min:                      Max:                  Div:                       Prod/Sales:
+                      Other Percent:                                           Min:                       Prod/Sales:
+
+                          Paid to: GORPD      (C)                          Paid by: GORBY       (C)
+                          OBSIDIAN ENERGY           100.00000000           CLEO ENERGY           100.00000000
+
+                           ROYALTY -
+                              ROYALTY ONLY PAYABLE ON % ACQUIRED FROM PENN WEST
+                           ROYALTY DEDUCTIONS -
+                              ALTERNATE 1 OF THE 1997 CAPL OVERRIDING ROYALTY PROCEDURE
+                              DEDUCTIONS MUST NOT EXCEED THOSE PERMITTED BY CROWN
+                           ELECTIONS_NOTICES -
+                              SURRENDER NOTICE APPLIES
+                              20 DAY NOTICE; 10 DAY RESPONSE
+
+
+
+                                                                Royalty / Encumbrances
+
+                     Royalty Type                        Product Type     Sliding Scale Convertible   % of Prod/Sales
+                     CROWN SLIDING SCALE                 ALL                    Y           N      100.00000000 % of PROD
+                        Roy Percent:
+                        Deduction:     STANDARD
+                        Gas: Royalty:                                      Min Pay:                       Prod/Sales:
+                        S/S OIL: Min:                    Max:                  Div:                       Prod/Sales:
+                        Other Percent:                                         Min:                       Prod/Sales:
+
+                          Paid to:   LESSOR   (M)                          Paid by:   WI        (C)
+
+
+
+
+CS LAND Version: 24.2.0
+Report Date: Apr 26, 2025                               CLEO ENERGY CORP.
+Page Number: 35                                         Mineral Property Report
+              **REPORTED IN HECTARES**
+
+
+
+File Number     Lse Type Lessor Type          Exposure Oper.Cont. ROFR         DOI Code
+File Status     Int Type / Lse No/Name           Gross
+Mineral Int     Operator / Payor                  Net Doi Partner(s)       *               *    Lease Description / Rights Held
+
+     (cont'd)
+
+ M00383            B      GOVT OF AB E   100.00000000        CLEO ENERGY          57.57000000
+                                                             SEQUOIA REC          29.17000000
+                                                             TAQA                 13.26000000
+
+
+
+
+CS LAND Version: 24.2.0
+Report Date: Apr 26, 2025                                    CLEO ENERGY CORP.
+Page Number: 36                                              Mineral Property Report
+              **REPORTED IN HECTARES**
+
+
+
+File Number     Lse Type Lessor Type               Exposure Oper.Cont. ROFR                DOI Code
+File Status     Int Type / Lse No/Name                Gross
+Mineral Int     Operator / Payor                       Net Doi Partner(s)            *                 *            Lease Description / Rights Held
+
+
+
+Report Total:               Total Gross:   1,746.200     Total Net:            1,508.730
+                            Prod Gross:      736.700     Prod Net:               509.165       NProd Gross:    880.000       NProd Net:           870.065
+                            Dev Gross:       129.500     Dev Net:                129.500       Undev Gross :     0.000       Undev Net :            0.000
+                            Prov Gross:        0.000     Prov Net:                 0.000       NProv Gross:      0.000       NProv Net:             0.000
+
+
+
+
+                                                         ** End of Report **
+
+
+
+
+CS LAND Version: 24.2.0
+                                        - 12 -
+                                        Wells
+
+    License #           UWI                         Status        CLEO WI%
+
+    0243079     100/13-34-041-12W4/00                 Oil           100%
+
+    0008457     100/04-10-042-12W4/00            Abandoned Zn      92.238%
+
+    0009670     100/07-08-042-12W4/04             Abandoned         100%
+
+    0012680     100/11-16-042-12W4/00             Abandoned         100%
+
+    0107836     100/16-04-042-12W4/00            Suspended Oil      100%
+
+    0107836     100/16-04-042-12W4/02            Drilled & Case     100%
+
+    0193441     100/09-04-042-12W4/00                 Oil           100%
+
+    0193445     102/16-04-042-12W4/00            Abandoned Zn       100%
+
+    0193445     102/16-04-042-12W4/02            Abandoned Zn       100%
+
+    0193445     102/16-04-042-12W4/03             Abandoned         100%
+
+    0199445     100/12-03-042-12W4/00                 Oil           100%
+
+    0199561     102/11-03-042-12W4/00             Abandoned         100%
+
+    0199563     100/08-04-042-12W4/00             Abandoned         100%
+
+    0199563     100/08-04-042-12W4/02                 Inj           100%
+
+    0199564     100/05-03-042-12W4/00                 Oil           100%
+
+    0199988     100/04-03-042-12W4/00            Suspended Inj      100%
+
+    0199990     100/06-03-042-12W4/00                 Oil           100%
+
+    0200116     100/01-04-042-12W4/00                 Oil           100%
+
+    0200277     100/02-04-042-12W4/00                 Oil           100%
+
+    0200648     100/13-03-042-12W4/00            Suspended Oil      100%
+
+    0200749     100/14-04-042-12W4/00                 Oil           100%
+
+    0201219     100/07-04-042-12W4/00            Suspended Oil      100%
+
+    0202433     100/11-04-042-12W4/00                 Oil           100%
+
+
+68664370\1
+                                      - 13 -
+
+    0206312   100/13-04-042-12W4/00             Drilled & Case   100%
+
+    0206312   100/13-04-042-12W4/02                  Oil         100%
+
+    0331440   102/02-04-042-12W4/00             Drilled & Case   100%
+
+    0424407   100/15-05-042-12W4/00             Suspended Oil    100%
+
+    0426431   100/08-07-042-12W4/00            NO PNG RIGHTS     100%
+
+    0432529   100/14-05-042-12W4/00             Abandoned Zn     100%
+
+    0432529   100/14-05-042-12W4/02                  Oil         100%
+
+    0458724   102/15-05-042-12W4/00                  Oil         100%
+
+        31
+
+
+
+
+68664370\1
+                                           - 14 -
+                                          Pipelines
+
+ Pipeline    Seg   From Location             To Location            Priority Substance
+ License
+ 29814       3     00/09-04-042-12W4/00      00/09-04-042-12W4/00     Oil-Well Effluent
+ 29814       4     00/04-03-042-12W4/00      00/04-03-042-12W4/00     Oil-Well Effluent
+ 29814       5     00/05-03-042-12W4/00      00/05-03-042-12W4/00     Oil-Well Effluent
+ 29814       6     00/06-03-042-12W4/00      00/05-03-042-12W4/00     Oil-Well Effluent
+ 29814       7     00/11-03-042-12W4/00      00/05-03-042-12W4/00       Discontinued
+ 29814       8     00/12-03-042-12W4/00      00/05-03-042-12W4/00     Oil-Well Effluent
+ 29814       10    00/01-04-042-12W4/00      00/05-03-042-12W4/00     Oil-Well Effluent
+ 29814       11    00/05-03-042-12W4/00      00/05-03-042-12W4/00     Oil-Well Effluent
+ 29814       12    00/05-03-042-12W4/00      00/05-03-042-12W4/00     Oil-Well Effluent
+ 29814       13    00/09-04-042-12W4/00      00/16-04-042-12W4/00     Oil-Well Effluent
+ 29814       14    00/14-04-042-12W4/00      00/16-04-042-12W4/00     Oil-Well Effluent
+ 29814       15    00/11-04-042-12W4/00      00/14-04-042-12W4/00     Oil-Well Effluent
+ 29814       16    00/13-04-042-12W4/00      00/14-04-042-12W4/00     Oil-Well Effluent
+ 29814       17    00/02-04-042-12W4/00      00/01-04-042-12W4/00     Oil-Well Effluent
+ 29814       19    00/13-34-041-12W4/00      00/04-03-042-12W4/00     Oil-Well Effluent
+ 29814       20    00/04-03-042-12W4/00      00/05-03-042-12W4/00     Oil-Well Effluent
+ 29814       21    00/05-03-042-12W4/00      00/09-04-042-12W4/00     Oil-Well Effluent
+ 29814       22    00/09-04-042-12W4/00      00/16-04-042-12W4/00     Oil-Well Effluent
+ 30374       1     00/16-04-042-12W4/00      00/08-04-042-12W4/00        Salt Water
+ 30374       5     00/10-33-041-12W4/00      00/08-04-042-12W4/00       Discontinued
+ 30906       1     00/16-04-042-12W4/00      00/02-33-041-12W4/00        Natural Gas
+ 62775       1     00/09-32-041-12W4/00      00/11-33-041-12W4/00     Oil-Well Effluent
+ 62775       2     00/11-33-041-12W4/00      00/03-33-041-12W4/00     Oil-Well Effluent
+ 62775       3     00/11-33-041-12W4/00      00/03-33-041-12W4/00     Oil-Well Effluent
+ 62775       4     00/15-05-042-12W4/00      00/02-05-042-12W4/00     Oil-Well Effluent
+
+
+
+
+68664370\1
+                              - 15 -
+                            Facilities
+
+      License    Status   Surface Location   Liability Cost ($)
+
+      F27275     Issued   08-04-042-12W4         $442,500
+
+      F28668     Issued   14-04-042-12W4         $88,500
+
+      F40762     Issued   05-03-042-12W4         $88,500
+
+       F8933    Amended   16-04-042-12W4         $221,250
+
+
+
+
+68664370\1
+                                          - 16 -
+
+
+
+                                     SCHEDULE “C”
+                                    ENCUMBRANCES
+
+      Creditor                       Alberta PPR    Type of Registration
+                                     Registration
+                                     Number
+
+      Arundel Capital Corporation    18061928493    Security Agreement
+
+      Arundel Capital Corporation    22092933905    Security Agreement
+
+      Arundel Capital Corporation    22092934052    Security Agreement
+
+      Arundel Capital Corporation    23050907741    Security Agreement
+
+      Savanna Well Servicing Inc.    23041225735    Writ of Enforcement
+
+      1992169 Alberta Ltd.           23062929662    Security Agreement
+
+      Oxygen Working Capital Corp
+
+      Stephen Ballard                23080419988    Security Agreement
+
+      2416924 ALBERTA LTD. O/A       23081025798    Security Agreement
+      STRIDE CAPITAL
+
+      SAVANNA WELL SERVICING INC     23102732847    Writ of Enforcement
+
+      FORT MCKAY-SAVANNA             23112427384    Security Agreement
+      ENERGY SERVICES LIMITED
+      PARTNERSHIP
+
+      MORGANICK BLENDING             24072922827    Writ of Enforcement
+      SERVICES CORP
+
+      STARTEC REFRIGERATION          24082929766    Writ of Enforcement
+      SERVICES LTD
+
+      VERTEX PROFESSIONAL            24103032735    Writ of Enforcement
+      SERVICES LTD
+
+      Marco Simonelli                24120616078    Security Agreement
+
+      MARSHAL RAE HOLDINGS           24120616149    Security Agreement
+
+      MANTL CANADA INC.              24120616201    Security Agreement
+
+      NEWCART CONTRACTING (1993)     25011623746    Writ of Enforcement
+      LTD.
+
+
+
+
+68664370\1
+                                                         - 17 -
+                                                SCHEDULE “D”
+                                          PERMITTED ENCUMBRANCES
+
+(i)      all encumbrances, overriding royalties, net profits interests and other burdens identified in Schedule “A-
+         2”;
+
+(ii)     any Right of First Refusal or any similar restriction applicable to any of the Assets;
+
+(iii)    the terms and conditions of the Title Documents, including, without limitation, the requirement to pay any
+         rentals or royalties to the grantor thereof to maintain the Title Documents in good standing and any royalty
+         or other burden reserved to the grantor thereof or any gross royalty trusts applicable to the grantor’s interest
+         in any of the Title Documents;
+
+(iv)     the right reserved to or vested in any grantor, Governmental Authority or other public authority by the
+         terms of any Title Document or by Applicable Law to terminate any Title Document;
+
+(v)      easements, right of way, servitudes or other similar rights in land, including, without in any way limiting
+         the generality of the foregoing, rights of way and servitudes for highways, railways, sewers, drains, gas
+         and oil pipelines, gas and water mains, electric light, power, telephone or cable television conduits, poles,
+         wires or cables;
+
+(vi)     taxes on Petroleum Substances or the income or revenue therefrom, unless specifically excluded and
+         governmental restrictions on production rates from the Wells or on operations being conducted on the
+         Lands or otherwise affecting the value of any of the Assets;
+
+(vii)    agreements for the sale, processing, transmission or transportation of Petroleum Substances, which are
+         terminable on not more than thirty (30) days’ notice (without an early termination penalty or other cost);
+
+(viii)   any obligation of Vendor to hold any portion of its interest in and to any of the Assets in trust for Third
+         Parties;
+
+(ix)     the right reserved to or vested in any municipality, Governmental Authority or other public authority to
+         control or regulate any of the Assets in any manner, including any directives or notices received from any
+         municipality, Governmental Authority or other public authority pertaining to the Assets;
+
+(x)      liens incurred or created as security in favour of any Person with respect to the development or operation
+         of any of the Assets, as regards Vendor’s share of the costs and expenses thereof which are not due or
+         delinquent as of the date hereof or, if then due or delinquent are being contested in good faith by Vendor;
+
+(xi)     the reservations, limitations, provisos and conditions in any grants or transfers from the Crown of any of
+         the Lands or interests therein, and statutory exceptions to title;
+
+(xii)    agreements and plans relating to pooling or unitization of any of the Petroleum and Natural Gas Rights;
+
+(xiii)   agreements respecting the operation of Wells by contract field operators;
+
+(xiv)    provisions for penalties and forfeitures under agreements as a consequence of non-participation in
+         operations;
+
+(xv)     liens granted in the ordinary course of business to a public utility, municipality or Governmental Authority
+         with respect to operations pertaining to any of the Assets; and
+
+(xvi)    all overriding royalties or similar interests in the Lands which are not capable of being vested out by the
+         Approval Order under Applicable Law,
+
+68664370\1
+                                                    - 18 -
+(with capitalized terms having the meanings given to them in the Sale Agreement).
+
+
+
+
+68664370\1
+
